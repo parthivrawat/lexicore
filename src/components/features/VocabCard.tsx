@@ -1,12 +1,15 @@
 import Link from 'next/link';
 import { VocabWord } from '@/types';
 import { formatCategory, formatPronunciation } from '@/utils/format';
+import { useLanguage } from '@/contexts/LanguageContext';
 
 interface VocabCardProps {
   word: VocabWord;
 }
 
 export function VocabCard({ word }: VocabCardProps) {
+  const { language } = useLanguage();
+  
   return (
     <Link
       href={`/vocabulary/${encodeURIComponent(word.id)}`}
@@ -27,7 +30,7 @@ export function VocabCard({ word }: VocabCardProps) {
           
           <div className="mt-3 flex items-center gap-4 text-xs text-gray-500">
             <span className="inline-flex items-center rounded-full bg-gray-100 px-2.5 py-0.5 font-medium text-gray-800">
-              {formatCategory(word.category)}
+              {formatCategory(word.category, language)}
             </span>
             <span>{word.examples.length} examples</span>
           </div>

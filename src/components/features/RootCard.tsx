@@ -1,12 +1,15 @@
 import Link from 'next/link';
 import { WordRoot } from '@/types';
 import { formatRootType } from '@/utils/format';
+import { useLanguage } from '@/contexts/LanguageContext';
 
 interface RootCardProps {
   root: WordRoot;
 }
 
 export function RootCard({ root }: RootCardProps) {
+  const { language } = useLanguage();
+  
   return (
     <Link
       href={`/roots/${encodeURIComponent(root.id)}`}
@@ -17,7 +20,7 @@ export function RootCard({ root }: RootCardProps) {
           <div className="flex items-center gap-3">
             <h3 className="text-lg font-semibold text-gray-900">{root.root}</h3>
             <span className="inline-flex items-center rounded-full bg-gray-100 px-2.5 py-0.5 text-xs font-medium text-gray-800">
-              {formatRootType(root.type)}
+              {formatRootType(root.type, language)}
             </span>
           </div>
           

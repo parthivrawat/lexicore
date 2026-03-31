@@ -1,9 +1,10 @@
 import type { Metadata } from 'next';
 import './globals.css';
+import { LanguageProvider } from '@/contexts/LanguageContext';
 
 export const metadata: Metadata = {
-  title: 'Word Roots (English MVP)',
-  description: 'English-only MVP for word roots and core vocabulary',
+  title: 'Word Roots & Core Vocabulary',
+  description: 'Multilingual platform for word roots and core vocabulary',
 };
 
 export default function RootLayout({
@@ -13,7 +14,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body suppressHydrationWarning>{children}</body>
+      <body suppressHydrationWarning>
+        <LanguageProvider>
+          {children}
+        </LanguageProvider>
+      </body>
     </html>
   );
 }

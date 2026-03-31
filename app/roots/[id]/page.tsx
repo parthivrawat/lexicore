@@ -1,19 +1,52 @@
+'use client';
+
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { rootsEn } from '@/data/roots/english';
 import { AppShell } from '@/components/shared/AppShell';
 import { Button } from '@/components/ui/Button';
 import { formatRootType } from '@/utils/format';
-import { findRelatedRoots } from '@/utils/data';
+import { findRelatedRoots, getRootsData } from '@/utils/data';
 import { ROUTES } from '@/constants';
 import { RootExample } from '@/types';
+import { useLanguage } from '@/contexts/LanguageContext';
+import { useEffect, useState } from 'react';
 
-export default async function RootDetailPage({ params }: { params: Promise<{ id: string }> }) {
-  const { id } = await params;
-  const root = rootsEn.find((r) => r.id === id);
-  if (!root) notFound();
+export default function RootDetailPage({ params }: { params: Promise<{ id: string }> }) {
+  const { language } = useLanguage();
+  const [root, setRoot] = useState<any>(null);
+  const [relatedRoots, setRelatedRoots] = useState<any[]>([]);
+  const [loading, setLoading] = useState(true);
 
-  const relatedRoots = findRelatedRoots(root, rootsEn);
+  useEffect(() => {
+    const loadRoot = async () => {
+      const { id } = await params;
+      const rootsData = getRootsData(language);
+      const foundRoot = rootsData.find((r) => r.id === id);
+      
+      if (!foundRoot) {
+        notFound();
+        return;
+      }
+
+      setRoot(foundRoot);
+      setRelatedRoots(findRelatedRoots(foundRoot, rootsData));
+      setLoading(false);
+    };
+
+    loadRoot();
+  }, [params, language]);
+
+  if (loading) {
+    return (
+      <AppShell>
+        <div className="flex items-center justify-center min-h-64">
+          <div>Loading...</div>
+        </div>
+      </AppShell>
+    );
+  }
+
+  if (!root) return null;
 
   return (
     <AppShell>
@@ -29,7 +62,7 @@ export default async function RootDetailPage({ params }: { params: Promise<{ id:
         <div className="rounded-xl border border-gray-200 bg-white p-8 shadow-sm">
           <div className="flex items-center gap-3">
             <span className="inline-flex items-center rounded-full bg-blue-100 px-3 py-1 text-sm font-medium text-blue-800">
-              {formatRootType(root.type)}
+              {formatRootType(root.type, language)}
             </span>
             <span className="text-sm text-gray-500">
               Origin: {root.languageOrigin}
@@ -83,7 +116,7 @@ export default async function RootDetailPage({ params }: { params: Promise<{ id:
                 >
                   <div className="flex items-center gap-2">
                     <span className="inline-flex items-center rounded-full bg-gray-100 px-2 py-1 text-xs font-medium text-gray-800">
-                      {formatRootType(relatedRoot.type)}
+                      {formatRootType(relatedRoot.type, language)}
                     </span>
                   </div>
                   <h3 className="mt-3 text-lg font-semibold text-gray-900">{relatedRoot.root}</h3>
@@ -96,8 +129,4 @@ export default async function RootDetailPage({ params }: { params: Promise<{ id:
       </div>
     </AppShell>
   );
-}
-
-export function generateStaticParams() {
-  return rootsEn.map((r) => ({ id: r.id }));
 }

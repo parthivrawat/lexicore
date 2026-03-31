@@ -1,12 +1,20 @@
 import { CATEGORIES, ROOT_TYPES } from '@/constants';
 import { SearchItem } from '@/types';
 
-export function formatCategory(category: string): string {
-  return CATEGORIES[category as keyof typeof CATEGORIES] || category;
+export function formatCategory(category: string, language: 'en' | 'fr' = 'en'): string {
+  const categoryData = CATEGORIES[category as keyof typeof CATEGORIES];
+  if (typeof categoryData === 'string') {
+    return categoryData;
+  }
+  return categoryData?.[language] || category;
 }
 
-export function formatRootType(type: string): string {
-  return ROOT_TYPES[type as keyof typeof ROOT_TYPES] || type;
+export function formatRootType(type: string, language: 'en' | 'fr' = 'en'): string {
+  const typeData = ROOT_TYPES[type as keyof typeof ROOT_TYPES];
+  if (typeof typeData === 'string') {
+    return typeData;
+  }
+  return typeData?.[language] || type;
 }
 
 export function formatCategorySlug(category: string): string {

@@ -1,7 +1,8 @@
 export const APP_CONFIG = {
   name: 'Word Roots & Core Vocabulary',
-  description: 'English-only MVP for word roots and core vocabulary',
+  description: 'Multilingual platform for word roots and core vocabulary',
   version: '1.0.0',
+  supportedLanguages: ['en', 'fr'],
 } as const;
 
 export const PAGINATION = {
@@ -14,16 +15,37 @@ export const SEARCH = {
 } as const;
 
 export const CATEGORIES = {
-  greetings: 'Greetings',
-  numbers: 'Numbers',
-  verbs: 'Verbs',
-  'daily-use-nouns': 'Daily Use Nouns',
+  greetings: {
+    en: 'Greetings',
+    fr: 'Salutations',
+  },
+  numbers: {
+    en: 'Numbers',
+    fr: 'Nombres',
+  },
+  verbs: {
+    en: 'Verbs',
+    fr: 'Verbes',
+  },
+  'daily-use-nouns': {
+    en: 'Daily Use Nouns',
+    fr: 'Noms d\'usage quotidien',
+  },
 } as const;
 
 export const ROOT_TYPES = {
-  prefix: 'Prefix',
-  suffix: 'Suffix',
-  base: 'Base',
+  prefix: {
+    en: 'Prefix',
+    fr: 'Préfixe',
+  },
+  suffix: {
+    en: 'Suffix',
+    fr: 'Suffixe',
+  },
+  base: {
+    en: 'Base',
+    fr: 'Base',
+  },
 } as const;
 
 export const ROUTES = {

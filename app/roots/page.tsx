@@ -2,19 +2,23 @@
 
 import { Suspense } from 'react';
 import { useSearchParams, useRouter } from 'next/navigation';
-import { rootsEn } from '@/data/roots/english';
 import { AppShell } from '@/components/shared/AppShell';
 import { Pagination } from '@/components/shared/Pagination';
 import { RootCard } from '@/components/features/RootCard';
 import { PAGINATION } from '@/constants';
+import { getRootsData } from '@/utils/data';
+import { useLanguage, interpolate } from '@/contexts/LanguageContext';
 
 function RootsPageContent() {
   const searchParams = useSearchParams();
   const router = useRouter();
+  const { language, t } = useLanguage();
+  
+  const rootsData = getRootsData(language);
   const page = Number(searchParams.get('page')) || 1;
   const startIndex = (page - 1) * PAGINATION.itemsPerPage;
-  const totalPages = Math.ceil(rootsEn.length / PAGINATION.itemsPerPage);
-  const paginatedRoots = rootsEn.slice(startIndex, startIndex + PAGINATION.itemsPerPage);
+  const totalPages = Math.ceil(rootsData.length / PAGINATION.itemsPerPage);
+  const paginatedRoots = rootsData.slice(startIndex, startIndex + PAGINATION.itemsPerPage);
 
   const handlePageChange = (newPage: number) => {
     const params = new URLSearchParams(searchParams);
@@ -30,9 +34,9 @@ function RootsPageContent() {
     <AppShell>
       <div className="space-y-6">
         <div>
-          <h1 className="text-3xl font-bold tracking-tight text-gray-900">Root Explorer</h1>
+          <h1 className="text-3xl font-bold tracking-tight text-gray-900">{t('roots.title')}</h1>
           <p className="mt-2 text-lg text-gray-600">
-            Browse {rootsEn.length} English word roots including prefixes, suffixes, and base forms.
+            {interpolate(t('roots.description'), { count: rootsData.length })}
           </p>
         </div>
 
@@ -54,8 +58,10 @@ function RootsPageContent() {
 }
 
 export default function RootsPage() {
+  const { t } = useLanguage();
+  
   return (
-    <Suspense fallback={<div>Loading...</div>}>
+    <Suspense fallback={<div>{t('loading')}</div>}>
       <RootsPageContent />
     </Suspense>
   );

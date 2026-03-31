@@ -2,23 +2,26 @@
 
 import { Suspense } from 'react';
 import { useSearchParams, useRouter } from 'next/navigation';
-import { vocabularyEn } from '@/data/vocabulary/english';
 import { AppShell } from '@/components/shared/AppShell';
 import { Pagination } from '@/components/shared/Pagination';
 import { VocabCard } from '@/components/features/VocabCard';
 import { PAGINATION } from '@/constants';
-import { formatCategorySlug } from '@/utils/format';
-import { groupWordsByCategory } from '@/utils/data';
+import { formatCategory } from '@/utils/format';
+import { groupWordsByCategory, getVocabularyData } from '@/utils/data';
+import { useLanguage, interpolate } from '@/contexts/LanguageContext';
 
 const categoryOrder = ['greetings', 'numbers', 'verbs', 'daily-use-nouns'] as const;
 
 function VocabularyPageContent() {
   const searchParams = useSearchParams();
   const router = useRouter();
+  const { language, t } = useLanguage();
+  
+  const vocabularyData = getVocabularyData(language);
   const page = Number(searchParams.get('page')) || 1;
   const startIndex = (page - 1) * PAGINATION.itemsPerPage;
-  const totalPages = Math.ceil(vocabularyEn.length / PAGINATION.itemsPerPage);
-  const paginatedWords = vocabularyEn.slice(startIndex, startIndex + PAGINATION.itemsPerPage);
+  const totalPages = Math.ceil(vocabularyData.length / PAGINATION.itemsPerPage);
+  const paginatedWords = vocabularyData.slice(startIndex, startIndex + PAGINATION.itemsPerPage);
   const groupedWords = groupWordsByCategory(paginatedWords);
 
   const handlePageChange = (newPage: number) => {
@@ -35,9 +38,9 @@ function VocabularyPageContent() {
     <AppShell>
       <div className="space-y-6">
         <div>
-          <h1 className="text-3xl font-bold tracking-tight text-gray-900">Core Vocabulary</h1>
+          <h1 className="text-3xl font-bold tracking-tight text-gray-900">{t('vocabulary.title')}</h1>
           <p className="mt-2 text-lg text-gray-600">
-            Master {vocabularyEn.length} essential English words organized by categories with IPA pronunciation.
+            {interpolate(t('vocabulary.description'), { count: vocabularyData.length })}
           </p>
         </div>
 
@@ -49,11 +52,11 @@ function VocabularyPageContent() {
             return (
               <section key={cat} className="space-y-4">
                 <div className="flex items-center gap-2">
-                  <h2 className="text-2xl font-semibold text-gray-900 capitalize">
-                    {formatCategorySlug(cat)}
+                  <h2 className="text-2xl font-semibold text-gray-900">
+                    {formatCategory(cat, language)}
                   </h2>
                   <span className="inline-flex items-center rounded-full bg-gray-100 px-2.5 py-0.5 text-sm font-medium text-gray-800">
-                    {items.length} words
+                    {interpolate(t('words.count'), { count: items.length })}
                   </span>
                 </div>
                 
@@ -79,8 +82,10 @@ function VocabularyPageContent() {
 }
 
 export default function VocabularyPage() {
+  const { t } = useLanguage();
+  
   return (
-    <Suspense fallback={<div>Loading...</div>}>
+    <Suspense fallback={<div>{t('loading')}</div>}>
       <VocabularyPageContent />
     </Suspense>
   );

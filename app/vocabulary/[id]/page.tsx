@@ -1,14 +1,48 @@
+'use client';
+
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { vocabularyEn } from '@/data/vocabulary/english';
 import { AppShell } from '@/components/shared/AppShell';
 import { formatCategory, formatPronunciation } from '@/utils/format';
 import { ROUTES } from '@/constants';
+import { getVocabularyData } from '@/utils/data';
+import { useLanguage } from '@/contexts/LanguageContext';
+import { useEffect, useState } from 'react';
 
-export default async function WordDetailPage({ params }: { params: Promise<{ id: string }> }) {
-  const { id } = await params;
-  const word = vocabularyEn.find((w) => w.id === id);
-  if (!word) notFound();
+export default function WordDetailPage({ params }: { params: Promise<{ id: string }> }) {
+  const { language } = useLanguage();
+  const [word, setWord] = useState<any>(null);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const loadWord = async () => {
+      const { id } = await params;
+      const vocabularyData = getVocabularyData(language);
+      const foundWord = vocabularyData.find((w) => w.id === id);
+      
+      if (!foundWord) {
+        notFound();
+        return;
+      }
+
+      setWord(foundWord);
+      setLoading(false);
+    };
+
+    loadWord();
+  }, [params, language]);
+
+  if (loading) {
+    return (
+      <AppShell>
+        <div className="flex items-center justify-center min-h-64">
+          <div>Loading...</div>
+        </div>
+      </AppShell>
+    );
+  }
+
+  if (!word) return null;
 
   return (
     <AppShell>
@@ -24,7 +58,7 @@ export default async function WordDetailPage({ params }: { params: Promise<{ id:
         <div className="rounded-xl border border-gray-200 bg-white p-8 shadow-sm">
           <div className="flex items-center gap-3">
             <span className="inline-flex items-center rounded-full bg-green-100 px-3 py-1 text-sm font-medium text-green-800">
-              {formatCategory(word.category)}
+              {formatCategory(word.category, language)}
             </span>
           </div>
           
@@ -66,8 +100,4 @@ export default async function WordDetailPage({ params }: { params: Promise<{ id:
       </div>
     </AppShell>
   );
-}
-
-export function generateStaticParams() {
-  return vocabularyEn.map((w) => ({ id: w.id }));
 }

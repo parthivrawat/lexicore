@@ -1,4 +1,26 @@
 import { VocabWord, WordRoot, VocabCategory } from '@/types';
+import { rootsEn, rootsFr } from '@/data/roots';
+import { vocabularyEn, vocabularyFr } from '@/data/vocabulary';
+
+export function getRootsData(language: 'en' | 'fr'): WordRoot[] {
+  switch (language) {
+    case 'fr':
+      return rootsFr;
+    case 'en':
+    default:
+      return rootsEn;
+  }
+}
+
+export function getVocabularyData(language: 'en' | 'fr'): VocabWord[] {
+  switch (language) {
+    case 'fr':
+      return vocabularyFr;
+    case 'en':
+    default:
+      return vocabularyEn;
+  }
+}
 
 export function groupWordsByCategory(words: VocabWord[]): Record<string, VocabWord[]> {
   return words.reduce((acc, word) => {

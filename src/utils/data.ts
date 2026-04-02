@@ -2,23 +2,29 @@ import { VocabWord, WordRoot, VocabCategory } from '@/types';
 import { rootsEn, rootsFr } from '@/data/roots';
 import { vocabularyEn, vocabularyFr } from '@/data/vocabulary';
 
-export function getRootsData(language: 'en' | 'fr'): WordRoot[] {
-  switch (language) {
-    case 'fr':
+export function getRootsData(learningLanguage: 'english' | 'french' | 'spanish' | 'latin' | 'greek'): WordRoot[] {
+  switch (learningLanguage) {
+    case 'french':
       return rootsFr;
-    case 'en':
+    case 'english':
+    case 'spanish':
+    case 'latin':
+    case 'greek':
     default:
-      return rootsEn;
+      return rootsEn; // For now, use English data for other languages
   }
 }
 
-export function getVocabularyData(language: 'en' | 'fr'): VocabWord[] {
-  switch (language) {
-    case 'fr':
+export function getVocabularyData(learningLanguage: 'english' | 'french' | 'spanish' | 'latin' | 'greek'): VocabWord[] {
+  switch (learningLanguage) {
+    case 'french':
       return vocabularyFr;
-    case 'en':
+    case 'english':
+    case 'spanish':
+    case 'latin':
+    case 'greek':
     default:
-      return vocabularyEn;
+      return vocabularyEn; // For now, use English data for other languages
   }
 }
 

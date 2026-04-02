@@ -12,7 +12,7 @@ import { useLanguage } from '@/contexts/LanguageContext';
 import { useEffect, useState } from 'react';
 
 export default function RootDetailPage({ params }: { params: Promise<{ id: string }> }) {
-  const { language } = useLanguage();
+  const { learningLanguage, uiLanguage } = useLanguage();
   const [root, setRoot] = useState<any>(null);
   const [relatedRoots, setRelatedRoots] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
@@ -20,7 +20,7 @@ export default function RootDetailPage({ params }: { params: Promise<{ id: strin
   useEffect(() => {
     const loadRoot = async () => {
       const { id } = await params;
-      const rootsData = getRootsData(language);
+      const rootsData = getRootsData(learningLanguage);
       const foundRoot = rootsData.find((r) => r.id === id);
       
       if (!foundRoot) {
@@ -34,7 +34,7 @@ export default function RootDetailPage({ params }: { params: Promise<{ id: strin
     };
 
     loadRoot();
-  }, [params, language]);
+  }, [params, learningLanguage]);
 
   if (loading) {
     return (
@@ -62,7 +62,7 @@ export default function RootDetailPage({ params }: { params: Promise<{ id: strin
         <div className="rounded-xl border border-gray-200 bg-white p-8 shadow-sm">
           <div className="flex items-center gap-3">
             <span className="inline-flex items-center rounded-full bg-blue-100 px-3 py-1 text-sm font-medium text-blue-800">
-              {formatRootType(root.type, language)}
+              {formatRootType(root.type, uiLanguage)}
             </span>
             <span className="text-sm text-gray-500">
               Origin: {root.languageOrigin}
@@ -116,7 +116,7 @@ export default function RootDetailPage({ params }: { params: Promise<{ id: strin
                 >
                   <div className="flex items-center gap-2">
                     <span className="inline-flex items-center rounded-full bg-gray-100 px-2 py-1 text-xs font-medium text-gray-800">
-                      {formatRootType(relatedRoot.type, language)}
+                      {formatRootType(relatedRoot.type, uiLanguage)}
                     </span>
                   </div>
                   <h3 className="mt-3 text-lg font-semibold text-gray-900">{relatedRoot.root}</h3>

@@ -10,14 +10,14 @@ import { useLanguage } from '@/contexts/LanguageContext';
 import { useEffect, useState } from 'react';
 
 export default function WordDetailPage({ params }: { params: Promise<{ id: string }> }) {
-  const { language } = useLanguage();
+  const { learningLanguage, uiLanguage } = useLanguage();
   const [word, setWord] = useState<any>(null);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     const loadWord = async () => {
       const { id } = await params;
-      const vocabularyData = getVocabularyData(language);
+      const vocabularyData = getVocabularyData(learningLanguage);
       const foundWord = vocabularyData.find((w) => w.id === id);
       
       if (!foundWord) {
@@ -30,7 +30,7 @@ export default function WordDetailPage({ params }: { params: Promise<{ id: strin
     };
 
     loadWord();
-  }, [params, language]);
+  }, [params, learningLanguage]);
 
   if (loading) {
     return (
@@ -58,7 +58,7 @@ export default function WordDetailPage({ params }: { params: Promise<{ id: strin
         <div className="rounded-xl border border-gray-200 bg-white p-8 shadow-sm">
           <div className="flex items-center gap-3">
             <span className="inline-flex items-center rounded-full bg-green-100 px-3 py-1 text-sm font-medium text-green-800">
-              {formatCategory(word.category, language)}
+              {formatCategory(word.category, uiLanguage)}
             </span>
           </div>
           

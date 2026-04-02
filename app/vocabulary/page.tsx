@@ -15,9 +15,9 @@ const categoryOrder = ['greetings', 'numbers', 'verbs', 'daily-use-nouns'] as co
 function VocabularyPageContent() {
   const searchParams = useSearchParams();
   const router = useRouter();
-  const { language, t } = useLanguage();
+  const { learningLanguage, uiLanguage, t } = useLanguage();
   
-  const vocabularyData = getVocabularyData(language);
+  const vocabularyData = getVocabularyData(learningLanguage);
   const page = Number(searchParams.get('page')) || 1;
   const startIndex = (page - 1) * PAGINATION.itemsPerPage;
   const totalPages = Math.ceil(vocabularyData.length / PAGINATION.itemsPerPage);
@@ -36,33 +36,52 @@ function VocabularyPageContent() {
 
   return (
     <AppShell>
-      <div className="space-y-6">
-        <div>
-          <h1 className="text-3xl font-bold tracking-tight text-gray-900">{t('vocabulary.title')}</h1>
-          <p className="mt-2 text-lg text-gray-600">
+      <div className="space-y-8 animate-fade-in">
+        <div className="text-center space-y-4">
+          <div className="inline-flex items-center gap-2 rounded-full bg-success-100 px-4 py-2 text-sm font-semibold text-success-800 shadow-soft">
+            <span className="relative flex h-2 w-2">
+              <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-success-400 opacity-75"></span>
+              <span className="relative inline-flex rounded-full h-2 w-2 bg-success-500"></span>
+            </span>
+            {interpolate(t('words.count'), { count: vocabularyData.length })} words mastered
+          </div>
+          <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
+            <span className="block">{t('vocabulary.title')}</span>
+            <span className="block text-transparent bg-clip-text gradient-accent bg-gradient-to-r from-success-600 to-accent-600">
+              Build Your Word Power
+            </span>
+          </h1>
+          <p className="mx-auto max-w-2xl text-lg font-medium text-gray-600">
             {interpolate(t('vocabulary.description'), { count: vocabularyData.length })}
           </p>
         </div>
 
-        <div className="space-y-8">
-          {categoryOrder.map((cat) => {
+        <div className="space-y-12">
+          {categoryOrder.map((cat, catIndex) => {
             const items = groupedWords[cat] ?? [];
             if (items.length === 0) return null;
 
             return (
-              <section key={cat} className="space-y-4">
-                <div className="flex items-center gap-2">
-                  <h2 className="text-2xl font-semibold text-gray-900">
-                    {formatCategory(cat, language)}
-                  </h2>
-                  <span className="inline-flex items-center rounded-full bg-gray-100 px-2.5 py-0.5 text-sm font-medium text-gray-800">
-                    {interpolate(t('words.count'), { count: items.length })}
-                  </span>
+              <section key={cat} className="space-y-6 animate-slide-up" style={{ animationDelay: `${catIndex * 0.2}s` }}>
+                <div className="flex items-center gap-4">
+                  <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-gradient-to-br from-success-500 to-success-600 text-white shadow-soft">
+                    <span className="text-lg font-bold">{formatCategory(cat, uiLanguage).charAt(0).toUpperCase()}</span>
+                  </div>
+                  <div>
+                    <h2 className="text-2xl font-bold text-gray-900">
+                      {formatCategory(cat, uiLanguage)}
+                    </h2>
+                    <span className="inline-flex items-center rounded-full bg-success-100 px-3 py-1 text-sm font-semibold text-success-800 mt-1">
+                      {interpolate(t('words.count'), { count: items.length })}
+                    </span>
+                  </div>
                 </div>
                 
-                <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-                  {items.map((word: any) => (
-                    <VocabCard key={word.id} word={word} />
+                <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+                  {items.map((word: any, wordIndex: number) => (
+                    <div key={word.id} className="animate-slide-up" style={{ animationDelay: `${(catIndex * 0.2) + (wordIndex * 0.1)}s` }}>
+                      <VocabCard word={word} />
+                    </div>
                   ))}
                 </div>
               </section>

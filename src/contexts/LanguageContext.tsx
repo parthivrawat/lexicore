@@ -50,6 +50,9 @@ const translations = {
     'languages.spanish': 'Spanish',
     'languages.latin': 'Latin',
     'languages.greek': 'Greek',
+    'theme.light': 'Light',
+    'theme.dark': 'Dark',
+    'theme.system': 'System',
   },
   fr: {
     'app.title': 'Racines de Mots & Vocabulaire Essentiel',
@@ -83,6 +86,9 @@ const translations = {
     'languages.spanish': 'Espagnol',
     'languages.latin': 'Latin',
     'languages.greek': 'Grec',
+    'theme.light': 'Clair',
+    'theme.dark': 'Sombre',
+    'theme.system': 'Système',
   },
 };
 

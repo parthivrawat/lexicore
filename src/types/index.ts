@@ -6,6 +6,14 @@ export type RootExample = {
   sentence: string;
 };
 
+export type AccentType = 'american' | 'british' | 'australian' | 'canadian' | 'irish' | 'scottish' | 'parisian' | 'quebecois' | 'belgian' | 'swiss';
+
+export type PronunciationVariant = {
+  accent: AccentType;
+  ipa: string;
+  audioUrl?: string;
+};
+
 export type WordRoot = {
   id: string;
   root: string;
@@ -14,6 +22,8 @@ export type WordRoot = {
   meaning: string;
   examples: RootExample[];
   relatedRootIds: string[];
+  pronunciationIpa?: string; // For basic pronunciation
+  pronunciationVariants?: PronunciationVariant[]; // For different accents
 };
 
 export type VocabCategory = 'greetings' | 'numbers' | 'verbs' | 'daily-use-nouns';
@@ -22,7 +32,8 @@ export type VocabWord = {
   id: string;
   word: string;
   meaning: string;
-  pronunciationIpa?: string;
+  pronunciationIpa?: string; // Legacy support
+  pronunciationVariants?: PronunciationVariant[]; // Enhanced multi-accent support
   category: VocabCategory;
   examples: string[];
 };

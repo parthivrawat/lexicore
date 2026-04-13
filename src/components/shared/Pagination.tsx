@@ -66,7 +66,7 @@ export function Pagination({ currentPage, totalPages, onPageChange, className = 
             className={`h-9 w-9 rounded-lg text-sm font-medium transition-all duration-200 ${
               currentPage === page
                 ? 'gradient-primary text-white shadow-soft'
-                : 'text-gray-600 hover:bg-gray-100 hover:text-gray-900'
+                : 'text-gray-600 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 hover:text-gray-900 dark:hover:text-white'
             }`}
           >
             {page}

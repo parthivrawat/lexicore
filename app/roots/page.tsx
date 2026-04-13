@@ -34,20 +34,20 @@ function RootsPageContent() {
     <AppShell>
       <div className="space-y-8 animate-fade-in">
         <div className="text-center space-y-4">
-          <div className="inline-flex items-center gap-2 rounded-full bg-primary-100 px-4 py-2 text-sm font-semibold text-primary-800 shadow-soft">
+          <div className="inline-flex items-center gap-2 rounded-full bg-primary-100 dark:bg-primary-900/30 px-4 py-2 text-sm font-semibold text-primary-800 dark:text-primary-200 shadow-soft">
             <span className="relative flex h-2 w-2">
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-primary-400 opacity-75"></span>
               <span className="relative inline-flex rounded-full h-2 w-2 bg-primary-500"></span>
             </span>
             {interpolate(t('words.count'), { count: rootsData.length })} roots available
           </div>
-          <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
+          <h1 className="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-5xl">
             <span className="block">{t('roots.title')}</span>
             <span className="block text-transparent bg-clip-text gradient-primary bg-gradient-to-r from-primary-600 to-accent-600">
               Explore Language Foundations
             </span>
           </h1>
-          <p className="mx-auto max-w-2xl text-lg font-medium text-gray-600">
+          <p className="mx-auto max-w-2xl text-lg font-medium text-gray-600 dark:text-gray-300">
             {interpolate(t('roots.description'), { count: rootsData.length })}
           </p>
         </div>

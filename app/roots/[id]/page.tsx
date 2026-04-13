@@ -53,40 +53,40 @@ export default function RootDetailPage({ params }: { params: Promise<{ id: strin
       <div className="space-y-8">
         <div className="flex items-start justify-between gap-4">
           <div>
-            <Link href={ROUTES.roots} className="inline-flex items-center text-sm text-gray-500 hover:text-gray-700">
+            <Link href={ROUTES.roots} className="inline-flex items-center text-sm text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300">
               ← Back to Roots
             </Link>
           </div>
         </div>
 
-        <div className="rounded-xl border border-gray-200 bg-white p-8 shadow-sm">
+        <div className="rounded-xl border border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-800 p-8 shadow-sm">
           <div className="flex items-center gap-3">
-            <span className="inline-flex items-center rounded-full bg-blue-100 px-3 py-1 text-sm font-medium text-blue-800">
+            <span className="inline-flex items-center rounded-full bg-blue-100 dark:bg-blue-900/30 px-3 py-1 text-sm font-medium text-blue-800 dark:text-blue-200">
               {formatRootType(root.type, uiLanguage)}
             </span>
-            <span className="text-sm text-gray-500">
+            <span className="text-sm text-gray-500 dark:text-gray-400">
               Origin: {root.languageOrigin}
             </span>
           </div>
           
-          <h1 className="mt-4 text-3xl font-bold tracking-tight text-gray-900">{root.root}</h1>
-          <p className="mt-2 text-lg text-gray-700">{root.meaning}</p>
+          <h1 className="mt-4 text-3xl font-bold tracking-tight text-gray-900 dark:text-white">{root.root}</h1>
+          <p className="mt-2 text-lg text-gray-700 dark:text-gray-300">{root.meaning}</p>
         </div>
 
         <section className="space-y-6">
           <div className="flex items-center justify-between">
-            <h2 className="text-2xl font-semibold text-gray-900">Examples</h2>
-            <span className="inline-flex items-center rounded-full bg-gray-100 px-3 py-1 text-sm font-medium text-gray-800">
+            <h2 className="text-2xl font-semibold text-gray-900 dark:text-white">Examples</h2>
+            <span className="inline-flex items-center rounded-full bg-gray-100 dark:bg-gray-700 px-3 py-1 text-sm font-medium text-gray-800 dark:text-gray-200">
               {root.examples.length} examples
             </span>
           </div>
           
           <div className="grid gap-4 sm:grid-cols-2">
             {root.examples.map((example: RootExample) => (
-              <div key={example.word} className="rounded-xl border border-gray-200 bg-white p-6 shadow-sm">
-                <h3 className="text-lg font-semibold text-gray-900">{example.word}</h3>
-                <p className="mt-2 text-sm text-gray-700">{example.meaning}</p>
-                <blockquote className="mt-4 border-l-4 border-gray-300 pl-4 italic text-gray-600">
+              <div key={example.word} className="rounded-xl border border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-800 p-6 shadow-sm">
+                <h3 className="text-lg font-semibold text-gray-900 dark:text-white">{example.word}</h3>
+                <p className="mt-2 text-sm text-gray-700 dark:text-gray-300">{example.meaning}</p>
+                <blockquote className="mt-4 border-l-4 border-gray-300 dark:border-gray-600 pl-4 italic text-gray-600 dark:text-gray-400">
                   &quot;{example.sentence}&quot;
                 </blockquote>
               </div>
@@ -96,15 +96,15 @@ export default function RootDetailPage({ params }: { params: Promise<{ id: strin
 
         <section className="space-y-6">
           <div className="flex items-center justify-between">
-            <h2 className="text-2xl font-semibold text-gray-900">Related Roots</h2>
+            <h2 className="text-2xl font-semibold text-gray-900 dark:text-white">Related Roots</h2>
             <span className="inline-flex items-center rounded-full bg-gray-100 px-3 py-1 text-sm font-medium text-gray-800">
               {relatedRoots.length} related
             </span>
           </div>
           
           {relatedRoots.length === 0 ? (
-            <div className="rounded-xl border border-gray-200 bg-gray-50 p-8 text-center">
-              <p className="text-gray-600">No related roots found.</p>
+            <div className="rounded-xl border border-gray-200 dark:border-gray-600 bg-gray-50 dark:bg-gray-800 p-8 text-center">
+              <p className="text-gray-600 dark:text-gray-300">No related roots found.</p>
             </div>
           ) : (
             <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
@@ -112,15 +112,15 @@ export default function RootDetailPage({ params }: { params: Promise<{ id: strin
                 <Link
                   key={relatedRoot.id}
                   href={`/roots/${encodeURIComponent(relatedRoot.id)}`}
-                  className="block rounded-xl border border-gray-200 bg-white p-6 shadow-sm transition-shadow hover:shadow-lg hover:border-gray-300"
+                  className="block rounded-xl border border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-800 p-6 shadow-sm transition-shadow hover:shadow-lg hover:border-gray-300 dark:hover:border-gray-500"
                 >
                   <div className="flex items-center gap-2">
-                    <span className="inline-flex items-center rounded-full bg-gray-100 px-2 py-1 text-xs font-medium text-gray-800">
+                    <span className="inline-flex items-center rounded-full bg-gray-100 dark:bg-gray-700 px-2 py-1 text-xs font-medium text-gray-800 dark:text-gray-200">
                       {formatRootType(relatedRoot.type, uiLanguage)}
                     </span>
                   </div>
-                  <h3 className="mt-3 text-lg font-semibold text-gray-900">{relatedRoot.root}</h3>
-                  <p className="mt-2 text-sm text-gray-700">{relatedRoot.meaning}</p>
+                  <h3 className="mt-3 text-lg font-semibold text-gray-900 dark:text-white">{relatedRoot.root}</h3>
+                  <p className="mt-2 text-sm text-gray-700 dark:text-gray-300">{relatedRoot.meaning}</p>
                 </Link>
               ))}
             </div>

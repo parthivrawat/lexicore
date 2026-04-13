@@ -2,6 +2,7 @@ import type { Config } from 'tailwindcss';
 
 const config: Config = {
   content: ['./app/**/*.{js,ts,jsx,tsx,mdx}', './src/**/*.{js,ts,jsx,tsx,mdx}'],
+  darkMode: 'class',
   theme: {
     extend: {
       colors: {
@@ -124,6 +125,38 @@ const config: Config = {
         '18': '4.5rem',
         '88': '22rem',
         '128': '32rem',
+        // Consistent spacing scale for better design consistency
+        '0.5': '0.125rem',
+        '1.5': '0.375rem',
+        '2.5': '0.625rem',
+        '3.5': '0.875rem',
+        '4.5': '1.125rem',
+        '5.5': '1.375rem',
+        '6.5': '1.625rem',
+        '7.5': '1.875rem',
+        '8.5': '2.125rem',
+        '9.5': '2.375rem',
+        '10.5': '2.625rem',
+        '11.5': '2.875rem',
+        '12.5': '3.125rem',
+        '13.5': '3.375rem',
+        '14.5': '3.625rem',
+        '15.5': '3.875rem',
+        '16.5': '4.125rem',
+        '17.5': '4.375rem',
+        '18.5': '4.625rem',
+        '19.5': '4.875rem',
+        '20.5': '5.125rem',
+        '21.5': '5.375rem',
+        '22.5': '5.625rem',
+        '23.5': '5.875rem',
+        '24.5': '6.125rem',
+        '25.5': '6.375rem',
+        '26.5': '6.625rem',
+        '27.5': '6.875rem',
+        '28.5': '7.125rem',
+        '29.5': '7.375rem',
+        '30.5': '7.625rem',
       },
       borderRadius: {
         '4xl': '2rem',

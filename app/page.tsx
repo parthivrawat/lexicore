@@ -42,16 +42,16 @@ export default function HomePage() {
                 </svg>
               </Button>
             </Link>
-            <Link href={ROUTES.search}>
+            <Link href={ROUTES.vocabulary}>
               <Button variant="outline" size="lg">
-                Search Now
+                Browse Vocabulary
               </Button>
             </Link>
           </div>
         </div>
 
         {/* Feature Cards */}
-        <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="grid gap-8 sm:grid-cols-2">
           <div className="group card-hover bg-white dark:bg-gray-800 rounded-2xl border border-gray-200/50 dark:border-gray-700/50 p-8 shadow-soft animate-slide-up">
             <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-gradient-to-br from-blue-500 to-blue-600 text-white shadow-soft group-hover:scale-110 transition-transform duration-300">
               <svg className="h-7 w-7" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -60,7 +60,7 @@ export default function HomePage() {
             </div>
             <h3 className="mt-6 text-xl font-bold text-gray-900 dark:text-white">{t('roots.title')}</h3>
             <p className="mt-3 text-gray-600 dark:text-gray-400 leading-relaxed">
-              Explore word roots including prefixes, suffixes, and base forms with detailed examples and etymology.
+              Explore word roots including prefixes, suffixes, and base forms with detailed examples and etymology. Search for specific roots or meanings.
             </p>
             <Link href={ROUTES.roots} className="mt-6 inline-flex items-center gap-2 text-sm font-semibold text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 transition-colors">
               Explore Roots
@@ -78,28 +78,10 @@ export default function HomePage() {
             </div>
             <h3 className="mt-6 text-xl font-bold text-gray-900 dark:text-white">{t('vocabulary.title')}</h3>
             <p className="mt-3 text-gray-600 dark:text-gray-400 leading-relaxed">
-              Master essential words organized by categories with IPA pronunciation and contextual examples.
+              Master essential words organized by categories with IPA pronunciation and contextual examples. Search for specific words or meanings.
             </p>
             <Link href={ROUTES.vocabulary} className="mt-6 inline-flex items-center gap-2 text-sm font-semibold text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 transition-colors">
               Browse Vocabulary
-              <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-              </svg>
-            </Link>
-          </div>
-
-          <div className="group card-hover bg-white dark:bg-gray-800 rounded-2xl border border-gray-200/50 dark:border-gray-700/50 p-8 shadow-soft animate-slide-up sm:col-span-2 lg:col-span-1" style={{ animationDelay: '0.2s' }}>
-            <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-gradient-to-br from-accent-500 to-accent-600 text-white shadow-soft group-hover:scale-110 transition-transform duration-300">
-              <svg className="h-7 w-7" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-              </svg>
-            </div>
-            <h3 className="mt-6 text-xl font-bold text-gray-900 dark:text-white">{t('search.title')}</h3>
-            <p className="mt-3 text-gray-600 dark:text-gray-400 leading-relaxed">
-              Search across roots and vocabulary with intelligent filters for quick and precise results.
-            </p>
-            <Link href={ROUTES.search} className="mt-6 inline-flex items-center gap-2 text-sm font-semibold text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 transition-colors">
-              Start Searching
               <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
               </svg>

@@ -3,6 +3,9 @@ import { WordRoot } from '@/types';
 import { formatRootType } from '@/utils/format';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { PronunciationPlayer } from '@/components/ui';
+import { CARD_CONFIG, TTS_CONFIG } from '@/constants';
+import { useSettings } from '@/contexts/SettingsContext';
+import { AccentType } from '@/types';
 
 interface RootCardProps {
   root: WordRoot;
@@ -10,6 +13,7 @@ interface RootCardProps {
 
 export function RootCard({ root }: RootCardProps) {
   const { uiLanguage } = useLanguage();
+  const { settings } = useSettings();
 
   return (
     <Link
@@ -19,7 +23,7 @@ export function RootCard({ root }: RootCardProps) {
       <div className="flex items-start justify-between gap-4">
         <div className="flex-1">
           <div className="flex items-center gap-3 mb-3">
-            <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-gradient-to-br from-primary-500 to-primary-600 text-white shadow-soft group-hover:scale-110 transition-transform duration-300">
+            <div className={`flex ${CARD_CONFIG.iconSize} items-center justify-center rounded-xl bg-gradient-to-br from-primary-500 to-primary-600 text-white shadow-soft group-hover:scale-110 transition-transform duration-300`}>
               <span className="text-lg font-bold">{root.root.charAt(0).toUpperCase()}</span>
             </div>
             <div className="flex-1">
@@ -29,7 +33,7 @@ export function RootCard({ root }: RootCardProps) {
               {(root.pronunciationVariants?.length || root.pronunciationIpa) && (
                 <div className="mt-1">
                   <PronunciationPlayer
-                    variants={root.pronunciationVariants || (root.pronunciationIpa ? [{ accent: 'american', ipa: root.pronunciationIpa }] : [])}
+                    variants={root.pronunciationVariants || (root.pronunciationIpa ? [{ accent: settings.fallbackAccent as AccentType, ipa: root.pronunciationIpa }] : [])}
                     className="text-sm"
                   />
                 </div>

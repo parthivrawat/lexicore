@@ -4,23 +4,8 @@ import { useState } from 'react';
 import { PronunciationVariant, AccentType } from '@/types';
 import { formatAccentName, getAccentFlag, formatPronunciation } from '@/utils/format';
 import { useLanguage } from '@/contexts/LanguageContext';
-
-// Helper function to map accent to language code for TTS
-function getAccentLanguage(accent: AccentType): string {
-  const languageMap: Record<AccentType, string> = {
-    american: 'en-US',
-    british: 'en-GB',
-    australian: 'en-AU',
-    canadian: 'en-CA',
-    irish: 'en-IE',
-    scottish: 'en-GB',
-    parisian: 'fr-FR',
-    quebecois: 'fr-CA',
-    belgian: 'fr-BE',
-    swiss: 'fr-CH',
-  };
-  return languageMap[accent] || 'en-US';
-}
+import { ACCENT_LANGUAGE_CODES, TTS_CONFIG } from '@/constants';
+import { useSettings } from '@/contexts/SettingsContext';
 
 interface PronunciationPlayerProps {
   variants: PronunciationVariant[];
@@ -29,9 +14,13 @@ interface PronunciationPlayerProps {
 
 export function PronunciationPlayer({ variants, className = '' }: PronunciationPlayerProps) {
   const { uiLanguage } = useLanguage();
-  const [selectedAccent, setSelectedAccent] = useState<AccentType>(
-    variants.length > 0 ? variants[0].accent : 'american'
-  );
+  const { settings } = useSettings();
+  const [selectedAccent, setSelectedAccent] = useState<AccentType>(() => {
+    if (variants.length > 0) {
+      return variants[0].accent;
+    }
+    return 'american';
+  });
   const [isPlaying, setIsPlaying] = useState(false);
 
   const selectedVariant = variants.find(v => v.accent === selectedAccent) || variants[0];
@@ -48,8 +37,8 @@ export function PronunciationPlayer({ variants, className = '' }: PronunciationP
       } else if (selectedVariant?.ipa && 'speechSynthesis' in window) {
         // Use text-to-speech as fallback
         const utterance = new SpeechSynthesisUtterance(selectedVariant.ipa);
-        utterance.lang = getAccentLanguage(selectedVariant.accent);
-        utterance.rate = 0.8; // Slower rate for IPA pronunciation
+        utterance.lang = ACCENT_LANGUAGE_CODES[selectedVariant.accent];
+        utterance.rate = settings.ttsRate; // Slower rate for IPA pronunciation
         utterance.onend = () => setIsPlaying(false);
         utterance.onerror = () => setIsPlaying(false);
         speechSynthesis.speak(utterance);

@@ -1,4 +1,4 @@
-import { CATEGORIES, ROOT_TYPES } from '@/constants';
+import { CATEGORIES, ROOT_TYPES, ACCENT_NAMES, ACCENT_FLAGS } from '@/constants';
 import { SearchItem, AccentType } from '@/types';
 
 export function formatCategory(category: string, language: 'en' | 'fr' = 'en'): string {
@@ -35,35 +35,11 @@ export function getSearchResultId(item: SearchItem): string {
   return `${item.kind}:${item.id}`;
 }
 
-const ACCENT_NAMES: Record<AccentType, { en: string; fr: string }> = {
-  american: { en: 'American', fr: 'Américain' },
-  british: { en: 'British', fr: 'Britannique' },
-  australian: { en: 'Australian', fr: 'Australien' },
-  canadian: { en: 'Canadian', fr: 'Canadien' },
-  irish: { en: 'Irish', fr: 'Irlandais' },
-  scottish: { en: 'Scottish', fr: 'Écossais' },
-  parisian: { en: 'Parisian', fr: 'Parisien' },
-  quebecois: { en: 'Québécois', fr: 'Québécois' },
-  belgian: { en: 'Belgian', fr: 'Belge' },
-  swiss: { en: 'Swiss', fr: 'Suisse' },
-};
 
 export function formatAccentName(accent: AccentType, language: 'en' | 'fr' = 'en'): string {
   return ACCENT_NAMES[accent][language];
 }
 
 export function getAccentFlag(accent: AccentType): string {
-  const flagMap: Record<AccentType, string> = {
-    american: '🇺🇸',
-    british: '🇬🇧',
-    australian: '🇦🇺',
-    canadian: '🇨🇦',
-    irish: '🇮🇪',
-    scottish: '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
-    parisian: '🇫🇷',
-    quebecois: '🇨🇦',
-    belgian: '🇧🇪',
-    swiss: '🇨🇭',
-  };
-  return flagMap[accent];
+  return ACCENT_FLAGS[accent];
 }

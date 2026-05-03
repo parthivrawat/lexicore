@@ -5,23 +5,29 @@ import { useSearchParams, useRouter } from 'next/navigation';
 import { AppShell } from '@/components/shared/AppShell';
 import { Pagination } from '@/components/shared/Pagination';
 import { VocabCard } from '@/components/features/VocabCard';
-import { PAGINATION } from '@/constants';
 import { formatCategory } from '@/utils/format';
 import { groupWordsByCategory, getVocabularyData } from '@/utils/data';
 import { useLanguage, interpolate } from '@/contexts/LanguageContext';
-
-const categoryOrder = ['greetings', 'numbers', 'verbs', 'daily-use-nouns'] as const;
+import { useVocabularySearch } from '@/hooks/useVocabularySearch';
+import { usePagination } from '@/hooks/usePagination';
+import { CATEGORY_ORDER } from '@/constants';
 
 function VocabularyPageContent() {
   const searchParams = useSearchParams();
   const router = useRouter();
   const { learningLanguage, uiLanguage, t } = useLanguage();
   
-  const vocabularyData = getVocabularyData(learningLanguage);
-  const page = Number(searchParams.get('page')) || 1;
-  const startIndex = (page - 1) * PAGINATION.itemsPerPage;
-  const totalPages = Math.ceil(vocabularyData.length / PAGINATION.itemsPerPage);
-  const paginatedWords = vocabularyData.slice(startIndex, startIndex + PAGINATION.itemsPerPage);
+  const {
+    query,
+    results: searchResults,
+    resultCount,
+    handleQueryChange,
+    hasQuery,
+  } = useVocabularySearch();
+  
+  const vocabularyData = hasQuery ? searchResults : getVocabularyData(learningLanguage);
+  const { currentPage, totalPages, startIndex, endIndex, setPage } = usePagination(vocabularyData.length);
+  const paginatedWords = vocabularyData.slice(startIndex, endIndex + 1);
   const groupedWords = groupWordsByCategory(paginatedWords);
 
   const handlePageChange = (newPage: number) => {
@@ -43,21 +49,43 @@ function VocabularyPageContent() {
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-success-400 opacity-75"></span>
               <span className="relative inline-flex rounded-full h-2 w-2 bg-success-500"></span>
             </span>
-            {interpolate(t('words.count'), { count: vocabularyData.length })} words mastered
+            {hasQuery 
+              ? `${resultCount} result${resultCount !== 1 ? 's' : ''} found`
+              : `${interpolate(t('words.count'), { count: getVocabularyData(learningLanguage).length })} words mastered`
+            }
           </div>
           <h1 className="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-5xl">
             <span className="block">{t('vocabulary.title')}</span>
             <span className="block text-transparent bg-clip-text gradient-accent bg-gradient-to-r from-success-600 to-accent-600">
-              Build Your Word Power
+              {hasQuery ? 'Search Results' : 'Build Your Word Power'}
             </span>
           </h1>
           <p className="mx-auto max-w-2xl text-lg font-medium text-gray-600 dark:text-gray-300">
-            {interpolate(t('vocabulary.description'), { count: vocabularyData.length })}
+            {hasQuery 
+              ? `Showing search results for "${query}"`
+              : interpolate(t('vocabulary.description'), { count: getVocabularyData(learningLanguage).length })
+            }
           </p>
         </div>
 
+        <div className="max-w-2xl mx-auto">
+          <div className="rounded-xl border border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-800 p-6 shadow-sm">
+            <label htmlFor="vocab-search" className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
+              Search Vocabulary
+            </label>
+            <input
+              id="vocab-search"
+              type="text"
+              value={query}
+              onChange={(e) => handleQueryChange(e.target.value)}
+              placeholder="Try: hello, goodbye, one, two, eat, drink..."
+              className="block w-full rounded-lg border border-gray-300 dark:border-gray-600 px-4 py-3 text-sm text-gray-900 dark:text-white placeholder-gray-500 dark:placeholder-gray-400 outline-none focus:border-success-500 focus:ring-2 focus:ring-success-500 focus:ring-offset-2 transition-colors bg-white dark:bg-gray-800"
+            />
+          </div>
+        </div>
+
         <div className="space-y-12">
-          {categoryOrder.map((cat, catIndex) => {
+          {CATEGORY_ORDER.map((cat, catIndex) => {
             const items = groupedWords[cat] ?? [];
             if (items.length === 0) return null;
 
@@ -90,9 +118,8 @@ function VocabularyPageContent() {
         </div>
 
         <Pagination
-          currentPage={page}
-          totalPages={totalPages}
-          onPageChange={handlePageChange}
+          totalItems={vocabularyData.length}
+          onPageChange={setPage}
           className="pt-6"
         />
       </div>

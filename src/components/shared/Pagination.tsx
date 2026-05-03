@@ -1,31 +1,36 @@
 import { Button } from '@/components/ui/Button';
+import { PAGINATION_CONFIG } from '@/constants';
+import { useSettings } from '@/contexts/SettingsContext';
+import { usePagination } from '@/hooks/usePagination';
 
 interface PaginationProps {
-  currentPage: number;
-  totalPages: number;
+  totalItems: number;
   onPageChange: (page: number) => void;
   className?: string;
 }
 
-export function Pagination({ currentPage, totalPages, onPageChange, className = '' }: PaginationProps) {
+export function Pagination({ totalItems, onPageChange, className = '' }: PaginationProps) {
+  const { settings } = useSettings();
+  const { currentPage, totalPages, setPage } = usePagination(totalItems);
+  
   if (totalPages <= 1) return null;
 
   const handlePrevious = () => {
     if (currentPage > 1) {
-      onPageChange(currentPage - 1);
+      setPage(currentPage - 1);
     }
   };
 
   const handleNext = () => {
     if (currentPage < totalPages) {
-      onPageChange(currentPage + 1);
+      setPage(currentPage + 1);
     }
   };
 
   // Generate page numbers to show
   const getPageNumbers = () => {
     const pages: number[] = [];
-    const showPages = 5;
+    const showPages = 5; // Fixed value for optimal UX
     
     if (totalPages <= showPages) {
       for (let i = 1; i <= totalPages; i++) {
@@ -63,7 +68,7 @@ export function Pagination({ currentPage, totalPages, onPageChange, className = 
           <button
             key={page}
             onClick={() => onPageChange(page)}
-            className={`h-9 w-9 rounded-lg text-sm font-medium transition-all duration-200 ${
+            className={`${PAGINATION_CONFIG.pageButtonSize} rounded-lg text-sm font-medium transition-all duration-200 ${
               currentPage === page
                 ? 'gradient-primary text-white shadow-soft'
                 : 'text-gray-600 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 hover:text-gray-900 dark:hover:text-white'

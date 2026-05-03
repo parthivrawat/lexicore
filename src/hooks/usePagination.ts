@@ -2,8 +2,11 @@
 
 import { useSearchParams, useRouter } from 'next/navigation';
 import { useMemo } from 'react';
+import { useSettings } from '@/contexts/SettingsContext';
 
-export function usePagination(totalItems: number, itemsPerPage: number) {
+export function usePagination(totalItems: number) {
+  const { settings } = useSettings();
+  const itemsPerPage = settings.itemsPerPage;
   const searchParams = useSearchParams();
   const router = useRouter();
 

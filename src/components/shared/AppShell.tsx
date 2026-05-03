@@ -11,11 +11,11 @@ export function AppShell({ children }: PropsWithChildren) {
     { href: ROUTES.home, label: 'Home', icon: '🏠' },
     { href: ROUTES.roots, label: 'Roots', icon: '🌱' },
     { href: ROUTES.vocabulary, label: 'Vocabulary', icon: '📚' },
-    { href: ROUTES.search, label: 'Search', icon: '🔍' },
+    { href: ROUTES.settings, label: 'Settings', icon: '⚙️' },
   ];
 
   return (
-    <div className="min-h-screen bg-gray-50 dark:bg-gray-900 theme-transition">
+      <div className="min-h-screen bg-gray-50 dark:bg-gray-900 theme-transition">
       <header className="sticky top-0 z-50 glass-morphism border-b border-gray-200 dark:border-gray-700 shadow-soft">
         <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-4 sm:px-6 lg:px-8">
           <div className="min-w-0 flex-1">

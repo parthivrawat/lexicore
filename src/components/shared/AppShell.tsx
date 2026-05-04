@@ -50,60 +50,10 @@ export function AppShell({ children }: PropsWithChildren) {
             ))}
           </nav>
 
-          {/* Language Controls */}
+          {/* Theme Toggle and Mobile Menu */}
           <div className="flex items-center gap-3">
-            {/* Theme Toggle */}
             <SimpleThemeToggle />
             
-            {/* Learning Language - Primary Position */}
-            <div className="hidden md:block">
-              <div className="flex flex-col gap-1">
-                <label className="text-xs font-medium text-gray-500 dark:text-gray-400">
-                  {t('learning.language')}
-                </label>
-                <div className="relative">
-                  <select
-                    value={learningLanguage}
-                    onChange={(e) => setLearningLanguage(e.target.value as any)}
-                    className="appearance-none rounded-lg border border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-800 px-3 py-1.5 pr-8 text-sm font-semibold text-gray-700 dark:text-gray-300 shadow-soft transition-all duration-200 hover:border-gray-300 dark:hover:border-gray-500 hover:shadow-medium focus:border-primary-500 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 cursor-pointer"
-                  >
-                    <option value="english">🇬🇧 {t('languages.english')}</option>
-                    <option value="french">🇫🇷 {t('languages.french')}</option>
-                    <option value="spanish">🇪🇸 {t('languages.spanish')}</option>
-                    <option value="latin">🏛️ {t('languages.latin')}</option>
-                    <option value="greek">🇬🇷 {t('languages.greek')}</option>
-                  </select>
-                  <div className="pointer-events-none absolute inset-y-0 right-0 flex items-center pr-2">
-                    <svg className="h-3 w-3 text-gray-400 dark:text-gray-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-                    </svg>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            {/* Interface Language - Secondary Position */}
-            <div className="flex flex-col gap-1">
-              <label className="text-xs font-medium text-gray-500 dark:text-gray-400">
-                {t('ui.language')}
-              </label>
-              <div className="relative">
-                <select
-                  value={uiLanguage}
-                  onChange={(e) => setUILanguage(e.target.value as 'en' | 'fr')}
-                  className="appearance-none rounded-lg border border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-800 px-3 py-1.5 pr-8 text-sm font-semibold text-gray-700 dark:text-gray-300 shadow-soft transition-all duration-200 hover:border-gray-300 dark:hover:border-gray-500 hover:shadow-medium focus:border-primary-500 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 cursor-pointer"
-                >
-                  <option value="en">🇺🇸 English</option>
-                  <option value="fr">🇫🇷 Français</option>
-                </select>
-                <div className="pointer-events-none absolute inset-y-0 right-0 flex items-center pr-2">
-                  <svg className="h-3 w-3 text-gray-400 dark:text-gray-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-                  </svg>
-                </div>
-              </div>
-            </div>
-
             {/* Mobile menu button */}
             <button className="flex h-9 w-9 items-center justify-center rounded-xl text-gray-600 dark:text-gray-300 transition-colors hover:bg-gray-100 dark:hover:bg-gray-800 hover:text-gray-900 dark:hover:text-white md:hidden">
               <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -127,35 +77,12 @@ export function AppShell({ children }: PropsWithChildren) {
               </Link>
             ))}
             {/* Mobile Language Controls */}
-            <div className="mt-3 space-y-3">
-              <div className="flex flex-col gap-1">
-                <label className="text-xs font-medium text-gray-500 dark:text-gray-400">
-                  {t('learning.language')}
-                </label>
-                <select
-                  value={learningLanguage}
-                  onChange={(e) => setLearningLanguage(e.target.value as any)}
-                  className="w-full rounded-lg border border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-800 px-3 py-2 text-sm font-semibold text-gray-700 dark:text-gray-300 shadow-soft focus:border-primary-500 focus:outline-none focus:ring-2 focus:ring-primary-500"
-                >
-                  <option value="english">🇬🇧 {t('languages.english')}</option>
-                  <option value="french">🇫🇷 {t('languages.french')}</option>
-                  <option value="spanish">🇪🇸 {t('languages.spanish')}</option>
-                  <option value="latin">🏛️ {t('languages.latin')}</option>
-                  <option value="greek">🇬🇷 {t('languages.greek')}</option>
-                </select>
-              </div>
-              <div className="flex flex-col gap-1">
-                <label className="text-xs font-medium text-gray-500 dark:text-gray-400">
-                  {t('ui.language')}
-                </label>
-                <select
-                  value={uiLanguage}
-                  onChange={(e) => setUILanguage(e.target.value as 'en' | 'fr')}
-                  className="w-full rounded-lg border border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-800 px-3 py-2 text-sm font-semibold text-gray-700 dark:text-gray-300 shadow-soft focus:border-primary-500 focus:outline-none focus:ring-2 focus:ring-primary-500"
-                >
-                  <option value="en">🇺🇸 English</option>
-                  <option value="fr">🇫🇷 Français</option>
-                </select>
+            <div className="mt-3">
+              <div className="text-xs text-gray-500 dark:text-gray-400">
+                <span className="inline-flex items-center gap-1">
+                  <span>🔍</span>
+                  <span>Language settings available in Settings</span>
+                </span>
               </div>
             </div>
           </div>

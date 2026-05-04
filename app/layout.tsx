@@ -18,11 +18,11 @@ export default function RootLayout({
     <html lang="en">
       <body suppressHydrationWarning className="theme-transition">
         <ThemeProvider>
-          <LanguageProvider>
-            <SettingsProvider>
+          <SettingsProvider>
+            <LanguageProvider>
               {children}
-            </SettingsProvider>
-          </LanguageProvider>
+            </LanguageProvider>
+          </SettingsProvider>
         </ThemeProvider>
       </body>
     </html>

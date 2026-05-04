@@ -8,6 +8,10 @@ export interface AppSettings {
   // Essential UI Settings
   ttsRate: number;
   fallbackAccent: string;
+  
+  // Language Settings
+  uiLanguage: 'en' | 'fr';
+  learningLanguage: 'english' | 'french' | 'spanish' | 'latin' | 'greek';
 }
 
 export interface SettingsSection {

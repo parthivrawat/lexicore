@@ -20,6 +20,8 @@ const defaultSettings: AppSettings = {
   minSearchQueryLength: 1,
   ttsRate: TTS_CONFIG.rate,
   fallbackAccent: TTS_CONFIG.fallbackAccent,
+  uiLanguage: 'en',
+  learningLanguage: 'english',
 };
 
 const SettingsContext = createContext<SettingsContextType | undefined>(undefined);

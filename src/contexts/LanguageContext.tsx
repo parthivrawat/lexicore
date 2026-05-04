@@ -1,7 +1,8 @@
 'use client';
 
-import { createContext, useContext, useState, ReactNode } from 'react';
+import { createContext, useContext, useState, useEffect, ReactNode } from 'react';
 import { APP_CONFIG } from '@/constants';
+import { useSettings } from '@/contexts/SettingsContext';
 
 export type UILanguage = 'en' | 'fr';
 export type LearningLanguage = 'english' | 'french' | 'spanish' | 'latin' | 'greek';
@@ -100,25 +101,32 @@ const learningLanguageNames = {
   greek: { en: 'Greek', fr: 'Grec' },
 };
 
-export function LanguageProvider({ children }: { children: ReactNode }) {
-  const [uiLanguage, setUILanguage] = useState<UILanguage>('en');
-  const [learningLanguage, setLearningLanguage] = useState<LearningLanguage>('english');
+function LanguageProviderContent({ children }: { children: ReactNode }) {
+  const { settings, updateSetting } = useSettings();
+  
+  const setUILanguage = (lang: UILanguage) => {
+    updateSetting('uiLanguage', lang);
+  };
+
+  const setLearningLanguage = (lang: LearningLanguage) => {
+    updateSetting('learningLanguage', lang);
+  };
 
   const t = (key: string, fallback?: string): string => {
-    const value = translations[uiLanguage]?.[key as keyof typeof translations[typeof uiLanguage]];
+    const value = translations[settings.uiLanguage]?.[key as keyof typeof translations[typeof settings.uiLanguage]];
     if (!value && fallback) return fallback;
     return value || key;
   };
 
   const getLearningLanguageName = (): string => {
-    return learningLanguageNames[learningLanguage]?.[uiLanguage] || learningLanguage;
+    return learningLanguageNames[settings.learningLanguage]?.[settings.uiLanguage] || settings.learningLanguage;
   };
 
   return (
     <LanguageContext.Provider value={{ 
-      uiLanguage, 
+      uiLanguage: settings.uiLanguage, 
       setUILanguage, 
-      learningLanguage, 
+      learningLanguage: settings.learningLanguage, 
       setLearningLanguage, 
       t,
       getLearningLanguageName
@@ -126,6 +134,48 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
       {children}
     </LanguageContext.Provider>
   );
+}
+
+export function LanguageProvider({ children }: { children: ReactNode }) {
+  // During SSR, we can't access localStorage or settings, so use fallback values
+  if (typeof window === 'undefined') {
+    const fallbackUILanguage: UILanguage = 'en';
+    const fallbackLearningLanguage: LearningLanguage = 'english';
+    
+    const setUILanguage = (lang: UILanguage) => {
+      // No-op during SSR
+    };
+
+    const setLearningLanguage = (lang: LearningLanguage) => {
+      // No-op during SSR
+    };
+
+    const t = (key: string, fallback?: string): string => {
+      const value = translations[fallbackUILanguage]?.[key as keyof typeof translations[typeof fallbackUILanguage]];
+      if (!value && fallback) return fallback;
+      return value || key;
+    };
+
+    const getLearningLanguageName = (): string => {
+      return learningLanguageNames[fallbackLearningLanguage]?.[fallbackUILanguage] || fallbackLearningLanguage;
+    };
+
+    return (
+      <LanguageContext.Provider value={{ 
+        uiLanguage: fallbackUILanguage, 
+        setUILanguage, 
+        learningLanguage: fallbackLearningLanguage, 
+        setLearningLanguage, 
+        t,
+        getLearningLanguageName
+      }}>
+        {children}
+      </LanguageContext.Provider>
+    );
+  }
+
+  // Client-side: use settings
+  return <LanguageProviderContent>{children}</LanguageProviderContent>;
 }
 
 export function useLanguage() {

@@ -5,8 +5,9 @@ import { useSettings } from '@/contexts/SettingsContext';
 import { PaginationSettings } from './settings/PaginationSettings';
 import { SearchSettings } from './settings/SearchSettings';
 import { UISettings } from './settings/UISettings';
+import { LanguageSettings } from './settings/LanguageSettings';
 
-type TabId = 'pagination' | 'search' | 'ui';
+type TabId = 'pagination' | 'search' | 'ui' | 'language';
 
 export function SettingsTabs() {
   const [activeTab, setActiveTab] = useState<TabId>('pagination');
@@ -33,6 +34,13 @@ export function SettingsTabs() {
       description: 'Adjust visual elements and interactions',
       icon: '🎨',
       component: UISettings,
+    },
+    {
+      id: 'language' as TabId,
+      title: 'Language',
+      description: 'Configure interface and learning language preferences',
+      icon: '🌍',
+      component: LanguageSettings,
     },
   ];
 

@@ -1,11 +1,11 @@
-import Link from 'next/link';
+import { Link } from 'react-router-dom';
 import { PropsWithChildren } from 'react';
 
 const navItems = [
-  { href: '/', label: 'Home' },
-  { href: '/roots', label: 'Roots' },
-  { href: '/vocabulary', label: 'Vocabulary' },
-  { href: '/search', label: 'Search' },
+  { to: '/', label: 'Home' },
+  { to: '/roots', label: 'Roots' },
+  { to: '/vocabulary', label: 'Vocabulary' },
+  { to: '/search', label: 'Search' },
 ];
 
 export function AppShell({ children }: PropsWithChildren) {
@@ -20,8 +20,8 @@ export function AppShell({ children }: PropsWithChildren) {
           <nav className="flex flex-wrap items-center justify-end gap-1">
             {navItems.map((item) => (
               <Link
-                key={item.href}
-                href={item.href}
+                key={item.to}
+                to={item.to}
                 className="rounded-xl px-3 py-2 text-sm text-gray-700 hover:bg-gray-100"
               >
                 {item.label}

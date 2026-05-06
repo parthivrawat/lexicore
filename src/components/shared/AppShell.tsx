@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import { Link } from 'react-router-dom';
 import { PropsWithChildren } from 'react';
 import { ROUTES, APP_CONFIG } from '@/constants';
 import { useLanguage } from '@/contexts/LanguageContext';
@@ -8,10 +8,10 @@ export function AppShell({ children }: PropsWithChildren) {
   const { t, learningLanguage, uiLanguage, setLearningLanguage, setUILanguage } = useLanguage();
   
   const navigationItems = [
-    { href: ROUTES.home, label: 'Home', icon: '🏠' },
-    { href: ROUTES.roots, label: 'Roots', icon: '🌱' },
-    { href: ROUTES.vocabulary, label: 'Vocabulary', icon: '📚' },
-    { href: ROUTES.settings, label: 'Settings', icon: '⚙️' },
+    { to: ROUTES.home, label: 'Home', icon: '🏠' },
+    { to: ROUTES.roots, label: 'Roots', icon: '🌱' },
+    { to: ROUTES.vocabulary, label: 'Vocabulary', icon: '📚' },
+    { to: ROUTES.settings, label: 'Settings', icon: '⚙️' },
   ];
 
   return (
@@ -38,8 +38,8 @@ export function AppShell({ children }: PropsWithChildren) {
           <nav className="hidden items-center gap-1 md:flex">
             {navigationItems.map((item) => (
               <Link
-                key={item.href}
-                href={item.href}
+                key={item.to}
+                to={item.to}
                 className="group flex items-center gap-2 rounded-xl px-4 py-2 text-sm font-medium text-gray-600 dark:text-gray-300 transition-all duration-200 hover:bg-gray-100 dark:hover:bg-gray-800 hover:text-gray-900 dark:hover:text-white hover:shadow-soft"
               >
                 <span className="text-base transition-transform duration-200 group-hover:scale-110">
@@ -68,8 +68,8 @@ export function AppShell({ children }: PropsWithChildren) {
           <div className="flex flex-col gap-2">
             {navigationItems.map((item) => (
               <Link
-                key={item.href}
-                href={item.href}
+                key={item.to}
+                to={item.to}
                 className="flex items-center gap-3 rounded-lg px-3 py-2 text-sm font-medium text-gray-600 dark:text-gray-300 transition-colors hover:bg-gray-100 dark:hover:bg-gray-800 hover:text-gray-900 dark:hover:text-white"
               >
                 <span>{item.icon}</span>

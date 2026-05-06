@@ -1,14 +1,12 @@
-'use client';
-
-import { useSearchParams, useRouter } from 'next/navigation';
+import { useSearchParams, useNavigate } from 'react-router-dom';
 import { useMemo } from 'react';
 import { useSettings } from '@/contexts/SettingsContext';
 
 export function usePagination(totalItems: number) {
   const { settings } = useSettings();
   const itemsPerPage = settings.itemsPerPage;
-  const searchParams = useSearchParams();
-  const router = useRouter();
+  const [searchParams] = useSearchParams();
+  const navigate = useNavigate();
 
   const currentPage = useMemo(() => {
     const pageParam = searchParams.get('page');
@@ -35,7 +33,7 @@ export function usePagination(totalItems: number) {
       ? `${window.location.pathname}?${params.toString()}`
       : window.location.pathname;
     
-    router.push(newUrl);
+    navigate(newUrl);
   };
 
   const paginationInfo = useMemo(() => ({

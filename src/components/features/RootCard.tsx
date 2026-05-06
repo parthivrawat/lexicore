@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import { Link } from 'react-router-dom';
 import { WordRoot } from '@/types';
 import { formatRootType } from '@/utils/format';
 import { useLanguage } from '@/contexts/LanguageContext';
@@ -17,7 +17,7 @@ export function RootCard({ root }: RootCardProps) {
 
   return (
     <Link
-      href={`/roots/${encodeURIComponent(root.id)}`}
+      to={`/roots/${encodeURIComponent(root.id)}`}
       className="group block bg-white dark:bg-gray-800 rounded-2xl border border-gray-200/50 dark:border-gray-700/50 p-6 shadow-soft card-hover"
     >
       <div className="flex items-start justify-between gap-4">

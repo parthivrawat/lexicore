@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import { Link } from 'react-router-dom';
 import { VocabWord } from '@/types';
 import { formatCategory } from '@/utils/format';
 import { useLanguage } from '@/contexts/LanguageContext';
@@ -17,7 +17,7 @@ export function VocabCard({ word }: VocabCardProps) {
 
   return (
     <Link
-      href={`/vocabulary/${encodeURIComponent(word.id)}`}
+      to={`/vocabulary/${encodeURIComponent(word.id)}`}
       className="group block bg-white dark:bg-gray-800 rounded-2xl border border-gray-200/50 dark:border-gray-700/50 p-6 shadow-soft card-hover"
     >
       <div className="flex items-start justify-between gap-4">

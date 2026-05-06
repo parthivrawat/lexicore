@@ -32,7 +32,7 @@ This guide covers setting up the development environment, coding standards, and 
     "bradlc.vscode-tailwindcss",
     "esbenp.prettier-vscode",
     "dbaeumer.vscode-eslint",
-    "ms-vscode.vscode-typescript-next",
+    "ms-vscode.vscode-typescript-react",
     "formulahendry.auto-rename-tag",
     "christian-kohler.path-intellisense"
   ]
@@ -356,10 +356,9 @@ export function Grid({ children }: GridProps) {
 ```typescript
 // 1. React imports
 import { useState, useEffect } from 'react';
-import { NextPage } from 'next';
+import { Link } from 'react-router-dom';
 
 // 2. Third-party imports
-import Link from 'next/link';
 
 // 3. Internal imports (absolute paths)
 import { Button } from '@/components/ui/Button';
@@ -698,8 +697,9 @@ Brief description of changes made.
 
 ### Documentation
 
-- [Next.js Documentation](https://nextjs.org/docs)
 - [React Documentation](https://react.dev/)
+- [React Router Documentation](https://reactrouter.com/)
+- [Vite Documentation](https://vitejs.dev/)
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 
@@ -713,7 +713,8 @@ Brief description of changes made.
 ### Best Practices
 
 - [React Best Practices](https://react.dev/learn/thinking-in-react)
+- [React Router Best Practices](https://reactrouter.com/en/main/route/route#concepts)
+- [Vite Best Practices](https://vitejs.dev/guide/)
 - [TypeScript Best Practices](https://typescript-eslint.io/rules/)
-- [Next.js Best Practices](https://nextjs.org/docs/building-your-application/deploying)
 
 This development guide provides comprehensive standards and workflows for contributing to the project effectively.

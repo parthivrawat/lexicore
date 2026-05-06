@@ -1,137 +1,91 @@
 # Deployment Guide
 
-## 🚀 Deployment Documentation
+## 🚀 Overview
 
-This guide covers building, testing, and deploying the multilingual word roots and vocabulary platform.
+This guide covers deploying the Vite + React version of the Word Roots & Core Vocabulary Platform to various hosting platforms.
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
+- [Prerequisites](#prerequisites)
 - [Build Process](#build-process)
-- [Static Export](#static-export)
-- [Deployment Options](#deployment-options)
-- [Environment Configuration](#environment-configuration)
+- [Deployment Platforms](#deployment-platforms)
+- [Environment Variables](#environment-variables)
 - [Performance Optimization](#performance-optimization)
-- [Monitoring](#monitoring)
 - [Troubleshooting](#troubleshooting)
 
-## 🎯 Overview
+## 🎯 Prerequisites
 
-The application is designed as a **static site** that can be deployed to any static hosting service. This approach provides:
+### Required Software
+- **Node.js**: Version 18.0 or higher
+- **npm**: Version 8.0 or higher
+- **Git**: Latest stable version
 
-- **Fast Loading**: No server-side processing required
-- **High Availability**: CDN-friendly static assets
-- **Low Cost**: Minimal hosting expenses
-- **Security**: No server vulnerabilities
-- **Scalability**: Handles high traffic with CDN
+### Build Verification
+```bash
+# Install dependencies
+npm install
+
+# Build for production
+npm run build
+
+# Preview locally
+npm run preview
+```
 
 ## 🔨 Build Process
 
-### Prerequisites
-
-```bash
-# Verify Node.js version
-node --version  # Should be 18.0+
-
-# Verify npm version
-npm --version   # Should be 8.0+
-
-# Clean install dependencies
-rm -rf node_modules package-lock.json
-npm install
-```
-
-### Build Commands
-
-```bash
-# Development build (with debugging)
-npm run build
-
-# Production build (optimized)
-npm run build
-
-# Static export (for deployment)
-npm run export
-```
-
 ### Build Configuration
 
-```javascript
-// next.config.mjs
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  output: 'export',
-  images: {
-    unoptimized: true,
-  },
-  trailingSlash: true,
-  distDir: 'out',
-};
+The project uses Vite for building with the following configuration:
 
-export default nextConfig;
+```javascript
+// vite.config.ts
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+import path from 'path'
+
+export default defineConfig({
+  plugins: [react()],
+  resolve: {
+    alias: {
+      '@': path.resolve(__dirname, './src'),
+    },
+  },
+  build: {
+    outDir: 'dist',
+  },
+})
 ```
 
 ### Build Output
 
 ```
-out/
-├── _next/
-│   ├── static/
-│   │   ├── css/
-│   │   ├── js/
-│   │   └── chunks/
-├── roots/
-├── vocabulary/
-├── search/
+dist/
+├── assets/
+│   ├── index-[hash].css
+│   └── index-[hash].js
 ├── index.html
-├── 404.html
-└── manifest.json
+└── vite.svg
 ```
 
-## 📦 Static Export
-
-### Export Process
+### Build Commands
 
 ```bash
 # 1. Clean previous build
-rm -rf out .next
+rm -rf dist
 
-# 2. Run static export
-npm run export
+# 2. Run production build
+npm run build
 
-# 3. Verify output
-ls -la out/
+# 3. Verify build output
+ls -la dist/
 ```
 
-### Export Features
-
-- **Static HTML**: All pages pre-rendered as HTML
-- **Optimized Assets**: CSS and JS minified and optimized
-- **Image Optimization**: Images processed for web
-- **Font Optimization**: Fonts optimized for loading
-- **Manifest Generation**: PWA manifest included
-
-### Export Verification
-
-```bash
-# Check file sizes
-du -sh out/
-
-# Verify critical files
-ls out/index.html
-ls out/_next/static/css/
-ls out/_next/static/js/
-
-# Test locally
-npx serve out -p 3000
-```
-
-## 🌐 Deployment Options
+## 🌐 Deployment Platforms
 
 ### 1. Vercel (Recommended)
 
-#### Setup
-
+#### Automatic Deployment
 ```bash
 # Install Vercel CLI
 npm i -g vercel
@@ -140,96 +94,74 @@ npm i -g vercel
 vercel --prod
 ```
 
-#### Configuration
-
+#### vercel.json Configuration
 ```json
-// vercel.json
 {
   "buildCommand": "npm run build",
-  "outputDirectory": "out",
+  "outputDirectory": "dist",
   "installCommand": "npm install",
-  "framework": "nextjs",
+  "framework": "vite",
   "functions": {},
   "routes": [
     {
+      "src": "/assets/(.*)",
+      "headers": {
+        "cache-control": "public, max-age=31536000, immutable"
+      }
+    },
+    {
       "src": "/(.*)",
-      "dest": "/$1"
+      "dest": "/index.html"
     }
   ]
 }
 ```
 
-#### Features
-
-- **Automatic HTTPS**: SSL certificates included
-- **Global CDN**: Fast content delivery
-- **Automatic Deployments**: Git-based deployments
-- **Analytics**: Built-in performance analytics
-- **Preview Deployments**: Test changes before production
-
 ### 2. Netlify
 
-#### Setup
-
-```bash
-# Install Netlify CLI
-npm i -g netlify-cli
-
-# Deploy
-netlify deploy --prod --dir=out
-```
-
-#### Configuration
-
+#### Build Configuration
 ```toml
 # netlify.toml
 [build]
-  publish = "out"
-  command = "npm run export"
+  base = "/"
+  command = "npm run build"
+  publish = "dist"
 
 [[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
 
-[build.environment]
-  NODE_VERSION = "18"
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
 ```
 
-#### Features
+#### Deployment
+```bash
+# Install Netlify CLI
+npm install -g netlify-cli
 
-- **Continuous Deployment**: Automatic from Git
-- **Form Handling**: Built-in form processing
-- **Functions**: Serverless functions available
-- **Split Testing**: A/B testing capabilities
-- **Analytics**: Visitor analytics included
+# Deploy
+netlify deploy --prod --dir=dist
+```
 
 ### 3. GitHub Pages
 
-#### Setup
-
-```bash
-# Build for GitHub Pages
-npm run export
-
-# Deploy to gh-pages branch
-npm run deploy:gh-pages
-```
-
-#### Configuration
-
+#### Build Configuration
 ```json
-// package.json scripts
+// package.json
 {
   "scripts": {
-    "export": "next export",
-    "deploy:gh-pages": "gh-pages -d out"
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "deploy:gh-pages": "npm run build && gh-pages -d dist"
   }
 }
 ```
 
-#### GitHub Actions
-
+#### GitHub Actions Workflow
 ```yaml
 # .github/workflows/deploy.yml
 name: Deploy to GitHub Pages
@@ -239,8 +171,9 @@ on:
     branches: [ main ]
 
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
+    
     steps:
     - uses: actions/checkout@v3
     
@@ -248,74 +181,41 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: '18'
-        cache: 'npm'
-    
+        
     - name: Install dependencies
-      run: npm ci
-    
-    - name: Build and export
-      run: npm run export
-    
+      run: npm install
+      
+    - name: Build
+      run: npm run build
+      
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./out
+        publish_dir: ./dist
 ```
 
 ### 4. AWS S3 + CloudFront
 
-#### Setup
-
+#### Build and Upload
 ```bash
-# Install AWS CLI
-npm i -g aws-cli
+# Build
+npm run build
 
-# Configure AWS credentials
-aws configure
-
-# Deploy to S3
-aws s3 sync out/ s3://your-bucket-name --delete
+# Upload to S3
+aws s3 sync dist/ s3://your-bucket-name --delete
 
 # Invalidate CloudFront cache
 aws cloudfront create-invalidation --distribution-id YOUR_DISTRIBUTION_ID --paths "/*"
 ```
 
-#### Configuration
-
-```json
-// package.json scripts
-{
-  "scripts": {
-    "deploy:s3": "aws s3 sync out/ s3://your-bucket-name --delete",
-    "deploy:cloudfront": "aws cloudfront create-invalidation --distribution-id YOUR_DISTRIBUTION_ID --paths '/*'",
-    "deploy:aws": "npm run deploy:s3 && npm run deploy:cloudfront"
-  }
-}
-```
-
 ### 5. Firebase Hosting
 
-#### Setup
-
-```bash
-# Install Firebase CLI
-npm i -g firebase-tools
-
-# Initialize Firebase
-firebase init hosting
-
-# Deploy
-firebase deploy
-```
-
-#### Configuration
-
+#### firebase.json Configuration
 ```json
-// firebase.json
 {
   "hosting": {
-    "public": "out",
+    "public": "dist",
     "ignore": [
       "firebase.json",
       "**/.*",
@@ -331,64 +231,55 @@ firebase deploy
 }
 ```
 
-## ⚙️ Environment Configuration
-
-### Environment Variables
-
+#### Deployment
 ```bash
-# .env.local (development)
-NEXT_PUBLIC_APP_URL=http://localhost:3000
-NEXT_PUBLIC_APP_NAME="Word Roots & Vocabulary"
-NEXT_PUBLIC_ANALYTICS_ID=your-analytics-id
+# Install Firebase CLI
+npm install -g firebase-tools
 
-# .env.production (production)
-NEXT_PUBLIC_APP_URL=https://your-domain.com
-NEXT_PUBLIC_APP_NAME="Word Roots & Vocabulary"
-NEXT_PUBLIC_ANALYTICS_ID=your-analytics-id
+# Deploy
+firebase deploy --only hosting
 ```
 
-### Build Configuration
+## 🔧 Environment Variables
 
+### Development vs Production
+```bash
+# Development
+npm run dev
+
+# Production
+npm run build
+npm run preview
+```
+
+### Environment Configuration
 ```javascript
-// next.config.mjs
-const isProduction = process.env.NODE_ENV === 'production';
-
-const nextConfig = {
-  output: 'export',
-  images: {
-    unoptimized: true,
-  },
-  trailingSlash: true,
-  distDir: 'out',
-  
-  // Production optimizations
-  ...(isProduction && {
-    compress: true,
-    poweredByHeader: false,
-  }),
-};
-
-export default nextConfig;
+// src/config/environment.ts
+export const config = {
+  apiUrl: import.meta.env.VITE_API_URL || 'default-api-url',
+  environment: import.meta.env.MODE,
+  isDevelopment: import.meta.env.DEV,
+  isProduction: import.meta.env.PROD,
+}
 ```
 
-### Domain Configuration
+### Platform-Specific Variables
 
-#### Custom Domain (Vercel)
-
+#### Vercel
 ```bash
-# Add custom domain
-vercel domains add yourdomain.com
-
-# Verify DNS
-vercel domains inspect
+# vercel.json
+{
+  "env": {
+    "VITE_API_URL": "@api_url"
+  }
+}
 ```
 
-#### Custom Domain (Netlify)
-
+#### Netlify
 ```bash
-# Add custom domain via Netlify dashboard
-# or via CLI
-netlify domains add yourdomain.com
+# netlify.toml
+[build.environment]
+  VITE_API_URL = "https://api.example.com"
 ```
 
 ## ⚡ Performance Optimization
@@ -396,269 +287,155 @@ netlify domains add yourdomain.com
 ### Build Optimization
 
 ```javascript
-// next.config.mjs
-const nextConfig = {
-  // ... existing config
-  
-  // Optimization settings
-  swcMinify: true,
-  compress: true,
-  
-  // Bundle analyzer (development)
-  ...(process.env.ANALYZE === 'true' && {
-    webpack: (config) => {
-      const { BundleAnalyzerPlugin } = require('webpack-bundle-analyzer');
-      config.plugins.push(new BundleAnalyzerPlugin());
-      return config;
-    },
-  }),
-};
-```
-
-### Asset Optimization
-
-```typescript
-// Image optimization (future)
-import Image from 'next/image';
-
-export function OptimizedImage({ src, alt, ...props }) {
-  return (
-    <Image
-      src={src}
-      alt={alt}
-      width={400}
-      height={300}
-      placeholder="blur"
-      {...props}
-    />
-  );
-}
-```
-
-### Critical CSS
-
-```css
-/* Critical CSS inlined in layout */
-.critical-header {
-  /* Above-the-fold styles */
-}
-
-/* Non-critical CSS loaded asynchronously */
-.non-critical-content {
-  /* Below-the-fold styles */
-}
-```
-
-### Performance Budgets
-
-```json
-// .lighthouserc.js
-module.exports = {
-  ci: {
-    collect: {
-      numberOfRuns: 3,
-    },
-    assert: {
-      assertions: {
-        'categories:performance': ['warn', { minScore: 0.9 }],
-        'categories:accessibility': ['error', { minScore: 0.9 }],
-        'categories:best-practices': ['warn', { minScore: 0.9 }],
-        'categories:seo': ['warn', { minScore: 0.9 }],
+// vite.config.ts
+export default defineConfig({
+  build: {
+    outDir: 'dist',
+    sourcemap: true,
+    rollupOptions: {
+      output: {
+        manualChunks: {
+          vendor: ['react', 'react-dom'],
+          router: ['react-router-dom'],
+        },
       },
     },
   },
-};
+  optimizeDeps: {
+    include: ['react', 'react-dom', 'react-router-dom'],
+  },
+})
 ```
 
-## 📊 Monitoring
+### Caching Strategy
 
-### Performance Monitoring
-
-#### Google Analytics
-
-```typescript
-// src/components/analytics/GoogleAnalytics.tsx
-import Script from 'next/script';
-
-export function GoogleAnalytics() {
-  return (
-    <>
-      <Script
-        src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"
-        strategy="afterInteractive"
-      />
-      <Script id="google-analytics" strategy="afterInteractive">
-        {`
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'GA_MEASUREMENT_ID');
-        `}
-      </Script>
-    </>
-  );
-}
+```javascript
+// vite.config.ts
+export default defineConfig({
+  server: {
+    headers: {
+      '/assets/*': {
+        'Cache-Control': 'public, max-age=31536000, immutable',
+      },
+    },
+  },
+})
 ```
 
-#### Core Web Vitals
+### Bundle Analysis
 
-```typescript
-// src/components/analytics/WebVitals.tsx
-import { getCLS, getFID, getFCP, getLCP, getTTFB } from 'web-vitals';
+```bash
+# Install bundle analyzer
+npm install --save-dev rollup-plugin-visualizer
 
-function sendToAnalytics(metric) {
-  // Send to your analytics service
-  gtag('event', metric.name, {
-    value: metric.value,
-    metric_id: metric.id,
-  });
-}
-
-export function reportWebVitals() {
-  getCLS(sendToAnalytics);
-  getFID(sendToAnalytics);
-  getFCP(sendToAnalytics);
-  getLCP(sendToAnalytics);
-  getTTFB(sendToAnalytics);
-}
+# Analyze bundle
+npm run build -- --analyze
 ```
 
-### Error Monitoring
-
-#### Sentry Integration (future)
-
-```typescript
-// src/lib/monitoring.ts
-import * as Sentry from '@sentry/nextjs';
-
-export function initMonitoring() {
-  Sentry.init({
-    dsn: process.env.NEXT_PUBLIC_SENTRY_DSN,
-    environment: process.env.NODE_ENV,
-  });
-}
-
-export function captureError(error: Error, context?: any) {
-  Sentry.captureException(error, { extra: context });
-}
-```
-
-### Health Checks
-
-```typescript
-// src/pages/api/health.ts (future backend)
-export default function handler(req, res) {
-  res.status(200).json({
-    status: 'healthy',
-    timestamp: new Date().toISOString(),
-    version: process.env.npm_package_version,
-  });
-}
-```
-
-## 🔧 Troubleshooting
+## 🔍 Troubleshooting
 
 ### Common Issues
 
-#### 1. Build Failures
-
+#### 1. Build Fails
 ```bash
 # Clear cache
-rm -rf .next out node_modules
+rm -rf node_modules dist .vite
 npm install
-
-# Check for TypeScript errors
-npm run type-check
-
-# Check for ESLint errors
-npm run lint
-
-# Rebuild
 npm run build
 ```
 
-#### 2. Static Export Issues
+#### 2. Routing Issues
+Ensure your hosting platform supports SPA routing:
+- All routes should serve `index.html`
+- Configure fallback routing in hosting settings
 
+#### 3. Asset Loading Issues
 ```bash
-# Verify Next.js configuration
-cat next.config.mjs
+# Verify asset paths
+ls -la dist/assets/
 
-# Check for dynamic imports
-grep -r "dynamic(" src/
-
-# Verify no server-side code
-grep -r "getServerSideProps\|getStaticProps" app/
+# Check build logs
+npm run build -- --mode production
 ```
 
-#### 3. Deployment Issues
-
+#### 4. Environment Variables Not Working
 ```bash
+# Verify variable names start with VITE_
+echo $VITE_API_URL
+
 # Check build output
-ls -la out/
-
-# Test locally
-npx serve out -p 3000
-
-# Check routing
-curl -I http://localhost:3000/roots
+grep -r "VITE_" dist/
 ```
 
-#### 4. Performance Issues
+### Debug Commands
 
 ```bash
-# Analyze bundle size
-npm run analyze
+# Verify build configuration
+cat vite.config.ts
 
-# Check Lighthouse scores
-npx lighthouse http://localhost:3000
+# Check package.json scripts
+cat package.json | jq '.scripts'
 
-# Monitor network requests
-# Open DevTools > Network tab
+# Test production build locally
+npm run preview
+
+# Check for TypeScript errors
+npx tsc --noEmit
+
+# Verify Vite configuration
+npx vite build --mode production --debug
 ```
 
-### Debugging Checklist
+### Performance Monitoring
 
-- [ ] Dependencies installed correctly
-- [ ] Environment variables set
-- [ ] Build completes without errors
-- [ ] Static export generates files
-- [ ] Local testing works
-- [ ] DNS configured correctly
-- [ ] SSL certificates valid
-- [ ] Performance metrics acceptable
+```bash
+# Check bundle size
+npx vite-bundle-analyzer dist/
 
-### Support Resources
+# Lighthouse audit
+npx lighthouse http://your-domain.com
 
-- [Next.js Deployment Docs](https://nextjs.org/docs/deployment)
-- [Vercel Deployment Guide](https://vercel.com/docs/concepts/deployments)
-- [Netlify Deployment Guide](https://docs.netlify.com/site-deployment/)
-- [GitHub Pages Docs](https://docs.github.com/en/pages)
+# Core Web Vitals
+npx web-vitals https://your-domain.com
+```
 
-## 📋 Deployment Checklist
+## 📊 Deployment Checklist
 
 ### Pre-Deployment
-
-- [ ] Code reviewed and approved
-- [ ] All tests passing
-- [ ] Build successful
-- [ ] Performance metrics acceptable
-- [ ] Security scan completed
-- [ ] Documentation updated
-
-### Deployment
-
-- [ ] Backup current version
-- [ ] Deploy to staging first
-- [ ] Test staging deployment
-- [ ] Deploy to production
-- [ ] Verify production deployment
+- [ ] All tests pass
+- [ ] Build succeeds locally
+- [ ] Environment variables configured
+- [ ] Asset optimization enabled
+- [ ] Error handling implemented
+- [ ] Performance testing completed
 
 ### Post-Deployment
+- [ ] Application loads correctly
+- [ ] All routes work
+- [ ] Assets load properly
+- [ ] No console errors
+- [ ] Performance metrics acceptable
+- [ ] Mobile responsiveness verified
 
-- [ ] Monitor error rates
-- [ ] Check performance metrics
-- [ ] Verify user functionality
-- [ ] Update documentation
-- [ ] Notify team of deployment
+## 📚 Additional Resources
 
-This deployment guide provides comprehensive instructions for deploying the application to various hosting platforms with best practices for performance and reliability.
+### Documentation
+- [Vite Deployment Guide](https://vitejs.dev/guide/build)
+- [React Router Deployment](https://reactrouter.com/en/main/route/route#concepts)
+- [Netlify SPA Guide](https://docs.netlify.com/site-deployment/single-page-apps/)
+- [Vercel Static Sites](https://vercel.com/docs/concepts/projects/static-sites)
+
+### Tools
+- [Bundle Analyzer](https://www.npmjs.com/package/rollup-plugin-visualizer)
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse)
+- [Web Vitals](https://web.dev/vitals/)
+- [PageSpeed Insights](https://pagespeed.web.dev/)
+
+### Best Practices
+- [Vite Performance](https://vitejs.dev/guide/build#build-optimizations)
+- [React Performance](https://react.dev/learn/render-and-commit)
+- [Web Performance](https://web.dev/performance/)
+
+---
+
+This deployment guide provides comprehensive instructions for deploying the Vite + React version of the Word Roots & Core Vocabulary Platform to various hosting platforms with optimization and troubleshooting guidance.

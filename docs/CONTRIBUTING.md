@@ -94,7 +94,7 @@ Install these VS Code extensions:
     "bradlc.vscode-tailwindcss",
     "esbenp.prettier-vscode",
     "dbaeumer.vscode-eslint",
-    "ms-vscode.vscode-typescript-next",
+    "ms-vscode.vscode-typescript-react",
     "formulahendry.auto-rename-tag",
     "christian-kohler.path-intellisense"
   ]
@@ -541,16 +541,18 @@ For experienced contributors:
 ### Recommended Reading
 
 - [React Documentation](https://react.dev/)
-- [Next.js Documentation](https://nextjs.org/docs)
+- [React Router Documentation](https://reactrouter.com/)
+- [Vite Documentation](https://vitejs.dev/)
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs/)
 - [Accessibility Guidelines](https://www.w3.org/WAI/WCAG21/quickref/)
 
 ### Best Practices
 
 - [React Best Practices](https://react.dev/learn/thinking-in-react)
+- [React Router Best Practices](https://reactrouter.com/en/main/route/route#concepts)
+- [Vite Best Practices](https://vitejs.dev/guide/)
 - [TypeScript Best Practices](https://typescript-eslint.io/rules/)
-- [Next.js Best Practices](https://nextjs.org/docs/building-your-application/deploying)
 - [Accessibility Best Practices](https://www.w3.org/WAI/WCAG21/quickref/)
 
 Thank you for contributing to the multilingual word roots and vocabulary platform! Your contributions help make this project better for everyone. 🎉

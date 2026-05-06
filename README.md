@@ -2,7 +2,7 @@
 
 ## 🎯 English-Only MVP (Frontend Only)
 
-A comprehensive English word roots and vocabulary learning platform built with Next.js 15, designed as a frontend-only MVP with plans for full-stack expansion.
+A comprehensive English word roots and vocabulary learning platform built with **Vite + React**, designed as a frontend-only MVP with plans for full-stack expansion.
 
 ## 📚 Documentation
 
@@ -19,10 +19,11 @@ For comprehensive documentation, visit our **[docs/](./docs/README.md)** directo
 
 ## 🏗️ Architecture
 
-This project follows Next.js 15 App Router best practices with a clear separation of concerns:
+This project follows modern React + Vite best practices with a clear separation of concerns:
 
-- **`app/`**: Next.js App Router (pages, layouts, routing)
-- **`src/`**: Reusable components, data, and utilities
+- **`src/`**: All React components, data, and utilities
+- **`pages/`**: Route-based page components
+- **`index.html`**: Vite entry point
 
 ### Key Features
 - **200+ English Word Roots**: Prefixes, suffixes, and base roots with examples and relationships
@@ -41,7 +42,7 @@ This project follows Next.js 15 App Router best practices with a clear separatio
 ### Installation
 
 ```bash
-# Clone the repository
+# Clone repository
 git clone <repository-url>
 cd multilingual-word-roots_and_core-vocabulary-platform
 
@@ -54,8 +55,8 @@ npm run dev
 # Build for production
 npm run build
 
-# Export static files
-npm run export
+# Preview production build
+npm run preview
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to view the application.
@@ -63,24 +64,24 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 ## 📁 Project Structure
 
 ```
-├── app/                          # Next.js App Router
-│   ├── roots/                   # Root explorer pages
-│   ├── vocabulary/              # Vocabulary pages
-│   └── search/                  # Search functionality
-├── src/                         # Reusable code
+├── src/                         # All source code
 │   ├── components/             # React components
 │   │   ├── ui/                 # UI components
 │   │   ├── shared/             # Layout components
 │   │   └── features/           # Feature components
-│   ├── data/                    # Static data
+│   ├── pages/                  # Route-based page components
+│   ├── data/                   # Static data
 │   │   ├── roots/english.ts    # English roots dataset
 │   │   └── vocabulary/english.ts # English vocabulary dataset
-│   ├── hooks/                   # Custom React hooks
-│   ├── utils/                   # Utility functions
-│   ├── constants/               # App configuration
-│   └── types/                   # TypeScript definitions
-├── docs/                        # Comprehensive documentation
-└── public/                      # Static assets
+│   ├── hooks/                  # Custom React hooks
+│   ├── utils/                  # Utility functions
+│   ├── contexts/               # React contexts
+│   ├── constants/              # App configuration
+│   └── types/                  # TypeScript definitions
+├── docs/                       # Comprehensive documentation
+├── public/                     # Static assets
+├── index.html                  # Vite entry point
+└── vite.config.ts             # Vite configuration
 ```
 
 ## 🧭 Navigation
@@ -128,10 +129,11 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 
 ## 🛠️ Technology Stack
 
-- **Framework**: Next.js 15 (App Router)
+- **Framework**: React 19 with Vite 6
+- **Routing**: React Router v6
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
-- **Build Tool**: Next.js with static export
+- **Build Tool**: Vite
 - **Data**: Frontend-only static TypeScript files
 - **Architecture**: Component-based with custom hooks
 
@@ -178,11 +180,17 @@ import { useSearch } from '@/hooks/useSearch';
 
 ## 📦 Build & Deployment
 
-### Static Export
+### Production Build
 ```bash
-npm run export
+npm run build
 ```
-Generates static files in `out/` directory for deployment to any static hosting service.
+Generates optimized static files in `dist/` directory.
+
+### Preview Build
+```bash
+npm run preview
+```
+Preview the production build locally.
 
 ### Deployment Options
 

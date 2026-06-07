@@ -1,0 +1,344 @@
+import { VocabWord } from '@/types';
+
+export const dailyUseNouns: VocabWord[] = [
+  { id: 'word_maison', word: 'maison', meaning: 'house', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'mɛzɔ̃' },
+    { accent: 'quebecois', ipa: 'mɛzɔ̃' },
+    { accent: 'belgian', ipa: 'mɛzɔ̃' }
+  ], category: 'daily-use-nouns', examples: ['Je vis dans une grande maison.', 'La maison est belle.'] },
+  { id: 'word_famille', word: 'famille', meaning: 'family', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'famij' },
+    { accent: 'quebecois', ipa: 'famij' },
+    { accent: 'belgian', ipa: 'famij' }
+  ], category: 'daily-use-nouns', examples: ['J\'aime ma famille.', 'La famille est importante.'] },
+  { id: 'word_ami', word: 'ami', meaning: 'friend (male)', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'ami' },
+    { accent: 'quebecois', ipa: 'ami' },
+    { accent: 'belgian', ipa: 'ami' }
+  ], category: 'daily-use-nouns', examples: ['C\'est mon meilleur ami.', 'J\'ai beaucoup d\'amis.'] },
+  { id: 'word_amie', word: 'amie', meaning: 'friend (female)', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'ami' },
+    { accent: 'quebecois', ipa: 'ami' },
+    { accent: 'belgian', ipa: 'ami' }
+  ], category: 'daily-use-nouns', examples: ['C\'est ma meilleure amie.', 'Elle est une bonne amie.'] },
+  { id: 'word_temps', word: 'temps', meaning: 'time/weather', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'tɑ̃' },
+    { accent: 'quebecois', ipa: 'tɑ̃' },
+    { accent: 'belgian', ipa: 'tɑ̃' }
+  ], category: 'daily-use-nouns', examples: ['Je n\'ai pas le temps.', 'Quel temps fait-il?'] },
+  { id: 'word_jour', word: 'jour', meaning: 'day', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'ʒuʁ' },
+    { accent: 'quebecois', ipa: 'ʒuʁ' },
+    { accent: 'belgian', ipa: 'ʒuʁ' }
+  ], category: 'daily-use-nouns', examples: ['Bonne journée!', 'Je travaille tous les jours.'] },
+  { id: 'word_nuit', word: 'nuit', meaning: 'night', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'nɥi' },
+    { accent: 'quebecois', ipa: 'nɥi' },
+    { accent: 'belgian', ipa: 'nɥi' }
+  ], category: 'daily-use-nouns', examples: ['La nuit est étoilée.', 'Je dors la nuit.'] },
+  { id: 'word_eau', word: 'eau', meaning: 'water', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'o' },
+    { accent: 'quebecois', ipa: 'o' },
+    { accent: 'belgian', ipa: 'o' }
+  ], category: 'daily-use-nouns', examples: ['Je bois de l\'eau.', 'L\'eau est froide.'] },
+  { id: 'word_pain', word: 'pain', meaning: 'bread', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'pɛ̃' },
+    { accent: 'quebecois', ipa: 'pɛ̃' },
+    { accent: 'belgian', ipa: 'pɛ̃' }
+  ], category: 'daily-use-nouns', examples: ['Je mange du pain.', 'Le pain est frais.'] },
+  { id: 'word_livre', word: 'livre', meaning: 'book', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'livʁ' },
+    { accent: 'quebecois', ipa: 'livʁ' },
+    { accent: 'belgian', ipa: 'livʁ' }
+  ], category: 'daily-use-nouns', examples: ['Je lis un livre.', 'Ce livre est intéressant.'] },
+  { id: 'word_table', word: 'table', meaning: 'table', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'tabl' },
+    { accent: 'quebecois', ipa: 'tabl' },
+    { accent: 'belgian', ipa: 'tabl' }
+  ], category: 'daily-use-nouns', examples: ['Mets le livre sur la table.', 'La table est mise.'] },
+  { id: 'word_chaise', word: 'chaise', meaning: 'chair', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'ʃɛz' },
+    { accent: 'quebecois', ipa: 'ʃɛz' },
+    { accent: 'belgian', ipa: 'ʃɛz' }
+  ], category: 'daily-use-nouns', examples: ['Assieds-toi sur cette chaise.', 'La chaise est confortable.'] },
+  { id: 'word_porte', word: 'porte', meaning: 'door', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'pɔʁt' },
+    { accent: 'quebecois', ipa: 'pɔʁt' },
+    { accent: 'belgian', ipa: 'pɔʁt' }
+  ], category: 'daily-use-nouns', examples: ['Ouvre la porte.', 'La porte est fermée.'] },
+  { id: 'word_fenêtre', word: 'fenêtre', meaning: 'window', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'fənɛtʁ' },
+    { accent: 'quebecois', ipa: 'fənɛtʁ' },
+    { accent: 'belgian', ipa: 'fənɛtʁ' }
+  ], category: 'daily-use-nouns', examples: ['Regarde par la fenêtre.', 'La fenêtre est ouverte.'] },
+  { id: 'word_voiture', word: 'voiture', meaning: 'car', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'vwatyʁ' },
+    { accent: 'quebecois', ipa: 'vwatyʁ' },
+    { accent: 'belgian', ipa: 'vwatyʁ' }
+  ], category: 'daily-use-nouns', examples: ['Je conduis ma voiture.', 'La voiture est rapide.'] },
+  { id: 'word_école', word: 'école', meaning: 'school', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'ekɔl' },
+    { accent: 'quebecois', ipa: 'ekɔl' },
+    { accent: 'belgian', ipa: 'ekɔl' }
+  ], category: 'daily-use-nouns', examples: ['Les enfants vont à l\'école.', 'L\'école est grande.'] },
+  { id: 'word_travail', word: 'travail', meaning: 'work', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'tʁavaj' },
+    { accent: 'quebecois', ipa: 'tʁavaj' },
+    { accent: 'belgian', ipa: 'tʁavaj' }
+  ], category: 'daily-use-nouns', examples: ['Le travail est important.', 'Je vais au travail.'] },
+  { id: 'word_argent', word: 'argent', meaning: 'money', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'aʁʒɑ̃' },
+    { accent: 'quebecois', ipa: 'aʁʒɑ̃' },
+    { accent: 'belgian', ipa: 'aʁʒɑ̃' }
+  ], category: 'daily-use-nouns', examples: ['Je n\'ai pas d\'argent.', 'L\'argent ne fait pas le bonheur.'] },
+  { id: 'word_nourriture', word: 'nourriture', meaning: 'food', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'nuʁityʁ' },
+    { accent: 'quebecois', ipa: 'nuʁityʁ' },
+    { accent: 'belgian', ipa: 'nuʁityʁ' }
+  ], category: 'daily-use-nouns', examples: ['La nourriture est bonne.', 'J\'aime la nourriture française.'] },
+  { id: 'word_ville', word: 'ville', meaning: 'city', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'vil' },
+    { accent: 'quebecois', ipa: 'vil' },
+    { accent: 'belgian', ipa: 'vil' }
+  ], category: 'daily-use-nouns', examples: ['J\'habite dans une grande ville.', 'La ville est belle.'] },
+  { id: 'word_pays', word: 'pays', meaning: 'country', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'pɛi' },
+    { accent: 'quebecois', ipa: 'pɛi' },
+    { accent: 'belgian', ipa: 'pɛi' }
+  ], category: 'daily-use-nouns', examples: ['La France est un beau pays.', 'J\'aime mon pays.'] },
+  { id: 'word_langue', word: 'langue', meaning: 'language/tongue', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'lɑ̃ɡ' },
+    { accent: 'quebecois', ipa: 'lɑ̃ɡ' },
+    { accent: 'belgian', ipa: 'lɑ̃ɡ' }
+  ], category: 'daily-use-nouns', examples: ['J\'apprends une nouvelle langue.', 'La langue française est belle.'] },
+  { id: 'word_mot', word: 'mot', meaning: 'word', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'mo' },
+    { accent: 'quebecois', ipa: 'mo' },
+    { accent: 'belgian', ipa: 'mo' }
+  ], category: 'daily-use-nouns', examples: ['Quel est ce mot?', 'J\'apprends un nouveau mot.'] },
+  { id: 'word_nom', word: 'nom', meaning: 'name', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'nɔ̃' },
+    { accent: 'quebecois', ipa: 'nɔ̃' },
+    { accent: 'belgian', ipa: 'nɔ̃' }
+  ], category: 'daily-use-nouns', examples: ['Quel est ton nom?', 'Mon nom est Pierre.'] },
+  { id: 'word_année', word: 'année', meaning: 'year', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'ane' },
+    { accent: 'quebecois', ipa: 'ane' },
+    { accent: 'belgian', ipa: 'ane' }
+  ], category: 'daily-use-nouns', examples: ['Bonne année!', 'Cette année est importante.'] },
+  { id: 'word_mois', word: 'mois', meaning: 'month', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'mwa' },
+    { accent: 'quebecois', ipa: 'mwa' },
+    { accent: 'belgian', ipa: 'mwa' }
+  ], category: 'daily-use-nouns', examples: ['Il y a douze mois dans l\'année.', 'Quel mois sommes-nous?'] },
+  { id: 'word_semaine', word: 'semaine', meaning: 'week', pronunciationVariants: [
+    { accent: 'parisian', ipa: 's(ə)men' },
+    { accent: 'quebecois', ipa: 's(ə)men' },
+    { accent: 'belgian', ipa: 's(ə)men' }
+  ], category: 'daily-use-nouns', examples: ['Je travaille cinq jours par semaine.', 'Bonne semaine!'] },
+  { id: 'word_lecon', word: 'leçon', meaning: 'lesson', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'ləsɔ̃' },
+    { accent: 'quebecois', ipa: 'ləsɔ̃' },
+    { accent: 'belgian', ipa: 'ləsɔ̃' }
+  ], category: 'daily-use-nouns', examples: ['La leçon était intéressante.', 'Apprends une leçon.'] },
+  { id: 'word_air', word: 'air', meaning: 'air', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'ɛʁ' },
+    { accent: 'quebecois', ipa: 'ɛʁ' },
+    { accent: 'belgian', ipa: 'ɛʁ' }
+  ], category: 'daily-use-nouns', examples: ['Air frais.', 'L\'air est froid.'] },
+  { id: 'word_feu', word: 'feu', meaning: 'fire', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'fø' },
+    { accent: 'quebecois', ipa: 'fø' },
+    { accent: 'belgian', ipa: 'fø' }
+  ], category: 'daily-use-nouns', examples: ['Fais un feu.', 'Sécurité incendie.'] },
+  { id: 'word_lumiere', word: 'lumière', meaning: 'light', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'lymjɛʁ' },
+    { accent: 'quebecois', ipa: 'lymjɛʁ' },
+    { accent: 'belgian', ipa: 'lymjɛʁ' }
+  ], category: 'daily-use-nouns', examples: ['Allume la lumière.', 'Lumière naturelle.'] },
+  { id: 'word_son', word: 'son', meaning: 'sound', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'sɔ̃' },
+    { accent: 'quebecois', ipa: 'sɔ̃' },
+    { accent: 'belgian', ipa: 'sɔ̃' }
+  ], category: 'daily-use-nouns', examples: ['Bruit fort.', 'Le son de la musique.'] },
+  { id: 'word_couleur', word: 'couleur', meaning: 'color', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'kulœʁ' },
+    { accent: 'quebecois', ipa: 'kulœʁ' },
+    { accent: 'belgian', ipa: 'kulœʁ' }
+  ], category: 'daily-use-nouns', examples: ['Couleur préférée.', 'Colorie le dessin.'] },
+  { id: 'word_cote', word: 'côté', meaning: 'side', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'kote' },
+    { accent: 'quebecois', ipa: 'kote' },
+    { accent: 'belgian', ipa: 'kote' }
+  ], category: 'daily-use-nouns', examples: ['Côte à côte.', 'Les deux côtés.'] },
+  { id: 'word_lit', word: 'lit', meaning: 'bed', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'li' },
+    { accent: 'quebecois', ipa: 'li' },
+    { accent: 'belgian', ipa: 'li' }
+  ], category: 'daily-use-nouns', examples: ['Va au lit.', 'Fais le lit.'] },
+  { id: 'word_bureau', word: 'bureau', meaning: 'desk/office', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'byʁo' },
+    { accent: 'quebecois', ipa: 'byʁo' },
+    { accent: 'belgian', ipa: 'byʁo' }
+  ], category: 'daily-use-nouns', examples: ['Nettoie ton bureau.', 'Le bureau est en désordre.'] },
+  { id: 'word_mur', word: 'mur', meaning: 'wall', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'myʁ' },
+    { accent: 'quebecois', ipa: 'myʁ' },
+    { accent: 'belgian', ipa: 'myʁ' }
+  ], category: 'daily-use-nouns', examples: ['Peins le mur.', 'Grimpe le mur.'] },
+  { id: 'word_sol', word: 'sol', meaning: 'floor', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'sɔl' },
+    { accent: 'quebecois', ipa: 'sɔl' },
+    { accent: 'belgian', ipa: 'sɔl' }
+  ], category: 'daily-use-nouns', examples: ['Nettoie le sol.', 'Premier étage.'] },
+  { id: 'word_plafond', word: 'plafond', meaning: 'ceiling', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'plafɔ̃' },
+    { accent: 'quebecois', ipa: 'plafɔ̃' },
+    { accent: 'belgian', ipa: 'plafɔ̃' }
+  ], category: 'daily-use-nouns', examples: ['Plafond haut.', 'Touche le plafond.'] },
+  { id: 'word_toit', word: 'toit', meaning: 'roof', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'twa' },
+    { accent: 'quebecois', ipa: 'twa' },
+    { accent: 'belgian', ipa: 'twa' }
+  ], category: 'daily-use-nouns', examples: ['Sur le toit.', 'Répare le toit.'] },
+  { id: 'word_jardin', word: 'jardin', meaning: 'garden', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'ʒaʁdɛ̃' },
+    { accent: 'quebecois', ipa: 'ʒaʁdɛ̃' },
+    { accent: 'belgian', ipa: 'ʒaʁdɛ̃' }
+  ], category: 'daily-use-nouns', examples: ['Beau jardin.', 'Travaille dans le jardin.'] },
+  { id: 'word_par', word: 'parc', meaning: 'park', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'paʁk' },
+    { accent: 'quebecois', ipa: 'paʁk' },
+    { accent: 'belgian', ipa: 'paʁk' }
+  ], category: 'daily-use-nouns', examples: ['Va au parc.', 'Parking.'] },
+  { id: 'word_rue', word: 'rue', meaning: 'street', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'ʁy' },
+    { accent: 'quebecois', ipa: 'ʁy' },
+    { accent: 'belgian', ipa: 'ʁy' }
+  ], category: 'daily-use-nouns', examples: ['Marche dans la rue.', 'Rue principale.'] },
+  { id: 'word_route', word: 'route', meaning: 'road', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'ʁut' },
+    { accent: 'quebecois', ipa: 'ʁut' },
+    { accent: 'belgian', ipa: 'ʁut' }
+  ], category: 'daily-use-nouns', examples: ['Sur la route.', 'Voyage en route.'] },
+  { id: 'word_pont', word: 'pont', meaning: 'bridge', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'pɔ̃' },
+    { accent: 'quebecois', ipa: 'pɔ̃' },
+    { accent: 'belgian', ipa: 'pɔ̃' }
+  ], category: 'daily-use-nouns', examples: ['Traverse le pont.', 'Construis un pont.'] },
+  { id: 'word_riviere', word: 'rivière', meaning: 'river', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'ʁivjɛʁ' },
+    { accent: 'quebecois', ipa: 'ʁivjɛʁ' },
+    { accent: 'belgian', ipa: 'ʁivjɛʁ' }
+  ], category: 'daily-use-nouns', examples: ['Nage dans la rivière.', 'La rivière coule.'] },
+  { id: 'word_ocean', word: 'océan', meaning: 'ocean', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'ɔseɑ̃' },
+    { accent: 'quebecois', ipa: 'ɔseɑ̃' },
+    { accent: 'belgian', ipa: 'ɔseɑ̃' }
+  ], category: 'daily-use-nouns', examples: ['Vue sur l\'océan.', 'Océan Pacifique.'] },
+  { id: 'word_montagne', word: 'montagne', meaning: 'mountain', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'mɔ̃taɲ' },
+    { accent: 'quebecois', ipa: 'mɔ̃taɲ' },
+    { accent: 'belgian', ipa: 'mɔ̃taɲ' }
+  ], category: 'daily-use-nouns', examples: ['Grimpe la montagne.', 'Chaîne de montagnes.'] },
+  { id: 'word_foret', word: 'forêt', meaning: 'forest', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'fɔʁɛ' },
+    { accent: 'quebecois', ipa: 'fɔʁɛ' },
+    { accent: 'belgian', ipa: 'fɔʁɛ' }
+  ], category: 'daily-use-nouns', examples: ['Forêt profonde.', 'Animaux de la forêt.'] },
+  { id: 'word_arbre', word: 'arbre', meaning: 'tree', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'aʁbʁ' },
+    { accent: 'quebecois', ipa: 'aʁbʁ' },
+    { accent: 'belgian', ipa: 'aʁbʁ' }
+  ], category: 'daily-use-nouns', examples: ['Plante un arbre.', 'Grimpe l\'arbre.'] },
+  { id: 'word_fleur', word: 'fleur', meaning: 'flower', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'flœʁ' },
+    { accent: 'quebecois', ipa: 'flœʁ' },
+    { accent: 'belgian', ipa: 'flœʁ' }
+  ], category: 'daily-use-nouns', examples: ['Belle fleur.', 'Sent les fleurs.'] },
+  { id: 'word_animal', word: 'animal', meaning: 'animal', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'animal' },
+    { accent: 'quebecois', ipa: 'animal' },
+    { accent: 'belgian', ipa: 'animal' }
+  ], category: 'daily-use-nouns', examples: ['Animal sauvage.', 'Refuge pour animaux.'] },
+  { id: 'word_oiseau', word: 'oiseau', meaning: 'bird', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'wazo' },
+    { accent: 'quebecois', ipa: 'wazo' },
+    { accent: 'belgian', ipa: 'wazo' }
+  ], category: 'daily-use-nouns', examples: ['Regarde les oiseaux.', 'Chant d\'oiseau.'] },
+  { id: 'word_chien', word: 'chien', meaning: 'dog', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'ʃjɛ̃' },
+    { accent: 'quebecois', ipa: 'ʃjɛ̃' },
+    { accent: 'belgian', ipa: 'ʃjɛ̃' }
+  ], category: 'daily-use-nouns', examples: ['Promène le chien.', 'Un chien amical.'] },
+  { id: 'word_chat', word: 'chat', meaning: 'cat', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'ʃa' },
+    { accent: 'quebecois', ipa: 'ʃa' },
+    { accent: 'belgian', ipa: 'ʃa' }
+  ], category: 'daily-use-nouns', examples: ['Nourris le chat.', 'Le chat dort.'] },
+  { id: 'word_cheval', word: 'cheval', meaning: 'horse', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'ʃəval' },
+    { accent: 'quebecois', ipa: 'ʃəval' },
+    { accent: 'belgian', ipa: 'ʃəval' }
+  ], category: 'daily-use-nouns', examples: ['Chevauche un cheval.', 'Courses de chevaux.'] },
+  { id: 'word_vache', word: 'vache', meaning: 'cow', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'vaʃ' },
+    { accent: 'quebecois', ipa: 'vaʃ' },
+    { accent: 'belgian', ipa: 'vaʃ' }
+  ], category: 'daily-use-nouns', examples: ['Traite la vache.', 'La vache broute.'] },
+  { id: 'word_poulet', word: 'poulet', meaning: 'chicken', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'pule' },
+    { accent: 'quebecois', ipa: 'pule' },
+    { accent: 'belgian', ipa: 'pule' }
+  ], category: 'daily-use-nouns', examples: ['Mange du poulet.', 'Le poulet pond des œufs.'] },
+  { id: 'word_poisson', word: 'poisson', meaning: 'fish', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'pwasɔ̃' },
+    { accent: 'quebecois', ipa: 'pwasɔ̃' },
+    { accent: 'belgian', ipa: 'pwasɔ̃' }
+  ], category: 'daily-use-nouns', examples: ['Attrape du poisson.', 'Les poissons nagent.'] },
+  { id: 'word_soleil', word: 'soleil', meaning: 'sun', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'sɔlɛj' },
+    { accent: 'quebecois', ipa: 'sɔlɛj' },
+    { accent: 'belgian', ipa: 'sɔlɛj' }
+  ], category: 'daily-use-nouns', examples: ['Le soleil brille.', 'Lever du soleil.'] },
+  { id: 'word_lune', word: 'lune', meaning: 'moon', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'lyn' },
+    { accent: 'quebecois', ipa: 'lyn' },
+    { accent: 'belgian', ipa: 'lyn' }
+  ], category: 'daily-use-nouns', examples: ['Pleine lune.', 'Clair de lune.'] },
+  { id: 'word_etoile', word: 'étoile', meaning: 'star', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'etwal' },
+    { accent: 'quebecois', ipa: 'etwal' },
+    { accent: 'belgian', ipa: 'etwal' }
+  ], category: 'daily-use-nouns', examples: ['Étoile brillante.', 'Regarder les étoiles.'] },
+  { id: 'word_ciel', word: 'ciel', meaning: 'sky', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'sjɛl' },
+    { accent: 'quebecois', ipa: 'sjɛl' },
+    { accent: 'belgian', ipa: 'sjɛl' }
+  ], category: 'daily-use-nouns', examples: ['Ciel bleu.', 'Regarde le ciel.'] },
+  { id: 'word_nuage', word: 'nuage', meaning: 'cloud', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'nuaʒ' },
+    { accent: 'quebecois', ipa: 'nuaʒ' },
+    { accent: 'belgian', ipa: 'nuaʒ' }
+  ], category: 'daily-use-nouns', examples: ['Nuage sombre.', 'Informatique en nuage.'] },
+  { id: 'word_pluie', word: 'pluie', meaning: 'rain', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'plɥi' },
+    { accent: 'quebecois', ipa: 'plɥi' },
+    { accent: 'belgian', ipa: 'plɥi' }
+  ], category: 'daily-use-nouns', examples: ['Pluie forte.', 'Imperméable.'] },
+  { id: 'word_neige', word: 'neige', meaning: 'snow', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'nɛʒ' },
+    { accent: 'quebecois', ipa: 'nɛʒ' },
+    { accent: 'belgian', ipa: 'nɛʒ' }
+  ], category: 'daily-use-nouns', examples: ['Neige blanche.', 'Joue dans la neige.'] },
+  { id: 'word_vent', word: 'vent', meaning: 'wind', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'vɑ̃' },
+    { accent: 'quebecois', ipa: 'vɑ̃' },
+    { accent: 'belgian', ipa: 'vɑ̃' }
+  ], category: 'daily-use-nouns', examples: ['Vent fort.', 'Énergie éolienne.'] },
+  { id: 'word_terre', word: 'terre', meaning: 'earth/soil', pronunciationVariants: [
+    { accent: 'parisian', ipa: 'tɛʁ' },
+    { accent: 'quebecois', ipa: 'tɛʁ' },
+    { accent: 'belgian', ipa: 'tɛʁ' }
+  ], category: 'daily-use-nouns', examples: ['Sauve la terre.', 'Jour de la Terre.'] }
+];

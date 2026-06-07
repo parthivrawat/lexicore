@@ -1,0 +1,609 @@
+import { VocabWord } from '@/types';
+
+export const dailyUseNouns: VocabWord[] = [
+  { id: 'word_time', word: 'time', meaning: 'duration/moment', pronunciationVariants: [
+    { accent: 'american', ipa: 'taɪm' },
+    { accent: 'british', ipa: 'taɪm' },
+    { accent: 'australian', ipa: 'taɪm' }
+  ], category: 'daily-use-nouns', examples: ['Time flies.', 'What time is it?'] },
+  { id: 'word_person', word: 'person', meaning: 'human being', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈpɜːrsn' },
+    { accent: 'british', ipa: 'ˈpɜːsn' },
+    { accent: 'australian', ipa: 'ˈpɜːsn' }
+  ], category: 'daily-use-nouns', examples: ['One person can make a difference.', 'She is a kind person.'] },
+  { id: 'word_year', word: 'year', meaning: '12 months', pronunciationVariants: [
+    { accent: 'american', ipa: 'jɪr' },
+    { accent: 'british', ipa: 'jɪə' },
+    { accent: 'australian', ipa: 'jɪə' }
+  ], category: 'daily-use-nouns', examples: ['This year is special.', 'New Year celebrations.'] },
+  { id: 'word_way', word: 'way', meaning: 'method/path', pronunciationVariants: [
+    { accent: 'american', ipa: 'weɪ' },
+    { accent: 'british', ipa: 'weɪ' },
+    { accent: 'australian', ipa: 'weɪ' }
+  ], category: 'daily-use-nouns', examples: ['Find your way.', 'This way works better.'] },
+  { id: 'word_day', word: 'day', meaning: '24 hours', pronunciationVariants: [
+    { accent: 'american', ipa: 'deɪ' },
+    { accent: 'british', ipa: 'deɪ' },
+    { accent: 'australian', ipa: 'deɪ' }
+  ], category: 'daily-use-nouns', examples: ['Have a good day.', 'Day and night.'] },
+  { id: 'word_thing', word: 'thing', meaning: 'object/matter', pronunciationVariants: [
+    { accent: 'american', ipa: 'θɪŋ' },
+    { accent: 'british', ipa: 'θɪŋ' },
+    { accent: 'australian', ipa: 'θɪŋ' }
+  ], category: 'daily-use-nouns', examples: ['What\'s that thing?', 'The thing is complicated.'] },
+  { id: 'word_man', word: 'man', meaning: 'adult male', pronunciationVariants: [
+    { accent: 'american', ipa: 'mæn' },
+    { accent: 'british', ipa: 'mæn' },
+    { accent: 'australian', ipa: 'mæn' }
+  ], category: 'daily-use-nouns', examples: ['The man is tall.', 'Man versus nature.'] },
+  { id: 'word_world', word: 'world', meaning: 'Earth', pronunciationVariants: [
+    { accent: 'american', ipa: 'wɜːrld' },
+    { accent: 'british', ipa: 'wɜːld' },
+    { accent: 'australian', ipa: 'wɜːld' }
+  ], category: 'daily-use-nouns', examples: ['The world is beautiful.', 'Travel the world.'] },
+  { id: 'word_life', word: 'life', meaning: 'existence', pronunciationVariants: [
+    { accent: 'american', ipa: 'laɪf' },
+    { accent: 'british', ipa: 'laɪf' },
+    { accent: 'australian', ipa: 'laɪf' }
+  ], category: 'daily-use-nouns', examples: ['Life is precious.', 'She loves life.'] },
+  { id: 'word_hand', word: 'hand', meaning: 'body part', pronunciationVariants: [
+    { accent: 'american', ipa: 'hænd' },
+    { accent: 'british', ipa: 'hænd' },
+    { accent: 'australian', ipa: 'hænd' }
+  ], category: 'daily-use-nouns', examples: ['Wash your hands.', 'Raise your hand.'] },
+  { id: 'word_part', word: 'part', meaning: 'piece/portion', pronunciationVariants: [
+    { accent: 'american', ipa: 'pɑːrt' },
+    { accent: 'british', ipa: 'pɑːt' },
+    { accent: 'australian', ipa: 'pɑːt' }
+  ], category: 'daily-use-nouns', examples: ['Take your part.', 'This is part of the plan.'] },
+  { id: 'word_child', word: 'child', meaning: 'young person', pronunciationVariants: [
+    { accent: 'american', ipa: 'tʃaɪld' },
+    { accent: 'british', ipa: 'tʃaɪld' },
+    { accent: 'australian', ipa: 'tʃaɪld' }
+  ], category: 'daily-use-nouns', examples: ['The child plays.', 'Every child matters.'] },
+  { id: 'word_eye', word: 'eye', meaning: 'organ of sight', pronunciationVariants: [
+    { accent: 'american', ipa: 'aɪ' },
+    { accent: 'british', ipa: 'aɪ' },
+    { accent: 'australian', ipa: 'aɪ' }
+  ], category: 'daily-use-nouns', examples: ['Blue eyes.', 'Keep an eye on it.'] },
+  { id: 'word_woman', word: 'woman', meaning: 'adult female', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈwʊmən' },
+    { accent: 'british', ipa: 'ˈwʊmən' },
+    { accent: 'australian', ipa: 'ˈwʊmən' }
+  ], category: 'daily-use-nouns', examples: ['The woman smiled.', 'A strong woman.'] },
+  { id: 'word_place', word: 'place', meaning: 'location', pronunciationVariants: [
+    { accent: 'american', ipa: 'pleɪs' },
+    { accent: 'british', ipa: 'pleɪs' },
+    { accent: 'australian', ipa: 'pleɪs' }
+  ], category: 'daily-use-nouns', examples: ['This place is nice.', 'Find a place to sit.'] },
+  { id: 'word_work', word: 'work', meaning: 'job/labor', pronunciationVariants: [
+    { accent: 'american', ipa: 'wɜːrk' },
+    { accent: 'british', ipa: 'wɜːk' },
+    { accent: 'australian', ipa: 'wɜːk' }
+  ], category: 'daily-use-nouns', examples: ['Hard work pays.', 'She goes to work.'] },
+  { id: 'word_week', word: 'week', meaning: '7 days', pronunciationVariants: [
+    { accent: 'american', ipa: 'wiːk' },
+    { accent: 'british', ipa: 'wiːk' },
+    { accent: 'australian', ipa: 'wiːk' }
+  ], category: 'daily-use-nouns', examples: ['Next week is busy.', 'A week of vacation.'] },
+  { id: 'word_case', word: 'case', meaning: 'instance/container', pronunciationVariants: [
+    { accent: 'american', ipa: 'keɪs' },
+    { accent: 'british', ipa: 'keɪs' },
+    { accent: 'australian', ipa: 'keɪs' }
+  ], category: 'daily-use-nouns', examples: ['In any case.', 'A case of books.'] },
+  { id: 'word_point', word: 'point', meaning: 'idea/location', pronunciationVariants: [
+    { accent: 'american', ipa: 'pɔɪnt' },
+    { accent: 'british', ipa: 'pɔɪnt' },
+    { accent: 'australian', ipa: 'pɔɪnt' }
+  ], category: 'daily-use-nouns', examples: ['What\'s your point?', 'The meeting point.'] },
+  { id: 'word_government', word: 'government', meaning: 'ruling body', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈɡʌvərnmənt' },
+    { accent: 'british', ipa: 'ˈɡʌvənmənt' },
+    { accent: 'australian', ipa: 'ˈɡʌvənmənt' }
+  ], category: 'daily-use-nouns', examples: ['The government helps.', 'Government policies.'] },
+  { id: 'word_company', word: 'company', meaning: 'business', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈkʌmpəni' },
+    { accent: 'british', ipa: 'ˈkʌmpəni' },
+    { accent: 'australian', ipa: 'ˈkʌmpəni' }
+  ], category: 'daily-use-nouns', examples: ['The company grows.', 'Work for a good company.'] },
+  { id: 'word_number', word: 'number', meaning: 'mathematical value', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈnʌmbər' },
+    { accent: 'british', ipa: 'ˈnʌmbə' },
+    { accent: 'australian', ipa: 'ˈnʌmbə' }
+  ], category: 'daily-use-nouns', examples: ['What\'s your number?', 'A large number of people.'] },
+  { id: 'word_group', word: 'group', meaning: 'collection', pronunciationVariants: [
+    { accent: 'american', ipa: 'ɡruːp' },
+    { accent: 'british', ipa: 'ɡruːp' },
+    { accent: 'australian', ipa: 'ɡruːp' }
+  ], category: 'daily-use-nouns', examples: ['A group of friends.', 'Work in groups.'] },
+  { id: 'word_problem', word: 'problem', meaning: 'difficulty', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈprɑːbləm' },
+    { accent: 'british', ipa: 'ˈprɒbləm' },
+    { accent: 'australian', ipa: 'ˈprɒbləm' }
+  ], category: 'daily-use-nouns', examples: ['Solve the problem.', 'No problem.'] },
+  { id: 'word_fact', word: 'fact', meaning: 'reality', pronunciationVariants: [
+    { accent: 'american', ipa: 'fækt' },
+    { accent: 'british', ipa: 'fækt' },
+    { accent: 'australian', ipa: 'fækt' }
+  ], category: 'daily-use-nouns', examples: ['It\'s a fact.', 'The facts are clear.'] },
+  { id: 'word_water', word: 'water', meaning: 'liquid we drink', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈwɔːtər' },
+    { accent: 'british', ipa: 'ˈwɔːtə' },
+    { accent: 'australian', ipa: 'ˈwɔːtə' }
+  ], category: 'daily-use-nouns', examples: ['Drink water.', 'The water is cold.'] },
+  { id: 'word_money', word: 'money', meaning: 'currency', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈmʌni' },
+    { accent: 'british', ipa: 'ˈmʌni' },
+    { accent: 'australian', ipa: 'ˈmʌni' }
+  ], category: 'daily-use-nouns', examples: ['Save money.', 'Time is money.'] },
+  { id: 'word_story', word: 'story', meaning: 'narrative', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈstɔːri' },
+    { accent: 'british', ipa: 'ˈstɔːri' },
+    { accent: 'australian', ipa: 'ˈstɔːri' }
+  ], category: 'daily-use-nouns', examples: ['Tell me a story.', 'The story is interesting.'] },
+  { id: 'word_area', word: 'area', meaning: 'region', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈeriə' },
+    { accent: 'british', ipa: 'ˈeəriə' },
+    { accent: 'australian', ipa: 'ˈeəriə' }
+  ], category: 'daily-use-nouns', examples: ['This area is safe.', 'The parking area.'] },
+  { id: 'word_book', word: 'book', meaning: 'written work', pronunciationVariants: [
+    { accent: 'american', ipa: 'bʊk' },
+    { accent: 'british', ipa: 'bʊk' },
+    { accent: 'australian', ipa: 'bʊk' }
+  ], category: 'daily-use-nouns', examples: ['Read a book.', 'The book is on the table.'] },
+  { id: 'word_family', word: 'family', meaning: 'relatives', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈfæməli' },
+    { accent: 'british', ipa: 'ˈfæməli' },
+    { accent: 'australian', ipa: 'ˈfæməli' }
+  ], category: 'daily-use-nouns', examples: ['My family is large.', 'Family comes first.'] },
+  { id: 'word_student', word: 'student', meaning: 'learner', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈstuːdənt' },
+    { accent: 'british', ipa: 'ˈstjuːdənt' },
+    { accent: 'australian', ipa: 'ˈstjuːdənt' }
+  ], category: 'daily-use-nouns', examples: ['The student studies.', 'A good student.'] },
+  { id: 'word_country', word: 'country', meaning: 'nation', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈkʌntri' },
+    { accent: 'british', ipa: 'ˈkʌntri' },
+    { accent: 'australian', ipa: 'ˈkʌntri' }
+  ], category: 'daily-use-nouns', examples: ['Visit another country.', 'My country is beautiful.'] },
+  { id: 'word_school', word: 'school', meaning: 'educational place', pronunciationVariants: [
+    { accent: 'american', ipa: 'skuːl' },
+    { accent: 'british', ipa: 'skuːl' },
+    { accent: 'australian', ipa: 'skuːl' }
+  ], category: 'daily-use-nouns', examples: ['Go to school.', 'The school is big.'] },
+  { id: 'word_state', word: 'state', meaning: 'condition/region', pronunciationVariants: [
+    { accent: 'american', ipa: 'steɪt' },
+    { accent: 'british', ipa: 'steɪt' },
+    { accent: 'australian', ipa: 'steɪt' }
+  ], category: 'daily-use-nouns', examples: ['The state of affairs.', 'California state.'] },
+  { id: 'word_food', word: 'food', meaning: 'things we eat', pronunciationVariants: [
+    { accent: 'american', ipa: 'fuːd' },
+    { accent: 'british', ipa: 'fuːd' },
+    { accent: 'australian', ipa: 'fuːd' }
+  ], category: 'daily-use-nouns', examples: ['The food is delicious.', 'Healthy food.'] },
+  { id: 'word_house', word: 'house', meaning: 'building to live', pronunciationVariants: [
+    { accent: 'american', ipa: 'haʊs' },
+    { accent: 'british', ipa: 'haʊs' },
+    { accent: 'australian', ipa: 'haʊs' }
+  ], category: 'daily-use-nouns', examples: ['Our house is cozy.', 'Buy a house.'] },
+  { id: 'word_home', word: 'home', meaning: 'living place', pronunciationVariants: [
+    { accent: 'american', ipa: 'hoʊm' },
+    { accent: 'british', ipa: 'həʊm' },
+    { accent: 'australian', ipa: 'həʊm' }
+  ], category: 'daily-use-nouns', examples: ['Home sweet home.', 'Go home.'] },
+  { id: 'word_mother', word: 'mother', meaning: 'female parent', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈmʌðər' },
+    { accent: 'british', ipa: 'ˈmʌðə' },
+    { accent: 'australian', ipa: 'ˈmʌðə' }
+  ], category: 'daily-use-nouns', examples: ['My mother is kind.', 'Mother and child.'] },
+  { id: 'word_father', word: 'father', meaning: 'male parent', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈfɑːðər' },
+    { accent: 'british', ipa: 'ˈfɑːðə' },
+    { accent: 'australian', ipa: 'ˈfɑːðə' }
+  ], category: 'daily-use-nouns', examples: ['His father works hard.', 'Father and son.'] },
+  { id: 'word_language', word: 'language', meaning: 'system of communication', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈlæŋɡwɪdʒ' },
+    { accent: 'british', ipa: 'ˈlæŋɡwɪdʒ' },
+    { accent: 'australian', ipa: 'ˈlæŋɡwɪdʒ' }
+  ], category: 'daily-use-nouns', examples: ['Learn a new language.', 'Language barriers.'] },
+  { id: 'word_music', word: 'music', meaning: 'organized sound', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈmjuːzɪk' },
+    { accent: 'british', ipa: 'ˈmjuːzɪk' },
+    { accent: 'australian', ipa: 'ˈmjuːzɪk' }
+  ], category: 'daily-use-nouns', examples: ['Listen to music.', 'She loves music.'] },
+  { id: 'word_car', word: 'car', meaning: 'vehicle', pronunciationVariants: [
+    { accent: 'american', ipa: 'kɑːr' },
+    { accent: 'british', ipa: 'kɑː' },
+    { accent: 'australian', ipa: 'kɑː' }
+  ], category: 'daily-use-nouns', examples: ['Drive the car.', 'Buy a new car.'] },
+  { id: 'word_city', word: 'city', meaning: 'large town', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈsɪti' },
+    { accent: 'british', ipa: 'ˈsɪti' },
+    { accent: 'australian', ipa: 'ˈsɪti' }
+  ], category: 'daily-use-nouns', examples: ['The city never sleeps.', 'Live in the city.'] },
+  { id: 'word_community', word: 'community', meaning: 'group of people', pronunciationVariants: [
+    { accent: 'american', ipa: 'kəˈmjuːnəti' },
+    { accent: 'british', ipa: 'kəˈmjuːnəti' },
+    { accent: 'australian', ipa: 'kəˈmjuːnəti' }
+  ], category: 'daily-use-nouns', examples: ['Help the community.', 'A strong community.'] },
+  { id: 'word_power', word: 'power', meaning: 'strength/control', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈpaʊər' },
+    { accent: 'british', ipa: 'ˈpaʊə' },
+    { accent: 'australian', ipa: 'ˈpaʊə' }
+  ], category: 'daily-use-nouns', examples: ['Knowledge is power.', 'The power of nature.'] },
+  { id: 'word_name', word: 'name', meaning: 'word identifying someone', pronunciationVariants: [
+    { accent: 'american', ipa: 'neɪm' },
+    { accent: 'british', ipa: 'neɪm' },
+    { accent: 'australian', ipa: 'neɪm' }
+  ], category: 'daily-use-nouns', examples: ['What\'s your name?', 'A famous name.'] },
+  { id: 'word_team', word: 'team', meaning: 'group working together', pronunciationVariants: [
+    { accent: 'american', ipa: 'tiːm' },
+    { accent: 'british', ipa: 'tiːm' },
+    { accent: 'australian', ipa: 'tiːm' }
+  ], category: 'daily-use-nouns', examples: ['Our team won.', 'Team spirit.'] },
+  { id: 'word_minute', word: 'minute', meaning: '60 seconds', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈmɪnɪt' },
+    { accent: 'british', ipa: 'ˈmɪnɪt' },
+    { accent: 'australian', ipa: 'ˈmɪnɪt' }
+  ], category: 'daily-use-nouns', examples: ['Wait a minute.', 'Sixty minutes in an hour.'] },
+  { id: 'word_idea', word: 'idea', meaning: 'thought/concept', pronunciationVariants: [
+    { accent: 'american', ipa: 'aɪˈdiːə' },
+    { accent: 'british', ipa: 'aɪˈdɪə' },
+    { accent: 'australian', ipa: 'aɪˈdɪə' }
+  ], category: 'daily-use-nouns', examples: ['Great idea!', 'The idea changed everything.'] },
+  { id: 'word_kid', word: 'kid', meaning: 'child', pronunciationVariants: [
+    { accent: 'american', ipa: 'kɪd' },
+    { accent: 'british', ipa: 'kɪd' },
+    { accent: 'australian', ipa: 'kɪd' }
+  ], category: 'daily-use-nouns', examples: ['The kid plays outside.', 'Kids love candy.'] },
+  { id: 'word_parent', word: 'parent', meaning: 'mother or father', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈperənt' },
+    { accent: 'british', ipa: 'ˈpeərənt' },
+    { accent: 'australian', ipa: 'ˈpeərənt' }
+  ], category: 'daily-use-nouns', examples: ['Be a good parent.', 'Parents care.'] },
+  { id: 'word_face', word: 'face', meaning: 'front of head', pronunciationVariants: [
+    { accent: 'american', ipa: 'feɪs' },
+    { accent: 'british', ipa: 'feɪs' },
+    { accent: 'australian', ipa: 'feɪs' }
+  ], category: 'daily-use-nouns', examples: ['Wash your face.', 'A happy face.'] },
+  { id: 'word_door', word: 'door', meaning: 'entrance', pronunciationVariants: [
+    { accent: 'american', ipa: 'dɔːr' },
+    { accent: 'british', ipa: 'dɔː' },
+    { accent: 'australian', ipa: 'dɔː' }
+  ], category: 'daily-use-nouns', examples: ['Open the door.', 'Behind closed doors.'] },
+  { id: 'word_health', word: 'health', meaning: 'well-being', pronunciationVariants: [
+    { accent: 'american', ipa: 'helθ' },
+    { accent: 'british', ipa: 'helθ' },
+    { accent: 'australian', ipa: 'helθ' }
+  ], category: 'daily-use-nouns', examples: ['Health is wealth.', 'Mental health matters.'] },
+  { id: 'word_history', word: 'history', meaning: 'past events', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈhɪstəri' },
+    { accent: 'british', ipa: 'ˈhɪstəri' },
+    { accent: 'australian', ipa: 'ˈhɪstəri' }
+  ], category: 'daily-use-nouns', examples: ['Study history.', 'History repeats itself.'] },
+  { id: 'word_party', word: 'party', meaning: 'social gathering', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈpɑːrti' },
+    { accent: 'british', ipa: 'ˈpɑːti' },
+    { accent: 'australian', ipa: 'ˈpɑːti' }
+  ], category: 'daily-use-nouns', examples: ['Come to the party.', 'Birthday party.'] },
+  { id: 'word_result', word: 'result', meaning: 'outcome', pronunciationVariants: [
+    { accent: 'american', ipa: 'rɪˈzʌlt' },
+    { accent: 'british', ipa: 'rɪˈzʌlt' },
+    { accent: 'australian', ipa: 'rɪˈzʌlt' }
+  ], category: 'daily-use-nouns', examples: ['The result was good.', 'Wait for the results.'] },
+  { id: 'word_morning', word: 'morning', meaning: 'start of day', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈmɔːrnɪŋ' },
+    { accent: 'british', ipa: 'ˈmɔːnɪŋ' },
+    { accent: 'australian', ipa: 'ˈmɔːnɪŋ' }
+  ], category: 'daily-use-nouns', examples: ['Good morning.', 'Morning coffee.'] },
+  { id: 'word_reason', word: 'reason', meaning: 'cause/logic', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈriːzn' },
+    { accent: 'british', ipa: 'ˈriːzn' },
+    { accent: 'australian', ipa: 'ˈriːzn' }
+  ], category: 'daily-use-nouns', examples: ['What\'s the reason?', 'For a good reason.'] },
+  { id: 'word_research', word: 'research', meaning: 'investigation', pronunciationVariants: [
+    { accent: 'american', ipa: 'rɪˈsɜːrtʃ' },
+    { accent: 'british', ipa: 'rɪˈsɜːtʃ' },
+    { accent: 'australian', ipa: 'rɪˈsɜːtʃ' }
+  ], category: 'daily-use-nouns', examples: ['Do research.', 'Scientific research.'] },
+  { id: 'word_girl', word: 'girl', meaning: 'female child', pronunciationVariants: [
+    { accent: 'american', ipa: 'ɡɜːrl' },
+    { accent: 'british', ipa: 'ɡɜːl' },
+    { accent: 'australian', ipa: 'ɡɜːl' }
+  ], category: 'daily-use-nouns', examples: ['The girl sings.', 'A smart girl.'] },
+  { id: 'word_guy', word: 'guy', meaning: 'man/person', pronunciationVariants: [
+    { accent: 'american', ipa: 'ɡaɪ' },
+    { accent: 'british', ipa: 'ɡaɪ' },
+    { accent: 'australian', ipa: 'ɡaɪ' }
+  ], category: 'daily-use-nouns', examples: ['That guy is funny.', 'Hey guys!'] },
+  { id: 'word_job', word: 'job', meaning: 'work/occupation', pronunciationVariants: [
+    { accent: 'american', ipa: 'dʒɑːb' },
+    { accent: 'british', ipa: 'dʒɒb' },
+    { accent: 'australian', ipa: 'dʒɒb' }
+  ], category: 'daily-use-nouns', examples: ['Find a job.', 'She loves her job.'] },
+  { id: 'word_phone', word: 'phone', meaning: 'telephone', pronunciationVariants: [
+    { accent: 'american', ipa: 'foʊn' },
+    { accent: 'british', ipa: 'fəʊn' },
+    { accent: 'australian', ipa: 'fəʊn' }
+  ], category: 'daily-use-nouns', examples: ['Answer the phone.', 'My phone is broken.'] },
+  { id: 'word_friend', word: 'friend', meaning: 'close companion', pronunciationVariants: [
+    { accent: 'american', ipa: 'frɛnd' },
+    { accent: 'british', ipa: 'frɛnd' },
+    { accent: 'australian', ipa: 'frɛnd' }
+  ], category: 'daily-use-nouns', examples: ['A true friend.', 'Friends help each other.'] },
+  { id: 'word_room', word: 'room', meaning: 'space', pronunciationVariants: [
+    { accent: 'american', ipa: 'ruːm' },
+    { accent: 'british', ipa: 'ruːm' },
+    { accent: 'australian', ipa: 'ruːm' }
+  ], category: 'daily-use-nouns', examples: ['Clean your room.', 'A big room.'] },
+  { id: 'word_teacher', word: 'teacher', meaning: 'educator', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈtiːtʃər' },
+    { accent: 'british', ipa: 'ˈtiːtʃə' },
+    { accent: 'australian', ipa: 'ˈtiːtʃə' }
+  ], category: 'daily-use-nouns', examples: ['The teacher is kind.', 'Thank you, teacher.'] },
+  { id: 'word_office', word: 'office', meaning: 'workplace', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈɔːfɪs' },
+    { accent: 'british', ipa: 'ˈɒfɪs' },
+    { accent: 'australian', ipa: 'ˈɒfɪs' }
+  ], category: 'daily-use-nouns', examples: ['Go to the office.', 'Office hours.'] },
+  { id: 'word_hour', word: 'hour', meaning: '60 minutes', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈaʊər' },
+    { accent: 'british', ipa: 'ˈaʊə' },
+    { accent: 'australian', ipa: 'ˈaʊə' }
+  ], category: 'daily-use-nouns', examples: ['One hour left.', 'Happy hour.'] },
+  { id: 'word_game', word: 'game', meaning: 'structured play', pronunciationVariants: [
+    { accent: 'american', ipa: 'ɡeɪm' },
+    { accent: 'british', ipa: 'ɡeɪm' },
+    { accent: 'australian', ipa: 'ɡeɪm' }
+  ], category: 'daily-use-nouns', examples: ['Play a game.', 'The game is fun.'] },
+  { id: 'word_line', word: 'line', meaning: 'straight mark', pronunciationVariants: [
+    { accent: 'american', ipa: 'laɪn' },
+    { accent: 'british', ipa: 'laɪn' },
+    { accent: 'australian', ipa: 'laɪn' }
+  ], category: 'daily-use-nouns', examples: ['Draw a line.', 'Wait in line.'] },
+  { id: 'word_end', word: 'end', meaning: 'final part', pronunciationVariants: [
+    { accent: 'american', ipa: 'ɛnd' },
+    { accent: 'british', ipa: 'ɛnd' },
+    { accent: 'australian', ipa: 'ɛnd' }
+  ], category: 'daily-use-nouns', examples: ['The end of the story.', 'Light at the end.'] },
+  { id: 'word_member', word: 'member', meaning: 'part of group', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈmɛmbər' },
+    { accent: 'british', ipa: 'ˈmɛmbə' },
+    { accent: 'australian', ipa: 'ˈmɛmbə' }
+  ], category: 'daily-use-nouns', examples: ['Club member.', 'Family member.'] },
+  { id: 'word_law', word: 'law', meaning: 'rule', pronunciationVariants: [
+    { accent: 'american', ipa: 'lɔː' },
+    { accent: 'british', ipa: 'lɔː' },
+    { accent: 'australian', ipa: 'lɔː' }
+  ], category: 'daily-use-nouns', examples: ['Obey the law.', 'Law and order.'] },
+  { id: 'word_president', word: 'president', meaning: 'leader of country', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈprɛzɪdənt' },
+    { accent: 'british', ipa: 'ˈprɛzɪdənt' },
+    { accent: 'australian', ipa: 'ˈprɛzɪdənt' }
+  ], category: 'daily-use-nouns', examples: ['The president spoke.', 'President of the company.'] },
+  { id: 'word_month', word: 'month', meaning: 'time period', pronunciationVariants: [
+    { accent: 'american', ipa: 'mʌnθ' },
+    { accent: 'british', ipa: 'mʌnθ' },
+    { accent: 'australian', ipa: 'mʌnθ' }
+  ], category: 'daily-use-nouns', examples: ['Next month.', 'Twelve months in a year.'] },
+  { id: 'word_lesson', word: 'lesson', meaning: 'learning session', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈlɛsən' },
+    { accent: 'british', ipa: 'ˈlɛsən' },
+    { accent: 'australian', ipa: 'ˈlɛsən' }
+  ], category: 'daily-use-nouns', examples: ['The lesson was interesting.', 'Learn a lesson.'] },
+  { id: 'word_air', word: 'air', meaning: 'atmosphere', pronunciationVariants: [
+    { accent: 'american', ipa: 'ɛr' },
+    { accent: 'british', ipa: 'eə' },
+    { accent: 'australian', ipa: 'eə' }
+  ], category: 'daily-use-nouns', examples: ['Fresh air.', 'The air is cold.'] },
+  { id: 'word_fire', word: 'fire', meaning: 'flames', pronunciationVariants: [
+    { accent: 'american', ipa: 'faɪər' },
+    { accent: 'british', ipa: 'faɪə' },
+    { accent: 'australian', ipa: 'faɪə' }
+  ], category: 'daily-use-nouns', examples: ['Build a fire.', 'Fire safety.'] },
+  { id: 'word_light', word: 'light', meaning: 'illumination', pronunciationVariants: [
+    { accent: 'american', ipa: 'laɪt' },
+    { accent: 'british', ipa: 'laɪt' },
+    { accent: 'australian', ipa: 'laɪt' }
+  ], category: 'daily-use-nouns', examples: ['Turn on the light.', 'Natural light.'] },
+  { id: 'word_sound', word: 'sound', meaning: 'noise', pronunciationVariants: [
+    { accent: 'american', ipa: 'saʊnd' },
+    { accent: 'british', ipa: 'saʊnd' },
+    { accent: 'australian', ipa: 'saʊnd' }
+  ], category: 'daily-use-nouns', examples: ['Loud sound.', 'The sound of music.'] },
+  { id: 'word_color', word: 'color', meaning: 'hue', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈkʌlər' },
+    { accent: 'british', ipa: 'ˈkʌlə' },
+    { accent: 'australian', ipa: 'ˈkʌlə' }
+  ], category: 'daily-use-nouns', examples: ['Favorite color.', 'Color the picture.'] },
+  { id: 'word_side', word: 'side', meaning: 'edge/aspect', pronunciationVariants: [
+    { accent: 'american', ipa: 'saɪd' },
+    { accent: 'british', ipa: 'saɪd' },
+    { accent: 'australian', ipa: 'saɪd' }
+  ], category: 'daily-use-nouns', examples: ['Side by side.', 'Both sides.'] },
+  { id: 'word_bed', word: 'bed', meaning: 'sleeping place', pronunciationVariants: [
+    { accent: 'american', ipa: 'bɛd' },
+    { accent: 'british', ipa: 'bɛd' },
+    { accent: 'australian', ipa: 'bɛd' }
+  ], category: 'daily-use-nouns', examples: ['Go to bed.', 'Make the bed.'] },
+  { id: 'word_chair', word: 'chair', meaning: 'seat', pronunciationVariants: [
+    { accent: 'american', ipa: 'tʃɛr' },
+    { accent: 'british', ipa: 'tʃeə' },
+    { accent: 'australian', ipa: 'tʃeə' }
+  ], category: 'daily-use-nouns', examples: ['Sit in the chair.', 'The chair is comfortable.'] },
+  { id: 'word_table', word: 'table', meaning: 'furniture', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈteɪbəl' },
+    { accent: 'british', ipa: 'ˈteɪbəl' },
+    { accent: 'australian', ipa: 'ˈteɪbəl' }
+  ], category: 'daily-use-nouns', examples: ['Set the table.', 'Under the table.'] },
+  { id: 'word_desk', word: 'desk', meaning: 'work surface', pronunciationVariants: [
+    { accent: 'american', ipa: 'dɛsk' },
+    { accent: 'british', ipa: 'dɛsk' },
+    { accent: 'australian', ipa: 'dɛsk' }
+  ], category: 'daily-use-nouns', examples: ['Clean your desk.', 'The desk is messy.'] },
+  { id: 'word_window', word: 'window', meaning: 'glass opening', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈwɪndoʊ' },
+    { accent: 'british', ipa: 'ˈwɪndəʊ' },
+    { accent: 'australian', ipa: 'ˈwɪndəʊ' }
+  ], category: 'daily-use-nouns', examples: ['Open the window.', 'Look out the window.'] },
+  { id: 'word_wall', word: 'wall', meaning: 'vertical structure', pronunciationVariants: [
+    { accent: 'american', ipa: 'wɔːl' },
+    { accent: 'british', ipa: 'wɔːl' },
+    { accent: 'australian', ipa: 'wɔːl' }
+  ], category: 'daily-use-nouns', examples: ['Paint the wall.', 'Climb the wall.'] },
+  { id: 'word_floor', word: 'floor', meaning: 'ground surface', pronunciationVariants: [
+    { accent: 'american', ipa: 'flɔːr' },
+    { accent: 'british', ipa: 'flɔː' },
+    { accent: 'australian', ipa: 'flɔː' }
+  ], category: 'daily-use-nouns', examples: ['Clean the floor.', 'First floor.'] },
+  { id: 'word_ceiling', word: 'ceiling', meaning: 'overhead surface', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈsiːlɪŋ' },
+    { accent: 'british', ipa: 'ˈsiːlɪŋ' },
+    { accent: 'australian', ipa: 'ˈsiːlɪŋ' }
+  ], category: 'daily-use-nouns', examples: ['High ceiling.', 'Hit the ceiling.'] },
+  { id: 'word_roof', word: 'roof', meaning: 'top covering', pronunciationVariants: [
+    { accent: 'american', ipa: 'ruːf' },
+    { accent: 'british', ipa: 'ruːf' },
+    { accent: 'australian', ipa: 'ruːf' }
+  ], category: 'daily-use-nouns', examples: ['On the roof.', 'Fix the roof.'] },
+  { id: 'word_garden', word: 'garden', meaning: 'outdoor planting area', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈɡɑːrdən' },
+    { accent: 'british', ipa: 'ˈɡɑːdən' },
+    { accent: 'australian', ipa: 'ˈɡɑːdən' }
+  ], category: 'daily-use-nouns', examples: ['Beautiful garden.', 'Work in the garden.'] },
+  { id: 'word_park', word: 'park', meaning: 'public recreation area', pronunciationVariants: [
+    { accent: 'american', ipa: 'pɑːrk' },
+    { accent: 'british', ipa: 'pɑːk' },
+    { accent: 'australian', ipa: 'pɑːk' }
+  ], category: 'daily-use-nouns', examples: ['Go to the park.', 'Parking lot.'] },
+  { id: 'word_street', word: 'street', meaning: 'road', pronunciationVariants: [
+    { accent: 'american', ipa: 'striːt' },
+    { accent: 'british', ipa: 'striːt' },
+    { accent: 'australian', ipa: 'striːt' }
+  ], category: 'daily-use-nouns', examples: ['Walk down the street.', 'Main street.'] },
+  { id: 'word_road', word: 'road', meaning: 'path for vehicles', pronunciationVariants: [
+    { accent: 'american', ipa: 'roʊd' },
+    { accent: 'british', ipa: 'rəʊd' },
+    { accent: 'australian', ipa: 'rəʊd' }
+  ], category: 'daily-use-nouns', examples: ['On the road.', 'Road trip.'] },
+  { id: 'word_bridge', word: 'bridge', meaning: 'crossing structure', pronunciationVariants: [
+    { accent: 'american', ipa: 'brɪdʒ' },
+    { accent: 'british', ipa: 'brɪdʒ' },
+    { accent: 'australian', ipa: 'brɪdʒ' }
+  ], category: 'daily-use-nouns', examples: ['Cross the bridge.', 'Build a bridge.'] },
+  { id: 'word_river', word: 'river', meaning: 'flowing water', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈrɪvər' },
+    { accent: 'british', ipa: 'ˈrɪvə' },
+    { accent: 'australian', ipa: 'ˈrɪvə' }
+  ], category: 'daily-use-nouns', examples: ['Swim in the river.', 'The river flows.'] },
+  { id: 'word_ocean', word: 'ocean', meaning: 'large sea', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈoʊʃən' },
+    { accent: 'british', ipa: 'ˈəʊʃən' },
+    { accent: 'australian', ipa: 'ˈəʊʃən' }
+  ], category: 'daily-use-nouns', examples: ['Ocean view.', 'Pacific Ocean.'] },
+  { id: 'word_mountain', word: 'mountain', meaning: 'large hill', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈmaʊntən' },
+    { accent: 'british', ipa: 'ˈmaʊntən' },
+    { accent: 'australian', ipa: 'ˈmaʊntən' }
+  ], category: 'daily-use-nouns', examples: ['Climb the mountain.', 'Mountain range.'] },
+  { id: 'word_forest', word: 'forest', meaning: 'trees area', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈfɔːrəst' },
+    { accent: 'british', ipa: 'ˈfɒrəst' },
+    { accent: 'australian', ipa: 'ˈfɒrəst' }
+  ], category: 'daily-use-nouns', examples: ['Deep forest.', 'Forest animals.'] },
+  { id: 'word_tree', word: 'tree', meaning: 'large plant', pronunciationVariants: [
+    { accent: 'american', ipa: 'triː' },
+    { accent: 'british', ipa: 'triː' },
+    { accent: 'australian', ipa: 'triː' }
+  ], category: 'daily-use-nouns', examples: ['Plant a tree.', 'Climb the tree.'] },
+  { id: 'word_flower', word: 'flower', meaning: 'bloom', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈflaʊər' },
+    { accent: 'british', ipa: 'ˈflaʊə' },
+    { accent: 'australian', ipa: 'ˈflaʊə' }
+  ], category: 'daily-use-nouns', examples: ['Beautiful flower.', 'Smell the flowers.'] },
+  { id: 'word_animal', word: 'animal', meaning: 'creature', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈænəməl' },
+    { accent: 'british', ipa: 'ˈænɪməl' },
+    { accent: 'australian', ipa: 'ˈænɪməl' }
+  ], category: 'daily-use-nouns', examples: ['Wild animal.', 'Animal shelter.'] },
+  { id: 'word_bird', word: 'bird', meaning: 'flying creature', pronunciationVariants: [
+    { accent: 'american', ipa: 'bɜːrd' },
+    { accent: 'british', ipa: 'bɜːd' },
+    { accent: 'australian', ipa: 'bɜːd' }
+  ], category: 'daily-use-nouns', examples: ['Watch the birds.', 'Bird song.'] },
+  { id: 'word_dog', word: 'dog', meaning: 'canine pet', pronunciationVariants: [
+    { accent: 'american', ipa: 'dɔːɡ' },
+    { accent: 'british', ipa: 'dɒɡ' },
+    { accent: 'australian', ipa: 'dɒɡ' }
+  ], category: 'daily-use-nouns', examples: ['Walk the dog.', 'A friendly dog.'] },
+  { id: 'word_cat', word: 'cat', meaning: 'feline pet', pronunciationVariants: [
+    { accent: 'american', ipa: 'kæt' },
+    { accent: 'british', ipa: 'kæt' },
+    { accent: 'australian', ipa: 'kæt' }
+  ], category: 'daily-use-nouns', examples: ['Feed the cat.', 'The cat sleeps.'] },
+  { id: 'word_horse', word: 'horse', meaning: 'riding animal', pronunciationVariants: [
+    { accent: 'american', ipa: 'hɔːrs' },
+    { accent: 'british', ipa: 'hɔːs' },
+    { accent: 'australian', ipa: 'hɔːs' }
+  ], category: 'daily-use-nouns', examples: ['Ride a horse.', 'Horse racing.'] },
+  { id: 'word_cow', word: 'cow', meaning: 'farm animal', pronunciationVariants: [
+    { accent: 'american', ipa: 'kaʊ' },
+    { accent: 'british', ipa: 'kaʊ' },
+    { accent: 'australian', ipa: 'kaʊ' }
+  ], category: 'daily-use-nouns', examples: ['Milk the cow.', 'The cow grazes.'] },
+  { id: 'word_chicken', word: 'chicken', meaning: 'bird/fowl', pronunciationVariants: [
+    { accent: 'american', ipa: 'ˈtʃɪkən' },
+    { accent: 'british', ipa: 'ˈtʃɪkən' },
+    { accent: 'australian', ipa: 'ˈtʃɪkən' }
+  ], category: 'daily-use-nouns', examples: ['Eat chicken.', 'The chicken lays eggs.'] },
+  { id: 'word_fish', word: 'fish', meaning: 'water creature', pronunciationVariants: [
+    { accent: 'american', ipa: 'fɪʃ' },
+    { accent: 'british', ipa: 'fɪʃ' },
+    { accent: 'australian', ipa: 'fɪʃ' }
+  ], category: 'daily-use-nouns', examples: ['Catch fish.', 'Fish swim.'] },
+  { id: 'word_sun', word: 'sun', meaning: 'star', pronunciationVariants: [
+    { accent: 'american', ipa: 'sʌn' },
+    { accent: 'british', ipa: 'sʌn' },
+    { accent: 'australian', ipa: 'sʌn' }
+  ], category: 'daily-use-nouns', examples: ['The sun shines.', 'Sun rise.'] },
+  { id: 'word_moon', word: 'moon', meaning: 'Earth satellite', pronunciationVariants: [
+    { accent: 'american', ipa: 'muːn' },
+    { accent: 'british', ipa: 'muːn' },
+    { accent: 'australian', ipa: 'muːn' }
+  ], category: 'daily-use-nouns', examples: ['Full moon.', 'Moon light.'] },
+  { id: 'word_star', word: 'star', meaning: 'celestial body', pronunciationVariants: [
+    { accent: 'american', ipa: 'stɑːr' },
+    { accent: 'british', ipa: 'stɑː' },
+    { accent: 'australian', ipa: 'stɑː' }
+  ], category: 'daily-use-nouns', examples: ['Bright star.', 'Star gazing.'] },
+  { id: 'word_sky', word: 'sky', meaning: 'atmosphere view', pronunciationVariants: [
+    { accent: 'american', ipa: 'skaɪ' },
+    { accent: 'british', ipa: 'skaɪ' },
+    { accent: 'australian', ipa: 'skaɪ' }
+  ], category: 'daily-use-nouns', examples: ['Blue sky.', 'Look at the sky.'] },
+  { id: 'word_cloud', word: 'cloud', meaning: 'water vapor', pronunciationVariants: [
+    { accent: 'american', ipa: 'klaʊd' },
+    { accent: 'british', ipa: 'klaʊd' },
+    { accent: 'australian', ipa: 'klaʊd' }
+  ], category: 'daily-use-nouns', examples: ['Dark cloud.', 'Cloud computing.'] },
+  { id: 'word_rain', word: 'rain', meaning: 'water from sky', pronunciationVariants: [
+    { accent: 'american', ipa: 'reɪn' },
+    { accent: 'british', ipa: 'reɪn' },
+    { accent: 'australian', ipa: 'reɪn' }
+  ], category: 'daily-use-nouns', examples: ['Heavy rain.', 'Rain coat.'] },
+  { id: 'word_snow', word: 'snow', meaning: 'frozen precipitation', pronunciationVariants: [
+    { accent: 'american', ipa: 'snoʊ' },
+    { accent: 'british', ipa: 'snəʊ' },
+    { accent: 'australian', ipa: 'snəʊ' }
+  ], category: 'daily-use-nouns', examples: ['White snow.', 'Play in the snow.'] },
+  { id: 'word_wind', word: 'wind', meaning: 'moving air', pronunciationVariants: [
+    { accent: 'american', ipa: 'wɪnd' },
+    { accent: 'british', ipa: 'wɪnd' },
+    { accent: 'australian', ipa: 'wɪnd' }
+  ], category: 'daily-use-nouns', examples: ['Strong wind.', 'Wind power.'] },
+  { id: 'word_earth', word: 'earth', meaning: 'planet/soil', pronunciationVariants: [
+    { accent: 'american', ipa: 'ɜːrθ' },
+    { accent: 'british', ipa: 'ɜːθ' },
+    { accent: 'australian', ipa: 'ɜːθ' }
+  ], category: 'daily-use-nouns', examples: ['Save the earth.', 'Earth day.'] }
+];

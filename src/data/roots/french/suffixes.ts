@@ -1,0 +1,617 @@
+import { WordRoot } from '@/types';
+
+export const suffixes: WordRoot[] = [
+  // Latin Suffixes
+  {
+    id: 'root_able_fr',
+    root: '-able',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'capacité de (ability to)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'abl' },
+      { accent: 'quebecois', ipa: 'abl' },
+      { accent: 'belgian', ipa: 'abl' }
+    ],
+    examples: [
+      { word: 'lisible', meaning: 'readable', sentence: 'Ce texte est très lisible.' },
+      { word: 'visible', meaning: 'visible', sentence: 'La tour est visible de loin.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_age_fr',
+    root: '-age',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'action, collection (action, collection)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'aʒ' },
+      { accent: 'quebecois', ipa: 'aʒ' },
+      { accent: 'belgian', ipa: 'aʒ' }
+    ],
+    examples: [
+      { word: 'voyage', meaning: 'journey', sentence: 'Nous faisons un voyage en Italie.' },
+      { word: 'message', meaning: 'message', sentence: 'J\'ai reçu un message important.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_ain_fr',
+    root: '-ain',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'origine, appartenance (origin, belonging)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɛ̃' },
+      { accent: 'quebecois', ipa: 'ɛ̃' },
+      { accent: 'belgian', ipa: 'ɛ̃' }
+    ],
+    examples: [
+      { word: 'américain', meaning: 'American', sentence: 'Il est américain.' },
+      { word: 'champignon', meaning: 'mushroom', sentence: 'Ce champignon est comestible.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_ation_fr',
+    root: '-ation',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'action, état (action, state)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'asjɔ̃' },
+      { accent: 'quebecois', ipa: 'asjɔ̃' },
+      { accent: 'belgian', ipa: 'asjɔ̃' }
+    ],
+    examples: [
+      { word: 'création', meaning: 'creation', sentence: 'La création artistique est importante.' },
+      { word: 'information', meaning: 'information', sentence: 'J\'ai besoin de plus d\'information.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_eur_fr',
+    root: '-eur',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'celui qui fait (one who does)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'œʁ' },
+      { accent: 'quebecois', ipa: 'œʁ' },
+      { accent: 'belgian', ipa: 'œʁ' }
+    ],
+    examples: [
+      { word: 'professeur', meaning: 'teacher', sentence: 'Le professeur explique la leçon.' },
+      { word: 'acteur', meaning: 'actor', sentence: 'L\'acteur joue dans un film.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_ment_fr',
+    root: '-ment',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'manière d\'agir (manner of acting)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'mɑ̃' },
+      { accent: 'quebecois', ipa: 'mɑ̃' },
+      { accent: 'belgian', ipa: 'mɑ̃' }
+    ],
+    examples: [
+      { word: 'rapidement', meaning: 'quickly', sentence: 'Il court rapidement.' },
+      { word: 'lentement', meaning: 'slowly', sentence: 'Elle parle lentement.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_tion_fr',
+    root: '-tion',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'action, résultat (action, result)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'sjɔ̃' },
+      { accent: 'quebecois', ipa: 'sjɔ̃' },
+      { accent: 'belgian', ipa: 'sjɔ̃' }
+    ],
+    examples: [
+      { word: 'nation', meaning: 'nation', sentence: 'La France est une nation.' },
+      { word: 'question', meaning: 'question', sentence: 'J\'ai une question importante.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_ier_fr',
+    root: '-ier',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'celui qui fait (one who does)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'je' },
+      { accent: 'quebecois', ipa: 'je' },
+      { accent: 'belgian', ipa: 'je' }
+    ],
+    examples: [
+      { word: 'boulanger', meaning: 'baker', sentence: 'Le boulanger fait du pain.' },
+      { word: 'charpentier', meaning: 'carpenter', sentence: 'Le charpentier construit des maisons.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_iste_fr',
+    root: '-iste',
+    type: 'suffix',
+    languageOrigin: 'Greek',
+    meaning: 'praticien, adepte (practitioner, adherent)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ist' },
+      { accent: 'quebecois', ipa: 'ist' },
+      { accent: 'belgian', ipa: 'ist' }
+    ],
+    examples: [
+      { word: 'artiste', meaning: 'artist', sentence: 'L\'artiste peint des tableaux.' },
+      { word: 'dentiste', meaning: 'dentist', sentence: 'Le dentiste soigne les dents.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_ique_fr',
+    root: '-ique',
+    type: 'suffix',
+    languageOrigin: 'Greek',
+    meaning: 'relatif à (relating to)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ik' },
+      { accent: 'quebecois', ipa: 'ik' },
+      { accent: 'belgian', ipa: 'ik' }
+    ],
+    examples: [
+      { word: 'politique', meaning: 'political', sentence: 'La politique est importante.' },
+      { word: 'logique', meaning: 'logical', sentence: 'C\'est logique.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_isme_fr',
+    root: '-isme',
+    type: 'suffix',
+    languageOrigin: 'Greek',
+    meaning: 'doctrine, système (doctrine, system)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ism' },
+      { accent: 'quebecois', ipa: 'ism' },
+      { accent: 'belgian', ipa: 'ism' }
+    ],
+    examples: [
+      { word: 'socialisme', meaning: 'socialism', sentence: 'Le socialisme est une doctrine.' },
+      { word: 'capitalisme', meaning: 'capitalism', sentence: 'Le capitalisme est un système économique.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_ite_fr',
+    root: '-ite',
+    type: 'suffix',
+    languageOrigin: 'Greek',
+    meaning: 'maladie, qualité (disease, quality)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'it' },
+      { accent: 'quebecois', ipa: 'it' },
+      { accent: 'belgian', ipa: 'it' }
+    ],
+    examples: [
+      { word: 'bronchite', meaning: 'bronchitis', sentence: 'Il a une bronchite.' },
+      { word: 'rapidité', meaning: 'speed', sentence: 'La rapidité est essentielle.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_eux_fr',
+    root: '-eux',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'plein de (full of)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ø' },
+      { accent: 'quebecois', ipa: 'ø' },
+      { accent: 'belgian', ipa: 'ø' }
+    ],
+    examples: [
+      { word: 'généreux', meaning: 'generous', sentence: 'Il est généreux.' },
+      { word: 'heureux', meaning: 'happy', sentence: 'Elle est heureuse.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_if_fr',
+    root: '-if',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'qui produit (which produces)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'if' },
+      { accent: 'quebecois', ipa: 'if' },
+      { accent: 'belgian', ipa: 'if' }
+    ],
+    examples: [
+      { word: 'actif', meaning: 'active', sentence: 'Il est très actif.' },
+      { word: 'sportif', meaning: 'sporty', sentence: 'C\'est un sportif.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_ive_fr',
+    root: '-ive',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'qui produit (which produces)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'iv' },
+      { accent: 'quebecois', ipa: 'iv' },
+      { accent: 'belgian', ipa: 'iv' }
+    ],
+    examples: [
+      { word: 'active', meaning: 'active', sentence: 'Elle est active.' },
+      { word: 'creative', meaning: 'creative', sentence: 'C\'est une personne creative.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_ure_fr',
+    root: '-ure',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'action, résultat (action, result)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'yʁ' },
+      { accent: 'quebecois', ipa: 'yʁ' },
+      { accent: 'belgian', ipa: 'yʁ' }
+    ],
+    examples: [
+      { word: 'culture', meaning: 'culture', sentence: 'La culture est importante.' },
+      { word: 'fermeture', meaning: 'closure', sentence: 'La fermeture est à 18h.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_ance_fr',
+    root: '-ance',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'état, qualité (state, quality)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɑ̃s' },
+      { accent: 'quebecois', ipa: 'ɑ̃s' },
+      { accent: 'belgian', ipa: 'ɑ̃s' }
+    ],
+    examples: [
+      { word: 'espérance', meaning: 'hope', sentence: 'L\'espérance est importante.' },
+      { word: 'souffrance', meaning: 'suffering', sentence: 'La souffrance est difficile.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_ence_fr',
+    root: '-ence',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'état, qualité (state, quality)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɑ̃s' },
+      { accent: 'quebecois', ipa: 'ɑ̃s' },
+      { accent: 'belgian', ipa: 'ɑ̃s' }
+    ],
+    examples: [
+      { word: 'silence', meaning: 'silence', sentence: 'Le silence est d\'or.' },
+      { word: 'excellence', meaning: 'excellence', sentence: 'L\'excellence est requise.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_erie_fr',
+    root: '-erie',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'lieu, collection (place, collection)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ʁi' },
+      { accent: 'quebecois', ipa: 'ʁi' },
+      { accent: 'belgian', ipa: 'ʁi' }
+    ],
+    examples: [
+      { word: 'boulangerie', meaning: 'bakery', sentence: 'La boulangerie est ouverte.' },
+      { word: 'pâtisserie', meaning: 'pastry shop', sentence: 'La pâtisserie est délicieuse.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_et_fr',
+    root: '-et',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'petit (small)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɛ' },
+      { accent: 'quebecois', ipa: 'ɛ' },
+      { accent: 'belgian', ipa: 'ɛ' }
+    ],
+    examples: [
+      { word: 'livret', meaning: 'booklet', sentence: 'C\'est un petit livret.' },
+      { word: 'fichier', meaning: 'file', sentence: 'Le fichier est important.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_ette_fr',
+    root: '-ette',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'petit (small)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɛt' },
+      { accent: 'quebecois', ipa: 'ɛt' },
+      { accent: 'belgian', ipa: 'ɛt' }
+    ],
+    examples: [
+      { word: 'cuvette', meaning: 'small basin', sentence: 'La cuvette est propre.' },
+      { word: 'fillette', meaning: 'little girl', sentence: 'La fillette joue.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_oire_fr',
+    root: '-oire',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'lieu, instrument (place, instrument)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'waʁ' },
+      { accent: 'quebecois', ipa: 'waʁ' },
+      { accent: 'belgian', ipa: 'waʁ' }
+    ],
+    examples: [
+      { word: 'boîte', meaning: 'box', sentence: 'La boîte est vide.' },
+      { word: 'buvette', meaning: 'buffet', sentence: 'La buvette est ouverte.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_os_fr',
+    root: '-os',
+    type: 'suffix',
+    languageOrigin: 'Greek',
+    meaning: 'maladie (disease)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɔs' },
+      { accent: 'quebecois', ipa: 'ɔs' },
+      { accent: 'belgian', ipa: 'ɔs' }
+    ],
+    examples: [
+      { word: 'thérose', meaning: 'tuberculosis', sentence: 'La tuberculose est grave.' },
+      { word: 'neurose', meaning: 'neurosis', sentence: 'La névrose est traitée.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_oide_fr',
+    root: '-oïde',
+    type: 'suffix',
+    languageOrigin: 'Greek',
+    meaning: 'ressemblant à (resembling)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɔid' },
+      { accent: 'quebecois', ipa: 'ɔid' },
+      { accent: 'belgian', ipa: 'ɔid' }
+    ],
+    examples: [
+      { word: 'sphéroïde', meaning: 'spheroid', sentence: 'C\'est une forme sphéroïde.' },
+      { word: 'ovoïde', meaning: 'ovoid', sentence: 'La forme est ovoïde.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_al_fr',
+    root: '-al',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'relatif à (relating to)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'al' },
+      { accent: 'quebecois', ipa: 'al' },
+      { accent: 'belgian', ipa: 'al' }
+    ],
+    examples: [
+      { word: 'professionnel', meaning: 'professional', sentence: 'Il est professionnel.' },
+      { word: 'national', meaning: 'national', sentence: 'C\'est un monument national.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_el_fr',
+    root: '-el',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'relatif à (relating to)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɛl' },
+      { accent: 'quebecois', ipa: 'ɛl' },
+      { accent: 'belgian', ipa: 'ɛl' }
+    ],
+    examples: [
+      { word: 'naturel', meaning: 'natural', sentence: 'C\'est naturel.' },
+      { word: 'universel', meaning: 'universal', sentence: 'C\'est universel.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_ard_fr',
+    root: '-ard',
+    type: 'suffix',
+    languageOrigin: 'Germanic',
+    meaning: 'celui qui fait (one who does)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'aʁ' },
+      { accent: 'quebecois', ipa: 'aʁ' },
+      { accent: 'belgian', ipa: 'aʁ' }
+    ],
+    examples: [
+      { word: 'bavard', meaning: 'talkative', sentence: 'Il est bavard.' },
+      { word: 'vantard', meaning: 'boastful', sentence: 'Elle est vantarde.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_asse_fr',
+    root: '-asse',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'péjoratif (pejorative)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'as' },
+      { accent: 'quebecois', ipa: 'as' },
+      { accent: 'belgian', ipa: 'as' }
+    ],
+    examples: [
+      { word: 'bonasse', meaning: 'naive', sentence: 'Elle est bonasse.' },
+      { word: 'drôle', meaning: 'funny', sentence: 'C\'est drôle.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_aud_fr',
+    root: '-aud',
+    type: 'suffix',
+    languageOrigin: 'Germanic',
+    meaning: 'péjoratif (pejorative)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'o' },
+      { accent: 'quebecois', ipa: 'o' },
+      { accent: 'belgian', ipa: 'o' }
+    ],
+    examples: [
+      { word: 'fou', meaning: 'crazy', sentence: 'Il est fou.' },
+      { word: 'lourd', meaning: 'heavy', sentence: 'C\'est lourd.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_eau_fr',
+    root: '-eau',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'augmentatif (augmentative)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'o' },
+      { accent: 'quebecois', ipa: 'o' },
+      { accent: 'belgian', ipa: 'o' }
+    ],
+    examples: [
+      { word: 'morceau', meaning: 'piece', sentence: 'C\'est un morceau.' },
+      { word: 'bureau', meaning: 'office', sentence: 'Le bureau est fermé.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_eau_fr',
+    root: '-elle',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'diminutif (diminutive)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɛl' },
+      { accent: 'quebecois', ipa: 'ɛl' },
+      { accent: 'belgian', ipa: 'ɛl' }
+    ],
+    examples: [
+      { word: 'fille', meaning: 'girl', sentence: 'La fille joue.' },
+      { word: 'table', meaning: 'table', sentence: 'La table est grande.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_on_fr',
+    root: '-on',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'augmentatif (augmentative)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɔ̃' },
+      { accent: 'quebecois', ipa: 'ɔ̃' },
+      { accent: 'belgian', ipa: 'ɔ̃' }
+    ],
+    examples: [
+      { word: 'chambre', meaning: 'room', sentence: 'La chambre est grande.' },
+      { word: 'bonbon', meaning: 'candy', sentence: 'J\'aime les bonbons.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_ot_fr',
+    root: '-ot',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'diminutif (diminutive)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'o' },
+      { accent: 'quebecois', ipa: 'o' },
+      { accent: 'belgian', ipa: 'o' }
+    ],
+    examples: [
+      { word: 'ilot', meaning: 'small island', sentence: 'L\'ilot est isolé.' },
+      { word: 'chariot', meaning: 'cart', sentence: 'Le chariot avance.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_u_fr',
+    root: '-u',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'diminutif (diminutive)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'y' },
+      { accent: 'quebecois', ipa: 'y' },
+      { accent: 'belgian', ipa: 'y' }
+    ],
+    examples: [
+      { word: 'jeu', meaning: 'game', sentence: 'Le jeu est amusant.' },
+      { word: 'feu', meaning: 'fire', sentence: 'Le feu brûle.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_cule_fr',
+    root: '-cule',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'diminutif (diminutive)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'kyl' },
+      { accent: 'quebecois', ipa: 'kyl' },
+      { accent: 'belgian', ipa: 'kyl' }
+    ],
+    examples: [
+      { word: 'particule', meaning: 'particle', sentence: 'La particule est petite.' },
+      { word: 'molécule', meaning: 'molecule', sentence: 'La molécule est étudiée.' },
+    ],
+    relatedRootIds: [],
+  },
+  {
+    id: 'root_cule_fr',
+    root: '-scule',
+    type: 'suffix',
+    languageOrigin: 'Latin',
+    meaning: 'diminutif (diminutive)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'skyl' },
+      { accent: 'quebecois', ipa: 'skyl' },
+      { accent: 'belgian', ipa: 'skyl' }
+    ],
+    examples: [
+      { word: 'opuscule', meaning: 'small work', sentence: 'C\'est un opuscule.' },
+      { word: 'homuncule', meaning: 'little man', sentence: 'L\'homuncule est mythique.' },
+    ],
+    relatedRootIds: [],
+  }
+];

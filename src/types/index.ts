@@ -26,7 +26,7 @@ export type WordRoot = {
   pronunciationVariants?: PronunciationVariant[]; // For different accents
 };
 
-export type VocabCategory = 'greetings' | 'numbers' | 'verbs' | 'daily-use-nouns';
+export type VocabCategory = 'greetings' | 'numbers' | 'verbs' | 'daily-use-nouns' | 'adjectives' | 'adverbs' | 'prepositions';
 
 export type VocabWord = {
   id: string;

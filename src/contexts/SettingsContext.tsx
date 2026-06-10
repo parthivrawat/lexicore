@@ -4,9 +4,7 @@ import { createContext, useContext, useState, ReactNode } from 'react';
 import { AppSettings } from '@/types/settings';
 import { 
   PAGINATION, 
-  TTS_CONFIG, 
-  PAGINATION_CONFIG, 
-  CARD_CONFIG 
+  TTS_CONFIG
 } from '@/constants';
 
 interface SettingsContextType {

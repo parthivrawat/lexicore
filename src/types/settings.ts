@@ -19,5 +19,5 @@ export interface SettingsSection {
   title: string;
   description: string;
   icon: string;
-  component: React.ComponentType<any>;
+  component: React.ComponentType<Record<string, unknown>>;
 }

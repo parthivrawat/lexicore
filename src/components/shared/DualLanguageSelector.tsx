@@ -1,6 +1,6 @@
 'use client';
 
-import { useLanguage } from '@/contexts/LanguageContext';
+import { useLanguage, type LearningLanguage } from '@/contexts/LanguageContext';
 
 export function DualLanguageSelector() {
   const { uiLanguage, setUILanguage, learningLanguage, setLearningLanguage, t } = useLanguage();
@@ -53,7 +53,7 @@ export function DualLanguageSelector() {
         <div className="relative">
           <select
             value={learningLanguage}
-            onChange={(e) => setLearningLanguage(e.target.value as any)}
+            onChange={(e) => setLearningLanguage(e.target.value as LearningLanguage)}
             className="appearance-none rounded-lg border border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-800 px-3 py-1.5 pr-8 text-sm font-semibold text-gray-700 dark:text-gray-300 shadow-soft transition-all duration-200 hover:border-gray-300 dark:hover:border-gray-500 hover:shadow-medium focus:border-primary-500 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 cursor-pointer"
           >
             {learningLanguages.map((lang) => (

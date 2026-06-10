@@ -1,7 +1,6 @@
 'use client';
 
-import { createContext, useContext, useState, useEffect, ReactNode } from 'react';
-import { APP_CONFIG } from '@/constants';
+import { createContext, useContext, ReactNode } from 'react';
 import { useSettings } from '@/contexts/SettingsContext';
 
 export type UILanguage = 'en' | 'fr';
@@ -142,11 +141,11 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
     const fallbackUILanguage: UILanguage = 'en';
     const fallbackLearningLanguage: LearningLanguage = 'english';
     
-    const setUILanguage = (lang: UILanguage) => {
+    const setUILanguage = () => {
       // No-op during SSR
     };
 
-    const setLearningLanguage = (lang: LearningLanguage) => {
+    const setLearningLanguage = () => {
       // No-op during SSR
     };
 
@@ -184,10 +183,4 @@ export function useLanguage() {
     throw new Error('useLanguage must be used within a LanguageProvider');
   }
   return context;
-}
-
-export function interpolate(text: string, variables: Record<string, string | number>): string {
-  return text.replace(/\{\{(\w+)\}\}/g, (match, key) => {
-    return variables[key]?.toString() || match;
-  });
 }

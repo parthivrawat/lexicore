@@ -1,18 +1,17 @@
 import React, { Suspense } from 'react'
-import { useSearchParams, useNavigate } from 'react-router-dom'
 import { AppShell } from '@/components/shared/AppShell'
 import { Pagination } from '@/components/shared/Pagination'
 import { VocabCard } from '@/components/features/VocabCard'
 import { formatCategory } from '@/utils/format'
 import { groupWordsByCategory, getVocabularyData } from '@/utils/data'
-import { useLanguage, interpolate } from '@/contexts/LanguageContext'
+import { useLanguage } from '@/contexts/LanguageContext'
+import { interpolate } from '@/utils/interpolate'
 import { useVocabularySearch } from '@/hooks/useVocabularySearch'
 import { usePagination } from '@/hooks/usePagination'
 import { CATEGORY_ORDER } from '@/constants'
+import { VocabWord } from '@/types'
 
 function VocabularyPageContent() {
-  const [searchParams] = useSearchParams()
-  const navigate = useNavigate()
   const { learningLanguage, uiLanguage, t } = useLanguage()
   
   const {
@@ -24,19 +23,9 @@ function VocabularyPageContent() {
   } = useVocabularySearch()
   
   const vocabularyData = hasQuery ? searchResults : getVocabularyData(learningLanguage)
-  const { currentPage, totalPages, startIndex, endIndex, setPage } = usePagination(vocabularyData.length)
+  const { startIndex, endIndex, setPage } = usePagination(vocabularyData.length)
   const paginatedWords = vocabularyData.slice(startIndex, endIndex + 1)
   const groupedWords = groupWordsByCategory(paginatedWords)
-
-  const handlePageChange = (newPage: number) => {
-    const params = new URLSearchParams(searchParams)
-    if (newPage <= 1) {
-      params.delete('page')
-    } else {
-      params.set('page', newPage.toString())
-    }
-    navigate(`/vocabulary?${params.toString()}`)
-  }
 
   return (
     <AppShell>
@@ -104,7 +93,7 @@ function VocabularyPageContent() {
                 </div>
                 
                 <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-                  {items.map((word: any, wordIndex: number) => (
+                  {items.map((word: VocabWord, wordIndex: number) => (
                     <div key={word.id} className="animate-slide-up" style={{ animationDelay: `${(catIndex * 0.2) + (wordIndex * 0.1)}s` }}>
                       <VocabCard word={word} />
                     </div>

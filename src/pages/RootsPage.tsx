@@ -1,16 +1,14 @@
 import React, { Suspense } from 'react'
-import { useSearchParams, useNavigate } from 'react-router-dom'
 import { AppShell } from '@/components/shared/AppShell'
 import { Pagination } from '@/components/shared/Pagination'
 import { RootCard } from '@/components/features/RootCard'
 import { getRootsData } from '@/utils/data'
-import { useLanguage, interpolate } from '@/contexts/LanguageContext'
+import { useLanguage } from '@/contexts/LanguageContext'
+import { interpolate } from '@/utils/interpolate'
 import { useRootSearch } from '@/hooks/useRootSearch'
 import { usePagination } from '@/hooks/usePagination'
 
 function RootsPageContent() {
-  const [searchParams] = useSearchParams()
-  const navigate = useNavigate()
   const { learningLanguage, t } = useLanguage()
   
   const {
@@ -22,18 +20,8 @@ function RootsPageContent() {
   } = useRootSearch()
   
   const rootsData = hasQuery ? searchResults : getRootsData(learningLanguage)
-  const { currentPage, totalPages, startIndex, endIndex, setPage } = usePagination(rootsData.length)
+  const { startIndex, endIndex, setPage } = usePagination(rootsData.length)
   const paginatedRoots = rootsData.slice(startIndex, endIndex + 1)
-
-  const handlePageChange = (newPage: number) => {
-    const params = new URLSearchParams(searchParams)
-    if (newPage <= 1) {
-      params.delete('page')
-    } else {
-      params.set('page', newPage.toString())
-    }
-    navigate(`/roots?${params.toString()}`)
-  }
 
   return (
     <AppShell>

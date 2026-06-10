@@ -3,7 +3,7 @@ import { VocabWord } from '@/types';
 import { formatCategory } from '@/utils/format';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { PronunciationPlayer } from '@/components/ui';
-import { CARD_CONFIG, TTS_CONFIG } from '@/constants';
+import { CARD_CONFIG } from '@/constants';
 import { useSettings } from '@/contexts/SettingsContext';
 import { AccentType } from '@/types';
 

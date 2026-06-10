@@ -1,11 +1,9 @@
 'use client';
 
 import { useSettings } from '@/contexts/SettingsContext';
-import { useLanguage } from '@/contexts/LanguageContext';
 
 export function LanguageSettings() {
   const { settings, updateSetting } = useSettings();
-  const { t } = useLanguage();
 
   return (
     <div className="space-y-6">

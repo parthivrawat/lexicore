@@ -1,6 +1,5 @@
 import { Button } from '@/components/ui/Button';
 import { PAGINATION_CONFIG } from '@/constants';
-import { useSettings } from '@/contexts/SettingsContext';
 import { usePagination } from '@/hooks/usePagination';
 
 interface PaginationProps {
@@ -10,7 +9,6 @@ interface PaginationProps {
 }
 
 export function Pagination({ totalItems, onPageChange, className = '' }: PaginationProps) {
-  const { settings } = useSettings();
   const { currentPage, totalPages, setPage } = usePagination(totalItems);
   
   if (totalPages <= 1) return null;

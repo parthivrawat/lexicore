@@ -5,7 +5,7 @@ import { useLanguage } from '@/contexts/LanguageContext';
 import { SimpleThemeToggle } from '@/components/ui';
 
 export function AppShell({ children }: PropsWithChildren) {
-  const { t, learningLanguage, uiLanguage, setLearningLanguage, setUILanguage } = useLanguage();
+  const { t } = useLanguage();
   
   const navigationItems = [
     { to: ROUTES.home, label: 'Home', icon: '🏠' },

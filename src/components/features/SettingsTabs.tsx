@@ -1,7 +1,6 @@
 'use client';
 
 import { useState } from 'react';
-import { useSettings } from '@/contexts/SettingsContext';
 import { PaginationSettings } from './settings/PaginationSettings';
 import { SearchSettings } from './settings/SearchSettings';
 import { UISettings } from './settings/UISettings';
@@ -11,7 +10,6 @@ type TabId = 'pagination' | 'search' | 'ui' | 'language';
 
 export function SettingsTabs() {
   const [activeTab, setActiveTab] = useState<TabId>('pagination');
-  const { settings } = useSettings();
 
   const tabs = [
     {

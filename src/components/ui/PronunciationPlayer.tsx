@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { PronunciationVariant, AccentType } from '@/types';
 import { formatAccentName, getAccentFlag, formatPronunciation } from '@/utils/format';
 import { useLanguage } from '@/contexts/LanguageContext';
-import { ACCENT_LANGUAGE_CODES, TTS_CONFIG } from '@/constants';
+import { ACCENT_LANGUAGE_CODES } from '@/constants';
 import { useSettings } from '@/contexts/SettingsContext';
 
 interface PronunciationPlayerProps {

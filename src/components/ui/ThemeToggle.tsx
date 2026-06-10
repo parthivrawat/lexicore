@@ -4,7 +4,7 @@ import { useTheme } from '@/contexts/ThemeContext';
 import { useLanguage } from '@/contexts/LanguageContext';
 
 export function ThemeToggle() {
-  const { theme, setTheme, resolvedTheme } = useTheme();
+  const { theme, setTheme } = useTheme();
   const { t } = useLanguage();
 
   const themes = [

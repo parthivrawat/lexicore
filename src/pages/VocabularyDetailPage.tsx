@@ -5,12 +5,13 @@ import { formatCategory, formatPronunciation } from '@/utils/format'
 import { ROUTES } from '@/constants'
 import { getVocabularyData } from '@/utils/data'
 import { useLanguage } from '@/contexts/LanguageContext'
+import { VocabWord } from '@/types'
 
 const VocabularyDetailPage: React.FC = () => {
   const { id } = useParams<{ id: string }>()
   const navigate = useNavigate()
   const { learningLanguage, uiLanguage } = useLanguage()
-  const [word, setWord] = useState<any>(null)
+  const [word, setWord] = useState<VocabWord | null>(null)
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {

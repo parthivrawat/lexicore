@@ -1,19 +1,18 @@
 import React, { useEffect, useState } from 'react'
 import { Link, useParams, useNavigate } from 'react-router-dom'
 import { AppShell } from '@/components/shared/AppShell'
-import { Button } from '@/components/ui/Button'
 import { formatRootType } from '@/utils/format'
 import { findRelatedRoots, getRootsData } from '@/utils/data'
 import { ROUTES } from '@/constants'
-import { RootExample } from '@/types'
+import { RootExample, WordRoot } from '@/types'
 import { useLanguage } from '@/contexts/LanguageContext'
 
 const RootDetailPage: React.FC = () => {
   const { id } = useParams<{ id: string }>()
   const navigate = useNavigate()
   const { learningLanguage, uiLanguage } = useLanguage()
-  const [root, setRoot] = useState<any>(null)
-  const [relatedRoots, setRelatedRoots] = useState<any[]>([])
+  const [root, setRoot] = useState<WordRoot | null>(null)
+  const [relatedRoots, setRelatedRoots] = useState<WordRoot[]>([])
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {

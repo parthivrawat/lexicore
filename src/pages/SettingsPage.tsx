@@ -1,11 +1,8 @@
 import React from 'react'
 import { AppShell } from '@/components/shared/AppShell'
 import { SettingsTabs } from '@/components/features/SettingsTabs'
-import { useLanguage } from '@/contexts/LanguageContext'
 
 const SettingsPage: React.FC = () => {
-  const { t } = useLanguage()
-
   return (
     <AppShell>
       <div className="space-y-8 animate-fade-in">

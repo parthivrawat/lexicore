@@ -933,41 +933,7 @@ export const prefixes: WordRoot[] = [
     ],
     relatedRootIds: [],
   },
-  // Additional Greek Prefixes
-  {
-    id: 'root_auto',
-    root: 'auto-',
-    type: 'prefix',
-    languageOrigin: 'Greek',
-    meaning: 'self, same',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ˈɔtoʊ' },
-      { accent: 'british', ipa: 'ˈɔːtəʊ' },
-      { accent: 'australian', ipa: 'ˈɔːtoʊ' }
-    ],
-    examples: [
-      { word: 'autobiography', meaning: 'self life story', sentence: 'She wrote her autobiography.' },
-      { word: 'automatic', meaning: 'self acting', sentence: 'The door is automatic.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_bio',
-    root: 'bio-',
-    type: 'prefix',
-    languageOrigin: 'Greek',
-    meaning: 'life',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ˈbaɪoʊ' },
-      { accent: 'british', ipa: 'ˈbaɪəʊ' },
-      { accent: 'australian', ipa: 'ˈbaɪəʊ' }
-    ],
-    examples: [
-      { word: 'biology', meaning: 'study of life', sentence: 'Biology is fascinating.' },
-      { word: 'biography', meaning: 'life story', sentence: 'I read his biography.' },
-    ],
-    relatedRootIds: [],
-  },
+  // Additional Prefixes
   {
     id: 'root_chron',
     root: 'chron-',
@@ -982,23 +948,6 @@ export const prefixes: WordRoot[] = [
     examples: [
       { word: 'chronology', meaning: 'time order', sentence: 'The chronology is clear.' },
       { word: 'chronic', meaning: 'long lasting', sentence: 'He has a chronic condition.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_circum',
-    root: 'circum-',
-    type: 'prefix',
-    languageOrigin: 'Latin',
-    meaning: 'around',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ˈsɜrkəm' },
-      { accent: 'british', ipa: 'ˈsɜːkəm' },
-      { accent: 'australian', ipa: 'ˈsɜːkəm' }
-    ],
-    examples: [
-      { word: 'circumference', meaning: 'around distance', sentence: 'Measure the circumference.' },
-      { word: 'circumnavigate', meaning: 'sail around', sentence: 'They circumnavigated the globe.' },
     ],
     relatedRootIds: [],
   },
@@ -1054,23 +1003,6 @@ export const prefixes: WordRoot[] = [
     relatedRootIds: [],
   },
   {
-    id: 'root_dia',
-    root: 'dia-',
-    type: 'prefix',
-    languageOrigin: 'Greek',
-    meaning: 'through, across',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ˈdaɪə' },
-      { accent: 'british', ipa: 'ˈdaɪə' },
-      { accent: 'australian', ipa: 'ˈdaɪə' }
-    ],
-    examples: [
-      { word: 'diagram', meaning: 'through drawing', sentence: 'Draw a diagram.' },
-      { word: 'dialogue', meaning: 'through speech', sentence: 'The dialogue was engaging.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
     id: 'root_dis',
     root: 'dis-',
     type: 'prefix',
@@ -1084,23 +1016,6 @@ export const prefixes: WordRoot[] = [
     examples: [
       { word: 'disagree', meaning: 'not agree', sentence: 'I disagree with you.' },
       { word: 'disconnect', meaning: 'apart connect', sentence: 'Disconnect the cable.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_dys',
-    root: 'dys-',
-    type: 'prefix',
-    languageOrigin: 'Greek',
-    meaning: 'bad, difficult',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'dɪs' },
-      { accent: 'british', ipa: 'dɪs' },
-      { accent: 'australian', ipa: 'dɪs' }
-    ],
-    examples: [
-      { word: 'dysfunction', meaning: 'bad function', sentence: 'The system has a dysfunction.' },
-      { word: 'dyslexia', meaning: 'difficulty reading', sentence: 'Dyslexia affects reading.' },
     ],
     relatedRootIds: [],
   },
@@ -1139,23 +1054,6 @@ export const prefixes: WordRoot[] = [
     relatedRootIds: [],
   },
   {
-    id: 'root_extra',
-    root: 'extra-',
-    type: 'prefix',
-    languageOrigin: 'Latin',
-    meaning: 'outside, beyond',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ˈɛkstrə' },
-      { accent: 'british', ipa: 'ˈɛkstrə' },
-      { accent: 'australian', ipa: 'ˈɛkstrə' }
-    ],
-    examples: [
-      { word: 'extraordinary', meaning: 'beyond ordinary', sentence: 'It was extraordinary.' },
-      { word: 'extraterrestrial', meaning: 'beyond earth', sentence: 'Search for extraterrestrial life.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
     id: 'root_fore',
     root: 'fore-',
     type: 'prefix',
@@ -1169,23 +1067,6 @@ export const prefixes: WordRoot[] = [
     examples: [
       { word: 'forecast', meaning: 'before cast', sentence: 'The forecast is sunny.' },
       { word: 'forehead', meaning: 'front head', sentence: 'He touched his forehead.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_geo',
-    root: 'geo-',
-    type: 'prefix',
-    languageOrigin: 'Greek',
-    meaning: 'earth',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ˈdʒioʊ' },
-      { accent: 'british', ipa: 'ˈdʒiːəʊ' },
-      { accent: 'australian', ipa: 'ˈdʒiːəʊ' }
-    ],
-    examples: [
-      { word: 'geography', meaning: 'earth writing', sentence: 'Geography teaches about places.' },
-      { word: 'geology', meaning: 'earth study', sentence: 'Geology examines rocks.' },
     ],
     relatedRootIds: [],
   },
@@ -1224,57 +1105,6 @@ export const prefixes: WordRoot[] = [
     relatedRootIds: [],
   },
   {
-    id: 'root_hyper',
-    root: 'hyper-',
-    type: 'prefix',
-    languageOrigin: 'Greek',
-    meaning: 'over, excessive',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ˈhaɪpər' },
-      { accent: 'british', ipa: 'ˈhaɪpə' },
-      { accent: 'australian', ipa: 'ˈhaɪpə' }
-    ],
-    examples: [
-      { word: 'hyperactive', meaning: 'over active', sentence: 'The child is hyperactive.' },
-      { word: 'hypertension', meaning: 'excessive pressure', sentence: 'He has hypertension.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_hypo',
-    root: 'hypo-',
-    type: 'prefix',
-    languageOrigin: 'Greek',
-    meaning: 'under, below',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ˈhaɪpoʊ' },
-      { accent: 'british', ipa: 'ˈhaɪpəʊ' },
-      { accent: 'australian', ipa: 'ˈhaɪpəʊ' }
-    ],
-    examples: [
-      { word: 'hypothermia', meaning: 'below temperature', sentence: 'She suffered hypothermia.' },
-      { word: 'hypothesis', meaning: 'under assumption', sentence: 'Test the hypothesis.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_ill',
-    root: 'il-',
-    type: 'prefix',
-    languageOrigin: 'Latin',
-    meaning: 'not',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ɪl' },
-      { accent: 'british', ipa: 'ɪl' },
-      { accent: 'australian', ipa: 'ɪl' }
-    ],
-    examples: [
-      { word: 'illegal', meaning: 'not legal', sentence: 'The act is illegal.' },
-      { word: 'illogical', meaning: 'not logical', sentence: 'That argument is illogical.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
     id: 'root_im',
     root: 'im-',
     type: 'prefix',
@@ -1288,91 +1118,6 @@ export const prefixes: WordRoot[] = [
     examples: [
       { word: 'impossible', meaning: 'not possible', sentence: 'It\'s impossible to do.' },
       { word: 'immigrate', meaning: 'move into', sentence: 'They plan to immigrate.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_inter',
-    root: 'inter-',
-    type: 'prefix',
-    languageOrigin: 'Latin',
-    meaning: 'between, among',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ˈɪntər' },
-      { accent: 'british', ipa: 'ˈɪntə' },
-      { accent: 'australian', ipa: 'ˈɪntə' }
-    ],
-    examples: [
-      { word: 'international', meaning: 'between nations', sentence: 'It\'s an international issue.' },
-      { word: 'interact', meaning: 'act between', sentence: 'Students interact well.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_intra',
-    root: 'intra-',
-    type: 'prefix',
-    languageOrigin: 'Latin',
-    meaning: 'within',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ˈɪntrə' },
-      { accent: 'british', ipa: 'ˈɪntrə' },
-      { accent: 'australian', ipa: 'ˈɪntrə' }
-    ],
-    examples: [
-      { word: 'intravenous', meaning: 'within vein', sentence: 'The drug is intravenous.' },
-      { word: 'intramural', meaning: 'within walls', sentence: 'Join the intramural team.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_ir',
-    root: 'ir-',
-    type: 'prefix',
-    languageOrigin: 'Latin',
-    meaning: 'not',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ɪr' },
-      { accent: 'british', ipa: 'ɪr' },
-      { accent: 'australian', ipa: 'ɪr' }
-    ],
-    examples: [
-      { word: 'irregular', meaning: 'not regular', sentence: 'The pattern is irregular.' },
-      { word: 'irresponsible', meaning: 'not responsible', sentence: 'Being irresponsible is bad.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_macro',
-    root: 'macro-',
-    type: 'prefix',
-    languageOrigin: 'Greek',
-    meaning: 'large, long',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ˈmækroʊ' },
-      { accent: 'british', ipa: 'ˈmækrəʊ' },
-      { accent: 'australian', ipa: 'ˈmækrəʊ' }
-    ],
-    examples: [
-      { word: 'macroeconomics', meaning: 'large economics', sentence: 'Study macroeconomics.' },
-      { word: 'macroscopic', meaning: 'large scale', sentence: 'It\'s macroscopic.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_micro',
-    root: 'micro-',
-    type: 'prefix',
-    languageOrigin: 'Greek',
-    meaning: 'small',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ˈmaɪkroʊ' },
-      { accent: 'british', ipa: 'ˈmaɪkrəʊ' },
-      { accent: 'australian', ipa: 'ˈmaɪkrəʊ' }
-    ],
-    examples: [
-      { word: 'microscope', meaning: 'small scope', sentence: 'Use the microscope.' },
-      { word: 'microorganism', meaning: 'small organism', sentence: 'Bacteria are microorganisms.' },
     ],
     relatedRootIds: [],
   },
@@ -1428,57 +1173,6 @@ export const prefixes: WordRoot[] = [
     relatedRootIds: [],
   },
   {
-    id: 'root_mis',
-    root: 'mis-',
-    type: 'prefix',
-    languageOrigin: 'Old English',
-    meaning: 'wrong, badly',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'mɪs' },
-      { accent: 'british', ipa: 'mɪs' },
-      { accent: 'australian', ipa: 'mɪs' }
-    ],
-    examples: [
-      { word: 'misunderstand', meaning: 'wrong understand', sentence: 'Don\'t misunderstand me.' },
-      { word: 'misplace', meaning: 'wrong place', sentence: 'I misplaced my keys.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_mono',
-    root: 'mono-',
-    type: 'prefix',
-    languageOrigin: 'Greek',
-    meaning: 'one, single',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ˈmɑnoʊ' },
-      { accent: 'british', ipa: 'ˈmɒnəʊ' },
-      { accent: 'australian', ipa: 'ˈmɒnəʊ' }
-    ],
-    examples: [
-      { word: 'monologue', meaning: 'one speech', sentence: 'He gave a monologue.' },
-      { word: 'monochrome', meaning: 'one color', sentence: 'The image is monochrome.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_multi',
-    root: 'multi-',
-    type: 'prefix',
-    languageOrigin: 'Latin',
-    meaning: 'many, much',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ˈmʌlti' },
-      { accent: 'british', ipa: 'ˈmʌlti' },
-      { accent: 'australian', ipa: 'ˈmʌlti' }
-    ],
-    examples: [
-      { word: 'multilingual', meaning: 'many languages', sentence: 'She is multilingual.' },
-      { word: 'multitask', meaning: 'many tasks', sentence: 'I can multitask.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
     id: 'root_neo',
     root: 'neo-',
     type: 'prefix',
@@ -1496,57 +1190,6 @@ export const prefixes: WordRoot[] = [
     relatedRootIds: [],
   },
   {
-    id: 'root_non',
-    root: 'non-',
-    type: 'prefix',
-    languageOrigin: 'Latin',
-    meaning: 'not',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'nɑn' },
-      { accent: 'british', ipa: 'nɒn' },
-      { accent: 'australian', ipa: 'nɒn' }
-    ],
-    examples: [
-      { word: 'nonexistent', meaning: 'not existent', sentence: 'The problem is nonexistent.' },
-      { word: 'nonprofit', meaning: 'not profit', sentence: 'It\'s a nonprofit organization.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_omni',
-    root: 'omni-',
-    type: 'prefix',
-    languageOrigin: 'Latin',
-    meaning: 'all, every',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ˈɑmni' },
-      { accent: 'british', ipa: 'ˈɒmni' },
-      { accent: 'australian', ipa: 'ˈɒmni' }
-    ],
-    examples: [
-      { word: 'omnipotent', meaning: 'all powerful', sentence: 'God is omnipotent.' },
-      { word: 'omnivore', meaning: 'all eater', sentence: 'Humans are omnivores.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_over',
-    root: 'over-',
-    type: 'prefix',
-    languageOrigin: 'Old English',
-    meaning: 'excessive, above',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ˈoʊvər' },
-      { accent: 'british', ipa: 'ˈəʊvə' },
-      { accent: 'australian', ipa: 'ˈəʊvə' }
-    ],
-    examples: [
-      { word: 'overestimate', meaning: 'excessive estimate', sentence: 'Don\'t overestimate.' },
-      { word: 'overhead', meaning: 'above head', sentence: 'Check the overhead costs.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
     id: 'root_pan',
     root: 'pan-',
     type: 'prefix',
@@ -1560,23 +1203,6 @@ export const prefixes: WordRoot[] = [
     examples: [
       { word: 'panorama', meaning: 'all view', sentence: 'The panorama is beautiful.' },
       { word: 'pandemic', meaning: 'all people', sentence: 'The pandemic affected everyone.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_para',
-    root: 'para-',
-    type: 'prefix',
-    languageOrigin: 'Greek',
-    meaning: 'beside, beyond',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ˈpærə' },
-      { accent: 'british', ipa: 'ˈpærə' },
-      { accent: 'australian', ipa: 'ˈpærə' }
-    ],
-    examples: [
-      { word: 'paranormal', meaning: 'beyond normal', sentence: 'She studies paranormal.' },
-      { word: 'parallel', meaning: 'beside each other', sentence: 'The lines are parallel.' },
     ],
     relatedRootIds: [],
   },
@@ -1615,74 +1241,6 @@ export const prefixes: WordRoot[] = [
     relatedRootIds: [],
   },
   {
-    id: 'root_post',
-    root: 'post-',
-    type: 'prefix',
-    languageOrigin: 'Latin',
-    meaning: 'after, behind',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'poʊst' },
-      { accent: 'british', ipa: 'pəʊst' },
-      { accent: 'australian', ipa: 'pəʊst' }
-    ],
-    examples: [
-      { word: 'postpone', meaning: 'after place', sentence: 'We must postpone the meeting.' },
-      { word: 'postgraduate', meaning: 'after graduate', sentence: 'She is postgraduate.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_pre',
-    root: 'pre-',
-    type: 'prefix',
-    languageOrigin: 'Latin',
-    meaning: 'before',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'pri' },
-      { accent: 'british', ipa: 'priː' },
-      { accent: 'australian', ipa: 'priː' }
-    ],
-    examples: [
-      { word: 'predict', meaning: 'before say', sentence: 'Predict the outcome.' },
-      { word: 'prepare', meaning: 'before prepare', sentence: 'Prepare for the exam.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_pro',
-    root: 'pro-',
-    type: 'prefix',
-    languageOrigin: 'Latin',
-    meaning: 'forward, for',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'proʊ' },
-      { accent: 'british', ipa: 'prəʊ' },
-      { accent: 'australian', ipa: 'prəʊ' }
-    ],
-    examples: [
-      { word: 'promote', meaning: 'forward move', sentence: 'Promote the product.' },
-      { word: 'progress', meaning: 'forward go', sentence: 'We made progress.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_pseudo',
-    root: 'pseudo-',
-    type: 'prefix',
-    languageOrigin: 'Greek',
-    meaning: 'false, fake',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ˈsuːdoʊ' },
-      { accent: 'british', ipa: 'ˈsjuːdəʊ' },
-      { accent: 'australian', ipa: 'ˈsjuːdəʊ' }
-    ],
-    examples: [
-      { word: 'pseudonym', meaning: 'false name', sentence: 'He uses a pseudonym.' },
-      { word: 'pseudoscience', meaning: 'false science', sentence: 'Avoid pseudoscience.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
     id: 'root_quad',
     root: 'quad-',
     type: 'prefix',
@@ -1717,23 +1275,6 @@ export const prefixes: WordRoot[] = [
     relatedRootIds: [],
   },
   {
-    id: 'root_re',
-    root: 're-',
-    type: 'prefix',
-    languageOrigin: 'Latin',
-    meaning: 'again, back',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ri' },
-      { accent: 'british', ipa: 'riː' },
-      { accent: 'australian', ipa: 'riː' }
-    ],
-    examples: [
-      { word: 'rewrite', meaning: 'write again', sentence: 'Rewrite the essay.' },
-      { word: 'return', meaning: 'turn back', sentence: 'Return the book.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
     id: 'root_retro',
     root: 'retro-',
     type: 'prefix',
@@ -1747,108 +1288,6 @@ export const prefixes: WordRoot[] = [
     examples: [
       { word: 'retrospective', meaning: 'looking back', sentence: 'A retrospective was held.' },
       { word: 'retrograde', meaning: 'moving backward', sentence: 'The motion is retrograde.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_semi',
-    root: 'semi-',
-    type: 'prefix',
-    languageOrigin: 'Latin',
-    meaning: 'half, partially',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ˈsɛmi' },
-      { accent: 'british', ipa: 'ˈsɛmi' },
-      { accent: 'australian', ipa: 'ˈsɛmi' }
-    ],
-    examples: [
-      { word: 'semicircle', meaning: 'half circle', sentence: 'Draw a semicircle.' },
-      { word: 'semifinal', meaning: 'half final', sentence: 'They reached the semifinal.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_sub',
-    root: 'sub-',
-    type: 'prefix',
-    languageOrigin: 'Latin',
-    meaning: 'under, below',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'sʌb' },
-      { accent: 'british', ipa: 'sʌb' },
-      { accent: 'australian', ipa: 'sʌb' }
-    ],
-    examples: [
-      { word: 'submarine', meaning: 'under sea', sentence: 'The submarine dives.' },
-      { word: 'subway', meaning: 'under way', sentence: 'Take the subway.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_super',
-    root: 'super-',
-    type: 'prefix',
-    languageOrigin: 'Latin',
-    meaning: 'above, beyond',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ˈsuːpər' },
-      { accent: 'british', ipa: 'ˈsuːpə' },
-      { accent: 'australian', ipa: 'ˈsuːpə' }
-    ],
-    examples: [
-      { word: 'superhero', meaning: 'above hero', sentence: 'He loves superhero movies.' },
-      { word: 'supernatural', meaning: 'beyond natural', sentence: 'The event was supernatural.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_syn',
-    root: 'syn-',
-    type: 'prefix',
-    languageOrigin: 'Greek',
-    meaning: 'with, together',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'sɪn' },
-      { accent: 'british', ipa: 'sɪn' },
-      { accent: 'australian', ipa: 'sɪn' }
-    ],
-    examples: [
-      { word: 'synonym', meaning: 'together name', sentence: 'Find a synonym.' },
-      { word: 'synchronize', meaning: 'together time', sentence: 'Synchronize your watches.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_tele',
-    root: 'tele-',
-    type: 'prefix',
-    languageOrigin: 'Greek',
-    meaning: 'far, distant',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ˈtɛli' },
-      { accent: 'british', ipa: 'ˈtɛli' },
-      { accent: 'australian', ipa: 'ˈtɛli' }
-    ],
-    examples: [
-      { word: 'telephone', meaning: 'far sound', sentence: 'Answer the telephone.' },
-      { word: 'television', meaning: 'far vision', sentence: 'Watch television.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_trans',
-    root: 'trans-',
-    type: 'prefix',
-    languageOrigin: 'Latin',
-    meaning: 'across, beyond',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'trænz' },
-      { accent: 'british', ipa: 'trænz' },
-      { accent: 'australian', ipa: 'trænz' }
-    ],
-    examples: [
-      { word: 'transport', meaning: 'across carry', sentence: 'Transport the goods.' },
-      { word: 'translate', meaning: 'across language', sentence: 'Translate the text.' },
     ],
     relatedRootIds: [],
   },

@@ -26,9 +26,9 @@ export const bases: WordRoot[] = [
     languageOrigin: 'Latin',
     meaning: 'hear',
     pronunciationVariants: [
-      { accent: 'american', ipa: 'ɔːdi' },
-      { accent: 'british', ipa: 'ɔːdi' },
-      { accent: 'australian', ipa: 'ɔːdi' }
+      { accent: 'american', ipa: 'ˈɔːdi' },
+      { accent: 'british', ipa: 'ˈɔːdi' },
+      { accent: 'australian', ipa: 'ˈɔːdi' }
     ],
     examples: [
       { word: 'audio', meaning: 'relating to sound', sentence: 'The audio quality is excellent.' },
@@ -1376,23 +1376,6 @@ export const bases: WordRoot[] = [
     examples: [
       { word: 'asteroid', meaning: 'star like', sentence: 'The asteroid orbits.' },
       { word: 'astronomy', meaning: 'star study', sentence: 'Study astronomy.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_audi',
-    root: 'audi',
-    type: 'base',
-    languageOrigin: 'Latin',
-    meaning: 'hear',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ˈɔdi' },
-      { accent: 'british', ipa: 'ˈɔːdi' },
-      { accent: 'australian', ipa: 'ˈɔːdi' }
-    ],
-    examples: [
-      { word: 'audio', meaning: 'hearing', sentence: 'The audio is clear.' },
-      { word: 'audience', meaning: 'hearers', sentence: 'The audience applauded.' },
     ],
     relatedRootIds: [],
   },

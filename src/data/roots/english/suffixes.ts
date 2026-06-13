@@ -599,23 +599,6 @@ export const suffixes: WordRoot[] = [
     relatedRootIds: [],
   },
   {
-    id: 'root_age',
-    root: '-age',
-    type: 'suffix',
-    languageOrigin: 'French',
-    meaning: 'action or collection',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ɪdʒ' },
-      { accent: 'british', ipa: 'ɪdʒ' },
-      { accent: 'australian', ipa: 'ɪdʒ' }
-    ],
-    examples: [
-      { word: 'garbage', meaning: 'collection of waste', sentence: 'Take out the garbage.' },
-      { word: 'voyage', meaning: 'action of traveling', sentence: 'The voyage was long.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
     id: 'root_an',
     root: '-an',
     type: 'suffix',
@@ -629,23 +612,6 @@ export const suffixes: WordRoot[] = [
     examples: [
       { word: 'urban', meaning: 'relating to city', sentence: 'Urban areas are crowded.' },
       { word: 'human', meaning: 'relating to people', sentence: 'Human rights matter.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_ance',
-    root: '-ance',
-    type: 'suffix',
-    languageOrigin: 'French',
-    meaning: 'state or quality',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'əns' },
-      { accent: 'british', ipa: 'əns' },
-      { accent: 'australian', ipa: 'əns' }
-    ],
-    examples: [
-      { word: 'tolerance', meaning: 'state of tolerating', sentence: 'Show tolerance.' },
-      { word: 'guidance', meaning: 'quality of guiding', sentence: 'Seek guidance.' },
     ],
     relatedRootIds: [],
   },
@@ -820,40 +786,6 @@ export const suffixes: WordRoot[] = [
     relatedRootIds: [],
   },
   {
-    id: 'root_dom',
-    root: '-dom',
-    type: 'suffix',
-    languageOrigin: 'Old English',
-    meaning: 'state or domain',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'dəm' },
-      { accent: 'british', ipa: 'dəm' },
-      { accent: 'australian', ipa: 'dəm' }
-    ],
-    examples: [
-      { word: 'kingdom', meaning: 'domain of king', sentence: 'The kingdom is large.' },
-      { word: 'freedom', meaning: 'state of being free', sentence: 'Freedom is precious.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_ee',
-    root: '-ee',
-    type: 'suffix',
-    languageOrigin: 'French',
-    meaning: 'one who receives',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'i' },
-      { accent: 'british', ipa: 'iː' },
-      { accent: 'australian', ipa: 'iː' }
-    ],
-    examples: [
-      { word: 'employee', meaning: 'one who is employed', sentence: 'The employee works hard.' },
-      { word: 'payee', meaning: 'one who is paid', sentence: 'The payee received money.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
     id: 'root_eer',
     root: '-eer',
     type: 'suffix',
@@ -901,23 +833,6 @@ export const suffixes: WordRoot[] = [
     examples: [
       { word: 'golden', meaning: 'made of gold', sentence: 'The ring is golden.' },
       { word: 'strengthen', meaning: 'to make strong', sentence: 'Strengthen the team.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_ence',
-    root: '-ence',
-    type: 'suffix',
-    languageOrigin: 'Latin',
-    meaning: 'state or quality',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'əns' },
-      { accent: 'british', ipa: 'əns' },
-      { accent: 'australian', ipa: 'əns' }
-    ],
-    examples: [
-      { word: 'excellence', meaning: 'state of being excellent', sentence: 'Strive for excellence.' },
-      { word: 'independence', meaning: 'state of being independent', sentence: 'Independence is valued.' },
     ],
     relatedRootIds: [],
   },
@@ -1159,40 +1074,6 @@ export const suffixes: WordRoot[] = [
     relatedRootIds: [],
   },
   {
-    id: 'root_ible',
-    root: '-ible',
-    type: 'suffix',
-    languageOrigin: 'Latin',
-    meaning: 'able to be',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'əbl' },
-      { accent: 'british', ipa: 'əbl' },
-      { accent: 'australian', ipa: 'əbl' }
-    ],
-    examples: [
-      { word: 'visible', meaning: 'able to be seen', sentence: 'It is visible.' },
-      { word: 'flexible', meaning: 'able to bend', sentence: 'The material is flexible.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_ic',
-    root: '-ic',
-    type: 'suffix',
-    languageOrigin: 'Greek',
-    meaning: 'relating to',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ɪk' },
-      { accent: 'british', ipa: 'ɪk' },
-      { accent: 'australian', ipa: 'ɪk' }
-    ],
-    examples: [
-      { word: 'poetic', meaning: 'relating to poetry', sentence: 'The style is poetic.' },
-      { word: 'heroic', meaning: 'relating to hero', sentence: 'The act was heroic.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
     id: 'root_id',
     root: '-id',
     type: 'suffix',
@@ -1261,23 +1142,6 @@ export const suffixes: WordRoot[] = [
     relatedRootIds: [],
   },
   {
-    id: 'root_ion',
-    root: '-ion',
-    type: 'suffix',
-    languageOrigin: 'Latin',
-    meaning: 'action or condition',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'iən' },
-      { accent: 'british', ipa: 'ɪən' },
-      { accent: 'australian', ipa: 'ɪən' }
-    ],
-    examples: [
-      { word: 'action', meaning: 'act condition', sentence: 'Take action.' },
-      { word: 'opinion', meaning: 'opining condition', sentence: 'Share your opinion.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
     id: 'root_ious',
     root: '-ious',
     type: 'suffix',
@@ -1295,23 +1159,6 @@ export const suffixes: WordRoot[] = [
     relatedRootIds: [],
   },
   {
-    id: 'root_ise',
-    root: '-ise',
-    type: 'suffix',
-    languageOrigin: 'Greek',
-    meaning: 'to make',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'aɪz' },
-      { accent: 'british', ipa: 'aɪz' },
-      { accent: 'australian', ipa: 'aɪz' }
-    ],
-    examples: [
-      { word: 'realize', meaning: 'to make real', sentence: 'Realize your dream.' },
-      { word: 'organize', meaning: 'to make organized', sentence: 'Organize the room.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
     id: 'root_ism',
     root: '-ism',
     type: 'suffix',
@@ -1325,23 +1172,6 @@ export const suffixes: WordRoot[] = [
     examples: [
       { word: 'capitalism', meaning: 'belief in capital', sentence: 'Capitalism is an economic system.' },
       { word: 'buddhism', meaning: 'practice of Buddha', sentence: 'Buddhism is a religion.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_ist',
-    root: '-ist',
-    type: 'suffix',
-    languageOrigin: 'Greek',
-    meaning: 'one who practices',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ɪst' },
-      { accent: 'british', ipa: 'ɪst' },
-      { accent: 'australian', ipa: 'ɪst' }
-    ],
-    examples: [
-      { word: 'artist', meaning: 'one who practices art', sentence: 'She is an artist.' },
-      { word: 'scientist', meaning: 'one who practices science', sentence: 'He is a scientist.' },
     ],
     relatedRootIds: [],
   },
@@ -1431,23 +1261,6 @@ export const suffixes: WordRoot[] = [
     relatedRootIds: [],
   },
   {
-    id: 'root_ity',
-    root: '-ity',
-    type: 'suffix',
-    languageOrigin: 'Latin',
-    meaning: 'state or quality',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'ɪti' },
-      { accent: 'british', ipa: 'ɪti' },
-      { accent: 'australian', ipa: 'ɪti' }
-    ],
-    examples: [
-      { word: 'ability', meaning: 'state of being able', sentence: 'Show your ability.' },
-      { word: 'reality', meaning: 'state of being real', sentence: 'Face reality.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
     id: 'root_ization',
     root: '-ization',
     type: 'suffix',
@@ -1461,23 +1274,6 @@ export const suffixes: WordRoot[] = [
     examples: [
       { word: 'organization', meaning: 'process of organizing', sentence: 'The organization is large.' },
       { word: 'modernization', meaning: 'process of making modern', sentence: 'Modernization is needed.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_ize',
-    root: '-ize',
-    type: 'suffix',
-    languageOrigin: 'Greek',
-    meaning: 'to make',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'aɪz' },
-      { accent: 'british', ipa: 'aɪz' },
-      { accent: 'australian', ipa: 'aɪz' }
-    ],
-    examples: [
-      { word: 'organize', meaning: 'to make organized', sentence: 'Organize the files.' },
-      { word: 'modernize', meaning: 'to make modern', sentence: 'Modernize the system.' },
     ],
     relatedRootIds: [],
   },
@@ -1614,23 +1410,6 @@ export const suffixes: WordRoot[] = [
     examples: [
       { word: 'testimony', meaning: 'state of testifying', sentence: 'Give testimony.' },
       { word: 'matrimony', meaning: 'state of marriage', sentence: 'Matrimony is sacred.' },
-    ],
-    relatedRootIds: [],
-  },
-  {
-    id: 'root_ness',
-    root: '-ness',
-    type: 'suffix',
-    languageOrigin: 'Old English',
-    meaning: 'state or quality',
-    pronunciationVariants: [
-      { accent: 'american', ipa: 'nəs' },
-      { accent: 'british', ipa: 'nəs' },
-      { accent: 'australian', ipa: 'nəs' }
-    ],
-    examples: [
-      { word: 'happiness', meaning: 'state of being happy', sentence: 'Seek happiness.' },
-      { word: 'kindness', meaning: 'quality of being kind', sentence: 'Show kindness.' },
     ],
     relatedRootIds: [],
   },

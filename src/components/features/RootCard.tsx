@@ -3,7 +3,6 @@ import { WordRoot } from '@/types';
 import { formatRootType } from '@/utils/format';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { PronunciationPlayer } from '@/components/ui';
-import { CARD_CONFIG } from '@/constants';
 import { useSettings } from '@/contexts/SettingsContext';
 import { AccentType } from '@/types';
 
@@ -18,16 +17,16 @@ export function RootCard({ root }: RootCardProps) {
   return (
     <Link
       to={`/roots/${encodeURIComponent(root.id)}`}
-      className="group block bg-white dark:bg-gray-800 rounded-2xl border border-gray-200/50 dark:border-gray-700/50 p-6 shadow-soft card-hover"
+      className="group block bg-white dark:bg-gray-800 rounded-2xl border border-gray-200/50 dark:border-gray-700/50 p-4 sm:p-6 shadow-soft card-hover"
     >
       <div className="flex items-start justify-between gap-4">
         <div className="flex-1">
-          <div className="flex items-center gap-3 mb-3">
-            <div className={`flex ${CARD_CONFIG.iconSize} items-center justify-center rounded-xl bg-gradient-to-br from-primary-500 to-primary-600 text-white shadow-soft group-hover:scale-110 transition-transform duration-300`}>
-              <span className="text-lg font-bold">{root.root.charAt(0).toUpperCase()}</span>
+          <div className="flex items-center gap-2 sm:gap-3 mb-2 sm:mb-3">
+            <div className={`flex h-10 w-10 sm:h-12 sm:w-12 items-center justify-center rounded-xl bg-gradient-to-br from-primary-500 to-primary-600 text-white shadow-soft group-hover:scale-110 transition-transform duration-300`}>
+              <span className="text-base font-bold sm:text-lg">{root.root.charAt(0).toUpperCase()}</span>
             </div>
             <div className="flex-1">
-              <h3 className="text-xl font-bold text-gray-900 dark:text-white group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors">
+              <h3 className="text-lg font-bold text-gray-900 dark:text-white group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors sm:text-xl">
                 {root.root}
               </h3>
               {(root.pronunciationVariants?.length || root.pronunciationIpa) && (
@@ -41,10 +40,10 @@ export function RootCard({ root }: RootCardProps) {
             </div>
           </div>
 
-          <p className="text-gray-600 dark:text-gray-300 leading-relaxed mb-4">{root.meaning}</p>
+          <p className="text-sm text-gray-600 dark:text-gray-300 leading-relaxed mb-3 sm:mb-4 sm:text-base">{root.meaning}</p>
 
           <div className="flex items-center justify-between">
-            <div className="flex items-center gap-4">
+            <div className="flex items-center gap-2 sm:gap-4">
               <span className="inline-flex items-center rounded-full bg-primary-100 dark:bg-primary-900/30 px-3 py-1 text-xs font-semibold text-primary-800 dark:text-primary-200">
                 {formatRootType(root.type, uiLanguage)}
               </span>

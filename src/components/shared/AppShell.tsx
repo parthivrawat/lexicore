@@ -17,17 +17,17 @@ export function AppShell({ children }: PropsWithChildren) {
   return (
       <div className="min-h-screen bg-gray-50 dark:bg-gray-900 theme-transition">
       <header className="sticky top-0 z-50 glass-morphism border-b border-gray-200 dark:border-gray-700 shadow-soft">
-        <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-4 sm:px-6 lg:px-8">
+        <div className="mx-auto flex max-w-7xl items-center justify-between gap-2 px-3 py-3 sm:gap-4 sm:px-4 sm:py-4 md:px-6 lg:px-8">
           <div className="min-w-0 flex-1">
-            <div className="flex items-center gap-3">
-              <div className="flex h-10 w-10 items-center justify-center rounded-xl gradient-primary shadow-soft">
-                <span className="text-lg font-bold text-white">📖</span>
+            <div className="flex items-center gap-2 sm:gap-3">
+              <div className="flex h-8 w-8 items-center justify-center rounded-xl gradient-primary shadow-soft sm:h-10 sm:w-10">
+                <span className="text-base font-bold text-white sm:text-lg">📖</span>
               </div>
               <div>
-                <div className="truncate text-xl font-bold text-gray-900 dark:text-white sm:text-2xl">
+                <div className="truncate text-base font-bold text-gray-900 dark:text-white sm:text-xl md:text-2xl">
                   {t('app.title')}
                 </div>
-                <div className="truncate text-sm text-gray-500 dark:text-gray-400">
+                <div className="hidden truncate text-xs text-gray-500 dark:text-gray-400 sm:block sm:text-sm">
                   {t('app.description')}
                 </div>
               </div>
@@ -89,27 +89,27 @@ export function AppShell({ children }: PropsWithChildren) {
         </nav>
       </header>
 
-      <main className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8 animate-fade-in">
+      <main className="mx-auto max-w-7xl px-3 py-6 sm:px-4 sm:py-8 md:px-6 lg:px-8 animate-fade-in">
         {children}
       </main>
 
       <footer className="mt-auto border-t border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
-        <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
-          <div className="flex flex-col items-center gap-4 text-center">
-            <div className="flex h-12 w-12 items-center justify-center rounded-full gradient-primary shadow-soft">
-              <span className="text-xl font-bold text-white">📖</span>
+        <div className="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8 sm:py-8">
+          <div className="flex flex-col items-center gap-3 text-center sm:gap-4">
+            <div className="flex h-10 w-10 items-center justify-center rounded-full gradient-primary shadow-soft sm:h-12 sm:w-12">
+              <span className="text-lg font-bold text-white sm:text-xl">📖</span>
             </div>
             <div>
-              <div className="text-sm font-medium text-gray-900 dark:text-white">
+              <div className="text-xs font-medium text-gray-900 dark:text-white sm:text-sm">
                 {t('app.description')}
               </div>
-              <div className="mt-1 text-xs text-gray-500 dark:text-gray-400">
+              <div className="mt-1 text-[10px] text-gray-500 dark:text-gray-400 sm:text-xs">
                 Version {APP_CONFIG.version} • Built with ❤️ for language learners
               </div>
             </div>
-            <div className="flex items-center gap-4 text-xs text-gray-400 dark:text-gray-500">
+            <div className="flex flex-wrap items-center justify-center gap-2 text-[10px] text-gray-400 dark:text-gray-500 sm:flex-nowrap sm:gap-4 sm:text-xs">
               <span>© 2024 Word Roots Platform</span>
-              <span>•</span>
+              <span className="hidden sm:inline">•</span>
               <span>Open Source</span>
             </div>
           </div>

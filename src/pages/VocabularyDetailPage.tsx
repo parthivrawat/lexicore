@@ -56,33 +56,33 @@ const VocabularyDetailPage: React.FC = () => {
           </div>
         </div>
 
-        <div className="rounded-xl border border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-800 p-8 shadow-sm">
+        <div className="rounded-xl border border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-800 p-4 sm:p-6 md:p-8 shadow-sm">
           <div className="flex items-center gap-3">
             <span className="inline-flex items-center rounded-full bg-green-100 dark:bg-green-900/30 px-3 py-1 text-sm font-medium text-green-800 dark:text-green-200">
               {formatCategory(word.category, uiLanguage)}
             </span>
           </div>
           
-          <h1 className="mt-4 text-3xl font-bold tracking-tight text-gray-900 dark:text-white">{word.word}</h1>
+          <h1 className="mt-4 text-2xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-3xl">{word.word}</h1>
           
           {word.pronunciationIpa && (
-            <div className="mt-2 text-lg text-gray-600 dark:text-gray-400">
+            <div className="mt-2 text-base text-gray-600 dark:text-gray-400 sm:text-lg">
               {formatPronunciation(word.pronunciationIpa)}
             </div>
           )}
           
-          <p className="mt-3 text-lg text-gray-700 dark:text-gray-300">{word.meaning}</p>
+          <p className="mt-3 text-base text-gray-700 dark:text-gray-300 sm:text-lg">{word.meaning}</p>
         </div>
 
         <section className="space-y-6">
           <div className="flex items-center justify-between">
-            <h2 className="text-2xl font-semibold text-gray-900 dark:text-white">Examples</h2>
+            <h2 className="text-xl font-semibold text-gray-900 dark:text-white sm:text-2xl">Examples</h2>
             <span className="inline-flex items-center rounded-full bg-gray-100 dark:bg-gray-700 px-3 py-1 text-sm font-medium text-gray-800 dark:text-gray-200">
               {word.examples.length} examples
             </span>
           </div>
           
-          <div className="grid gap-4">
+          <div className="grid gap-4 sm:grid-cols-2">
             {word.examples.map((example: string, index: number) => (
               <div key={index} className="rounded-xl border border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-800 p-6 shadow-sm">
                 <p className="text-gray-700 dark:text-gray-300">{example}</p>

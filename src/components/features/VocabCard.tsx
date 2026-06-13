@@ -3,7 +3,6 @@ import { VocabWord } from '@/types';
 import { formatCategory } from '@/utils/format';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { PronunciationPlayer } from '@/components/ui';
-import { CARD_CONFIG } from '@/constants';
 import { useSettings } from '@/contexts/SettingsContext';
 import { AccentType } from '@/types';
 
@@ -18,16 +17,16 @@ export function VocabCard({ word }: VocabCardProps) {
   return (
     <Link
       to={`/vocabulary/${encodeURIComponent(word.id)}`}
-      className="group block bg-white dark:bg-gray-800 rounded-2xl border border-gray-200/50 dark:border-gray-700/50 p-6 shadow-soft card-hover"
+      className="group block bg-white dark:bg-gray-800 rounded-2xl border border-gray-200/50 dark:border-gray-700/50 p-4 sm:p-6 shadow-soft card-hover"
     >
       <div className="flex items-start justify-between gap-4">
         <div className="flex-1">
-          <div className="flex items-center gap-3 mb-3">
-            <div className={`flex ${CARD_CONFIG.iconSize} items-center justify-center rounded-xl bg-gradient-to-br from-success-500 to-success-600 text-white shadow-soft group-hover:scale-110 transition-transform duration-300`}>
-              <span className="text-lg font-bold">{word.word.charAt(0).toUpperCase()}</span>
+          <div className="flex items-center gap-2 sm:gap-3 mb-2 sm:mb-3">
+            <div className={`flex h-10 w-10 sm:h-12 sm:w-12 items-center justify-center rounded-xl bg-gradient-to-br from-success-500 to-success-600 text-white shadow-soft group-hover:scale-110 transition-transform duration-300`}>
+              <span className="text-base font-bold sm:text-lg">{word.word.charAt(0).toUpperCase()}</span>
             </div>
             <div className="flex-1">
-              <h3 className="text-xl font-bold text-gray-900 dark:text-white group-hover:text-success-600 dark:group-hover:text-success-400 transition-colors">
+              <h3 className="text-lg font-bold text-gray-900 dark:text-white group-hover:text-success-600 dark:group-hover:text-success-400 transition-colors sm:text-xl">
                 {word.word}
               </h3>
               {(word.pronunciationVariants?.length || word.pronunciationIpa) && (
@@ -41,7 +40,7 @@ export function VocabCard({ word }: VocabCardProps) {
             </div>
           </div>
 
-          <p className="text-gray-600 dark:text-gray-300 leading-relaxed mb-4">{word.meaning}</p>
+          <p className="text-sm text-gray-600 dark:text-gray-300 leading-relaxed mb-3 sm:mb-4 sm:text-base">{word.meaning}</p>
 
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-4">

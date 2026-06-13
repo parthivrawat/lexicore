@@ -58,7 +58,7 @@ const RootDetailPage: React.FC = () => {
           </div>
         </div>
 
-        <div className="rounded-xl border border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-800 p-8 shadow-sm">
+        <div className="rounded-xl border border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-800 p-4 sm:p-6 md:p-8 shadow-sm">
           <div className="flex items-center gap-3">
             <span className="inline-flex items-center rounded-full bg-blue-100 dark:bg-blue-900/30 px-3 py-1 text-sm font-medium text-blue-800 dark:text-blue-200">
               {formatRootType(root.type, uiLanguage)}
@@ -68,13 +68,13 @@ const RootDetailPage: React.FC = () => {
             </span>
           </div>
           
-          <h1 className="mt-4 text-3xl font-bold tracking-tight text-gray-900 dark:text-white">{root.root}</h1>
-          <p className="mt-2 text-lg text-gray-700 dark:text-gray-300">{root.meaning}</p>
+          <h1 className="mt-4 text-2xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-3xl">{root.root}</h1>
+          <p className="mt-2 text-base text-gray-700 dark:text-gray-300 sm:text-lg">{root.meaning}</p>
         </div>
 
         <section className="space-y-6">
           <div className="flex items-center justify-between">
-            <h2 className="text-2xl font-semibold text-gray-900 dark:text-white">Examples</h2>
+            <h2 className="text-xl font-semibold text-gray-900 dark:text-white sm:text-2xl">Examples</h2>
             <span className="inline-flex items-center rounded-full bg-gray-100 dark:bg-gray-700 px-3 py-1 text-sm font-medium text-gray-800 dark:text-gray-200">
               {root.examples.length} examples
             </span>
@@ -95,7 +95,7 @@ const RootDetailPage: React.FC = () => {
 
         <section className="space-y-6">
           <div className="flex items-center justify-between">
-            <h2 className="text-2xl font-semibold text-gray-900 dark:text-white">Related Roots</h2>
+            <h2 className="text-xl font-semibold text-gray-900 dark:text-white sm:text-2xl">Related Roots</h2>
             <span className="inline-flex items-center rounded-full bg-gray-100 px-3 py-1 text-sm font-medium text-gray-800">
               {relatedRoots.length} related
             </span>

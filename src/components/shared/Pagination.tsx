@@ -47,18 +47,18 @@ export function Pagination({ totalItems, onPageChange, className = '' }: Paginat
   };
 
   return (
-    <div className={`flex items-center justify-center gap-2 ${className}`}>
+    <div className={`flex flex-col items-center justify-center gap-3 sm:flex-row sm:gap-2 ${className}`}>
       <Button
         variant="outline"
         size="sm"
         onClick={handlePrevious}
         disabled={currentPage <= 1}
-        className="flex items-center gap-2"
+        className="flex items-center gap-2 px-3 py-2 text-xs sm:px-4 sm:py-2 sm:text-sm"
       >
         <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
         </svg>
-        Previous
+        <span className="hidden sm:inline">Previous</span>
       </Button>
 
       <div className="flex items-center gap-1">
@@ -66,7 +66,7 @@ export function Pagination({ totalItems, onPageChange, className = '' }: Paginat
           <button
             key={page}
             onClick={() => onPageChange(page)}
-            className={`${PAGINATION_CONFIG.pageButtonSize} rounded-lg text-sm font-medium transition-all duration-200 ${
+            className={`${PAGINATION_CONFIG.pageButtonSize} min-w-[32px] rounded-lg text-xs font-medium transition-all duration-200 sm:min-w-[40px] sm:text-sm ${
               currentPage === page
                 ? 'gradient-primary text-white shadow-soft'
                 : 'text-gray-600 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 hover:text-gray-900 dark:hover:text-white'
@@ -82,9 +82,9 @@ export function Pagination({ totalItems, onPageChange, className = '' }: Paginat
         size="sm"
         onClick={handleNext}
         disabled={currentPage >= totalPages}
-        className="flex items-center gap-2"
+        className="flex items-center gap-2 px-3 py-2 text-xs sm:px-4 sm:py-2 sm:text-sm"
       >
-        Next
+        <span className="hidden sm:inline">Next</span>
         <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
         </svg>

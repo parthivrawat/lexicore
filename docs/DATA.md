@@ -61,23 +61,77 @@ type RootType = 'prefix' | 'suffix' | 'base';
 
 ### VocabWord Model
 
-Represents a vocabulary word with pronunciation and examples.
+Represents a vocabulary word with pronunciation, examples, and optional etymology.
 
 ```typescript
 interface VocabWord {
   id: string;                    // Unique identifier
   word: string;                  // The vocabulary word
   meaning: string;               // Meaning of the word
-  pronunciationIpa?: string;     // IPA pronunciation
+  pronunciationIpa?: string;     // IPA pronunciation (legacy)
+  pronunciationVariants?: PronunciationVariant[];  // Multi-accent support
   category: VocabCategory;      // Word category
   examples: string[];            // Usage examples
+  etymology?: Etymology;        // Etymological information (optional)
 }
 ```
 
 #### VocabCategory
 
 ```typescript
-type VocabCategory = 'greetings' | 'numbers' | 'verbs' | 'daily-use-nouns';
+type VocabCategory = 'greetings' | 'numbers' | 'verbs' | 'daily-use-nouns' | 'adjectives' | 'adverbs' | 'prepositions';
+```
+
+### Etymology Model
+
+Represents the etymological history of a vocabulary word.
+
+```typescript
+interface Etymology {
+  languageOrigin: string;              // Primary origin language (e.g., "Latin", "Greek")
+  yearOfOrigin?: string;              // Approximate origin (e.g., "c. 12th century")
+  rootComposition?: WordRootComposition[];  // Constituent roots
+  timeline: EtymologyStage[];          // Evolution path (required)
+  cognates?: CognateWord[];           // Related words in other languages
+  notes?: string;                     // Additional etymological notes
+}
+```
+
+#### EtymologyStage
+
+Represents a stage in the word's evolution.
+
+```typescript
+interface EtymologyStage {
+  language: string;                   // Language at this stage (e.g., "Latin", "Old French")
+  form: string;                       // The word form at this stage
+  period?: string;                    // Time period (e.g., "12th century", "c. 1150")
+  meaning?: string;                   // Meaning at this stage
+}
+```
+
+#### WordRootComposition
+
+Links a vocabulary word to its constituent word roots.
+
+```typescript
+interface WordRootComposition {
+  rootId: string;                     // Reference to WordRoot.id
+  position: 'prefix' | 'suffix' | 'base';
+  contribution: string;               // How this root contributes to meaning
+}
+```
+
+#### CognateWord
+
+Represents a related word in another language with shared origin.
+
+```typescript
+interface CognateWord {
+  language: string;                   // Language of cognate (e.g., "Spanish", "German")
+  word: string;                       // The cognate word
+  meaning: string;                    // Meaning in that language
+}
 ```
 
 ### SearchItem Model
@@ -168,6 +222,9 @@ src/data/
 ├── vocabulary/
 │   ├── english.ts     # English vocabulary
 │   └── index.ts       # Vocabulary barrel export
+├── etymology/
+│   ├── english.ts     # English etymology data
+│   └── index.ts       # Etymology barrel export
 └── index.ts           # Data barrel export
 ```
 
@@ -221,6 +278,31 @@ export const vocabularyEn: VocabWord[] = [
 ];
 ```
 
+#### English Etymology (`src/data/etymology/english.ts`)
+
+```typescript
+import { Etymology } from '@/types';
+
+export const etymologyData: Record<string, Etymology> = {
+  word_hello: {
+    languageOrigin: 'Middle English',
+    yearOfOrigin: 'c. 14th century',
+    timeline: [
+      { language: 'Old High German', form: 'halā', period: 'Before 12th century', meaning: 'fetch, used as a greeting' },
+      { language: 'Middle English', form: 'hyllo, hallo', period: '14th century', meaning: 'greeting' },
+      { language: 'Modern English', form: 'hello', period: '19th century', meaning: 'greeting' }
+    ],
+    cognates: [
+      { language: 'German', word: 'hallo', meaning: 'hello' },
+      { language: 'French', word: 'allo', meaning: 'hello (on phone)' },
+      { language: 'Spanish', word: 'hola', meaning: 'hello' }
+    ],
+    notes: 'Popularized by Thomas Edison when he used it to answer the telephone.'
+  },
+  // ... more etymology entries
+};
+```
+
 ### Barrel Exports
 
 ```typescript
@@ -230,9 +312,13 @@ export { rootsEn } from './english';
 // src/data/vocabulary/index.ts
 export { vocabularyEn } from './english';
 
+// src/data/etymology/index.ts
+export { etymologyData } from './english';
+
 // src/data/index.ts
 export * from './roots';
 export * from './vocabulary';
+export * from './etymology';
 ```
 
 ## 🔍 Data Access Patterns
@@ -286,6 +372,32 @@ export function findRelatedRoots(root: WordRoot, allRoots: WordRoot[]): WordRoot
     .map(id => allRoots.find(r => r.id === id))
     .filter(Boolean) as WordRoot[];
 }
+
+// Etymology integration for vocabulary
+export function getVocabularyData(learningLanguage: 'english' | 'french' | 'spanish' | 'latin' | 'greek'): VocabWord[] {
+  let vocabulary: VocabWord[];
+  switch (learningLanguage) {
+    case 'french':
+      vocabulary = vocabularyFr;
+      break;
+    case 'english':
+    case 'spanish':
+    case 'latin':
+    case 'greek':
+    default:
+      vocabulary = vocabularyEn;
+  }
+
+  // Merge etymology data for English vocabulary
+  if (learningLanguage === 'english') {
+    return vocabulary.map(word => ({
+      ...word,
+      etymology: etymologyData[word.id]
+    }));
+  }
+
+  return vocabulary;
+}
 ```
 
 ## 🔎 Search Implementation
@@ -338,6 +450,7 @@ export function searchAll(queryRaw: string): SearchItem[] {
 3. **Type Filtering**: Filter by root or word type
 4. **Relevance**: Simple relevance based on field matching
 5. **Performance**: Optimized for frontend search
+6. **Etymology Search**: Searches etymology fields including language origin, timeline stages, and cognates
 
 ### Search Hook
 
@@ -529,6 +642,7 @@ export function useRealtimeRoots() {
 3. **Consistency**: Follow established formatting patterns
 4. **Documentation**: Document new fields and meanings
 5. **Testing**: Add tests for new data structures
+6. **Etymology**: Add etymology data for vocabulary words following the etymology model structure
 
 ### Data Migration
 

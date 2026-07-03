@@ -28,8 +28,9 @@ This project follows modern React + Vite best practices with a clear separation 
 ### Key Features
 - **200+ English Word Roots**: Prefixes, suffixes, and base roots with examples and relationships
 - **200+ Core Vocabulary Words**: Greetings, numbers, verbs, and daily-use nouns with IPA pronunciation
+- **Etymology Support**: Historical origin, evolution timeline, cognates, and root composition for vocabulary words
 - **Pagination**: Efficient handling of large datasets (20 items per page)
-- **Advanced Search**: Filter by roots/words with real-time results
+- **Advanced Search**: Filter by roots/words with real-time results, including etymology search
 - **Frontend-Only**: All data served from static TypeScript files
 - **Static Export Ready**: `output: 'export'` configured for deployment
 

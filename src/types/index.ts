@@ -36,6 +36,7 @@ export type VocabWord = {
   pronunciationVariants?: PronunciationVariant[]; // Enhanced multi-accent support
   category: VocabCategory;
   examples: string[];
+  etymology?: Etymology;
 };
 
 export type SearchItem =
@@ -54,4 +55,33 @@ export type PaginatedResult<T> = {
   totalPages: number;
   currentPage: number;
   totalItems: number;
+};
+
+// Etymology Types
+export type EtymologyStage = {
+  language: string;
+  form: string;
+  period?: string;
+  meaning?: string;
+};
+
+export type WordRootComposition = {
+  rootId: string;
+  position: 'prefix' | 'suffix' | 'base';
+  contribution: string;
+};
+
+export type CognateWord = {
+  language: string;
+  word: string;
+  meaning: string;
+};
+
+export type Etymology = {
+  languageOrigin: string;
+  yearOfOrigin?: string;
+  rootComposition?: WordRootComposition[];
+  timeline: EtymologyStage[];
+  cognates?: CognateWord[];
+  notes?: string;
 };

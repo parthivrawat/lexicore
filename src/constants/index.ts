@@ -105,3 +105,5 @@ export const ROUTES = {
   vocabulary: '/vocabulary',
   settings: '/settings',
 } as const;
+
+export * from './learningTips';

@@ -1,0 +1,331 @@
+import { Etymology } from '@/types';
+
+export const greetingsEtymology: Record<string, Etymology> = {
+  word_hello: {
+    languageOrigin: 'Middle English',
+    yearOfOrigin: 'c. 14th century',
+    timeline: [
+      { language: 'Old High German', form: 'halā', period: 'Before 12th century', meaning: 'fetch, used as a greeting' },
+      { language: 'Middle English', form: 'hyllo, hallo', period: '14th century', meaning: 'greeting' },
+      { language: 'Modern English', form: 'hello', period: '19th century', meaning: 'greeting' }
+    ],
+    cognates: [
+      { language: 'German', word: 'hallo', meaning: 'hello' },
+      { language: 'French', word: 'allo', meaning: 'hello (on phone)' },
+      { language: 'Spanish', word: 'hola', meaning: 'hello' }
+    ],
+    notes: 'Popularized by Thomas Edison when he used it to answer the telephone.'
+  },
+
+  word_goodbye: {
+    languageOrigin: 'Middle English',
+    yearOfOrigin: 'c. 16th century',
+    timeline: [
+      { language: 'Old English', form: 'God be with ye', period: 'Before 12th century', meaning: 'may God be with you' },
+      { language: 'Middle English', form: 'God be with you', period: '14th-16th century', meaning: 'farewell' },
+      { language: 'Modern English', form: 'goodbye', period: '16th century', meaning: 'farewell' }
+    ],
+    cognates: [
+      { language: 'French', word: 'au revoir', meaning: 'goodbye' },
+      { language: 'Spanish', word: 'adiós', meaning: 'goodbye' },
+      { language: 'German', word: 'auf Wiedersehen', meaning: 'goodbye' }
+    ],
+    notes: 'Contraction of "God be with ye", evolved to "goodbye" over time.'
+  },
+
+  word_thank_you: {
+    languageOrigin: 'Old English',
+    yearOfOrigin: 'Before 12th century',
+    timeline: [
+      { language: 'Proto-Germanic', form: 'thankō', period: 'Pre-5th century', meaning: 'thought, gratitude' },
+      { language: 'Old English', form: 'þancian', period: 'Before 12th century', meaning: 'to think, to give thanks' },
+      { language: 'Middle English', form: 'thanken', period: '12th-15th century', meaning: 'to give thanks' },
+      { language: 'Modern English', form: 'thank you', period: '16th century', meaning: 'expression of gratitude' }
+    ],
+    cognates: [
+      { language: 'German', word: 'danke', meaning: 'thank you' },
+      { language: 'Dutch', word: 'dank je', meaning: 'thank you' },
+      { language: 'Swedish', word: 'tack', meaning: 'thank you' }
+    ]
+  },
+
+  word_hi: {
+    languageOrigin: 'Middle English',
+    yearOfOrigin: 'c. 16th century',
+    timeline: [
+      { language: 'Middle English', form: 'hy, hey', period: '16th century', meaning: 'greeting' },
+      { language: 'Modern English', form: 'hi', period: '20th century', meaning: 'informal greeting' }
+    ],
+    cognates: [
+      { language: 'German', word: 'hallo', meaning: 'hello' },
+      { language: 'Dutch', word: 'hoi', meaning: 'hi' },
+      { language: 'Swedish', word: 'hej', meaning: 'hi' }
+    ],
+    notes: 'Shortened form of "hello", became popular as a casual greeting in the 20th century.'
+  },
+
+  word_good_morning: {
+    languageOrigin: 'Middle English',
+    yearOfOrigin: 'c. 14th century',
+    timeline: [
+      { language: 'Old English', form: 'gōd morgen', period: 'Before 12th century', meaning: 'good morning' },
+      { language: 'Middle English', form: 'good morwe', period: '14th-15th century', meaning: 'good morning' },
+      { language: 'Modern English', form: 'good morning', period: '15th century', meaning: 'morning greeting' }
+    ],
+    cognates: [
+      { language: 'German', word: 'Guten Morgen', meaning: 'good morning' },
+      { language: 'French', word: 'bonjour', meaning: 'good day' },
+      { language: 'Spanish', word: 'buenos días', meaning: 'good morning' }
+    ],
+    notes: 'Compound of "good" and "morning", used as a standard morning greeting.'
+  },
+
+  word_good_evening: {
+    languageOrigin: 'Middle English',
+    yearOfOrigin: 'c. 14th century',
+    timeline: [
+      { language: 'Old English', form: 'gōd ǣfen', period: 'Before 12th century', meaning: 'good evening' },
+      { language: 'Middle English', form: 'good even', period: '14th-15th century', meaning: 'good evening' },
+      { language: 'Modern English', form: 'good evening', period: '15th century', meaning: 'evening greeting' }
+    ],
+    cognates: [
+      { language: 'German', word: 'Guten Abend', meaning: 'good evening' },
+      { language: 'French', word: 'bonsoir', meaning: 'good evening' },
+      { language: 'Spanish', word: 'buenas noches', meaning: 'good evening/night' }
+    ],
+    notes: 'Compound of "good" and "evening", used as a standard evening greeting.'
+  },
+
+  word_bye: {
+    languageOrigin: 'Middle English',
+    yearOfOrigin: 'c. 16th century',
+    timeline: [
+      { language: 'Middle English', form: 'bye', period: '16th century', meaning: 'farewell' },
+      { language: 'Modern English', form: 'bye', period: '17th century', meaning: 'informal farewell' }
+    ],
+    cognates: [
+      { language: 'German', word: 'tschüss', meaning: 'bye' },
+      { language: 'French', word: 'salut', meaning: 'bye/hi' },
+      { language: 'Spanish', word: 'adiós', meaning: 'goodbye' }
+    ],
+    notes: 'Shortened form of "goodbye", became popular as a casual farewell.'
+  },
+
+  word_thanks: {
+    languageOrigin: 'Old English',
+    yearOfOrigin: 'Before 12th century',
+    timeline: [
+      { language: 'Proto-Germanic', form: 'thankō', period: 'Pre-5th century', meaning: 'thought, gratitude' },
+      { language: 'Old English', form: 'þanc', period: 'Before 12th century', meaning: 'thanks, gratitude' },
+      { language: 'Middle English', form: 'thankes, thanks', period: '12th-15th century', meaning: 'thanks' },
+      { language: 'Modern English', form: 'thanks', period: '15th century', meaning: 'informal thanks' }
+    ],
+    cognates: [
+      { language: 'German', word: 'danke', meaning: 'thanks' },
+      { language: 'Dutch', word: 'dank', meaning: 'thanks' },
+      { language: 'Swedish', word: 'tack', meaning: 'thanks' }
+    ],
+    notes: 'Informal form of "thank you", from the same root meaning "to think" or "to give thanks".'
+  },
+
+  word_please: {
+    languageOrigin: 'Latin',
+    yearOfOrigin: 'c. 14th century',
+    timeline: [
+      { language: 'Latin', form: 'placere', period: 'Roman era', meaning: 'to please, to be agreeable' },
+      { language: 'Middle English', form: 'plesen, please', period: '14th-15th century', meaning: 'to please' },
+      { language: 'Modern English', form: 'please', period: '15th century', meaning: 'polite request' }
+    ],
+    cognates: [
+      { language: 'French', word: 's\'il vous plaît', meaning: 'please' },
+      { language: 'Spanish', word: 'por favor', meaning: 'please' },
+      { language: 'Italian', word: 'per favore', meaning: 'please' }
+    ],
+    notes: 'From Latin "placere" meaning "to please", originally used as "if it pleases you".'
+  },
+
+  word_sorry: {
+    languageOrigin: 'Middle English',
+    yearOfOrigin: 'c. 15th century',
+    timeline: [
+      { language: 'Old English', form: 'sarig', period: 'Before 12th century', meaning: 'painful, sorry' },
+      { language: 'Middle English', form: 'sory, sorry', period: '15th century', meaning: 'sorrowful, apologetic' },
+      { language: 'Modern English', form: 'sorry', period: '16th century', meaning: 'apology' }
+    ],
+    cognates: [
+      { language: 'German', word: 'entschuldigung', meaning: 'sorry, excuse' },
+      { language: 'French', word: 'désolé', meaning: 'sorry' },
+      { language: 'Spanish', word: 'lo siento', meaning: 'sorry' }
+    ],
+    notes: 'From Old English "sarig" meaning "painful" or "sore", later specialized to express apology.'
+  },
+
+  word_excuse_me: {
+    languageOrigin: 'Latin',
+    yearOfOrigin: 'c. 14th century',
+    timeline: [
+      { language: 'Latin', form: 'excusare', period: 'Roman era', meaning: 'to excuse, to release' },
+      { language: 'Middle English', form: 'excusen', period: '14th-15th century', meaning: 'to excuse' },
+      { language: 'Modern English', form: 'excuse me', period: '17th century', meaning: 'polite interruption' }
+    ],
+    cognates: [
+      { language: 'French', word: 'excusez-moi', meaning: 'excuse me' },
+      { language: 'Spanish', word: 'disculpe', meaning: 'excuse me' },
+      { language: 'Italian', word: 'scusi', meaning: 'excuse me' }
+    ],
+    notes: 'From Latin "excusare" meaning "to release" or "to pardon", used to politely ask for attention or forgiveness.'
+  },
+
+  word_pardon: {
+    languageOrigin: 'Latin',
+    yearOfOrigin: 'c. 14th century',
+    timeline: [
+      { language: 'Latin', form: 'perdonare', period: 'Medieval Latin', meaning: 'to pardon, to forgive' },
+      { language: 'Middle English', form: 'pardon', period: '14th-15th century', meaning: 'pardon, forgiveness' },
+      { language: 'Modern English', form: 'pardon', period: '15th century', meaning: 'forgiveness/request to repeat' }
+    ],
+    cognates: [
+      { language: 'French', word: 'pardon', meaning: 'pardon' },
+      { language: 'Spanish', word: 'perdón', meaning: 'pardon' },
+      { language: 'Italian', word: 'perdono', meaning: 'pardon' }
+    ],
+    notes: 'From Latin "per" (through) + "donare" (to give), literally meaning "to give completely".'
+  },
+
+  word_good_afternoon: {
+    languageOrigin: 'Middle English',
+    yearOfOrigin: 'c. 14th century',
+    timeline: [
+      { language: 'Middle English', form: 'good after none', period: '14th-15th century', meaning: 'good afternoon' },
+      { language: 'Modern English', form: 'good afternoon', period: '16th century', meaning: 'afternoon greeting' }
+    ],
+    cognates: [
+      { language: 'German', word: 'Guten Tag', meaning: 'good day' },
+      { language: 'French', word: 'bon après-midi', meaning: 'good afternoon' },
+      { language: 'Spanish', word: 'buenas tardes', meaning: 'good afternoon' }
+    ],
+    notes: 'Compound of "good" and "afternoon", used as a standard afternoon greeting.'
+  },
+
+  word_good_night: {
+    languageOrigin: 'Middle English',
+    yearOfOrigin: 'c. 14th century',
+    timeline: [
+      { language: 'Old English', form: 'gōd niht', period: 'Before 12th century', meaning: 'good night' },
+      { language: 'Middle English', form: 'good night', period: '14th-15th century', meaning: 'good night' },
+      { language: 'Modern English', form: 'good night', period: '15th century', meaning: 'night farewell' }
+    ],
+    cognates: [
+      { language: 'German', word: 'Gute Nacht', meaning: 'good night' },
+      { language: 'French', word: 'bonne nuit', meaning: 'good night' },
+      { language: 'Spanish', word: 'buenas noches', meaning: 'good night' }
+    ],
+    notes: 'Compound of "good" and "night", used as a farewell at night or before sleep.'
+  },
+
+  word_welcome: {
+    languageOrigin: 'Middle English',
+    yearOfOrigin: 'c. 12th century',
+    timeline: [
+      { language: 'Old English', form: 'wilcuma', period: 'Before 12th century', meaning: 'welcome guest' },
+      { language: 'Middle English', form: 'welcome, wilcome', period: '12th-15th century', meaning: 'welcome' },
+      { language: 'Modern English', form: 'welcome', period: '15th century', meaning: 'greeting' }
+    ],
+    cognates: [
+      { language: 'German', word: 'willkommen', meaning: 'welcome' },
+      { language: 'Dutch', word: 'welkom', meaning: 'welcome' },
+      { language: 'Swedish', word: 'välkommen', meaning: 'welcome' }
+    ],
+    notes: 'From Old English "wilcuma" meaning "desired guest", from "will" (desire) + "cuma" (guest).'
+  },
+
+  word_congratulations: {
+    languageOrigin: 'Latin',
+    yearOfOrigin: 'c. 16th century',
+    timeline: [
+      { language: 'Latin', form: 'congratulationem', period: 'Roman era', meaning: 'congratulation, joy' },
+      { language: 'Middle English', form: 'congratulacioun', period: '15th-16th century', meaning: 'congratulation' },
+      { language: 'Modern English', form: 'congratulations', period: '16th century', meaning: 'expression of praise' }
+    ],
+    cognates: [
+      { language: 'French', word: 'félicitations', meaning: 'congratulations' },
+      { language: 'Spanish', word: 'felicitaciones', meaning: 'congratulations' },
+      { language: 'Italian', word: 'congratulazioni', meaning: 'congratulations' }
+    ],
+    notes: 'From Latin "congratulari" meaning "to rejoice together", from "con" (together) + "gratulari" (to give thanks).'
+  },
+
+  word_how_are_you: {
+    languageOrigin: 'Middle English',
+    yearOfOrigin: 'c. 16th century',
+    timeline: [
+      { language: 'Middle English', form: 'how are ye', period: '16th century', meaning: 'how are you' },
+      { language: 'Modern English', form: 'how are you', period: '17th century', meaning: 'greeting/inquiry' }
+    ],
+    cognates: [
+      { language: 'German', word: 'wie geht es Ihnen', meaning: 'how are you' },
+      { language: 'French', word: 'comment allez-vous', meaning: 'how are you' },
+      { language: 'Spanish', word: 'cómo estás', meaning: 'how are you' }
+    ],
+    notes: 'Standard greeting inquiring about someone\'s well-being, evolved from earlier forms like "how do you do".'
+  },
+
+  word_nice_to_meet_you: {
+    languageOrigin: 'Middle English',
+    yearOfOrigin: 'c. 19th century',
+    timeline: [
+      { language: 'Middle English', form: 'nice to mete', period: '14th-15th century', meaning: 'pleasant to meet' },
+      { language: 'Modern English', form: 'nice to meet you', period: '19th century', meaning: 'introduction greeting' }
+    ],
+    cognates: [
+      { language: 'German', word: 'freut mich, Sie kennenzulernen', meaning: 'nice to meet you' },
+      { language: 'French', word: 'enchanté', meaning: 'nice to meet you' },
+      { language: 'Spanish', word: 'encantado de conocerte', meaning: 'nice to meet you' }
+    ],
+    notes: 'Modern polite introduction phrase, combining "nice" (pleasant) with "to meet you".'
+  },
+
+  word_see_you_later: {
+    languageOrigin: 'Middle English',
+    yearOfOrigin: 'c. 20th century',
+    timeline: [
+      { language: 'Modern English', form: 'see you later', period: '20th century', meaning: 'casual farewell' }
+    ],
+    cognates: [
+      { language: 'German', word: 'bis später', meaning: 'see you later' },
+      { language: 'French', word: 'à plus tard', meaning: 'see you later' },
+      { language: 'Spanish', word: 'hasta luego', meaning: 'see you later' }
+    ],
+    notes: 'Modern casual farewell phrase, literally meaning "I will see you at a later time".'
+  },
+
+  word_take_care: {
+    languageOrigin: 'Middle English',
+    yearOfOrigin: 'c. 14th century',
+    timeline: [
+      { language: 'Middle English', form: 'taken care', period: '14th-15th century', meaning: 'to take care' },
+      { language: 'Modern English', form: 'take care', period: '16th century', meaning: 'farewell' }
+    ],
+    cognates: [
+      { language: 'German', word: 'pass auf dich auf', meaning: 'take care' },
+      { language: 'French', word: 'prends soin de toi', meaning: 'take care' },
+      { language: 'Spanish', word: 'cuídate', meaning: 'take care' }
+    ],
+    notes: 'Originally meant "to exercise caution", now commonly used as a farewell meaning "take care of yourself".'
+  },
+
+  word_cheers: {
+    languageOrigin: 'Middle English',
+    yearOfOrigin: 'c. 18th century',
+    timeline: [
+      { language: 'Middle English', form: 'cheres', period: '14th-15th century', meaning: 'face, expression' },
+      { language: 'Modern English', form: 'cheers', period: '18th century', meaning: 'thanks/goodbye/toast' }
+    ],
+    cognates: [
+      { language: 'German', word: 'Prost', meaning: 'cheers/toast' },
+      { language: 'French', word: 'santé', meaning: 'cheers/toast' },
+      { language: 'Spanish', word: 'salud', meaning: 'cheers/toast' }
+    ],
+    notes: 'From "cheer" meaning "face" or "expression", evolved to mean "good cheer" and now used as a toast, thanks, or farewell.'
+  }
+};

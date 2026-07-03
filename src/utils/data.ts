@@ -1,6 +1,7 @@
 import { VocabWord, WordRoot, VocabCategory } from '@/types';
 import { rootsEn, rootsFr } from '@/data/roots';
 import { vocabularyEn, vocabularyFr } from '@/data/vocabulary';
+import { etymologyData } from '@/data/etymology';
 
 export function getRootsData(learningLanguage: 'english' | 'french' | 'spanish' | 'latin' | 'greek'): WordRoot[] {
   switch (learningLanguage) {
@@ -16,16 +17,28 @@ export function getRootsData(learningLanguage: 'english' | 'french' | 'spanish' 
 }
 
 export function getVocabularyData(learningLanguage: 'english' | 'french' | 'spanish' | 'latin' | 'greek'): VocabWord[] {
+  let vocabulary: VocabWord[];
   switch (learningLanguage) {
     case 'french':
-      return vocabularyFr;
+      vocabulary = vocabularyFr;
+      break;
     case 'english':
     case 'spanish':
     case 'latin':
     case 'greek':
     default:
-      return vocabularyEn; // For now, use English data for other languages
+      vocabulary = vocabularyEn; // For now, use English data for other languages
   }
+
+  // Merge etymology data for English vocabulary
+  if (learningLanguage === 'english') {
+    return vocabulary.map(word => ({
+      ...word,
+      etymology: etymologyData[word.id]
+    }));
+  }
+
+  return vocabulary;
 }
 
 export function groupWordsByCategory(words: VocabWord[]): Record<string, VocabWord[]> {

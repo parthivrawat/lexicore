@@ -10,6 +10,7 @@ import VocabularyPage from './pages/VocabularyPage'
 import SettingsPage from './pages/SettingsPage'
 import RootDetailPage from './pages/RootDetailPage'
 import VocabularyDetailPage from './pages/VocabularyDetailPage'
+import SearchPage from './pages/SearchPage'
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <Layout>
             <Routes>
               <Route path="/" element={<HomePage />} />
+              <Route path="/search" element={<SearchPage />} />
               <Route path="/roots" element={<RootsPage />} />
               <Route path="/roots/:id" element={<RootDetailPage />} />
               <Route path="/vocabulary" element={<VocabularyPage />} />

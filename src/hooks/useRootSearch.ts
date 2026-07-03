@@ -4,6 +4,7 @@ import { useState, useMemo, useCallback } from 'react';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { getRootsData } from '@/utils/data';
 import { useSettings } from '@/contexts/SettingsContext';
+import { searchWithRelevance, calculateRootRelevance } from '@/utils/search';
 
 export function useRootSearch() {
   const [query, setQuery] = useState('');
@@ -14,18 +15,17 @@ export function useRootSearch() {
     if (query.trim().length < settings.minSearchQueryLength) return [];
     
     const rootsData = getRootsData(learningLanguage);
-    const searchTerm = query.toLowerCase().trim();
+    const searchTerm = query.trim();
     
-    return rootsData.filter(root => 
-      root.root.toLowerCase().includes(searchTerm) ||
-      root.meaning.toLowerCase().includes(searchTerm) ||
-      root.languageOrigin.toLowerCase().includes(searchTerm) ||
-      root.examples.some((example) => 
-        example.word.toLowerCase().includes(searchTerm) ||
-        example.meaning.toLowerCase().includes(searchTerm) ||
-        example.sentence.toLowerCase().includes(searchTerm)
-      )
+    // Use relevance-based search with ranking
+    const searchResults = searchWithRelevance(
+      rootsData,
+      searchTerm,
+      calculateRootRelevance
     );
+    
+    // Return just the items, sorted by relevance
+    return searchResults.map(result => result.item);
   }, [query, learningLanguage, settings.minSearchQueryLength]);
 
   const handleQueryChange = useCallback((newQuery: string) => {

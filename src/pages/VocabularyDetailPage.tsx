@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from 'react'
 import { Link, useParams, useNavigate } from 'react-router-dom'
 import { AppShell } from '@/components/shared/AppShell'
+import { LearningTips } from '@/components/features'
 import { formatCategory, formatPronunciation } from '@/utils/format'
-import { ROUTES } from '@/constants'
+import { ROUTES, VOCABULARY_DETAIL_LEARNING_TIPS } from '@/constants'
 import { getVocabularyData } from '@/utils/data'
 import { useLanguage } from '@/contexts/LanguageContext'
 import { VocabWord } from '@/types'
@@ -186,13 +187,8 @@ const VocabularyDetailPage: React.FC = () => {
           </section>
         )}
 
-        <div className="rounded-xl border border-gray-200 dark:border-gray-600 bg-blue-50 dark:bg-gray-800 p-6">
-          <h3 className="text-lg font-semibold text-blue-900 dark:text-blue-200">Learning Tip</h3>
-          <p className="mt-2 text-blue-700 dark:text-blue-300">
-            Try using this word in different contexts to better understand its meaning and usage. 
-            Practice with the examples above and create your own sentences.
-          </p>
-        </div>
+        {/* Rotating Learning Tips */}
+        <LearningTips tips={VOCABULARY_DETAIL_LEARNING_TIPS} theme="blue" />
       </div>
     </AppShell>
   )

@@ -19,8 +19,8 @@ const LanguageContext = createContext<LanguageContextType | undefined>(undefined
 
 const translations = {
   en: {
-    'app.title': 'Word Roots & Core Vocabulary',
-    'app.description': 'Multilingual platform for word roots and core vocabulary',
+    'app.title': 'LexiCore',
+    'app.description': 'A multilingual platform for word roots and core vocabulary learning',
     'vocabulary.title': 'Core Vocabulary',
     'vocabulary.description': 'Master {{count}} essential words organized by categories with IPA pronunciation.',
     'roots.title': 'Root Explorer',
@@ -55,8 +55,8 @@ const translations = {
     'theme.system': 'System',
   },
   fr: {
-    'app.title': 'Racines de Mots & Vocabulaire Essentiel',
-    'app.description': 'Plateforme multilingue pour les racines de mots et le vocabulaire essentiel',
+    'app.title': 'LexiCore',
+    'app.description': 'Une plateforme multilingue pour les racines de mots et le vocabulaire essentiel',
     'vocabulary.title': 'Vocabulaire Essentiel',
     'vocabulary.description': 'Maîtrisez {{count}} mots essentiels organisés par catégories avec prononciation API.',
     'roots.title': 'Explorateur de Racines',
@@ -100,6 +100,20 @@ const learningLanguageNames = {
   greek: { en: 'Greek', fr: 'Grec' },
 };
 
+function createTranslationFunction(uiLanguage: UILanguage) {
+  return (key: string, fallback?: string): string => {
+    const value = translations[uiLanguage]?.[key as keyof typeof translations[typeof uiLanguage]];
+    if (!value && fallback) return fallback;
+    return value || key;
+  };
+}
+
+function createLearningLanguageNameGetter(learningLanguage: LearningLanguage, uiLanguage: UILanguage) {
+  return (): string => {
+    return learningLanguageNames[learningLanguage]?.[uiLanguage] || learningLanguage;
+  };
+}
+
 function LanguageProviderContent({ children }: { children: ReactNode }) {
   const { settings, updateSetting } = useSettings();
   
@@ -111,15 +125,8 @@ function LanguageProviderContent({ children }: { children: ReactNode }) {
     updateSetting('learningLanguage', lang);
   };
 
-  const t = (key: string, fallback?: string): string => {
-    const value = translations[settings.uiLanguage]?.[key as keyof typeof translations[typeof settings.uiLanguage]];
-    if (!value && fallback) return fallback;
-    return value || key;
-  };
-
-  const getLearningLanguageName = (): string => {
-    return learningLanguageNames[settings.learningLanguage]?.[settings.uiLanguage] || settings.learningLanguage;
-  };
+  const t = createTranslationFunction(settings.uiLanguage);
+  const getLearningLanguageName = createLearningLanguageNameGetter(settings.learningLanguage, settings.uiLanguage);
 
   return (
     <LanguageContext.Provider value={{ 
@@ -136,35 +143,19 @@ function LanguageProviderContent({ children }: { children: ReactNode }) {
 }
 
 export function LanguageProvider({ children }: { children: ReactNode }) {
-  // During SSR, we can't access localStorage or settings, so use fallback values
   if (typeof window === 'undefined') {
     const fallbackUILanguage: UILanguage = 'en';
     const fallbackLearningLanguage: LearningLanguage = 'english';
     
-    const setUILanguage = () => {
-      // No-op during SSR
-    };
-
-    const setLearningLanguage = () => {
-      // No-op during SSR
-    };
-
-    const t = (key: string, fallback?: string): string => {
-      const value = translations[fallbackUILanguage]?.[key as keyof typeof translations[typeof fallbackUILanguage]];
-      if (!value && fallback) return fallback;
-      return value || key;
-    };
-
-    const getLearningLanguageName = (): string => {
-      return learningLanguageNames[fallbackLearningLanguage]?.[fallbackUILanguage] || fallbackLearningLanguage;
-    };
+    const t = createTranslationFunction(fallbackUILanguage);
+    const getLearningLanguageName = createLearningLanguageNameGetter(fallbackLearningLanguage, fallbackUILanguage);
 
     return (
       <LanguageContext.Provider value={{ 
         uiLanguage: fallbackUILanguage, 
-        setUILanguage, 
+        setUILanguage: () => {}, 
         learningLanguage: fallbackLearningLanguage, 
-        setLearningLanguage, 
+        setLearningLanguage: () => {}, 
         t,
         getLearningLanguageName
       }}>
@@ -173,7 +164,6 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
     );
   }
 
-  // Client-side: use settings
   return <LanguageProviderContent>{children}</LanguageProviderContent>;
 }
 

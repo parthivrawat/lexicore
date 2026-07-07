@@ -1,4 +1,4 @@
-import React, { Suspense } from 'react'
+import React, { Suspense, useState, useEffect } from 'react'
 import { useSearchParams } from 'react-router-dom'
 import { AppShell } from '@/components/shared/AppShell'
 import { Pagination } from '@/components/shared/Pagination'
@@ -16,6 +16,8 @@ import { VocabWord, VocabCategory } from '@/types'
 function VocabularyPageContent() {
   const { learningLanguage, uiLanguage, t } = useLanguage()
   const [searchParams, setSearchParams] = useSearchParams()
+  const [allVocabularyData, setAllVocabularyData] = useState<VocabWord[]>([])
+  const [isLoading, setIsLoading] = useState(true)
   
   const {
     query,
@@ -23,6 +25,7 @@ function VocabularyPageContent() {
     resultCount,
     handleQueryChange,
     hasQuery,
+    isLoading: searchLoading,
   } = useVocabularySearch()
   
   const categoryParam = searchParams.get('category') as VocabCategory | null
@@ -37,14 +40,40 @@ function VocabularyPageContent() {
     setSearchParams(searchParams)
   }
   
-  const allVocabularyData = hasQuery ? searchResults : getVocabularyData(learningLanguage)
+  useEffect(() => {
+    let mounted = true
+    setIsLoading(true)
+    
+    getVocabularyData(learningLanguage).then(data => {
+      if (mounted) {
+        setAllVocabularyData(data)
+        setIsLoading(false)
+      }
+    })
+
+    return () => {
+      mounted = false
+    }
+  }, [learningLanguage])
+  
+  const currentData = hasQuery ? searchResults : allVocabularyData
   const filteredVocabularyData = selectedCategory === 'all' 
-    ? allVocabularyData 
-    : allVocabularyData.filter(word => word.category === selectedCategory)
+    ? currentData 
+    : currentData.filter((word: VocabWord) => word.category === selectedCategory)
   
   const { startIndex, endIndex, setPage } = usePagination(filteredVocabularyData.length)
   const paginatedWords = filteredVocabularyData.slice(startIndex, endIndex + 1)
   const groupedWords = groupWordsByCategory(paginatedWords)
+  
+  if (isLoading || searchLoading) {
+    return (
+      <AppShell>
+        <div className="flex items-center justify-center min-h-64">
+          <div>Loading...</div>
+        </div>
+      </AppShell>
+    )
+  }
 
   return (
     <AppShell>

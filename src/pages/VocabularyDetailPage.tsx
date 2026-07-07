@@ -16,11 +16,11 @@ const VocabularyDetailPage: React.FC = () => {
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
-    const loadWord = () => {
+    const loadWord = async () => {
       if (!id) return
       
-      const vocabularyData = getVocabularyData(learningLanguage)
-      const foundWord = vocabularyData.find((w) => w.id === id)
+      const vocabularyData = await getVocabularyData(learningLanguage)
+      const foundWord = vocabularyData.find((w: VocabWord) => w.id === id)
       
       if (!foundWord) {
         navigate('/404')

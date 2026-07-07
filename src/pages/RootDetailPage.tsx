@@ -16,11 +16,11 @@ const RootDetailPage: React.FC = () => {
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
-    const loadRoot = () => {
+    const loadRoot = async () => {
       if (!id) return
       
-      const rootsData = getRootsData(learningLanguage)
-      const foundRoot = rootsData.find((r) => r.id === id)
+      const rootsData = await getRootsData(learningLanguage)
+      const foundRoot = rootsData.find((r: WordRoot) => r.id === id)
       
       if (!foundRoot) {
         navigate('/404')

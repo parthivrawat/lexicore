@@ -1,4 +1,4 @@
-import React, { Suspense } from 'react'
+import React, { Suspense, useState, useEffect } from 'react'
 import { useSearchParams } from 'react-router-dom'
 import { AppShell } from '@/components/shared/AppShell'
 import { Pagination } from '@/components/shared/Pagination'
@@ -9,11 +9,13 @@ import { useLanguage } from '@/contexts/LanguageContext'
 import { interpolate } from '@/utils/interpolate'
 import { useRootSearch } from '@/hooks/useRootSearch'
 import { usePagination } from '@/hooks/usePagination'
-import { RootType } from '@/types'
+import { RootType, WordRoot } from '@/types'
 
 function RootsPageContent() {
   const { learningLanguage, t } = useLanguage()
   const [searchParams, setSearchParams] = useSearchParams()
+  const [allRootsData, setAllRootsData] = useState<WordRoot[]>([])
+  const [isLoading, setIsLoading] = useState(true)
   
   const {
     query,
@@ -21,6 +23,7 @@ function RootsPageContent() {
     resultCount,
     handleQueryChange,
     hasQuery,
+    isLoading: searchLoading,
   } = useRootSearch()
   
   const typeParam = searchParams.get('type') as RootType | null
@@ -35,13 +38,39 @@ function RootsPageContent() {
     setSearchParams(searchParams)
   }
   
-  const allRootsData = hasQuery ? searchResults : getRootsData(learningLanguage)
+  useEffect(() => {
+    let mounted = true
+    setIsLoading(true)
+    
+    getRootsData(learningLanguage).then(data => {
+      if (mounted) {
+        setAllRootsData(data)
+        setIsLoading(false)
+      }
+    })
+
+    return () => {
+      mounted = false
+    }
+  }, [learningLanguage])
+  
+  const currentData = hasQuery ? searchResults : allRootsData
   const filteredRootsData = selectedType === 'all' 
-    ? allRootsData 
-    : allRootsData.filter(root => root.type === selectedType)
+    ? currentData 
+    : currentData.filter((root: WordRoot) => root.type === selectedType)
   
   const { startIndex, endIndex, setPage } = usePagination(filteredRootsData.length)
   const paginatedRoots = filteredRootsData.slice(startIndex, endIndex + 1)
+  
+  if (isLoading || searchLoading) {
+    return (
+      <AppShell>
+        <div className="flex items-center justify-center min-h-64">
+          <div>Loading...</div>
+        </div>
+      </AppShell>
+    )
+  }
 
   return (
     <AppShell>
@@ -95,7 +124,7 @@ function RootsPageContent() {
         </div>
 
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {paginatedRoots.map((root, index) => (
+          {paginatedRoots.map((root: WordRoot, index: number) => (
             <div key={root.id} className="animate-slide-up" style={{ animationDelay: `${index * 0.1}s` }}>
               <RootCard root={root} />
             </div>

@@ -49,10 +49,10 @@ export const LearningTips: React.FC<LearningTipsProps> = ({
   const classes = themeClasses[theme]
 
   return (
-    <div className={`rounded-3xl border p-8 shadow-soft ${classes.container} ${className}`}>
-      <div className="flex items-center gap-2 mb-6">
-        <span className={`inline-flex items-center rounded-full px-3 py-1 text-sm font-semibold ${classes.badge}`}>
-          <svg className="mr-1 h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+    <div className={`rounded-3xl border p-4 sm:p-6 md:p-8 shadow-soft ${classes.container} ${className}`}>
+      <div className="flex items-center gap-2 mb-4 sm:mb-6">
+        <span className={`inline-flex items-center rounded-full px-2 py-0.5 sm:px-3 sm:py-1 text-xs sm:text-sm font-semibold ${classes.badge}`}>
+          <svg className="mr-1 h-3 w-3 sm:h-4 sm:w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
           </svg>
           Learning Tip
@@ -62,14 +62,14 @@ export const LearningTips: React.FC<LearningTipsProps> = ({
             <button
               key={idx}
               onClick={() => setCurrentTipIndex(idx)}
-              className={`h-2 w-2 rounded-full transition-all ${idx === currentTipIndex ? `${classes.dot} w-6` : classes.dotInactive}`}
+              className={`h-1.5 w-1.5 sm:h-2 sm:w-2 rounded-full transition-all ${idx === currentTipIndex ? `${classes.dot} w-4 sm:w-6` : classes.dotInactive}`}
               aria-label={`Go to tip ${idx + 1}`}
             />
           ))}
         </div>
       </div>
       
-      <div className="relative min-h-[100px]">
+      <div className="relative min-h-[80px] sm:min-h-[100px]">
         {tips.map((tip, idx) => (
           <div
             key={idx}
@@ -79,11 +79,11 @@ export const LearningTips: React.FC<LearningTipsProps> = ({
                 : 'opacity-0 translate-x-4'
             }`}
           >
-            <div className="flex items-start gap-4">
-              <div className="flex-shrink-0 text-4xl">{tip.icon}</div>
-              <div className="flex-1">
-                <h3 className={`text-xl font-bold mb-2 ${classes.title}`}>{tip.title}</h3>
-                <p className={`leading-relaxed ${classes.content}`}>{tip.content}</p>
+            <div className="flex items-start gap-3 sm:gap-4">
+              <div className="flex-shrink-0 text-2xl sm:text-3xl md:text-4xl">{tip.icon}</div>
+              <div className="flex-1 min-w-0">
+                <h3 className={`text-base sm:text-lg md:text-xl font-bold mb-1 sm:mb-2 ${classes.title}`}>{tip.title}</h3>
+                <p className={`text-sm sm:text-base leading-relaxed break-words overflow-wrap-anywhere ${classes.content}`}>{tip.content}</p>
               </div>
             </div>
           </div>

@@ -20,7 +20,7 @@ export function AppShell({ children }: PropsWithChildren) {
       <header className="sticky top-0 z-50 glass-morphism border-b border-gray-200 dark:border-gray-700 shadow-soft">
         <div className="mx-auto flex max-w-7xl items-center justify-between gap-2 px-3 py-3 sm:gap-4 sm:px-4 sm:py-4 md:px-6 lg:px-8">
           <div className="min-w-0 flex-1">
-            <div className="flex items-center gap-2 sm:gap-3">
+            <Link to={ROUTES.home} className="flex items-center gap-2 sm:gap-3 hover:opacity-80 transition-opacity">
               <div className="flex h-8 w-8 items-center justify-center rounded-xl gradient-primary shadow-soft sm:h-10 sm:w-10">
                 <span className="text-base font-bold text-white sm:text-lg">📖</span>
               </div>
@@ -32,7 +32,7 @@ export function AppShell({ children }: PropsWithChildren) {
                   {t('app.description')}
                 </div>
               </div>
-            </div>
+            </Link>
           </div>
 
           {/* Desktop Navigation */}

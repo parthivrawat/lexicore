@@ -3,7 +3,6 @@ import { useSearchParams } from 'react-router-dom'
 import { AppShell } from '@/components/shared/AppShell'
 import { RootCard } from '@/components/features/RootCard'
 import { VocabCard } from '@/components/features/VocabCard'
-import { getRootsData, getVocabularyData } from '@/utils/data'
 import { useLanguage } from '@/contexts/LanguageContext'
 import { useRootSearch } from '@/hooks/useRootSearch'
 import { useVocabularySearch } from '@/hooks/useVocabularySearch'
@@ -12,7 +11,7 @@ import { VocabWord } from '@/types'
 function SearchPageContent() {
   const [searchParams] = useSearchParams()
   const queryParam = searchParams.get('q') || ''
-  const { t } = useLanguage()
+  const [hasInteracted, setHasInteracted] = React.useState(false)
   
   const {
     query: rootQuery,
@@ -28,13 +27,13 @@ function SearchPageContent() {
     handleQueryChange: handleVocabQueryChange,
   } = useVocabularySearch()
 
-  // Initialize with URL query parameter
+  // Initialize with URL query parameter only on first load
   React.useEffect(() => {
-    if (queryParam && !rootQuery && !vocabQuery) {
+    if (queryParam && !hasInteracted && !rootQuery && !vocabQuery) {
       handleRootQueryChange(queryParam)
       handleVocabQueryChange(queryParam)
     }
-  }, [queryParam, rootQuery, vocabQuery, handleRootQueryChange, handleVocabQueryChange])
+  }, [queryParam, hasInteracted, rootQuery, vocabQuery, handleRootQueryChange, handleVocabQueryChange])
 
   const displayQuery = rootQuery || vocabQuery || queryParam
   const totalResults = rootCount + vocabCount
@@ -79,6 +78,7 @@ function SearchPageContent() {
               type="text"
               value={displayQuery}
               onChange={(e) => {
+                setHasInteracted(true)
                 handleRootQueryChange(e.target.value)
                 handleVocabQueryChange(e.target.value)
               }}

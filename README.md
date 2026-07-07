@@ -1,4 +1,4 @@
-# Multilingual Word Roots & Core Vocabulary Platform
+# LexiCore - Word Roots & Core Vocabulary Platform
 
 ## 🎯 English-Only MVP (Frontend Only)
 
@@ -45,7 +45,7 @@ This project follows modern React + Vite best practices with a clear separation 
 ```bash
 # Clone repository
 git clone <repository-url>
-cd multilingual-word-roots_and_core-vocabulary-platform
+cd lexicore
 
 # Install dependencies
 npm install

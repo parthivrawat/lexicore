@@ -45,7 +45,7 @@ This guide covers setting up the development environment, coding standards, and 
 
 ```bash
 git clone <repository-url>
-cd multilingual-word-roots_and_core-vocabulary-platform
+cd lexicore
 ```
 
 ### 2. Install Dependencies
@@ -61,7 +61,7 @@ Create a `.env.local` file (optional for MVP):
 ```bash
 # .env.local
 NEXT_PUBLIC_APP_URL=http://localhost:3000
-NEXT_PUBLIC_APP_NAME="Word Roots & Vocabulary"
+NEXT_PUBLIC_APP_NAME="LexiCore"
 ```
 
 ### 4. Start Development Server

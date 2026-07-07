@@ -314,8 +314,8 @@ import { APP_CONFIG, PAGINATION, SEARCH, CATEGORIES, ROOT_TYPES, ROUTES } from '
 
 ```typescript
 const APP_CONFIG = {
-  name: 'Word Roots & Core Vocabulary',
-  description: 'English-only MVP for word roots and core vocabulary',
+  name: 'LexiCore',
+  description: 'A multilingual platform for word roots and core vocabulary learning',
   version: '1.0.0',
 } as const;
 ```

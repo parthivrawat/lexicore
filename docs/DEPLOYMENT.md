@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-This guide covers deploying the Vite + React version of the Word Roots & Core Vocabulary Platform to various hosting platforms.
+This guide covers deploying the Vite + React version of LexiCore to various hosting platforms.
 
 ## 📋 Table of Contents
 
@@ -438,4 +438,4 @@ npx web-vitals https://your-domain.com
 
 ---
 
-This deployment guide provides comprehensive instructions for deploying the Vite + React version of the Word Roots & Core Vocabulary Platform to various hosting platforms with optimization and troubleshooting guidance.
+This deployment guide provides comprehensive instructions for deploying the Vite + React version of LexiCore to various hosting platforms with optimization and troubleshooting guidance.

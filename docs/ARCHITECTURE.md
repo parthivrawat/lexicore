@@ -2,7 +2,7 @@
 
 ## 🏗️ System Architecture
 
-This document outlines the complete architecture of the Multilingual Word Roots & Core Vocabulary Platform.
+This document outlines the complete architecture of LexiCore - Word Roots & Core Vocabulary Platform.
 
 ## 📋 Table of Contents
 

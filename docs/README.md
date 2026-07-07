@@ -1,6 +1,6 @@
 # Documentation
 
-Welcome to the documentation for the Multilingual Word Roots & Core Vocabulary Platform.
+Welcome to the documentation for LexiCore - Word Roots & Core Vocabulary Platform.
 
 ## 📚 Documentation Structure
 

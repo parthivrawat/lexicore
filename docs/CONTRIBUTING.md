@@ -1,8 +1,8 @@
 # Contributing Guidelines
 
-## 🤝 Contributing to Word Roots & Vocabulary Platform
+## 🤝 Contributing to LexiCore
 
-We welcome contributions to the multilingual word roots and vocabulary platform! This guide will help you get started.
+We welcome contributions to LexiCore! This guide will help you get started.
 
 ## 📋 Table of Contents
 
@@ -28,8 +28,8 @@ We welcome contributions to the multilingual word roots and vocabulary platform!
 1. **Fork the repository**
    ```bash
    # Fork on GitHub, then clone your fork
-   git clone https://github.com/your-username/multilingual-word-roots_and_core-vocabulary-platform.git
-   cd multilingual-word-roots_and_core-vocabulary-platform
+   git clone https://github.com/parthivrawat/lexicore.git
+   cd lexicore
    ```
 
 2. **Set up development environment**
@@ -555,4 +555,4 @@ For experienced contributors:
 - [TypeScript Best Practices](https://typescript-eslint.io/rules/)
 - [Accessibility Best Practices](https://www.w3.org/WAI/WCAG21/quickref/)
 
-Thank you for contributing to the multilingual word roots and vocabulary platform! Your contributions help make this project better for everyone. 🎉
+Thank you for contributing to LexiCore! Your contributions help make this project better for everyone. 🎉

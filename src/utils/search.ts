@@ -2,6 +2,8 @@
  * Relevance-based search utility with scoring and ranking
  */
 
+import { WordRoot, VocabWord, RootExample, EtymologyStage, CognateWord } from '@/types'
+
 export type MatchType = 'exact' | 'prefix' | 'substring' | 'word-boundary';
 
 export interface SearchResult<T> {
@@ -51,7 +53,7 @@ function escapeRegex(str: string): string {
 /**
  * Calculate relevance score for a root based on search term
  */
-export function calculateRootRelevance(root: any, searchTerm: string): number {
+export function calculateRootRelevance(root: WordRoot, searchTerm: string): number {
   if (!searchTerm.trim()) return 0;
 
   let totalScore = 0;
@@ -63,8 +65,6 @@ export function calculateRootRelevance(root: any, searchTerm: string): number {
     exampleMeaning: 1.0, // Low weight for example meanings
     exampleSentence: 0.8 // Lowest weight for example sentences
   };
-
-  const termLower = searchTerm.toLowerCase();
 
   // Check root field
   const rootMatch = getMatchScore(searchTerm, root.root);
@@ -80,7 +80,7 @@ export function calculateRootRelevance(root: any, searchTerm: string): number {
 
   // Check examples
   if (root.examples && Array.isArray(root.examples)) {
-    root.examples.forEach((example: any) => {
+    root.examples.forEach((example: RootExample) => {
       const wordMatch = getMatchScore(searchTerm, example.word);
       totalScore += wordMatch.score * weights.exampleWord;
 
@@ -98,7 +98,7 @@ export function calculateRootRelevance(root: any, searchTerm: string): number {
 /**
  * Calculate relevance score for a vocabulary word based on search term
  */
-export function calculateVocabularyRelevance(word: any, searchTerm: string): number {
+export function calculateVocabularyRelevance(word: VocabWord, searchTerm: string): number {
   if (!searchTerm.trim()) return 0;
 
   let totalScore = 0;
@@ -115,8 +115,6 @@ export function calculateVocabularyRelevance(word: any, searchTerm: string): num
     cognateWord: 1.0,     // Low weight for cognate words
     cognateMeaning: 0.8   // Very low weight for cognate meanings
   };
-
-  const termLower = searchTerm.toLowerCase();
 
   // Check word field
   const wordMatch = getMatchScore(searchTerm, word.word);
@@ -160,7 +158,7 @@ export function calculateVocabularyRelevance(word: any, searchTerm: string): num
 
     // Timeline
     if (etymology.timeline && Array.isArray(etymology.timeline)) {
-      etymology.timeline.forEach((stage: any) => {
+      etymology.timeline.forEach((stage: EtymologyStage) => {
         const languageMatch = getMatchScore(searchTerm, stage.language);
         totalScore += languageMatch.score * weights.timelineLanguage;
 
@@ -181,7 +179,7 @@ export function calculateVocabularyRelevance(word: any, searchTerm: string): num
 
     // Cognates
     if (etymology.cognates && Array.isArray(etymology.cognates)) {
-      etymology.cognates.forEach((cognate: any) => {
+      etymology.cognates.forEach((cognate: CognateWord) => {
         const languageMatch = getMatchScore(searchTerm, cognate.language);
         totalScore += languageMatch.score * weights.timelineLanguage;
 

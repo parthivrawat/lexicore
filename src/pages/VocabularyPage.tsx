@@ -1,7 +1,9 @@
 import React, { Suspense } from 'react'
+import { useSearchParams } from 'react-router-dom'
 import { AppShell } from '@/components/shared/AppShell'
 import { Pagination } from '@/components/shared/Pagination'
 import { VocabCard } from '@/components/features/VocabCard'
+import { CategoryFilter } from '@/components/features/CategoryFilter'
 import { formatCategory } from '@/utils/format'
 import { groupWordsByCategory, getVocabularyData } from '@/utils/data'
 import { useLanguage } from '@/contexts/LanguageContext'
@@ -9,10 +11,11 @@ import { interpolate } from '@/utils/interpolate'
 import { useVocabularySearch } from '@/hooks/useVocabularySearch'
 import { usePagination } from '@/hooks/usePagination'
 import { CATEGORY_ORDER } from '@/constants'
-import { VocabWord } from '@/types'
+import { VocabWord, VocabCategory } from '@/types'
 
 function VocabularyPageContent() {
   const { learningLanguage, uiLanguage, t } = useLanguage()
+  const [searchParams, setSearchParams] = useSearchParams()
   
   const {
     query,
@@ -22,9 +25,25 @@ function VocabularyPageContent() {
     hasQuery,
   } = useVocabularySearch()
   
-  const vocabularyData = hasQuery ? searchResults : getVocabularyData(learningLanguage)
-  const { startIndex, endIndex, setPage } = usePagination(vocabularyData.length)
-  const paginatedWords = vocabularyData.slice(startIndex, endIndex + 1)
+  const categoryParam = searchParams.get('category') as VocabCategory | null
+  const selectedCategory: VocabCategory | 'all' = categoryParam || 'all'
+  
+  const handleCategoryChange = (category: VocabCategory | 'all') => {
+    if (category === 'all') {
+      searchParams.delete('category')
+    } else {
+      searchParams.set('category', category)
+    }
+    setSearchParams(searchParams)
+  }
+  
+  const allVocabularyData = hasQuery ? searchResults : getVocabularyData(learningLanguage)
+  const filteredVocabularyData = selectedCategory === 'all' 
+    ? allVocabularyData 
+    : allVocabularyData.filter(word => word.category === selectedCategory)
+  
+  const { startIndex, endIndex, setPage } = usePagination(filteredVocabularyData.length)
+  const paginatedWords = filteredVocabularyData.slice(startIndex, endIndex + 1)
   const groupedWords = groupWordsByCategory(paginatedWords)
 
   return (
@@ -38,7 +57,7 @@ function VocabularyPageContent() {
             </span>
             {hasQuery 
               ? `${resultCount} result${resultCount !== 1 ? 's' : ''} found`
-              : `${interpolate(t('words.count'), { count: getVocabularyData(learningLanguage).length })} words mastered`
+              : `${interpolate(t('words.count'), { count: allVocabularyData.length })} words mastered`
             }
           </div>
           <h1 className="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-5xl">
@@ -50,7 +69,7 @@ function VocabularyPageContent() {
           <p className="mx-auto max-w-2xl text-lg font-medium text-gray-600 dark:text-gray-300">
             {hasQuery 
               ? `Showing search results for "${query}"`
-              : interpolate(t('vocabulary.description'), { count: getVocabularyData(learningLanguage).length })
+              : interpolate(t('vocabulary.description'), { count: allVocabularyData.length })
             }
           </p>
         </div>
@@ -69,6 +88,13 @@ function VocabularyPageContent() {
               className="block w-full rounded-lg border border-gray-300 dark:border-gray-600 px-4 py-3 text-sm text-gray-900 dark:text-white placeholder-gray-500 dark:placeholder-gray-400 outline-none focus:border-success-500 focus:ring-2 focus:ring-success-500 focus:ring-offset-2 transition-colors bg-white dark:bg-gray-800"
             />
           </div>
+        </div>
+
+        <div className="flex justify-center">
+          <CategoryFilter 
+            selectedCategory={selectedCategory}
+            onCategoryChange={handleCategoryChange}
+          />
         </div>
 
         <div className="space-y-12">
@@ -105,7 +131,7 @@ function VocabularyPageContent() {
         </div>
 
         <Pagination
-          totalItems={vocabularyData.length}
+          totalItems={filteredVocabularyData.length}
           onPageChange={setPage}
           className="pt-6"
         />

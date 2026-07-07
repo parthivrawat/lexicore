@@ -1,6 +1,6 @@
 export const APP_CONFIG = {
-  name: 'Word Roots & Core Vocabulary',
-  description: 'Multilingual platform for word roots and core vocabulary',
+  name: 'LexiCore',
+  description: 'A multilingual platform for word roots and core vocabulary learning',
   version: '1.0.0',
   supportedLanguages: ['en', 'fr'],
 } as const;
@@ -9,7 +9,7 @@ export const PAGINATION = {
   itemsPerPage: 20,
 } as const;
 
-export const CATEGORY_ORDER = ['greetings', 'numbers', 'verbs', 'daily-use-nouns'] as const;
+export const CATEGORY_ORDER = ['greetings', 'numbers', 'verbs', 'daily-use-nouns', 'adjectives', 'adverbs', 'prepositions'] as const;
 
 export const CATEGORIES = {
   greetings: {
@@ -27,6 +27,18 @@ export const CATEGORIES = {
   'daily-use-nouns': {
     en: 'Daily Use Nouns',
     fr: 'Noms d\'usage quotidien',
+  },
+  adjectives: {
+    en: 'Adjectives',
+    fr: 'Adjectifs',
+  },
+  adverbs: {
+    en: 'Adverbs',
+    fr: 'Adverbes',
+  },
+  prepositions: {
+    en: 'Prepositions',
+    fr: 'Prépositions',
   },
 } as const;
 

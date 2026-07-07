@@ -106,6 +106,40 @@ interface UseSearchReturn {
 }
 ```
 
+### useRootSearch
+
+Search hook specifically for word roots.
+
+```typescript
+import { useRootSearch } from '@/hooks/useRootSearch';
+
+interface UseRootSearchReturn {
+  query: string;
+  results: WordRoot[];
+  resultCount: number;
+  handleQueryChange: (query: string) => void;
+  clearSearch: () => void;
+  hasQuery: boolean;
+}
+```
+
+### useVocabularySearch
+
+Search hook specifically for vocabulary words.
+
+```typescript
+import { useVocabularySearch } from '@/hooks/useVocabularySearch';
+
+interface UseVocabularySearchReturn {
+  query: string;
+  results: VocabWord[];
+  resultCount: number;
+  handleQueryChange: (query: string) => void;
+  clearSearch: () => void;
+  hasQuery: boolean;
+}
+```
+
 #### Usage
 
 ```typescript
@@ -276,7 +310,7 @@ function paginateItems<T>(items: T[], page: number, itemsPerPage: number): T[];
 Searches across roots and vocabulary.
 
 ```typescript
-import { searchAll } from '@/lib/search';
+import { searchAll } from '@/utils/search';
 
 function searchAll(query: string): SearchItem[];
 ```
@@ -295,6 +329,26 @@ Generates unique ID for search results.
 import { getSearchResultId } from '@/utils/format';
 
 function getSearchResultId(item: SearchItem): string;
+```
+
+#### interpolate
+
+Interpolates values into templates.
+
+```typescript
+import { interpolate } from '@/utils/interpolate';
+
+function interpolate(template: string, values: Record<string, string>): string;
+```
+
+#### getWordOfTheDay
+
+Gets a random word for the word of the day feature.
+
+```typescript
+import { getWordOfTheDay } from '@/utils/wordOfTheDay';
+
+function getWordOfTheDay(): VocabWord;
 ```
 
 **Example:**
@@ -366,6 +420,7 @@ const ROUTES = {
   roots: '/roots',
   vocabulary: '/vocabulary',
   search: '/search',
+  settings: '/settings',
 } as const;
 ```
 

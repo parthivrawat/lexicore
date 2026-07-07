@@ -60,8 +60,8 @@ Create a `.env.local` file (optional for MVP):
 
 ```bash
 # .env.local
-NEXT_PUBLIC_APP_URL=http://localhost:3000
-NEXT_PUBLIC_APP_NAME="LexiCore"
+VITE_APP_URL=http://localhost:3000
+VITE_APP_NAME="LexiCore"
 ```
 
 ### 4. Start Development Server
@@ -127,13 +127,10 @@ npm run build
 # Development
 npm run dev          # Start development server
 npm run build        # Build for production
-npm run start        # Start production server
-npm run export       # Export static files
+npm run preview      # Preview production build
 
 # Code Quality
 npm run lint         # Run ESLint
-npm run lint:fix     # Fix ESLint issues automatically
-npm run type-check   # Run TypeScript type checking
 
 # Testing (future)
 npm run test         # Run tests
@@ -209,7 +206,7 @@ export function PaginatedList({
 
 ```typescript
 // ✅ Good: Proper component structure
-import { useState, useEffect } from 'react';
+import { useState, FormEvent } from 'react';
 import { Button } from '@/components/ui/Button';
 
 interface SearchInputProps {
@@ -220,7 +217,7 @@ interface SearchInputProps {
 export function SearchInput({ onSearch, placeholder = 'Search...' }: SearchInputProps) {
   const [query, setQuery] = useState('');
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = (e: FormEvent) => {
     e.preventDefault();
     onSearch(query);
   };
@@ -499,16 +496,11 @@ describe('format utilities', () => {
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Next.js: debug server-side",
-      "type": "node-terminal",
-      "request": "launch",
-      "command": "npm run dev"
-    },
-    {
-      "name": "Next.js: debug client-side",
+      "name": "Vite: debug client-side",
       "type": "chrome",
       "request": "launch",
-      "url": "http://localhost:3000"
+      "url": "http://localhost:3000",
+      "webRoot": "${workspaceFolder}"
     }
   ]
 }
@@ -567,14 +559,14 @@ export function PerformanceMonitor({ children }: { children: React.ReactNode }) 
 
 ```typescript
 // ✅ Good: Lazy load heavy components
-const HeavyComponent = dynamic(() => import('./HeavyComponent'), {
-  loading: () => <div>Loading...</div>,
-});
+import { lazy, Suspense } from 'react';
 
-// ✅ Good: Route-based code splitting
-const AdminPanel = dynamic(() => import('./AdminPanel'), {
-  ssr: false, // Client-side only
-});
+const HeavyComponent = lazy(() => import('./HeavyComponent'));
+
+// Usage
+<Suspense fallback={<div>Loading...</div>}>
+  <HeavyComponent />
+</Suspense>
 ```
 
 ### Memoization

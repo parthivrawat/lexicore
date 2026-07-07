@@ -518,7 +518,7 @@ export function isVocabWord(obj: any): obj is VocabWord {
 ### Runtime Validation
 
 ```typescript
-// src/data/validation.ts
+// src/utils/validation.ts
 
 export function validateRoots(roots: any[]): WordRoot[] {
   return roots.filter(isWordRoot);

@@ -22,7 +22,12 @@ For comprehensive documentation, visit our **[docs/](./docs/README.md)** directo
 This project follows modern React + Vite best practices with a clear separation of concerns:
 
 - **`src/`**: All React components, data, and utilities
-- **`pages/`**: Route-based page components
+- **`src/pages/`**: Route-based page components
+- **`src/components/`**: Reusable UI and feature components
+- **`src/contexts/`**: React context providers (Language, Settings, Theme)
+- **`src/hooks/`**: Custom React hooks
+- **`src/utils/`**: Utility functions and helpers
+- **`src/data/`**: Static data files (roots, vocabulary, etymology)
 - **`index.html`**: Vite entry point
 
 ### Key Features
@@ -32,7 +37,9 @@ This project follows modern React + Vite best practices with a clear separation 
 - **Pagination**: Efficient handling of large datasets (20 items per page)
 - **Advanced Search**: Filter by roots/words with real-time results, including etymology search
 - **Frontend-Only**: All data served from static TypeScript files
-- **Static Export Ready**: `output: 'export'` configured for deployment
+- **Multi-language Context**: Language context for future internationalization
+- **Theme Support**: Theme context for light/dark mode
+- **Settings Management**: User preferences and settings
 
 ## 🚀 Quick Start
 
@@ -69,20 +76,44 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 │   ├── components/             # React components
 │   │   ├── ui/                 # UI components
 │   │   ├── shared/             # Layout components
-│   │   └── features/           # Feature components
+│   │   ├── features/           # Feature components
+│   │   └── Layout.tsx          # Main layout component
 │   ├── pages/                  # Route-based page components
+│   │   ├── HomePage.tsx
+│   │   ├── RootsPage.tsx
+│   │   ├── RootDetailPage.tsx
+│   │   ├── VocabularyPage.tsx
+│   │   ├── VocabularyDetailPage.tsx
+│   │   ├── SearchPage.tsx
+│   │   └── SettingsPage.tsx
 │   ├── data/                   # Static data
-│   │   ├── roots/english.ts    # English roots dataset
-│   │   └── vocabulary/english.ts # English vocabulary dataset
+│   │   ├── roots/              # Word roots datasets
+│   │   ├── vocabulary/         # Vocabulary datasets
+│   │   └── etymology/          # Etymology data
 │   ├── hooks/                  # Custom React hooks
+│   │   ├── usePagination.ts
+│   │   ├── useSearch.ts
+│   │   ├── useRootSearch.ts
+│   │   └── useVocabularySearch.ts
 │   ├── utils/                  # Utility functions
+│   │   ├── format.ts
+│   │   ├── data.ts
+│   │   ├── search.ts
+│   │   ├── interpolate.ts
+│   │   └── wordOfTheDay.ts
 │   ├── contexts/               # React contexts
+│   │   ├── LanguageContext.tsx
+│   │   ├── SettingsContext.tsx
+│   │   └── ThemeContext.tsx
 │   ├── constants/              # App configuration
-│   └── types/                  # TypeScript definitions
+│   ├── types/                  # TypeScript definitions
+│   ├── App.tsx                 # Main app component
+│   └── main.tsx                # Application entry point
 ├── docs/                       # Comprehensive documentation
 ├── public/                     # Static assets
 ├── index.html                  # Vite entry point
-└── vite.config.ts             # Vite configuration
+├── vite.config.ts              # Vite configuration
+└── package.json                # Dependencies and scripts
 ```
 
 ## 🧭 Navigation
@@ -137,6 +168,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 - **Build Tool**: Vite
 - **Data**: Frontend-only static TypeScript files
 - **Architecture**: Component-based with custom hooks
+- **State Management**: React Context API (Language, Settings, Theme)
 
 ## 🔧 Development
 
@@ -172,10 +204,10 @@ import { RootCard, VocabCard } from '@/components/features';
 
 ### Search Functionality
 
-Search is implemented in `src/lib/search.ts` with type-safe filtering:
+Search is implemented in `src/utils/search.ts` with type-safe filtering:
 
 ```typescript
-import { searchAll } from '@/lib/search';
+import { searchAll } from '@/utils/search';
 import { useSearch } from '@/hooks/useSearch';
 ```
 

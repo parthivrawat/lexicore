@@ -37,6 +37,32 @@ interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
 }
 ```
 
+### PronunciationPlayer
+
+A component for playing audio pronunciations of words.
+
+```typescript
+import { PronunciationPlayer } from '@/components/ui/PronunciationPlayer';
+
+interface PronunciationPlayerProps {
+  word: string;
+  pronunciation?: string;
+  language?: string;
+}
+```
+
+### ThemeToggle
+
+A toggle component for switching between light and dark themes.
+
+```typescript
+import { ThemeToggle } from '@/components/ui/ThemeToggle';
+
+interface ThemeToggleProps {
+  className?: string;
+}
+```
+
 #### Usage Examples
 
 ```typescript
@@ -80,6 +106,20 @@ import { AppShell } from '@/components/shared/AppShell';
 
 interface AppShellProps {
   children: React.ReactNode;
+}
+```
+
+### DualLanguageSelector
+
+A component for selecting between two languages.
+
+```typescript
+import { DualLanguageSelector } from '@/components/shared/DualLanguageSelector';
+
+interface DualLanguageSelectorProps {
+  primaryLanguage: string;
+  secondaryLanguage: string;
+  onLanguageChange: (language: string) => void;
 }
 ```
 
@@ -161,6 +201,19 @@ function MyListPage() {
 - **Responsive**: Works on all screen sizes
 
 ## 🎯 Feature Components
+
+### BaseCard
+
+A base card component used as a foundation for other card components.
+
+```typescript
+import { BaseCard } from '@/components/features/BaseCard';
+
+interface BaseCardProps {
+  children: React.ReactNode;
+  className?: string;
+}
+```
 
 ### RootCard
 
@@ -286,16 +339,56 @@ function SearchResults() {
 - **Consistent Styling**: Matches other card components
 - **Accessibility**: Proper link semantics
 
-### SearchFilters
+### CategoryFilter
 
-Filter buttons for search functionality.
+Filter component for vocabulary categories.
 
 ```typescript
-import { SearchFilters } from '@/components/features/SearchFilters';
+import { CategoryFilter } from '@/components/features/CategoryFilter';
 
-interface SearchFiltersProps {
-  activeFilter: SearchFilter;
-  onFilterChange: (filter: SearchFilter) => void;
+interface CategoryFilterProps {
+  activeCategory: string;
+  onCategoryChange: (category: string) => void;
+  categories: string[];
+}
+```
+
+### RootTypeFilter
+
+Filter component for root types (prefix, suffix, base).
+
+```typescript
+import { RootTypeFilter } from '@/components/features/RootTypeFilter';
+
+interface RootTypeFilterProps {
+  activeType: RootType;
+  onTypeChange: (type: RootType) => void;
+}
+```
+
+### LearningTips
+
+Component for displaying learning tips and educational content.
+
+```typescript
+import { LearningTips } from '@/components/features/LearningTips';
+
+interface LearningTipsProps {
+  tips: string[];
+}
+```
+
+### SettingsTabs
+
+Tab component for settings page navigation.
+
+```typescript
+import { SettingsTabs } from '@/components/features/SettingsTabs';
+
+interface SettingsTabsProps {
+  activeTab: string;
+  onTabChange: (tab: string) => void;
+  tabs: string[];
 }
 ```
 

@@ -30,14 +30,20 @@ Welcome to the documentation for LexiCore - Word Roots & Core Vocabulary Platfor
    - Root Explorer (200+ English word roots)
    - Core Vocabulary (200+ essential words)
    - Smart Search with filters
+   - Etymology support with historical data
+   - Multi-language context for future i18n
+   - Theme support (light/dark mode)
+   - Settings management
    - Responsive design
 
 ## 🏗️ Architecture Highlights
 
 ### Modern Structure
-- **App Router**: Next.js 15 with server/client components
+- **Vite + React**: Fast development with Vite 6 and React 19
+- **React Router**: Client-side routing with React Router v6
 - **Component Organization**: ui/shared/features separation
 - **Custom Hooks**: Reusable stateful logic
+- **Context API**: Language, Settings, and Theme contexts
 - **Type Safety**: Comprehensive TypeScript coverage
 
 ### Key Directories
@@ -47,8 +53,9 @@ src/
 ├── types/        # TypeScript definitions
 ├── hooks/        # Custom React hooks
 ├── utils/        # Utility functions
-├── lib/          # Core library functions
+├── contexts/     # React context providers
 ├── data/         # Static datasets
+├── pages/        # Route-based page components
 └── components/   # React components
 ```
 

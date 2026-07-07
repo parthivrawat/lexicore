@@ -328,8 +328,18 @@ export default defineConfig({
 # Install bundle analyzer
 npm install --save-dev rollup-plugin-visualizer
 
+# Add to vite.config.ts
+import { visualizer } from 'rollup-plugin-visualizer';
+
+export default defineConfig({
+  plugins: [
+    react(),
+    visualizer({ open: true })
+  ],
+});
+
 # Analyze bundle
-npm run build -- --analyze
+npm run build
 ```
 
 ## 🔍 Troubleshooting

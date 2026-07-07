@@ -17,7 +17,7 @@ This document outlines the complete architecture of LexiCore - Word Roots & Core
 
 ## 🎯 Overview
 
-The platform is built as a **frontend-only MVP** using Next.js 15 with the App Router, designed to be easily scalable to a full-stack application.
+The platform is built as a **frontend-only MVP** using Vite 6 and React 19 with React Router v6, designed to be easily scalable to a full-stack application.
 
 ### Core Principles
 - **Frontend-First**: Static data, no backend dependencies
@@ -30,24 +30,45 @@ The platform is built as a **frontend-only MVP** using Next.js 15 with the App R
 ## 📁 Directory Structure
 
 ```
-├── app/                          # Next.js App Router
-│   ├── globals.css              # Global styles
-│   ├── layout.tsx               # Root layout
-│   ├── page.tsx                 # Home page
-│   ├── roots/                   # Root explorer pages
-│   ├── vocabulary/              # Vocabulary pages
-│   └── search/                  # Search functionality
-└── src/                         # Reusable application code
-    ├── constants/               # App configuration
-    ├── types/                   # TypeScript definitions
-    ├── hooks/                   # Custom React hooks
-    ├── utils/                   # Utility functions
-    ├── lib/                     # Core library functions
-    ├── data/                    # Static datasets
-    └── components/              # React components
-        ├── ui/                 # Basic UI components
-        ├── shared/             # Layout components
-        └── features/           # Feature-specific components
+├── src/                         # All source code
+│   ├── components/              # React components
+│   │   ├── ui/                 # Basic UI components
+│   │   ├── shared/             # Layout components
+│   │   ├── features/           # Feature-specific components
+│   │   └── Layout.tsx          # Main layout
+│   ├── pages/                   # Route-based page components
+│   │   ├── HomePage.tsx
+│   │   ├── RootsPage.tsx
+│   │   ├── RootDetailPage.tsx
+│   │   ├── VocabularyPage.tsx
+│   │   ├── VocabularyDetailPage.tsx
+│   │   ├── SearchPage.tsx
+│   │   └── SettingsPage.tsx
+│   ├── contexts/                # React context providers
+│   │   ├── LanguageContext.tsx
+│   │   ├── SettingsContext.tsx
+│   │   └── ThemeContext.tsx
+│   ├── hooks/                   # Custom React hooks
+│   │   ├── usePagination.ts
+│   │   ├── useSearch.ts
+│   │   ├── useRootSearch.ts
+│   │   └── useVocabularySearch.ts
+│   ├── utils/                   # Utility functions
+│   │   ├── format.ts
+│   │   ├── data.ts
+│   │   ├── search.ts
+│   │   ├── interpolate.ts
+│   │   └── wordOfTheDay.ts
+│   ├── constants/               # App configuration
+│   ├── types/                   # TypeScript definitions
+│   ├── data/                    # Static datasets
+│   │   ├── roots/              # Word roots datasets
+│   │   ├── vocabulary/         # Vocabulary datasets
+│   │   └── etymology/          # Etymology data
+│   ├── App.tsx                  # Main app component
+│   └── main.tsx                 # Application entry point
+├── index.html                   # Vite entry point
+└── vite.config.ts               # Vite configuration
 ```
 
 ## 🧩 Component Architecture
@@ -116,10 +137,11 @@ export function useSearch() {
 
 ### State Categories
 
-1. **URL State**: Pagination, search parameters (managed by Next.js)
+1. **URL State**: Pagination, search parameters (managed by React Router)
 2. **Component State**: Form inputs, UI interactions
 3. **Hook State**: Shared business logic (pagination, search)
-4. **Static Data**: Word roots and vocabulary (immutable)
+4. **Context State**: Language, settings, theme (managed by React Context)
+5. **Static Data**: Word roots and vocabulary (immutable)
 
 ## 🌊 Data Flow
 
@@ -128,7 +150,7 @@ export function useSearch() {
 ```
 Static Data Files (src/data/)
     ↓ imports
-Pages (app/)
+Pages (src/pages/)
     ↓ props
 Components (src/components/)
     ↓ utilities
@@ -140,8 +162,9 @@ Hooks (src/hooks/)
 1. **Static Layer**: TypeScript files with datasets
 2. **Utility Layer**: Data transformation and formatting
 3. **Hook Layer**: State management and business logic
-4. **Component Layer**: UI rendering and interactions
-5. **Page Layer**: Route-specific logic and data fetching
+4. **Context Layer**: Global state (language, settings, theme)
+5. **Component Layer**: UI rendering and interactions
+6. **Page Layer**: Route-specific logic and data fetching
 
 ### Example Data Flow
 
@@ -193,14 +216,15 @@ export function Card<T extends { id: string }>({ item }: CardProps<T>) {
 
 ### Static Generation
 
-- **Next.js Export**: `output: 'export'` for static sites
-- **Static Params**: `generateStaticParams` for dynamic routes
-- **Client Components**: Only where necessary (search, pagination)
+- **Vite Build**: Optimized production build with code splitting
+- **Client-Side Routing**: React Router for SPA navigation
+- **Tree Shaking**: Automatic dead code elimination
+- **Code Splitting**: Dynamic imports for optimal loading
 
 ### Optimization Strategies
 
-1. **Code Splitting**: Automatic with Next.js
-2. **Image Optimization**: Next.js Image component
+1. **Code Splitting**: Automatic with Vite
+2. **Tree Shaking**: Unused code elimination
 3. **Bundle Analysis**: Regular bundle size monitoring
 4. **Memoization**: React.memo for expensive components
 5. **Virtualization**: For large lists (future enhancement)

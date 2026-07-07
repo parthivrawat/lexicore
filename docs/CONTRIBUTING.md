@@ -20,8 +20,8 @@ We welcome contributions to LexiCore! This guide will help you get started.
 
 - Node.js 18+ and npm 8+
 - Git and GitHub account
-- Basic knowledge of React, TypeScript, and Next.js
-- Familiarity with Tailwind CSS
+- Basic knowledge of React, TypeScript, and Vite
+- Familiarity with React Router and Tailwind CSS
 
 ### Quick Start
 
@@ -61,7 +61,7 @@ We welcome contributions to LexiCore! This guide will help you get started.
 cp .env.example .env.local
 
 # Add your configuration
-NEXT_PUBLIC_APP_URL=http://localhost:3000
+VITE_APP_URL=http://localhost:3000
 ```
 
 ### IDE Configuration
@@ -328,7 +328,6 @@ describe('ComponentName', () => {
    ```bash
    npm run test
    npm run lint
-   npm run type-check
    npm run build
    ```
 

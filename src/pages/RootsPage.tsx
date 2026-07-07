@@ -1,15 +1,19 @@
 import React, { Suspense } from 'react'
+import { useSearchParams } from 'react-router-dom'
 import { AppShell } from '@/components/shared/AppShell'
 import { Pagination } from '@/components/shared/Pagination'
 import { RootCard } from '@/components/features/RootCard'
+import { RootTypeFilter } from '@/components/features/RootTypeFilter'
 import { getRootsData } from '@/utils/data'
 import { useLanguage } from '@/contexts/LanguageContext'
 import { interpolate } from '@/utils/interpolate'
 import { useRootSearch } from '@/hooks/useRootSearch'
 import { usePagination } from '@/hooks/usePagination'
+import { RootType } from '@/types'
 
 function RootsPageContent() {
   const { learningLanguage, t } = useLanguage()
+  const [searchParams, setSearchParams] = useSearchParams()
   
   const {
     query,
@@ -19,9 +23,25 @@ function RootsPageContent() {
     hasQuery,
   } = useRootSearch()
   
-  const rootsData = hasQuery ? searchResults : getRootsData(learningLanguage)
-  const { startIndex, endIndex, setPage } = usePagination(rootsData.length)
-  const paginatedRoots = rootsData.slice(startIndex, endIndex + 1)
+  const typeParam = searchParams.get('type') as RootType | null
+  const selectedType: RootType | 'all' = typeParam || 'all'
+  
+  const handleTypeChange = (type: RootType | 'all') => {
+    if (type === 'all') {
+      searchParams.delete('type')
+    } else {
+      searchParams.set('type', type)
+    }
+    setSearchParams(searchParams)
+  }
+  
+  const allRootsData = hasQuery ? searchResults : getRootsData(learningLanguage)
+  const filteredRootsData = selectedType === 'all' 
+    ? allRootsData 
+    : allRootsData.filter(root => root.type === selectedType)
+  
+  const { startIndex, endIndex, setPage } = usePagination(filteredRootsData.length)
+  const paginatedRoots = filteredRootsData.slice(startIndex, endIndex + 1)
 
   return (
     <AppShell>
@@ -34,7 +54,7 @@ function RootsPageContent() {
             </span>
             {hasQuery 
               ? `${resultCount} result${resultCount !== 1 ? 's' : ''} found`
-              : `${interpolate(t('words.count'), { count: getRootsData(learningLanguage).length })} roots available`
+              : `${interpolate(t('words.count'), { count: allRootsData.length })} roots available`
             }
           </div>
           <h1 className="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-5xl">
@@ -46,7 +66,7 @@ function RootsPageContent() {
           <p className="mx-auto max-w-2xl text-lg font-medium text-gray-600 dark:text-gray-300">
             {hasQuery 
               ? `Showing search results for "${query}"`
-              : interpolate(t('roots.description'), { count: getRootsData(learningLanguage).length })
+              : interpolate(t('roots.description'), { count: allRootsData.length })
             }
           </p>
         </div>
@@ -67,6 +87,13 @@ function RootsPageContent() {
           </div>
         </div>
 
+        <div className="flex justify-center">
+          <RootTypeFilter 
+            selectedType={selectedType}
+            onTypeChange={handleTypeChange}
+          />
+        </div>
+
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {paginatedRoots.map((root, index) => (
             <div key={root.id} className="animate-slide-up" style={{ animationDelay: `${index * 0.1}s` }}>
@@ -76,7 +103,7 @@ function RootsPageContent() {
         </div>
 
         <Pagination
-          totalItems={rootsData.length}
+          totalItems={filteredRootsData.length}
           onPageChange={setPage}
           className="pt-6"
         />

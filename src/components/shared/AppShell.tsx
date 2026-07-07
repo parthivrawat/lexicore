@@ -116,7 +116,7 @@ export function AppShell({ children }: PropsWithChildren) {
               </div>
             </div>
             <div className="flex flex-wrap items-center justify-center gap-2 text-[10px] text-gray-400 dark:text-gray-500 sm:flex-nowrap sm:gap-4 sm:text-xs">
-              <span>© 2024 Word Roots Platform</span>
+              <span>© 2026 LexiCore</span>
               <span className="hidden sm:inline">•</span>
               <span>Open Source</span>
             </div>

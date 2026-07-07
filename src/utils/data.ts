@@ -1,37 +1,17 @@
 import { VocabWord, WordRoot, VocabCategory } from '@/types';
-import { rootsEn, rootsFr } from '@/data/roots';
-import { vocabularyEn, vocabularyFr } from '@/data/vocabulary';
-import { etymologyData } from '@/data/etymology';
+import { loadRootsData, loadVocabularyData, loadEtymologyData } from './dataLoader';
 
-export function getRootsData(learningLanguage: 'english' | 'french' | 'spanish' | 'latin' | 'greek'): WordRoot[] {
-  switch (learningLanguage) {
-    case 'french':
-      return rootsFr;
-    case 'english':
-    case 'spanish':
-    case 'latin':
-    case 'greek':
-    default:
-      return rootsEn; // For now, use English data for other languages
-  }
+export async function getRootsData(learningLanguage: 'english' | 'french' | 'spanish' | 'latin' | 'greek'): Promise<WordRoot[]> {
+  const language = learningLanguage === 'french' ? 'french' : 'english';
+  return await loadRootsData(language);
 }
 
-export function getVocabularyData(learningLanguage: 'english' | 'french' | 'spanish' | 'latin' | 'greek'): VocabWord[] {
-  let vocabulary: VocabWord[];
-  switch (learningLanguage) {
-    case 'french':
-      vocabulary = vocabularyFr;
-      break;
-    case 'english':
-    case 'spanish':
-    case 'latin':
-    case 'greek':
-    default:
-      vocabulary = vocabularyEn; // For now, use English data for other languages
-  }
+export async function getVocabularyData(learningLanguage: 'english' | 'french' | 'spanish' | 'latin' | 'greek'): Promise<VocabWord[]> {
+  const language = learningLanguage === 'french' ? 'french' : 'english';
+  const vocabulary = await loadVocabularyData(language);
 
-  // Merge etymology data for English vocabulary
   if (learningLanguage === 'english') {
+    const etymologyData = await loadEtymologyData();
     return vocabulary.map(word => ({
       ...word,
       etymology: etymologyData[word.id]

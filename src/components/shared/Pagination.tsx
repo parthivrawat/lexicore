@@ -4,13 +4,12 @@ import { usePagination } from '@/hooks/usePagination';
 
 interface PaginationProps {
   totalItems: number;
-  onPageChange: (page: number) => void;
   className?: string;
 }
 
-export function Pagination({ totalItems, onPageChange, className = '' }: PaginationProps) {
+export function Pagination({ totalItems, className = '' }: PaginationProps) {
   const { currentPage, totalPages, setPage } = usePagination(totalItems);
-  
+
   if (totalPages <= 1) return null;
 
   const handlePrevious = () => {
@@ -29,7 +28,7 @@ export function Pagination({ totalItems, onPageChange, className = '' }: Paginat
   const getPageNumbers = () => {
     const pages: number[] = [];
     const showPages = 5; // Fixed value for optimal UX
-    
+
     if (totalPages <= showPages) {
       for (let i = 1; i <= totalPages; i++) {
         pages.push(i);
@@ -37,17 +36,19 @@ export function Pagination({ totalItems, onPageChange, className = '' }: Paginat
     } else {
       const start = Math.max(1, currentPage - 2);
       const end = Math.min(totalPages, start + showPages - 1);
-      
+
       for (let i = start; i <= end; i++) {
         pages.push(i);
       }
     }
-    
+
     return pages;
   };
 
   return (
-    <div className={`flex flex-col items-center justify-center gap-3 sm:flex-row sm:gap-2 ${className}`}>
+    <div
+      className={`flex flex-col items-center justify-center gap-3 sm:flex-row sm:gap-2 ${className}`}
+    >
       <Button
         variant="outline"
         size="sm"
@@ -62,10 +63,10 @@ export function Pagination({ totalItems, onPageChange, className = '' }: Paginat
       </Button>
 
       <div className="flex items-center gap-1">
-        {getPageNumbers().map((page) => (
+        {getPageNumbers().map(page => (
           <button
             key={page}
-            onClick={() => onPageChange(page)}
+            onClick={() => setPage(page)}
             className={`${PAGINATION_CONFIG.pageButtonSize} min-w-[32px] rounded-lg text-xs font-medium transition-all duration-200 sm:min-w-[40px] sm:text-sm ${
               currentPage === page
                 ? 'gradient-primary text-white shadow-soft'

@@ -1,26 +1,27 @@
-import React, { useEffect, Suspense, lazy } from 'react'
-import { Routes, Route, useLocation } from 'react-router-dom'
-import { LanguageProvider } from './contexts/LanguageContext'
-import { ThemeProvider } from './contexts/ThemeContext'
-import { SettingsProvider } from './contexts/SettingsContext'
-import Layout from './components/Layout'
+import React, { useEffect, Suspense, lazy } from 'react';
+import { Routes, Route, useLocation } from 'react-router-dom';
+import { LanguageProvider } from './contexts/LanguageContext';
+import { ThemeProvider } from './contexts/ThemeContext';
+import { SettingsProvider } from './contexts/SettingsContext';
+import Layout from './components/Layout';
 
-const HomePage = lazy(() => import('./pages/HomePage'))
-const RootsPage = lazy(() => import('./pages/RootsPage'))
-const VocabularyPage = lazy(() => import('./pages/VocabularyPage'))
-const SettingsPage = lazy(() => import('./pages/SettingsPage'))
-const RootDetailPage = lazy(() => import('./pages/RootDetailPage'))
-const VocabularyDetailPage = lazy(() => import('./pages/VocabularyDetailPage'))
-const SearchPage = lazy(() => import('./pages/SearchPage'))
+const HomePage = lazy(() => import('./pages/HomePage'));
+const RootsPage = lazy(() => import('./pages/RootsPage'));
+const VocabularyPage = lazy(() => import('./pages/VocabularyPage'));
+const SettingsPage = lazy(() => import('./pages/SettingsPage'));
+const RootDetailPage = lazy(() => import('./pages/RootDetailPage'));
+const VocabularyDetailPage = lazy(() => import('./pages/VocabularyDetailPage'));
+const SearchPage = lazy(() => import('./pages/SearchPage'));
+const NotFoundPage = lazy(() => import('./pages/NotFoundPage'));
 
 function ScrollToTop() {
-  const { pathname } = useLocation()
+  const { pathname } = useLocation();
 
   useEffect(() => {
-    window.scrollTo(0, 0)
-  }, [pathname])
+    window.scrollTo(0, 0);
+  }, [pathname]);
 
-  return null
+  return null;
 }
 
 function App() {
@@ -30,11 +31,13 @@ function App() {
         <LanguageProvider>
           <Layout>
             <ScrollToTop />
-            <Suspense fallback={
-              <div className="flex items-center justify-center min-h-screen">
-                <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600"></div>
-              </div>
-            }>
+            <Suspense
+              fallback={
+                <div className="flex items-center justify-center min-h-screen">
+                  <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600"></div>
+                </div>
+              }
+            >
               <Routes>
                 <Route path="/" element={<HomePage />} />
                 <Route path="/search" element={<SearchPage />} />
@@ -43,13 +46,15 @@ function App() {
                 <Route path="/vocabulary" element={<VocabularyPage />} />
                 <Route path="/vocabulary/:id" element={<VocabularyDetailPage />} />
                 <Route path="/settings" element={<SettingsPage />} />
+                <Route path="/404" element={<NotFoundPage />} />
+                <Route path="*" element={<NotFoundPage />} />
               </Routes>
             </Suspense>
           </Layout>
         </LanguageProvider>
       </SettingsProvider>
     </ThemeProvider>
-  )
+  );
 }
 
-export default App
+export default App;

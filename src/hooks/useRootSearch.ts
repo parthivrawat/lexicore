@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { getRootsData } from '@/utils/data';
 import { useSearch } from './useSearch';
-import { calculateRootRelevance } from '@/utils/search';
+import { createSearchableRoot, calculateRootRelevance } from '@/utils/search';
 import { WordRoot } from '@/types';
 
 export function useRootSearch() {
@@ -15,7 +15,7 @@ export function useRootSearch() {
   useEffect(() => {
     let mounted = true;
     setIsLoading(true);
-    
+
     getRootsData(learningLanguage).then(data => {
       if (mounted) {
         setRootsData(data);
@@ -30,6 +30,7 @@ export function useRootSearch() {
 
   const searchResult = useSearch({
     data: rootsData,
+    normalize: createSearchableRoot,
     relevanceCalculator: calculateRootRelevance,
   });
 

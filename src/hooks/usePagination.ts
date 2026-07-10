@@ -1,21 +1,21 @@
-import { useSearchParams, useNavigate } from 'react-router-dom';
+import { useSearchParams } from 'react-router-dom';
 import { useMemo } from 'react';
 import { useSettings } from '@/contexts/SettingsContext';
 
 export function usePagination(totalItems: number) {
   const { settings } = useSettings();
   const itemsPerPage = settings.itemsPerPage;
-  const [searchParams] = useSearchParams();
-  const navigate = useNavigate();
+  const [searchParams, setSearchParams] = useSearchParams();
+
+  const totalPages = useMemo(() => {
+    return Math.max(1, Math.ceil(totalItems / itemsPerPage));
+  }, [totalItems, itemsPerPage]);
 
   const currentPage = useMemo(() => {
     const pageParam = searchParams.get('page');
-    return pageParam ? Math.max(1, parseInt(pageParam, 10)) : 1;
-  }, [searchParams]);
-
-  const totalPages = useMemo(() => {
-    return Math.ceil(totalItems / itemsPerPage);
-  }, [totalItems, itemsPerPage]);
+    const page = pageParam ? Math.max(1, parseInt(pageParam, 10)) : 1;
+    return Math.min(page, totalPages);
+  }, [searchParams, totalPages]);
 
   const startIndex = useMemo(() => {
     return (currentPage - 1) * itemsPerPage;
@@ -28,24 +28,23 @@ export function usePagination(totalItems: number) {
     } else {
       params.set('page', page.toString());
     }
-    
-    const newUrl = params.toString() 
-      ? `${window.location.pathname}?${params.toString()}`
-      : window.location.pathname;
-    
-    navigate(newUrl);
+
+    setSearchParams(params, { replace: true });
   };
 
-  const paginationInfo = useMemo(() => ({
-    currentPage,
-    totalPages,
-    totalItems,
-    itemsPerPage,
-    startIndex,
-    endIndex: Math.min(startIndex + itemsPerPage, totalItems),
-    hasNextPage: currentPage < totalPages,
-    hasPreviousPage: currentPage > 1,
-  }), [currentPage, totalPages, totalItems, itemsPerPage, startIndex]);
+  const paginationInfo = useMemo(
+    () => ({
+      currentPage,
+      totalPages,
+      totalItems,
+      itemsPerPage,
+      startIndex,
+      endIndex: Math.min(startIndex + itemsPerPage, totalItems),
+      hasNextPage: currentPage < totalPages,
+      hasPreviousPage: currentPage > 1,
+    }),
+    [currentPage, totalPages, totalItems, itemsPerPage, startIndex]
+  );
 
   return {
     ...paginationInfo,

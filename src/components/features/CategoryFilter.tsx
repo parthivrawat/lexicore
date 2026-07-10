@@ -22,7 +22,7 @@ export function CategoryFilter({ selectedCategory, onCategoryChange }: CategoryF
       >
         All Categories
       </button>
-      {CATEGORY_ORDER.map((category) => (
+      {CATEGORY_ORDER.map(category => (
         <button
           key={category}
           onClick={() => onCategoryChange(category)}

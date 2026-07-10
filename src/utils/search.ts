@@ -1,10 +1,10 @@
 /**
- * Relevance-based search utility with scoring and ranking
+ * Relevance-based search utility with scoring, normalization, and fuzzy matching
  */
 
-import { WordRoot, VocabWord, RootExample, EtymologyStage, CognateWord } from '@/types'
+import { WordRoot, VocabWord, Etymology } from '@/types';
 
-export type MatchType = 'exact' | 'prefix' | 'substring' | 'word-boundary';
+export type MatchType = 'exact' | 'prefix' | 'substring' | 'word-boundary' | 'fuzzy' | 'none';
 
 export interface SearchResult<T> {
   item: T;
@@ -12,35 +12,68 @@ export interface SearchResult<T> {
   matchFields: string[];
 }
 
+export interface RelevanceResult {
+  score: number;
+  matchFields: string[];
+}
+
+export interface Searchable<T> {
+  readonly original: T;
+}
+
+export interface SearchableRoot extends Searchable<WordRoot> {
+  root: string;
+  meaning: string;
+  languageOrigin: string;
+  examples: Array<{
+    word: string;
+    meaning: string;
+    sentence: string;
+  }>;
+}
+
+export interface SearchableVocabWord extends Searchable<VocabWord> {
+  word: string;
+  meaning: string;
+  category: string;
+  examples: string[];
+  etymology?: SearchableEtymology;
+}
+
+export interface SearchableEtymology {
+  languageOrigin: string;
+  yearOfOrigin?: string;
+  notes?: string;
+  timeline: SearchableEtymologyStage[];
+  cognates?: SearchableCognate[];
+}
+
+export interface SearchableEtymologyStage {
+  language: string;
+  form: string;
+  meaning?: string;
+  period?: string;
+}
+
+export interface SearchableCognate {
+  language: string;
+  word: string;
+  meaning: string;
+}
+
+interface MatchScore {
+  type: MatchType;
+  score: number;
+}
+
 /**
- * Calculate match type and base score for a search term
+ * Helper to accumulate a score and the corresponding field name when it matches.
  */
-function getMatchScore(term: string, value: string): { type: MatchType; score: number } {
-  const termLower = term.toLowerCase();
-  const valueLower = value.toLowerCase();
-
-  // Exact match
-  if (valueLower === termLower) {
-    return { type: 'exact', score: 100 };
+function addMatchScore(match: MatchScore, field: string, fields: Set<string>): number {
+  if (match.score > 0) {
+    fields.add(field);
   }
-
-  // Prefix match (term at start of value)
-  if (valueLower.startsWith(termLower)) {
-    return { type: 'prefix', score: 80 };
-  }
-
-  // Word boundary match (term as a whole word in value)
-  const wordBoundaryRegex = new RegExp(`\\b${escapeRegex(termLower)}\\b`, 'i');
-  if (wordBoundaryRegex.test(valueLower)) {
-    return { type: 'word-boundary', score: 60 };
-  }
-
-  // Substring match
-  if (valueLower.includes(termLower)) {
-    return { type: 'substring', score: 40 };
-  }
-
-  return { type: 'substring', score: 0 };
+  return match.score;
 }
 
 /**
@@ -51,171 +84,330 @@ function escapeRegex(str: string): string {
 }
 
 /**
- * Calculate relevance score for a root based on search term
+ * Calculate match type and base score for a pre-normalized, lowercased value.
+ * `termLower` and `wordBoundaryRegex` are computed once per query and reused.
  */
-export function calculateRootRelevance(root: WordRoot, searchTerm: string): number {
-  if (!searchTerm.trim()) return 0;
-
-  let totalScore = 0;
-  const weights = {
-    root: 3.0,           // Highest weight for the root itself
-    meaning: 2.0,        // High weight for meaning
-    languageOrigin: 1.5, // Medium weight for origin
-    exampleWord: 1.2,    // Medium-low weight for example words
-    exampleMeaning: 1.0, // Low weight for example meanings
-    exampleSentence: 0.8 // Lowest weight for example sentences
-  };
-
-  // Check root field
-  const rootMatch = getMatchScore(searchTerm, root.root);
-  totalScore += rootMatch.score * weights.root;
-
-  // Check meaning field
-  const meaningMatch = getMatchScore(searchTerm, root.meaning);
-  totalScore += meaningMatch.score * weights.meaning;
-
-  // Check language origin
-  const originMatch = getMatchScore(searchTerm, root.languageOrigin);
-  totalScore += originMatch.score * weights.languageOrigin;
-
-  // Check examples
-  if (root.examples && Array.isArray(root.examples)) {
-    root.examples.forEach((example: RootExample) => {
-      const wordMatch = getMatchScore(searchTerm, example.word);
-      totalScore += wordMatch.score * weights.exampleWord;
-
-      const meaningMatch = getMatchScore(searchTerm, example.meaning);
-      totalScore += meaningMatch.score * weights.exampleMeaning;
-
-      const sentenceMatch = getMatchScore(searchTerm, example.sentence);
-      totalScore += sentenceMatch.score * weights.exampleSentence;
-    });
+function getMatchScore(
+  termLower: string,
+  wordBoundaryRegex: RegExp,
+  valueLower: string
+): MatchScore {
+  if (valueLower === termLower) {
+    return { type: 'exact', score: 100 };
   }
 
-  return totalScore;
+  if (valueLower.startsWith(termLower)) {
+    return { type: 'prefix', score: 80 };
+  }
+
+  if (wordBoundaryRegex.test(valueLower)) {
+    return { type: 'word-boundary', score: 60 };
+  }
+
+  if (valueLower.includes(termLower)) {
+    return { type: 'substring', score: 40 };
+  }
+
+  // Fuzzy fallback for short, single-word-like values (handles typos)
+  if (
+    termLower.length > 1 &&
+    valueLower.length > 0 &&
+    valueLower.length <= termLower.length * 2 + 3
+  ) {
+    const similarity = similarityScore(termLower, valueLower);
+    if (similarity >= 0.7) {
+      return { type: 'fuzzy', score: Math.round(25 * similarity) };
+    }
+  }
+
+  return { type: 'none', score: 0 };
 }
 
 /**
- * Calculate relevance score for a vocabulary word based on search term
+ * Normalize a WordRoot for search: lowercase all searchable text once.
  */
-export function calculateVocabularyRelevance(word: VocabWord, searchTerm: string): number {
-  if (!searchTerm.trim()) return 0;
+export function createSearchableRoot(root: WordRoot): SearchableRoot {
+  return {
+    original: root,
+    root: root.root.toLowerCase(),
+    meaning: root.meaning.toLowerCase(),
+    languageOrigin: root.languageOrigin.toLowerCase(),
+    examples: root.examples.map(example => ({
+      word: example.word.toLowerCase(),
+      meaning: example.meaning.toLowerCase(),
+      sentence: example.sentence.toLowerCase(),
+    })),
+  };
+}
+
+function createSearchableEtymology(etymology: Etymology): SearchableEtymology {
+  return {
+    languageOrigin: etymology.languageOrigin.toLowerCase(),
+    yearOfOrigin: etymology.yearOfOrigin?.toLowerCase(),
+    notes: etymology.notes?.toLowerCase(),
+    timeline: etymology.timeline.map(stage => ({
+      language: stage.language.toLowerCase(),
+      form: stage.form.toLowerCase(),
+      meaning: stage.meaning?.toLowerCase(),
+      period: stage.period?.toLowerCase(),
+    })),
+    cognates: etymology.cognates?.map(cognate => ({
+      language: cognate.language.toLowerCase(),
+      word: cognate.word.toLowerCase(),
+      meaning: cognate.meaning.toLowerCase(),
+    })),
+  };
+}
+
+/**
+ * Normalize a VocabWord for search: lowercase all searchable text once.
+ */
+export function createSearchableVocabWord(word: VocabWord): SearchableVocabWord {
+  return {
+    original: word,
+    word: word.word.toLowerCase(),
+    meaning: word.meaning.toLowerCase(),
+    category: word.category.toLowerCase(),
+    examples: word.examples.map(example => example.toLowerCase()),
+    etymology: word.etymology ? createSearchableEtymology(word.etymology) : undefined,
+  };
+}
+
+/**
+ * Calculate relevance score for a normalized root based on search term.
+ */
+export function calculateRootRelevance(
+  searchable: SearchableRoot,
+  searchTerm: string
+): RelevanceResult {
+  if (!searchTerm.trim()) return { score: 0, matchFields: [] };
+
+  const termLower = searchTerm.toLowerCase();
+  const wordBoundaryRegex = new RegExp(`\\b${escapeRegex(termLower)}\\b`, 'i');
 
   let totalScore = 0;
+  const matchFields = new Set<string>();
   const weights = {
-    word: 3.0,           // Highest weight for the word itself
-    meaning: 2.0,        // High weight for meaning
-    category: 1.5,      // Medium weight for category
-    example: 1.2,        // Medium-low weight for examples
-    etymologyOrigin: 1.3, // Medium-high weight for etymology origin
-    etymologyNotes: 1.0,  // Low weight for etymology notes
-    timelineLanguage: 0.9, // Low weight for timeline language
-    timelineForm: 1.1,    // Medium-low weight for timeline form
-    timelineMeaning: 0.8, // Very low weight for timeline meaning
-    cognateWord: 1.0,     // Low weight for cognate words
-    cognateMeaning: 0.8   // Very low weight for cognate meanings
+    root: 3.0,
+    meaning: 2.0,
+    languageOrigin: 1.5,
+    exampleWord: 1.2,
+    exampleMeaning: 1.0,
+    exampleSentence: 0.8,
   };
 
-  // Check word field
-  const wordMatch = getMatchScore(searchTerm, word.word);
-  totalScore += wordMatch.score * weights.word;
+  totalScore +=
+    addMatchScore(
+      getMatchScore(termLower, wordBoundaryRegex, searchable.root),
+      'root',
+      matchFields
+    ) * weights.root;
+  totalScore +=
+    addMatchScore(
+      getMatchScore(termLower, wordBoundaryRegex, searchable.meaning),
+      'meaning',
+      matchFields
+    ) * weights.meaning;
+  totalScore +=
+    addMatchScore(
+      getMatchScore(termLower, wordBoundaryRegex, searchable.languageOrigin),
+      'languageOrigin',
+      matchFields
+    ) * weights.languageOrigin;
 
-  // Check meaning field
-  const meaningMatch = getMatchScore(searchTerm, word.meaning);
-  totalScore += meaningMatch.score * weights.meaning;
+  searchable.examples.forEach(example => {
+    totalScore +=
+      addMatchScore(
+        getMatchScore(termLower, wordBoundaryRegex, example.word),
+        'examples',
+        matchFields
+      ) * weights.exampleWord;
+    totalScore +=
+      addMatchScore(
+        getMatchScore(termLower, wordBoundaryRegex, example.meaning),
+        'examples',
+        matchFields
+      ) * weights.exampleMeaning;
+    totalScore +=
+      addMatchScore(
+        getMatchScore(termLower, wordBoundaryRegex, example.sentence),
+        'examples',
+        matchFields
+      ) * weights.exampleSentence;
+  });
 
-  // Check category field
-  const categoryMatch = getMatchScore(searchTerm, word.category);
-  totalScore += categoryMatch.score * weights.category;
+  return { score: totalScore, matchFields: [...matchFields] };
+}
 
-  // Check examples
-  if (word.examples && Array.isArray(word.examples)) {
-    word.examples.forEach((example: string) => {
-      const exampleMatch = getMatchScore(searchTerm, example);
-      totalScore += exampleMatch.score * weights.example;
-    });
-  }
+/**
+ * Calculate relevance score for a normalized vocabulary word based on search term.
+ */
+export function calculateVocabularyRelevance(
+  searchable: SearchableVocabWord,
+  searchTerm: string
+): RelevanceResult {
+  if (!searchTerm.trim()) return { score: 0, matchFields: [] };
 
-  // Check etymology fields
-  if (word.etymology) {
-    const etymology = word.etymology;
+  const termLower = searchTerm.toLowerCase();
+  const wordBoundaryRegex = new RegExp(`\\b${escapeRegex(termLower)}\\b`, 'i');
 
-    // Language origin
-    const originMatch = getMatchScore(searchTerm, etymology.languageOrigin);
-    totalScore += originMatch.score * weights.etymologyOrigin;
+  let totalScore = 0;
+  const matchFields = new Set<string>();
+  const weights = {
+    word: 3.0,
+    meaning: 2.0,
+    category: 1.5,
+    example: 1.2,
+    etymologyOrigin: 1.3,
+    etymologyNotes: 1.0,
+    timelineLanguage: 0.9,
+    timelineForm: 1.1,
+    timelineMeaning: 0.8,
+    cognateWord: 1.0,
+    cognateMeaning: 0.8,
+  };
 
-    // Year of origin
+  totalScore +=
+    addMatchScore(
+      getMatchScore(termLower, wordBoundaryRegex, searchable.word),
+      'word',
+      matchFields
+    ) * weights.word;
+  totalScore +=
+    addMatchScore(
+      getMatchScore(termLower, wordBoundaryRegex, searchable.meaning),
+      'meaning',
+      matchFields
+    ) * weights.meaning;
+  totalScore +=
+    addMatchScore(
+      getMatchScore(termLower, wordBoundaryRegex, searchable.category),
+      'category',
+      matchFields
+    ) * weights.category;
+
+  searchable.examples.forEach(example => {
+    totalScore +=
+      addMatchScore(getMatchScore(termLower, wordBoundaryRegex, example), 'examples', matchFields) *
+      weights.example;
+  });
+
+  if (searchable.etymology) {
+    const etymology = searchable.etymology;
+    const etymologyFields = new Set<string>();
+
+    totalScore +=
+      addMatchScore(
+        getMatchScore(termLower, wordBoundaryRegex, etymology.languageOrigin),
+        'etymology',
+        etymologyFields
+      ) * weights.etymologyOrigin;
+
     if (etymology.yearOfOrigin) {
-      const yearMatch = getMatchScore(searchTerm, etymology.yearOfOrigin);
-      totalScore += yearMatch.score * weights.etymologyOrigin;
+      totalScore +=
+        addMatchScore(
+          getMatchScore(termLower, wordBoundaryRegex, etymology.yearOfOrigin),
+          'etymology',
+          etymologyFields
+        ) * weights.etymologyOrigin;
     }
 
-    // Notes
     if (etymology.notes) {
-      const notesMatch = getMatchScore(searchTerm, etymology.notes);
-      totalScore += notesMatch.score * weights.etymologyNotes;
+      totalScore +=
+        addMatchScore(
+          getMatchScore(termLower, wordBoundaryRegex, etymology.notes),
+          'etymology',
+          etymologyFields
+        ) * weights.etymologyNotes;
     }
 
-    // Timeline
-    if (etymology.timeline && Array.isArray(etymology.timeline)) {
-      etymology.timeline.forEach((stage: EtymologyStage) => {
-        const languageMatch = getMatchScore(searchTerm, stage.language);
-        totalScore += languageMatch.score * weights.timelineLanguage;
+    etymology.timeline.forEach(stage => {
+      totalScore +=
+        addMatchScore(
+          getMatchScore(termLower, wordBoundaryRegex, stage.language),
+          'etymology',
+          etymologyFields
+        ) * weights.timelineLanguage;
+      totalScore +=
+        addMatchScore(
+          getMatchScore(termLower, wordBoundaryRegex, stage.form),
+          'etymology',
+          etymologyFields
+        ) * weights.timelineForm;
 
-        const formMatch = getMatchScore(searchTerm, stage.form);
-        totalScore += formMatch.score * weights.timelineForm;
+      if (stage.meaning) {
+        totalScore +=
+          addMatchScore(
+            getMatchScore(termLower, wordBoundaryRegex, stage.meaning),
+            'etymology',
+            etymologyFields
+          ) * weights.timelineMeaning;
+      }
 
-        if (stage.meaning) {
-          const meaningMatch = getMatchScore(searchTerm, stage.meaning);
-          totalScore += meaningMatch.score * weights.timelineMeaning;
-        }
+      if (stage.period) {
+        totalScore +=
+          addMatchScore(
+            getMatchScore(termLower, wordBoundaryRegex, stage.period),
+            'etymology',
+            etymologyFields
+          ) * weights.timelineLanguage;
+      }
+    });
 
-        if (stage.period) {
-          const periodMatch = getMatchScore(searchTerm, stage.period);
-          totalScore += periodMatch.score * weights.timelineLanguage;
-        }
-      });
-    }
+    etymology.cognates?.forEach(cognate => {
+      totalScore +=
+        addMatchScore(
+          getMatchScore(termLower, wordBoundaryRegex, cognate.language),
+          'etymology',
+          etymologyFields
+        ) * weights.timelineLanguage;
+      totalScore +=
+        addMatchScore(
+          getMatchScore(termLower, wordBoundaryRegex, cognate.word),
+          'etymology',
+          etymologyFields
+        ) * weights.cognateWord;
+      totalScore +=
+        addMatchScore(
+          getMatchScore(termLower, wordBoundaryRegex, cognate.meaning),
+          'etymology',
+          etymologyFields
+        ) * weights.cognateMeaning;
+    });
 
-    // Cognates
-    if (etymology.cognates && Array.isArray(etymology.cognates)) {
-      etymology.cognates.forEach((cognate: CognateWord) => {
-        const languageMatch = getMatchScore(searchTerm, cognate.language);
-        totalScore += languageMatch.score * weights.timelineLanguage;
-
-        const wordMatch = getMatchScore(searchTerm, cognate.word);
-        totalScore += wordMatch.score * weights.cognateWord;
-
-        const meaningMatch = getMatchScore(searchTerm, cognate.meaning);
-        totalScore += meaningMatch.score * weights.cognateMeaning;
-      });
+    if (etymologyFields.size > 0) {
+      matchFields.add('etymology');
     }
   }
 
-  return totalScore;
+  return { score: totalScore, matchFields: [...matchFields] };
 }
 
+type SearchableOriginal<S extends Searchable<unknown>> = S extends Searchable<infer T> ? T : never;
+
 /**
- * Search and rank items by relevance
+ * Search and rank items by relevance, returning the original item type.
  */
-export function searchWithRelevance<T>(
-  items: T[],
+export function searchWithRelevance<S extends Searchable<unknown>>(
+  items: S[],
   searchTerm: string,
-  relevanceCalculator: (item: T, term: string) => number
-): SearchResult<T>[] {
+  relevanceCalculator: (item: S, term: string) => RelevanceResult
+): SearchResult<SearchableOriginal<S>>[] {
   if (!searchTerm.trim()) {
-    return items.map(item => ({ item, score: 0, matchFields: [] }));
+    return items.map(item => ({
+      item: item.original as SearchableOriginal<S>,
+      score: 0,
+      matchFields: [],
+    }));
   }
 
-  const results: SearchResult<T>[] = items
-    .map(item => ({
-      item,
-      score: relevanceCalculator(item, searchTerm),
-      matchFields: []
-    }))
+  const results: SearchResult<SearchableOriginal<S>>[] = items
+    .map(item => {
+      const { score, matchFields } = relevanceCalculator(item, searchTerm);
+      return { item: item.original as SearchableOriginal<S>, score, matchFields };
+    })
     .filter(result => result.score > 0);
 
-  // Sort by score (descending)
   results.sort((a, b) => b.score - a.score);
 
   return results;
@@ -225,7 +417,7 @@ export function searchWithRelevance<T>(
  * Fuzzy match using Levenshtein distance (for handling typos)
  */
 export function levenshteinDistance(a: string, b: string): number {
-  const matrix = [];
+  const matrix: number[][] = [];
 
   for (let i = 0; i <= b.length; i++) {
     matrix[i] = [i];

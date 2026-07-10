@@ -14,7 +14,7 @@ export function RootTypeFilter({ selectedType, onTypeChange }: RootTypeFilterPro
 
   return (
     <div className="flex flex-wrap gap-2">
-      {types.map((type) => (
+      {types.map(type => (
         <button
           key={type}
           onClick={() => onTypeChange(type)}
@@ -24,10 +24,9 @@ export function RootTypeFilter({ selectedType, onTypeChange }: RootTypeFilterPro
               : 'bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600'
           }`}
         >
-          {type === 'all' 
-            ? 'All Types' 
-            : ROOT_TYPES[type as keyof typeof ROOT_TYPES]?.[uiLanguage] || type
-          }
+          {type === 'all'
+            ? 'All Types'
+            : ROOT_TYPES[type as keyof typeof ROOT_TYPES]?.[uiLanguage] || type}
         </button>
       ))}
     </div>

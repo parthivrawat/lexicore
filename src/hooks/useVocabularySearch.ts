@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { getVocabularyData } from '@/utils/data';
 import { useSearch } from './useSearch';
-import { calculateVocabularyRelevance } from '@/utils/search';
+import { createSearchableVocabWord, calculateVocabularyRelevance } from '@/utils/search';
 import { VocabWord } from '@/types';
 
 export function useVocabularySearch() {
@@ -15,7 +15,7 @@ export function useVocabularySearch() {
   useEffect(() => {
     let mounted = true;
     setIsLoading(true);
-    
+
     getVocabularyData(learningLanguage).then(data => {
       if (mounted) {
         setVocabularyData(data);
@@ -30,6 +30,7 @@ export function useVocabularySearch() {
 
   const searchResult = useSearch({
     data: vocabularyData,
+    normalize: createSearchableVocabWord,
     relevanceCalculator: calculateVocabularyRelevance,
   });
 

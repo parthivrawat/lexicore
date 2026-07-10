@@ -1,22 +1,21 @@
-import React, { Suspense, useState, useEffect } from 'react'
-import { useSearchParams } from 'react-router-dom'
-import { AppShell } from '@/components/shared/AppShell'
-import { Pagination } from '@/components/shared/Pagination'
-import { RootCard } from '@/components/features/RootCard'
-import { RootTypeFilter } from '@/components/features/RootTypeFilter'
-import { getRootsData } from '@/utils/data'
-import { useLanguage } from '@/contexts/LanguageContext'
-import { interpolate } from '@/utils/interpolate'
-import { useRootSearch } from '@/hooks/useRootSearch'
-import { usePagination } from '@/hooks/usePagination'
-import { RootType, WordRoot } from '@/types'
+import React, { Suspense, useState, useEffect } from 'react';
+import { useSearchParams } from 'react-router-dom';
+import { AppShell } from '@/components/shared/AppShell';
+import { Pagination } from '@/components/shared/Pagination';
+import { RootCard } from '@/components/features/RootCard';
+import { RootTypeFilter } from '@/components/features/RootTypeFilter';
+import { getRootsData } from '@/utils/data';
+import { useLanguage } from '@/contexts/LanguageContext';
+import { useRootSearch } from '@/hooks/useRootSearch';
+import { usePagination } from '@/hooks/usePagination';
+import { RootType, WordRoot } from '@/types';
 
 function RootsPageContent() {
-  const { learningLanguage, t } = useLanguage()
-  const [searchParams, setSearchParams] = useSearchParams()
-  const [allRootsData, setAllRootsData] = useState<WordRoot[]>([])
-  const [isLoading, setIsLoading] = useState(true)
-  
+  const { learningLanguage, t } = useLanguage();
+  const [searchParams, setSearchParams] = useSearchParams();
+  const [allRootsData, setAllRootsData] = useState<WordRoot[]>([]);
+  const [isLoading, setIsLoading] = useState(true);
+
   const {
     query,
     results: searchResults,
@@ -24,44 +23,52 @@ function RootsPageContent() {
     handleQueryChange,
     hasQuery,
     isLoading: searchLoading,
-  } = useRootSearch()
-  
-  const typeParam = searchParams.get('type') as RootType | null
-  const selectedType: RootType | 'all' = typeParam || 'all'
-  
-  const handleTypeChange = (type: RootType | 'all') => {
-    if (type === 'all') {
-      searchParams.delete('type')
-    } else {
-      searchParams.set('type', type)
-    }
-    setSearchParams(searchParams)
-  }
-  
+  } = useRootSearch();
+
+  const typeParam = searchParams.get('type') as RootType | null;
+  const selectedType: RootType | 'all' = typeParam || 'all';
+  const qParam = searchParams.get('q') || '';
+
   useEffect(() => {
-    let mounted = true
-    setIsLoading(true)
-    
+    handleQueryChange(qParam);
+  }, [qParam, handleQueryChange]);
+
+  const handleTypeChange = (type: RootType | 'all') => {
+    const next = new URLSearchParams(searchParams);
+    if (type === 'all') {
+      next.delete('type');
+    } else {
+      next.set('type', type);
+    }
+    next.delete('page');
+    setSearchParams(next, { replace: true });
+  };
+
+  useEffect(() => {
+    let mounted = true;
+    setIsLoading(true);
+
     getRootsData(learningLanguage).then(data => {
       if (mounted) {
-        setAllRootsData(data)
-        setIsLoading(false)
+        setAllRootsData(data);
+        setIsLoading(false);
       }
-    })
+    });
 
     return () => {
-      mounted = false
-    }
-  }, [learningLanguage])
-  
-  const currentData = hasQuery ? searchResults : allRootsData
-  const filteredRootsData = selectedType === 'all' 
-    ? currentData 
-    : currentData.filter((root: WordRoot) => root.type === selectedType)
-  
-  const { startIndex, endIndex, setPage } = usePagination(filteredRootsData.length)
-  const paginatedRoots = filteredRootsData.slice(startIndex, endIndex + 1)
-  
+      mounted = false;
+    };
+  }, [learningLanguage]);
+
+  const currentData = hasQuery ? searchResults : allRootsData;
+  const filteredRootsData =
+    selectedType === 'all'
+      ? currentData
+      : currentData.filter((root: WordRoot) => root.type === selectedType);
+
+  const { startIndex, endIndex } = usePagination(filteredRootsData.length);
+  const paginatedRoots = filteredRootsData.slice(startIndex, endIndex);
+
   if (isLoading || searchLoading) {
     return (
       <AppShell>
@@ -69,7 +76,7 @@ function RootsPageContent() {
           <div>Loading...</div>
         </div>
       </AppShell>
-    )
+    );
   }
 
   return (
@@ -81,10 +88,9 @@ function RootsPageContent() {
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-primary-400 opacity-75"></span>
               <span className="relative inline-flex rounded-full h-2 w-2 bg-primary-500"></span>
             </span>
-            {hasQuery 
+            {hasQuery
               ? `${resultCount} result${resultCount !== 1 ? 's' : ''} found`
-              : `${interpolate(t('words.count'), { count: allRootsData.length })} roots available`
-            }
+              : `${t('words.count', { count: allRootsData.length })} roots available`}
           </div>
           <h1 className="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-5xl">
             <span className="block">{t('roots.title')}</span>
@@ -93,23 +99,35 @@ function RootsPageContent() {
             </span>
           </h1>
           <p className="mx-auto max-w-2xl text-lg font-medium text-gray-600 dark:text-gray-300">
-            {hasQuery 
+            {hasQuery
               ? `Showing search results for "${query}"`
-              : interpolate(t('roots.description'), { count: allRootsData.length })
-            }
+              : t('roots.description', { count: allRootsData.length })}
           </p>
         </div>
 
         <div className="max-w-2xl mx-auto">
           <div className="rounded-xl border border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-800 p-6 shadow-sm">
-            <label htmlFor="root-search" className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
+            <label
+              htmlFor="root-search"
+              className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2"
+            >
               Search Roots
             </label>
             <input
               id="root-search"
               type="text"
               value={query}
-              onChange={(e) => handleQueryChange(e.target.value)}
+              onChange={e => {
+                const value = e.target.value;
+                handleQueryChange(value);
+                const next = new URLSearchParams(searchParams);
+                if (value.trim()) {
+                  next.set('q', value);
+                } else {
+                  next.delete('q');
+                }
+                setSearchParams(next, { replace: true });
+              }}
               placeholder="Try: bio, geo, pre, un, script..."
               className="block w-full rounded-lg border border-gray-300 dark:border-gray-600 px-4 py-3 text-sm text-gray-900 dark:text-white placeholder-gray-500 dark:placeholder-gray-400 outline-none focus:border-primary-500 focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 transition-colors bg-white dark:bg-gray-800"
             />
@@ -117,38 +135,29 @@ function RootsPageContent() {
         </div>
 
         <div className="flex justify-center">
-          <RootTypeFilter 
-            selectedType={selectedType}
-            onTypeChange={handleTypeChange}
-          />
+          <RootTypeFilter selectedType={selectedType} onTypeChange={handleTypeChange} />
         </div>
 
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {paginatedRoots.map((root: WordRoot, index: number) => (
-            <div key={root.id} className="animate-slide-up" style={{ animationDelay: `${index * 0.1}s` }}>
-              <RootCard root={root} />
-            </div>
+          {paginatedRoots.map((root: WordRoot) => (
+            <RootCard key={root.id} root={root} />
           ))}
         </div>
 
-        <Pagination
-          totalItems={filteredRootsData.length}
-          onPageChange={setPage}
-          className="pt-6"
-        />
+        <Pagination totalItems={filteredRootsData.length} className="pt-6" />
       </div>
     </AppShell>
-  )
+  );
 }
 
 const RootsPage: React.FC = () => {
-  const { t } = useLanguage()
-  
+  const { t } = useLanguage();
+
   return (
     <Suspense fallback={<div>{t('loading')}</div>}>
       <RootsPageContent />
     </Suspense>
-  )
-}
+  );
+};
 
-export default RootsPage
+export default RootsPage;

@@ -10,10 +10,10 @@
 
 Develop an application that:
 
-* Provides a **comprehensive database of word roots** (prefixes, suffixes, stems) across multiple languages
-* Shows **usage patterns, meanings, and examples**
-* Includes **top 100 (or configurable) most common words** for conversational fluency in each language
-* Supports **cross-language comparison and learning**
+- Provides a **comprehensive database of word roots** (prefixes, suffixes, stems) across multiple languages
+- Shows **usage patterns, meanings, and examples**
+- Includes **top 100 (or configurable) most common words** for conversational fluency in each language
+- Supports **cross-language comparison and learning**
 
 ---
 
@@ -21,38 +21,41 @@ Develop an application that:
 
 ### 2.1 Word Roots Module
 
-* Prefixes, suffixes, and base roots
-* Metadata:
+- Prefixes, suffixes, and base roots
+- Metadata:
 
-  * Meaning
-  * Language of origin
-  * Phonetics
-  * Usage rules
-* Examples:
+  - Meaning
+  - Language of origin
+  - Phonetics
+  - Usage rules
 
-  * Words derived from root
-  * Sentence examples
-* Relationships:
+- Examples:
 
-  * Root → Derived Words
-  * Root → Related Roots (cross-language)
+  - Words derived from root
+  - Sentence examples
+
+- Relationships:
+
+  - Root → Derived Words
+  - Root → Related Roots (cross-language)
 
 ---
 
 ### 2.2 Core Vocabulary Module
 
-* Top N most common words per language (default: 100)
-* Categorization:
+- Top N most common words per language (default: 100)
+- Categorization:
 
-  * Greetings
-  * Numbers
-  * Verbs
-  * Daily-use nouns
-* Features:
+  - Greetings
+  - Numbers
+  - Verbs
+  - Daily-use nouns
 
-  * Pronunciation (IPA + audio)
-  * Example sentences
-  * Translation across languages
+- Features:
+
+  - Pronunciation (IPA + audio)
+  - Example sentences
+  - Translation across languages
 
 ---
 
@@ -60,8 +63,8 @@ Develop an application that:
 
 Initial languages:
 
-* English
-* French
+- English
+- French
 
 Expandable via modular data structure.
 
@@ -69,35 +72,37 @@ Expandable via modular data structure.
 
 ### 2.4 Search & Discovery
 
-* Search by:
+- Search by:
 
-  * Root
-  * Word
-  * Meaning
-* Filters:
+  - Root
+  - Word
+  - Meaning
 
-  * Language
-  * Root type (prefix/suffix/base)
-* Fuzzy search support
+- Filters:
+
+  - Language
+  - Root type (prefix/suffix/base)
+
+- Fuzzy search support
 
 ---
 
 ### 2.5 Learning Features
 
-* Root breakdown visualization
-* Flashcards
-* Practice quizzes:
+- Root breakdown visualization
+- Flashcards
+- Practice quizzes:
 
-  * Identify root meanings
-  * Build words from roots
+  - Identify root meanings
+  - Build words from roots
 
 ---
 
 ### 2.6 Cross-Language Insights
 
-* Shared etymology (e.g., Latin roots across languages)
-* Cognates detection
-* Comparative examples
+- Shared etymology (e.g., Latin roots across languages)
+- Cognates detection
+- Comparative examples
 
 ---
 
@@ -121,17 +126,17 @@ Browser Storage (localStorage)
 
 #### Frontend
 
-* Framework: React 19 with TypeScript
-* Build Tool: Vite
-* Routing: React Router DOM
-* Styling: Tailwind CSS
-* State Management: React Context (Language, Theme, Settings)
+- Framework: React 19 with TypeScript
+- Build Tool: Vite
+- Routing: React Router DOM
+- Styling: Tailwind CSS
+- State Management: React Context (Language, Theme, Settings)
 
 #### Data Storage
 
-* Static JSON files for linguistic data
-* Browser localStorage for user preferences
-* No backend database (client-side only)
+- Static JSON files for linguistic data
+- Browser localStorage for user preferences
+- No backend database (client-side only)
 
 ---
 
@@ -189,9 +194,7 @@ Browser Storage (localStorage)
     }
   ],
   "category": "greetings",
-  "examples": [
-    "Hello, how are you?"
-  ]
+  "examples": ["Hello, how are you?"]
 }
 ```
 
@@ -221,10 +224,13 @@ import { vocabularyEn, vocabularyFr } from '@/data/vocabulary';
 
 // Language-specific data retrieval
 const getCurrentLanguageData = (language: LearningLanguage) => {
-  switch(language) {
-    case 'english': return { roots: rootsEn, vocabulary: vocabularyEn };
-    case 'french': return { roots: rootsFr, vocabulary: vocabularyFr };
-    default: return { roots: [], vocabulary: [] };
+  switch (language) {
+    case 'english':
+      return { roots: rootsEn, vocabulary: vocabularyEn };
+    case 'french':
+      return { roots: rootsFr, vocabulary: vocabularyFr };
+    default:
+      return { roots: [], vocabulary: [] };
   }
 };
 ```
@@ -249,21 +255,21 @@ const searchItems = (
 
 ### 6.1 Core Pages
 
-* Home Dashboard
-* Language Selector (Settings)
-* Root Explorer (/roots)
-* Vocabulary List (/vocabulary)
-* Root Detail Page (/roots/:id)
-* Vocabulary Detail Page (/vocabulary/:id)
-* Settings Page (/settings)
+- Home Dashboard
+- Language Selector (Settings)
+- Root Explorer (/roots)
+- Vocabulary List (/vocabulary)
+- Root Detail Page (/roots/:id)
+- Vocabulary Detail Page (/vocabulary/:id)
+- Settings Page (/settings)
 
 ---
 
 ### 6.2 UX Principles
 
-* Minimal cognitive load
-* Visual root breakdowns
-* Progressive learning (beginner → advanced)
+- Minimal cognitive load
+- Visual root breakdowns
+- Progressive learning (beginner → advanced)
 
 ---
 
@@ -271,50 +277,50 @@ const searchItems = (
 
 ### 7.1 Search & Filtering
 
-* Client-side string matching
-* Accent-insensitive search
-* Category and type filtering
-* Pagination with configurable limits
+- Client-side string matching
+- Accent-insensitive search
+- Category and type filtering
+- Pagination with configurable limits
 
 ### 7.2 Data Organization
 
-* Static data structured by language
-* Type-safe data access with TypeScript
-* Responsive pagination
-* Real-time language switching
+- Static data structured by language
+- Type-safe data access with TypeScript
+- Responsive pagination
+- Real-time language switching
 
 ---
 
 ## 8. Performance Considerations
 
-* Code splitting with React.lazy()
-* Efficient pagination
-* Debounced search input
-* Static asset optimization
-* Bundle size optimization
+- Code splitting with React.lazy()
+- Efficient pagination
+- Debounced search input
+- Static asset optimization
+- Bundle size optimization
 
 ---
 
 ## 9. Security
 
-* Client-side only application
-* No user data collection
-* Static content delivery
-* Input sanitization for search
+- Client-side only application
+- No user data collection
+- Static content delivery
+- Input sanitization for search
 
 ---
 
 ## 10. Current Features
 
-* Multi-language UI (English/French)
-* Language switching for content (English/French)
-* Root exploration with detailed views
-* Vocabulary browsing by categories
-* Search functionality with filters
-* Theme switching (Light/Dark/System)
-* Responsive design
-* IPA pronunciation support
-* Multiple accent variants
+- Multi-language UI (English/French)
+- Language switching for content (English/French)
+- Root exploration with detailed views
+- Vocabulary browsing by categories
+- Search functionality with filters
+- Theme switching (Light/Dark/System)
+- Responsive design
+- IPA pronunciation support
+- Multiple accent variants
 
 ---
 
@@ -322,51 +328,52 @@ const searchItems = (
 
 ### ✅ Completed (MVP)
 
-* React SPA with TypeScript
-* Root database (English + French)
-* Vocabulary database (English + French)
-* Basic UI with Tailwind CSS
-* Search functionality
-* Multi-language UI support
-* Theme switching
-* Responsive design
+- React SPA with TypeScript
+- Root database (English + French)
+- Vocabulary database (English + French)
+- Basic UI with Tailwind CSS
+- Search functionality
+- Multi-language UI support
+- Theme switching
+- Responsive design
 
 ### 🚧 In Progress
 
-* Additional languages (Spanish, Latin, Greek)
-* Enhanced pronunciation features
-* Audio pronunciation
+- Additional languages (Spanish, Latin, Greek)
+- Enhanced pronunciation features
+- Audio pronunciation
 
 ### 📋 Planned
 
-* Flashcards and quizzes
-* Cross-language insights
-* Advanced search algorithms
-* User progress tracking
+- Flashcards and quizzes
+- Cross-language insights
+- Advanced search algorithms
+- User progress tracking
 
 ---
 
 ## 12. Technical Metrics
 
-* Bundle size: Optimized with Vite
-* Performance: Client-side rendering
-* Accessibility: WCAG compliant components
-* Browser compatibility: Modern browsers
+- Bundle size: Optimized with Vite
+- Performance: Client-side rendering
+- Accessibility: WCAG compliant components
+- Browser compatibility: Modern browsers
 
 ---
 
 ## 13. Technical Challenges
 
-* Managing multilingual data structure
-* Implementing responsive search
-* Maintaining type safety across languages
-* Optimizing bundle size for multiple languages
+- Managing multilingual data structure
+- Implementing responsive search
+- Maintaining type safety across languages
+- Optimizing bundle size for multiple languages
 
 ---
 
 ## 14. Technology Stack Summary
 
 **Frontend:**
+
 - React 19 + TypeScript
 - Vite (build tool)
 - React Router DOM (routing)
@@ -374,11 +381,13 @@ const searchItems = (
 - React Context (state management)
 
 **Data:**
+
 - Static JSON files
 - TypeScript interfaces
 - Client-side search
 
 **Development:**
+
 - ESLint + TypeScript ESLint
 - PostCSS + Autoprefixer
 - Modern ES modules

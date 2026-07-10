@@ -16,11 +16,13 @@ This guide covers deploying the Vite + React version of LexiCore to various host
 ## 🎯 Prerequisites
 
 ### Required Software
+
 - **Node.js**: Version 18.0 or higher
 - **npm**: Version 8.0 or higher
 - **Git**: Latest stable version
 
 ### Build Verification
+
 ```bash
 # Install dependencies
 npm install
@@ -40,9 +42,9 @@ The project uses Vite for building with the following configuration:
 
 ```javascript
 // vite.config.ts
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
-import path from 'path'
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react';
+import path from 'path';
 
 export default defineConfig({
   plugins: [react()],
@@ -54,7 +56,7 @@ export default defineConfig({
   build: {
     outDir: 'dist',
   },
-})
+});
 ```
 
 ### Build Output
@@ -86,6 +88,7 @@ ls -la dist/
 ### 1. Vercel (Recommended)
 
 #### Automatic Deployment
+
 ```bash
 # Install Vercel CLI
 npm i -g vercel
@@ -95,6 +98,7 @@ vercel --prod
 ```
 
 #### vercel.json Configuration
+
 ```json
 {
   "buildCommand": "npm run build",
@@ -120,6 +124,7 @@ vercel --prod
 ### 2. Netlify
 
 #### Build Configuration
+
 ```toml
 # netlify.toml
 [build]
@@ -139,6 +144,7 @@ vercel --prod
 ```
 
 #### Deployment
+
 ```bash
 # Install Netlify CLI
 npm install -g netlify-cli
@@ -150,6 +156,7 @@ netlify deploy --prod --dir=dist
 ### 3. GitHub Pages
 
 #### Build Configuration
+
 ```json
 // package.json
 {
@@ -162,42 +169,44 @@ netlify deploy --prod --dir=dist
 ```
 
 #### GitHub Actions Workflow
+
 ```yaml
 # .github/workflows/deploy.yml
 name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    
+
     steps:
-    - uses: actions/checkout@v3
-    
-    - name: Setup Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '18'
-        
-    - name: Install dependencies
-      run: npm install
-      
-    - name: Build
-      run: npm run build
-      
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./dist
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build
+        run: npm run build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
 ```
 
 ### 4. AWS S3 + CloudFront
 
 #### Build and Upload
+
 ```bash
 # Build
 npm run build
@@ -212,15 +221,12 @@ aws cloudfront create-invalidation --distribution-id YOUR_DISTRIBUTION_ID --path
 ### 5. Firebase Hosting
 
 #### firebase.json Configuration
+
 ```json
 {
   "hosting": {
     "public": "dist",
-    "ignore": [
-      "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
-    ],
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
       {
         "source": "**",
@@ -232,6 +238,7 @@ aws cloudfront create-invalidation --distribution-id YOUR_DISTRIBUTION_ID --path
 ```
 
 #### Deployment
+
 ```bash
 # Install Firebase CLI
 npm install -g firebase-tools
@@ -243,6 +250,7 @@ firebase deploy --only hosting
 ## 🔧 Environment Variables
 
 ### Development vs Production
+
 ```bash
 # Development
 npm run dev
@@ -253,6 +261,7 @@ npm run preview
 ```
 
 ### Environment Configuration
+
 ```javascript
 // src/config/environment.ts
 export const config = {
@@ -260,12 +269,13 @@ export const config = {
   environment: import.meta.env.MODE,
   isDevelopment: import.meta.env.DEV,
   isProduction: import.meta.env.PROD,
-}
+};
 ```
 
 ### Platform-Specific Variables
 
 #### Vercel
+
 ```bash
 # vercel.json
 {
@@ -276,6 +286,7 @@ export const config = {
 ```
 
 #### Netlify
+
 ```bash
 # netlify.toml
 [build.environment]
@@ -304,7 +315,7 @@ export default defineConfig({
   optimizeDeps: {
     include: ['react', 'react-dom', 'react-router-dom'],
   },
-})
+});
 ```
 
 ### Caching Strategy
@@ -319,7 +330,7 @@ export default defineConfig({
       },
     },
   },
-})
+});
 ```
 
 ### Bundle Analysis
@@ -347,6 +358,7 @@ npm run build
 ### Common Issues
 
 #### 1. Build Fails
+
 ```bash
 # Clear cache
 rm -rf node_modules dist .vite
@@ -355,11 +367,14 @@ npm run build
 ```
 
 #### 2. Routing Issues
+
 Ensure your hosting platform supports SPA routing:
+
 - All routes should serve `index.html`
 - Configure fallback routing in hosting settings
 
 #### 3. Asset Loading Issues
+
 ```bash
 # Verify asset paths
 ls -la dist/assets/
@@ -369,6 +384,7 @@ npm run build -- --mode production
 ```
 
 #### 4. Environment Variables Not Working
+
 ```bash
 # Verify variable names start with VITE_
 echo $VITE_API_URL
@@ -412,6 +428,7 @@ npx web-vitals https://your-domain.com
 ## 📊 Deployment Checklist
 
 ### Pre-Deployment
+
 - [ ] All tests pass
 - [ ] Build succeeds locally
 - [ ] Environment variables configured
@@ -420,6 +437,7 @@ npx web-vitals https://your-domain.com
 - [ ] Performance testing completed
 
 ### Post-Deployment
+
 - [ ] Application loads correctly
 - [ ] All routes work
 - [ ] Assets load properly
@@ -430,18 +448,21 @@ npx web-vitals https://your-domain.com
 ## 📚 Additional Resources
 
 ### Documentation
+
 - [Vite Deployment Guide](https://vitejs.dev/guide/build)
 - [React Router Deployment](https://reactrouter.com/en/main/route/route#concepts)
 - [Netlify SPA Guide](https://docs.netlify.com/site-deployment/single-page-apps/)
 - [Vercel Static Sites](https://vercel.com/docs/concepts/projects/static-sites)
 
 ### Tools
+
 - [Bundle Analyzer](https://www.npmjs.com/package/rollup-plugin-visualizer)
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse)
 - [Web Vitals](https://web.dev/vitals/)
 - [PageSpeed Insights](https://pagespeed.web.dev/)
 
 ### Best Practices
+
 - [Vite Performance](https://vitejs.dev/guide/build#build-optimizations)
 - [React Performance](https://react.dev/learn/render-and-commit)
 - [Web Performance](https://web.dev/performance/)

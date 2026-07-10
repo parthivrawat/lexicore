@@ -179,7 +179,7 @@ interface PaginationProps {
 ```typescript
 function MyListPage() {
   const pagination = usePagination(totalItems, 20);
-  
+
   return (
     <div>
       {/* List content */}
@@ -397,7 +397,7 @@ interface SettingsTabsProps {
 ```typescript
 function SearchPage() {
   const [filter, setFilter] = useState<SearchFilter>('all');
-  
+
   return (
     <SearchFilters
       activeFilter={filter}
@@ -469,7 +469,7 @@ export default function ListPage() {
 ```typescript
 export default function SearchPage() {
   const search = useSearch();
-  
+
   return (
     <AppShell>
       <SearchInput query={search.query} onChange={search.handleQueryChange} />
@@ -550,7 +550,7 @@ describe('Button', () => {
     render(<Button>Click me</Button>);
     expect(screen.getByRole('button', { name: 'Click me' })).toBeInTheDocument();
   });
-  
+
   it('applies correct variant styles', () => {
     render(<Button variant="primary">Submit</Button>);
     const button = screen.getByRole('button');
@@ -569,7 +569,7 @@ describe('RootCard', () => {
   it('navigates to detail page on click', () => {
     const mockRoot = { /* root data */ };
     render(<RootCard root={mockRoot} />);
-    
+
     const link = screen.getByRole('link');
     expect(link).toHaveAttribute('href', `/roots/${mockRoot.id}`);
   });

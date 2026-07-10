@@ -26,6 +26,7 @@ We welcome contributions to LexiCore! This guide will help you get started.
 ### Quick Start
 
 1. **Fork the repository**
+
    ```bash
    # Fork on GitHub, then clone your fork
    git clone https://github.com/parthivrawat/lexicore.git
@@ -33,17 +34,20 @@ We welcome contributions to LexiCore! This guide will help you get started.
    ```
 
 2. **Set up development environment**
+
    ```bash
    npm install
    npm run dev
    ```
 
 3. **Create a feature branch**
+
    ```bash
    git checkout -b feature/your-feature-name
    ```
 
 4. **Make your changes and test**
+
    ```bash
    npm run build
    npm run lint
@@ -116,29 +120,36 @@ Install these VS Code extensions:
 
 ```markdown
 ## Bug Description
+
 Brief description of the bug
 
 ## Steps to Reproduce
+
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
 ## Expected Behavior
+
 What you expected to happen
 
 ## Actual Behavior
+
 What actually happened
 
 ## Screenshots
+
 If applicable, add screenshots
 
 ## Environment
+
 - OS: [e.g. Windows 11, macOS 13.0]
 - Browser: [e.g. Chrome 108, Firefox 107]
 - Version: [e.g. v1.0.0]
 
 ## Additional Context
+
 Add any other context about the problem
 ```
 
@@ -155,18 +166,23 @@ Add any other context about the problem
 
 ```markdown
 ## Feature Description
+
 Brief description of the feature
 
 ## Problem Statement
+
 What problem does this feature solve?
 
 ## Proposed Solution
+
 How should this feature work?
 
 ## Alternatives Considered
+
 What other approaches did you consider?
 
 ## Additional Context
+
 Add any other context about the feature
 ```
 
@@ -325,6 +341,7 @@ describe('ComponentName', () => {
 ### Before Submitting
 
 1. **Run tests locally**
+
    ```bash
    npm run test
    npm run lint
@@ -345,9 +362,11 @@ describe('ComponentName', () => {
 
 ```markdown
 ## Description
+
 Brief description of changes
 
 ## Type of Change
+
 - [ ] Bug fix
 - [ ] New feature
 - [ ] Breaking change
@@ -356,6 +375,7 @@ Brief description of changes
 - [ ] Code refactoring
 
 ## Testing
+
 - [ ] Unit tests pass
 - [ ] Integration tests pass
 - [ ] Manual testing completed
@@ -363,6 +383,7 @@ Brief description of changes
 - [ ] Performance tested
 
 ## Checklist
+
 - [ ] Code follows project style guidelines
 - [ ] Self-review completed
 - [ ] Documentation updated
@@ -372,9 +393,11 @@ Brief description of changes
 - [ ] Type checking passes
 
 ## Screenshots
+
 If applicable, add screenshots
 
 ## Additional Notes
+
 Any additional information about the changes
 ```
 

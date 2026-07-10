@@ -51,12 +51,12 @@ interface UsePaginationReturn {
 ```typescript
 function MyListPage() {
   const pagination = usePagination(totalItems, 20);
-  
+
   const paginatedItems = items.slice(
     pagination.startIndex,
     pagination.endIndex
   );
-  
+
   return (
     <div>
       {/* Render paginated items */}
@@ -145,7 +145,7 @@ interface UseVocabularySearchReturn {
 ```typescript
 function SearchPage() {
   const search = useSearch();
-  
+
   return (
     <div>
       <SearchInput
@@ -188,6 +188,7 @@ function formatCategory(category: string): string;
 ```
 
 **Example:**
+
 ```typescript
 formatCategory('greetings'); // Returns: 'Greetings'
 formatCategory('daily-use-nouns'); // Returns: 'Daily Use Nouns'
@@ -204,6 +205,7 @@ function formatRootType(type: string): string;
 ```
 
 **Example:**
+
 ```typescript
 formatRootType('prefix'); // Returns: 'Prefix'
 formatRootType('base'); // Returns: 'Base'
@@ -220,6 +222,7 @@ function formatPronunciation(ipa?: string): string;
 ```
 
 **Example:**
+
 ```typescript
 formatPronunciation('həˈloʊ'); // Returns: '/həˈloʊ/'
 formatPronunciation(undefined); // Returns: ''
@@ -236,6 +239,7 @@ function formatCategorySlug(category: string): string;
 ```
 
 **Example:**
+
 ```typescript
 formatCategorySlug('daily-use-nouns'); // Returns: 'Daily Use Nouns'
 ```
@@ -251,6 +255,7 @@ function truncateText(text: string, maxLength: number): string;
 ```
 
 **Example:**
+
 ```typescript
 truncateText('Very long text', 10); // Returns: 'Very long...'
 ```
@@ -268,6 +273,7 @@ function groupWordsByCategory(words: VocabWord[]): Record<string, VocabWord[]>;
 ```
 
 **Example:**
+
 ```typescript
 const grouped = groupWordsByCategory(vocabularyEn);
 // Returns: { greetings: [...], numbers: [...], verbs: [...] }
@@ -316,6 +322,7 @@ function searchAll(query: string): SearchItem[];
 ```
 
 **Example:**
+
 ```typescript
 const results = searchAll('bio');
 // Returns: Array of SearchItem objects
@@ -352,6 +359,7 @@ function getWordOfTheDay(): VocabWord;
 ```
 
 **Example:**
+
 ```typescript
 getSearchResultId({ kind: 'root', id: 'bio-life' }); // Returns: 'root:bio-life'
 ```
@@ -429,16 +437,16 @@ const ROUTES = {
 ### Core Types
 
 ```typescript
-import type { 
-  WordRoot, 
-  VocabWord, 
-  SearchItem, 
+import type {
+  WordRoot,
+  VocabWord,
+  SearchItem,
   SearchFilter,
   RootType,
   VocabCategory,
   RootExample,
   PaginationParams,
-  PaginatedResult
+  PaginatedResult,
 } from '@/types';
 ```
 
@@ -472,7 +480,7 @@ interface VocabWord {
 #### SearchItem
 
 ```typescript
-interface SearchItem = 
+interface SearchItem =
   | { kind: 'root'; id: string; title: string; subtitle: string; href: string }
   | { kind: 'word'; id: string; title: string; subtitle: string; href: string };
 ```
@@ -641,11 +649,11 @@ const totalItems = totalRoots + totalWords;
 function useSearchWithPagination() {
   const search = useSearch();
   const pagination = usePagination(search.resultCount, 10);
-  
+
   const paginatedResults = useMemo(() => {
     return paginateItems(search.results, pagination.currentPage, 10);
   }, [search.results, pagination.currentPage]);
-  
+
   return {
     ...search,
     ...pagination,
@@ -661,7 +669,7 @@ function useSearchWithPagination() {
 function processVocabularyData(words: VocabWord[]) {
   const sorted = sortWordsByCategory(words);
   const grouped = groupWordsByCategory(sorted);
-  
+
   return Object.entries(grouped).map(([category, items]) => ({
     category,
     count: items.length,
@@ -704,12 +712,12 @@ class DataAPI {
     const response = await fetch(`/api/roots/${language}`);
     return response.json();
   }
-  
+
   static async getVocabulary(language: string): Promise<VocabWord[]> {
     const response = await fetch(`/api/vocabulary/${language}`);
     return response.json();
   }
-  
+
   static async search(query: string, filters?: SearchFilters): Promise<SearchItem[]> {
     const params = new URLSearchParams({ query, ...filters });
     const response = await fetch(`/api/search?${params}`);
@@ -726,21 +734,21 @@ function useRoots(language: string) {
   const [roots, setRoots] = useState<WordRoot[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<Error | null>(null);
-  
+
   useEffect(() => {
     DataAPI.getRoots(language)
       .then(setRoots)
       .catch(setError)
       .finally(() => setLoading(false));
   }, [language]);
-  
+
   return { roots, loading, error };
 }
 
 function useRealtimeSearch() {
   const [results, setResults] = useState<SearchItem[]>([]);
   const [loading, setLoading] = useState(false);
-  
+
   const search = useCallback(async (query: string) => {
     setLoading(true);
     try {
@@ -752,7 +760,7 @@ function useRealtimeSearch() {
       setLoading(false);
     }
   }, []);
-  
+
   return { results, loading, search };
 }
 ```

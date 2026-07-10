@@ -15,6 +15,7 @@ Welcome to the documentation for LexiCore - Word Roots & Core Vocabulary Platfor
 ## 🚀 Quick Start
 
 1. **Setup Development Environment**
+
    ```bash
    npm install
    npm run dev
@@ -39,6 +40,7 @@ Welcome to the documentation for LexiCore - Word Roots & Core Vocabulary Platfor
 ## 🏗️ Architecture Highlights
 
 ### Modern Structure
+
 - **Vite + React**: Fast development with Vite 6 and React 19
 - **React Router**: Client-side routing with React Router v6
 - **Component Organization**: ui/shared/features separation
@@ -47,6 +49,7 @@ Welcome to the documentation for LexiCore - Word Roots & Core Vocabulary Platfor
 - **Type Safety**: Comprehensive TypeScript coverage
 
 ### Key Directories
+
 ```
 src/
 ├── constants/     # App configuration
@@ -83,6 +86,7 @@ Each documentation file covers specific aspects:
 ## 🔮 Future Expansion
 
 The architecture is designed for:
+
 - Multi-language support
 - Backend integration
 - Advanced features (quizzes, progress tracking)
@@ -92,6 +96,7 @@ The architecture is designed for:
 ## 📞 Support
 
 For questions or issues:
+
 1. Check the relevant documentation
 2. Review the component examples
 3. Examine the data structures

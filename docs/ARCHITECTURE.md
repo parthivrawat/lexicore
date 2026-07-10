@@ -20,6 +20,7 @@ This document outlines the complete architecture of LexiCore - Word Roots & Core
 The platform is built as a **frontend-only MVP** using Vite 6 and React 19 with React Router v6, designed to be easily scalable to a full-stack application.
 
 ### Core Principles
+
 - **Frontend-First**: Static data, no backend dependencies
 - **Component-Based**: Reusable, composable components
 - **Type-Safe**: Comprehensive TypeScript coverage
@@ -76,6 +77,7 @@ The platform is built as a **frontend-only MVP** using Vite 6 and React 19 with 
 ### Component Categories
 
 #### 1. UI Components (`src/components/ui/`)
+
 Basic, reusable components with no business logic.
 
 ```typescript
@@ -88,6 +90,7 @@ export interface ButtonProps {
 ```
 
 #### 2. Shared Components (`src/components/shared/`)
+
 Layout and structural components used across the application.
 
 ```typescript
@@ -98,6 +101,7 @@ export function AppShell({ children }: PropsWithChildren) {
 ```
 
 #### 3. Feature Components (`src/components/features/`)
+
 Domain-specific components that encapsulate business logic.
 
 ```typescript
@@ -128,7 +132,7 @@ export function usePagination(totalItems: number, itemsPerPage: number) {
   return { currentPage, totalPages, setPage, ... };
 }
 
-// useSearch Hook  
+// useSearch Hook
 export function useSearch() {
   // Search state and filtering logic
   return { query, filter, results, handleQueryChange, ... };
@@ -185,9 +189,9 @@ const pagination = usePagination(rootsEn.length, 20);
 
 ```typescript
 // src/types/index.ts - Centralized type definitions
-export type WordRoot = { /* ... */ };
-export type VocabWord = { /* ... */ };
-export type SearchItem = { /* ... */ };
+export type WordRoot = {/* ... */};
+export type VocabWord = {/* ... */};
+export type SearchItem = {/* ... */};
 ```
 
 ### Type Safety Features
@@ -202,9 +206,8 @@ export type SearchItem = { /* ... */ };
 
 ```typescript
 // Discriminated unions
-export type SearchItem = 
-  | { kind: 'root'; id: string; /* ... */ }
-  | { kind: 'word'; id: string; /* ... */ };
+export type SearchItem =
+  { kind: 'root'; id: string /* ... */ } | { kind: 'word'; id: string /* ... */ };
 
 // Generic components
 export function Card<T extends { id: string }>({ item }: CardProps<T>) {
@@ -342,12 +345,14 @@ export function useRoots(language: string) {
 ## 📊 Architecture Metrics
 
 ### Code Quality
+
 - **TypeScript Coverage**: 100%
 - **Test Coverage**: Target 90%+
 - **Bundle Size**: < 500KB gzipped
 - **Performance**: Lighthouse 90+
 
 ### Maintainability
+
 - **Cyclomatic Complexity**: < 10 per function
 - **File Length**: < 200 lines
 - **Component Props**: < 10 properties

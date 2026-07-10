@@ -83,17 +83,20 @@ npm run build
 ### Daily Workflow
 
 1. **Update Dependencies**
+
    ```bash
    git pull origin main
    npm install
    ```
 
 2. **Start Development**
+
    ```bash
    npm run dev
    ```
 
 3. **Create Feature Branch**
+
    ```bash
    git checkout -b feature/your-feature-name
    ```
@@ -104,6 +107,7 @@ npm run build
    - Update documentation
 
 5. **Test Changes**
+
    ```bash
    npm run test
    npm run lint
@@ -111,6 +115,7 @@ npm run build
    ```
 
 6. **Commit Changes**
+
    ```bash
    git add .
    git commit -m "feat: add new feature"
@@ -132,7 +137,7 @@ npm run preview      # Preview production build
 # Code Quality
 npm run lint         # Run ESLint
 
-# Testing (future)
+# Testing
 npm run test         # Run tests
 npm run test:watch   # Run tests in watch mode
 npm run test:coverage # Run tests with coverage
@@ -182,20 +187,12 @@ interface Props {
 
 ```typescript
 // ✅ Good: Proper generic usage
-export function PaginatedList<T>({
-  items,
-  itemsPerPage,
-  renderItem,
-}: PaginatedListProps<T>) {
+export function PaginatedList<T>({ items, itemsPerPage, renderItem }: PaginatedListProps<T>) {
   // Implementation
 }
 
 // ❌ Bad: Any type
-export function PaginatedList({
-  items,
-  itemsPerPage,
-  renderItem,
-}: PaginatedListProps<any>) {
+export function PaginatedList({ items, itemsPerPage, renderItem }: PaginatedListProps<any>) {
   // Implementation
 }
 ```
@@ -374,23 +371,23 @@ import type { SearchItem } from '@/types';
 
 ```typescript
 // ✅ Good: PascalCase for components
-RootCard.tsx
-AppShell.tsx
-SearchFilters.tsx
+RootCard.tsx;
+AppShell.tsx;
+SearchFilters.tsx;
 
 // ✅ Good: camelCase for utilities
-formatCategory.ts
-usePagination.ts
-search.ts
+formatCategory.ts;
+usePagination.ts;
+search.ts;
 
 // ✅ Good: kebab-case for documentation
-development-guide.md
-component-library.md
+development - guide.md;
+component - library.md;
 
 // ❌ Bad: Inconsistent naming
-rootCard.tsx
-appshell.tsx
-Search_Filters.tsx
+rootCard.tsx;
+appshell.tsx;
+Search_Filters.tsx;
 ```
 
 ## 🧪 Testing
@@ -398,28 +395,23 @@ Search_Filters.tsx
 ### Unit Testing
 
 ```typescript
-// __tests__/components/Button.test.tsx
+// src/components/ui/Button.test.tsx
+import { describe, it, expect, vi } from 'vitest';
 import { render, screen, fireEvent } from '@testing-library/react';
-import { Button } from '@/components/ui/Button';
+import { Button } from './Button';
 
 describe('Button', () => {
   it('renders with correct text', () => {
     render(<Button>Click me</Button>);
-    expect(screen.getByRole('button', { name: 'Click me' })).toBeInTheDocument();
+    expect(screen.getByRole('button', { name: /click me/i })).toBeInTheDocument();
   });
 
   it('calls onClick handler when clicked', () => {
-    const handleClick = jest.fn();
+    const handleClick = vi.fn();
     render(<Button onClick={handleClick}>Click me</Button>);
-    
+
     fireEvent.click(screen.getByRole('button'));
     expect(handleClick).toHaveBeenCalledTimes(1);
-  });
-
-  it('applies correct variant classes', () => {
-    render(<Button variant="primary">Submit</Button>);
-    const button = screen.getByRole('button');
-    expect(button).toHaveClass('bg-gray-900', 'text-white');
   });
 
   it('is disabled when disabled prop is true', () => {
@@ -427,42 +419,64 @@ describe('Button', () => {
     const button = screen.getByRole('button');
     expect(button).toBeDisabled();
   });
+
+  it('is disabled and shows a spinner when loading', () => {
+    render(<Button loading>Loading</Button>);
+
+    const button = screen.getByRole('button');
+    expect(button).toBeDisabled();
+    expect(button.querySelector('svg')).toBeInTheDocument();
+  });
 });
 ```
 
 ### Hook Testing
 
 ```typescript
-// __tests__/hooks/useSearch.test.ts
+// src/hooks/useSearch.test.ts
+import React from 'react';
+import { describe, it, expect, beforeEach } from 'vitest';
 import { renderHook, act } from '@testing-library/react';
-import { useSearch } from '@/hooks/useSearch';
+import { SettingsProvider } from '@/contexts/SettingsContext';
+import { useSearch } from './useSearch';
+
+type Item = { id: string; word: string };
+
+const data: Item[] = [
+  { id: '1', word: 'hello' },
+  { id: '2', word: 'world' },
+  { id: '3', word: 'help' },
+];
+
+const relevanceCalculator = (item: Item, term: string) =>
+  item.word.toLowerCase().startsWith(term.toLowerCase()) ? 10 : 0;
+
+function wrapper({ children }: { children: React.ReactNode }) {
+  return React.createElement(SettingsProvider, null, children);
+}
 
 describe('useSearch', () => {
-  it('initializes with empty query', () => {
-    const { result } = renderHook(() => useSearch());
+  beforeEach(() => {
+    localStorage.clear();
+  });
+
+  it('initializes with an empty query and no results', () => {
+    const { result } = renderHook(() => useSearch({ data, relevanceCalculator }), { wrapper });
+
     expect(result.current.query).toBe('');
     expect(result.current.results).toEqual([]);
+    expect(result.current.hasQuery).toBe(false);
   });
 
-  it('updates query when handleQueryChange is called', () => {
-    const { result } = renderHook(() => useSearch());
-    
-    act(() => {
-      result.current.handleQueryChange('test query');
-    });
-    
-    expect(result.current.query).toBe('test query');
-  });
+  it('updates query and filters results when query meets the minimum length', () => {
+    const { result } = renderHook(() => useSearch({ data, relevanceCalculator }), { wrapper });
 
-  it('filters results by type', () => {
-    const { result } = renderHook(() => useSearch());
-    
     act(() => {
-      result.current.handleQueryChange('bio');
-      result.current.handleFilterChange('root');
+      result.current.handleQueryChange('hel');
     });
-    
-    expect(result.current.results.every(item => item.kind === 'root')).toBe(true);
+
+    expect(result.current.query).toBe('hel');
+    expect(result.current.results).toHaveLength(2);
   });
 });
 ```
@@ -470,18 +484,27 @@ describe('useSearch', () => {
 ### Utility Testing
 
 ```typescript
-// __tests__/utils/format.test.ts
-import { formatCategory, formatPronunciation } from '@/utils/format';
+// src/utils/format.test.ts
+import { describe, it, expect } from 'vitest';
+import { formatCategory, formatPronunciation, formatCategorySlug, truncateText } from './format';
 
 describe('format utilities', () => {
   it('formats category correctly', () => {
-    expect(formatCategory('greetings')).toBe('Greetings');
-    expect(formatCategory('daily-use-nouns')).toBe('Daily Use Nouns');
+    expect(formatCategory('greetings', 'en')).toBe('Greetings');
+    expect(formatCategory('greetings', 'fr')).toBe('Salutations');
+  });
+
+  it('formats category slug correctly', () => {
+    expect(formatCategorySlug('daily-use-nouns')).toBe('Daily Use Nouns');
   });
 
   it('formats pronunciation correctly', () => {
     expect(formatPronunciation('həˈloʊ')).toBe('/həˈloʊ/');
     expect(formatPronunciation(undefined)).toBe('');
+  });
+
+  it('truncates long text with ellipsis', () => {
+    expect(truncateText('hello world', 10)).toBe('hello w...');
   });
 });
 ```
@@ -543,9 +566,9 @@ export function PerformanceMonitor({ children }: { children: React.ReactNode }) 
         console.log('Performance entry:', entry);
       }
     });
-    
+
     observer.observe({ entryTypes: ['measure', 'navigation'] });
-    
+
     return () => observer.disconnect();
   }, []);
 
@@ -663,21 +686,25 @@ test: add integration tests for search functionality
 
 ```markdown
 ## Description
+
 Brief description of changes made.
 
 ## Type of Change
+
 - [ ] Bug fix
 - [ ] New feature
 - [ ] Breaking change
 - [ ] Documentation update
 
 ## Testing
+
 - [ ] Unit tests pass
 - [ ] Integration tests pass
 - [ ] Manual testing completed
 - [ ] Performance tested
 
 ## Checklist
+
 - [ ] Code follows project style guidelines
 - [ ] Self-review completed
 - [ ] Documentation updated

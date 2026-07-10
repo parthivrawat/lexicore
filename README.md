@@ -31,6 +31,7 @@ This project follows modern React + Vite best practices with a clear separation 
 - **`index.html`**: Vite entry point
 
 ### Key Features
+
 - **200+ English Word Roots**: Prefixes, suffixes, and base roots with examples and relationships
 - **200+ Core Vocabulary Words**: Greetings, numbers, verbs, and daily-use nouns with IPA pronunciation
 - **Etymology Support**: Historical origin, evolution timeline, cognates, and root composition for vocabulary words
@@ -44,7 +45,8 @@ This project follows modern React + Vite best practices with a clear separation 
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Node.js 18+ 
+
+- Node.js 18+
 - npm or yarn
 
 ### Installation
@@ -126,6 +128,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 ## 📊 Data Coverage
 
 ### Word Roots (200+ entries)
+
 - **Prefixes**: Greek and Latin prefixes (a-, anti-, auto-, bene-, etc.)
 - **Suffixes**: Common English suffixes (-able, -tion, -ment, etc.)
 - **Base Roots**: Fundamental roots (act, bio, graph, etc.)
@@ -133,6 +136,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 - **Relationships**: Connected roots for deeper understanding
 
 ### Core Vocabulary (200+ words)
+
 - **Greetings**: Common greetings and farewells
 - **Numbers**: Cardinal and ordinal numbers
 - **Verbs**: Essential action words
@@ -143,6 +147,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 ## 🎯 MVP Scope
 
 ### Current Features (English Only)
+
 - ✅ Comprehensive English roots database
 - ✅ Core vocabulary with categories
 - ✅ Pagination for performance
@@ -153,6 +158,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 - ✅ Comprehensive documentation
 
 ### Future Expansion
+
 - 🔄 Multi-language support (Hindi, Spanish, French, German)
 - 🔄 Audio pronunciation
 - 🔄 Interactive quizzes and flashcards
@@ -175,12 +181,14 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 ### Adding New Languages
 
 1. Create new data files:
+
    ```typescript
    // src/data/roots/[language].ts
    // src/data/vocabulary/[language].ts
    ```
 
 2. Update barrel exports:
+
    ```typescript
    // src/data/roots/index.ts
    export { roots[Lang] } from './[language]';
@@ -214,15 +222,19 @@ import { useSearch } from '@/hooks/useSearch';
 ## 📦 Build & Deployment
 
 ### Production Build
+
 ```bash
 npm run build
 ```
+
 Generates optimized static files in `dist/` directory.
 
 ### Preview Build
+
 ```bash
 npm run preview
 ```
+
 Preview the production build locally.
 
 ### Deployment Options
@@ -279,6 +291,7 @@ This project is licensed under the MIT License.
 ## 🔮 Roadmap
 
 ### Phase 1: MVP Enhancement (Current)
+
 - [x] Comprehensive English datasets
 - [x] Pagination and search
 - [x] Responsive design
@@ -287,17 +300,20 @@ This project is licensed under the MIT License.
 - [x] Comprehensive documentation
 
 ### Phase 2: Multi-language Support
+
 - [ ] Hindi vocabulary and roots
 - [ ] Language switching
 - [ ] RTL language support
 
 ### Phase 3: Interactive Features
+
 - [ ] Audio pronunciation
 - [ ] Quiz system
 - [ ] Progress tracking
 - [ ] Spaced repetition
 
 ### Phase 4: Full-stack Integration
+
 - [ ] Backend API
 - [ ] User accounts
 - [ ] Progress persistence

@@ -33,13 +33,13 @@ Represents a word root with examples and relationships.
 
 ```typescript
 interface WordRoot {
-  id: string;                    // Unique identifier
-  root: string;                  // The root word (e.g., "bio")
-  type: RootType;               // Type: 'prefix' | 'suffix' | 'base'
-  languageOrigin: string;        // Language of origin (e.g., "Greek")
-  meaning: string;               // Meaning of the root
-  examples: RootExample[];      // Usage examples
-  relatedRootIds: string[];      // Related root IDs
+  id: string; // Unique identifier
+  root: string; // The root word (e.g., "bio")
+  type: RootType; // Type: 'prefix' | 'suffix' | 'base'
+  languageOrigin: string; // Language of origin (e.g., "Greek")
+  meaning: string; // Meaning of the root
+  examples: RootExample[]; // Usage examples
+  relatedRootIds: string[]; // Related root IDs
 }
 ```
 
@@ -47,9 +47,9 @@ interface WordRoot {
 
 ```typescript
 interface RootExample {
-  word: string;      // Example word using the root
-  meaning: string;   // Meaning of the example word
-  sentence: string;  // Sentence using the example word
+  word: string; // Example word using the root
+  meaning: string; // Meaning of the example word
+  sentence: string; // Sentence using the example word
 }
 ```
 
@@ -65,21 +65,22 @@ Represents a vocabulary word with pronunciation, examples, and optional etymolog
 
 ```typescript
 interface VocabWord {
-  id: string;                    // Unique identifier
-  word: string;                  // The vocabulary word
-  meaning: string;               // Meaning of the word
-  pronunciationIpa?: string;     // IPA pronunciation (legacy)
-  pronunciationVariants?: PronunciationVariant[];  // Multi-accent support
-  category: VocabCategory;      // Word category
-  examples: string[];            // Usage examples
-  etymology?: Etymology;        // Etymological information (optional)
+  id: string; // Unique identifier
+  word: string; // The vocabulary word
+  meaning: string; // Meaning of the word
+  pronunciationIpa?: string; // IPA pronunciation (legacy)
+  pronunciationVariants?: PronunciationVariant[]; // Multi-accent support
+  category: VocabCategory; // Word category
+  examples: string[]; // Usage examples
+  etymology?: Etymology; // Etymological information (optional)
 }
 ```
 
 #### VocabCategory
 
 ```typescript
-type VocabCategory = 'greetings' | 'numbers' | 'verbs' | 'daily-use-nouns' | 'adjectives' | 'adverbs' | 'prepositions';
+type VocabCategory =
+  'greetings' | 'numbers' | 'verbs' | 'daily-use-nouns' | 'adjectives' | 'adverbs' | 'prepositions';
 ```
 
 ### Etymology Model
@@ -88,12 +89,12 @@ Represents the etymological history of a vocabulary word.
 
 ```typescript
 interface Etymology {
-  languageOrigin: string;              // Primary origin language (e.g., "Latin", "Greek")
-  yearOfOrigin?: string;              // Approximate origin (e.g., "c. 12th century")
-  rootComposition?: WordRootComposition[];  // Constituent roots
-  timeline: EtymologyStage[];          // Evolution path (required)
-  cognates?: CognateWord[];           // Related words in other languages
-  notes?: string;                     // Additional etymological notes
+  languageOrigin: string; // Primary origin language (e.g., "Latin", "Greek")
+  yearOfOrigin?: string; // Approximate origin (e.g., "c. 12th century")
+  rootComposition?: WordRootComposition[]; // Constituent roots
+  timeline: EtymologyStage[]; // Evolution path (required)
+  cognates?: CognateWord[]; // Related words in other languages
+  notes?: string; // Additional etymological notes
 }
 ```
 
@@ -103,10 +104,10 @@ Represents a stage in the word's evolution.
 
 ```typescript
 interface EtymologyStage {
-  language: string;                   // Language at this stage (e.g., "Latin", "Old French")
-  form: string;                       // The word form at this stage
-  period?: string;                    // Time period (e.g., "12th century", "c. 1150")
-  meaning?: string;                   // Meaning at this stage
+  language: string; // Language at this stage (e.g., "Latin", "Old French")
+  form: string; // The word form at this stage
+  period?: string; // Time period (e.g., "12th century", "c. 1150")
+  meaning?: string; // Meaning at this stage
 }
 ```
 
@@ -116,9 +117,9 @@ Links a vocabulary word to its constituent word roots.
 
 ```typescript
 interface WordRootComposition {
-  rootId: string;                     // Reference to WordRoot.id
+  rootId: string; // Reference to WordRoot.id
   position: 'prefix' | 'suffix' | 'base';
-  contribution: string;               // How this root contributes to meaning
+  contribution: string; // How this root contributes to meaning
 }
 ```
 
@@ -128,9 +129,9 @@ Represents a related word in another language with shared origin.
 
 ```typescript
 interface CognateWord {
-  language: string;                   // Language of cognate (e.g., "Spanish", "German")
-  word: string;                       // The cognate word
-  meaning: string;                    // Meaning in that language
+  language: string; // Language of cognate (e.g., "Spanish", "German")
+  word: string; // The cognate word
+  meaning: string; // Meaning in that language
 }
 ```
 
@@ -140,11 +141,11 @@ Represents a search result item.
 
 ```typescript
 interface SearchItem {
-  kind: 'root' | 'word';        // Type of search result
-  id: string;                    // Unique identifier
-  title: string;                 // Display title
-  subtitle: string;              // Display subtitle
-  href: string;                  // Navigation link
+  kind: 'root' | 'word'; // Type of search result
+  id: string; // Unique identifier
+  title: string; // Display title
+  subtitle: string; // Display subtitle
+  href: string; // Navigation link
 }
 ```
 
@@ -246,11 +247,11 @@ export const rootsEn: WordRoot[] = [
       {
         word: 'biology',
         meaning: 'study of living organisms',
-        sentence: 'Biology is the study of life and living organisms.'
+        sentence: 'Biology is the study of life and living organisms.',
       },
       // ... more examples
     ],
-    relatedRootIds: ['logos-study', 'zoon-animal']
+    relatedRootIds: ['logos-study', 'zoon-animal'],
   },
   // ... more roots
 ];
@@ -271,8 +272,8 @@ export const vocabularyEn: VocabWord[] = [
     examples: [
       'Hello, how are you today?',
       'She said hello to her neighbors.',
-      'Hello! Welcome to our store.'
-    ]
+      'Hello! Welcome to our store.',
+    ],
   },
   // ... more words
 ];
@@ -288,16 +289,26 @@ export const etymologyData: Record<string, Etymology> = {
     languageOrigin: 'Middle English',
     yearOfOrigin: 'c. 14th century',
     timeline: [
-      { language: 'Old High German', form: 'halā', period: 'Before 12th century', meaning: 'fetch, used as a greeting' },
-      { language: 'Middle English', form: 'hyllo, hallo', period: '14th century', meaning: 'greeting' },
-      { language: 'Modern English', form: 'hello', period: '19th century', meaning: 'greeting' }
+      {
+        language: 'Old High German',
+        form: 'halā',
+        period: 'Before 12th century',
+        meaning: 'fetch, used as a greeting',
+      },
+      {
+        language: 'Middle English',
+        form: 'hyllo, hallo',
+        period: '14th century',
+        meaning: 'greeting',
+      },
+      { language: 'Modern English', form: 'hello', period: '19th century', meaning: 'greeting' },
     ],
     cognates: [
       { language: 'German', word: 'hallo', meaning: 'hello' },
       { language: 'French', word: 'allo', meaning: 'hello (on phone)' },
-      { language: 'Spanish', word: 'hola', meaning: 'hello' }
+      { language: 'Spanish', word: 'hola', meaning: 'hello' },
     ],
-    notes: 'Popularized by Thomas Edison when he used it to answer the telephone.'
+    notes: 'Popularized by Thomas Edison when he used it to answer the telephone.',
   },
   // ... more etymology entries
 };
@@ -340,7 +351,7 @@ import { rootsEn, vocabularyEn } from '@/data';
 function RootsPage() {
   // Direct data access
   const roots = rootsEn;
-  
+
   return (
     <div>
       {roots.map(root => (
@@ -357,14 +368,17 @@ function RootsPage() {
 // src/utils/data.ts
 
 export function groupWordsByCategory(words: VocabWord[]): Record<string, VocabWord[]> {
-  return words.reduce((acc, word) => {
-    const category = word.category;
-    if (!acc[category]) {
-      acc[category] = [];
-    }
-    acc[category].push(word);
-    return acc;
-  }, {} as Record<string, VocabWord[]>);
+  return words.reduce(
+    (acc, word) => {
+      const category = word.category;
+      if (!acc[category]) {
+        acc[category] = [];
+      }
+      acc[category].push(word);
+      return acc;
+    },
+    {} as Record<string, VocabWord[]>
+  );
 }
 
 export function findRelatedRoots(root: WordRoot, allRoots: WordRoot[]): WordRoot[] {
@@ -374,7 +388,9 @@ export function findRelatedRoots(root: WordRoot, allRoots: WordRoot[]): WordRoot
 }
 
 // Etymology integration for vocabulary
-export function getVocabularyData(learningLanguage: 'english' | 'french' | 'spanish' | 'latin' | 'greek'): VocabWord[] {
+export function getVocabularyData(
+  learningLanguage: 'english' | 'french' | 'spanish' | 'latin' | 'greek'
+): VocabWord[] {
   let vocabulary: VocabWord[];
   switch (learningLanguage) {
     case 'french':
@@ -392,7 +408,7 @@ export function getVocabularyData(learningLanguage: 'english' | 'french' | 'span
   if (learningLanguage === 'english') {
     return vocabulary.map(word => ({
       ...word,
-      etymology: etymologyData[word.id]
+      etymology: etymologyData[word.id],
     }));
   }
 
@@ -413,11 +429,11 @@ export function searchAll(queryRaw: string): SearchItem[] {
 
   // Search roots
   const rootMatches: SearchItem[] = rootsEn
-    .filter((r) => {
+    .filter(r => {
       const haystack = `${r.root} ${r.meaning} ${r.languageOrigin}`.toLowerCase();
       return haystack.includes(query);
     })
-    .map((r) => ({
+    .map(r => ({
       kind: 'root',
       id: r.id,
       title: r.root,
@@ -427,11 +443,11 @@ export function searchAll(queryRaw: string): SearchItem[] {
 
   // Search vocabulary
   const wordMatches: SearchItem[] = vocabularyEn
-    .filter((w) => {
+    .filter(w => {
       const haystack = `${w.word} ${w.meaning} ${w.category}`.toLowerCase();
       return haystack.includes(query);
     })
-    .map((w) => ({
+    .map(w => ({
       kind: 'word',
       id: w.id,
       title: w.word,
@@ -463,9 +479,9 @@ export function useSearch() {
 
   const results = useMemo(() => {
     if (!query.trim()) return [];
-    
+
     const allResults = searchAll(query);
-    
+
     if (filter === 'all') return allResults;
     return allResults.filter(item => item.kind === filter);
   }, [query, filter]);
@@ -477,7 +493,10 @@ export function useSearch() {
     resultCount: results.length,
     handleQueryChange: setQuery,
     handleFilterChange: setFilter,
-    clearSearch: () => { setQuery(''); setFilter('all'); },
+    clearSearch: () => {
+      setQuery('');
+      setFilter('all');
+    },
     hasQuery: query.trim().length > 0,
   };
 }
@@ -543,7 +562,7 @@ export const DATA_STATS = {
       prefixes: 80,
       suffixes: 60,
       bases: 60,
-    }
+    },
   },
   vocabulary: {
     english: {
@@ -552,8 +571,8 @@ export const DATA_STATS = {
       numbers: 40,
       verbs: 70,
       'daily-use-nouns': 60,
-    }
-  }
+    },
+  },
 } as const;
 ```
 
@@ -588,7 +607,9 @@ export function useRoots(language: string) {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    DataAPI.getRoots(language).then(setRoots).finally(() => setLoading(false));
+    DataAPI.getRoots(language)
+      .then(setRoots)
+      .finally(() => setLoading(false));
   }, [language]);
 
   return { roots, loading };
@@ -622,7 +643,7 @@ export function useRealtimeRoots() {
   const [roots, setRoots] = useState<WordRoot[]>([]);
 
   useEffect(() => {
-    const subscription = subscribeToRoots((newRoots) => {
+    const subscription = subscribeToRoots(newRoots => {
       setRoots(newRoots);
     });
 

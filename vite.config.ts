@@ -1,8 +1,8 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
-import path from 'path'
-import viteCompression from 'vite-plugin-compression'
-import { visualizer } from 'rollup-plugin-visualizer'
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react';
+import path from 'path';
+import viteCompression from 'vite-plugin-compression';
+import { visualizer } from 'rollup-plugin-visualizer';
 
 export default defineConfig({
   plugins: [
@@ -38,7 +38,8 @@ export default defineConfig({
     outDir: 'dist',
     minify: 'esbuild',
     cssMinify: true,
-    target: 'es2015',
+    target: 'es2022',
+    sourcemap: true,
     rollupOptions: {
       output: {
         manualChunks(id) {
@@ -48,14 +49,11 @@ export default defineConfig({
             }
             return 'vendor';
           }
-          if (id.includes('/data/roots/')) {
-            return 'data-roots';
-          }
-          if (id.includes('/data/vocabulary/')) {
-            return 'data-vocabulary';
-          }
-          if (id.includes('/data/etymology/')) {
-            return 'data-etymology';
+          const dataMatch = /\/data\/(roots|vocabulary|etymology)\/([^/]+)/.exec(id);
+          if (dataMatch) {
+            const [, type, filename] = dataMatch;
+            const language = filename.replace(/\.[^.]+$/, '');
+            return `data-${type}-${language}`;
           }
         },
         chunkFileNames: 'assets/[name]-[hash].js',
@@ -64,6 +62,5 @@ export default defineConfig({
       },
     },
     chunkSizeWarningLimit: 1000,
-    sourcemap: false,
   },
-})
+});

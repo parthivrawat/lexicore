@@ -103,7 +103,15 @@ const config: Config = {
         ring: '#0ea5e9',
       },
       fontFamily: {
-        sans: ['Inter', 'system-ui', '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'sans-serif'],
+        sans: [
+          'Inter',
+          'system-ui',
+          '-apple-system',
+          'BlinkMacSystemFont',
+          'Segoe UI',
+          'Roboto',
+          'sans-serif',
+        ],
         mono: ['JetBrains Mono', 'Fira Code', 'Consolas', 'Monaco', 'monospace'],
       },
       fontSize: {
@@ -163,10 +171,10 @@ const config: Config = {
         '5xl': '2.5rem',
       },
       boxShadow: {
-        'soft': '0 2px 15px -3px rgba(0, 0, 0, 0.07), 0 10px 20px -2px rgba(0, 0, 0, 0.04)',
-        'medium': '0 4px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04)',
-        'strong': '0 10px 40px -10px rgba(0, 0, 0, 0.15), 0 4px 25px -5px rgba(0, 0, 0, 0.1)',
-        'glow': '0 0 20px rgba(59, 130, 246, 0.15)',
+        soft: '0 2px 15px -3px rgba(0, 0, 0, 0.07), 0 10px 20px -2px rgba(0, 0, 0, 0.04)',
+        medium: '0 4px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04)',
+        strong: '0 10px 40px -10px rgba(0, 0, 0, 0.15), 0 4px 25px -5px rgba(0, 0, 0, 0.1)',
+        glow: '0 0 20px rgba(59, 130, 246, 0.15)',
         'glow-accent': '0 0 20px rgba(217, 70, 239, 0.15)',
       },
       animation: {

@@ -9,7 +9,15 @@ export const PAGINATION = {
   itemsPerPage: 20,
 } as const;
 
-export const CATEGORY_ORDER = ['greetings', 'numbers', 'verbs', 'daily-use-nouns', 'adjectives', 'adverbs', 'prepositions'] as const;
+export const CATEGORY_ORDER = [
+  'greetings',
+  'numbers',
+  'verbs',
+  'daily-use-nouns',
+  'adjectives',
+  'adverbs',
+  'prepositions',
+] as const;
 
 export const CATEGORIES = {
   greetings: {
@@ -26,7 +34,7 @@ export const CATEGORIES = {
   },
   'daily-use-nouns': {
     en: 'Daily Use Nouns',
-    fr: 'Noms d\'usage quotidien',
+    fr: "Noms d'usage quotidien",
   },
   adjectives: {
     en: 'Adjectives',
@@ -68,6 +76,9 @@ export const ACCENT_NAMES = {
   quebecois: { en: 'Québécois', fr: 'Québécois' },
   belgian: { en: 'Belgian', fr: 'Belge' },
   swiss: { en: 'Swiss', fr: 'Suisse' },
+  spanish: { en: 'Spanish', fr: 'Espagnol' },
+  latin: { en: 'Latin', fr: 'Latin' },
+  greek: { en: 'Greek', fr: 'Grec' },
 } as const;
 
 export const ACCENT_FLAGS = {
@@ -81,6 +92,9 @@ export const ACCENT_FLAGS = {
   quebecois: '🇨🇦',
   belgian: '🇧🇪',
   swiss: '🇨🇭',
+  spanish: '🇪🇸',
+  latin: '🏛️',
+  greek: '🇬🇷',
 } as const;
 
 export const ACCENT_LANGUAGE_CODES = {
@@ -94,6 +108,9 @@ export const ACCENT_LANGUAGE_CODES = {
   quebecois: 'fr-CA',
   belgian: 'fr-BE',
   swiss: 'fr-CH',
+  spanish: 'es-ES',
+  latin: 'la',
+  greek: 'el-GR',
 } as const;
 
 export const TTS_CONFIG = {

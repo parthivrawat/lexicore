@@ -1,224 +1,532 @@
 import { VocabWord } from '@/types';
 
 export const prepositions: VocabWord[] = [
-  { id: 'word_in', word: 'in', meaning: 'inside/within', pronunciationVariants: [
-    { accent: 'american', ipa: 'ɪn' },
-    { accent: 'british', ipa: 'ɪn' },
-    { accent: 'australian', ipa: 'ɪn' }
-  ], category: 'prepositions', examples: ['In the room.', 'In 2024.'] },
-  { id: 'word_on', word: 'on', meaning: 'upon/atop', pronunciationVariants: [
-    { accent: 'american', ipa: 'ɑːn' },
-    { accent: 'british', ipa: 'ɒn' },
-    { accent: 'australian', ipa: 'ɒn' }
-  ], category: 'prepositions', examples: ['On the table.', 'On Monday.'] },
-  { id: 'word_at', word: 'at', meaning: 'location/time', pronunciationVariants: [
-    { accent: 'american', ipa: 'æt' },
-    { accent: 'british', ipa: 'æt' },
-    { accent: 'australian', ipa: 'æt' }
-  ], category: 'prepositions', examples: ['At home.', 'At 5 PM.'] },
-  { id: 'word_to', word: 'to', meaning: 'toward', pronunciationVariants: [
-    { accent: 'american', ipa: 'tuː' },
-    { accent: 'british', ipa: 'tuː' },
-    { accent: 'australian', ipa: 'tuː' }
-  ], category: 'prepositions', examples: ['Go to school.', 'Give to me.'] },
-  { id: 'word_from', word: 'from', meaning: 'origin', pronunciationVariants: [
-    { accent: 'american', ipa: 'frʌm' },
-    { accent: 'british', ipa: 'frɒm' },
-    { accent: 'australian', ipa: 'frɒm' }
-  ], category: 'prepositions', examples: ['From home.', 'From the start.'] },
-  { id: 'word_with', word: 'with', meaning: 'accompanied by', pronunciationVariants: [
-    { accent: 'american', ipa: 'wɪð' },
-    { accent: 'british', ipa: 'wɪð' },
-    { accent: 'australian', ipa: 'wɪð' }
-  ], category: 'prepositions', examples: ['With friends.', 'With love.'] },
-  { id: 'word_without', word: 'without', meaning: 'lacking', pronunciationVariants: [
-    { accent: 'american', ipa: 'wɪˈðaʊt' },
-    { accent: 'british', ipa: 'wɪˈðaʊt' },
-    { accent: 'australian', ipa: 'wɪˈðaʊt' }
-  ], category: 'prepositions', examples: ['Without help.', 'Without doubt.'] },
-  { id: 'word_by', word: 'by', meaning: 'near/via', pronunciationVariants: [
-    { accent: 'american', ipa: 'baɪ' },
-    { accent: 'british', ipa: 'baɪ' },
-    { accent: 'australian', ipa: 'baɪ' }
-  ], category: 'prepositions', examples: ['By the river.', 'By bus.'] },
-  { id: 'word_for', word: 'for', meaning: 'purpose/duration', pronunciationVariants: [
-    { accent: 'american', ipa: 'fɔːr' },
-    { accent: 'british', ipa: 'fɔː' },
-    { accent: 'australian', ipa: 'fɔː' }
-  ], category: 'prepositions', examples: ['For you.', 'For two hours.'] },
-  { id: 'word_of', word: 'of', meaning: 'belonging to', pronunciationVariants: [
-    { accent: 'american', ipa: 'ʌv' },
-    { accent: 'british', ipa: 'ɒv' },
-    { accent: 'australian', ipa: 'ɒv' }
-  ], category: 'prepositions', examples: ['Cup of tea.', 'Part of it.'] },
-  { id: 'word_about', word: 'about', meaning: 'concerning', pronunciationVariants: [
-    { accent: 'american', ipa: 'əˈbaʊt' },
-    { accent: 'british', ipa: 'əˈbaʊt' },
-    { accent: 'australian', ipa: 'əˈbaʊt' }
-  ], category: 'prepositions', examples: ['About time.', 'Talk about it.'] },
-  { id: 'word_into', word: 'into', meaning: 'entrance', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈɪntuː' },
-    { accent: 'british', ipa: 'ˈɪntuː' },
-    { accent: 'australian', ipa: 'ˈɪntuː' }
-  ], category: 'prepositions', examples: ['Go into the room.', 'Jump into water.'] },
-  { id: 'word_out_of', word: 'out of', meaning: 'exit/lacking', pronunciationVariants: [
-    { accent: 'american', ipa: 'aʊt ʌv' },
-    { accent: 'british', ipa: 'aʊt ɒv' },
-    { accent: 'australian', ipa: 'aʊt ɒv' }
-  ], category: 'prepositions', examples: ['Out of time.', 'Get out of here.'] },
-  { id: 'word_over', word: 'over', meaning: 'above/across', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈoʊvər' },
-    { accent: 'british', ipa: 'ˈəʊvə' },
-    { accent: 'australian', ipa: 'ˈəʊvə' }
-  ], category: 'prepositions', examples: ['Over the bridge.', 'Over there.'] },
-  { id: 'word_under', word: 'under', meaning: 'below', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈʌndər' },
-    { accent: 'british', ipa: 'ˈʌndə' },
-    { accent: 'australian', ipa: 'ˈʌndə' }
-  ], category: 'prepositions', examples: ['Under the table.', 'Under pressure.'] },
-  { id: 'word_above', word: 'above', meaning: 'higher than', pronunciationVariants: [
-    { accent: 'american', ipa: 'əˈbʌv' },
-    { accent: 'british', ipa: 'əˈbʌv' },
-    { accent: 'australian', ipa: 'əˈbʌv' }
-  ], category: 'prepositions', examples: ['Above the clouds.', 'Above average.'] },
-  { id: 'word_below', word: 'below', meaning: 'lower than', pronunciationVariants: [
-    { accent: 'american', ipa: 'bɪˈloʊ' },
-    { accent: 'british', ipa: 'bɪˈləʊ' },
-    { accent: 'australian', ipa: 'bɪˈləʊ' }
-  ], category: 'prepositions', examples: ['Below zero.', 'Below the surface.'] },
-  { id: 'word_between', word: 'between', meaning: 'in the middle', pronunciationVariants: [
-    { accent: 'american', ipa: 'bɪˈtwiːn' },
-    { accent: 'british', ipa: 'bɪˈtwiːn' },
-    { accent: 'australian', ipa: 'bɪˈtwiːn' }
-  ], category: 'prepositions', examples: ['Between us.', 'Between two trees.'] },
-  { id: 'word_among', word: 'among', meaning: 'surrounded by', pronunciationVariants: [
-    { accent: 'american', ipa: 'əˈmʌŋ' },
-    { accent: 'british', ipa: 'əˈmʌŋ' },
-    { accent: 'australian', ipa: 'əˈmʌŋ' }
-  ], category: 'prepositions', examples: ['Among friends.', 'Among the stars.'] },
-  { id: 'word_through', word: 'through', meaning: 'across', pronunciationVariants: [
-    { accent: 'american', ipa: 'θruː' },
-    { accent: 'british', ipa: 'θruː' },
-    { accent: 'australian', ipa: 'θruː' }
-  ], category: 'prepositions', examples: ['Through the door.', 'Through the night.'] },
-  { id: 'word_across', word: 'across', meaning: 'from side to side', pronunciationVariants: [
-    { accent: 'american', ipa: 'əˈkrɔːs' },
-    { accent: 'british', ipa: 'əˈkrɒs' },
-    { accent: 'australian', ipa: 'əˈkrɒs' }
-  ], category: 'prepositions', examples: ['Across the street.', 'Walk across.'] },
-  { id: 'word_around', word: 'around', meaning: 'surrounding', pronunciationVariants: [
-    { accent: 'american', ipa: 'əˈraʊnd' },
-    { accent: 'british', ipa: 'əˈraʊnd' },
-    { accent: 'australian', ipa: 'əˈraʊnd' }
-  ], category: 'prepositions', examples: ['Around the world.', 'Look around.'] },
-  { id: 'word_behind', word: 'behind', meaning: 'at the back', pronunciationVariants: [
-    { accent: 'american', ipa: 'bɪˈhaɪnd' },
-    { accent: 'british', ipa: 'bɪˈhaɪnd' },
-    { accent: 'australian', ipa: 'bɪˈhaɪnd' }
-  ], category: 'prepositions', examples: ['Behind you.', 'Behind the house.'] },
-  { id: 'word_in_front_of', word: 'in front of', meaning: 'ahead', pronunciationVariants: [
-    { accent: 'american', ipa: 'ɪn frʌnt ʌv' },
-    { accent: 'british', ipa: 'ɪn frʌnt ɒv' },
-    { accent: 'australian', ipa: 'ɪn frʌnt ɒv' }
-  ], category: 'prepositions', examples: ['In front of me.', 'In front of the building.'] },
-  { id: 'word_next_to', word: 'next to', meaning: 'beside', pronunciationVariants: [
-    { accent: 'american', ipa: 'nɛkst tuː' },
-    { accent: 'british', ipa: 'nɛkst tuː' },
-    { accent: 'australian', ipa: 'nɛkst tuː' }
-  ], category: 'prepositions', examples: ['Next to me.', 'Sit next to her.'] },
-  { id: 'word_near', word: 'near', meaning: 'close to', pronunciationVariants: [
-    { accent: 'american', ipa: 'nɪr' },
-    { accent: 'british', ipa: 'nɪə' },
-    { accent: 'australian', ipa: 'nɪə' }
-  ], category: 'prepositions', examples: ['Near the river.', 'Stay near.'] },
-  { id: 'word_far', word: 'far', meaning: 'distant', pronunciationVariants: [
-    { accent: 'american', ipa: 'fɑːr' },
-    { accent: 'british', ipa: 'fɑː' },
-    { accent: 'australian', ipa: 'fɑː' }
-  ], category: 'prepositions', examples: ['Far away.', 'Go far.'] },
-  { id: 'word_before', word: 'before', meaning: 'earlier than', pronunciationVariants: [
-    { accent: 'american', ipa: 'bɪˈfɔːr' },
-    { accent: 'british', ipa: 'bɪˈfɔː' },
-    { accent: 'australian', ipa: 'bɪˈfɔː' }
-  ], category: 'prepositions', examples: ['Before dinner.', 'Before you go.'] },
-  { id: 'word_after', word: 'after', meaning: 'later than', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈæftər' },
-    { accent: 'british', ipa: 'ˈɑːftə' },
-    { accent: 'australian', ipa: 'ˈɑːftə' }
-  ], category: 'prepositions', examples: ['After work.', 'After you.'] },
-  { id: 'word_during', word: 'during', meaning: 'throughout', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈdʊrɪŋ' },
-    { accent: 'british', ipa: 'ˈdjʊərɪŋ' },
-    { accent: 'australian', ipa: 'ˈdjʊərɪŋ' }
-  ], category: 'prepositions', examples: ['During the day.', 'During winter.'] },
-  { id: 'word_since', word: 'since', meaning: 'from a point', pronunciationVariants: [
-    { accent: 'american', ipa: 'sɪns' },
-    { accent: 'british', ipa: 'sɪns' },
-    { accent: 'australian', ipa: 'sɪns' }
-  ], category: 'prepositions', examples: ['Since Monday.', 'Since last year.'] },
-  { id: 'word_until', word: 'until', meaning: 'up to a point', pronunciationVariants: [
-    { accent: 'american', ipa: 'ənˈtɪl' },
-    { accent: 'british', ipa: 'ənˈtɪl' },
-    { accent: 'australian', ipa: 'ənˈtɪl' }
-  ], category: 'prepositions', examples: ['Until midnight.', 'Wait until.'] },
-  { id: 'word_beyond', word: 'beyond', meaning: 'past', pronunciationVariants: [
-    { accent: 'american', ipa: 'bɪˈjɑːnd' },
-    { accent: 'british', ipa: 'bɪˈjɒnd' },
-    { accent: 'australian', ipa: 'bɪˈjɒnd' }
-  ], category: 'prepositions', examples: ['Beyond the horizon.', 'Beyond belief.'] },
-  { id: 'word_within', word: 'within', meaning: 'inside limits', pronunciationVariants: [
-    { accent: 'american', ipa: 'wɪˈðɪn' },
-    { accent: 'british', ipa: 'wɪˈðɪn' },
-    { accent: 'australian', ipa: 'wɪˈðɪn' }
-  ], category: 'prepositions', examples: ['Within reach.', 'Within an hour.'] },
-  { id: 'word_without', word: 'without', meaning: 'lacking', pronunciationVariants: [
-    { accent: 'american', ipa: 'wɪˈðaʊt' },
-    { accent: 'british', ipa: 'wɪˈðaʊt' },
-    { accent: 'australian', ipa: 'wɪˈðaʊt' }
-  ], category: 'prepositions', examples: ['Without help.', 'Without doubt.'] },
-  { id: 'word_toward', word: 'toward', meaning: 'in direction of', pronunciationVariants: [
-    { accent: 'american', ipa: 'təˈwɔːrd' },
-    { accent: 'british', ipa: 'təˈwɔːd' },
-    { accent: 'australian', ipa: 'təˈwɔːd' }
-  ], category: 'prepositions', examples: ['Toward the city.', 'Step toward.'] },
-  { id: 'word_against', word: 'against', meaning: 'opposing', pronunciationVariants: [
-    { accent: 'american', ipa: 'əˈɡɛnst' },
-    { accent: 'british', ipa: 'əˈɡenst' },
-    { accent: 'australian', ipa: 'əˈɡenst' }
-  ], category: 'prepositions', examples: ['Against the wall.', 'Play against.'] },
-  { id: 'word_along', word: 'along', meaning: 'following', pronunciationVariants: [
-    { accent: 'american', ipa: 'əˈlɔːŋ' },
-    { accent: 'british', ipa: 'əˈlɒŋ' },
-    { accent: 'australian', ipa: 'əˈlɒŋ' }
-  ], category: 'prepositions', examples: ['Along the road.', 'Walk along.'] },
-  { id: 'word_onto', word: 'onto', meaning: 'to a position on', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈɑːntuː' },
-    { accent: 'british', ipa: 'ˈɒntuː' },
-    { accent: 'australian', ipa: 'ˈɒntuː' }
-  ], category: 'prepositions', examples: ['Step onto the bus.', 'Jump onto.'] },
-  { id: 'word_off', word: 'off', meaning: 'away from', pronunciationVariants: [
-    { accent: 'american', ipa: 'ɔːf' },
-    { accent: 'british', ipa: 'ɒf' },
-    { accent: 'australian', ipa: 'ɒf' }
-  ], category: 'prepositions', examples: ['Off the table.', 'Take off.'] },
-  { id: 'word_up', word: 'up', meaning: 'upward', pronunciationVariants: [
-    { accent: 'american', ipa: 'ʌp' },
-    { accent: 'british', ipa: 'ʌp' },
-    { accent: 'australian', ipa: 'ʌp' }
-  ], category: 'prepositions', examples: ['Up the hill.', 'Go up.'] },
-  { id: 'word_down', word: 'down', meaning: 'downward', pronunciationVariants: [
-    { accent: 'american', ipa: 'daʊn' },
-    { accent: 'british', ipa: 'daʊn' },
-    { accent: 'australian', ipa: 'daʊn' }
-  ], category: 'prepositions', examples: ['Down the stairs.', 'Sit down.'] },
-  { id: 'word_inside', word: 'inside', meaning: 'interior', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˌɪnˈsaɪd' },
-    { accent: 'british', ipa: 'ˌɪnˈsaɪd' },
-    { accent: 'australian', ipa: 'ˌɪnˈsaɪd' }
-  ], category: 'prepositions', examples: ['Inside the box.', 'Stay inside.'] },
-  { id: 'word_outside', word: 'outside', meaning: 'exterior', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˌaʊtˈsaɪd' },
-    { accent: 'british', ipa: 'ˌaʊtˈsaɪd' },
-    { accent: 'australian', ipa: 'ˌaʊtˈsaɪd' }
-  ], category: 'prepositions', examples: ['Outside the house.', 'Play outside.'] }
+  {
+    id: 'word_in',
+    word: 'in',
+    meaning: 'inside/within',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ɪn' },
+      { accent: 'british', ipa: 'ɪn' },
+      { accent: 'australian', ipa: 'ɪn' },
+    ],
+    category: 'prepositions',
+    examples: ['In the room.', 'In 2024.'],
+  },
+  {
+    id: 'word_on',
+    word: 'on',
+    meaning: 'upon/atop',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ɑːn' },
+      { accent: 'british', ipa: 'ɒn' },
+      { accent: 'australian', ipa: 'ɒn' },
+    ],
+    category: 'prepositions',
+    examples: ['On the table.', 'On Monday.'],
+  },
+  {
+    id: 'word_at',
+    word: 'at',
+    meaning: 'location/time',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'æt' },
+      { accent: 'british', ipa: 'æt' },
+      { accent: 'australian', ipa: 'æt' },
+    ],
+    category: 'prepositions',
+    examples: ['At home.', 'At 5 PM.'],
+  },
+  {
+    id: 'word_to',
+    word: 'to',
+    meaning: 'toward',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'tuː' },
+      { accent: 'british', ipa: 'tuː' },
+      { accent: 'australian', ipa: 'tuː' },
+    ],
+    category: 'prepositions',
+    examples: ['Go to school.', 'Give to me.'],
+  },
+  {
+    id: 'word_from',
+    word: 'from',
+    meaning: 'origin',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'frʌm' },
+      { accent: 'british', ipa: 'frɒm' },
+      { accent: 'australian', ipa: 'frɒm' },
+    ],
+    category: 'prepositions',
+    examples: ['From home.', 'From the start.'],
+  },
+  {
+    id: 'word_with',
+    word: 'with',
+    meaning: 'accompanied by',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'wɪð' },
+      { accent: 'british', ipa: 'wɪð' },
+      { accent: 'australian', ipa: 'wɪð' },
+    ],
+    category: 'prepositions',
+    examples: ['With friends.', 'With love.'],
+  },
+  {
+    id: 'word_without',
+    word: 'without',
+    meaning: 'lacking',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'wɪˈðaʊt' },
+      { accent: 'british', ipa: 'wɪˈðaʊt' },
+      { accent: 'australian', ipa: 'wɪˈðaʊt' },
+    ],
+    category: 'prepositions',
+    examples: ['Without help.', 'Without doubt.'],
+  },
+  {
+    id: 'word_by',
+    word: 'by',
+    meaning: 'near/via',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'baɪ' },
+      { accent: 'british', ipa: 'baɪ' },
+      { accent: 'australian', ipa: 'baɪ' },
+    ],
+    category: 'prepositions',
+    examples: ['By the river.', 'By bus.'],
+  },
+  {
+    id: 'word_for',
+    word: 'for',
+    meaning: 'purpose/duration',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'fɔːr' },
+      { accent: 'british', ipa: 'fɔː' },
+      { accent: 'australian', ipa: 'fɔː' },
+    ],
+    category: 'prepositions',
+    examples: ['For you.', 'For two hours.'],
+  },
+  {
+    id: 'word_of',
+    word: 'of',
+    meaning: 'belonging to',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ʌv' },
+      { accent: 'british', ipa: 'ɒv' },
+      { accent: 'australian', ipa: 'ɒv' },
+    ],
+    category: 'prepositions',
+    examples: ['Cup of tea.', 'Part of it.'],
+  },
+  {
+    id: 'word_about',
+    word: 'about',
+    meaning: 'concerning',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'əˈbaʊt' },
+      { accent: 'british', ipa: 'əˈbaʊt' },
+      { accent: 'australian', ipa: 'əˈbaʊt' },
+    ],
+    category: 'prepositions',
+    examples: ['About time.', 'Talk about it.'],
+  },
+  {
+    id: 'word_into',
+    word: 'into',
+    meaning: 'entrance',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈɪntuː' },
+      { accent: 'british', ipa: 'ˈɪntuː' },
+      { accent: 'australian', ipa: 'ˈɪntuː' },
+    ],
+    category: 'prepositions',
+    examples: ['Go into the room.', 'Jump into water.'],
+  },
+  {
+    id: 'word_out_of',
+    word: 'out of',
+    meaning: 'exit/lacking',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'aʊt ʌv' },
+      { accent: 'british', ipa: 'aʊt ɒv' },
+      { accent: 'australian', ipa: 'aʊt ɒv' },
+    ],
+    category: 'prepositions',
+    examples: ['Out of time.', 'Get out of here.'],
+  },
+  {
+    id: 'word_over',
+    word: 'over',
+    meaning: 'above/across',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈoʊvər' },
+      { accent: 'british', ipa: 'ˈəʊvə' },
+      { accent: 'australian', ipa: 'ˈəʊvə' },
+    ],
+    category: 'prepositions',
+    examples: ['Over the bridge.', 'Over there.'],
+  },
+  {
+    id: 'word_under',
+    word: 'under',
+    meaning: 'below',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈʌndər' },
+      { accent: 'british', ipa: 'ˈʌndə' },
+      { accent: 'australian', ipa: 'ˈʌndə' },
+    ],
+    category: 'prepositions',
+    examples: ['Under the table.', 'Under pressure.'],
+  },
+  {
+    id: 'word_above',
+    word: 'above',
+    meaning: 'higher than',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'əˈbʌv' },
+      { accent: 'british', ipa: 'əˈbʌv' },
+      { accent: 'australian', ipa: 'əˈbʌv' },
+    ],
+    category: 'prepositions',
+    examples: ['Above the clouds.', 'Above average.'],
+  },
+  {
+    id: 'word_below',
+    word: 'below',
+    meaning: 'lower than',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'bɪˈloʊ' },
+      { accent: 'british', ipa: 'bɪˈləʊ' },
+      { accent: 'australian', ipa: 'bɪˈləʊ' },
+    ],
+    category: 'prepositions',
+    examples: ['Below zero.', 'Below the surface.'],
+  },
+  {
+    id: 'word_between',
+    word: 'between',
+    meaning: 'in the middle',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'bɪˈtwiːn' },
+      { accent: 'british', ipa: 'bɪˈtwiːn' },
+      { accent: 'australian', ipa: 'bɪˈtwiːn' },
+    ],
+    category: 'prepositions',
+    examples: ['Between us.', 'Between two trees.'],
+  },
+  {
+    id: 'word_among',
+    word: 'among',
+    meaning: 'surrounded by',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'əˈmʌŋ' },
+      { accent: 'british', ipa: 'əˈmʌŋ' },
+      { accent: 'australian', ipa: 'əˈmʌŋ' },
+    ],
+    category: 'prepositions',
+    examples: ['Among friends.', 'Among the stars.'],
+  },
+  {
+    id: 'word_through',
+    word: 'through',
+    meaning: 'across',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'θruː' },
+      { accent: 'british', ipa: 'θruː' },
+      { accent: 'australian', ipa: 'θruː' },
+    ],
+    category: 'prepositions',
+    examples: ['Through the door.', 'Through the night.'],
+  },
+  {
+    id: 'word_across',
+    word: 'across',
+    meaning: 'from side to side',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'əˈkrɔːs' },
+      { accent: 'british', ipa: 'əˈkrɒs' },
+      { accent: 'australian', ipa: 'əˈkrɒs' },
+    ],
+    category: 'prepositions',
+    examples: ['Across the street.', 'Walk across.'],
+  },
+  {
+    id: 'word_around',
+    word: 'around',
+    meaning: 'surrounding',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'əˈraʊnd' },
+      { accent: 'british', ipa: 'əˈraʊnd' },
+      { accent: 'australian', ipa: 'əˈraʊnd' },
+    ],
+    category: 'prepositions',
+    examples: ['Around the world.', 'Look around.'],
+  },
+  {
+    id: 'word_behind',
+    word: 'behind',
+    meaning: 'at the back',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'bɪˈhaɪnd' },
+      { accent: 'british', ipa: 'bɪˈhaɪnd' },
+      { accent: 'australian', ipa: 'bɪˈhaɪnd' },
+    ],
+    category: 'prepositions',
+    examples: ['Behind you.', 'Behind the house.'],
+  },
+  {
+    id: 'word_in_front_of',
+    word: 'in front of',
+    meaning: 'ahead',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ɪn frʌnt ʌv' },
+      { accent: 'british', ipa: 'ɪn frʌnt ɒv' },
+      { accent: 'australian', ipa: 'ɪn frʌnt ɒv' },
+    ],
+    category: 'prepositions',
+    examples: ['In front of me.', 'In front of the building.'],
+  },
+  {
+    id: 'word_next_to',
+    word: 'next to',
+    meaning: 'beside',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'nɛkst tuː' },
+      { accent: 'british', ipa: 'nɛkst tuː' },
+      { accent: 'australian', ipa: 'nɛkst tuː' },
+    ],
+    category: 'prepositions',
+    examples: ['Next to me.', 'Sit next to her.'],
+  },
+  {
+    id: 'word_near',
+    word: 'near',
+    meaning: 'close to',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'nɪr' },
+      { accent: 'british', ipa: 'nɪə' },
+      { accent: 'australian', ipa: 'nɪə' },
+    ],
+    category: 'prepositions',
+    examples: ['Near the river.', 'Stay near.'],
+  },
+  {
+    id: 'word_far',
+    word: 'far',
+    meaning: 'distant',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'fɑːr' },
+      { accent: 'british', ipa: 'fɑː' },
+      { accent: 'australian', ipa: 'fɑː' },
+    ],
+    category: 'prepositions',
+    examples: ['Far away.', 'Go far.'],
+  },
+  {
+    id: 'word_before',
+    word: 'before',
+    meaning: 'earlier than',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'bɪˈfɔːr' },
+      { accent: 'british', ipa: 'bɪˈfɔː' },
+      { accent: 'australian', ipa: 'bɪˈfɔː' },
+    ],
+    category: 'prepositions',
+    examples: ['Before dinner.', 'Before you go.'],
+  },
+  {
+    id: 'word_after',
+    word: 'after',
+    meaning: 'later than',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈæftər' },
+      { accent: 'british', ipa: 'ˈɑːftə' },
+      { accent: 'australian', ipa: 'ˈɑːftə' },
+    ],
+    category: 'prepositions',
+    examples: ['After work.', 'After you.'],
+  },
+  {
+    id: 'word_during',
+    word: 'during',
+    meaning: 'throughout',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈdʊrɪŋ' },
+      { accent: 'british', ipa: 'ˈdjʊərɪŋ' },
+      { accent: 'australian', ipa: 'ˈdjʊərɪŋ' },
+    ],
+    category: 'prepositions',
+    examples: ['During the day.', 'During winter.'],
+  },
+  {
+    id: 'word_since',
+    word: 'since',
+    meaning: 'from a point',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'sɪns' },
+      { accent: 'british', ipa: 'sɪns' },
+      { accent: 'australian', ipa: 'sɪns' },
+    ],
+    category: 'prepositions',
+    examples: ['Since Monday.', 'Since last year.'],
+  },
+  {
+    id: 'word_until',
+    word: 'until',
+    meaning: 'up to a point',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ənˈtɪl' },
+      { accent: 'british', ipa: 'ənˈtɪl' },
+      { accent: 'australian', ipa: 'ənˈtɪl' },
+    ],
+    category: 'prepositions',
+    examples: ['Until midnight.', 'Wait until.'],
+  },
+  {
+    id: 'word_beyond',
+    word: 'beyond',
+    meaning: 'past',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'bɪˈjɑːnd' },
+      { accent: 'british', ipa: 'bɪˈjɒnd' },
+      { accent: 'australian', ipa: 'bɪˈjɒnd' },
+    ],
+    category: 'prepositions',
+    examples: ['Beyond the horizon.', 'Beyond belief.'],
+  },
+  {
+    id: 'word_within',
+    word: 'within',
+    meaning: 'inside limits',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'wɪˈðɪn' },
+      { accent: 'british', ipa: 'wɪˈðɪn' },
+      { accent: 'australian', ipa: 'wɪˈðɪn' },
+    ],
+    category: 'prepositions',
+    examples: ['Within reach.', 'Within an hour.'],
+  },
+  {
+    id: 'word_without',
+    word: 'without',
+    meaning: 'lacking',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'wɪˈðaʊt' },
+      { accent: 'british', ipa: 'wɪˈðaʊt' },
+      { accent: 'australian', ipa: 'wɪˈðaʊt' },
+    ],
+    category: 'prepositions',
+    examples: ['Without help.', 'Without doubt.'],
+  },
+  {
+    id: 'word_toward',
+    word: 'toward',
+    meaning: 'in direction of',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'təˈwɔːrd' },
+      { accent: 'british', ipa: 'təˈwɔːd' },
+      { accent: 'australian', ipa: 'təˈwɔːd' },
+    ],
+    category: 'prepositions',
+    examples: ['Toward the city.', 'Step toward.'],
+  },
+  {
+    id: 'word_against',
+    word: 'against',
+    meaning: 'opposing',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'əˈɡɛnst' },
+      { accent: 'british', ipa: 'əˈɡenst' },
+      { accent: 'australian', ipa: 'əˈɡenst' },
+    ],
+    category: 'prepositions',
+    examples: ['Against the wall.', 'Play against.'],
+  },
+  {
+    id: 'word_along',
+    word: 'along',
+    meaning: 'following',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'əˈlɔːŋ' },
+      { accent: 'british', ipa: 'əˈlɒŋ' },
+      { accent: 'australian', ipa: 'əˈlɒŋ' },
+    ],
+    category: 'prepositions',
+    examples: ['Along the road.', 'Walk along.'],
+  },
+  {
+    id: 'word_onto',
+    word: 'onto',
+    meaning: 'to a position on',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈɑːntuː' },
+      { accent: 'british', ipa: 'ˈɒntuː' },
+      { accent: 'australian', ipa: 'ˈɒntuː' },
+    ],
+    category: 'prepositions',
+    examples: ['Step onto the bus.', 'Jump onto.'],
+  },
+  {
+    id: 'word_off',
+    word: 'off',
+    meaning: 'away from',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ɔːf' },
+      { accent: 'british', ipa: 'ɒf' },
+      { accent: 'australian', ipa: 'ɒf' },
+    ],
+    category: 'prepositions',
+    examples: ['Off the table.', 'Take off.'],
+  },
+  {
+    id: 'word_up',
+    word: 'up',
+    meaning: 'upward',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ʌp' },
+      { accent: 'british', ipa: 'ʌp' },
+      { accent: 'australian', ipa: 'ʌp' },
+    ],
+    category: 'prepositions',
+    examples: ['Up the hill.', 'Go up.'],
+  },
+  {
+    id: 'word_down',
+    word: 'down',
+    meaning: 'downward',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'daʊn' },
+      { accent: 'british', ipa: 'daʊn' },
+      { accent: 'australian', ipa: 'daʊn' },
+    ],
+    category: 'prepositions',
+    examples: ['Down the stairs.', 'Sit down.'],
+  },
+  {
+    id: 'word_inside',
+    word: 'inside',
+    meaning: 'interior',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˌɪnˈsaɪd' },
+      { accent: 'british', ipa: 'ˌɪnˈsaɪd' },
+      { accent: 'australian', ipa: 'ˌɪnˈsaɪd' },
+    ],
+    category: 'prepositions',
+    examples: ['Inside the box.', 'Stay inside.'],
+  },
+  {
+    id: 'word_outside',
+    word: 'outside',
+    meaning: 'exterior',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˌaʊtˈsaɪd' },
+      { accent: 'british', ipa: 'ˌaʊtˈsaɪd' },
+      { accent: 'australian', ipa: 'ˌaʊtˈsaɪd' },
+    ],
+    category: 'prepositions',
+    examples: ['Outside the house.', 'Play outside.'],
+  },
 ];

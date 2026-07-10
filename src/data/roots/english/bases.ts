@@ -11,7 +11,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'ækt' },
       { accent: 'british', ipa: 'ækt' },
-      { accent: 'australian', ipa: 'ækt' }
+      { accent: 'australian', ipa: 'ækt' },
     ],
     examples: [
       { word: 'action', meaning: 'the act of doing', sentence: 'Take action now.' },
@@ -28,7 +28,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'ˈɔːdi' },
       { accent: 'british', ipa: 'ˈɔːdi' },
-      { accent: 'australian', ipa: 'ˈɔːdi' }
+      { accent: 'australian', ipa: 'ˈɔːdi' },
     ],
     examples: [
       { word: 'audio', meaning: 'relating to sound', sentence: 'The audio quality is excellent.' },
@@ -45,11 +45,15 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'brɛv' },
       { accent: 'british', ipa: 'brɛv' },
-      { accent: 'australian', ipa: 'brɛv' }
+      { accent: 'australian', ipa: 'brɛv' },
     ],
     examples: [
       { word: 'abbreviate', meaning: 'make short', sentence: 'Abbreviate the long word.' },
-      { word: 'brevity', meaning: 'quality of being short', sentence: 'Brevity is the soul of wit.' },
+      {
+        word: 'brevity',
+        meaning: 'quality of being short',
+        sentence: 'Brevity is the soul of wit.',
+      },
     ],
     relatedRootIds: [],
   },
@@ -62,7 +66,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'siːd' },
       { accent: 'british', ipa: 'siːd' },
-      { accent: 'australian', ipa: 'siːd' }
+      { accent: 'australian', ipa: 'siːd' },
     ],
     examples: [
       { word: 'proceed', meaning: 'go forward', sentence: 'Please proceed with caution.' },
@@ -79,11 +83,11 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'siːd' },
       { accent: 'british', ipa: 'siːd' },
-      { accent: 'australian', ipa: 'siːd' }
+      { accent: 'australian', ipa: 'siːd' },
     ],
     examples: [
       { word: 'succeed', meaning: 'go after', sentence: 'She will succeed in life.' },
-      { word: 'exceed', meaning: 'go beyond', sentence: 'Don\'t exceed the limit.' },
+      { word: 'exceed', meaning: 'go beyond', sentence: "Don't exceed the limit." },
     ],
     relatedRootIds: ['root_ced', 'root_cess'],
   },
@@ -96,7 +100,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'siːd' },
       { accent: 'british', ipa: 'siːd' },
-      { accent: 'australian', ipa: 'siːd' }
+      { accent: 'australian', ipa: 'siːd' },
     ],
     examples: [
       { word: 'process', meaning: 'go forward', sentence: 'The process takes time.' },
@@ -113,7 +117,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'krɛd' },
       { accent: 'british', ipa: 'krɛd' },
-      { accent: 'australian', ipa: 'krɛd' }
+      { accent: 'australian', ipa: 'krɛd' },
     ],
     examples: [
       { word: 'credit', meaning: 'believe', sentence: 'She deserves credit.' },
@@ -130,11 +134,15 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'kɜːr' },
       { accent: 'british', ipa: 'kɜːr' },
-      { accent: 'australian', ipa: 'kɜːr' }
+      { accent: 'australian', ipa: 'kɜːr' },
     ],
     examples: [
       { word: 'current', meaning: 'running', sentence: 'The current is strong.' },
-      { word: 'curator', meaning: 'one who cares', sentence: 'The museum curator is knowledgeable.' },
+      {
+        word: 'curator',
+        meaning: 'one who cares',
+        sentence: 'The museum curator is knowledgeable.',
+      },
     ],
     relatedRootIds: ['root_curs', 'root_cour'],
   },
@@ -147,7 +155,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'kɜːrs' },
       { accent: 'british', ipa: 'kɜːrs' },
-      { accent: 'australian', ipa: 'kɜːrs' }
+      { accent: 'australian', ipa: 'kɜːrs' },
     ],
     examples: [
       { word: 'cursor', meaning: 'runner', sentence: 'Move the cursor here.' },
@@ -164,7 +172,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'kɜːrs' },
       { accent: 'british', ipa: 'kɜːrs' },
-      { accent: 'australian', ipa: 'kɜːrs' }
+      { accent: 'australian', ipa: 'kɜːrs' },
     ],
     examples: [
       { word: 'courier', meaning: 'runner', sentence: 'The courier delivered the package.' },
@@ -181,7 +189,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'dɪkˈteɪ' },
       { accent: 'british', ipa: 'dɪkˈteɪ' },
-      { accent: 'australian', ipa: 'dɪkˈteɪ' }
+      { accent: 'australian', ipa: 'dɪkˈteɪ' },
     ],
     examples: [
       { word: 'dictionary', meaning: 'say words', sentence: 'Use the dictionary.' },
@@ -198,7 +206,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'dɪk' },
       { accent: 'british', ipa: 'dɪk' },
-      { accent: 'australian', ipa: 'dɪk' }
+      { accent: 'australian', ipa: 'dɪk' },
     ],
     examples: [
       { word: 'educate', meaning: 'lead out', sentence: 'Teachers educate students.' },
@@ -215,7 +223,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'dɪk' },
       { accent: 'british', ipa: 'dɪk' },
-      { accent: 'australian', ipa: 'dɪk' }
+      { accent: 'australian', ipa: 'dɪk' },
     ],
     examples: [
       { word: 'conduct', meaning: 'lead together', sentence: 'He will conduct the orchestra.' },
@@ -232,7 +240,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'fækt' },
       { accent: 'british', ipa: 'fækt' },
-      { accent: 'australian', ipa: 'fækt' }
+      { accent: 'australian', ipa: 'fækt' },
     ],
     examples: [
       { word: 'factory', meaning: 'place of making', sentence: 'The factory employs 500 people.' },
@@ -249,7 +257,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'fɜːr' },
       { accent: 'british', ipa: 'fɜːr' },
-      { accent: 'australian', ipa: 'fɜːr' }
+      { accent: 'australian', ipa: 'fɜːr' },
     ],
     examples: [
       { word: 'transfer', meaning: 'carry across', sentence: 'Transfer the funds.' },
@@ -266,7 +274,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'flɛkt' },
       { accent: 'british', ipa: 'flɛkt' },
-      { accent: 'australian', ipa: 'flɛkt' }
+      { accent: 'australian', ipa: 'flɛkt' },
     ],
     examples: [
       { word: 'reflect', meaning: 'bend back', sentence: 'Reflect on your decisions.' },
@@ -283,7 +291,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'flɛkt' },
       { accent: 'british', ipa: 'flɛkt' },
-      { accent: 'australian', ipa: 'flɛkt' }
+      { accent: 'australian', ipa: 'flɛkt' },
     ],
     examples: [
       { word: 'flex', meaning: 'bend', sentence: 'Flex your muscles.' },
@@ -300,7 +308,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'fɔːrm' },
       { accent: 'british', ipa: 'fɔːrm' },
-      { accent: 'australian', ipa: 'fɔːrm' }
+      { accent: 'australian', ipa: 'fɔːrm' },
     ],
     examples: [
       { word: 'reform', meaning: 'shape again', sentence: 'They plan to reform the system.' },
@@ -317,10 +325,10 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'rɑːf' },
       { accent: 'british', ipa: 'rɑːf' },
-      { accent: 'australian', ipa: 'rɑːf' }
+      { accent: 'australian', ipa: 'rɑːf' },
     ],
     examples: [
-      { word: 'autograph', meaning: 'self writing', sentence: 'Get the celebrity\'s autograph.' },
+      { word: 'autograph', meaning: 'self writing', sentence: "Get the celebrity's autograph." },
       { word: 'photograph', meaning: 'light writing', sentence: 'Take a photograph.' },
     ],
     relatedRootIds: [],
@@ -334,7 +342,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'græt' },
       { accent: 'british', ipa: 'græt' },
-      { accent: 'australian', ipa: 'græt' }
+      { accent: 'australian', ipa: 'græt' },
     ],
     examples: [
       { word: 'grateful', meaning: 'full of thanks', sentence: 'She was grateful for the help.' },
@@ -351,11 +359,11 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'grɛs' },
       { accent: 'british', ipa: 'grɛs' },
-      { accent: 'australian', ipa: 'grɛs' }
+      { accent: 'australian', ipa: 'grɛs' },
     ],
     examples: [
       { word: 'progress', meaning: 'step forward', sentence: 'We made good progress.' },
-      { word: 'digress', meaning: 'step away', sentence: 'Don\'t digress from the topic.' },
+      { word: 'digress', meaning: 'step away', sentence: "Don't digress from the topic." },
     ],
     relatedRootIds: [],
   },
@@ -368,7 +376,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'dʒɛkt' },
       { accent: 'british', ipa: 'dʒɛkt' },
-      { accent: 'australian', ipa: 'dʒɛkt' }
+      { accent: 'australian', ipa: 'dʒɛkt' },
     ],
     examples: [
       { word: 'project', meaning: 'throw forward', sentence: 'The project is on schedule.' },
@@ -385,7 +393,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'lɔːɡ' },
       { accent: 'british', ipa: 'lɔːɡ' },
-      { accent: 'australian', ipa: 'lɔːɡ' }
+      { accent: 'australian', ipa: 'lɔːɡ' },
     ],
     examples: [
       { word: 'dialogue', meaning: 'words between', sentence: 'The dialogue was witty.' },
@@ -402,11 +410,15 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'lɔːkwɛs' },
       { accent: 'british', ipa: 'lɔːkwɛs' },
-      { accent: 'australian', ipa: 'lɔːkwɛs' }
+      { accent: 'australian', ipa: 'lɔːkwɛs' },
     ],
     examples: [
       { word: 'eloquent', meaning: 'speaking well', sentence: 'She gave an eloquent speech.' },
-      { word: 'soliloquy', meaning: 'speaking alone', sentence: 'The actor performed a soliloquy.' },
+      {
+        word: 'soliloquy',
+        meaning: 'speaking alone',
+        sentence: 'The actor performed a soliloquy.',
+      },
     ],
     relatedRootIds: [],
   },
@@ -419,7 +431,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'luːs' },
       { accent: 'british', ipa: 'luːs' },
-      { accent: 'australian', ipa: 'luːs' }
+      { accent: 'australian', ipa: 'luːs' },
     ],
     examples: [
       { word: 'lucid', meaning: 'clear light', sentence: 'His explanation was lucid.' },
@@ -436,7 +448,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'luːs' },
       { accent: 'british', ipa: 'luːs' },
-      { accent: 'australian', ipa: 'luːs' }
+      { accent: 'australian', ipa: 'luːs' },
     ],
     examples: [
       { word: 'illuminate', meaning: 'throw light on', sentence: 'The lamp illuminates the room.' },
@@ -453,7 +465,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'luːs' },
       { accent: 'british', ipa: 'luːs' },
-      { accent: 'australian', ipa: 'luːs' }
+      { accent: 'australian', ipa: 'luːs' },
     ],
     examples: [
       { word: 'luster', meaning: 'light shine', sentence: 'The pearl has a nice luster.' },
@@ -470,7 +482,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'mæn' },
       { accent: 'british', ipa: 'mæn' },
-      { accent: 'australian', ipa: 'mæn' }
+      { accent: 'australian', ipa: 'mæn' },
     ],
     examples: [
       { word: 'manual', meaning: 'by hand', sentence: 'Read the manual.' },
@@ -487,7 +499,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'mæn' },
       { accent: 'british', ipa: 'mæn' },
-      { accent: 'australian', ipa: 'mæn' }
+      { accent: 'australian', ipa: 'mæn' },
     ],
     examples: [
       { word: 'manuscript', meaning: 'written by hand', sentence: 'The manuscript is ancient.' },
@@ -504,7 +516,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'mɪt' },
       { accent: 'british', ipa: 'mɪt' },
-      { accent: 'australian', ipa: 'mɪt' }
+      { accent: 'australian', ipa: 'mɪt' },
     ],
     examples: [
       { word: 'transmit', meaning: 'send across', sentence: 'The tower transmits signals.' },
@@ -521,7 +533,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'mɪt' },
       { accent: 'british', ipa: 'mɪt' },
-      { accent: 'australian', ipa: 'mɪt' }
+      { accent: 'australian', ipa: 'mɪt' },
     ],
     examples: [
       { word: 'mission', meaning: 'act of sending', sentence: 'The mission was successful.' },
@@ -538,10 +550,14 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'mɔːrf' },
       { accent: 'british', ipa: 'mɔːrf' },
-      { accent: 'australian', ipa: 'mɔːrf' }
+      { accent: 'australian', ipa: 'mɔːrf' },
     ],
     examples: [
-      { word: 'metamorphosis', meaning: 'change form', sentence: 'The butterfly undergoes metamorphosis.' },
+      {
+        word: 'metamorphosis',
+        meaning: 'change form',
+        sentence: 'The butterfly undergoes metamorphosis.',
+      },
       { word: 'morphology', meaning: 'study of form', sentence: 'Morphology studies word forms.' },
     ],
     relatedRootIds: [],
@@ -555,7 +571,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'moʊt' },
       { accent: 'british', ipa: 'moʊt' },
-      { accent: 'australian', ipa: 'moʊt' }
+      { accent: 'australian', ipa: 'moʊt' },
     ],
     examples: [
       { word: 'motion', meaning: 'act of moving', sentence: 'The motion was smooth.' },
@@ -572,10 +588,10 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'moʊt' },
       { accent: 'british', ipa: 'moʊt' },
-      { accent: 'australian', ipa: 'moʊt' }
+      { accent: 'australian', ipa: 'moʊt' },
     ],
     examples: [
-      { word: 'movie', meaning: 'moving pictures', sentence: 'Let\'s watch a movie.' },
+      { word: 'movie', meaning: 'moving pictures', sentence: "Let's watch a movie." },
       { word: 'remove', meaning: 'move again', sentence: 'Remove the obstacle.' },
     ],
     relatedRootIds: ['root_mot'],
@@ -589,11 +605,15 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'pɑː' },
       { accent: 'british', ipa: 'pɑː' },
-      { accent: 'australian', ipa: 'pɑː' }
+      { accent: 'australian', ipa: 'pɑː' },
     ],
     examples: [
       { word: 'empathy', meaning: 'in feeling', sentence: 'She showed great empathy.' },
-      { word: 'pathology', meaning: 'study of suffering', sentence: 'Pathology diagnoses diseases.' },
+      {
+        word: 'pathology',
+        meaning: 'study of suffering',
+        sentence: 'Pathology diagnoses diseases.',
+      },
     ],
     relatedRootIds: [],
   },
@@ -606,7 +626,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'fɔːn' },
       { accent: 'british', ipa: 'fɔːn' },
-      { accent: 'australian', ipa: 'fɔːn' }
+      { accent: 'australian', ipa: 'fɔːn' },
     ],
     examples: [
       { word: 'telephone', meaning: 'far sound', sentence: 'Answer the telephone.' },
@@ -623,7 +643,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'pɔːrt' },
       { accent: 'british', ipa: 'pɔːrt' },
-      { accent: 'australian', ipa: 'pɔːrt' }
+      { accent: 'australian', ipa: 'pɔːrt' },
     ],
     examples: [
       { word: 'transport', meaning: 'carry across', sentence: 'They transport goods.' },
@@ -640,11 +660,11 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'pɔːz' },
       { accent: 'british', ipa: 'pɔːz' },
-      { accent: 'australian', ipa: 'pɔːz' }
+      { accent: 'australian', ipa: 'pɔːz' },
     ],
     examples: [
       { word: 'propose', meaning: 'put forward', sentence: 'I propose a solution.' },
-      { word: 'expose', meaning: 'place out', sentence: 'Don\'t expose the film.' },
+      { word: 'expose', meaning: 'place out', sentence: "Don't expose the film." },
     ],
     relatedRootIds: ['root_posit'],
   },
@@ -657,7 +677,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'pɔːz' },
       { accent: 'british', ipa: 'pɔːz' },
-      { accent: 'australian', ipa: 'pɔːz' }
+      { accent: 'australian', ipa: 'pɔːz' },
     ],
     examples: [
       { word: 'position', meaning: 'place of', sentence: 'Take your position.' },
@@ -674,7 +694,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'sɑː' },
       { accent: 'british', ipa: 'sɑː' },
-      { accent: 'australian', ipa: 'sɑː' }
+      { accent: 'australian', ipa: 'sɑː' },
     ],
     examples: [
       { word: 'psychology', meaning: 'study of mind', sentence: 'Psychology studies behavior.' },
@@ -691,7 +711,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'kwɛst' },
       { accent: 'british', ipa: 'kwɛst' },
-      { accent: 'australian', ipa: 'kwɛst' }
+      { accent: 'australian', ipa: 'kwɛst' },
     ],
     examples: [
       { word: 'question', meaning: 'act of asking', sentence: 'Ask a question.' },
@@ -708,7 +728,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'kwɛst' },
       { accent: 'british', ipa: 'kwɛst' },
-      { accent: 'australian', ipa: 'kwɛst' }
+      { accent: 'australian', ipa: 'kwɛst' },
     ],
     examples: [
       { word: 'inquisition', meaning: 'act of asking', sentence: 'The inquisition was harsh.' },
@@ -725,7 +745,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'kwɛst' },
       { accent: 'british', ipa: 'kwɛst' },
-      { accent: 'australian', ipa: 'kwɛst' }
+      { accent: 'australian', ipa: 'kwɛst' },
     ],
     examples: [
       { word: 'query', meaning: 'act of asking', sentence: 'Submit your query.' },
@@ -742,7 +762,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'rɑːf' },
       { accent: 'british', ipa: 'rɑːf' },
-      { accent: 'australian', ipa: 'rɑːf' }
+      { accent: 'australian', ipa: 'rɑːf' },
     ],
     examples: [
       { word: 'scribble', meaning: 'write carelessly', sentence: 'The child began to scribble.' },
@@ -759,11 +779,15 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'rɑːf' },
       { accent: 'british', ipa: 'rɑːf' },
-      { accent: 'australian', ipa: 'rɑːf' }
+      { accent: 'australian', ipa: 'rɑːf' },
     ],
     examples: [
       { word: 'manuscript', meaning: 'written by hand', sentence: 'The manuscript is old.' },
-      { word: 'prescription', meaning: 'written before', sentence: 'The doctor wrote a prescription.' },
+      {
+        word: 'prescription',
+        meaning: 'written before',
+        sentence: 'The doctor wrote a prescription.',
+      },
     ],
     relatedRootIds: ['root_scrib'],
   },
@@ -776,7 +800,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'sk' },
       { accent: 'british', ipa: 'sk' },
-      { accent: 'australian', ipa: 'sk' }
+      { accent: 'australian', ipa: 'sk' },
     ],
     examples: [
       { word: 'section', meaning: 'cut part', sentence: 'Read this section.' },
@@ -793,7 +817,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'sk' },
       { accent: 'british', ipa: 'sk' },
-      { accent: 'australian', ipa: 'sk' }
+      { accent: 'australian', ipa: 'sk' },
     ],
     examples: [
       { word: 'dissect', meaning: 'cut apart', sentence: 'They will dissect the frog.' },
@@ -810,7 +834,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'sɛnt' },
       { accent: 'british', ipa: 'sɛnt' },
-      { accent: 'australian', ipa: 'sɛnt' }
+      { accent: 'australian', ipa: 'sɛnt' },
     ],
     examples: [
       { word: 'sentiment', meaning: 'feeling', sentence: 'The sentiment was positive.' },
@@ -827,7 +851,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'sɛns' },
       { accent: 'british', ipa: 'sɛns' },
-      { accent: 'australian', ipa: 'sɛns' }
+      { accent: 'australian', ipa: 'sɛns' },
     ],
     examples: [
       { word: 'sensation', meaning: 'feeling', sentence: 'The sensation was strange.' },
@@ -844,7 +868,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'spɛk' },
       { accent: 'british', ipa: 'spɛk' },
-      { accent: 'australian', ipa: 'spɛk' }
+      { accent: 'australian', ipa: 'spɛk' },
     ],
     examples: [
       { word: 'inspect', meaning: 'look into', sentence: 'Inspect the document.' },
@@ -861,7 +885,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'spɛk' },
       { accent: 'british', ipa: 'spɛk' },
-      { accent: 'australian', ipa: 'spɛk' }
+      { accent: 'australian', ipa: 'spɛk' },
     ],
     examples: [
       { word: 'spectacles', meaning: 'looking glasses', sentence: 'He wears spectacles.' },
@@ -878,7 +902,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'strʌkt' },
       { accent: 'british', ipa: 'strʌkt' },
-      { accent: 'australian', ipa: 'strʌkt' }
+      { accent: 'australian', ipa: 'strʌkt' },
     ],
     examples: [
       { word: 'construct', meaning: 'build together', sentence: 'They will construct the bridge.' },
@@ -895,7 +919,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'tækt' },
       { accent: 'british', ipa: 'tækt' },
-      { accent: 'australian', ipa: 'tækt' }
+      { accent: 'australian', ipa: 'tækt' },
     ],
     examples: [
       { word: 'tactile', meaning: 'relating to touch', sentence: 'The fabric is tactile.' },
@@ -912,7 +936,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'tækt' },
       { accent: 'british', ipa: 'tækt' },
-      { accent: 'australian', ipa: 'tækt' }
+      { accent: 'australian', ipa: 'tækt' },
     ],
     examples: [
       { word: 'tangible', meaning: 'able to touch', sentence: 'The benefits are tangible.' },
@@ -929,11 +953,15 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'tɛk' },
       { accent: 'british', ipa: 'tɛk' },
-      { accent: 'australian', ipa: 'tɛk' }
+      { accent: 'australian', ipa: 'tɛk' },
     ],
     examples: [
       { word: 'technology', meaning: 'study of skills', sentence: 'Technology advances rapidly.' },
-      { word: 'technical', meaning: 'relating to skill', sentence: 'She provides technical support.' },
+      {
+        word: 'technical',
+        meaning: 'relating to skill',
+        sentence: 'She provides technical support.',
+      },
     ],
     relatedRootIds: [],
   },
@@ -946,7 +974,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'tɛlə' },
       { accent: 'british', ipa: 'tɛlə' },
-      { accent: 'australian', ipa: 'tɛlə' }
+      { accent: 'australian', ipa: 'tɛlə' },
     ],
     examples: [
       { word: 'telephone', meaning: 'far sound', sentence: 'Answer the telephone.' },
@@ -963,7 +991,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'tɛmp' },
       { accent: 'british', ipa: 'tɛmp' },
-      { accent: 'australian', ipa: 'tɛmp' }
+      { accent: 'australian', ipa: 'tɛmp' },
     ],
     examples: [
       { word: 'temporary', meaning: 'relating to time', sentence: 'This is temporary.' },
@@ -980,7 +1008,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'tɛn' },
       { accent: 'british', ipa: 'tɛn' },
-      { accent: 'australian', ipa: 'tɛn' }
+      { accent: 'australian', ipa: 'tɛn' },
     ],
     examples: [
       { word: 'tenant', meaning: 'one who holds', sentence: 'The tenant pays rent.' },
@@ -997,7 +1025,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'tɛn' },
       { accent: 'british', ipa: 'tɛn' },
-      { accent: 'australian', ipa: 'tɛn' }
+      { accent: 'australian', ipa: 'tɛn' },
     ],
     examples: [
       { word: 'contain', meaning: 'hold together', sentence: 'The box will contain it.' },
@@ -1014,10 +1042,14 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'tɛn' },
       { accent: 'british', ipa: 'tɛn' },
-      { accent: 'australian', ipa: 'tɛn' }
+      { accent: 'australian', ipa: 'tɛn' },
     ],
     examples: [
-      { word: 'continuation', meaning: 'holding together', sentence: 'The continuation is planned.' },
+      {
+        word: 'continuation',
+        meaning: 'holding together',
+        sentence: 'The continuation is planned.',
+      },
       { word: 'content', meaning: 'held within', sentence: 'The content is interesting.' },
     ],
     relatedRootIds: ['root_ten', 'root_tain'],
@@ -1031,7 +1063,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'trækt' },
       { accent: 'british', ipa: 'trækt' },
-      { accent: 'australian', ipa: 'trækt' }
+      { accent: 'australian', ipa: 'trækt' },
     ],
     examples: [
       { word: 'attract', meaning: 'pull toward', sentence: 'The magnet attracts metal.' },
@@ -1048,7 +1080,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'vɛn' },
       { accent: 'british', ipa: 'vɛn' },
-      { accent: 'australian', ipa: 'vɛn' }
+      { accent: 'australian', ipa: 'vɛn' },
     ],
     examples: [
       { word: 'venture', meaning: 'come to risk', sentence: 'The venture succeeded.' },
@@ -1065,7 +1097,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'vɛn' },
       { accent: 'british', ipa: 'vɛn' },
-      { accent: 'australian', ipa: 'vɛn' }
+      { accent: 'australian', ipa: 'vɛn' },
     ],
     examples: [
       { word: 'event', meaning: 'come out', sentence: 'The event was memorable.' },
@@ -1082,7 +1114,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'vɜːr' },
       { accent: 'british', ipa: 'vɜːr' },
-      { accent: 'australian', ipa: 'vɜːr' }
+      { accent: 'australian', ipa: 'vɜːr' },
     ],
     examples: [
       { word: 'verify', meaning: 'make true', sentence: 'Verify the information.' },
@@ -1099,7 +1131,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'vɜːrs' },
       { accent: 'british', ipa: 'vɜːrs' },
-      { accent: 'australian', ipa: 'vɜːrs' }
+      { accent: 'australian', ipa: 'vɜːrs' },
     ],
     examples: [
       { word: 'reverse', meaning: 'turn back', sentence: 'Put the car in reverse.' },
@@ -1116,7 +1148,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'vɜːrs' },
       { accent: 'british', ipa: 'vɜːrs' },
-      { accent: 'australian', ipa: 'vɜːrs' }
+      { accent: 'australian', ipa: 'vɜːrs' },
     ],
     examples: [
       { word: 'convert', meaning: 'turn together', sentence: 'Convert the file to PDF.' },
@@ -1133,7 +1165,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'vɪdʒ' },
       { accent: 'british', ipa: 'vɪdʒ' },
-      { accent: 'australian', ipa: 'vɪdʒ' }
+      { accent: 'australian', ipa: 'vɪdʒ' },
     ],
     examples: [
       { word: 'video', meaning: 'I see', sentence: 'Watch the video.' },
@@ -1150,7 +1182,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'vɪdʒ' },
       { accent: 'british', ipa: 'vɪdʒ' },
-      { accent: 'australian', ipa: 'vɪdʒ' }
+      { accent: 'australian', ipa: 'vɪdʒ' },
     ],
     examples: [
       { word: 'vision', meaning: 'act of seeing', sentence: 'Her vision is excellent.' },
@@ -1167,7 +1199,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'voʊk' },
       { accent: 'british', ipa: 'voʊk' },
-      { accent: 'australian', ipa: 'voʊk' }
+      { accent: 'australian', ipa: 'voʊk' },
     ],
     examples: [
       { word: 'vocal', meaning: 'relating to voice', sentence: 'She has a vocal talent.' },
@@ -1184,10 +1216,10 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'voʊk' },
       { accent: 'british', ipa: 'voʊk' },
-      { accent: 'australian', ipa: 'voʊk' }
+      { accent: 'australian', ipa: 'voʊk' },
     ],
     examples: [
-      { word: 'provoke', meaning: 'call forth', sentence: 'Don\'t provoke the animal.' },
+      { word: 'provoke', meaning: 'call forth', sentence: "Don't provoke the animal." },
       { word: 'revoke', meaning: 'call back', sentence: 'They will revoke the license.' },
     ],
     relatedRootIds: ['root_voc'],
@@ -1201,7 +1233,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'vɔːlv' },
       { accent: 'british', ipa: 'vɔːlv' },
-      { accent: 'australian', ipa: 'vɔːlv' }
+      { accent: 'australian', ipa: 'vɔːlv' },
     ],
     examples: [
       { word: 'revolve', meaning: 'roll again', sentence: 'The Earth revolves around the sun.' },
@@ -1218,7 +1250,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'vɔːlv' },
       { accent: 'british', ipa: 'vɔːlv' },
-      { accent: 'australian', ipa: 'vɔːlv' }
+      { accent: 'australian', ipa: 'vɔːlv' },
     ],
     examples: [
       { word: 'revolution', meaning: 'roll back', sentence: 'The revolution changed history.' },
@@ -1235,7 +1267,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'ˈæɡri' },
       { accent: 'british', ipa: 'ˈæɡri' },
-      { accent: 'australian', ipa: 'ˈæɡri' }
+      { accent: 'australian', ipa: 'ˈæɡri' },
     ],
     examples: [
       { word: 'agriculture', meaning: 'field cultivation', sentence: 'Agriculture is important.' },
@@ -1252,7 +1284,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'ɔlt' },
       { accent: 'british', ipa: 'ɒlt' },
-      { accent: 'australian', ipa: 'ɒlt' }
+      { accent: 'australian', ipa: 'ɒlt' },
     ],
     examples: [
       { word: 'altitude', meaning: 'height high', sentence: 'The altitude is high.' },
@@ -1269,7 +1301,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'æm' },
       { accent: 'british', ipa: 'æm' },
-      { accent: 'australian', ipa: 'æm' }
+      { accent: 'australian', ipa: 'æm' },
     ],
     examples: [
       { word: 'amorous', meaning: 'loving', sentence: 'He is amorous.' },
@@ -1286,7 +1318,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'ˈænɪm' },
       { accent: 'british', ipa: 'ˈænɪm' },
-      { accent: 'australian', ipa: 'ˈænɪm' }
+      { accent: 'australian', ipa: 'ˈænɪm' },
     ],
     examples: [
       { word: 'animal', meaning: 'having spirit', sentence: 'The animal is wild.' },
@@ -1303,7 +1335,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'æn' },
       { accent: 'british', ipa: 'æn' },
-      { accent: 'australian', ipa: 'æn' }
+      { accent: 'australian', ipa: 'æn' },
     ],
     examples: [
       { word: 'annual', meaning: 'yearly', sentence: 'The annual report is due.' },
@@ -1320,7 +1352,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'æpt' },
       { accent: 'british', ipa: 'æpt' },
-      { accent: 'australian', ipa: 'æpt' }
+      { accent: 'australian', ipa: 'æpt' },
     ],
     examples: [
       { word: 'aptitude', meaning: 'fitness', sentence: 'She has aptitude.' },
@@ -1337,7 +1369,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'ˈækwə' },
       { accent: 'british', ipa: 'ˈækwə' },
-      { accent: 'australian', ipa: 'ˈækwə' }
+      { accent: 'australian', ipa: 'ˈækwə' },
     ],
     examples: [
       { word: 'aquarium', meaning: 'water place', sentence: 'The aquarium is beautiful.' },
@@ -1354,7 +1386,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'ɑrtʃ' },
       { accent: 'british', ipa: 'ɑːtʃ' },
-      { accent: 'australian', ipa: 'ɑːtʃ' }
+      { accent: 'australian', ipa: 'ɑːtʃ' },
     ],
     examples: [
       { word: 'architect', meaning: 'chief builder', sentence: 'The architect designed it.' },
@@ -1371,7 +1403,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'ˈæstər' },
       { accent: 'british', ipa: 'ˈɑːstə' },
-      { accent: 'australian', ipa: 'ˈɑːstə' }
+      { accent: 'australian', ipa: 'ˈɑːstə' },
     ],
     examples: [
       { word: 'asteroid', meaning: 'star like', sentence: 'The asteroid orbits.' },
@@ -1388,7 +1420,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'ɔt' },
       { accent: 'british', ipa: 'ɔːt' },
-      { accent: 'australian', ipa: 'ɔːt' }
+      { accent: 'australian', ipa: 'ɔːt' },
     ],
     examples: [
       { word: 'autograph', meaning: 'self writing', sentence: 'Get an autograph.' },
@@ -1405,7 +1437,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'bɛl' },
       { accent: 'british', ipa: 'bɛl' },
-      { accent: 'australian', ipa: 'bɛl' }
+      { accent: 'australian', ipa: 'bɛl' },
     ],
     examples: [
       { word: 'rebel', meaning: 'war again', sentence: 'The rebel fought.' },
@@ -1422,7 +1454,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'bɛn' },
       { accent: 'british', ipa: 'bɛn' },
-      { accent: 'australian', ipa: 'bɛn' }
+      { accent: 'australian', ipa: 'bɛn' },
     ],
     examples: [
       { word: 'benefit', meaning: 'good deed', sentence: 'The benefit is great.' },
@@ -1439,12 +1471,12 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'american', ipa: 'ˈbɪbliəʊ' },
       { accent: 'british', ipa: 'ˈbɪbliəʊ' },
-      { accent: 'australian', ipa: 'ˈbɪbliəʊ' }
+      { accent: 'australian', ipa: 'ˈbɪbliəʊ' },
     ],
     examples: [
       { word: 'bibliography', meaning: 'book writing', sentence: 'Check the bibliography.' },
       { word: 'bibliophile', meaning: 'book lover', sentence: 'He is a bibliophile.' },
     ],
     relatedRootIds: [],
-  }
+  },
 ];

@@ -16,5 +16,5 @@ export const etymologyData: Record<string, Etymology> = {
   ...dailyUseNounsEtymology,
   ...adjectivesEtymology,
   ...adverbsEtymology,
-  ...prepositionsEtymology
+  ...prepositionsEtymology,
 };

@@ -11,7 +11,7 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'abl' },
       { accent: 'quebecois', ipa: 'abl' },
-      { accent: 'belgian', ipa: 'abl' }
+      { accent: 'belgian', ipa: 'abl' },
     ],
     examples: [
       { word: 'lisible', meaning: 'readable', sentence: 'Ce texte est très lisible.' },
@@ -28,11 +28,11 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'aʒ' },
       { accent: 'quebecois', ipa: 'aʒ' },
-      { accent: 'belgian', ipa: 'aʒ' }
+      { accent: 'belgian', ipa: 'aʒ' },
     ],
     examples: [
       { word: 'voyage', meaning: 'journey', sentence: 'Nous faisons un voyage en Italie.' },
-      { word: 'message', meaning: 'message', sentence: 'J\'ai reçu un message important.' },
+      { word: 'message', meaning: 'message', sentence: "J'ai reçu un message important." },
     ],
     relatedRootIds: [],
   },
@@ -45,7 +45,7 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ɛ̃' },
       { accent: 'quebecois', ipa: 'ɛ̃' },
-      { accent: 'belgian', ipa: 'ɛ̃' }
+      { accent: 'belgian', ipa: 'ɛ̃' },
     ],
     examples: [
       { word: 'américain', meaning: 'American', sentence: 'Il est américain.' },
@@ -62,11 +62,15 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'asjɔ̃' },
       { accent: 'quebecois', ipa: 'asjɔ̃' },
-      { accent: 'belgian', ipa: 'asjɔ̃' }
+      { accent: 'belgian', ipa: 'asjɔ̃' },
     ],
     examples: [
       { word: 'création', meaning: 'creation', sentence: 'La création artistique est importante.' },
-      { word: 'information', meaning: 'information', sentence: 'J\'ai besoin de plus d\'information.' },
+      {
+        word: 'information',
+        meaning: 'information',
+        sentence: "J'ai besoin de plus d'information.",
+      },
     ],
     relatedRootIds: [],
   },
@@ -79,11 +83,11 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'œʁ' },
       { accent: 'quebecois', ipa: 'œʁ' },
-      { accent: 'belgian', ipa: 'œʁ' }
+      { accent: 'belgian', ipa: 'œʁ' },
     ],
     examples: [
       { word: 'professeur', meaning: 'teacher', sentence: 'Le professeur explique la leçon.' },
-      { word: 'acteur', meaning: 'actor', sentence: 'L\'acteur joue dans un film.' },
+      { word: 'acteur', meaning: 'actor', sentence: "L'acteur joue dans un film." },
     ],
     relatedRootIds: [],
   },
@@ -92,11 +96,11 @@ export const suffixes: WordRoot[] = [
     root: '-ment',
     type: 'suffix',
     languageOrigin: 'Latin',
-    meaning: 'manière d\'agir (manner of acting)',
+    meaning: "manière d'agir (manner of acting)",
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'mɑ̃' },
       { accent: 'quebecois', ipa: 'mɑ̃' },
-      { accent: 'belgian', ipa: 'mɑ̃' }
+      { accent: 'belgian', ipa: 'mɑ̃' },
     ],
     examples: [
       { word: 'rapidement', meaning: 'quickly', sentence: 'Il court rapidement.' },
@@ -113,11 +117,11 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'sjɔ̃' },
       { accent: 'quebecois', ipa: 'sjɔ̃' },
-      { accent: 'belgian', ipa: 'sjɔ̃' }
+      { accent: 'belgian', ipa: 'sjɔ̃' },
     ],
     examples: [
       { word: 'nation', meaning: 'nation', sentence: 'La France est une nation.' },
-      { word: 'question', meaning: 'question', sentence: 'J\'ai une question importante.' },
+      { word: 'question', meaning: 'question', sentence: "J'ai une question importante." },
     ],
     relatedRootIds: [],
   },
@@ -130,11 +134,15 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'je' },
       { accent: 'quebecois', ipa: 'je' },
-      { accent: 'belgian', ipa: 'je' }
+      { accent: 'belgian', ipa: 'je' },
     ],
     examples: [
       { word: 'boulanger', meaning: 'baker', sentence: 'Le boulanger fait du pain.' },
-      { word: 'charpentier', meaning: 'carpenter', sentence: 'Le charpentier construit des maisons.' },
+      {
+        word: 'charpentier',
+        meaning: 'carpenter',
+        sentence: 'Le charpentier construit des maisons.',
+      },
     ],
     relatedRootIds: [],
   },
@@ -147,10 +155,10 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ist' },
       { accent: 'quebecois', ipa: 'ist' },
-      { accent: 'belgian', ipa: 'ist' }
+      { accent: 'belgian', ipa: 'ist' },
     ],
     examples: [
-      { word: 'artiste', meaning: 'artist', sentence: 'L\'artiste peint des tableaux.' },
+      { word: 'artiste', meaning: 'artist', sentence: "L'artiste peint des tableaux." },
       { word: 'dentiste', meaning: 'dentist', sentence: 'Le dentiste soigne les dents.' },
     ],
     relatedRootIds: [],
@@ -164,11 +172,11 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ik' },
       { accent: 'quebecois', ipa: 'ik' },
-      { accent: 'belgian', ipa: 'ik' }
+      { accent: 'belgian', ipa: 'ik' },
     ],
     examples: [
       { word: 'politique', meaning: 'political', sentence: 'La politique est importante.' },
-      { word: 'logique', meaning: 'logical', sentence: 'C\'est logique.' },
+      { word: 'logique', meaning: 'logical', sentence: "C'est logique." },
     ],
     relatedRootIds: [],
   },
@@ -181,11 +189,15 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ism' },
       { accent: 'quebecois', ipa: 'ism' },
-      { accent: 'belgian', ipa: 'ism' }
+      { accent: 'belgian', ipa: 'ism' },
     ],
     examples: [
       { word: 'socialisme', meaning: 'socialism', sentence: 'Le socialisme est une doctrine.' },
-      { word: 'capitalisme', meaning: 'capitalism', sentence: 'Le capitalisme est un système économique.' },
+      {
+        word: 'capitalisme',
+        meaning: 'capitalism',
+        sentence: 'Le capitalisme est un système économique.',
+      },
     ],
     relatedRootIds: [],
   },
@@ -198,7 +210,7 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'it' },
       { accent: 'quebecois', ipa: 'it' },
-      { accent: 'belgian', ipa: 'it' }
+      { accent: 'belgian', ipa: 'it' },
     ],
     examples: [
       { word: 'bronchite', meaning: 'bronchitis', sentence: 'Il a une bronchite.' },
@@ -215,7 +227,7 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ø' },
       { accent: 'quebecois', ipa: 'ø' },
-      { accent: 'belgian', ipa: 'ø' }
+      { accent: 'belgian', ipa: 'ø' },
     ],
     examples: [
       { word: 'généreux', meaning: 'generous', sentence: 'Il est généreux.' },
@@ -232,11 +244,11 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'if' },
       { accent: 'quebecois', ipa: 'if' },
-      { accent: 'belgian', ipa: 'if' }
+      { accent: 'belgian', ipa: 'if' },
     ],
     examples: [
       { word: 'actif', meaning: 'active', sentence: 'Il est très actif.' },
-      { word: 'sportif', meaning: 'sporty', sentence: 'C\'est un sportif.' },
+      { word: 'sportif', meaning: 'sporty', sentence: "C'est un sportif." },
     ],
     relatedRootIds: [],
   },
@@ -249,11 +261,11 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'iv' },
       { accent: 'quebecois', ipa: 'iv' },
-      { accent: 'belgian', ipa: 'iv' }
+      { accent: 'belgian', ipa: 'iv' },
     ],
     examples: [
       { word: 'active', meaning: 'active', sentence: 'Elle est active.' },
-      { word: 'creative', meaning: 'creative', sentence: 'C\'est une personne creative.' },
+      { word: 'creative', meaning: 'creative', sentence: "C'est une personne creative." },
     ],
     relatedRootIds: [],
   },
@@ -266,7 +278,7 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'yʁ' },
       { accent: 'quebecois', ipa: 'yʁ' },
-      { accent: 'belgian', ipa: 'yʁ' }
+      { accent: 'belgian', ipa: 'yʁ' },
     ],
     examples: [
       { word: 'culture', meaning: 'culture', sentence: 'La culture est importante.' },
@@ -283,10 +295,10 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ɑ̃s' },
       { accent: 'quebecois', ipa: 'ɑ̃s' },
-      { accent: 'belgian', ipa: 'ɑ̃s' }
+      { accent: 'belgian', ipa: 'ɑ̃s' },
     ],
     examples: [
-      { word: 'espérance', meaning: 'hope', sentence: 'L\'espérance est importante.' },
+      { word: 'espérance', meaning: 'hope', sentence: "L'espérance est importante." },
       { word: 'souffrance', meaning: 'suffering', sentence: 'La souffrance est difficile.' },
     ],
     relatedRootIds: [],
@@ -300,11 +312,11 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ɑ̃s' },
       { accent: 'quebecois', ipa: 'ɑ̃s' },
-      { accent: 'belgian', ipa: 'ɑ̃s' }
+      { accent: 'belgian', ipa: 'ɑ̃s' },
     ],
     examples: [
-      { word: 'silence', meaning: 'silence', sentence: 'Le silence est d\'or.' },
-      { word: 'excellence', meaning: 'excellence', sentence: 'L\'excellence est requise.' },
+      { word: 'silence', meaning: 'silence', sentence: "Le silence est d'or." },
+      { word: 'excellence', meaning: 'excellence', sentence: "L'excellence est requise." },
     ],
     relatedRootIds: [],
   },
@@ -317,7 +329,7 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ʁi' },
       { accent: 'quebecois', ipa: 'ʁi' },
-      { accent: 'belgian', ipa: 'ʁi' }
+      { accent: 'belgian', ipa: 'ʁi' },
     ],
     examples: [
       { word: 'boulangerie', meaning: 'bakery', sentence: 'La boulangerie est ouverte.' },
@@ -334,10 +346,10 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ɛ' },
       { accent: 'quebecois', ipa: 'ɛ' },
-      { accent: 'belgian', ipa: 'ɛ' }
+      { accent: 'belgian', ipa: 'ɛ' },
     ],
     examples: [
-      { word: 'livret', meaning: 'booklet', sentence: 'C\'est un petit livret.' },
+      { word: 'livret', meaning: 'booklet', sentence: "C'est un petit livret." },
       { word: 'fichier', meaning: 'file', sentence: 'Le fichier est important.' },
     ],
     relatedRootIds: [],
@@ -351,7 +363,7 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ɛt' },
       { accent: 'quebecois', ipa: 'ɛt' },
-      { accent: 'belgian', ipa: 'ɛt' }
+      { accent: 'belgian', ipa: 'ɛt' },
     ],
     examples: [
       { word: 'cuvette', meaning: 'small basin', sentence: 'La cuvette est propre.' },
@@ -368,7 +380,7 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'waʁ' },
       { accent: 'quebecois', ipa: 'waʁ' },
-      { accent: 'belgian', ipa: 'waʁ' }
+      { accent: 'belgian', ipa: 'waʁ' },
     ],
     examples: [
       { word: 'boîte', meaning: 'box', sentence: 'La boîte est vide.' },
@@ -385,7 +397,7 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ɔs' },
       { accent: 'quebecois', ipa: 'ɔs' },
-      { accent: 'belgian', ipa: 'ɔs' }
+      { accent: 'belgian', ipa: 'ɔs' },
     ],
     examples: [
       { word: 'thérose', meaning: 'tuberculosis', sentence: 'La tuberculose est grave.' },
@@ -402,10 +414,10 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ɔid' },
       { accent: 'quebecois', ipa: 'ɔid' },
-      { accent: 'belgian', ipa: 'ɔid' }
+      { accent: 'belgian', ipa: 'ɔid' },
     ],
     examples: [
-      { word: 'sphéroïde', meaning: 'spheroid', sentence: 'C\'est une forme sphéroïde.' },
+      { word: 'sphéroïde', meaning: 'spheroid', sentence: "C'est une forme sphéroïde." },
       { word: 'ovoïde', meaning: 'ovoid', sentence: 'La forme est ovoïde.' },
     ],
     relatedRootIds: [],
@@ -419,11 +431,11 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'al' },
       { accent: 'quebecois', ipa: 'al' },
-      { accent: 'belgian', ipa: 'al' }
+      { accent: 'belgian', ipa: 'al' },
     ],
     examples: [
       { word: 'professionnel', meaning: 'professional', sentence: 'Il est professionnel.' },
-      { word: 'national', meaning: 'national', sentence: 'C\'est un monument national.' },
+      { word: 'national', meaning: 'national', sentence: "C'est un monument national." },
     ],
     relatedRootIds: [],
   },
@@ -436,11 +448,11 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ɛl' },
       { accent: 'quebecois', ipa: 'ɛl' },
-      { accent: 'belgian', ipa: 'ɛl' }
+      { accent: 'belgian', ipa: 'ɛl' },
     ],
     examples: [
-      { word: 'naturel', meaning: 'natural', sentence: 'C\'est naturel.' },
-      { word: 'universel', meaning: 'universal', sentence: 'C\'est universel.' },
+      { word: 'naturel', meaning: 'natural', sentence: "C'est naturel." },
+      { word: 'universel', meaning: 'universal', sentence: "C'est universel." },
     ],
     relatedRootIds: [],
   },
@@ -453,7 +465,7 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'aʁ' },
       { accent: 'quebecois', ipa: 'aʁ' },
-      { accent: 'belgian', ipa: 'aʁ' }
+      { accent: 'belgian', ipa: 'aʁ' },
     ],
     examples: [
       { word: 'bavard', meaning: 'talkative', sentence: 'Il est bavard.' },
@@ -470,11 +482,11 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'as' },
       { accent: 'quebecois', ipa: 'as' },
-      { accent: 'belgian', ipa: 'as' }
+      { accent: 'belgian', ipa: 'as' },
     ],
     examples: [
       { word: 'bonasse', meaning: 'naive', sentence: 'Elle est bonasse.' },
-      { word: 'drôle', meaning: 'funny', sentence: 'C\'est drôle.' },
+      { word: 'drôle', meaning: 'funny', sentence: "C'est drôle." },
     ],
     relatedRootIds: [],
   },
@@ -487,11 +499,11 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'o' },
       { accent: 'quebecois', ipa: 'o' },
-      { accent: 'belgian', ipa: 'o' }
+      { accent: 'belgian', ipa: 'o' },
     ],
     examples: [
       { word: 'fou', meaning: 'crazy', sentence: 'Il est fou.' },
-      { word: 'lourd', meaning: 'heavy', sentence: 'C\'est lourd.' },
+      { word: 'lourd', meaning: 'heavy', sentence: "C'est lourd." },
     ],
     relatedRootIds: [],
   },
@@ -504,10 +516,10 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'o' },
       { accent: 'quebecois', ipa: 'o' },
-      { accent: 'belgian', ipa: 'o' }
+      { accent: 'belgian', ipa: 'o' },
     ],
     examples: [
-      { word: 'morceau', meaning: 'piece', sentence: 'C\'est un morceau.' },
+      { word: 'morceau', meaning: 'piece', sentence: "C'est un morceau." },
       { word: 'bureau', meaning: 'office', sentence: 'Le bureau est fermé.' },
     ],
     relatedRootIds: [],
@@ -521,7 +533,7 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ɛl' },
       { accent: 'quebecois', ipa: 'ɛl' },
-      { accent: 'belgian', ipa: 'ɛl' }
+      { accent: 'belgian', ipa: 'ɛl' },
     ],
     examples: [
       { word: 'fille', meaning: 'girl', sentence: 'La fille joue.' },
@@ -538,11 +550,11 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ɔ̃' },
       { accent: 'quebecois', ipa: 'ɔ̃' },
-      { accent: 'belgian', ipa: 'ɔ̃' }
+      { accent: 'belgian', ipa: 'ɔ̃' },
     ],
     examples: [
       { word: 'chambre', meaning: 'room', sentence: 'La chambre est grande.' },
-      { word: 'bonbon', meaning: 'candy', sentence: 'J\'aime les bonbons.' },
+      { word: 'bonbon', meaning: 'candy', sentence: "J'aime les bonbons." },
     ],
     relatedRootIds: [],
   },
@@ -555,10 +567,10 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'o' },
       { accent: 'quebecois', ipa: 'o' },
-      { accent: 'belgian', ipa: 'o' }
+      { accent: 'belgian', ipa: 'o' },
     ],
     examples: [
-      { word: 'ilot', meaning: 'small island', sentence: 'L\'ilot est isolé.' },
+      { word: 'ilot', meaning: 'small island', sentence: "L'ilot est isolé." },
       { word: 'chariot', meaning: 'cart', sentence: 'Le chariot avance.' },
     ],
     relatedRootIds: [],
@@ -572,7 +584,7 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'y' },
       { accent: 'quebecois', ipa: 'y' },
-      { accent: 'belgian', ipa: 'y' }
+      { accent: 'belgian', ipa: 'y' },
     ],
     examples: [
       { word: 'jeu', meaning: 'game', sentence: 'Le jeu est amusant.' },
@@ -589,7 +601,7 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'kyl' },
       { accent: 'quebecois', ipa: 'kyl' },
-      { accent: 'belgian', ipa: 'kyl' }
+      { accent: 'belgian', ipa: 'kyl' },
     ],
     examples: [
       { word: 'particule', meaning: 'particle', sentence: 'La particule est petite.' },
@@ -606,12 +618,12 @@ export const suffixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'skyl' },
       { accent: 'quebecois', ipa: 'skyl' },
-      { accent: 'belgian', ipa: 'skyl' }
+      { accent: 'belgian', ipa: 'skyl' },
     ],
     examples: [
-      { word: 'opuscule', meaning: 'small work', sentence: 'C\'est un opuscule.' },
-      { word: 'homuncule', meaning: 'little man', sentence: 'L\'homuncule est mythique.' },
+      { word: 'opuscule', meaning: 'small work', sentence: "C'est un opuscule." },
+      { word: 'homuncule', meaning: 'little man', sentence: "L'homuncule est mythique." },
     ],
     relatedRootIds: [],
-  }
+  },
 ];

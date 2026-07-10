@@ -1,199 +1,472 @@
 import { VocabWord } from '@/types';
 
 export const numbers: VocabWord[] = [
-  { id: 'word_one', word: 'one', meaning: 'the number 1', pronunciationVariants: [
-    { accent: 'american', ipa: 'wʌn' },
-    { accent: 'british', ipa: 'wʌn' },
-    { accent: 'australian', ipa: 'wʌn' }
-  ], category: 'numbers', examples: ['I have one question.', 'One plus one equals two.'] },
-  { id: 'word_two', word: 'two', meaning: 'the number 2', pronunciationVariants: [
-    { accent: 'american', ipa: 'tuː' },
-    { accent: 'british', ipa: 'tuː' },
-    { accent: 'australian', ipa: 'tuː' }
-  ], category: 'numbers', examples: ['Two cats are playing.', 'Can I have two tickets?'] },
-  { id: 'word_three', word: 'three', meaning: 'the number 3', pronunciationVariants: [
-    { accent: 'american', ipa: 'θriː' },
-    { accent: 'british', ipa: 'θriː' },
-    { accent: 'australian', ipa: 'θriː' }
-  ], category: 'numbers', examples: ['Three people arrived.', 'I need three copies.'] },
-  { id: 'word_four', word: 'four', meaning: 'the number 4', pronunciationVariants: [
-    { accent: 'american', ipa: 'fɔːr' },
-    { accent: 'british', ipa: 'fɔː' },
-    { accent: 'australian', ipa: 'fɔː' }
-  ], category: 'numbers', examples: ['Four seasons in a year.', 'She has four children.'] },
-  { id: 'word_five', word: 'five', meaning: 'the number 5', pronunciationVariants: [
-    { accent: 'american', ipa: 'faɪv' },
-    { accent: 'british', ipa: 'faɪv' },
-    { accent: 'australian', ipa: 'faɪv' }
-  ], category: 'numbers', examples: ['Five fingers on a hand.', 'Give me five minutes.'] },
-  { id: 'word_six', word: 'six', meaning: 'the number 6', pronunciationVariants: [
-    { accent: 'american', ipa: 'sɪks' },
-    { accent: 'british', ipa: 'sɪks' },
-    { accent: 'australian', ipa: 'sɪks' }
-  ], category: 'numbers', examples: ['Six eggs in the carton.', 'The show starts at six.'] },
-  { id: 'word_seven', word: 'seven', meaning: 'the number 7', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈsɛvn' },
-    { accent: 'british', ipa: 'ˈsɛvn' },
-    { accent: 'australian', ipa: 'ˈsɛvn' }
-  ], category: 'numbers', examples: ['Seven days in a week.', 'She is seven years old.'] },
-  { id: 'word_eight', word: 'eight', meaning: 'the number 8', pronunciationVariants: [
-    { accent: 'american', ipa: 'eɪt' },
-    { accent: 'british', ipa: 'eɪt' },
-    { accent: 'australian', ipa: 'eɪt' }
-  ], category: 'numbers', examples: ['Eight people attended.', 'The meeting is at eight.'] },
-  { id: 'word_nine', word: 'nine', meaning: 'the number 9', pronunciationVariants: [
-    { accent: 'american', ipa: 'naɪn' },
-    { accent: 'british', ipa: 'naɪn' },
-    { accent: 'australian', ipa: 'naɪn' }
-  ], category: 'numbers', examples: ['Nine lives of a cat.', 'I have nine books.'] },
-  { id: 'word_ten', word: 'ten', meaning: 'the number 10', pronunciationVariants: [
-    { accent: 'american', ipa: 'tɛn' },
-    { accent: 'british', ipa: 'tɛn' },
-    { accent: 'australian', ipa: 'tɛn' }
-  ], category: 'numbers', examples: ['Ten fingers on both hands.', 'Perfect ten score.'] },
-  { id: 'word_eleven', word: 'eleven', meaning: 'the number 11', pronunciationVariants: [
-    { accent: 'american', ipa: 'ɪˈlɛvn' },
-    { accent: 'british', ipa: 'ɪˈlɛvn' },
-    { accent: 'australian', ipa: 'ɪˈlɛvn' }
-  ], category: 'numbers', examples: ['Eleven players on a team.', 'She arrived at eleven.'] },
-  { id: 'word_twelve', word: 'twelve', meaning: 'the number 12', pronunciationVariants: [
-    { accent: 'american', ipa: 'twɛlv' },
-    { accent: 'british', ipa: 'twɛlv' },
-    { accent: 'australian', ipa: 'twɛlv' }
-  ], category: 'numbers', examples: ['Twelve months in a year.', 'A dozen means twelve.'] },
-  { id: 'word_twenty', word: 'twenty', meaning: 'the number 20', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈtwɛnti' },
-    { accent: 'british', ipa: 'ˈtwɛnti' },
-    { accent: 'australian', ipa: 'ˈtwɛnti' }
-  ], category: 'numbers', examples: ['Twenty dollars.', 'She is twenty years old.'] },
-  { id: 'word_thirty', word: 'thirty', meaning: 'the number 30', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈθɜːrti' },
-    { accent: 'british', ipa: 'ˈθɜːti' },
-    { accent: 'australian', ipa: 'ˈθɜːti' }
-  ], category: 'numbers', examples: ['Thirty students in class.', 'It\'s thirty degrees.'] },
-  { id: 'word_hundred', word: 'hundred', meaning: 'the number 100', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈhʌndrəd' },
-    { accent: 'british', ipa: 'ˈhʌndrəd' },
-    { accent: 'australian', ipa: 'ˈhʌndrəd' }
-  ], category: 'numbers', examples: ['A hundred people came.', 'The book has a hundred pages.'] },
-  { id: 'word_thousand', word: 'thousand', meaning: 'the number 1000', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈθaʊzənd' },
-    { accent: 'british', ipa: 'ˈθaʊzənd' },
-    { accent: 'australian', ipa: 'ˈθaʊzənd' }
-  ], category: 'numbers', examples: ['A thousand dollars.', 'A thousand miles away.'] },
-  { id: 'word_million', word: 'million', meaning: 'the number 1,000,000', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈmɪljən' },
-    { accent: 'british', ipa: 'ˈmɪljən' },
-    { accent: 'australian', ipa: 'ˈmɪljən' }
-  ], category: 'numbers', examples: ['A million people watched.', 'It cost a million dollars.'] },
-  { id: 'word_first', word: 'first', meaning: 'position 1', pronunciationVariants: [
-    { accent: 'american', ipa: 'fɜːrst' },
-    { accent: 'british', ipa: 'fɜːst' },
-    { accent: 'australian', ipa: 'fɜːst' }
-  ], category: 'numbers', examples: ['First place winner.', 'This is my first time.'] },
-  { id: 'word_second', word: 'second', meaning: 'position 2', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈsɛkənd' },
-    { accent: 'british', ipa: 'ˈsɛkənd' },
-    { accent: 'australian', ipa: 'ˈsɛkənd' }
-  ], category: 'numbers', examples: ['Second place.', 'Wait a second.'] },
-  { id: 'word_third', word: 'third', meaning: 'position 3', pronunciationVariants: [
-    { accent: 'american', ipa: 'θɜːrd' },
-    { accent: 'british', ipa: 'θɜːd' },
-    { accent: 'australian', ipa: 'θɜːd' }
-  ], category: 'numbers', examples: ['Third floor.', 'She came in third.'] },
-  { id: 'word_fourth', word: 'fourth', meaning: 'position 4', pronunciationVariants: [
-    { accent: 'american', ipa: 'fɔːrθ' },
-    { accent: 'british', ipa: 'fɔːθ' },
-    { accent: 'australian', ipa: 'fɔːθ' }
-  ], category: 'numbers', examples: ['Fourth of July.', 'The fourth chapter.'] },
-  { id: 'word_fifth', word: 'fifth', meaning: 'position 5', pronunciationVariants: [
-    { accent: 'american', ipa: 'fɪfθ' },
-    { accent: 'british', ipa: 'fɪfθ' },
-    { accent: 'australian', ipa: 'fɪfθ' }
-  ], category: 'numbers', examples: ['Fifth Avenue.', 'The fifth element.'] },
-  { id: 'word_sixth', word: 'sixth', meaning: 'position 6', pronunciationVariants: [
-    { accent: 'american', ipa: 'sɪksθ' },
-    { accent: 'british', ipa: 'sɪksθ' },
-    { accent: 'australian', ipa: 'sɪksθ' }
-  ], category: 'numbers', examples: ['Sixth sense.', 'The sixth month.'] },
-  { id: 'word_seventh', word: 'seventh', meaning: 'position 7', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈsɛvənθ' },
-    { accent: 'british', ipa: 'ˈsɛvənθ' },
-    { accent: 'australian', ipa: 'ˈsɛvənθ' }
-  ], category: 'numbers', examples: ['Seventh heaven.', 'The seventh day.'] },
-  { id: 'word_eighth', word: 'eighth', meaning: 'position 8', pronunciationVariants: [
-    { accent: 'american', ipa: 'eɪtθ' },
-    { accent: 'british', ipa: 'eɪtθ' },
-    { accent: 'australian', ipa: 'eɪtθ' }
-  ], category: 'numbers', examples: ['Eighth note.', 'The eighth wonder.'] },
-  { id: 'word_ninth', word: 'ninth', meaning: 'position 9', pronunciationVariants: [
-    { accent: 'american', ipa: 'naɪnθ' },
-    { accent: 'british', ipa: 'naɪnθ' },
-    { accent: 'australian', ipa: 'naɪnθ' }
-  ], category: 'numbers', examples: ['Ninth inning.', 'The ninth circle.'] },
-  { id: 'word_tenth', word: 'tenth', meaning: 'position 10', pronunciationVariants: [
-    { accent: 'american', ipa: 'tɛnθ' },
-    { accent: 'british', ipa: 'tɛnθ' },
-    { accent: 'australian', ipa: 'tɛnθ' }
-  ], category: 'numbers', examples: ['Tenth anniversary.', 'The tenth floor.'] },
-  { id: 'word_zero', word: 'zero', meaning: 'the number 0', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈzɪroʊ' },
-    { accent: 'british', ipa: 'ˈzɪərəʊ' },
-    { accent: 'australian', ipa: 'ˈzɪərəʊ' }
-  ], category: 'numbers', examples: ['Zero degrees.', 'Absolute zero.'] },
-  { id: 'word_forty', word: 'forty', meaning: 'the number 40', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈfɔːrti' },
-    { accent: 'british', ipa: 'ˈfɔːti' },
-    { accent: 'australian', ipa: 'ˈfɔːti' }
-  ], category: 'numbers', examples: ['Forty winks.', 'Over forty years old.'] },
-  { id: 'word_fifty', word: 'fifty', meaning: 'the number 50', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈfɪfti' },
-    { accent: 'british', ipa: 'ˈfɪfti' },
-    { accent: 'australian', ipa: 'ˈfɪfti' }
-  ], category: 'numbers', examples: ['Fifty states.', 'Fifty-fifty chance.'] },
-  { id: 'word_sixty', word: 'sixty', meaning: 'the number 60', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈsɪksti' },
-    { accent: 'british', ipa: 'ˈsɪksti' },
-    { accent: 'australian', ipa: 'ˈsɪksti' }
-  ], category: 'numbers', examples: ['Sixty minutes.', 'Sixty years old.'] },
-  { id: 'word_seventy', word: 'seventy', meaning: 'the number 70', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈsɛvnti' },
-    { accent: 'british', ipa: 'ˈsɛvnti' },
-    { accent: 'australian', ipa: 'ˈsɛvnti' }
-  ], category: 'numbers', examples: ['Seventy degrees.', 'Seventy miles per hour.'] },
-  { id: 'word_eighty', word: 'eighty', meaning: 'the number 80', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈeɪti' },
-    { accent: 'british', ipa: 'ˈeɪti' },
-    { accent: 'australian', ipa: 'ˈeɪti' }
-  ], category: 'numbers', examples: ['Eighty days.', 'Eighty percent.'] },
-  { id: 'word_ninety', word: 'ninety', meaning: 'the number 90', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈnaɪnti' },
-    { accent: 'british', ipa: 'ˈnaɪnti' },
-    { accent: 'australian', ipa: 'ˈnaɪnti' }
-  ], category: 'numbers', examples: ['Ninety degrees.', 'Ninety percent.'] },
-  { id: 'word_billion', word: 'billion', meaning: 'the number 1,000,000,000', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈbɪljən' },
-    { accent: 'british', ipa: 'ˈbɪljən' },
-    { accent: 'australian', ipa: 'ˈbɪljən' }
-  ], category: 'numbers', examples: ['A billion dollars.', 'Billions of stars.'] },
-  { id: 'word_half', word: 'half', meaning: 'one of two equal parts', pronunciationVariants: [
-    { accent: 'american', ipa: 'hæf' },
-    { accent: 'british', ipa: 'hɑːf' },
-    { accent: 'australian', ipa: 'hɑːf' }
-  ], category: 'numbers', examples: ['Half an hour.', 'Half empty.'] },
-  { id: 'word_quarter', word: 'quarter', meaning: 'one of four equal parts', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈkwɔːrtər' },
-    { accent: 'british', ipa: 'ˈkwɔːtə' },
-    { accent: 'australian', ipa: 'ˈkwɔːtə' }
-  ], category: 'numbers', examples: ['Quarter past three.', 'A quarter of a dollar.'] },
-  { id: 'word_double', word: 'double', meaning: 'twice as much', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈdʌbəl' },
-    { accent: 'british', ipa: 'ˈdʌbəl' },
-    { accent: 'australian', ipa: 'ˈdʌbəl' }
-  ], category: 'numbers', examples: ['Double check.', 'Double the amount.'] },
-  { id: 'word_triple', word: 'triple', meaning: 'three times as much', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈtrɪpəl' },
-    { accent: 'british', ipa: 'ˈtrɪpəl' },
-    { accent: 'australian', ipa: 'ˈtrɪpəl' }
-  ], category: 'numbers', examples: ['Triple threat.', 'Triple jump.'] }
+  {
+    id: 'word_one',
+    word: 'one',
+    meaning: 'the number 1',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'wʌn' },
+      { accent: 'british', ipa: 'wʌn' },
+      { accent: 'australian', ipa: 'wʌn' },
+    ],
+    category: 'numbers',
+    examples: ['I have one question.', 'One plus one equals two.'],
+  },
+  {
+    id: 'word_two',
+    word: 'two',
+    meaning: 'the number 2',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'tuː' },
+      { accent: 'british', ipa: 'tuː' },
+      { accent: 'australian', ipa: 'tuː' },
+    ],
+    category: 'numbers',
+    examples: ['Two cats are playing.', 'Can I have two tickets?'],
+  },
+  {
+    id: 'word_three',
+    word: 'three',
+    meaning: 'the number 3',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'θriː' },
+      { accent: 'british', ipa: 'θriː' },
+      { accent: 'australian', ipa: 'θriː' },
+    ],
+    category: 'numbers',
+    examples: ['Three people arrived.', 'I need three copies.'],
+  },
+  {
+    id: 'word_four',
+    word: 'four',
+    meaning: 'the number 4',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'fɔːr' },
+      { accent: 'british', ipa: 'fɔː' },
+      { accent: 'australian', ipa: 'fɔː' },
+    ],
+    category: 'numbers',
+    examples: ['Four seasons in a year.', 'She has four children.'],
+  },
+  {
+    id: 'word_five',
+    word: 'five',
+    meaning: 'the number 5',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'faɪv' },
+      { accent: 'british', ipa: 'faɪv' },
+      { accent: 'australian', ipa: 'faɪv' },
+    ],
+    category: 'numbers',
+    examples: ['Five fingers on a hand.', 'Give me five minutes.'],
+  },
+  {
+    id: 'word_six',
+    word: 'six',
+    meaning: 'the number 6',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'sɪks' },
+      { accent: 'british', ipa: 'sɪks' },
+      { accent: 'australian', ipa: 'sɪks' },
+    ],
+    category: 'numbers',
+    examples: ['Six eggs in the carton.', 'The show starts at six.'],
+  },
+  {
+    id: 'word_seven',
+    word: 'seven',
+    meaning: 'the number 7',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈsɛvn' },
+      { accent: 'british', ipa: 'ˈsɛvn' },
+      { accent: 'australian', ipa: 'ˈsɛvn' },
+    ],
+    category: 'numbers',
+    examples: ['Seven days in a week.', 'She is seven years old.'],
+  },
+  {
+    id: 'word_eight',
+    word: 'eight',
+    meaning: 'the number 8',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'eɪt' },
+      { accent: 'british', ipa: 'eɪt' },
+      { accent: 'australian', ipa: 'eɪt' },
+    ],
+    category: 'numbers',
+    examples: ['Eight people attended.', 'The meeting is at eight.'],
+  },
+  {
+    id: 'word_nine',
+    word: 'nine',
+    meaning: 'the number 9',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'naɪn' },
+      { accent: 'british', ipa: 'naɪn' },
+      { accent: 'australian', ipa: 'naɪn' },
+    ],
+    category: 'numbers',
+    examples: ['Nine lives of a cat.', 'I have nine books.'],
+  },
+  {
+    id: 'word_ten',
+    word: 'ten',
+    meaning: 'the number 10',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'tɛn' },
+      { accent: 'british', ipa: 'tɛn' },
+      { accent: 'australian', ipa: 'tɛn' },
+    ],
+    category: 'numbers',
+    examples: ['Ten fingers on both hands.', 'Perfect ten score.'],
+  },
+  {
+    id: 'word_eleven',
+    word: 'eleven',
+    meaning: 'the number 11',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ɪˈlɛvn' },
+      { accent: 'british', ipa: 'ɪˈlɛvn' },
+      { accent: 'australian', ipa: 'ɪˈlɛvn' },
+    ],
+    category: 'numbers',
+    examples: ['Eleven players on a team.', 'She arrived at eleven.'],
+  },
+  {
+    id: 'word_twelve',
+    word: 'twelve',
+    meaning: 'the number 12',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'twɛlv' },
+      { accent: 'british', ipa: 'twɛlv' },
+      { accent: 'australian', ipa: 'twɛlv' },
+    ],
+    category: 'numbers',
+    examples: ['Twelve months in a year.', 'A dozen means twelve.'],
+  },
+  {
+    id: 'word_twenty',
+    word: 'twenty',
+    meaning: 'the number 20',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈtwɛnti' },
+      { accent: 'british', ipa: 'ˈtwɛnti' },
+      { accent: 'australian', ipa: 'ˈtwɛnti' },
+    ],
+    category: 'numbers',
+    examples: ['Twenty dollars.', 'She is twenty years old.'],
+  },
+  {
+    id: 'word_thirty',
+    word: 'thirty',
+    meaning: 'the number 30',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈθɜːrti' },
+      { accent: 'british', ipa: 'ˈθɜːti' },
+      { accent: 'australian', ipa: 'ˈθɜːti' },
+    ],
+    category: 'numbers',
+    examples: ['Thirty students in class.', "It's thirty degrees."],
+  },
+  {
+    id: 'word_hundred',
+    word: 'hundred',
+    meaning: 'the number 100',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈhʌndrəd' },
+      { accent: 'british', ipa: 'ˈhʌndrəd' },
+      { accent: 'australian', ipa: 'ˈhʌndrəd' },
+    ],
+    category: 'numbers',
+    examples: ['A hundred people came.', 'The book has a hundred pages.'],
+  },
+  {
+    id: 'word_thousand',
+    word: 'thousand',
+    meaning: 'the number 1000',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈθaʊzənd' },
+      { accent: 'british', ipa: 'ˈθaʊzənd' },
+      { accent: 'australian', ipa: 'ˈθaʊzənd' },
+    ],
+    category: 'numbers',
+    examples: ['A thousand dollars.', 'A thousand miles away.'],
+  },
+  {
+    id: 'word_million',
+    word: 'million',
+    meaning: 'the number 1,000,000',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈmɪljən' },
+      { accent: 'british', ipa: 'ˈmɪljən' },
+      { accent: 'australian', ipa: 'ˈmɪljən' },
+    ],
+    category: 'numbers',
+    examples: ['A million people watched.', 'It cost a million dollars.'],
+  },
+  {
+    id: 'word_first',
+    word: 'first',
+    meaning: 'position 1',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'fɜːrst' },
+      { accent: 'british', ipa: 'fɜːst' },
+      { accent: 'australian', ipa: 'fɜːst' },
+    ],
+    category: 'numbers',
+    examples: ['First place winner.', 'This is my first time.'],
+  },
+  {
+    id: 'word_second',
+    word: 'second',
+    meaning: 'position 2',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈsɛkənd' },
+      { accent: 'british', ipa: 'ˈsɛkənd' },
+      { accent: 'australian', ipa: 'ˈsɛkənd' },
+    ],
+    category: 'numbers',
+    examples: ['Second place.', 'Wait a second.'],
+  },
+  {
+    id: 'word_third',
+    word: 'third',
+    meaning: 'position 3',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'θɜːrd' },
+      { accent: 'british', ipa: 'θɜːd' },
+      { accent: 'australian', ipa: 'θɜːd' },
+    ],
+    category: 'numbers',
+    examples: ['Third floor.', 'She came in third.'],
+  },
+  {
+    id: 'word_fourth',
+    word: 'fourth',
+    meaning: 'position 4',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'fɔːrθ' },
+      { accent: 'british', ipa: 'fɔːθ' },
+      { accent: 'australian', ipa: 'fɔːθ' },
+    ],
+    category: 'numbers',
+    examples: ['Fourth of July.', 'The fourth chapter.'],
+  },
+  {
+    id: 'word_fifth',
+    word: 'fifth',
+    meaning: 'position 5',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'fɪfθ' },
+      { accent: 'british', ipa: 'fɪfθ' },
+      { accent: 'australian', ipa: 'fɪfθ' },
+    ],
+    category: 'numbers',
+    examples: ['Fifth Avenue.', 'The fifth element.'],
+  },
+  {
+    id: 'word_sixth',
+    word: 'sixth',
+    meaning: 'position 6',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'sɪksθ' },
+      { accent: 'british', ipa: 'sɪksθ' },
+      { accent: 'australian', ipa: 'sɪksθ' },
+    ],
+    category: 'numbers',
+    examples: ['Sixth sense.', 'The sixth month.'],
+  },
+  {
+    id: 'word_seventh',
+    word: 'seventh',
+    meaning: 'position 7',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈsɛvənθ' },
+      { accent: 'british', ipa: 'ˈsɛvənθ' },
+      { accent: 'australian', ipa: 'ˈsɛvənθ' },
+    ],
+    category: 'numbers',
+    examples: ['Seventh heaven.', 'The seventh day.'],
+  },
+  {
+    id: 'word_eighth',
+    word: 'eighth',
+    meaning: 'position 8',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'eɪtθ' },
+      { accent: 'british', ipa: 'eɪtθ' },
+      { accent: 'australian', ipa: 'eɪtθ' },
+    ],
+    category: 'numbers',
+    examples: ['Eighth note.', 'The eighth wonder.'],
+  },
+  {
+    id: 'word_ninth',
+    word: 'ninth',
+    meaning: 'position 9',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'naɪnθ' },
+      { accent: 'british', ipa: 'naɪnθ' },
+      { accent: 'australian', ipa: 'naɪnθ' },
+    ],
+    category: 'numbers',
+    examples: ['Ninth inning.', 'The ninth circle.'],
+  },
+  {
+    id: 'word_tenth',
+    word: 'tenth',
+    meaning: 'position 10',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'tɛnθ' },
+      { accent: 'british', ipa: 'tɛnθ' },
+      { accent: 'australian', ipa: 'tɛnθ' },
+    ],
+    category: 'numbers',
+    examples: ['Tenth anniversary.', 'The tenth floor.'],
+  },
+  {
+    id: 'word_zero',
+    word: 'zero',
+    meaning: 'the number 0',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈzɪroʊ' },
+      { accent: 'british', ipa: 'ˈzɪərəʊ' },
+      { accent: 'australian', ipa: 'ˈzɪərəʊ' },
+    ],
+    category: 'numbers',
+    examples: ['Zero degrees.', 'Absolute zero.'],
+  },
+  {
+    id: 'word_forty',
+    word: 'forty',
+    meaning: 'the number 40',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈfɔːrti' },
+      { accent: 'british', ipa: 'ˈfɔːti' },
+      { accent: 'australian', ipa: 'ˈfɔːti' },
+    ],
+    category: 'numbers',
+    examples: ['Forty winks.', 'Over forty years old.'],
+  },
+  {
+    id: 'word_fifty',
+    word: 'fifty',
+    meaning: 'the number 50',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈfɪfti' },
+      { accent: 'british', ipa: 'ˈfɪfti' },
+      { accent: 'australian', ipa: 'ˈfɪfti' },
+    ],
+    category: 'numbers',
+    examples: ['Fifty states.', 'Fifty-fifty chance.'],
+  },
+  {
+    id: 'word_sixty',
+    word: 'sixty',
+    meaning: 'the number 60',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈsɪksti' },
+      { accent: 'british', ipa: 'ˈsɪksti' },
+      { accent: 'australian', ipa: 'ˈsɪksti' },
+    ],
+    category: 'numbers',
+    examples: ['Sixty minutes.', 'Sixty years old.'],
+  },
+  {
+    id: 'word_seventy',
+    word: 'seventy',
+    meaning: 'the number 70',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈsɛvnti' },
+      { accent: 'british', ipa: 'ˈsɛvnti' },
+      { accent: 'australian', ipa: 'ˈsɛvnti' },
+    ],
+    category: 'numbers',
+    examples: ['Seventy degrees.', 'Seventy miles per hour.'],
+  },
+  {
+    id: 'word_eighty',
+    word: 'eighty',
+    meaning: 'the number 80',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈeɪti' },
+      { accent: 'british', ipa: 'ˈeɪti' },
+      { accent: 'australian', ipa: 'ˈeɪti' },
+    ],
+    category: 'numbers',
+    examples: ['Eighty days.', 'Eighty percent.'],
+  },
+  {
+    id: 'word_ninety',
+    word: 'ninety',
+    meaning: 'the number 90',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈnaɪnti' },
+      { accent: 'british', ipa: 'ˈnaɪnti' },
+      { accent: 'australian', ipa: 'ˈnaɪnti' },
+    ],
+    category: 'numbers',
+    examples: ['Ninety degrees.', 'Ninety percent.'],
+  },
+  {
+    id: 'word_billion',
+    word: 'billion',
+    meaning: 'the number 1,000,000,000',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈbɪljən' },
+      { accent: 'british', ipa: 'ˈbɪljən' },
+      { accent: 'australian', ipa: 'ˈbɪljən' },
+    ],
+    category: 'numbers',
+    examples: ['A billion dollars.', 'Billions of stars.'],
+  },
+  {
+    id: 'word_half',
+    word: 'half',
+    meaning: 'one of two equal parts',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'hæf' },
+      { accent: 'british', ipa: 'hɑːf' },
+      { accent: 'australian', ipa: 'hɑːf' },
+    ],
+    category: 'numbers',
+    examples: ['Half an hour.', 'Half empty.'],
+  },
+  {
+    id: 'word_quarter',
+    word: 'quarter',
+    meaning: 'one of four equal parts',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈkwɔːrtər' },
+      { accent: 'british', ipa: 'ˈkwɔːtə' },
+      { accent: 'australian', ipa: 'ˈkwɔːtə' },
+    ],
+    category: 'numbers',
+    examples: ['Quarter past three.', 'A quarter of a dollar.'],
+  },
+  {
+    id: 'word_double',
+    word: 'double',
+    meaning: 'twice as much',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈdʌbəl' },
+      { accent: 'british', ipa: 'ˈdʌbəl' },
+      { accent: 'australian', ipa: 'ˈdʌbəl' },
+    ],
+    category: 'numbers',
+    examples: ['Double check.', 'Double the amount.'],
+  },
+  {
+    id: 'word_triple',
+    word: 'triple',
+    meaning: 'three times as much',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈtrɪpəl' },
+      { accent: 'british', ipa: 'ˈtrɪpəl' },
+      { accent: 'australian', ipa: 'ˈtrɪpəl' },
+    ],
+    category: 'numbers',
+    examples: ['Triple threat.', 'Triple jump.'],
+  },
 ];

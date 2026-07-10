@@ -14,5 +14,5 @@ export const vocabularyEn: VocabWord[] = [
   ...dailyUseNouns,
   ...adjectives,
   ...adverbs,
-  ...prepositions
+  ...prepositions,
 ];

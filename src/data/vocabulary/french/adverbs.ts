@@ -1,434 +1,1036 @@
 import { VocabWord } from '@/types';
 
 export const adverbs: VocabWord[] = [
-  { id: 'word_vite', word: 'vite', meaning: 'quickly', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'vit' },
-    { accent: 'quebecois', ipa: 'vit' },
-    { accent: 'belgian', ipa: 'vit' }
-  ], category: 'adverbs', examples: ['Viens vite.', 'Il court vite.'] },
-  { id: 'word_lentement', word: 'lentement', meaning: 'slowly', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'lɑ̃tmɑ̃' },
-    { accent: 'quebecois', ipa: 'lɑ̃tmɑ̃' },
-    { accent: 'belgian', ipa: 'lɑ̃tmɑ̃' }
-  ], category: 'adverbs', examples: ['Parle lentement.', 'Il marche lentement.'] },
-  { id: 'word_bien', word: 'bien', meaning: 'well', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'bjɛ̃' },
-    { accent: 'quebecois', ipa: 'bjɛ̃' },
-    { accent: 'belgian', ipa: 'bjɛ̃' }
-  ], category: 'adverbs', examples: ['Je vais bien.', 'Il chante bien.'] },
-  { id: 'word_mal', word: 'mal', meaning: 'badly', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'mal' },
-    { accent: 'quebecois', ipa: 'mal' },
-    { accent: 'belgian', ipa: 'mal' }
-  ], category: 'adverbs', examples: ['Il se sent mal.', 'Elle a mal dormi.'] },
-  { id: 'word_toujours', word: 'toujours', meaning: 'always', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'tuʒuʁ' },
-    { accent: 'quebecois', ipa: 'tuʒuʁ' },
-    { accent: 'belgian', ipa: 'tuʒuʁ' }
-  ], category: 'adverbs', examples: ['Il est toujours en retard.', 'Je t\'aime toujours.'] },
-  { id: 'word_jamais', word: 'jamais', meaning: 'never', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ʒamɛ' },
-    { accent: 'quebecois', ipa: 'ʒamɛ' },
-    { accent: 'belgian', ipa: 'ʒamɛ' }
-  ], category: 'adverbs', examples: ['Je ne mange jamais ça.', 'Il n\'est jamais venu.'] },
-  { id: 'word_souvent', word: 'souvent', meaning: 'often', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'suvɑ̃' },
-    { accent: 'quebecois', ipa: 'suvɑ̃' },
-    { accent: 'belgian', ipa: 'suvɑ̃' }
-  ], category: 'adverbs', examples: ['Je viens souvent.', 'Il pleut souvent.'] },
-  { id: 'word_parfois', word: 'parfois', meaning: 'sometimes', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'paʁfwa' },
-    { accent: 'quebecois', ipa: 'paʁfwa' },
-    { accent: 'belgian', ipa: 'paʁfwa' }
-  ], category: 'adverbs', examples: ['Je voyage parfois.', 'Parfois il pleut.'] },
-  { id: 'word_ici', word: 'ici', meaning: 'here', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'isi' },
-    { accent: 'quebecois', ipa: 'isi' },
-    { accent: 'belgian', ipa: 'isi' }
-  ], category: 'adverbs', examples: ['Viens ici.', 'J\'habite ici.'] },
-  { id: 'word_la', word: 'là', meaning: 'there', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'la' },
-    { accent: 'quebecois', ipa: 'la' },
-    { accent: 'belgian', ipa: 'la' }
-  ], category: 'adverbs', examples: ['Va là-bas.', 'Il est là.'] },
-  { id: 'partout', word: 'partout', meaning: 'everywhere', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'paʁtu' },
-    { accent: 'quebecois', ipa: 'paʁtu' },
-    { accent: 'belgian', ipa: 'paʁtu' }
-  ], category: 'adverbs', examples: ['Je cherche partout.', 'Il y a des fleurs partout.'] },
-  { id: 'word_nulle_part', word: 'nulle part', meaning: 'nowhere', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'nyl paʁ' },
-    { accent: 'quebecois', ipa: 'nyl paʁ' },
-    { accent: 'belgian', ipa: 'nyl paʁ' }
-  ], category: 'adverbs', examples: ['Je ne trouve nulle part.', 'Il n\'y a nulle part.'] },
-  { id: 'word_aujourd_hui', word: 'aujourd\'hui', meaning: 'today', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'oʒuʁdɥi' },
-    { accent: 'quebecois', ipa: 'oʒuʁdɥi' },
-    { accent: 'belgian', ipa: 'oʒuʁdɥi' }
-  ], category: 'adverbs', examples: ['Je travaille aujourd\'hui.', 'Il pleut aujourd\'hui.'] },
-  { id: 'word_hier', word: 'hier', meaning: 'yesterday', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'jɛʁ' },
-    { accent: 'quebecois', ipa: 'jɛʁ' },
-    { accent: 'belgian', ipa: 'jɛʁ' }
-  ], category: 'adverbs', examples: ['Je suis venu hier.', 'Hier il a plu.'] },
-  { id: 'word_demain', word: 'demain', meaning: 'tomorrow', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'dəmɛ̃' },
-    { accent: 'quebecois', ipa: 'dəmɛ̃' },
-    { accent: 'belgian', ipa: 'dəmɛ̃' }
-  ], category: 'adverbs', examples: ['Je viendrai demain.', 'Demain il fera beau.'] },
-  { id: 'word_maintenant', word: 'maintenant', meaning: 'now', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'mɛtnɑ̃' },
-    { accent: 'quebecois', ipa: 'mɛtnɑ̃' },
-    { accent: 'belgian', ipa: 'mɛtnɑ̃' }
-  ], category: 'adverbs', examples: ['Je pars maintenant.', 'Fais-le maintenant.'] },
-  { id: 'word_bientot', word: 'bientôt', meaning: 'soon', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'bjɛ̃to' },
-    { accent: 'quebecois', ipa: 'bjɛ̃to' },
-    { accent: 'belgian', ipa: 'bjɛ̃to' }
-  ], category: 'adverbs', examples: ['Je reviens bientôt.', 'Bientôt Noël.'] },
-  { id: 'word_tard', word: 'tard', meaning: 'late', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'taʁ' },
-    { accent: 'quebecois', ipa: 'taʁ' },
-    { accent: 'belgian', ipa: 'taʁ' }
-  ], category: 'adverbs', examples: ['Il est tard.', 'Je dors tard.'] },
-  { id: 'word_tot', word: 'tôt', meaning: 'early', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'to' },
-    { accent: 'quebecois', ipa: 'to' },
-    { accent: 'belgian', ipa: 'to' }
-  ], category: 'adverbs', examples: ['Réveille-toi tôt.', 'Il arrive tôt.'] },
-  { id: 'word_tres', word: 'très', meaning: 'very', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'tʁɛ' },
-    { accent: 'quebecois', ipa: 'tʁɛ' },
-    { accent: 'belgian', ipa: 'tʁɛ' }
-  ], category: 'adverbs', examples: ['Très bien.', 'C\'est très beau.'] },
-  { id: 'word_trop', word: 'trop', meaning: 'too', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'tʁo' },
-    { accent: 'quebecois', ipa: 'tʁo' },
-    { accent: 'belgian', ipa: 'tʁo' }
-  ], category: 'adverbs', examples: ['C\'est trop cher.', 'Il mange trop.'] },
-  { id: 'word_peu', word: 'peu', meaning: 'a little', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'pø' },
-    { accent: 'quebecois', ipa: 'pø' },
-    { accent: 'belgian', ipa: 'pø' }
-  ], category: 'adverbs', examples: ['Il pleut peu.', 'Je parle peu.'] },
-  { id: 'word_beaucoup', word: 'beaucoup', meaning: 'a lot', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'boku' },
-    { accent: 'quebecois', ipa: 'boku' },
-    { accent: 'belgian', ipa: 'boku' }
-  ], category: 'adverbs', examples: ['Merci beaucoup.', 'Il pleut beaucoup.'] },
-  { id: 'word_assez', word: 'assez', meaning: 'enough', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ase' },
-    { accent: 'quebecois', ipa: 'ase' },
-    { accent: 'belgian', ipa: 'ase' }
-  ], category: 'adverbs', examples: ['C\'est assez.', 'J\'ai assez mangé.'] },
-  { id: 'word_plus', word: 'plus', meaning: 'more', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ply' },
-    { accent: 'quebecois', ipa: 'ply' },
-    { accent: 'belgian', ipa: 'ply' }
-  ], category: 'adverbs', examples: ['Je veux plus.', 'Plus de temps.'] },
-  { id: 'word_moins', word: 'moins', meaning: 'less', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'mwɛ̃' },
-    { accent: 'quebecois', ipa: 'mwɛ̃' },
-    { accent: 'belgian', ipa: 'mwɛ̃' }
-  ], category: 'adverbs', examples: ['Moins de sucre.', 'Je travaille moins.'] },
-  { id: 'word_presque', word: 'presque', meaning: 'almost', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'pʁɛsk' },
-    { accent: 'quebecois', ipa: 'pʁɛsk' },
-    { accent: 'belgian', ipa: 'pʁɛsk' }
-  ], category: 'adverbs', examples: ['Presque fini.', 'Il est presque là.'] },
-  { id: 'word_a_peine', word: 'à peine', meaning: 'hardly', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'a pɛn' },
-    { accent: 'quebecois', ipa: 'a pɛn' },
-    { accent: 'belgian', ipa: 'a pɛn' }
-  ], category: 'adverbs', examples: ['À peine arrivé.', 'Je l\'ai à peine vu.'] },
-  { id: 'word_completement', word: 'complètement', meaning: 'completely', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'kɔ̃plɛtmɑ̃' },
-    { accent: 'quebecois', ipa: 'kɔ̃plɛtmɑ̃' },
-    { accent: 'belgian', ipa: 'kɔ̃plɛtmɑ̃' }
-  ], category: 'adverbs', examples: ['Complètement fini.', 'Il est complètement fou.'] },
-  { id: 'word_partiellement', word: 'partiellement', meaning: 'partially', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'paʁsjɛlmɑ̃' },
-    { accent: 'quebecois', ipa: 'paʁsjɛlmɑ̃' },
-    { accent: 'belgian', ipa: 'paʁsjɛlmɑ̃' }
-  ], category: 'adverbs', examples: ['Partiellement vrai.', 'Il est partiellement responsable.'] },
-  { id: 'word_vraiment', word: 'vraiment', meaning: 'really', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'vʁemɑ̃' },
-    { accent: 'quebecois', ipa: 'vʁemɑ̃' },
-    { accent: 'belgian', ipa: 'vʁemɑ̃' }
-  ], category: 'adverbs', examples: ['Vraiment?', 'Je le veux vraiment.'] },
-  { id: 'word_surement', word: 'sûrement', meaning: 'surely', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'syʁmɑ̃' },
-    { accent: 'quebecois', ipa: 'syʁmɑ̃' },
-    { accent: 'belgian', ipa: 'syʁmɑ̃' }
-  ], category: 'adverbs', examples: ['Il viendra sûrement.', 'C\'est sûrement vrai.'] },
-  { id: 'word_probablement', word: 'probablement', meaning: 'probably', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'pʁɔbabləmɑ̃' },
-    { accent: 'quebecois', ipa: 'pʁɔbabləmɑ̃' },
-    { accent: 'belgian', ipa: 'pʁɔbabləmɑ̃' }
-  ], category: 'adverbs', examples: ['Il viendra probablement.', 'Probablement demain.'] },
-  { id: 'word_peut_etre', word: 'peut-être', meaning: 'maybe', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'pøtɛtʁ' },
-    { accent: 'quebecois', ipa: 'pøtɛtʁ' },
-    { accent: 'belgian', ipa: 'pøtɛtʁ' }
-  ], category: 'adverbs', examples: ['Peut-être demain.', 'Peut-être que oui.'] },
-  { id: 'word_sans_doute', word: 'sans doute', meaning: 'no doubt', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'sɑ̃ dut' },
-    { accent: 'quebecois', ipa: 'sɑ̃ dut' },
-    { accent: 'belgian', ipa: 'sɑ̃ dut' }
-  ], category: 'adverbs', examples: ['Sans doute.', 'Il viendra sans doute.'] },
-  { id: 'word_heureusement', word: 'heureusement', meaning: 'fortunately', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'øʁøzmɑ̃' },
-    { accent: 'quebecois', ipa: 'øʁøzmɑ̃' },
-    { accent: 'belgian', ipa: 'øʁøzmɑ̃' }
-  ], category: 'adverbs', examples: ['Heureusement, il pleut pas.', 'Heureusement fini.'] },
-  { id: 'word_malheureusement', word: 'malheureusement', meaning: 'unfortunately', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'maløʁøzmɑ̃' },
-    { accent: 'quebecois', ipa: 'maløʁøzmɑ̃' },
-    { accent: 'belgian', ipa: 'maløʁøzmɑ̃' }
-  ], category: 'adverbs', examples: ['Malheureusement, je ne peux pas.', 'Malheureusement perdu.'] },
-  { id: 'word_clairement', word: 'clairement', meaning: 'clearly', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'klɛʁmɑ̃' },
-    { accent: 'quebecois', ipa: 'klɛʁmɑ̃' },
-    { accent: 'belgian', ipa: 'klɛʁmɑ̃' }
-  ], category: 'adverbs', examples: ['Parle clairement.', 'C\'est clairement faux.'] },
-  { id: 'word_simplement', word: 'simplement', meaning: 'simply', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'sɛ̃pləmɑ̃' },
-    { accent: 'quebecois', ipa: 'sɛ̃pləmɑ̃' },
-    { accent: 'belgian', ipa: 'sɛ̃pləmɑ̃' }
-  ], category: 'adverbs', examples: ['C\'est simplement faux.', 'Fais-le simplement.'] },
-  { id: 'word_facilement', word: 'facilement', meaning: 'easily', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'fasiləmɑ̃' },
-    { accent: 'quebecois', ipa: 'fasiləmɑ̃' },
-    { accent: 'belgian', ipa: 'fasiləmɑ̃' }
-  ], category: 'adverbs', examples: ['Il gagne facilement.', 'Facilement accessible.'] },
-  { id: 'word_difficilement', word: 'difficilement', meaning: 'with difficulty', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'difisiləmɑ̃' },
-    { accent: 'quebecois', ipa: 'difisiləmɑ̃' },
-    { accent: 'belgian', ipa: 'difisiləmɑ̃' }
-  ], category: 'adverbs', examples: ['Il marche difficilement.', 'Difficilement compréhensible.'] },
-  { id: 'word_ensemble', word: 'ensemble', meaning: 'together', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ɑ̃sɑ̃bl' },
-    { accent: 'quebecois', ipa: 'ɑ̃sɑ̃bl' },
-    { accent: 'belgian', ipa: 'ɑ̃sɑ̃bl' }
-  ], category: 'adverbs', examples: ['Travaillons ensemble.', 'Allons-y ensemble.'] },
-  { id: 'word_seul', word: 'seul', meaning: 'alone', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'sœl' },
-    { accent: 'quebecois', ipa: 'sœl' },
-    { accent: 'belgian', ipa: 'sœl' }
-  ], category: 'adverbs', examples: ['Je viens seul.', 'Il travaille seul.'] },
-  { id: 'word_aussi', word: 'aussi', meaning: 'also/too', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'osi' },
-    { accent: 'quebecois', ipa: 'osi' },
-    { accent: 'belgian', ipa: 'osi' }
-  ], category: 'adverbs', examples: ['Moi aussi.', 'Il est aussi grand.'] },
-  { id: 'word_egalement', word: 'également', meaning: 'equally/also', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'eɡalmɑ̃' },
-    { accent: 'quebecois', ipa: 'eɡalmɑ̃' },
-    { accent: 'belgian', ipa: 'eɡalmɑ̃' }
-  ], category: 'adverbs', examples: ['Également important.', 'Je l\'aime également.'] },
-  { id: 'word_enfin', word: 'enfin', meaning: 'finally', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ɑ̃fɛ̃' },
-    { accent: 'quebecois', ipa: 'ɑ̃fɛ̃' },
-    { accent: 'belgian', ipa: 'ɑ̃fɛ̃' }
-  ], category: 'adverbs', examples: ['Enfin!', 'Enfin arrivé.'] },
-  { id: 'word_ensuite', word: 'ensuite', meaning: 'then/next', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ɑ̃sɥit' },
-    { accent: 'quebecois', ipa: 'ɑ̃sɥit' },
-    { accent: 'belgian', ipa: 'ɑ̃sɥit' }
-  ], category: 'adverbs', examples: ['Ensuite, il mange.', 'Qu\'est-ce qui ensuite?'] },
-  { id: 'word_puis', word: 'puis', meaning: 'then', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'pɥi' },
-    { accent: 'quebecois', ipa: 'pɥi' },
-    { accent: 'belgian', ipa: 'pɥi' }
-  ], category: 'adverbs', examples: ['D\'abord, puis ensuite.', 'Puis il part.'] },
-  { id: 'word_dabord', word: 'd\'abord', meaning: 'first', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'daboʁ' },
-    { accent: 'quebecois', ipa: 'daboʁ' },
-    { accent: 'belgian', ipa: 'daboʁ' }
-  ], category: 'adverbs', examples: ['D\'abord, mange.', 'D\'abord le plus important.'] },
-  { id: 'word_soudain', word: 'soudain', meaning: 'suddenly', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'sudɛ̃' },
-    { accent: 'quebecois', ipa: 'sudɛ̃' },
-    { accent: 'belgian', ipa: 'sudɛ̃' }
-  ], category: 'adverbs', examples: ['Soudain, il pleut.', 'Il est parti soudain.'] },
-  { id: 'word_progressivement', word: 'progressivement', meaning: 'gradually', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'pʁɔɡʁesivmɑ̃' },
-    { accent: 'quebecois', ipa: 'pʁɔɡʁesivmɑ̃' },
-    { accent: 'belgian', ipa: 'pʁɔɡʁesivmɑ̃' }
-  ], category: 'adverbs', examples: ['Progressivement amélioré.', 'Il progresse progressivement.'] },
-  { id: 'word_immediatement', word: 'immédiatement', meaning: 'immediately', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'imedjatmɑ̃' },
-    { accent: 'quebecois', ipa: 'imedjatmɑ̃' },
-    { accent: 'belgian', ipa: 'imedjatmɑ̃' }
-  ], category: 'adverbs', examples: ['Viens immédiatement.', 'Arrête immédiatement.'] },
-  { id: 'word_bientot', word: 'rapidement', meaning: 'quickly', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ʁapidmɑ̃' },
-    { accent: 'quebecois', ipa: 'ʁapidmɑ̃' },
-    { accent: 'belgian', ipa: 'ʁapidmɑ̃' }
-  ], category: 'adverbs', examples: ['Rapidement fini.', 'Il court rapidement.'] },
-  { id: 'word_calme', word: 'calmement', meaning: 'calmly', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'kalmɑ̃' },
-    { accent: 'quebecois', ipa: 'kalmɑ̃' },
-    { accent: 'belgian', ipa: 'kalmɑ̃' }
-  ], category: 'adverbs', examples: ['Parle calmement.', 'Il réagit calmement.'] },
-  { id: 'word_silencieusement', word: 'silencieusement', meaning: 'quietly', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'silɑ̃sjøzmɑ̃' },
-    { accent: 'quebecois', ipa: 'silɑ̃sjøzmɑ̃' },
-    { accent: 'belgian', ipa: 'silɑ̃sjøzmɑ̃' }
-  ], category: 'adverbs', examples: ['Marche silencieusement.', 'Il parle silencieusement.'] },
-  { id: 'word_loudly', word: 'fortement', meaning: 'loudly', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'fɔʁtmɑ̃' },
-    { accent: 'quebecois', ipa: 'fɔʁtmɑ̃' },
-    { accent: 'belgian', ipa: 'fɔʁtmɑ̃' }
-  ], category: 'adverbs', examples: ['Parle fort.', 'Il frappe fort.'] },
-  { id: 'word_attentivement', word: 'attentivement', meaning: 'carefully', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'atɑ̃tivmɑ̃' },
-    { accent: 'quebecois', ipa: 'atɑ̃tivmɑ̃' },
-    { accent: 'belgian', ipa: 'atɑ̃tivmɑ̃' }
-  ], category: 'adverbs', examples: ['Écoute attentivement.', 'Regarde attentivement.'] },
-  { id: 'word_soigneusement', word: 'soigneusement', meaning: 'carefully', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'swaɲøzmɑ̃' },
-    { accent: 'quebecois', ipa: 'swaɲøzmɑ̃' },
-    { accent: 'belgian', ipa: 'swaɲøzmɑ̃' }
-  ], category: 'adverbs', examples: ['Travaille soigneusement.', 'Il écrit soigneusement.'] },
-  { id: 'word_exactement', word: 'exactement', meaning: 'exactly', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ɛɡzaktmɑ̃' },
-    { accent: 'quebecois', ipa: 'ɛɡzaktmɑ̃' },
-    { accent: 'belgian', ipa: 'ɛɡzaktmɑ̃' }
-  ], category: 'adverbs', examples: ['Exactement!', 'C\'est exactement ça.'] },
-  { id: 'word_environ', word: 'environ', meaning: 'approximately', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ɑ̃viʁɔ̃' },
-    { accent: 'quebecois', ipa: 'ɑ̃viʁɔ̃' },
-    { accent: 'belgian', ipa: 'ɑ̃viʁɔ̃' }
-  ], category: 'adverbs', examples: ['Environ dix heures.', 'Il y a environ cent personnes.'] },
-  { id: 'word_environ', word: 'à peu près', meaning: 'approximately', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'a pø pʁɛ' },
-    { accent: 'quebecois', ipa: 'a pø pʁɛ' },
-    { accent: 'belgian', ipa: 'a pø pʁɛ' }
-  ], category: 'adverbs', examples: ['À peu près dix.', 'C\'est à peu près fini.'] },
-  { id: 'word_deja', word: 'déjà', meaning: 'already', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'deʒa' },
-    { accent: 'quebecois', ipa: 'deʒa' },
-    { accent: 'belgian', ipa: 'deʒa' }
-  ], category: 'adverbs', examples: ['Déjà fini?', 'Je suis déjà parti.'] },
-  { id: 'word_encore', word: 'encore', meaning: 'again/still', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ɑ̃kɔʁ' },
-    { accent: 'quebecois', ipa: 'ɑ̃kɔʁ' },
-    { accent: 'belgian', ipa: 'ɑ̃kɔʁ' }
-  ], category: 'adverbs', examples: ['Encore une fois.', 'Il dort encore.'] },
-  { id: 'word_alors', word: 'alors', meaning: 'then/so', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'alaʁ' },
-    { accent: 'quebecois', ipa: 'alaʁ' },
-    { accent: 'belgian', ipa: 'alaʁ' }
-  ], category: 'adverbs', examples: ['Alors, qu\'est-ce que tu fais?', 'Alors je pars.'] },
-  { id: 'word_donc', word: 'donc', meaning: 'therefore/so', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'dɔ̃k' },
-    { accent: 'quebecois', ipa: 'dɔ̃k' },
-    { accent: 'belgian', ipa: 'dɔ̃k' }
-  ], category: 'adverbs', examples: ['Donc, je viens.', 'C\'est donc fini.'] },
-  { id: 'word_cependant', word: 'cependant', meaning: 'however', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'səpɑ̃dɑ̃' },
-    { accent: 'quebecois', ipa: 'səpɑ̃dɑ̃' },
-    { accent: 'belgian', ipa: 'səpɑ̃dɑ̃' }
-  ], category: 'adverbs', examples: ['Cependant, je ne peux pas.', 'Il est riche, cependant triste.'] },
-  { id: 'word_pourtant', word: 'pourtant', meaning: 'however', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'puʁtɑ̃' },
-    { accent: 'quebecois', ipa: 'puʁtɑ̃' },
-    { accent: 'belgian', ipa: 'puʁtɑ̃' }
-  ], category: 'adverbs', examples: ['Pourtant, il pleut.', 'Il est jeune, pourtant sage.'] },
-  { id: 'word_sinon', word: 'sinon', meaning: 'otherwise', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'sinɔ̃' },
-    { accent: 'quebecois', ipa: 'sinɔ̃' },
-    { accent: 'belgian', ipa: 'sinɔ̃' }
-  ], category: 'adverbs', examples: ['Viens, sinon tu seras en retard.', 'Sinon, je mange.'] },
-  { id: 'word_meme', word: 'même', meaning: 'even', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'mɛm' },
-    { accent: 'quebecois', ipa: 'mɛm' },
-    { accent: 'belgian', ipa: 'mɛm' }
-  ], category: 'adverbs', examples: ['Même pas.', 'Même moi.'] },
-  { id: 'word_seulement', word: 'seulement', meaning: 'only', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'sœlmɑ̃' },
-    { accent: 'quebecois', ipa: 'sœlmɑ̃' },
-    { accent: 'belgian', ipa: 'sœlmɑ̃' }
-  ], category: 'adverbs', examples: ['Seulement moi.', 'Je veux seulement ça.'] },
-  { id: 'word_juste', word: 'juste', meaning: 'just/only', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ʒyst' },
-    { accent: 'quebecois', ipa: 'ʒyst' },
-    { accent: 'belgian', ipa: 'ʒyst' }
-  ], category: 'adverbs', examples: ['Juste à temps.', 'C\'est juste.'] },
-  { id: 'word_au_moins', word: 'au moins', meaning: 'at least', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'o mwɛ̃' },
-    { accent: 'quebecois', ipa: 'o mwɛ̃' },
-    { accent: 'belgian', ipa: 'o mwɛ̃' }
-  ], category: 'adverbs', examples: ['Au moins dix.', 'Au moins, il pleut pas.'] },
-  { id: 'word_au_plus', word: 'au plus', meaning: 'at most', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'o ply' },
-    { accent: 'quebecois', ipa: 'o ply' },
-    { accent: 'belgian', ipa: 'o ply' }
-  ], category: 'adverbs', examples: ['Au plus cent.', 'Au plus, il arrive demain.'] },
-  { id: 'word_surtout', word: 'surtout', meaning: 'especially', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'syʁtu' },
-    { accent: 'quebecois', ipa: 'syʁtu' },
-    { accent: 'belgian', ipa: 'syʁtu' }
-  ], category: 'adverbs', examples: ['Surtout pas ça.', 'J\'aime surtout le chocolat.'] },
-  { id: 'word_notamment', word: 'notamment', meaning: 'notably', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'nɔtamɑ̃' },
-    { accent: 'quebecois', ipa: 'nɔtamɑ̃' },
-    { accent: 'belgian', ipa: 'nɔtamɑ̃' }
-  ], category: 'adverbs', examples: ['Notamment en France.', 'Il aime notamment le vin.'] },
-  { id: 'word_particulierement', word: 'particulièrement', meaning: 'particularly', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'paʁtikyljɛʁmɑ̃' },
-    { accent: 'quebecois', ipa: 'paʁtikyljɛʁmɑ̃' },
-    { accent: 'belgian', ipa: 'paʁtikyljɛʁmɑ̃' }
-  ], category: 'adverbs', examples: ['Particulièrement intéressant.', 'Il aime particulièrement ça.'] },
-  { id: 'word_specialement', word: 'spécialement', meaning: 'especially', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'spesjalmɑ̃' },
-    { accent: 'quebecois', ipa: 'spesjalmɑ̃' },
-    { accent: 'belgian', ipa: 'spesjalmɑ̃' }
-  ], category: 'adverbs', examples: ['Spécialement pour toi.', 'Spécialement conçu.'] },
-  { id: 'word_absolument', word: 'absolument', meaning: 'absolutely', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'absolymɑ̃' },
-    { accent: 'quebecois', ipa: 'absolymɑ̃' },
-    { accent: 'belgian', ipa: 'absolymɑ̃' }
-  ], category: 'adverbs', examples: ['Absolument pas.', 'Absolument magnifique.'] },
-  { id: 'word_completement', word: 'certainement', meaning: 'certainly', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'sɛʁtɛnmɑ̃' },
-    { accent: 'quebecois', ipa: 'sɛʁtɛnmɑ̃' },
-    { accent: 'belgian', ipa: 'sɛʁtɛnmɑ̃' }
-  ], category: 'adverbs', examples: ['Certainement pas.', 'Il viendra certainement.'] },
-  { id: 'word_evidemment', word: 'évidemment', meaning: 'obviously', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'evidamɑ̃' },
-    { accent: 'quebecois', ipa: 'evidamɑ̃' },
-    { accent: 'belgian', ipa: 'evidamɑ̃' }
-  ], category: 'adverbs', examples: ['Évidemment!', 'Évidemment faux.'] },
-  { id: 'word_naturellement', word: 'naturellement', meaning: 'naturally', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'natyʁɛlmɑ̃' },
-    { accent: 'quebecois', ipa: 'natyʁɛlmɑ̃' },
-    { accent: 'belgian', ipa: 'natyʁɛlmɑ̃' }
-  ], category: 'adverbs', examples: ['Naturellement.', 'Il sourit naturellement.'] },
-  { id: 'word_normalement', word: 'normalement', meaning: 'normally', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'nɔʁmalmɑ̃' },
-    { accent: 'quebecois', ipa: 'nɔʁmalmɑ̃' },
-    { accent: 'belgian', ipa: 'nɔʁmalmɑ̃' }
-  ], category: 'adverbs', examples: ['Normalement, je viens.', 'Normalement fermé.'] },
-  { id: 'word_habituellement', word: 'habituellement', meaning: 'usually', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'abitɛlmɑ̃' },
-    { accent: 'quebecois', ipa: 'abitɛlmɑ̃' },
-    { accent: 'belgian', ipa: 'abitɛlmɑ̃' }
-  ], category: 'adverbs', examples: ['Habituellement, je mange tôt.', 'Il pleut habituellement.'] },
-  { id: 'word_generalement', word: 'généralement', meaning: 'generally', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ʒeneʁalmɑ̃' },
-    { accent: 'quebecois', ipa: 'ʒeneʁalmɑ̃' },
-    { accent: 'belgian', ipa: 'ʒeneʁalmɑ̃' }
-  ], category: 'adverbs', examples: ['Généralement vrai.', 'Généralement fermé le dimanche.'] },
-  { id: 'word_toujours', word: 'toujours', meaning: 'still/yet', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'tuʒuʁ' },
-    { accent: 'quebecois', ipa: 'tuʒuʁ' },
-    { accent: 'belgian', ipa: 'tuʒuʁ' }
-  ], category: 'adverbs', examples: ['Il pleut toujours.', 'Je suis toujours là.'] },
-  { id: 'word_deja', word: 'déjà', meaning: 'yet', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'deʒa' },
-    { accent: 'quebecois', ipa: 'deʒa' },
-    { accent: 'belgian', ipa: 'deʒa' }
-  ], category: 'adverbs', examples: ['Pas encore.', 'Déjà fini?'] }
+  {
+    id: 'word_vite',
+    word: 'vite',
+    meaning: 'quickly',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'vit' },
+      { accent: 'quebecois', ipa: 'vit' },
+      { accent: 'belgian', ipa: 'vit' },
+    ],
+    category: 'adverbs',
+    examples: ['Viens vite.', 'Il court vite.'],
+  },
+  {
+    id: 'word_lentement',
+    word: 'lentement',
+    meaning: 'slowly',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'lɑ̃tmɑ̃' },
+      { accent: 'quebecois', ipa: 'lɑ̃tmɑ̃' },
+      { accent: 'belgian', ipa: 'lɑ̃tmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Parle lentement.', 'Il marche lentement.'],
+  },
+  {
+    id: 'word_bien',
+    word: 'bien',
+    meaning: 'well',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'bjɛ̃' },
+      { accent: 'quebecois', ipa: 'bjɛ̃' },
+      { accent: 'belgian', ipa: 'bjɛ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Je vais bien.', 'Il chante bien.'],
+  },
+  {
+    id: 'word_mal',
+    word: 'mal',
+    meaning: 'badly',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'mal' },
+      { accent: 'quebecois', ipa: 'mal' },
+      { accent: 'belgian', ipa: 'mal' },
+    ],
+    category: 'adverbs',
+    examples: ['Il se sent mal.', 'Elle a mal dormi.'],
+  },
+  {
+    id: 'word_toujours',
+    word: 'toujours',
+    meaning: 'always',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'tuʒuʁ' },
+      { accent: 'quebecois', ipa: 'tuʒuʁ' },
+      { accent: 'belgian', ipa: 'tuʒuʁ' },
+    ],
+    category: 'adverbs',
+    examples: ['Il est toujours en retard.', "Je t'aime toujours."],
+  },
+  {
+    id: 'word_jamais',
+    word: 'jamais',
+    meaning: 'never',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ʒamɛ' },
+      { accent: 'quebecois', ipa: 'ʒamɛ' },
+      { accent: 'belgian', ipa: 'ʒamɛ' },
+    ],
+    category: 'adverbs',
+    examples: ['Je ne mange jamais ça.', "Il n'est jamais venu."],
+  },
+  {
+    id: 'word_souvent',
+    word: 'souvent',
+    meaning: 'often',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'suvɑ̃' },
+      { accent: 'quebecois', ipa: 'suvɑ̃' },
+      { accent: 'belgian', ipa: 'suvɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Je viens souvent.', 'Il pleut souvent.'],
+  },
+  {
+    id: 'word_parfois',
+    word: 'parfois',
+    meaning: 'sometimes',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'paʁfwa' },
+      { accent: 'quebecois', ipa: 'paʁfwa' },
+      { accent: 'belgian', ipa: 'paʁfwa' },
+    ],
+    category: 'adverbs',
+    examples: ['Je voyage parfois.', 'Parfois il pleut.'],
+  },
+  {
+    id: 'word_ici',
+    word: 'ici',
+    meaning: 'here',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'isi' },
+      { accent: 'quebecois', ipa: 'isi' },
+      { accent: 'belgian', ipa: 'isi' },
+    ],
+    category: 'adverbs',
+    examples: ['Viens ici.', "J'habite ici."],
+  },
+  {
+    id: 'word_la',
+    word: 'là',
+    meaning: 'there',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'la' },
+      { accent: 'quebecois', ipa: 'la' },
+      { accent: 'belgian', ipa: 'la' },
+    ],
+    category: 'adverbs',
+    examples: ['Va là-bas.', 'Il est là.'],
+  },
+  {
+    id: 'partout',
+    word: 'partout',
+    meaning: 'everywhere',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'paʁtu' },
+      { accent: 'quebecois', ipa: 'paʁtu' },
+      { accent: 'belgian', ipa: 'paʁtu' },
+    ],
+    category: 'adverbs',
+    examples: ['Je cherche partout.', 'Il y a des fleurs partout.'],
+  },
+  {
+    id: 'word_nulle_part',
+    word: 'nulle part',
+    meaning: 'nowhere',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'nyl paʁ' },
+      { accent: 'quebecois', ipa: 'nyl paʁ' },
+      { accent: 'belgian', ipa: 'nyl paʁ' },
+    ],
+    category: 'adverbs',
+    examples: ['Je ne trouve nulle part.', "Il n'y a nulle part."],
+  },
+  {
+    id: 'word_aujourd_hui',
+    word: "aujourd'hui",
+    meaning: 'today',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'oʒuʁdɥi' },
+      { accent: 'quebecois', ipa: 'oʒuʁdɥi' },
+      { accent: 'belgian', ipa: 'oʒuʁdɥi' },
+    ],
+    category: 'adverbs',
+    examples: ["Je travaille aujourd'hui.", "Il pleut aujourd'hui."],
+  },
+  {
+    id: 'word_hier',
+    word: 'hier',
+    meaning: 'yesterday',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'jɛʁ' },
+      { accent: 'quebecois', ipa: 'jɛʁ' },
+      { accent: 'belgian', ipa: 'jɛʁ' },
+    ],
+    category: 'adverbs',
+    examples: ['Je suis venu hier.', 'Hier il a plu.'],
+  },
+  {
+    id: 'word_demain',
+    word: 'demain',
+    meaning: 'tomorrow',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'dəmɛ̃' },
+      { accent: 'quebecois', ipa: 'dəmɛ̃' },
+      { accent: 'belgian', ipa: 'dəmɛ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Je viendrai demain.', 'Demain il fera beau.'],
+  },
+  {
+    id: 'word_maintenant',
+    word: 'maintenant',
+    meaning: 'now',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'mɛtnɑ̃' },
+      { accent: 'quebecois', ipa: 'mɛtnɑ̃' },
+      { accent: 'belgian', ipa: 'mɛtnɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Je pars maintenant.', 'Fais-le maintenant.'],
+  },
+  {
+    id: 'word_bientot',
+    word: 'bientôt',
+    meaning: 'soon',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'bjɛ̃to' },
+      { accent: 'quebecois', ipa: 'bjɛ̃to' },
+      { accent: 'belgian', ipa: 'bjɛ̃to' },
+    ],
+    category: 'adverbs',
+    examples: ['Je reviens bientôt.', 'Bientôt Noël.'],
+  },
+  {
+    id: 'word_tard',
+    word: 'tard',
+    meaning: 'late',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'taʁ' },
+      { accent: 'quebecois', ipa: 'taʁ' },
+      { accent: 'belgian', ipa: 'taʁ' },
+    ],
+    category: 'adverbs',
+    examples: ['Il est tard.', 'Je dors tard.'],
+  },
+  {
+    id: 'word_tot',
+    word: 'tôt',
+    meaning: 'early',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'to' },
+      { accent: 'quebecois', ipa: 'to' },
+      { accent: 'belgian', ipa: 'to' },
+    ],
+    category: 'adverbs',
+    examples: ['Réveille-toi tôt.', 'Il arrive tôt.'],
+  },
+  {
+    id: 'word_tres',
+    word: 'très',
+    meaning: 'very',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'tʁɛ' },
+      { accent: 'quebecois', ipa: 'tʁɛ' },
+      { accent: 'belgian', ipa: 'tʁɛ' },
+    ],
+    category: 'adverbs',
+    examples: ['Très bien.', "C'est très beau."],
+  },
+  {
+    id: 'word_trop',
+    word: 'trop',
+    meaning: 'too',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'tʁo' },
+      { accent: 'quebecois', ipa: 'tʁo' },
+      { accent: 'belgian', ipa: 'tʁo' },
+    ],
+    category: 'adverbs',
+    examples: ["C'est trop cher.", 'Il mange trop.'],
+  },
+  {
+    id: 'word_peu',
+    word: 'peu',
+    meaning: 'a little',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'pø' },
+      { accent: 'quebecois', ipa: 'pø' },
+      { accent: 'belgian', ipa: 'pø' },
+    ],
+    category: 'adverbs',
+    examples: ['Il pleut peu.', 'Je parle peu.'],
+  },
+  {
+    id: 'word_beaucoup',
+    word: 'beaucoup',
+    meaning: 'a lot',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'boku' },
+      { accent: 'quebecois', ipa: 'boku' },
+      { accent: 'belgian', ipa: 'boku' },
+    ],
+    category: 'adverbs',
+    examples: ['Merci beaucoup.', 'Il pleut beaucoup.'],
+  },
+  {
+    id: 'word_assez',
+    word: 'assez',
+    meaning: 'enough',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ase' },
+      { accent: 'quebecois', ipa: 'ase' },
+      { accent: 'belgian', ipa: 'ase' },
+    ],
+    category: 'adverbs',
+    examples: ["C'est assez.", "J'ai assez mangé."],
+  },
+  {
+    id: 'word_plus',
+    word: 'plus',
+    meaning: 'more',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ply' },
+      { accent: 'quebecois', ipa: 'ply' },
+      { accent: 'belgian', ipa: 'ply' },
+    ],
+    category: 'adverbs',
+    examples: ['Je veux plus.', 'Plus de temps.'],
+  },
+  {
+    id: 'word_moins',
+    word: 'moins',
+    meaning: 'less',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'mwɛ̃' },
+      { accent: 'quebecois', ipa: 'mwɛ̃' },
+      { accent: 'belgian', ipa: 'mwɛ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Moins de sucre.', 'Je travaille moins.'],
+  },
+  {
+    id: 'word_presque',
+    word: 'presque',
+    meaning: 'almost',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'pʁɛsk' },
+      { accent: 'quebecois', ipa: 'pʁɛsk' },
+      { accent: 'belgian', ipa: 'pʁɛsk' },
+    ],
+    category: 'adverbs',
+    examples: ['Presque fini.', 'Il est presque là.'],
+  },
+  {
+    id: 'word_a_peine',
+    word: 'à peine',
+    meaning: 'hardly',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'a pɛn' },
+      { accent: 'quebecois', ipa: 'a pɛn' },
+      { accent: 'belgian', ipa: 'a pɛn' },
+    ],
+    category: 'adverbs',
+    examples: ['À peine arrivé.', "Je l'ai à peine vu."],
+  },
+  {
+    id: 'word_completement',
+    word: 'complètement',
+    meaning: 'completely',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'kɔ̃plɛtmɑ̃' },
+      { accent: 'quebecois', ipa: 'kɔ̃plɛtmɑ̃' },
+      { accent: 'belgian', ipa: 'kɔ̃plɛtmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Complètement fini.', 'Il est complètement fou.'],
+  },
+  {
+    id: 'word_partiellement',
+    word: 'partiellement',
+    meaning: 'partially',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'paʁsjɛlmɑ̃' },
+      { accent: 'quebecois', ipa: 'paʁsjɛlmɑ̃' },
+      { accent: 'belgian', ipa: 'paʁsjɛlmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Partiellement vrai.', 'Il est partiellement responsable.'],
+  },
+  {
+    id: 'word_vraiment',
+    word: 'vraiment',
+    meaning: 'really',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'vʁemɑ̃' },
+      { accent: 'quebecois', ipa: 'vʁemɑ̃' },
+      { accent: 'belgian', ipa: 'vʁemɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Vraiment?', 'Je le veux vraiment.'],
+  },
+  {
+    id: 'word_surement',
+    word: 'sûrement',
+    meaning: 'surely',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'syʁmɑ̃' },
+      { accent: 'quebecois', ipa: 'syʁmɑ̃' },
+      { accent: 'belgian', ipa: 'syʁmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Il viendra sûrement.', "C'est sûrement vrai."],
+  },
+  {
+    id: 'word_probablement',
+    word: 'probablement',
+    meaning: 'probably',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'pʁɔbabləmɑ̃' },
+      { accent: 'quebecois', ipa: 'pʁɔbabləmɑ̃' },
+      { accent: 'belgian', ipa: 'pʁɔbabləmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Il viendra probablement.', 'Probablement demain.'],
+  },
+  {
+    id: 'word_peut_etre',
+    word: 'peut-être',
+    meaning: 'maybe',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'pøtɛtʁ' },
+      { accent: 'quebecois', ipa: 'pøtɛtʁ' },
+      { accent: 'belgian', ipa: 'pøtɛtʁ' },
+    ],
+    category: 'adverbs',
+    examples: ['Peut-être demain.', 'Peut-être que oui.'],
+  },
+  {
+    id: 'word_sans_doute',
+    word: 'sans doute',
+    meaning: 'no doubt',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'sɑ̃ dut' },
+      { accent: 'quebecois', ipa: 'sɑ̃ dut' },
+      { accent: 'belgian', ipa: 'sɑ̃ dut' },
+    ],
+    category: 'adverbs',
+    examples: ['Sans doute.', 'Il viendra sans doute.'],
+  },
+  {
+    id: 'word_heureusement',
+    word: 'heureusement',
+    meaning: 'fortunately',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'øʁøzmɑ̃' },
+      { accent: 'quebecois', ipa: 'øʁøzmɑ̃' },
+      { accent: 'belgian', ipa: 'øʁøzmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Heureusement, il pleut pas.', 'Heureusement fini.'],
+  },
+  {
+    id: 'word_malheureusement',
+    word: 'malheureusement',
+    meaning: 'unfortunately',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'maløʁøzmɑ̃' },
+      { accent: 'quebecois', ipa: 'maløʁøzmɑ̃' },
+      { accent: 'belgian', ipa: 'maløʁøzmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Malheureusement, je ne peux pas.', 'Malheureusement perdu.'],
+  },
+  {
+    id: 'word_clairement',
+    word: 'clairement',
+    meaning: 'clearly',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'klɛʁmɑ̃' },
+      { accent: 'quebecois', ipa: 'klɛʁmɑ̃' },
+      { accent: 'belgian', ipa: 'klɛʁmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Parle clairement.', "C'est clairement faux."],
+  },
+  {
+    id: 'word_simplement',
+    word: 'simplement',
+    meaning: 'simply',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'sɛ̃pləmɑ̃' },
+      { accent: 'quebecois', ipa: 'sɛ̃pləmɑ̃' },
+      { accent: 'belgian', ipa: 'sɛ̃pləmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ["C'est simplement faux.", 'Fais-le simplement.'],
+  },
+  {
+    id: 'word_facilement',
+    word: 'facilement',
+    meaning: 'easily',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'fasiləmɑ̃' },
+      { accent: 'quebecois', ipa: 'fasiləmɑ̃' },
+      { accent: 'belgian', ipa: 'fasiləmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Il gagne facilement.', 'Facilement accessible.'],
+  },
+  {
+    id: 'word_difficilement',
+    word: 'difficilement',
+    meaning: 'with difficulty',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'difisiləmɑ̃' },
+      { accent: 'quebecois', ipa: 'difisiləmɑ̃' },
+      { accent: 'belgian', ipa: 'difisiləmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Il marche difficilement.', 'Difficilement compréhensible.'],
+  },
+  {
+    id: 'word_ensemble',
+    word: 'ensemble',
+    meaning: 'together',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɑ̃sɑ̃bl' },
+      { accent: 'quebecois', ipa: 'ɑ̃sɑ̃bl' },
+      { accent: 'belgian', ipa: 'ɑ̃sɑ̃bl' },
+    ],
+    category: 'adverbs',
+    examples: ['Travaillons ensemble.', 'Allons-y ensemble.'],
+  },
+  {
+    id: 'word_seul',
+    word: 'seul',
+    meaning: 'alone',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'sœl' },
+      { accent: 'quebecois', ipa: 'sœl' },
+      { accent: 'belgian', ipa: 'sœl' },
+    ],
+    category: 'adverbs',
+    examples: ['Je viens seul.', 'Il travaille seul.'],
+  },
+  {
+    id: 'word_aussi',
+    word: 'aussi',
+    meaning: 'also/too',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'osi' },
+      { accent: 'quebecois', ipa: 'osi' },
+      { accent: 'belgian', ipa: 'osi' },
+    ],
+    category: 'adverbs',
+    examples: ['Moi aussi.', 'Il est aussi grand.'],
+  },
+  {
+    id: 'word_egalement',
+    word: 'également',
+    meaning: 'equally/also',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'eɡalmɑ̃' },
+      { accent: 'quebecois', ipa: 'eɡalmɑ̃' },
+      { accent: 'belgian', ipa: 'eɡalmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Également important.', "Je l'aime également."],
+  },
+  {
+    id: 'word_enfin',
+    word: 'enfin',
+    meaning: 'finally',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɑ̃fɛ̃' },
+      { accent: 'quebecois', ipa: 'ɑ̃fɛ̃' },
+      { accent: 'belgian', ipa: 'ɑ̃fɛ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Enfin!', 'Enfin arrivé.'],
+  },
+  {
+    id: 'word_ensuite',
+    word: 'ensuite',
+    meaning: 'then/next',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɑ̃sɥit' },
+      { accent: 'quebecois', ipa: 'ɑ̃sɥit' },
+      { accent: 'belgian', ipa: 'ɑ̃sɥit' },
+    ],
+    category: 'adverbs',
+    examples: ['Ensuite, il mange.', "Qu'est-ce qui ensuite?"],
+  },
+  {
+    id: 'word_puis',
+    word: 'puis',
+    meaning: 'then',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'pɥi' },
+      { accent: 'quebecois', ipa: 'pɥi' },
+      { accent: 'belgian', ipa: 'pɥi' },
+    ],
+    category: 'adverbs',
+    examples: ["D'abord, puis ensuite.", 'Puis il part.'],
+  },
+  {
+    id: 'word_dabord',
+    word: "d'abord",
+    meaning: 'first',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'daboʁ' },
+      { accent: 'quebecois', ipa: 'daboʁ' },
+      { accent: 'belgian', ipa: 'daboʁ' },
+    ],
+    category: 'adverbs',
+    examples: ["D'abord, mange.", "D'abord le plus important."],
+  },
+  {
+    id: 'word_soudain',
+    word: 'soudain',
+    meaning: 'suddenly',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'sudɛ̃' },
+      { accent: 'quebecois', ipa: 'sudɛ̃' },
+      { accent: 'belgian', ipa: 'sudɛ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Soudain, il pleut.', 'Il est parti soudain.'],
+  },
+  {
+    id: 'word_progressivement',
+    word: 'progressivement',
+    meaning: 'gradually',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'pʁɔɡʁesivmɑ̃' },
+      { accent: 'quebecois', ipa: 'pʁɔɡʁesivmɑ̃' },
+      { accent: 'belgian', ipa: 'pʁɔɡʁesivmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Progressivement amélioré.', 'Il progresse progressivement.'],
+  },
+  {
+    id: 'word_immediatement',
+    word: 'immédiatement',
+    meaning: 'immediately',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'imedjatmɑ̃' },
+      { accent: 'quebecois', ipa: 'imedjatmɑ̃' },
+      { accent: 'belgian', ipa: 'imedjatmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Viens immédiatement.', 'Arrête immédiatement.'],
+  },
+  {
+    id: 'word_bientot',
+    word: 'rapidement',
+    meaning: 'quickly',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ʁapidmɑ̃' },
+      { accent: 'quebecois', ipa: 'ʁapidmɑ̃' },
+      { accent: 'belgian', ipa: 'ʁapidmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Rapidement fini.', 'Il court rapidement.'],
+  },
+  {
+    id: 'word_calme',
+    word: 'calmement',
+    meaning: 'calmly',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'kalmɑ̃' },
+      { accent: 'quebecois', ipa: 'kalmɑ̃' },
+      { accent: 'belgian', ipa: 'kalmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Parle calmement.', 'Il réagit calmement.'],
+  },
+  {
+    id: 'word_silencieusement',
+    word: 'silencieusement',
+    meaning: 'quietly',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'silɑ̃sjøzmɑ̃' },
+      { accent: 'quebecois', ipa: 'silɑ̃sjøzmɑ̃' },
+      { accent: 'belgian', ipa: 'silɑ̃sjøzmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Marche silencieusement.', 'Il parle silencieusement.'],
+  },
+  {
+    id: 'word_loudly',
+    word: 'fortement',
+    meaning: 'loudly',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'fɔʁtmɑ̃' },
+      { accent: 'quebecois', ipa: 'fɔʁtmɑ̃' },
+      { accent: 'belgian', ipa: 'fɔʁtmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Parle fort.', 'Il frappe fort.'],
+  },
+  {
+    id: 'word_attentivement',
+    word: 'attentivement',
+    meaning: 'carefully',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'atɑ̃tivmɑ̃' },
+      { accent: 'quebecois', ipa: 'atɑ̃tivmɑ̃' },
+      { accent: 'belgian', ipa: 'atɑ̃tivmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Écoute attentivement.', 'Regarde attentivement.'],
+  },
+  {
+    id: 'word_soigneusement',
+    word: 'soigneusement',
+    meaning: 'carefully',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'swaɲøzmɑ̃' },
+      { accent: 'quebecois', ipa: 'swaɲøzmɑ̃' },
+      { accent: 'belgian', ipa: 'swaɲøzmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Travaille soigneusement.', 'Il écrit soigneusement.'],
+  },
+  {
+    id: 'word_exactement',
+    word: 'exactement',
+    meaning: 'exactly',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɛɡzaktmɑ̃' },
+      { accent: 'quebecois', ipa: 'ɛɡzaktmɑ̃' },
+      { accent: 'belgian', ipa: 'ɛɡzaktmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Exactement!', "C'est exactement ça."],
+  },
+  {
+    id: 'word_environ',
+    word: 'environ',
+    meaning: 'approximately',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɑ̃viʁɔ̃' },
+      { accent: 'quebecois', ipa: 'ɑ̃viʁɔ̃' },
+      { accent: 'belgian', ipa: 'ɑ̃viʁɔ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Environ dix heures.', 'Il y a environ cent personnes.'],
+  },
+  {
+    id: 'word_environ',
+    word: 'à peu près',
+    meaning: 'approximately',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'a pø pʁɛ' },
+      { accent: 'quebecois', ipa: 'a pø pʁɛ' },
+      { accent: 'belgian', ipa: 'a pø pʁɛ' },
+    ],
+    category: 'adverbs',
+    examples: ['À peu près dix.', "C'est à peu près fini."],
+  },
+  {
+    id: 'word_deja',
+    word: 'déjà',
+    meaning: 'already',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'deʒa' },
+      { accent: 'quebecois', ipa: 'deʒa' },
+      { accent: 'belgian', ipa: 'deʒa' },
+    ],
+    category: 'adverbs',
+    examples: ['Déjà fini?', 'Je suis déjà parti.'],
+  },
+  {
+    id: 'word_encore',
+    word: 'encore',
+    meaning: 'again/still',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɑ̃kɔʁ' },
+      { accent: 'quebecois', ipa: 'ɑ̃kɔʁ' },
+      { accent: 'belgian', ipa: 'ɑ̃kɔʁ' },
+    ],
+    category: 'adverbs',
+    examples: ['Encore une fois.', 'Il dort encore.'],
+  },
+  {
+    id: 'word_alors',
+    word: 'alors',
+    meaning: 'then/so',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'alaʁ' },
+      { accent: 'quebecois', ipa: 'alaʁ' },
+      { accent: 'belgian', ipa: 'alaʁ' },
+    ],
+    category: 'adverbs',
+    examples: ["Alors, qu'est-ce que tu fais?", 'Alors je pars.'],
+  },
+  {
+    id: 'word_donc',
+    word: 'donc',
+    meaning: 'therefore/so',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'dɔ̃k' },
+      { accent: 'quebecois', ipa: 'dɔ̃k' },
+      { accent: 'belgian', ipa: 'dɔ̃k' },
+    ],
+    category: 'adverbs',
+    examples: ['Donc, je viens.', "C'est donc fini."],
+  },
+  {
+    id: 'word_cependant',
+    word: 'cependant',
+    meaning: 'however',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'səpɑ̃dɑ̃' },
+      { accent: 'quebecois', ipa: 'səpɑ̃dɑ̃' },
+      { accent: 'belgian', ipa: 'səpɑ̃dɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Cependant, je ne peux pas.', 'Il est riche, cependant triste.'],
+  },
+  {
+    id: 'word_pourtant',
+    word: 'pourtant',
+    meaning: 'however',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'puʁtɑ̃' },
+      { accent: 'quebecois', ipa: 'puʁtɑ̃' },
+      { accent: 'belgian', ipa: 'puʁtɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Pourtant, il pleut.', 'Il est jeune, pourtant sage.'],
+  },
+  {
+    id: 'word_sinon',
+    word: 'sinon',
+    meaning: 'otherwise',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'sinɔ̃' },
+      { accent: 'quebecois', ipa: 'sinɔ̃' },
+      { accent: 'belgian', ipa: 'sinɔ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Viens, sinon tu seras en retard.', 'Sinon, je mange.'],
+  },
+  {
+    id: 'word_meme',
+    word: 'même',
+    meaning: 'even',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'mɛm' },
+      { accent: 'quebecois', ipa: 'mɛm' },
+      { accent: 'belgian', ipa: 'mɛm' },
+    ],
+    category: 'adverbs',
+    examples: ['Même pas.', 'Même moi.'],
+  },
+  {
+    id: 'word_seulement',
+    word: 'seulement',
+    meaning: 'only',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'sœlmɑ̃' },
+      { accent: 'quebecois', ipa: 'sœlmɑ̃' },
+      { accent: 'belgian', ipa: 'sœlmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Seulement moi.', 'Je veux seulement ça.'],
+  },
+  {
+    id: 'word_juste',
+    word: 'juste',
+    meaning: 'just/only',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ʒyst' },
+      { accent: 'quebecois', ipa: 'ʒyst' },
+      { accent: 'belgian', ipa: 'ʒyst' },
+    ],
+    category: 'adverbs',
+    examples: ['Juste à temps.', "C'est juste."],
+  },
+  {
+    id: 'word_au_moins',
+    word: 'au moins',
+    meaning: 'at least',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'o mwɛ̃' },
+      { accent: 'quebecois', ipa: 'o mwɛ̃' },
+      { accent: 'belgian', ipa: 'o mwɛ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Au moins dix.', 'Au moins, il pleut pas.'],
+  },
+  {
+    id: 'word_au_plus',
+    word: 'au plus',
+    meaning: 'at most',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'o ply' },
+      { accent: 'quebecois', ipa: 'o ply' },
+      { accent: 'belgian', ipa: 'o ply' },
+    ],
+    category: 'adverbs',
+    examples: ['Au plus cent.', 'Au plus, il arrive demain.'],
+  },
+  {
+    id: 'word_surtout',
+    word: 'surtout',
+    meaning: 'especially',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'syʁtu' },
+      { accent: 'quebecois', ipa: 'syʁtu' },
+      { accent: 'belgian', ipa: 'syʁtu' },
+    ],
+    category: 'adverbs',
+    examples: ['Surtout pas ça.', "J'aime surtout le chocolat."],
+  },
+  {
+    id: 'word_notamment',
+    word: 'notamment',
+    meaning: 'notably',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'nɔtamɑ̃' },
+      { accent: 'quebecois', ipa: 'nɔtamɑ̃' },
+      { accent: 'belgian', ipa: 'nɔtamɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Notamment en France.', 'Il aime notamment le vin.'],
+  },
+  {
+    id: 'word_particulierement',
+    word: 'particulièrement',
+    meaning: 'particularly',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'paʁtikyljɛʁmɑ̃' },
+      { accent: 'quebecois', ipa: 'paʁtikyljɛʁmɑ̃' },
+      { accent: 'belgian', ipa: 'paʁtikyljɛʁmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Particulièrement intéressant.', 'Il aime particulièrement ça.'],
+  },
+  {
+    id: 'word_specialement',
+    word: 'spécialement',
+    meaning: 'especially',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'spesjalmɑ̃' },
+      { accent: 'quebecois', ipa: 'spesjalmɑ̃' },
+      { accent: 'belgian', ipa: 'spesjalmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Spécialement pour toi.', 'Spécialement conçu.'],
+  },
+  {
+    id: 'word_absolument',
+    word: 'absolument',
+    meaning: 'absolutely',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'absolymɑ̃' },
+      { accent: 'quebecois', ipa: 'absolymɑ̃' },
+      { accent: 'belgian', ipa: 'absolymɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Absolument pas.', 'Absolument magnifique.'],
+  },
+  {
+    id: 'word_completement',
+    word: 'certainement',
+    meaning: 'certainly',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'sɛʁtɛnmɑ̃' },
+      { accent: 'quebecois', ipa: 'sɛʁtɛnmɑ̃' },
+      { accent: 'belgian', ipa: 'sɛʁtɛnmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Certainement pas.', 'Il viendra certainement.'],
+  },
+  {
+    id: 'word_evidemment',
+    word: 'évidemment',
+    meaning: 'obviously',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'evidamɑ̃' },
+      { accent: 'quebecois', ipa: 'evidamɑ̃' },
+      { accent: 'belgian', ipa: 'evidamɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Évidemment!', 'Évidemment faux.'],
+  },
+  {
+    id: 'word_naturellement',
+    word: 'naturellement',
+    meaning: 'naturally',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'natyʁɛlmɑ̃' },
+      { accent: 'quebecois', ipa: 'natyʁɛlmɑ̃' },
+      { accent: 'belgian', ipa: 'natyʁɛlmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Naturellement.', 'Il sourit naturellement.'],
+  },
+  {
+    id: 'word_normalement',
+    word: 'normalement',
+    meaning: 'normally',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'nɔʁmalmɑ̃' },
+      { accent: 'quebecois', ipa: 'nɔʁmalmɑ̃' },
+      { accent: 'belgian', ipa: 'nɔʁmalmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Normalement, je viens.', 'Normalement fermé.'],
+  },
+  {
+    id: 'word_habituellement',
+    word: 'habituellement',
+    meaning: 'usually',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'abitɛlmɑ̃' },
+      { accent: 'quebecois', ipa: 'abitɛlmɑ̃' },
+      { accent: 'belgian', ipa: 'abitɛlmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Habituellement, je mange tôt.', 'Il pleut habituellement.'],
+  },
+  {
+    id: 'word_generalement',
+    word: 'généralement',
+    meaning: 'generally',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ʒeneʁalmɑ̃' },
+      { accent: 'quebecois', ipa: 'ʒeneʁalmɑ̃' },
+      { accent: 'belgian', ipa: 'ʒeneʁalmɑ̃' },
+    ],
+    category: 'adverbs',
+    examples: ['Généralement vrai.', 'Généralement fermé le dimanche.'],
+  },
+  {
+    id: 'word_toujours',
+    word: 'toujours',
+    meaning: 'still/yet',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'tuʒuʁ' },
+      { accent: 'quebecois', ipa: 'tuʒuʁ' },
+      { accent: 'belgian', ipa: 'tuʒuʁ' },
+    ],
+    category: 'adverbs',
+    examples: ['Il pleut toujours.', 'Je suis toujours là.'],
+  },
+  {
+    id: 'word_deja',
+    word: 'déjà',
+    meaning: 'yet',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'deʒa' },
+      { accent: 'quebecois', ipa: 'deʒa' },
+      { accent: 'belgian', ipa: 'deʒa' },
+    ],
+    category: 'adverbs',
+    examples: ['Pas encore.', 'Déjà fini?'],
+  },
 ];

@@ -6,7 +6,20 @@ export type RootExample = {
   sentence: string;
 };
 
-export type AccentType = 'american' | 'british' | 'australian' | 'canadian' | 'irish' | 'scottish' | 'parisian' | 'quebecois' | 'belgian' | 'swiss';
+export type AccentType =
+  | 'american'
+  | 'british'
+  | 'australian'
+  | 'canadian'
+  | 'irish'
+  | 'scottish'
+  | 'parisian'
+  | 'quebecois'
+  | 'belgian'
+  | 'swiss'
+  | 'spanish'
+  | 'latin'
+  | 'greek';
 
 export type PronunciationVariant = {
   accent: AccentType;
@@ -26,7 +39,8 @@ export type WordRoot = {
   pronunciationVariants?: PronunciationVariant[]; // For different accents
 };
 
-export type VocabCategory = 'greetings' | 'numbers' | 'verbs' | 'daily-use-nouns' | 'adjectives' | 'adverbs' | 'prepositions';
+export type VocabCategory =
+  'greetings' | 'numbers' | 'verbs' | 'daily-use-nouns' | 'adjectives' | 'adverbs' | 'prepositions';
 
 export type VocabWord = {
   id: string;
@@ -44,18 +58,6 @@ export type SearchItem =
   | { kind: 'word'; id: string; title: string; subtitle: string; href: string };
 
 export type SearchFilter = 'all' | 'root' | 'word';
-
-export type PaginationParams = {
-  page: number;
-  limit: number;
-};
-
-export type PaginatedResult<T> = {
-  items: T[];
-  totalPages: number;
-  currentPage: number;
-  totalItems: number;
-};
 
 // Etymology Types
 export type EtymologyStage = {

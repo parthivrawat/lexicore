@@ -1,48 +1,120 @@
 import { VocabWord, WordRoot, VocabCategory } from '@/types';
+import type { LearningLanguage } from '@/types/settings';
 import { loadRootsData, loadVocabularyData, loadEtymologyData } from './dataLoader';
+import { getTtsAudioUrl } from './audio';
 
-export async function getRootsData(learningLanguage: 'english' | 'french' | 'spanish' | 'latin' | 'greek'): Promise<WordRoot[]> {
-  const language = learningLanguage === 'french' ? 'french' : 'english';
-  return await loadRootsData(language);
+const vocabularyDataCache: Partial<Record<LearningLanguage, VocabWord[]>> = {};
+const rootsByIdCache: Partial<Record<LearningLanguage, Record<string, WordRoot>>> = {};
+const vocabularyByIdCache: Partial<Record<LearningLanguage, Record<string, VocabWord>>> = {};
+
+export async function getRootsData(language: LearningLanguage): Promise<WordRoot[]> {
+  const roots = await loadRootsData(language);
+  return roots.map(root => {
+    if (!root.pronunciationVariants) return root;
+    return {
+      ...root,
+      pronunciationVariants: root.pronunciationVariants.map(variant => ({
+        ...variant,
+        audioUrl: variant.audioUrl ?? getTtsAudioUrl(root.root, variant.accent),
+      })),
+    };
+  });
 }
 
-export async function getVocabularyData(learningLanguage: 'english' | 'french' | 'spanish' | 'latin' | 'greek'): Promise<VocabWord[]> {
-  const language = learningLanguage === 'french' ? 'french' : 'english';
-  const vocabulary = await loadVocabularyData(language);
-
-  if (learningLanguage === 'english') {
-    const etymologyData = await loadEtymologyData();
-    return vocabulary.map(word => ({
-      ...word,
-      etymology: etymologyData[word.id]
-    }));
+export async function getVocabularyData(language: LearningLanguage): Promise<VocabWord[]> {
+  if (vocabularyDataCache[language]) {
+    return vocabularyDataCache[language]!;
   }
 
-  return vocabulary;
+  const vocabulary = await loadVocabularyData(language);
+
+  const withAudioUrl = vocabulary.map(word => {
+    if (!word.pronunciationVariants) return word;
+    return {
+      ...word,
+      pronunciationVariants: word.pronunciationVariants.map(variant => ({
+        ...variant,
+        audioUrl: variant.audioUrl ?? getTtsAudioUrl(word.word, variant.accent),
+      })),
+    };
+  });
+
+  const etymologyData = await loadEtymologyData(language);
+  const withEtymology = withAudioUrl.map(word => ({
+    ...word,
+    etymology: etymologyData[word.id],
+  }));
+  vocabularyDataCache[language] = withEtymology;
+  return withEtymology;
+}
+
+export async function getRootById(
+  language: LearningLanguage,
+  id: string
+): Promise<WordRoot | undefined> {
+  if (rootsByIdCache[language]) {
+    return rootsByIdCache[language]![id];
+  }
+
+  const roots = await getRootsData(language);
+  const byId = roots.reduce(
+    (acc, root) => {
+      acc[root.id] = root;
+      return acc;
+    },
+    {} as Record<string, WordRoot>
+  );
+
+  rootsByIdCache[language] = byId;
+  return byId[id];
+}
+
+export async function getVocabularyById(
+  language: LearningLanguage,
+  id: string
+): Promise<VocabWord | undefined> {
+  if (vocabularyByIdCache[language]) {
+    return vocabularyByIdCache[language]![id];
+  }
+
+  const words = await getVocabularyData(language);
+  const byId = words.reduce(
+    (acc, word) => {
+      acc[word.id] = word;
+      return acc;
+    },
+    {} as Record<string, VocabWord>
+  );
+
+  vocabularyByIdCache[language] = byId;
+  return byId[id];
 }
 
 export function groupWordsByCategory(words: VocabWord[]): Record<string, VocabWord[]> {
-  return words.reduce((acc, word) => {
-    const category = word.category;
-    if (!acc[category]) {
-      acc[category] = [];
-    }
-    acc[category].push(word);
-    return acc;
-  }, {} as Record<string, VocabWord[]>);
+  return words.reduce(
+    (acc, word) => {
+      const category = word.category;
+      if (!acc[category]) {
+        acc[category] = [];
+      }
+      acc[category].push(word);
+      return acc;
+    },
+    {} as Record<string, VocabWord[]>
+  );
 }
 
 export function sortWordsByCategory(words: VocabWord[]): VocabWord[] {
   const categoryOrder: VocabCategory[] = ['greetings', 'numbers', 'verbs', 'daily-use-nouns'];
-  
+
   return words.sort((a, b) => {
     const aIndex = categoryOrder.indexOf(a.category);
     const bIndex = categoryOrder.indexOf(b.category);
-    
+
     if (aIndex !== bIndex) {
       return aIndex - bIndex;
     }
-    
+
     return a.word.localeCompare(b.word);
   });
 }

@@ -1,6 +1,6 @@
-import { VocabWord } from '@/types';
-import { vocabularyEn, vocabularyFr } from '@/data/vocabulary';
-import { etymologyData } from '@/data/etymology';
+import { VocabWord, Etymology } from '@/types';
+import type { LearningLanguage } from '@/types/settings';
+import { getVocabularyData } from '@/utils/data';
 
 const STORAGE_KEY = 'word_of_the_day';
 const DATE_KEY = 'word_of_the_day_date';
@@ -12,7 +12,7 @@ function getDateHash(dateStr: string): number {
   let hash = 0;
   for (let i = 0; i < dateStr.length; i++) {
     const char = dateStr.charCodeAt(i);
-    hash = ((hash << 5) - hash) + char;
+    hash = (hash << 5) - hash + char;
     hash = hash & hash; // Convert to 32bit integer
   }
   return Math.abs(hash);
@@ -30,18 +30,11 @@ function getTodayDateString(): string {
 }
 
 /**
- * Get the vocabulary array based on learning language
- */
-function getVocabularyByLanguage(language: 'english' | 'french'): VocabWord[] {
-  return language === 'french' ? vocabularyFr : vocabularyEn;
-}
-
-/**
  * Select a word based on date hash
  */
 function selectWordByDate(vocabulary: VocabWord[], dateStr: string): VocabWord | null {
   if (vocabulary.length === 0) return null;
-  
+
   const hash = getDateHash(dateStr);
   const index = hash % vocabulary.length;
   return vocabulary[index];
@@ -51,40 +44,34 @@ function selectWordByDate(vocabulary: VocabWord[], dateStr: string): VocabWord |
  * Get the Word of the Day for a specific learning language
  * Uses localStorage to persist the selection for the current day
  */
-export function getWordOfTheDay(language: 'english' | 'french' = 'english'): (VocabWord & { etymology?: any }) | null {
+export async function getWordOfTheDay(
+  language: LearningLanguage = 'english'
+): Promise<(VocabWord & { etymology?: Etymology }) | null> {
   const today = getTodayDateString();
-  
+  const vocabulary = await getVocabularyData(language);
+
   // Check if we have a stored word for today
   const storedDate = localStorage.getItem(DATE_KEY);
   const storedWordId = localStorage.getItem(STORAGE_KEY);
-  
+
   if (storedDate === today && storedWordId) {
-    // Return the stored word for today
-    const vocabulary = getVocabularyByLanguage(language);
     const word = vocabulary.find(v => v.id === storedWordId);
     if (word) {
-      return {
-        ...word,
-        etymology: etymologyData[word.id]
-      };
+      return word;
     }
   }
-  
+
   // Select a new word for today
-  const vocabulary = getVocabularyByLanguage(language);
   const selectedWord = selectWordByDate(vocabulary, today);
-  
+
   if (selectedWord) {
     // Store the selection
     localStorage.setItem(DATE_KEY, today);
     localStorage.setItem(STORAGE_KEY, selectedWord.id);
-    
-    return {
-      ...selectedWord,
-      etymology: etymologyData[selectedWord.id]
-    };
+
+    return selectedWord;
   }
-  
+
   return null;
 }
 

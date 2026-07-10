@@ -11,7 +11,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'pɔʁ' },
       { accent: 'quebecois', ipa: 'pɔʁ' },
-      { accent: 'belgian', ipa: 'pɔʁ' }
+      { accent: 'belgian', ipa: 'pɔʁ' },
     ],
     examples: [
       { word: 'porter', meaning: 'to carry', sentence: 'Je porte un sac lourd.' },
@@ -29,11 +29,11 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'vwaʁ' },
       { accent: 'quebecois', ipa: 'vwaʁ' },
-      { accent: 'belgian', ipa: 'vwaʁ' }
+      { accent: 'belgian', ipa: 'vwaʁ' },
     ],
     examples: [
       { word: 'voir', meaning: 'to see', sentence: 'Je vois les montagnes.' },
-      { word: 'revue', meaning: 'review', sentence: 'J\'ai lu la revue.' },
+      { word: 'revue', meaning: 'review', sentence: "J'ai lu la revue." },
       { word: 'visible', meaning: 'visible', sentence: 'La lumière est visible.' },
     ],
     relatedRootIds: ['root_re_fr', 'root_able_fr'],
@@ -47,12 +47,12 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'diʁ' },
       { accent: 'quebecois', ipa: 'diʁ' },
-      { accent: 'belgian', ipa: 'diʁ' }
+      { accent: 'belgian', ipa: 'diʁ' },
     ],
     examples: [
       { word: 'dire', meaning: 'to say', sentence: 'Je dis la vérité.' },
       { word: 'interdire', meaning: 'to forbid', sentence: 'La loi interdit de fumer ici.' },
-      { word: 'prédire', meaning: 'to predict', sentence: 'Il prédit l\'avenir.' },
+      { word: 'prédire', meaning: 'to predict', sentence: "Il prédit l'avenir." },
     ],
     relatedRootIds: ['root_in_fr'],
   },
@@ -65,12 +65,12 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'fɛʁ' },
       { accent: 'quebecois', ipa: 'fɛʁ' },
-      { accent: 'belgian', ipa: 'fɛʁ' }
+      { accent: 'belgian', ipa: 'fɛʁ' },
     ],
     examples: [
       { word: 'faire', meaning: 'to do/make', sentence: 'Je fais mes devoirs.' },
       { word: 'refaire', meaning: 'to redo', sentence: 'Il faut refaire le travail.' },
-      { word: 'bienfait', meaning: 'good deed', sentence: 'C\'est un bienfait.' },
+      { word: 'bienfait', meaning: 'good deed', sentence: "C'est un bienfait." },
     ],
     relatedRootIds: ['root_re_fr', 'root_bien_fr'],
   },
@@ -83,12 +83,12 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'vəniʁ' },
       { accent: 'quebecois', ipa: 'vəniʁ' },
-      { accent: 'belgian', ipa: 'vəniʁ' }
+      { accent: 'belgian', ipa: 'vəniʁ' },
     ],
     examples: [
       { word: 'venir', meaning: 'to come', sentence: 'Je viens demain.' },
       { word: 'revenir', meaning: 'to come back', sentence: 'Elle revient à la maison.' },
-      { word: 'avenir', meaning: 'future', sentence: 'L\'avenir est incertain.' },
+      { word: 'avenir', meaning: 'future', sentence: "L'avenir est incertain." },
     ],
     relatedRootIds: ['root_re_fr'],
   },
@@ -101,7 +101,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'təniʁ' },
       { accent: 'quebecois', ipa: 'təniʁ' },
-      { accent: 'belgian', ipa: 'təniʁ' }
+      { accent: 'belgian', ipa: 'təniʁ' },
     ],
     examples: [
       { word: 'tenir', meaning: 'to hold', sentence: 'Je tiens le livre.' },
@@ -119,11 +119,11 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'mɛtʁ' },
       { accent: 'quebecois', ipa: 'mɛtʁ' },
-      { accent: 'belgian', ipa: 'mɛtʁ' }
+      { accent: 'belgian', ipa: 'mɛtʁ' },
     ],
     examples: [
       { word: 'mettre', meaning: 'to put', sentence: 'Je mets la table.' },
-      { word: 'promettre', meaning: 'to promise', sentence: 'Je promets d\'arriver à l\'heure.' },
+      { word: 'promettre', meaning: 'to promise', sentence: "Je promets d'arriver à l'heure." },
       { word: 'permettre', meaning: 'to permit', sentence: 'Le professeur permet de sortir.' },
     ],
     relatedRootIds: [],
@@ -137,12 +137,12 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'pʁɑ̃dʁ' },
       { accent: 'quebecois', ipa: 'pʁɑ̃dʁ' },
-      { accent: 'belgian', ipa: 'pʁɑ̃dʁ' }
+      { accent: 'belgian', ipa: 'pʁɑ̃dʁ' },
     ],
     examples: [
       { word: 'prendre', meaning: 'to take', sentence: 'Je prends le bus.' },
       { word: 'comprendre', meaning: 'to understand', sentence: 'Je comprends la question.' },
-      { word: 'apprendre', meaning: 'to learn', sentence: 'J\'apprends le français.' },
+      { word: 'apprendre', meaning: 'to learn', sentence: "J'apprends le français." },
     ],
     relatedRootIds: ['root_com_fr'],
   },
@@ -155,12 +155,12 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ekʁiʁ' },
       { accent: 'quebecois', ipa: 'ekʁiʁ' },
-      { accent: 'belgian', ipa: 'ekʁiʁ' }
+      { accent: 'belgian', ipa: 'ekʁiʁ' },
     ],
     examples: [
-      { word: 'écrire', meaning: 'to write', sentence: 'J\'écris une lettre.' },
+      { word: 'écrire', meaning: 'to write', sentence: "J'écris une lettre." },
       { word: 'réécrire', meaning: 'to rewrite', sentence: 'Je réécris le texte.' },
-      { word: 'écrivain', meaning: 'writer', sentence: 'L\'écrivain est célèbre.' },
+      { word: 'écrivain', meaning: 'writer', sentence: "L'écrivain est célèbre." },
     ],
     relatedRootIds: ['root_re_fr'],
   },
@@ -173,7 +173,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'liʁ' },
       { accent: 'quebecois', ipa: 'liʁ' },
-      { accent: 'belgian', ipa: 'liʁ' }
+      { accent: 'belgian', ipa: 'liʁ' },
     ],
     examples: [
       { word: 'lire', meaning: 'to read', sentence: 'Je lis un livre.' },
@@ -191,7 +191,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'sɑ̃tiʁ' },
       { accent: 'quebecois', ipa: 'sɑ̃tiʁ' },
-      { accent: 'belgian', ipa: 'sɑ̃tiʁ' }
+      { accent: 'belgian', ipa: 'sɑ̃tiʁ' },
     ],
     examples: [
       { word: 'sentir', meaning: 'to feel', sentence: 'Je sens le froid.' },
@@ -209,7 +209,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'viʁ' },
       { accent: 'quebecois', ipa: 'viʁ' },
-      { accent: 'belgian', ipa: 'viʁ' }
+      { accent: 'belgian', ipa: 'viʁ' },
     ],
     examples: [
       { word: 'vivre', meaning: 'to live', sentence: 'Je vis à Paris.' },
@@ -227,7 +227,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'muʁiʁ' },
       { accent: 'quebecois', ipa: 'muʁiʁ' },
-      { accent: 'belgian', ipa: 'muʁiʁ' }
+      { accent: 'belgian', ipa: 'muʁiʁ' },
     ],
     examples: [
       { word: 'mourir', meaning: 'to die', sentence: 'Il meurt de vieillesse.' },
@@ -245,11 +245,11 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'dɔʁmiʁ' },
       { accent: 'quebecois', ipa: 'dɔʁmiʁ' },
-      { accent: 'belgian', ipa: 'dɔʁmiʁ' }
+      { accent: 'belgian', ipa: 'dɔʁmiʁ' },
     ],
     examples: [
       { word: 'dormir', meaning: 'to sleep', sentence: 'Je dors huit heures.' },
-      { word: 'endormir', meaning: 'to put to sleep', sentence: 'J\'endors l\'enfant.' },
+      { word: 'endormir', meaning: 'to put to sleep', sentence: "J'endors l'enfant." },
       { word: 'sommeil', meaning: 'sleep', sentence: 'Le sommeil est réparateur.' },
     ],
     relatedRootIds: [],
@@ -263,7 +263,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'sɔʁtiʁ' },
       { accent: 'quebecois', ipa: 'sɔʁtiʁ' },
-      { accent: 'belgian', ipa: 'sɔʁtiʁ' }
+      { accent: 'belgian', ipa: 'sɔʁtiʁ' },
     ],
     examples: [
       { word: 'sortir', meaning: 'to go out', sentence: 'Je sors ce soir.' },
@@ -281,7 +281,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'paʁtiʁ' },
       { accent: 'quebecois', ipa: 'paʁtiʁ' },
-      { accent: 'belgian', ipa: 'paʁtiʁ' }
+      { accent: 'belgian', ipa: 'paʁtiʁ' },
     ],
     examples: [
       { word: 'partir', meaning: 'to leave', sentence: 'Je pars demain.' },
@@ -299,11 +299,11 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ɑ̃tʁe' },
       { accent: 'quebecois', ipa: 'ɑ̃tʁe' },
-      { accent: 'belgian', ipa: 'ɑ̃tʁe' }
+      { accent: 'belgian', ipa: 'ɑ̃tʁe' },
     ],
     examples: [
-      { word: 'entrer', meaning: 'to enter', sentence: 'J\'entre dans la salle.' },
-      { word: 'entrée', meaning: 'entrance', sentence: 'L\'entrée est libre.' },
+      { word: 'entrer', meaning: 'to enter', sentence: "J'entre dans la salle." },
+      { word: 'entrée', meaning: 'entrance', sentence: "L'entrée est libre." },
       { word: 'rentrer', meaning: 'to return', sentence: 'Je rentre à la maison.' },
     ],
     relatedRootIds: ['root_re_fr'],
@@ -317,7 +317,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'mɑ̃ʒe' },
       { accent: 'quebecois', ipa: 'mɑ̃ʒe' },
-      { accent: 'belgian', ipa: 'mɑ̃ʒe' }
+      { accent: 'belgian', ipa: 'mɑ̃ʒe' },
     ],
     examples: [
       { word: 'manger', meaning: 'to eat', sentence: 'Je mange du pain.' },
@@ -335,10 +335,10 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'bwaʁ' },
       { accent: 'quebecois', ipa: 'bwaʁ' },
-      { accent: 'belgian', ipa: 'bwaʁ' }
+      { accent: 'belgian', ipa: 'bwaʁ' },
     ],
     examples: [
-      { word: 'boire', meaning: 'to drink', sentence: 'Je bois de l\'eau.' },
+      { word: 'boire', meaning: 'to drink', sentence: "Je bois de l'eau." },
       { word: 'reboire', meaning: 'to drink again', sentence: 'Je rebois un café.' },
       { word: 'boisson', meaning: 'drink', sentence: 'La boisson est fraîche.' },
     ],
@@ -353,12 +353,12 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'paʁle' },
       { accent: 'quebecois', ipa: 'paʁle' },
-      { accent: 'belgian', ipa: 'paʁle' }
+      { accent: 'belgian', ipa: 'paʁle' },
     ],
     examples: [
       { word: 'parler', meaning: 'to speak', sentence: 'Je parle français.' },
       { word: 'reparler', meaning: 'to speak again', sentence: 'Je reparle de ce sujet.' },
-      { word: 'parole', meaning: 'speech', sentence: 'La parole est d\'argent.' },
+      { word: 'parole', meaning: 'speech', sentence: "La parole est d'argent." },
     ],
     relatedRootIds: ['root_re_fr'],
   },
@@ -371,7 +371,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ʃɑ̃te' },
       { accent: 'quebecois', ipa: 'ʃɑ̃te' },
-      { accent: 'belgian', ipa: 'ʃɑ̃te' }
+      { accent: 'belgian', ipa: 'ʃɑ̃te' },
     ],
     examples: [
       { word: 'chanter', meaning: 'to sing', sentence: 'Je chante une chanson.' },
@@ -389,7 +389,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'dɑ̃se' },
       { accent: 'quebecois', ipa: 'dɑ̃se' },
-      { accent: 'belgian', ipa: 'dɑ̃se' }
+      { accent: 'belgian', ipa: 'dɑ̃se' },
     ],
     examples: [
       { word: 'danser', meaning: 'to dance', sentence: 'Je danse ce soir.' },
@@ -407,7 +407,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'maʁʃe' },
       { accent: 'quebecois', ipa: 'maʁʃe' },
-      { accent: 'belgian', ipa: 'maʁʃe' }
+      { accent: 'belgian', ipa: 'maʁʃe' },
     ],
     examples: [
       { word: 'marcher', meaning: 'to walk', sentence: 'Je marche dans le parc.' },
@@ -425,7 +425,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'kuʁiʁ' },
       { accent: 'quebecois', ipa: 'kuʁiʁ' },
-      { accent: 'belgian', ipa: 'kuʁiʁ' }
+      { accent: 'belgian', ipa: 'kuʁiʁ' },
     ],
     examples: [
       { word: 'courir', meaning: 'to run', sentence: 'Je cours vite.' },
@@ -443,7 +443,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'sote' },
       { accent: 'quebecois', ipa: 'sote' },
-      { accent: 'belgian', ipa: 'sote' }
+      { accent: 'belgian', ipa: 'sote' },
     ],
     examples: [
       { word: 'sauter', meaning: 'to jump', sentence: 'Je saute par-dessus.' },
@@ -461,7 +461,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ʁiʁ' },
       { accent: 'quebecois', ipa: 'ʁiʁ' },
-      { accent: 'belgian', ipa: 'ʁiʁ' }
+      { accent: 'belgian', ipa: 'ʁiʁ' },
     ],
     examples: [
       { word: 'rire', meaning: 'to laugh', sentence: 'Je ris de cette blague.' },
@@ -479,12 +479,12 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'pløe' },
       { accent: 'quebecois', ipa: 'pløe' },
-      { accent: 'belgian', ipa: 'pløe' }
+      { accent: 'belgian', ipa: 'pløe' },
     ],
     examples: [
       { word: 'pleurer', meaning: 'to cry', sentence: 'Je pleure de tristesse.' },
       { word: 'pleur', meaning: 'tear', sentence: 'La pleur coule.' },
-      { word: 'pleureur', meaning: 'crybaby', sentence: 'C\'est un pleureur.' },
+      { word: 'pleureur', meaning: 'crybaby', sentence: "C'est un pleureur." },
     ],
     relatedRootIds: [],
   },
@@ -497,12 +497,12 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'eme' },
       { accent: 'quebecois', ipa: 'eme' },
-      { accent: 'belgian', ipa: 'eme' }
+      { accent: 'belgian', ipa: 'eme' },
     ],
     examples: [
-      { word: 'aimer', meaning: 'to love', sentence: 'J\'aime ma famille.' },
+      { word: 'aimer', meaning: 'to love', sentence: "J'aime ma famille." },
       { word: 'réaimer', meaning: 'to love again', sentence: 'Je réaime cette personne.' },
-      { word: 'amour', meaning: 'love', sentence: 'L\'amour est éternel.' },
+      { word: 'amour', meaning: 'love', sentence: "L'amour est éternel." },
     ],
     relatedRootIds: ['root_re_fr'],
   },
@@ -515,12 +515,12 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'aiʁ' },
       { accent: 'quebecois', ipa: 'aiʁ' },
-      { accent: 'belgian', ipa: 'aiʁ' }
+      { accent: 'belgian', ipa: 'aiʁ' },
     ],
     examples: [
       { word: 'haïr', meaning: 'to hate', sentence: 'Je hais le mensonge.' },
       { word: 'haine', meaning: 'hate', sentence: 'La haine est destructrice.' },
-      { word: 'haïssable', meaning: 'hateful', sentence: 'C\'est haïssable.' },
+      { word: 'haïssable', meaning: 'hateful', sentence: "C'est haïssable." },
     ],
     relatedRootIds: [],
   },
@@ -533,7 +533,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'pɑ̃se' },
       { accent: 'quebecois', ipa: 'pɑ̃se' },
-      { accent: 'belgian', ipa: 'pɑ̃se' }
+      { accent: 'belgian', ipa: 'pɑ̃se' },
     ],
     examples: [
       { word: 'penser', meaning: 'to think', sentence: 'Je pense à toi.' },
@@ -551,7 +551,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'savwaʁ' },
       { accent: 'quebecois', ipa: 'savwaʁ' },
-      { accent: 'belgian', ipa: 'savwaʁ' }
+      { accent: 'belgian', ipa: 'savwaʁ' },
     ],
     examples: [
       { word: 'savoir', meaning: 'to know', sentence: 'Je sais la réponse.' },
@@ -569,7 +569,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'kɔnɛtʁ' },
       { accent: 'quebecois', ipa: 'kɔnɛtʁ' },
-      { accent: 'belgian', ipa: 'kɔnɛtʁ' }
+      { accent: 'belgian', ipa: 'kɔnɛtʁ' },
     ],
     examples: [
       { word: 'connaître', meaning: 'to know', sentence: 'Je connais cette personne.' },
@@ -587,11 +587,15 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'kɔ̃pʁɑ̃dʁ' },
       { accent: 'quebecois', ipa: 'kɔ̃pʁɑ̃dʁ' },
-      { accent: 'belgian', ipa: 'kɔ̃pʁɑ̃dʁ' }
+      { accent: 'belgian', ipa: 'kɔ̃pʁɑ̃dʁ' },
     ],
     examples: [
       { word: 'comprendre', meaning: 'to understand', sentence: 'Je comprends le texte.' },
-      { word: 'recomprendre', meaning: 'to understand again', sentence: 'Je recomprends cette leçon.' },
+      {
+        word: 'recomprendre',
+        meaning: 'to understand again',
+        sentence: 'Je recomprends cette leçon.',
+      },
       { word: 'compréhension', meaning: 'understanding', sentence: 'La compréhension est facile.' },
     ],
     relatedRootIds: ['root_re_fr', 'root_com_fr'],
@@ -605,12 +609,12 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'uvʁiʁ' },
       { accent: 'quebecois', ipa: 'uvʁiʁ' },
-      { accent: 'belgian', ipa: 'uvʁiʁ' }
+      { accent: 'belgian', ipa: 'uvʁiʁ' },
     ],
     examples: [
-      { word: 'ouvrir', meaning: 'to open', sentence: 'J\'ouvre la porte.' },
+      { word: 'ouvrir', meaning: 'to open', sentence: "J'ouvre la porte." },
       { word: 'rouvrir', meaning: 'to reopen', sentence: 'Je rouvre le magasin.' },
-      { word: 'ouverture', meaning: 'opening', sentence: 'L\'ouverture est à 9h.' },
+      { word: 'ouverture', meaning: 'opening', sentence: "L'ouverture est à 9h." },
     ],
     relatedRootIds: ['root_re_fr'],
   },
@@ -623,7 +627,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'fɛʁme' },
       { accent: 'quebecois', ipa: 'fɛʁme' },
-      { accent: 'belgian', ipa: 'fɛʁme' }
+      { accent: 'belgian', ipa: 'fɛʁme' },
     ],
     examples: [
       { word: 'fermer', meaning: 'to close', sentence: 'Je ferme la fenêtre.' },
@@ -641,12 +645,12 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'aʃte' },
       { accent: 'quebecois', ipa: 'aʃte' },
-      { accent: 'belgian', ipa: 'aʃte' }
+      { accent: 'belgian', ipa: 'aʃte' },
     ],
     examples: [
-      { word: 'acheter', meaning: 'to buy', sentence: 'J\'achète du pain.' },
+      { word: 'acheter', meaning: 'to buy', sentence: "J'achète du pain." },
       { word: 'racheter', meaning: 'to buy again', sentence: 'Je rachète ce livre.' },
-      { word: 'achat', meaning: 'purchase', sentence: 'L\'achat est important.' },
+      { word: 'achat', meaning: 'purchase', sentence: "L'achat est important." },
     ],
     relatedRootIds: ['root_re_fr'],
   },
@@ -659,7 +663,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'vɑ̃dʁ' },
       { accent: 'quebecois', ipa: 'vɑ̃dʁ' },
-      { accent: 'belgian', ipa: 'vɑ̃dʁ' }
+      { accent: 'belgian', ipa: 'vɑ̃dʁ' },
     ],
     examples: [
       { word: 'vendre', meaning: 'to sell', sentence: 'Je vends ma voiture.' },
@@ -677,7 +681,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'tʁavaje' },
       { accent: 'quebecois', ipa: 'tʁavaje' },
-      { accent: 'belgian', ipa: 'tʁavaje' }
+      { accent: 'belgian', ipa: 'tʁavaje' },
     ],
     examples: [
       { word: 'travailler', meaning: 'to work', sentence: 'Je travaille dur.' },
@@ -695,12 +699,12 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'etudje' },
       { accent: 'quebecois', ipa: 'etudje' },
-      { accent: 'belgian', ipa: 'etudje' }
+      { accent: 'belgian', ipa: 'etudje' },
     ],
     examples: [
-      { word: 'étudier', meaning: 'to study', sentence: 'J\'étudie l\'histoire.' },
+      { word: 'étudier', meaning: 'to study', sentence: "J'étudie l'histoire." },
       { word: 'réétudier', meaning: 'to study again', sentence: 'Je réétudie ce chapitre.' },
-      { word: 'étude', meaning: 'study', sentence: 'L\'étude est intéressante.' },
+      { word: 'étude', meaning: 'study', sentence: "L'étude est intéressante." },
     ],
     relatedRootIds: ['root_re_fr'],
   },
@@ -713,12 +717,12 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'apʁɑ̃dʁ' },
       { accent: 'quebecois', ipa: 'apʁɑ̃dʁ' },
-      { accent: 'belgian', ipa: 'apʁɑ̃dʁ' }
+      { accent: 'belgian', ipa: 'apʁɑ̃dʁ' },
     ],
     examples: [
-      { word: 'apprendre', meaning: 'to learn', sentence: 'J\'apprends le français.' },
+      { word: 'apprendre', meaning: 'to learn', sentence: "J'apprends le français." },
       { word: 'réapprendre', meaning: 'to relearn', sentence: 'Je réapprends cette leçon.' },
-      { word: 'apprentissage', meaning: 'learning', sentence: 'L\'apprentissage est continu.' },
+      { word: 'apprentissage', meaning: 'learning', sentence: "L'apprentissage est continu." },
     ],
     relatedRootIds: ['root_re_fr'],
   },
@@ -731,12 +735,12 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ɑ̃seɲe' },
       { accent: 'quebecois', ipa: 'ɑ̃seɲe' },
-      { accent: 'belgian', ipa: 'ɑ̃seɲe' }
+      { accent: 'belgian', ipa: 'ɑ̃seɲe' },
     ],
     examples: [
-      { word: 'enseigner', meaning: 'to teach', sentence: 'J\'enseigne les mathématiques.' },
+      { word: 'enseigner', meaning: 'to teach', sentence: "J'enseigne les mathématiques." },
       { word: 'réenseigner', meaning: 'to reteach', sentence: 'Je réenseigne cette règle.' },
-      { word: 'enseignement', meaning: 'teaching', sentence: 'L\'enseignement est noble.' },
+      { word: 'enseignement', meaning: 'teaching', sentence: "L'enseignement est noble." },
     ],
     relatedRootIds: ['root_re_fr'],
   },
@@ -749,7 +753,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ʒwe' },
       { accent: 'quebecois', ipa: 'ʒwe' },
-      { accent: 'belgian', ipa: 'ʒwe' }
+      { accent: 'belgian', ipa: 'ʒwe' },
     ],
     examples: [
       { word: 'jouer', meaning: 'to play', sentence: 'Je joue au football.' },
@@ -767,7 +771,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ɡaɲe' },
       { accent: 'quebecois', ipa: 'ɡaɲe' },
-      { accent: 'belgian', ipa: 'ɡaɲe' }
+      { accent: 'belgian', ipa: 'ɡaɲe' },
     ],
     examples: [
       { word: 'gagner', meaning: 'to win', sentence: 'Je gagne le match.' },
@@ -785,7 +789,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'pɛʁdʁ' },
       { accent: 'quebecois', ipa: 'pɛʁdʁ' },
-      { accent: 'belgian', ipa: 'pɛʁdʁ' }
+      { accent: 'belgian', ipa: 'pɛʁdʁ' },
     ],
     examples: [
       { word: 'perdre', meaning: 'to lose', sentence: 'Je perds mes clés.' },
@@ -803,7 +807,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ʁəsəvwaʁ' },
       { accent: 'quebecois', ipa: 'ʁəsəvwaʁ' },
-      { accent: 'belgian', ipa: 'ʁəsəvwaʁ' }
+      { accent: 'belgian', ipa: 'ʁəsəvwaʁ' },
     ],
     examples: [
       { word: 'recevoir', meaning: 'to receive', sentence: 'Je reçois un cadeau.' },
@@ -821,7 +825,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'dɔne' },
       { accent: 'quebecois', ipa: 'dɔne' },
-      { accent: 'belgian', ipa: 'dɔne' }
+      { accent: 'belgian', ipa: 'dɔne' },
     ],
     examples: [
       { word: 'donner', meaning: 'to give', sentence: 'Je donne un cadeau.' },
@@ -839,12 +843,12 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ɔfʁiʁ' },
       { accent: 'quebecois', ipa: 'ɔfʁiʁ' },
-      { accent: 'belgian', ipa: 'ɔfʁiʁ' }
+      { accent: 'belgian', ipa: 'ɔfʁiʁ' },
     ],
     examples: [
-      { word: 'offrir', meaning: 'to offer', sentence: 'J\'offre mon aide.' },
+      { word: 'offrir', meaning: 'to offer', sentence: "J'offre mon aide." },
       { word: 'roffrir', meaning: 'to offer again', sentence: 'Je roffre ce service.' },
-      { word: 'offre', meaning: 'offer', sentence: 'L\'offre est intéressante.' },
+      { word: 'offre', meaning: 'offer', sentence: "L'offre est intéressante." },
     ],
     relatedRootIds: ['root_re_fr'],
   },
@@ -857,7 +861,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'dəmɑ̃de' },
       { accent: 'quebecois', ipa: 'dəmɑ̃de' },
-      { accent: 'belgian', ipa: 'dəmɑ̃de' }
+      { accent: 'belgian', ipa: 'dəmɑ̃de' },
     ],
     examples: [
       { word: 'demander', meaning: 'to ask', sentence: 'Je demande une faveur.' },
@@ -875,7 +879,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ʁepɔ̃dʁ' },
       { accent: 'quebecois', ipa: 'ʁepɔ̃dʁ' },
-      { accent: 'belgian', ipa: 'ʁepɔ̃dʁ' }
+      { accent: 'belgian', ipa: 'ʁepɔ̃dʁ' },
     ],
     examples: [
       { word: 'répondre', meaning: 'to answer', sentence: 'Je réponds à la question.' },
@@ -893,7 +897,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ʃɛʁʃe' },
       { accent: 'quebecois', ipa: 'ʃɛʁʃe' },
-      { accent: 'belgian', ipa: 'ʃɛʁʃe' }
+      { accent: 'belgian', ipa: 'ʃɛʁʃe' },
     ],
     examples: [
       { word: 'chercher', meaning: 'to look for', sentence: 'Je cherche mes clés.' },
@@ -911,12 +915,12 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'tʁuve' },
       { accent: 'quebecois', ipa: 'tʁuve' },
-      { accent: 'belgian', ipa: 'tʁuve' }
+      { accent: 'belgian', ipa: 'tʁuve' },
     ],
     examples: [
       { word: 'trouver', meaning: 'to find', sentence: 'Je trouve la solution.' },
       { word: 'retrouver', meaning: 'to find again', sentence: 'Je retrouve mon chemin.' },
-      { word: 'trouvaille', meaning: 'find', sentence: 'C\'est une trouvaille.' },
+      { word: 'trouvaille', meaning: 'find', sentence: "C'est une trouvaille." },
     ],
     relatedRootIds: ['root_re_fr'],
   },
@@ -929,12 +933,12 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'atɑ̃dʁ' },
       { accent: 'quebecois', ipa: 'atɑ̃dʁ' },
-      { accent: 'belgian', ipa: 'atɑ̃dʁ' }
+      { accent: 'belgian', ipa: 'atɑ̃dʁ' },
     ],
     examples: [
-      { word: 'attendre', meaning: 'to wait', sentence: 'J\'attends le bus.' },
+      { word: 'attendre', meaning: 'to wait', sentence: "J'attends le bus." },
       { word: 'réattendre', meaning: 'to wait again', sentence: 'Je réattends ce moment.' },
-      { word: 'attente', meaning: 'waiting', sentence: 'L\'attente est longue.' },
+      { word: 'attente', meaning: 'waiting', sentence: "L'attente est longue." },
     ],
     relatedRootIds: ['root_re_fr'],
   },
@@ -947,12 +951,12 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'esaje' },
       { accent: 'quebecois', ipa: 'esaje' },
-      { accent: 'belgian', ipa: 'esaje' }
+      { accent: 'belgian', ipa: 'esaje' },
     ],
     examples: [
-      { word: 'essayer', meaning: 'to try', sentence: 'J\'essaie ce vêtement.' },
+      { word: 'essayer', meaning: 'to try', sentence: "J'essaie ce vêtement." },
       { word: 'réessayer', meaning: 'to try again', sentence: 'Je réessaie encore.' },
-      { word: 'essai', meaning: 'attempt', sentence: 'L\'essai est réussi.' },
+      { word: 'essai', meaning: 'attempt', sentence: "L'essai est réussi." },
     ],
     relatedRootIds: ['root_re_fr'],
   },
@@ -965,7 +969,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ʁeysiʁ' },
       { accent: 'quebecois', ipa: 'ʁeysiʁ' },
-      { accent: 'belgian', ipa: 'ʁeysiʁ' }
+      { accent: 'belgian', ipa: 'ʁeysiʁ' },
     ],
     examples: [
       { word: 'réussir', meaning: 'to succeed', sentence: 'Je réussis mon examen.' },
@@ -983,12 +987,12 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'eʃwe' },
       { accent: 'quebecois', ipa: 'eʃwe' },
-      { accent: 'belgian', ipa: 'eʃwe' }
+      { accent: 'belgian', ipa: 'eʃwe' },
     ],
     examples: [
-      { word: 'échouer', meaning: 'to fail', sentence: 'J\'échoue à cet examen.' },
+      { word: 'échouer', meaning: 'to fail', sentence: "J'échoue à cet examen." },
       { word: 'rééchouer', meaning: 'to fail again', sentence: 'Je rééchoue encore.' },
-      { word: 'échec', meaning: 'failure', sentence: 'L\'échec est instructif.' },
+      { word: 'échec', meaning: 'failure', sentence: "L'échec est instructif." },
     ],
     relatedRootIds: ['root_re_fr'],
   },
@@ -1001,7 +1005,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'kɔ̃te' },
       { accent: 'quebecois', ipa: 'kɔ̃te' },
-      { accent: 'belgian', ipa: 'kɔ̃te' }
+      { accent: 'belgian', ipa: 'kɔ̃te' },
     ],
     examples: [
       { word: 'compter', meaning: 'to count', sentence: 'Je compte les objets.' },
@@ -1019,7 +1023,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'məzye' },
       { accent: 'quebecois', ipa: 'məzye' },
-      { accent: 'belgian', ipa: 'məzye' }
+      { accent: 'belgian', ipa: 'məzye' },
     ],
     examples: [
       { word: 'mesurer', meaning: 'to measure', sentence: 'Je mesure la distance.' },
@@ -1037,7 +1041,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'pəze' },
       { accent: 'quebecois', ipa: 'pəze' },
-      { accent: 'belgian', ipa: 'pəze' }
+      { accent: 'belgian', ipa: 'pəze' },
     ],
     examples: [
       { word: 'peser', meaning: 'to weigh', sentence: 'Je pèse ce fruit.' },
@@ -1055,7 +1059,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'kɥizine' },
       { accent: 'quebecois', ipa: 'kɥizine' },
-      { accent: 'belgian', ipa: 'kɥizine' }
+      { accent: 'belgian', ipa: 'kɥizine' },
     ],
     examples: [
       { word: 'cuisiner', meaning: 'to cook', sentence: 'Je cuisine le dîner.' },
@@ -1073,7 +1077,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'lave' },
       { accent: 'quebecois', ipa: 'lave' },
-      { accent: 'belgian', ipa: 'lave' }
+      { accent: 'belgian', ipa: 'lave' },
     ],
     examples: [
       { word: 'laver', meaning: 'to wash', sentence: 'Je lave mes vêtements.' },
@@ -1091,7 +1095,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'netwaje' },
       { accent: 'quebecois', ipa: 'netwaje' },
-      { accent: 'belgian', ipa: 'netwaje' }
+      { accent: 'belgian', ipa: 'netwaje' },
     ],
     examples: [
       { word: 'nettoyer', meaning: 'to clean', sentence: 'Je nettoie la maison.' },
@@ -1109,7 +1113,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'rɑ̃ʒe' },
       { accent: 'quebecois', ipa: 'rɑ̃ʒe' },
-      { accent: 'belgian', ipa: 'rɑ̃ʒe' }
+      { accent: 'belgian', ipa: 'rɑ̃ʒe' },
     ],
     examples: [
       { word: 'ranger', meaning: 'to tidy', sentence: 'Je range ma chambre.' },
@@ -1127,12 +1131,12 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'aʁɑ̃ʒe' },
       { accent: 'quebecois', ipa: 'aʁɑ̃ʒe' },
-      { accent: 'belgian', ipa: 'aʁɑ̃ʒe' }
+      { accent: 'belgian', ipa: 'aʁɑ̃ʒe' },
     ],
     examples: [
-      { word: 'arranger', meaning: 'to arrange', sentence: 'J\'arrange la table.' },
+      { word: 'arranger', meaning: 'to arrange', sentence: "J'arrange la table." },
       { word: 'réarranger', meaning: 'to rearrange', sentence: 'Je réarrange ces chaises.' },
-      { word: 'arrangement', meaning: 'arrangement', sentence: 'L\'arrangement est parfait.' },
+      { word: 'arrangement', meaning: 'arrangement', sentence: "L'arrangement est parfait." },
     ],
     relatedRootIds: ['root_re_fr'],
   },
@@ -1145,7 +1149,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'pʁepaʁe' },
       { accent: 'quebecois', ipa: 'pʁepaʁe' },
-      { accent: 'belgian', ipa: 'pʁepaʁe' }
+      { accent: 'belgian', ipa: 'pʁepaʁe' },
     ],
     examples: [
       { word: 'préparer', meaning: 'to prepare', sentence: 'Je prépare le repas.' },
@@ -1163,12 +1167,12 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ɔʁɡanize' },
       { accent: 'quebecois', ipa: 'ɔʁɡanize' },
-      { accent: 'belgian', ipa: 'ɔʁɡanize' }
+      { accent: 'belgian', ipa: 'ɔʁɡanize' },
     ],
     examples: [
-      { word: 'organiser', meaning: 'to organize', sentence: 'J\'organise une fête.' },
+      { word: 'organiser', meaning: 'to organize', sentence: "J'organise une fête." },
       { word: 'réorganiser', meaning: 'to reorganize', sentence: 'Je réorganise mon bureau.' },
-      { word: 'organisation', meaning: 'organization', sentence: 'L\'organisation est efficace.' },
+      { word: 'organisation', meaning: 'organization', sentence: "L'organisation est efficace." },
     ],
     relatedRootIds: ['root_re_fr'],
   },
@@ -1181,7 +1185,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ʒeʁe' },
       { accent: 'quebecois', ipa: 'ʒeʁe' },
-      { accent: 'belgian', ipa: 'ʒeʁe' }
+      { accent: 'belgian', ipa: 'ʒeʁe' },
     ],
     examples: [
       { word: 'gérer', meaning: 'to manage', sentence: 'Je gère ce projet.' },
@@ -1199,10 +1203,10 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'diʁiʒe' },
       { accent: 'quebecois', ipa: 'diʁiʒe' },
-      { accent: 'belgian', ipa: 'diʁiʒe' }
+      { accent: 'belgian', ipa: 'diʁiʒe' },
     ],
     examples: [
-      { word: 'diriger', meaning: 'to direct', sentence: 'Je dirige l\'équipe.' },
+      { word: 'diriger', meaning: 'to direct', sentence: "Je dirige l'équipe." },
       { word: 'rediriger', meaning: 'to redirect', sentence: 'Je redirige ce projet.' },
       { word: 'direction', meaning: 'direction', sentence: 'La direction est claire.' },
     ],
@@ -1217,7 +1221,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'kɔndɥiʁ' },
       { accent: 'quebecois', ipa: 'kɔndɥiʁ' },
-      { accent: 'belgian', ipa: 'kɔndɥiʁ' }
+      { accent: 'belgian', ipa: 'kɔndɥiʁ' },
     ],
     examples: [
       { word: 'conduire', meaning: 'to drive', sentence: 'Je conduis une voiture.' },
@@ -1235,7 +1239,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'vwajaʒe' },
       { accent: 'quebecois', ipa: 'vwajaʒe' },
-      { accent: 'belgian', ipa: 'vwajaʒe' }
+      { accent: 'belgian', ipa: 'vwajaʒe' },
     ],
     examples: [
       { word: 'voyager', meaning: 'to travel', sentence: 'Je voyage en Europe.' },
@@ -1253,7 +1257,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'vizite' },
       { accent: 'quebecois', ipa: 'vizite' },
-      { accent: 'belgian', ipa: 'vizite' }
+      { accent: 'belgian', ipa: 'vizite' },
     ],
     examples: [
       { word: 'visiter', meaning: 'to visit', sentence: 'Je visite le musée.' },
@@ -1271,7 +1275,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ʁɛste' },
       { accent: 'quebecois', ipa: 'ʁɛste' },
-      { accent: 'belgian', ipa: 'ʁɛste' }
+      { accent: 'belgian', ipa: 'ʁɛste' },
     ],
     examples: [
       { word: 'rester', meaning: 'to stay', sentence: 'Je reste à la maison.' },
@@ -1289,7 +1293,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'kite' },
       { accent: 'quebecois', ipa: 'kite' },
-      { accent: 'belgian', ipa: 'kite' }
+      { accent: 'belgian', ipa: 'kite' },
     ],
     examples: [
       { word: 'quitter', meaning: 'to leave', sentence: 'Je quitte mon travail.' },
@@ -1307,12 +1311,12 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'aʁive' },
       { accent: 'quebecois', ipa: 'aʁive' },
-      { accent: 'belgian', ipa: 'aʁive' }
+      { accent: 'belgian', ipa: 'aʁive' },
     ],
     examples: [
-      { word: 'arriver', meaning: 'to arrive', sentence: 'J\'arrive à destination.' },
+      { word: 'arriver', meaning: 'to arrive', sentence: "J'arrive à destination." },
       { word: 'réarriver', meaning: 'to arrive again', sentence: 'Je réarrive bientôt.' },
-      { word: 'arrivée', meaning: 'arrival', sentence: 'L\'arrivée est prévue.' },
+      { word: 'arrivée', meaning: 'arrival', sentence: "L'arrivée est prévue." },
     ],
     relatedRootIds: ['root_re_fr', 'root_a_fr'],
   },
@@ -1325,7 +1329,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ʁətuʁne' },
       { accent: 'quebecois', ipa: 'ʁətuʁne' },
-      { accent: 'belgian', ipa: 'ʁətuʁne' }
+      { accent: 'belgian', ipa: 'ʁətuʁne' },
     ],
     examples: [
       { word: 'retourner', meaning: 'to return', sentence: 'Je retourne chez moi.' },
@@ -1343,10 +1347,10 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ʃɑ̃ʒe' },
       { accent: 'quebecois', ipa: 'ʃɑ̃ʒe' },
-      { accent: 'belgian', ipa: 'ʃɑ̃ʒe' }
+      { accent: 'belgian', ipa: 'ʃɑ̃ʒe' },
     ],
     examples: [
-      { word: 'changer', meaning: 'to change', sentence: 'Je change d\'avis.' },
+      { word: 'changer', meaning: 'to change', sentence: "Je change d'avis." },
       { word: 'rechanger', meaning: 'to change again', sentence: 'Je rechange cette décision.' },
       { word: 'changement', meaning: 'change', sentence: 'Le changement est nécessaire.' },
     ],
@@ -1361,7 +1365,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ʃwaziʁ' },
       { accent: 'quebecois', ipa: 'ʃwaziʁ' },
-      { accent: 'belgian', ipa: 'ʃwaziʁ' }
+      { accent: 'belgian', ipa: 'ʃwaziʁ' },
     ],
     examples: [
       { word: 'choisir', meaning: 'to choose', sentence: 'Je choisis cette option.' },
@@ -1379,7 +1383,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'deside' },
       { accent: 'quebecois', ipa: 'deside' },
-      { accent: 'belgian', ipa: 'deside' }
+      { accent: 'belgian', ipa: 'deside' },
     ],
     examples: [
       { word: 'décider', meaning: 'to decide', sentence: 'Je décide de partir.' },
@@ -1397,12 +1401,12 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'aksepte' },
       { accent: 'quebecois', ipa: 'aksepte' },
-      { accent: 'belgian', ipa: 'aksepte' }
+      { accent: 'belgian', ipa: 'aksepte' },
     ],
     examples: [
-      { word: 'accepter', meaning: 'to accept', sentence: 'J\'accepte cette offre.' },
+      { word: 'accepter', meaning: 'to accept', sentence: "J'accepte cette offre." },
       { word: 'réaccepter', meaning: 'to accept again', sentence: 'Je réaccepte ce cadeau.' },
-      { word: 'acceptation', meaning: 'acceptance', sentence: 'L\'acceptation est totale.' },
+      { word: 'acceptation', meaning: 'acceptance', sentence: "L'acceptation est totale." },
     ],
     relatedRootIds: ['root_re_fr'],
   },
@@ -1415,7 +1419,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ʁəfyze' },
       { accent: 'quebecois', ipa: 'ʁəfyze' },
-      { accent: 'belgian', ipa: 'ʁəfyze' }
+      { accent: 'belgian', ipa: 'ʁəfyze' },
     ],
     examples: [
       { word: 'refuser', meaning: 'to refuse', sentence: 'Je refuse cette proposition.' },
@@ -1433,12 +1437,12 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ɛ̃vite' },
       { accent: 'quebecois', ipa: 'ɛ̃vite' },
-      { accent: 'belgian', ipa: 'ɛ̃vite' }
+      { accent: 'belgian', ipa: 'ɛ̃vite' },
     ],
     examples: [
-      { word: 'inviter', meaning: 'to invite', sentence: 'J\'invite mes amis.' },
+      { word: 'inviter', meaning: 'to invite', sentence: "J'invite mes amis." },
       { word: 'réinviter', meaning: 'to invite again', sentence: 'Je réinvite cette personne.' },
-      { word: 'invitation', meaning: 'invitation', sentence: 'L\'invitation est envoyée.' },
+      { word: 'invitation', meaning: 'invitation', sentence: "L'invitation est envoyée." },
     ],
     relatedRootIds: ['root_re_fr'],
   },
@@ -1451,12 +1455,16 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'akœjiʁ' },
       { accent: 'quebecois', ipa: 'akœjiʁ' },
-      { accent: 'belgian', ipa: 'akœjiʁ' }
+      { accent: 'belgian', ipa: 'akœjiʁ' },
     ],
     examples: [
-      { word: 'accueillir', meaning: 'to welcome', sentence: 'J\'accueille les invités.' },
-      { word: 'réaccueillir', meaning: 'to welcome again', sentence: 'Je réaccueille ce visiteur.' },
-      { word: 'accueil', meaning: 'welcome', sentence: 'L\'accueil est chaleureux.' },
+      { word: 'accueillir', meaning: 'to welcome', sentence: "J'accueille les invités." },
+      {
+        word: 'réaccueillir',
+        meaning: 'to welcome again',
+        sentence: 'Je réaccueille ce visiteur.',
+      },
+      { word: 'accueil', meaning: 'welcome', sentence: "L'accueil est chaleureux." },
     ],
     relatedRootIds: ['root_re_fr'],
   },
@@ -1469,7 +1477,7 @@ export const bases: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ʁəmɛʁsje' },
       { accent: 'quebecois', ipa: 'ʁəmɛʁsje' },
-      { accent: 'belgian', ipa: 'ʁəmɛʁsje' }
+      { accent: 'belgian', ipa: 'ʁəmɛʁsje' },
     ],
     examples: [
       { word: 'remercier', meaning: 'to thank', sentence: 'Je remercie mon ami.' },
@@ -1477,5 +1485,5 @@ export const bases: WordRoot[] = [
       { word: 'remerciement', meaning: 'thanks', sentence: 'Le remerciement est sincère.' },
     ],
     relatedRootIds: ['root_re_fr'],
-  }
+  },
 ];

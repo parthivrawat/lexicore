@@ -1,114 +1,268 @@
 import { VocabWord } from '@/types';
 
 export const greetings: VocabWord[] = [
-  { id: 'word_bonjour', word: 'bonjour', meaning: 'hello/good day', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'bɔ̃ʒuʁ' },
-    { accent: 'quebecois', ipa: 'bɔ̃ʒuʁ' },
-    { accent: 'belgian', ipa: 'bɔ̃ʒuːʁ' }
-  ], category: 'greetings', examples: ['Bonjour, comment allez-vous?', 'Bonjour monsieur.'] },
-  { id: 'word_salut', word: 'salut', meaning: 'hi/bye (informal)', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'saly' },
-    { accent: 'quebecois', ipa: 'saly' },
-    { accent: 'belgian', ipa: 'saly' }
-  ], category: 'greetings', examples: ['Salut, ça va?', 'Salut tout le monde!'] },
-  { id: 'word_bonsoir', word: 'bonsoir', meaning: 'good evening', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'bɔ̃swaʁ' },
-    { accent: 'quebecois', ipa: 'bɔ̃swaʁ' },
-    { accent: 'belgian', ipa: 'bɔ̃swaːʁ' }
-  ], category: 'greetings', examples: ['Bonsoir, madame.', 'Bonsoir à tous.'] },
-  { id: 'word_au_revoir', word: 'au revoir', meaning: 'goodbye', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'o ʁəvwaʁ' },
-    { accent: 'quebecois', ipa: 'o ʁəvwaʁ' },
-    { accent: 'belgian', ipa: 'oː ʁəvwaːʁ' }
-  ], category: 'greetings', examples: ['Au revoir, à demain!', 'Au revoir et merci.'] },
-  { id: 'word_bonne_nuit', word: 'bonne nuit', meaning: 'good night', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'bɔn nɥi' },
-    { accent: 'quebecois', ipa: 'bɔn nɥi' },
-    { accent: 'belgian', ipa: 'bɔn nɥi' }
-  ], category: 'greetings', examples: ['Bonne nuit les enfants.', 'Fais de beaux rêves, bonne nuit.'] },
-  { id: 'word_merci', word: 'merci', meaning: 'thank you', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'mɛʁsi' },
-    { accent: 'quebecois', ipa: 'mɛʁsi' },
-    { accent: 'belgian', ipa: 'mɛʁsi' }
-  ], category: 'greetings', examples: ['Merci beaucoup!', 'Merci de votre aide.'] },
-  { id: 'word_s_il_vous_plait', word: 's\'il vous plaît', meaning: 'please', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'sil vu plɛ' },
-    { accent: 'quebecois', ipa: 'sil vu plɛ' },
-    { accent: 'belgian', ipa: 'sil vu plɛ' }
-  ], category: 'greetings', examples: ['Un café, s\'il vous plaît.', 'Pouvez-vous m\'aider, s\'il vous plaît?'] },
-  { id: 'word_excusez_moi', word: 'excusez-moi', meaning: 'excuse me', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ekskyze mwa' },
-    { accent: 'quebecois', ipa: 'ekskyze mwa' },
-    { accent: 'belgian', ipa: 'ekskyze mwa' }
-  ], category: 'greetings', examples: ['Excusez-moi, quelle heure est-il?', 'Excusez-moi de vous déranger.'] },
-  { id: 'word_pardon', word: 'pardon', meaning: 'sorry/pardon', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'paʁdɔ̃' },
-    { accent: 'quebecois', ipa: 'paʁdɔ̃' },
-    { accent: 'belgian', ipa: 'paʁdɔ̃' }
-  ], category: 'greetings', examples: ['Pardon, je suis en retard.', 'Pardon, je n\'ai pas compris.'] },
-  { id: 'word_de_rien', word: 'de rien', meaning: 'you\'re welcome', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'də ʁjɛ̃' },
-    { accent: 'quebecois', ipa: 'də ʁjɛ̃' },
-    { accent: 'belgian', ipa: 'də ʁjɛ̃' }
-  ], category: 'greetings', examples: ['Merci! - De rien.', 'C\'est gentil, merci. - De rien.'] },
-  { id: 'word_je_vous_en_prie', word: 'je vous en prie', meaning: 'you\'re welcome (formal)', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ʒə vu zɑ̃ pʁi' },
-    { accent: 'quebecois', ipa: 'ʒə vu zɑ̃ pʁi' },
-    { accent: 'belgian', ipa: 'ʒə vu zɑ̃ pʁi' }
-  ], category: 'greetings', examples: ['Merci beaucoup. - Je vous en prie.'] },
-  { id: 'word_comment_allez_vous', word: 'comment allez-vous', meaning: 'how are you (formal)', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'kɔmɑ̃ tale vu' },
-    { accent: 'quebecois', ipa: 'kɔmɑ̃ tale vu' },
-    { accent: 'belgian', ipa: 'kɔmɑ̃ tale vu' }
-  ], category: 'greetings', examples: ['Bonjour, comment allez-vous?', 'Comment allez-vous aujourd\'hui?'] },
-  { id: 'word_ca_va', word: 'ça va', meaning: 'how are you (informal)', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'sa va' },
-    { accent: 'quebecois', ipa: 'sa va' },
-    { accent: 'belgian', ipa: 'sa va' }
-  ], category: 'greetings', examples: ['Salut! Ça va?', 'Oui, ça va bien.'] },
-  { id: 'word_bon_apres_midi', word: 'bon après-midi', meaning: 'good afternoon', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'bɔ̃ apʁemidi' },
-    { accent: 'quebecois', ipa: 'bɔ̃ apʁemidi' },
-    { accent: 'belgian', ipa: 'bɔ̃ apʁemidi' }
-  ], category: 'greetings', examples: ['Bon après-midi, madame.', 'Passez un bon après-midi.'] },
-  { id: 'word_bienvenue', word: 'bienvenue', meaning: 'welcome', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'bjɛ̃vny' },
-    { accent: 'quebecois', ipa: 'bjɛ̃vny' },
-    { accent: 'belgian', ipa: 'bjɛ̃vny' }
-  ], category: 'greetings', examples: ['Bienvenue chez nous!', 'Soyez les bienvenus.'] },
-  { id: 'word_felicitations', word: 'félicitations', meaning: 'congratulations', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'felisitasjɔ̃' },
-    { accent: 'quebecois', ipa: 'felisitasjɔ̃' },
-    { accent: 'belgian', ipa: 'felisitasjɔ̃' }
-  ], category: 'greetings', examples: ['Félicitations pour ton succès!', 'Toutes mes félicitations.'] },
-  { id: 'word_enchant', word: 'enchanté', meaning: 'pleased to meet you', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ɑ̃ʃɑ̃te' },
-    { accent: 'quebecois', ipa: 'ɑ̃ʃɑ̃te' },
-    { accent: 'belgian', ipa: 'ɑ̃ʃɑ̃te' }
-  ], category: 'greetings', examples: ['Enchanté de vous rencontrer.', 'Je suis enchanté.'] },
-  { id: 'word_a_bientot', word: 'à bientôt', meaning: 'see you soon', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'a bjɛ̃to' },
-    { accent: 'quebecois', ipa: 'a bjɛ̃to' },
-    { accent: 'belgian', ipa: 'a bjɛ̃to' }
-  ], category: 'greetings', examples: ['À bientôt!', 'Je te verrai à bientôt.'] },
-  { id: 'word_a_demain', word: 'à demain', meaning: 'see you tomorrow', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'a dəmɛ̃' },
-    { accent: 'quebecois', ipa: 'a dəmɛ̃' },
-    { accent: 'belgian', ipa: 'a dəmɛ̃' }
-  ], category: 'greetings', examples: ['À demain!', 'On se voit à demain.'] },
-  { id: 'word_a_plus_tard', word: 'à plus tard', meaning: 'see you later', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'a ply taʁ' },
-    { accent: 'quebecois', ipa: 'a ply taʁ' },
-    { accent: 'belgian', ipa: 'a ply taʁ' }
-  ], category: 'greetings', examples: ['À plus tard!', 'Je reviens à plus tard.'] },
-  { id: 'word_bonne_chance', word: 'bonne chance', meaning: 'good luck', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'bɔn ʃɑ̃s' },
-    { accent: 'quebecois', ipa: 'bɔn ʃɑ̃s' },
-    { accent: 'belgian', ipa: 'bɔn ʃɑ̃s' }
-  ], category: 'greetings', examples: ['Bonne chance pour l\'examen!', 'Je te souhaite bonne chance.'] },
-  { id: 'word_sante', word: 'santé', meaning: 'cheers/to your health', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'sɑ̃te' },
-    { accent: 'quebecois', ipa: 'sɑ̃te' },
-    { accent: 'belgian', ipa: 'sɑ̃te' }
-  ], category: 'greetings', examples: ['Santé!', 'À votre santé.'] }
+  {
+    id: 'word_bonjour',
+    word: 'bonjour',
+    meaning: 'hello/good day',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'bɔ̃ʒuʁ' },
+      { accent: 'quebecois', ipa: 'bɔ̃ʒuʁ' },
+      { accent: 'belgian', ipa: 'bɔ̃ʒuːʁ' },
+    ],
+    category: 'greetings',
+    examples: ['Bonjour, comment allez-vous?', 'Bonjour monsieur.'],
+  },
+  {
+    id: 'word_salut',
+    word: 'salut',
+    meaning: 'hi/bye (informal)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'saly' },
+      { accent: 'quebecois', ipa: 'saly' },
+      { accent: 'belgian', ipa: 'saly' },
+    ],
+    category: 'greetings',
+    examples: ['Salut, ça va?', 'Salut tout le monde!'],
+  },
+  {
+    id: 'word_bonsoir',
+    word: 'bonsoir',
+    meaning: 'good evening',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'bɔ̃swaʁ' },
+      { accent: 'quebecois', ipa: 'bɔ̃swaʁ' },
+      { accent: 'belgian', ipa: 'bɔ̃swaːʁ' },
+    ],
+    category: 'greetings',
+    examples: ['Bonsoir, madame.', 'Bonsoir à tous.'],
+  },
+  {
+    id: 'word_au_revoir',
+    word: 'au revoir',
+    meaning: 'goodbye',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'o ʁəvwaʁ' },
+      { accent: 'quebecois', ipa: 'o ʁəvwaʁ' },
+      { accent: 'belgian', ipa: 'oː ʁəvwaːʁ' },
+    ],
+    category: 'greetings',
+    examples: ['Au revoir, à demain!', 'Au revoir et merci.'],
+  },
+  {
+    id: 'word_bonne_nuit',
+    word: 'bonne nuit',
+    meaning: 'good night',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'bɔn nɥi' },
+      { accent: 'quebecois', ipa: 'bɔn nɥi' },
+      { accent: 'belgian', ipa: 'bɔn nɥi' },
+    ],
+    category: 'greetings',
+    examples: ['Bonne nuit les enfants.', 'Fais de beaux rêves, bonne nuit.'],
+  },
+  {
+    id: 'word_merci',
+    word: 'merci',
+    meaning: 'thank you',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'mɛʁsi' },
+      { accent: 'quebecois', ipa: 'mɛʁsi' },
+      { accent: 'belgian', ipa: 'mɛʁsi' },
+    ],
+    category: 'greetings',
+    examples: ['Merci beaucoup!', 'Merci de votre aide.'],
+  },
+  {
+    id: 'word_s_il_vous_plait',
+    word: "s'il vous plaît",
+    meaning: 'please',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'sil vu plɛ' },
+      { accent: 'quebecois', ipa: 'sil vu plɛ' },
+      { accent: 'belgian', ipa: 'sil vu plɛ' },
+    ],
+    category: 'greetings',
+    examples: ["Un café, s'il vous plaît.", "Pouvez-vous m'aider, s'il vous plaît?"],
+  },
+  {
+    id: 'word_excusez_moi',
+    word: 'excusez-moi',
+    meaning: 'excuse me',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ekskyze mwa' },
+      { accent: 'quebecois', ipa: 'ekskyze mwa' },
+      { accent: 'belgian', ipa: 'ekskyze mwa' },
+    ],
+    category: 'greetings',
+    examples: ['Excusez-moi, quelle heure est-il?', 'Excusez-moi de vous déranger.'],
+  },
+  {
+    id: 'word_pardon',
+    word: 'pardon',
+    meaning: 'sorry/pardon',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'paʁdɔ̃' },
+      { accent: 'quebecois', ipa: 'paʁdɔ̃' },
+      { accent: 'belgian', ipa: 'paʁdɔ̃' },
+    ],
+    category: 'greetings',
+    examples: ['Pardon, je suis en retard.', "Pardon, je n'ai pas compris."],
+  },
+  {
+    id: 'word_de_rien',
+    word: 'de rien',
+    meaning: "you're welcome",
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'də ʁjɛ̃' },
+      { accent: 'quebecois', ipa: 'də ʁjɛ̃' },
+      { accent: 'belgian', ipa: 'də ʁjɛ̃' },
+    ],
+    category: 'greetings',
+    examples: ['Merci! - De rien.', "C'est gentil, merci. - De rien."],
+  },
+  {
+    id: 'word_je_vous_en_prie',
+    word: 'je vous en prie',
+    meaning: "you're welcome (formal)",
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ʒə vu zɑ̃ pʁi' },
+      { accent: 'quebecois', ipa: 'ʒə vu zɑ̃ pʁi' },
+      { accent: 'belgian', ipa: 'ʒə vu zɑ̃ pʁi' },
+    ],
+    category: 'greetings',
+    examples: ['Merci beaucoup. - Je vous en prie.'],
+  },
+  {
+    id: 'word_comment_allez_vous',
+    word: 'comment allez-vous',
+    meaning: 'how are you (formal)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'kɔmɑ̃ tale vu' },
+      { accent: 'quebecois', ipa: 'kɔmɑ̃ tale vu' },
+      { accent: 'belgian', ipa: 'kɔmɑ̃ tale vu' },
+    ],
+    category: 'greetings',
+    examples: ['Bonjour, comment allez-vous?', "Comment allez-vous aujourd'hui?"],
+  },
+  {
+    id: 'word_ca_va',
+    word: 'ça va',
+    meaning: 'how are you (informal)',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'sa va' },
+      { accent: 'quebecois', ipa: 'sa va' },
+      { accent: 'belgian', ipa: 'sa va' },
+    ],
+    category: 'greetings',
+    examples: ['Salut! Ça va?', 'Oui, ça va bien.'],
+  },
+  {
+    id: 'word_bon_apres_midi',
+    word: 'bon après-midi',
+    meaning: 'good afternoon',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'bɔ̃ apʁemidi' },
+      { accent: 'quebecois', ipa: 'bɔ̃ apʁemidi' },
+      { accent: 'belgian', ipa: 'bɔ̃ apʁemidi' },
+    ],
+    category: 'greetings',
+    examples: ['Bon après-midi, madame.', 'Passez un bon après-midi.'],
+  },
+  {
+    id: 'word_bienvenue',
+    word: 'bienvenue',
+    meaning: 'welcome',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'bjɛ̃vny' },
+      { accent: 'quebecois', ipa: 'bjɛ̃vny' },
+      { accent: 'belgian', ipa: 'bjɛ̃vny' },
+    ],
+    category: 'greetings',
+    examples: ['Bienvenue chez nous!', 'Soyez les bienvenus.'],
+  },
+  {
+    id: 'word_felicitations',
+    word: 'félicitations',
+    meaning: 'congratulations',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'felisitasjɔ̃' },
+      { accent: 'quebecois', ipa: 'felisitasjɔ̃' },
+      { accent: 'belgian', ipa: 'felisitasjɔ̃' },
+    ],
+    category: 'greetings',
+    examples: ['Félicitations pour ton succès!', 'Toutes mes félicitations.'],
+  },
+  {
+    id: 'word_enchant',
+    word: 'enchanté',
+    meaning: 'pleased to meet you',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɑ̃ʃɑ̃te' },
+      { accent: 'quebecois', ipa: 'ɑ̃ʃɑ̃te' },
+      { accent: 'belgian', ipa: 'ɑ̃ʃɑ̃te' },
+    ],
+    category: 'greetings',
+    examples: ['Enchanté de vous rencontrer.', 'Je suis enchanté.'],
+  },
+  {
+    id: 'word_a_bientot',
+    word: 'à bientôt',
+    meaning: 'see you soon',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'a bjɛ̃to' },
+      { accent: 'quebecois', ipa: 'a bjɛ̃to' },
+      { accent: 'belgian', ipa: 'a bjɛ̃to' },
+    ],
+    category: 'greetings',
+    examples: ['À bientôt!', 'Je te verrai à bientôt.'],
+  },
+  {
+    id: 'word_a_demain',
+    word: 'à demain',
+    meaning: 'see you tomorrow',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'a dəmɛ̃' },
+      { accent: 'quebecois', ipa: 'a dəmɛ̃' },
+      { accent: 'belgian', ipa: 'a dəmɛ̃' },
+    ],
+    category: 'greetings',
+    examples: ['À demain!', 'On se voit à demain.'],
+  },
+  {
+    id: 'word_a_plus_tard',
+    word: 'à plus tard',
+    meaning: 'see you later',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'a ply taʁ' },
+      { accent: 'quebecois', ipa: 'a ply taʁ' },
+      { accent: 'belgian', ipa: 'a ply taʁ' },
+    ],
+    category: 'greetings',
+    examples: ['À plus tard!', 'Je reviens à plus tard.'],
+  },
+  {
+    id: 'word_bonne_chance',
+    word: 'bonne chance',
+    meaning: 'good luck',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'bɔn ʃɑ̃s' },
+      { accent: 'quebecois', ipa: 'bɔn ʃɑ̃s' },
+      { accent: 'belgian', ipa: 'bɔn ʃɑ̃s' },
+    ],
+    category: 'greetings',
+    examples: ["Bonne chance pour l'examen!", 'Je te souhaite bonne chance.'],
+  },
+  {
+    id: 'word_sante',
+    word: 'santé',
+    meaning: 'cheers/to your health',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'sɑ̃te' },
+      { accent: 'quebecois', ipa: 'sɑ̃te' },
+      { accent: 'belgian', ipa: 'sɑ̃te' },
+    ],
+    category: 'greetings',
+    examples: ['Santé!', 'À votre santé.'],
+  },
 ];

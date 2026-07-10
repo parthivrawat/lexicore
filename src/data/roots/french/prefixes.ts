@@ -11,7 +11,7 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'a' },
       { accent: 'quebecois', ipa: 'a' },
-      { accent: 'belgian', ipa: 'a' }
+      { accent: 'belgian', ipa: 'a' },
     ],
     examples: [
       { word: 'arriver', meaning: 'to arrive', sentence: 'Il arrive à midi.' },
@@ -28,10 +28,10 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ab' },
       { accent: 'quebecois', ipa: 'ab' },
-      { accent: 'belgian', ipa: 'ab' }
+      { accent: 'belgian', ipa: 'ab' },
     ],
     examples: [
-      { word: 'absent', meaning: 'away, not present', sentence: 'Il est absent aujourd\'hui.' },
+      { word: 'absent', meaning: 'away, not present', sentence: "Il est absent aujourd'hui." },
       { word: 'abandonner', meaning: 'to abandon', sentence: 'Elle a abandonné ses études.' },
     ],
     relatedRootIds: ['root_a_fr'],
@@ -45,11 +45,11 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ɑ̃ti' },
       { accent: 'quebecois', ipa: 'ɑ̃ti' },
-      { accent: 'belgian', ipa: 'ɑ̃ti' }
+      { accent: 'belgian', ipa: 'ɑ̃ti' },
     ],
     examples: [
-      { word: 'antipathie', meaning: 'dislike', sentence: 'J\'ai une antipathie pour le froid.' },
-      { word: 'antique', meaning: 'ancient', sentence: 'C\'est un vase antique.' },
+      { word: 'antipathie', meaning: 'dislike', sentence: "J'ai une antipathie pour le froid." },
+      { word: 'antique', meaning: 'ancient', sentence: "C'est un vase antique." },
     ],
     relatedRootIds: [],
   },
@@ -62,7 +62,7 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'oto' },
       { accent: 'quebecois', ipa: 'oto' },
-      { accent: 'belgian', ipa: 'oto' }
+      { accent: 'belgian', ipa: 'oto' },
     ],
     examples: [
       { word: 'automobile', meaning: 'car', sentence: 'Il conduit une automobile rouge.' },
@@ -79,11 +79,11 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'bjɛ̃' },
       { accent: 'quebecois', ipa: 'bjɛ̃' },
-      { accent: 'belgian', ipa: 'bjɛ̃' }
+      { accent: 'belgian', ipa: 'bjɛ̃' },
     ],
     examples: [
       { word: 'bienvenue', meaning: 'welcome', sentence: 'Bienvenue chez nous!' },
-      { word: 'bienfait', meaning: 'good deed', sentence: 'C\'est un bienfait pour la communauté.' },
+      { word: 'bienfait', meaning: 'good deed', sentence: "C'est un bienfait pour la communauté." },
     ],
     relatedRootIds: [],
   },
@@ -96,7 +96,7 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'kɔm' },
       { accent: 'quebecois', ipa: 'kɔm' },
-      { accent: 'belgian', ipa: 'kɔm' }
+      { accent: 'belgian', ipa: 'kɔm' },
     ],
     examples: [
       { word: 'commencer', meaning: 'to begin', sentence: 'On commence le travail.' },
@@ -113,10 +113,10 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'de' },
       { accent: 'quebecois', ipa: 'de' },
-      { accent: 'belgian', ipa: 'de' }
+      { accent: 'belgian', ipa: 'de' },
     ],
     examples: [
-      { word: 'descendre', meaning: 'to go down', sentence: 'Il descend l\'escalier.' },
+      { word: 'descendre', meaning: 'to go down', sentence: "Il descend l'escalier." },
       { word: 'défaire', meaning: 'to undo', sentence: 'Elle défait son paquet.' },
     ],
     relatedRootIds: [],
@@ -130,7 +130,7 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ɛ̃' },
       { accent: 'quebecois', ipa: 'ɛ̃' },
-      { accent: 'belgian', ipa: 'ɛ̃' }
+      { accent: 'belgian', ipa: 'ɛ̃' },
     ],
     examples: [
       { word: 'incapable', meaning: 'incapable', sentence: 'Il est incapable de mentir.' },
@@ -147,10 +147,10 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'mal' },
       { accent: 'quebecois', ipa: 'mal' },
-      { accent: 'belgian', ipa: 'mal' }
+      { accent: 'belgian', ipa: 'mal' },
     ],
     examples: [
-      { word: 'malheureux', meaning: 'unhappy', sentence: 'Il semble malheureux aujourd\'hui.' },
+      { word: 'malheureux', meaning: 'unhappy', sentence: "Il semble malheureux aujourd'hui." },
       { word: 'maladie', meaning: 'illness', sentence: 'La grippe est une maladie courante.' },
     ],
     relatedRootIds: [],
@@ -164,7 +164,7 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ʁə' },
       { accent: 'quebecois', ipa: 'ʁə' },
-      { accent: 'belgian', ipa: 'ʁə' }
+      { accent: 'belgian', ipa: 'ʁə' },
     ],
     examples: [
       { word: 'revenir', meaning: 'to come back', sentence: 'Elle revient demain.' },
@@ -181,10 +181,10 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'su' },
       { accent: 'quebecois', ipa: 'su' },
-      { accent: 'belgian', ipa: 'su' }
+      { accent: 'belgian', ipa: 'su' },
     ],
     examples: [
-      { word: 'sous-marin', meaning: 'submarine', sentence: 'Le sous-marin plonge dans l\'océan.' },
+      { word: 'sous-marin', meaning: 'submarine', sentence: "Le sous-marin plonge dans l'océan." },
       { word: 'sous-sol', meaning: 'basement', sentence: 'Le vin est stocké dans le sous-sol.' },
     ],
     relatedRootIds: [],
@@ -198,11 +198,15 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'syʁ' },
       { accent: 'quebecois', ipa: 'syʁ' },
-      { accent: 'belgian', ipa: 'syʁ' }
+      { accent: 'belgian', ipa: 'syʁ' },
     ],
     examples: [
       { word: 'surprendre', meaning: 'to surprise', sentence: 'Ce cadeau me surprend.' },
-      { word: 'surtout', meaning: 'especially', sentence: 'J\'aime les fruits, surtout les pommes.' },
+      {
+        word: 'surtout',
+        meaning: 'especially',
+        sentence: "J'aime les fruits, surtout les pommes.",
+      },
     ],
     relatedRootIds: [],
   },
@@ -215,10 +219,14 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'tʁɑ̃s' },
       { accent: 'quebecois', ipa: 'tʁɑ̃s' },
-      { accent: 'belgian', ipa: 'tʁɑ̃s' }
+      { accent: 'belgian', ipa: 'tʁɑ̃s' },
     ],
     examples: [
-      { word: 'transporter', meaning: 'to transport', sentence: 'Le camion transporte des marchandises.' },
+      {
+        word: 'transporter',
+        meaning: 'to transport',
+        sentence: 'Le camion transporte des marchandises.',
+      },
       { word: 'transparent', meaning: 'transparent', sentence: 'Le verre est transparent.' },
     ],
     relatedRootIds: [],
@@ -232,11 +240,19 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'siʁkɔ̃' },
       { accent: 'quebecois', ipa: 'siʁkɔ̃' },
-      { accent: 'belgian', ipa: 'siʁkɔ̃' }
+      { accent: 'belgian', ipa: 'siʁkɔ̃' },
     ],
     examples: [
-      { word: 'circonférence', meaning: 'circumference', sentence: 'La circonférence du cercle est grande.' },
-      { word: 'circonvenir', meaning: 'to circumvent', sentence: 'Il faut circonvenir les obstacles.' },
+      {
+        word: 'circonférence',
+        meaning: 'circumference',
+        sentence: 'La circonférence du cercle est grande.',
+      },
+      {
+        word: 'circonvenir',
+        meaning: 'to circumvent',
+        sentence: 'Il faut circonvenir les obstacles.',
+      },
     ],
     relatedRootIds: [],
   },
@@ -249,11 +265,11 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'kɔ̃tʁa' },
       { accent: 'quebecois', ipa: 'kɔ̃tʁa' },
-      { accent: 'belgian', ipa: 'kɔ̃tʁa' }
+      { accent: 'belgian', ipa: 'kɔ̃tʁa' },
     ],
     examples: [
-      { word: 'contradiction', meaning: 'contradiction', sentence: 'C\'est une contradiction.' },
-      { word: 'contraire', meaning: 'opposite', sentence: 'C\'est le contraire.' },
+      { word: 'contradiction', meaning: 'contradiction', sentence: "C'est une contradiction." },
+      { word: 'contraire', meaning: 'opposite', sentence: "C'est le contraire." },
     ],
     relatedRootIds: [],
   },
@@ -266,11 +282,15 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ɛkstʁa' },
       { accent: 'quebecois', ipa: 'ɛkstʁa' },
-      { accent: 'belgian', ipa: 'ɛkstʁa' }
+      { accent: 'belgian', ipa: 'ɛkstʁa' },
     ],
     examples: [
-      { word: 'extraordinaire', meaning: 'extraordinary', sentence: 'C\'est extraordinaire!' },
-      { word: 'extraterrestre', meaning: 'extraterrestrial', sentence: 'Les extraterrestres n\'existent pas.' },
+      { word: 'extraordinaire', meaning: 'extraordinary', sentence: "C'est extraordinaire!" },
+      {
+        word: 'extraterrestre',
+        meaning: 'extraterrestrial',
+        sentence: "Les extraterrestres n'existent pas.",
+      },
     ],
     relatedRootIds: [],
   },
@@ -283,11 +303,11 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ipɛʁ' },
       { accent: 'quebecois', ipa: 'ipɛʁ' },
-      { accent: 'belgian', ipa: 'ipɛʁ' }
+      { accent: 'belgian', ipa: 'ipɛʁ' },
     ],
     examples: [
-      { word: 'hyperactif', meaning: 'hyperactive', sentence: 'L\'enfant est hyperactif.' },
-      { word: 'hypertension', meaning: 'high blood pressure', sentence: 'Il a de l\'hypertension.' },
+      { word: 'hyperactif', meaning: 'hyperactive', sentence: "L'enfant est hyperactif." },
+      { word: 'hypertension', meaning: 'high blood pressure', sentence: "Il a de l'hypertension." },
     ],
     relatedRootIds: [],
   },
@@ -300,11 +320,11 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ipo' },
       { accent: 'quebecois', ipa: 'ipo' },
-      { accent: 'belgian', ipa: 'ipo' }
+      { accent: 'belgian', ipa: 'ipo' },
     ],
     examples: [
-      { word: 'hypotension', meaning: 'low blood pressure', sentence: 'Elle a de l\'hypotension.' },
-      { word: 'hypothèse', meaning: 'hypothesis', sentence: 'C\'est une hypothèse.' },
+      { word: 'hypotension', meaning: 'low blood pressure', sentence: "Elle a de l'hypotension." },
+      { word: 'hypothèse', meaning: 'hypothesis', sentence: "C'est une hypothèse." },
     ],
     relatedRootIds: [],
   },
@@ -317,10 +337,14 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ɛ̃tɛʁ' },
       { accent: 'quebecois', ipa: 'ɛ̃tɛʁ' },
-      { accent: 'belgian', ipa: 'ɛ̃tɛʁ' }
+      { accent: 'belgian', ipa: 'ɛ̃tɛʁ' },
     ],
     examples: [
-      { word: 'international', meaning: 'international', sentence: 'C\'est un accord international.' },
+      {
+        word: 'international',
+        meaning: 'international',
+        sentence: "C'est un accord international.",
+      },
       { word: 'interruption', meaning: 'interruption', sentence: 'Il y a une interruption.' },
     ],
     relatedRootIds: [],
@@ -330,15 +354,19 @@ export const prefixes: WordRoot[] = [
     root: 'intra-',
     type: 'prefix',
     languageOrigin: 'Latin',
-    meaning: 'à l\'intérieur (within)',
+    meaning: "à l'intérieur (within)",
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ɛ̃tʁa' },
       { accent: 'quebecois', ipa: 'ɛ̃tʁa' },
-      { accent: 'belgian', ipa: 'ɛ̃tʁa' }
+      { accent: 'belgian', ipa: 'ɛ̃tʁa' },
     ],
     examples: [
-      { word: 'intramusculaire', meaning: 'intramuscular', sentence: 'C\'est une injection intramusculaire.' },
-      { word: 'intranet', meaning: 'intranet', sentence: 'L\'intranet est sécurisé.' },
+      {
+        word: 'intramusculaire',
+        meaning: 'intramuscular',
+        sentence: "C'est une injection intramusculaire.",
+      },
+      { word: 'intranet', meaning: 'intranet', sentence: "L'intranet est sécurisé." },
     ],
     relatedRootIds: [],
   },
@@ -351,10 +379,10 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'mikʁo' },
       { accent: 'quebecois', ipa: 'mikʁo' },
-      { accent: 'belgian', ipa: 'mikʁo' }
+      { accent: 'belgian', ipa: 'mikʁo' },
     ],
     examples: [
-      { word: 'microscope', meaning: 'microscope', sentence: 'J\'utilise un microscope.' },
+      { word: 'microscope', meaning: 'microscope', sentence: "J'utilise un microscope." },
       { word: 'microphone', meaning: 'microphone', sentence: 'Le microphone est allumé.' },
     ],
     relatedRootIds: [],
@@ -368,11 +396,15 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'makʁo' },
       { accent: 'quebecois', ipa: 'makʁo' },
-      { accent: 'belgian', ipa: 'makʁo' }
+      { accent: 'belgian', ipa: 'makʁo' },
     ],
     examples: [
-      { word: 'macroéconomie', meaning: 'macroeconomics', sentence: 'J\'étudie la macroéconomie.' },
-      { word: 'macroscopique', meaning: 'macroscopic', sentence: 'C\'est visible à l\'œil nu, macroscopique.' },
+      { word: 'macroéconomie', meaning: 'macroeconomics', sentence: "J'étudie la macroéconomie." },
+      {
+        word: 'macroscopique',
+        meaning: 'macroscopic',
+        sentence: "C'est visible à l'œil nu, macroscopique.",
+      },
     ],
     relatedRootIds: [],
   },
@@ -385,7 +417,7 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'mega' },
       { accent: 'quebecois', ipa: 'mega' },
-      { accent: 'belgian', ipa: 'mega' }
+      { accent: 'belgian', ipa: 'mega' },
     ],
     examples: [
       { word: 'mégaphone', meaning: 'megaphone', sentence: 'Il utilise un mégaphone.' },
@@ -402,7 +434,7 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'mini' },
       { accent: 'quebecois', ipa: 'mini' },
-      { accent: 'belgian', ipa: 'mini' }
+      { accent: 'belgian', ipa: 'mini' },
     ],
     examples: [
       { word: 'minijupe', meaning: 'miniskirt', sentence: 'Elle porte une minijupe.' },
@@ -419,11 +451,15 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'mylti' },
       { accent: 'quebecois', ipa: 'mylti' },
-      { accent: 'belgian', ipa: 'mylti' }
+      { accent: 'belgian', ipa: 'mylti' },
     ],
     examples: [
-      { word: 'multicolore', meaning: 'multicolored', sentence: 'C\'est une image multicolore.' },
-      { word: 'multinational', meaning: 'multinational', sentence: 'C\'est une entreprise multinationale.' },
+      { word: 'multicolore', meaning: 'multicolored', sentence: "C'est une image multicolore." },
+      {
+        word: 'multinational',
+        meaning: 'multinational',
+        sentence: "C'est une entreprise multinationale.",
+      },
     ],
     relatedRootIds: [],
   },
@@ -436,10 +472,10 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'mono' },
       { accent: 'quebecois', ipa: 'mono' },
-      { accent: 'belgian', ipa: 'mono' }
+      { accent: 'belgian', ipa: 'mono' },
     ],
     examples: [
-      { word: 'monochrome', meaning: 'monochrome', sentence: 'L\'image est monochrome.' },
+      { word: 'monochrome', meaning: 'monochrome', sentence: "L'image est monochrome." },
       { word: 'monologue', meaning: 'monologue', sentence: 'Il fait un monologue.' },
     ],
     relatedRootIds: [],
@@ -453,11 +489,11 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'pɔli' },
       { accent: 'quebecois', ipa: 'pɔli' },
-      { accent: 'belgian', ipa: 'pɔli' }
+      { accent: 'belgian', ipa: 'pɔli' },
     ],
     examples: [
       { word: 'polyglotte', meaning: 'polyglot', sentence: 'Il est polyglotte.' },
-      { word: 'polyvalent', meaning: 'versatile', sentence: 'C\'est un outil polyvalent.' },
+      { word: 'polyvalent', meaning: 'versatile', sentence: "C'est un outil polyvalent." },
     ],
     relatedRootIds: [],
   },
@@ -470,11 +506,11 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'pɔst' },
       { accent: 'quebecois', ipa: 'pɔst' },
-      { accent: 'belgian', ipa: 'pɔst' }
+      { accent: 'belgian', ipa: 'pɔst' },
     ],
     examples: [
-      { word: 'postérieur', meaning: 'posterior', sentence: 'C\'est la partie postérieure.' },
-      { word: 'post-scriptum', meaning: 'postscript', sentence: 'J\'ai ajouté un post-scriptum.' },
+      { word: 'postérieur', meaning: 'posterior', sentence: "C'est la partie postérieure." },
+      { word: 'post-scriptum', meaning: 'postscript', sentence: "J'ai ajouté un post-scriptum." },
     ],
     relatedRootIds: [],
   },
@@ -487,7 +523,7 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'pʁe' },
       { accent: 'quebecois', ipa: 'pʁe' },
-      { accent: 'belgian', ipa: 'pʁe' }
+      { accent: 'belgian', ipa: 'pʁe' },
     ],
     examples: [
       { word: 'prévoir', meaning: 'to foresee', sentence: 'Je prévois un problème.' },
@@ -504,11 +540,11 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'pʁo' },
       { accent: 'quebecois', ipa: 'pʁo' },
-      { accent: 'belgian', ipa: 'pʁo' }
+      { accent: 'belgian', ipa: 'pʁo' },
     ],
     examples: [
       { word: 'projeter', meaning: 'to project', sentence: 'Il projette une ombre.' },
-      { word: 'promouvoir', meaning: 'to promote', sentence: 'L\'entreprise promeut ses produits.' },
+      { word: 'promouvoir', meaning: 'to promote', sentence: "L'entreprise promeut ses produits." },
     ],
     relatedRootIds: [],
   },
@@ -521,11 +557,11 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'psɛdɔ' },
       { accent: 'quebecois', ipa: 'psɛdɔ' },
-      { accent: 'belgian', ipa: 'psɛdɔ' }
+      { accent: 'belgian', ipa: 'psɛdɔ' },
     ],
     examples: [
       { word: 'pseudonyme', meaning: 'pseudonym', sentence: 'Il utilise un pseudonyme.' },
-      { word: 'pseudo-science', meaning: 'pseudoscience', sentence: 'C\'est de la pseudo-science.' },
+      { word: 'pseudo-science', meaning: 'pseudoscience', sentence: "C'est de la pseudo-science." },
     ],
     relatedRootIds: [],
   },
@@ -538,11 +574,11 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'kazi' },
       { accent: 'quebecois', ipa: 'kazi' },
-      { accent: 'belgian', ipa: 'kazi' }
+      { accent: 'belgian', ipa: 'kazi' },
     ],
     examples: [
-      { word: 'quasiment', meaning: 'almost', sentence: 'C\'est quasiment fini.' },
-      { word: 'quasi-officiel', meaning: 'quasi-official', sentence: 'C\'est quasi-officiel.' },
+      { word: 'quasiment', meaning: 'almost', sentence: "C'est quasiment fini." },
+      { word: 'quasi-officiel', meaning: 'quasi-official', sentence: "C'est quasi-officiel." },
     ],
     relatedRootIds: [],
   },
@@ -555,10 +591,14 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'ʁetʁo' },
       { accent: 'quebecois', ipa: 'ʁetʁo' },
-      { accent: 'belgian', ipa: 'ʁetʁo' }
+      { accent: 'belgian', ipa: 'ʁetʁo' },
     ],
     examples: [
-      { word: 'rétrospective', meaning: 'retrospective', sentence: 'C\'est une exposition rétrospective.' },
+      {
+        word: 'rétrospective',
+        meaning: 'retrospective',
+        sentence: "C'est une exposition rétrospective.",
+      },
       { word: 'rétrograde', meaning: 'retrograde', sentence: 'Le mouvement est rétrograde.' },
     ],
     relatedRootIds: [],
@@ -572,7 +612,7 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'syb' },
       { accent: 'quebecois', ipa: 'syb' },
-      { accent: 'belgian', ipa: 'syb' }
+      { accent: 'belgian', ipa: 'syb' },
     ],
     examples: [
       { word: 'subordonné', meaning: 'subordinate', sentence: 'Il est subordonné au directeur.' },
@@ -589,11 +629,11 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'sypɛʁ' },
       { accent: 'quebecois', ipa: 'sypɛʁ' },
-      { accent: 'belgian', ipa: 'sypɛʁ' }
+      { accent: 'belgian', ipa: 'sypɛʁ' },
     ],
     examples: [
       { word: 'supermarché', meaning: 'supermarket', sentence: 'Je vais au supermarché.' },
-      { word: 'supérieur', meaning: 'superior', sentence: 'C\'est supérieur.' },
+      { word: 'supérieur', meaning: 'superior', sentence: "C'est supérieur." },
     ],
     relatedRootIds: [],
   },
@@ -606,7 +646,7 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'tele' },
       { accent: 'quebecois', ipa: 'tele' },
-      { accent: 'belgian', ipa: 'tele' }
+      { accent: 'belgian', ipa: 'tele' },
     ],
     examples: [
       { word: 'téléphone', meaning: 'telephone', sentence: 'Je téléphone à mon ami.' },
@@ -623,11 +663,11 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'yltʁa' },
       { accent: 'quebecois', ipa: 'yltʁa' },
-      { accent: 'belgian', ipa: 'yltʁa' }
+      { accent: 'belgian', ipa: 'yltʁa' },
     ],
     examples: [
-      { word: 'ultrason', meaning: 'ultrasound', sentence: 'L\'ultrason est utilisé en médecine.' },
-      { word: 'ultra-moderne', meaning: 'ultra-modern', sentence: 'C\'est ultra-moderne.' },
+      { word: 'ultrason', meaning: 'ultrasound', sentence: "L'ultrason est utilisé en médecine." },
+      { word: 'ultra-moderne', meaning: 'ultra-modern', sentence: "C'est ultra-moderne." },
     ],
     relatedRootIds: [],
   },
@@ -640,12 +680,12 @@ export const prefixes: WordRoot[] = [
     pronunciationVariants: [
       { accent: 'parisian', ipa: 'vis' },
       { accent: 'quebecois', ipa: 'vis' },
-      { accent: 'belgian', ipa: 'vis' }
+      { accent: 'belgian', ipa: 'vis' },
     ],
     examples: [
       { word: 'vice-président', meaning: 'vice-president', sentence: 'Il est vice-président.' },
       { word: 'vice-versa', meaning: 'vice versa', sentence: 'Et vice-versa.' },
     ],
     relatedRootIds: [],
-  }
+  },
 ];

@@ -1,314 +1,748 @@
 import { VocabWord } from '@/types';
 
 export const adjectives: VocabWord[] = [
-  { id: 'word_good', word: 'good', meaning: 'positive quality', pronunciationVariants: [
-    { accent: 'american', ipa: 'ɡʊd' },
-    { accent: 'british', ipa: 'ɡʊd' },
-    { accent: 'australian', ipa: 'ɡʊd' }
-  ], category: 'adjectives', examples: ['Good job!', 'A good idea.'] },
-  { id: 'word_bad', word: 'bad', meaning: 'negative quality', pronunciationVariants: [
-    { accent: 'american', ipa: 'bæd' },
-    { accent: 'british', ipa: 'bæd' },
-    { accent: 'australian', ipa: 'bæd' }
-  ], category: 'adjectives', examples: ['Bad weather.', 'A bad habit.'] },
-  { id: 'word_big', word: 'big', meaning: 'large size', pronunciationVariants: [
-    { accent: 'american', ipa: 'bɪɡ' },
-    { accent: 'british', ipa: 'bɪɡ' },
-    { accent: 'australian', ipa: 'bɪɡ' }
-  ], category: 'adjectives', examples: ['A big house.', 'Big dreams.'] },
-  { id: 'word_small', word: 'small', meaning: 'little size', pronunciationVariants: [
-    { accent: 'american', ipa: 'smɔːl' },
-    { accent: 'british', ipa: 'smɔːl' },
-    { accent: 'australian', ipa: 'smɔːl' }
-  ], category: 'adjectives', examples: ['A small dog.', 'Small world.'] },
-  { id: 'word_happy', word: 'happy', meaning: 'joyful', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈhæpi' },
-    { accent: 'british', ipa: 'ˈhæpi' },
-    { accent: 'australian', ipa: 'ˈhæpi' }
-  ], category: 'adjectives', examples: ['Happy birthday!', 'I feel happy.'] },
-  { id: 'word_sad', word: 'sad', meaning: 'unhappy', pronunciationVariants: [
-    { accent: 'american', ipa: 'sæd' },
-    { accent: 'british', ipa: 'sæd' },
-    { accent: 'australian', ipa: 'sæd' }
-  ], category: 'adjectives', examples: ['Sad news.', 'A sad movie.'] },
-  { id: 'word_fast', word: 'fast', meaning: 'quick', pronunciationVariants: [
-    { accent: 'american', ipa: 'fæst' },
-    { accent: 'british', ipa: 'fɑːst' },
-    { accent: 'australian', ipa: 'fɑːst' }
-  ], category: 'adjectives', examples: ['Fast car.', 'Fast food.'] },
-  { id: 'word_slow', word: 'slow', meaning: 'not fast', pronunciationVariants: [
-    { accent: 'american', ipa: 'sloʊ' },
-    { accent: 'british', ipa: 'sləʊ' },
-    { accent: 'australian', ipa: 'sləʊ' }
-  ], category: 'adjectives', examples: ['Slow down.', 'Slow internet.'] },
-  { id: 'word_hot', word: 'hot', meaning: 'high temperature', pronunciationVariants: [
-    { accent: 'american', ipa: 'hɑːt' },
-    { accent: 'british', ipa: 'hɒt' },
-    { accent: 'australian', ipa: 'hɒt' }
-  ], category: 'adjectives', examples: ['Hot coffee.', 'Hot weather.'] },
-  { id: 'word_cold', word: 'cold', meaning: 'low temperature', pronunciationVariants: [
-    { accent: 'american', ipa: 'koʊld' },
-    { accent: 'british', ipa: 'kəʊld' },
-    { accent: 'australian', ipa: 'kəʊld' }
-  ], category: 'adjectives', examples: ['Cold water.', 'Cold day.'] },
-  { id: 'word_new', word: 'new', meaning: 'recently made', pronunciationVariants: [
-    { accent: 'american', ipa: 'nuː' },
-    { accent: 'british', ipa: 'njuː' },
-    { accent: 'australian', ipa: 'njuː' }
-  ], category: 'adjectives', examples: ['New car.', 'New friend.'] },
-  { id: 'word_old', word: 'old', meaning: 'aged', pronunciationVariants: [
-    { accent: 'american', ipa: 'oʊld' },
-    { accent: 'british', ipa: 'əʊld' },
-    { accent: 'australian', ipa: 'əʊld' }
-  ], category: 'adjectives', examples: ['Old house.', 'Old friend.'] },
-  { id: 'word_young', word: 'young', meaning: 'not old', pronunciationVariants: [
-    { accent: 'american', ipa: 'jʌŋ' },
-    { accent: 'british', ipa: 'jʌŋ' },
-    { accent: 'australian', ipa: 'jʌŋ' }
-  ], category: 'adjectives', examples: ['Young man.', 'Young children.'] },
-  { id: 'word_beautiful', word: 'beautiful', meaning: 'attractive', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈbjuːtəfəl' },
-    { accent: 'british', ipa: 'ˈbjuːtəfəl' },
-    { accent: 'australian', ipa: 'ˈbjuːtəfəl' }
-  ], category: 'adjectives', examples: ['Beautiful day.', 'Beautiful music.'] },
-  { id: 'word_ugly', word: 'ugly', meaning: 'unattractive', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈʌɡli' },
-    { accent: 'british', ipa: 'ˈʌɡli' },
-    { accent: 'australian', ipa: 'ˈʌɡli' }
-  ], category: 'adjectives', examples: ['Ugly truth.', 'Ugly sweater.'] },
-  { id: 'word_easy', word: 'easy', meaning: 'not difficult', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈiːzi' },
-    { accent: 'british', ipa: 'ˈiːzi' },
-    { accent: 'australian', ipa: 'ˈiːzi' }
-  ], category: 'adjectives', examples: ['Easy task.', 'Take it easy.'] },
-  { id: 'word_hard', word: 'hard', meaning: 'difficult', pronunciationVariants: [
-    { accent: 'american', ipa: 'hɑːrd' },
-    { accent: 'british', ipa: 'hɑːd' },
-    { accent: 'australian', ipa: 'hɑːd' }
-  ], category: 'adjectives', examples: ['Hard work.', 'Hard time.'] },
-  { id: 'word_long', word: 'long', meaning: 'extended', pronunciationVariants: [
-    { accent: 'american', ipa: 'lɔːŋ' },
-    { accent: 'british', ipa: 'lɒŋ' },
-    { accent: 'australian', ipa: 'lɒŋ' }
-  ], category: 'adjectives', examples: ['Long time.', 'Long road.'] },
-  { id: 'word_short', word: 'short', meaning: 'brief', pronunciationVariants: [
-    { accent: 'american', ipa: 'ʃɔːrt' },
-    { accent: 'british', ipa: 'ʃɔːt' },
-    { accent: 'australian', ipa: 'ʃɔːt' }
-  ], category: 'adjectives', examples: ['Short story.', 'Short hair.'] },
-  { id: 'word_tall', word: 'tall', meaning: 'high height', pronunciationVariants: [
-    { accent: 'american', ipa: 'tɔːl' },
-    { accent: 'british', ipa: 'tɔːl' },
-    { accent: 'australian', ipa: 'tɔːl' }
-  ], category: 'adjectives', examples: ['Tall building.', 'Tall person.'] },
-  { id: 'word_short_height', word: 'short', meaning: 'low height', pronunciationVariants: [
-    { accent: 'american', ipa: 'ʃɔːrt' },
-    { accent: 'british', ipa: 'ʃɔːt' },
-    { accent: 'australian', ipa: 'ʃɔːt' }
-  ], category: 'adjectives', examples: ['Short person.', 'Short tree.'] },
-  { id: 'word_clean', word: 'clean', meaning: 'tidy', pronunciationVariants: [
-    { accent: 'american', ipa: 'kliːn' },
-    { accent: 'british', ipa: 'kliːn' },
-    { accent: 'australian', ipa: 'kliːn' }
-  ], category: 'adjectives', examples: ['Clean room.', 'Clean water.'] },
-  { id: 'word_dirty', word: 'dirty', meaning: 'unclean', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈdɜːrti' },
-    { accent: 'british', ipa: 'ˈdɜːti' },
-    { accent: 'australian', ipa: 'ˈdɜːti' }
-  ], category: 'adjectives', examples: ['Dirty clothes.', 'Dirty hands.'] },
-  { id: 'word_rich', word: 'rich', meaning: 'wealthy', pronunciationVariants: [
-    { accent: 'american', ipa: 'rɪtʃ' },
-    { accent: 'british', ipa: 'rɪtʃ' },
-    { accent: 'australian', ipa: 'rɪtʃ' }
-  ], category: 'adjectives', examples: ['Rich man.', 'Rich culture.'] },
-  { id: 'word_poor', word: 'poor', meaning: 'not wealthy', pronunciationVariants: [
-    { accent: 'american', ipa: 'pʊr' },
-    { accent: 'british', ipa: 'pɔː' },
-    { accent: 'australian', ipa: 'pɔː' }
-  ], category: 'adjectives', examples: ['Poor family.', 'Poor performance.'] },
-  { id: 'word_important', word: 'important', meaning: 'significant', pronunciationVariants: [
-    { accent: 'american', ipa: 'ɪmˈpɔːrtənt' },
-    { accent: 'british', ipa: 'ɪmˈpɔːtənt' },
-    { accent: 'australian', ipa: 'ɪmˈpɔːtənt' }
-  ], category: 'adjectives', examples: ['Important decision.', 'Very important.'] },
-  { id: 'word_different', word: 'different', meaning: 'not same', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈdɪfərənt' },
-    { accent: 'british', ipa: 'ˈdɪfrənt' },
-    { accent: 'australian', ipa: 'ˈdɪfrənt' }
-  ], category: 'adjectives', examples: ['Different opinion.', 'Different style.'] },
-  { id: 'word_same', word: 'same', meaning: 'identical', pronunciationVariants: [
-    { accent: 'american', ipa: 'seɪm' },
-    { accent: 'british', ipa: 'seɪm' },
-    { accent: 'australian', ipa: 'seɪm' }
-  ], category: 'adjectives', examples: ['Same time.', 'Same place.'] },
-  { id: 'word_right', word: 'right', meaning: 'correct', pronunciationVariants: [
-    { accent: 'american', ipa: 'raɪt' },
-    { accent: 'british', ipa: 'raɪt' },
-    { accent: 'australian', ipa: 'raɪt' }
-  ], category: 'adjectives', examples: ['Right answer.', 'Right direction.'] },
-  { id: 'word_wrong', word: 'wrong', meaning: 'incorrect', pronunciationVariants: [
-    { accent: 'american', ipa: 'rɔːŋ' },
-    { accent: 'british', ipa: 'rɒŋ' },
-    { accent: 'australian', ipa: 'rɒŋ' }
-  ], category: 'adjectives', examples: ['Wrong number.', 'Wrong way.'] },
-  { id: 'word_strong', word: 'strong', meaning: 'powerful', pronunciationVariants: [
-    { accent: 'american', ipa: 'strɔːŋ' },
-    { accent: 'british', ipa: 'strɒŋ' },
-    { accent: 'australian', ipa: 'strɒŋ' }
-  ], category: 'adjectives', examples: ['Strong wind.', 'Strong person.'] },
-  { id: 'word_weak', word: 'weak', meaning: 'not strong', pronunciationVariants: [
-    { accent: 'american', ipa: 'wiːk' },
-    { accent: 'british', ipa: 'wiːk' },
-    { accent: 'australian', ipa: 'wiːk' }
-  ], category: 'adjectives', examples: ['Weak signal.', 'Weak argument.'] },
-  { id: 'word_loud', word: 'loud', meaning: 'noisy', pronunciationVariants: [
-    { accent: 'american', ipa: 'laʊd' },
-    { accent: 'british', ipa: 'laʊd' },
-    { accent: 'australian', ipa: 'laʊd' }
-  ], category: 'adjectives', examples: ['Loud music.', 'Loud voice.'] },
-  { id: 'word_quiet', word: 'quiet', meaning: 'silent', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈkwaɪət' },
-    { accent: 'british', ipa: 'ˈkwaɪət' },
-    { accent: 'australian', ipa: 'ˈkwaɪət' }
-  ], category: 'adjectives', examples: ['Quiet room.', 'Be quiet.'] },
-  { id: 'word_bright', word: 'bright', meaning: 'light/intelligent', pronunciationVariants: [
-    { accent: 'american', ipa: 'braɪt' },
-    { accent: 'british', ipa: 'braɪt' },
-    { accent: 'australian', ipa: 'braɪt' }
-  ], category: 'adjectives', examples: ['Bright light.', 'Bright student.'] },
-  { id: 'word_dark', word: 'dark', meaning: 'not light', pronunciationVariants: [
-    { accent: 'american', ipa: 'dɑːrk' },
-    { accent: 'british', ipa: 'dɑːk' },
-    { accent: 'australian', ipa: 'dɑːk' }
-  ], category: 'adjectives', examples: ['Dark room.', 'Dark night.'] },
-  { id: 'word_early', word: 'early', meaning: 'before expected', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈɜːrli' },
-    { accent: 'british', ipa: 'ˈɜːli' },
-    { accent: 'australian', ipa: 'ˈɜːli' }
-  ], category: 'adjectives', examples: ['Early morning.', 'Early bird.'] },
-  { id: 'word_late', word: 'late', meaning: 'after expected', pronunciationVariants: [
-    { accent: 'american', ipa: 'leɪt' },
-    { accent: 'british', ipa: 'leɪt' },
-    { accent: 'australian', ipa: 'leɪt' }
-  ], category: 'adjectives', examples: ['Late arrival.', 'Too late.'] },
-  { id: 'word_cheap', word: 'cheap', meaning: 'low cost', pronunciationVariants: [
-    { accent: 'american', ipa: 'tʃiːp' },
-    { accent: 'british', ipa: 'tʃiːp' },
-    { accent: 'australian', ipa: 'tʃiːp' }
-  ], category: 'adjectives', examples: ['Cheap price.', 'Cheap food.'] },
-  { id: 'word_expensive', word: 'expensive', meaning: 'high cost', pronunciationVariants: [
-    { accent: 'american', ipa: 'ɪkˈspɛnsɪv' },
-    { accent: 'british', ipa: 'ɪkˈspɛnsɪv' },
-    { accent: 'australian', ipa: 'ɪkˈspɛnsɪv' }
-  ], category: 'adjectives', examples: ['Expensive car.', 'Too expensive.'] },
-  { id: 'word_kind', word: 'kind', meaning: 'generous', pronunciationVariants: [
-    { accent: 'american', ipa: 'kaɪnd' },
-    { accent: 'british', ipa: 'kaɪnd' },
-    { accent: 'australian', ipa: 'kaɪnd' }
-  ], category: 'adjectives', examples: ['Kind person.', 'Kind words.'] },
-  { id: 'word_mean', word: 'mean', meaning: 'unkind', pronunciationVariants: [
-    { accent: 'american', ipa: 'miːn' },
-    { accent: 'british', ipa: 'miːn' },
-    { accent: 'australian', ipa: 'miːn' }
-  ], category: 'adjectives', examples: ['Mean comment.', 'Don\'t be mean.'] },
-  { id: 'word_smart', word: 'smart', meaning: 'intelligent', pronunciationVariants: [
-    { accent: 'american', ipa: 'smɑːrt' },
-    { accent: 'british', ipa: 'smɑːt' },
-    { accent: 'australian', ipa: 'smɑːt' }
-  ], category: 'adjectives', examples: ['Smart phone.', 'Smart idea.'] },
-  { id: 'word_stupid', word: 'stupid', meaning: 'not intelligent', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈstuːpɪd' },
-    { accent: 'british', ipa: 'ˈstjuːpɪd' },
-    { accent: 'australian', ipa: 'ˈstjuːpɪd' }
-  ], category: 'adjectives', examples: ['Stupid mistake.', 'That was stupid.'] },
-  { id: 'word_brave', word: 'brave', meaning: 'courageous', pronunciationVariants: [
-    { accent: 'american', ipa: 'breɪv' },
-    { accent: 'british', ipa: 'breɪv' },
-    { accent: 'australian', ipa: 'breɪv' }
-  ], category: 'adjectives', examples: ['Brave soldier.', 'Be brave.'] },
-  { id: 'word_afraid', word: 'afraid', meaning: 'scared', pronunciationVariants: [
-    { accent: 'american', ipa: 'əˈfreɪd' },
-    { accent: 'british', ipa: 'əˈfreɪd' },
-    { accent: 'australian', ipa: 'əˈfreɪd' }
-  ], category: 'adjectives', examples: ['Don\'t be afraid.', 'I\'m afraid.'] },
-  { id: 'word_busy', word: 'busy', meaning: 'occupied', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈbɪzi' },
-    { accent: 'british', ipa: 'ˈbɪzi' },
-    { accent: 'australian', ipa: 'ˈbɪzi' }
-  ], category: 'adjectives', examples: ['Busy day.', 'Busy street.'] },
-  { id: 'word_free', word: 'free', meaning: 'available/no cost', pronunciationVariants: [
-    { accent: 'american', ipa: 'friː' },
-    { accent: 'british', ipa: 'friː' },
-    { accent: 'australian', ipa: 'friː' }
-  ], category: 'adjectives', examples: ['Free time.', 'Free food.'] },
-  { id: 'word_full', word: 'full', meaning: 'completely filled', pronunciationVariants: [
-    { accent: 'american', ipa: 'fʊl' },
-    { accent: 'british', ipa: 'fʊl' },
-    { accent: 'australian', ipa: 'fʊl' }
-  ], category: 'adjectives', examples: ['Full moon.', 'Full stomach.'] },
-  { id: 'word_empty', word: 'empty', meaning: 'containing nothing', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈɛmpti' },
-    { accent: 'british', ipa: 'ˈɛmpti' },
-    { accent: 'australian', ipa: 'ˈɛmpti' }
-  ], category: 'adjectives', examples: ['Empty room.', 'Empty box.'] },
-  { id: 'word_heavy', word: 'heavy', meaning: 'weighty', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈhɛvi' },
-    { accent: 'british', ipa: 'ˈhɛvi' },
-    { accent: 'australian', ipa: 'ˈhɛvi' }
-  ], category: 'adjectives', examples: ['Heavy rain.', 'Heavy box.'] },
-  { id: 'word_light_weight', word: 'light', meaning: 'not heavy', pronunciationVariants: [
-    { accent: 'american', ipa: 'laɪt' },
-    { accent: 'british', ipa: 'laɪt' },
-    { accent: 'australian', ipa: 'laɪt' }
-  ], category: 'adjectives', examples: ['Light bag.', 'Light meal.'] },
-  { id: 'word_sweet', word: 'sweet', meaning: 'sugary/kind', pronunciationVariants: [
-    { accent: 'american', ipa: 'swiːt' },
-    { accent: 'british', ipa: 'swiːt' },
-    { accent: 'australian', ipa: 'swiːt' }
-  ], category: 'adjectives', examples: ['Sweet taste.', 'Sweet person.'] },
-  { id: 'word_sour', word: 'sour', meaning: 'acidic', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈsaʊər' },
-    { accent: 'british', ipa: 'ˈsaʊə' },
-    { accent: 'australian', ipa: 'ˈsaʊə' }
-  ], category: 'adjectives', examples: ['Sour lemon.', 'Sour face.'] },
-  { id: 'word_salty', word: 'salty', meaning: 'containing salt', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈsɔːlti' },
-    { accent: 'british', ipa: 'ˈsɔːlti' },
-    { accent: 'australian', ipa: 'ˈsɔːlti' }
-  ], category: 'adjectives', examples: ['Salty water.', 'Salty food.'] },
-  { id: 'word_bitter', word: 'bitter', meaning: 'sharp taste', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈbɪtər' },
-    { accent: 'british', ipa: 'ˈbɪtə' },
-    { accent: 'australian', ipa: 'ˈbɪtə' }
-  ], category: 'adjectives', examples: ['Bitter coffee.', 'Bitter enemy.'] },
-  { id: 'word_red', word: 'red', meaning: 'color', pronunciationVariants: [
-    { accent: 'american', ipa: 'rɛd' },
-    { accent: 'british', ipa: 'rɛd' },
-    { accent: 'australian', ipa: 'rɛd' }
-  ], category: 'adjectives', examples: ['Red apple.', 'Red car.'] },
-  { id: 'word_blue', word: 'blue', meaning: 'color', pronunciationVariants: [
-    { accent: 'american', ipa: 'bluː' },
-    { accent: 'british', ipa: 'bluː' },
-    { accent: 'australian', ipa: 'bluː' }
-  ], category: 'adjectives', examples: ['Blue sky.', 'Blue eyes.'] },
-  { id: 'word_green', word: 'green', meaning: 'color', pronunciationVariants: [
-    { accent: 'american', ipa: 'ɡriːn' },
-    { accent: 'british', ipa: 'ɡriːn' },
-    { accent: 'australian', ipa: 'ɡriːn' }
-  ], category: 'adjectives', examples: ['Green grass.', 'Green tea.'] },
-  { id: 'word_yellow', word: 'yellow', meaning: 'color', pronunciationVariants: [
-    { accent: 'american', ipa: 'ˈjɛloʊ' },
-    { accent: 'british', ipa: 'ˈjɛləʊ' },
-    { accent: 'australian', ipa: 'ˈjɛləʊ' }
-  ], category: 'adjectives', examples: ['Yellow sun.', 'Yellow flower.'] },
-  { id: 'word_white', word: 'white', meaning: 'color', pronunciationVariants: [
-    { accent: 'american', ipa: 'waɪt' },
-    { accent: 'british', ipa: 'waɪt' },
-    { accent: 'australian', ipa: 'waɪt' }
-  ], category: 'adjectives', examples: ['White snow.', 'White shirt.'] },
-  { id: 'word_black', word: 'black', meaning: 'color', pronunciationVariants: [
-    { accent: 'american', ipa: 'blæk' },
-    { accent: 'british', ipa: 'blæk' },
-    { accent: 'australian', ipa: 'blæk' }
-  ], category: 'adjectives', examples: ['Black cat.', 'Black coffee.'] }
+  {
+    id: 'word_good',
+    word: 'good',
+    meaning: 'positive quality',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ɡʊd' },
+      { accent: 'british', ipa: 'ɡʊd' },
+      { accent: 'australian', ipa: 'ɡʊd' },
+    ],
+    category: 'adjectives',
+    examples: ['Good job!', 'A good idea.'],
+  },
+  {
+    id: 'word_bad',
+    word: 'bad',
+    meaning: 'negative quality',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'bæd' },
+      { accent: 'british', ipa: 'bæd' },
+      { accent: 'australian', ipa: 'bæd' },
+    ],
+    category: 'adjectives',
+    examples: ['Bad weather.', 'A bad habit.'],
+  },
+  {
+    id: 'word_big',
+    word: 'big',
+    meaning: 'large size',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'bɪɡ' },
+      { accent: 'british', ipa: 'bɪɡ' },
+      { accent: 'australian', ipa: 'bɪɡ' },
+    ],
+    category: 'adjectives',
+    examples: ['A big house.', 'Big dreams.'],
+  },
+  {
+    id: 'word_small',
+    word: 'small',
+    meaning: 'little size',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'smɔːl' },
+      { accent: 'british', ipa: 'smɔːl' },
+      { accent: 'australian', ipa: 'smɔːl' },
+    ],
+    category: 'adjectives',
+    examples: ['A small dog.', 'Small world.'],
+  },
+  {
+    id: 'word_happy',
+    word: 'happy',
+    meaning: 'joyful',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈhæpi' },
+      { accent: 'british', ipa: 'ˈhæpi' },
+      { accent: 'australian', ipa: 'ˈhæpi' },
+    ],
+    category: 'adjectives',
+    examples: ['Happy birthday!', 'I feel happy.'],
+  },
+  {
+    id: 'word_sad',
+    word: 'sad',
+    meaning: 'unhappy',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'sæd' },
+      { accent: 'british', ipa: 'sæd' },
+      { accent: 'australian', ipa: 'sæd' },
+    ],
+    category: 'adjectives',
+    examples: ['Sad news.', 'A sad movie.'],
+  },
+  {
+    id: 'word_fast',
+    word: 'fast',
+    meaning: 'quick',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'fæst' },
+      { accent: 'british', ipa: 'fɑːst' },
+      { accent: 'australian', ipa: 'fɑːst' },
+    ],
+    category: 'adjectives',
+    examples: ['Fast car.', 'Fast food.'],
+  },
+  {
+    id: 'word_slow',
+    word: 'slow',
+    meaning: 'not fast',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'sloʊ' },
+      { accent: 'british', ipa: 'sləʊ' },
+      { accent: 'australian', ipa: 'sləʊ' },
+    ],
+    category: 'adjectives',
+    examples: ['Slow down.', 'Slow internet.'],
+  },
+  {
+    id: 'word_hot',
+    word: 'hot',
+    meaning: 'high temperature',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'hɑːt' },
+      { accent: 'british', ipa: 'hɒt' },
+      { accent: 'australian', ipa: 'hɒt' },
+    ],
+    category: 'adjectives',
+    examples: ['Hot coffee.', 'Hot weather.'],
+  },
+  {
+    id: 'word_cold',
+    word: 'cold',
+    meaning: 'low temperature',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'koʊld' },
+      { accent: 'british', ipa: 'kəʊld' },
+      { accent: 'australian', ipa: 'kəʊld' },
+    ],
+    category: 'adjectives',
+    examples: ['Cold water.', 'Cold day.'],
+  },
+  {
+    id: 'word_new',
+    word: 'new',
+    meaning: 'recently made',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'nuː' },
+      { accent: 'british', ipa: 'njuː' },
+      { accent: 'australian', ipa: 'njuː' },
+    ],
+    category: 'adjectives',
+    examples: ['New car.', 'New friend.'],
+  },
+  {
+    id: 'word_old',
+    word: 'old',
+    meaning: 'aged',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'oʊld' },
+      { accent: 'british', ipa: 'əʊld' },
+      { accent: 'australian', ipa: 'əʊld' },
+    ],
+    category: 'adjectives',
+    examples: ['Old house.', 'Old friend.'],
+  },
+  {
+    id: 'word_young',
+    word: 'young',
+    meaning: 'not old',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'jʌŋ' },
+      { accent: 'british', ipa: 'jʌŋ' },
+      { accent: 'australian', ipa: 'jʌŋ' },
+    ],
+    category: 'adjectives',
+    examples: ['Young man.', 'Young children.'],
+  },
+  {
+    id: 'word_beautiful',
+    word: 'beautiful',
+    meaning: 'attractive',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈbjuːtəfəl' },
+      { accent: 'british', ipa: 'ˈbjuːtəfəl' },
+      { accent: 'australian', ipa: 'ˈbjuːtəfəl' },
+    ],
+    category: 'adjectives',
+    examples: ['Beautiful day.', 'Beautiful music.'],
+  },
+  {
+    id: 'word_ugly',
+    word: 'ugly',
+    meaning: 'unattractive',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈʌɡli' },
+      { accent: 'british', ipa: 'ˈʌɡli' },
+      { accent: 'australian', ipa: 'ˈʌɡli' },
+    ],
+    category: 'adjectives',
+    examples: ['Ugly truth.', 'Ugly sweater.'],
+  },
+  {
+    id: 'word_easy',
+    word: 'easy',
+    meaning: 'not difficult',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈiːzi' },
+      { accent: 'british', ipa: 'ˈiːzi' },
+      { accent: 'australian', ipa: 'ˈiːzi' },
+    ],
+    category: 'adjectives',
+    examples: ['Easy task.', 'Take it easy.'],
+  },
+  {
+    id: 'word_hard',
+    word: 'hard',
+    meaning: 'difficult',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'hɑːrd' },
+      { accent: 'british', ipa: 'hɑːd' },
+      { accent: 'australian', ipa: 'hɑːd' },
+    ],
+    category: 'adjectives',
+    examples: ['Hard work.', 'Hard time.'],
+  },
+  {
+    id: 'word_long',
+    word: 'long',
+    meaning: 'extended',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'lɔːŋ' },
+      { accent: 'british', ipa: 'lɒŋ' },
+      { accent: 'australian', ipa: 'lɒŋ' },
+    ],
+    category: 'adjectives',
+    examples: ['Long time.', 'Long road.'],
+  },
+  {
+    id: 'word_short',
+    word: 'short',
+    meaning: 'brief',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ʃɔːrt' },
+      { accent: 'british', ipa: 'ʃɔːt' },
+      { accent: 'australian', ipa: 'ʃɔːt' },
+    ],
+    category: 'adjectives',
+    examples: ['Short story.', 'Short hair.'],
+  },
+  {
+    id: 'word_tall',
+    word: 'tall',
+    meaning: 'high height',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'tɔːl' },
+      { accent: 'british', ipa: 'tɔːl' },
+      { accent: 'australian', ipa: 'tɔːl' },
+    ],
+    category: 'adjectives',
+    examples: ['Tall building.', 'Tall person.'],
+  },
+  {
+    id: 'word_short_height',
+    word: 'short',
+    meaning: 'low height',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ʃɔːrt' },
+      { accent: 'british', ipa: 'ʃɔːt' },
+      { accent: 'australian', ipa: 'ʃɔːt' },
+    ],
+    category: 'adjectives',
+    examples: ['Short person.', 'Short tree.'],
+  },
+  {
+    id: 'word_clean',
+    word: 'clean',
+    meaning: 'tidy',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'kliːn' },
+      { accent: 'british', ipa: 'kliːn' },
+      { accent: 'australian', ipa: 'kliːn' },
+    ],
+    category: 'adjectives',
+    examples: ['Clean room.', 'Clean water.'],
+  },
+  {
+    id: 'word_dirty',
+    word: 'dirty',
+    meaning: 'unclean',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈdɜːrti' },
+      { accent: 'british', ipa: 'ˈdɜːti' },
+      { accent: 'australian', ipa: 'ˈdɜːti' },
+    ],
+    category: 'adjectives',
+    examples: ['Dirty clothes.', 'Dirty hands.'],
+  },
+  {
+    id: 'word_rich',
+    word: 'rich',
+    meaning: 'wealthy',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'rɪtʃ' },
+      { accent: 'british', ipa: 'rɪtʃ' },
+      { accent: 'australian', ipa: 'rɪtʃ' },
+    ],
+    category: 'adjectives',
+    examples: ['Rich man.', 'Rich culture.'],
+  },
+  {
+    id: 'word_poor',
+    word: 'poor',
+    meaning: 'not wealthy',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'pʊr' },
+      { accent: 'british', ipa: 'pɔː' },
+      { accent: 'australian', ipa: 'pɔː' },
+    ],
+    category: 'adjectives',
+    examples: ['Poor family.', 'Poor performance.'],
+  },
+  {
+    id: 'word_important',
+    word: 'important',
+    meaning: 'significant',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ɪmˈpɔːrtənt' },
+      { accent: 'british', ipa: 'ɪmˈpɔːtənt' },
+      { accent: 'australian', ipa: 'ɪmˈpɔːtənt' },
+    ],
+    category: 'adjectives',
+    examples: ['Important decision.', 'Very important.'],
+  },
+  {
+    id: 'word_different',
+    word: 'different',
+    meaning: 'not same',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈdɪfərənt' },
+      { accent: 'british', ipa: 'ˈdɪfrənt' },
+      { accent: 'australian', ipa: 'ˈdɪfrənt' },
+    ],
+    category: 'adjectives',
+    examples: ['Different opinion.', 'Different style.'],
+  },
+  {
+    id: 'word_same',
+    word: 'same',
+    meaning: 'identical',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'seɪm' },
+      { accent: 'british', ipa: 'seɪm' },
+      { accent: 'australian', ipa: 'seɪm' },
+    ],
+    category: 'adjectives',
+    examples: ['Same time.', 'Same place.'],
+  },
+  {
+    id: 'word_right',
+    word: 'right',
+    meaning: 'correct',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'raɪt' },
+      { accent: 'british', ipa: 'raɪt' },
+      { accent: 'australian', ipa: 'raɪt' },
+    ],
+    category: 'adjectives',
+    examples: ['Right answer.', 'Right direction.'],
+  },
+  {
+    id: 'word_wrong',
+    word: 'wrong',
+    meaning: 'incorrect',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'rɔːŋ' },
+      { accent: 'british', ipa: 'rɒŋ' },
+      { accent: 'australian', ipa: 'rɒŋ' },
+    ],
+    category: 'adjectives',
+    examples: ['Wrong number.', 'Wrong way.'],
+  },
+  {
+    id: 'word_strong',
+    word: 'strong',
+    meaning: 'powerful',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'strɔːŋ' },
+      { accent: 'british', ipa: 'strɒŋ' },
+      { accent: 'australian', ipa: 'strɒŋ' },
+    ],
+    category: 'adjectives',
+    examples: ['Strong wind.', 'Strong person.'],
+  },
+  {
+    id: 'word_weak',
+    word: 'weak',
+    meaning: 'not strong',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'wiːk' },
+      { accent: 'british', ipa: 'wiːk' },
+      { accent: 'australian', ipa: 'wiːk' },
+    ],
+    category: 'adjectives',
+    examples: ['Weak signal.', 'Weak argument.'],
+  },
+  {
+    id: 'word_loud',
+    word: 'loud',
+    meaning: 'noisy',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'laʊd' },
+      { accent: 'british', ipa: 'laʊd' },
+      { accent: 'australian', ipa: 'laʊd' },
+    ],
+    category: 'adjectives',
+    examples: ['Loud music.', 'Loud voice.'],
+  },
+  {
+    id: 'word_quiet',
+    word: 'quiet',
+    meaning: 'silent',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈkwaɪət' },
+      { accent: 'british', ipa: 'ˈkwaɪət' },
+      { accent: 'australian', ipa: 'ˈkwaɪət' },
+    ],
+    category: 'adjectives',
+    examples: ['Quiet room.', 'Be quiet.'],
+  },
+  {
+    id: 'word_bright',
+    word: 'bright',
+    meaning: 'light/intelligent',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'braɪt' },
+      { accent: 'british', ipa: 'braɪt' },
+      { accent: 'australian', ipa: 'braɪt' },
+    ],
+    category: 'adjectives',
+    examples: ['Bright light.', 'Bright student.'],
+  },
+  {
+    id: 'word_dark',
+    word: 'dark',
+    meaning: 'not light',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'dɑːrk' },
+      { accent: 'british', ipa: 'dɑːk' },
+      { accent: 'australian', ipa: 'dɑːk' },
+    ],
+    category: 'adjectives',
+    examples: ['Dark room.', 'Dark night.'],
+  },
+  {
+    id: 'word_early',
+    word: 'early',
+    meaning: 'before expected',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈɜːrli' },
+      { accent: 'british', ipa: 'ˈɜːli' },
+      { accent: 'australian', ipa: 'ˈɜːli' },
+    ],
+    category: 'adjectives',
+    examples: ['Early morning.', 'Early bird.'],
+  },
+  {
+    id: 'word_late',
+    word: 'late',
+    meaning: 'after expected',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'leɪt' },
+      { accent: 'british', ipa: 'leɪt' },
+      { accent: 'australian', ipa: 'leɪt' },
+    ],
+    category: 'adjectives',
+    examples: ['Late arrival.', 'Too late.'],
+  },
+  {
+    id: 'word_cheap',
+    word: 'cheap',
+    meaning: 'low cost',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'tʃiːp' },
+      { accent: 'british', ipa: 'tʃiːp' },
+      { accent: 'australian', ipa: 'tʃiːp' },
+    ],
+    category: 'adjectives',
+    examples: ['Cheap price.', 'Cheap food.'],
+  },
+  {
+    id: 'word_expensive',
+    word: 'expensive',
+    meaning: 'high cost',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ɪkˈspɛnsɪv' },
+      { accent: 'british', ipa: 'ɪkˈspɛnsɪv' },
+      { accent: 'australian', ipa: 'ɪkˈspɛnsɪv' },
+    ],
+    category: 'adjectives',
+    examples: ['Expensive car.', 'Too expensive.'],
+  },
+  {
+    id: 'word_kind',
+    word: 'kind',
+    meaning: 'generous',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'kaɪnd' },
+      { accent: 'british', ipa: 'kaɪnd' },
+      { accent: 'australian', ipa: 'kaɪnd' },
+    ],
+    category: 'adjectives',
+    examples: ['Kind person.', 'Kind words.'],
+  },
+  {
+    id: 'word_mean',
+    word: 'mean',
+    meaning: 'unkind',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'miːn' },
+      { accent: 'british', ipa: 'miːn' },
+      { accent: 'australian', ipa: 'miːn' },
+    ],
+    category: 'adjectives',
+    examples: ['Mean comment.', "Don't be mean."],
+  },
+  {
+    id: 'word_smart',
+    word: 'smart',
+    meaning: 'intelligent',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'smɑːrt' },
+      { accent: 'british', ipa: 'smɑːt' },
+      { accent: 'australian', ipa: 'smɑːt' },
+    ],
+    category: 'adjectives',
+    examples: ['Smart phone.', 'Smart idea.'],
+  },
+  {
+    id: 'word_stupid',
+    word: 'stupid',
+    meaning: 'not intelligent',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈstuːpɪd' },
+      { accent: 'british', ipa: 'ˈstjuːpɪd' },
+      { accent: 'australian', ipa: 'ˈstjuːpɪd' },
+    ],
+    category: 'adjectives',
+    examples: ['Stupid mistake.', 'That was stupid.'],
+  },
+  {
+    id: 'word_brave',
+    word: 'brave',
+    meaning: 'courageous',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'breɪv' },
+      { accent: 'british', ipa: 'breɪv' },
+      { accent: 'australian', ipa: 'breɪv' },
+    ],
+    category: 'adjectives',
+    examples: ['Brave soldier.', 'Be brave.'],
+  },
+  {
+    id: 'word_afraid',
+    word: 'afraid',
+    meaning: 'scared',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'əˈfreɪd' },
+      { accent: 'british', ipa: 'əˈfreɪd' },
+      { accent: 'australian', ipa: 'əˈfreɪd' },
+    ],
+    category: 'adjectives',
+    examples: ["Don't be afraid.", "I'm afraid."],
+  },
+  {
+    id: 'word_busy',
+    word: 'busy',
+    meaning: 'occupied',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈbɪzi' },
+      { accent: 'british', ipa: 'ˈbɪzi' },
+      { accent: 'australian', ipa: 'ˈbɪzi' },
+    ],
+    category: 'adjectives',
+    examples: ['Busy day.', 'Busy street.'],
+  },
+  {
+    id: 'word_free',
+    word: 'free',
+    meaning: 'available/no cost',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'friː' },
+      { accent: 'british', ipa: 'friː' },
+      { accent: 'australian', ipa: 'friː' },
+    ],
+    category: 'adjectives',
+    examples: ['Free time.', 'Free food.'],
+  },
+  {
+    id: 'word_full',
+    word: 'full',
+    meaning: 'completely filled',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'fʊl' },
+      { accent: 'british', ipa: 'fʊl' },
+      { accent: 'australian', ipa: 'fʊl' },
+    ],
+    category: 'adjectives',
+    examples: ['Full moon.', 'Full stomach.'],
+  },
+  {
+    id: 'word_empty',
+    word: 'empty',
+    meaning: 'containing nothing',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈɛmpti' },
+      { accent: 'british', ipa: 'ˈɛmpti' },
+      { accent: 'australian', ipa: 'ˈɛmpti' },
+    ],
+    category: 'adjectives',
+    examples: ['Empty room.', 'Empty box.'],
+  },
+  {
+    id: 'word_heavy',
+    word: 'heavy',
+    meaning: 'weighty',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈhɛvi' },
+      { accent: 'british', ipa: 'ˈhɛvi' },
+      { accent: 'australian', ipa: 'ˈhɛvi' },
+    ],
+    category: 'adjectives',
+    examples: ['Heavy rain.', 'Heavy box.'],
+  },
+  {
+    id: 'word_light_weight',
+    word: 'light',
+    meaning: 'not heavy',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'laɪt' },
+      { accent: 'british', ipa: 'laɪt' },
+      { accent: 'australian', ipa: 'laɪt' },
+    ],
+    category: 'adjectives',
+    examples: ['Light bag.', 'Light meal.'],
+  },
+  {
+    id: 'word_sweet',
+    word: 'sweet',
+    meaning: 'sugary/kind',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'swiːt' },
+      { accent: 'british', ipa: 'swiːt' },
+      { accent: 'australian', ipa: 'swiːt' },
+    ],
+    category: 'adjectives',
+    examples: ['Sweet taste.', 'Sweet person.'],
+  },
+  {
+    id: 'word_sour',
+    word: 'sour',
+    meaning: 'acidic',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈsaʊər' },
+      { accent: 'british', ipa: 'ˈsaʊə' },
+      { accent: 'australian', ipa: 'ˈsaʊə' },
+    ],
+    category: 'adjectives',
+    examples: ['Sour lemon.', 'Sour face.'],
+  },
+  {
+    id: 'word_salty',
+    word: 'salty',
+    meaning: 'containing salt',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈsɔːlti' },
+      { accent: 'british', ipa: 'ˈsɔːlti' },
+      { accent: 'australian', ipa: 'ˈsɔːlti' },
+    ],
+    category: 'adjectives',
+    examples: ['Salty water.', 'Salty food.'],
+  },
+  {
+    id: 'word_bitter',
+    word: 'bitter',
+    meaning: 'sharp taste',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈbɪtər' },
+      { accent: 'british', ipa: 'ˈbɪtə' },
+      { accent: 'australian', ipa: 'ˈbɪtə' },
+    ],
+    category: 'adjectives',
+    examples: ['Bitter coffee.', 'Bitter enemy.'],
+  },
+  {
+    id: 'word_red',
+    word: 'red',
+    meaning: 'color',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'rɛd' },
+      { accent: 'british', ipa: 'rɛd' },
+      { accent: 'australian', ipa: 'rɛd' },
+    ],
+    category: 'adjectives',
+    examples: ['Red apple.', 'Red car.'],
+  },
+  {
+    id: 'word_blue',
+    word: 'blue',
+    meaning: 'color',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'bluː' },
+      { accent: 'british', ipa: 'bluː' },
+      { accent: 'australian', ipa: 'bluː' },
+    ],
+    category: 'adjectives',
+    examples: ['Blue sky.', 'Blue eyes.'],
+  },
+  {
+    id: 'word_green',
+    word: 'green',
+    meaning: 'color',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ɡriːn' },
+      { accent: 'british', ipa: 'ɡriːn' },
+      { accent: 'australian', ipa: 'ɡriːn' },
+    ],
+    category: 'adjectives',
+    examples: ['Green grass.', 'Green tea.'],
+  },
+  {
+    id: 'word_yellow',
+    word: 'yellow',
+    meaning: 'color',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'ˈjɛloʊ' },
+      { accent: 'british', ipa: 'ˈjɛləʊ' },
+      { accent: 'australian', ipa: 'ˈjɛləʊ' },
+    ],
+    category: 'adjectives',
+    examples: ['Yellow sun.', 'Yellow flower.'],
+  },
+  {
+    id: 'word_white',
+    word: 'white',
+    meaning: 'color',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'waɪt' },
+      { accent: 'british', ipa: 'waɪt' },
+      { accent: 'australian', ipa: 'waɪt' },
+    ],
+    category: 'adjectives',
+    examples: ['White snow.', 'White shirt.'],
+  },
+  {
+    id: 'word_black',
+    word: 'black',
+    meaning: 'color',
+    pronunciationVariants: [
+      { accent: 'american', ipa: 'blæk' },
+      { accent: 'british', ipa: 'blæk' },
+      { accent: 'australian', ipa: 'blæk' },
+    ],
+    category: 'adjectives',
+    examples: ['Black cat.', 'Black coffee.'],
+  },
 ];

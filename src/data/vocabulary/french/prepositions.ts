@@ -1,229 +1,544 @@
 import { VocabWord } from '@/types';
 
 export const prepositions: VocabWord[] = [
-  { id: 'word_dans', word: 'dans', meaning: 'in/inside', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'dɑ̃' },
-    { accent: 'quebecois', ipa: 'dɑ̃' },
-    { accent: 'belgian', ipa: 'dɑ̃' }
-  ], category: 'prepositions', examples: ['Dans la maison.', 'Dans le sac.'] },
-  { id: 'word_sur', word: 'sur', meaning: 'on/upon', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'syʁ' },
-    { accent: 'quebecois', ipa: 'syʁ' },
-    { accent: 'belgian', ipa: 'syʁ' }
-  ], category: 'prepositions', examples: ['Sur la table.', 'Sur le mur.'] },
-  { id: 'word_sous', word: 'sous', meaning: 'under', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'su' },
-    { accent: 'quebecois', ipa: 'su' },
-    { accent: 'belgian', ipa: 'su' }
-  ], category: 'prepositions', examples: ['Sous la table.', 'Sous le lit.'] },
-  { id: 'word_avec', word: 'avec', meaning: 'with', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'avɛk' },
-    { accent: 'quebecois', ipa: 'avɛk' },
-    { accent: 'belgian', ipa: 'avɛk' }
-  ], category: 'prepositions', examples: ['Avec moi.', 'Avec un ami.'] },
-  { id: 'word_sans', word: 'sans', meaning: 'without', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'sɑ̃' },
-    { accent: 'quebecois', ipa: 'sɑ̃' },
-    { accent: 'belgian', ipa: 'sɑ̃' }
-  ], category: 'prepositions', examples: ['Sans sucre.', 'Sans doute.'] },
-  { id: 'word_pour', word: 'pour', meaning: 'for', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'puʁ' },
-    { accent: 'quebecois', ipa: 'puʁ' },
-    { accent: 'belgian', ipa: 'puʁ' }
-  ], category: 'prepositions', examples: ['Pour toi.', 'Pour demain.'] },
-  { id: 'word_contre', word: 'contre', meaning: 'against', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'kɔ̃tʁ' },
-    { accent: 'quebecois', ipa: 'kɔ̃tʁ' },
-    { accent: 'belgian', ipa: 'kɔ̃tʁ' }
-  ], category: 'prepositions', examples: ['Contre le mur.', 'Contre moi.'] },
-  { id: 'word_entre', word: 'entre', meaning: 'between', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ɑ̃tʁ' },
-    { accent: 'quebecois', ipa: 'ɑ̃tʁ' },
-    { accent: 'belgian', ipa: 'ɑ̃tʁ' }
-  ], category: 'prepositions', examples: ['Entre les deux.', 'Entre amis.'] },
-  { id: 'word_parmi', word: 'parmi', meaning: 'among', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'paʁmi' },
-    { accent: 'quebecois', ipa: 'paʁmi' },
-    { accent: 'belgian', ipa: 'paʁmi' }
-  ], category: 'prepositions', examples: ['Parmi les amis.', 'Parmi nous.'] },
-  { id: 'word_chez', word: 'chez', meaning: 'at the home of', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ʃe' },
-    { accent: 'quebecois', ipa: 'ʃe' },
-    { accent: 'belgian', ipa: 'ʃe' }
-  ], category: 'prepositions', examples: ['Chez moi.', 'Chez le médecin.'] },
-  { id: 'word_de', word: 'de', meaning: 'of/from', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'də' },
-    { accent: 'quebecois', ipa: 'də' },
-    { accent: 'belgian', ipa: 'də' }
-  ], category: 'prepositions', examples: ['De Paris.', 'Le livre de Pierre.'] },
-  { id: 'word_a', word: 'à', meaning: 'to/at', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'a' },
-    { accent: 'quebecois', ipa: 'a' },
-    { accent: 'belgian', ipa: 'a' }
-  ], category: 'prepositions', examples: ['À Paris.', 'À demain.'] },
-  { id: 'word_en', word: 'en', meaning: 'in/to', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ɑ̃' },
-    { accent: 'quebecois', ipa: 'ɑ̃' },
-    { accent: 'belgian', ipa: 'ɑ̃' }
-  ], category: 'prepositions', examples: ['En France.', 'En voiture.'] },
-  { id: 'word_par', word: 'par', meaning: 'by/through', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'paʁ' },
-    { accent: 'quebecois', ipa: 'paʁ' },
-    { accent: 'belgian', ipa: 'paʁ' }
-  ], category: 'prepositions', examples: ['Par ici.', 'Par train.'] },
-  { id: 'word_vers', word: 'vers', meaning: 'toward', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'vɛʁ' },
-    { accent: 'quebecois', ipa: 'vɛʁ' },
-    { accent: 'belgian', ipa: 'vɛʁ' }
-  ], category: 'prepositions', examples: ['Vers le nord.', 'Vers midi.'] },
-  { id: 'word_apres', word: 'après', meaning: 'after', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'apʁe' },
-    { accent: 'quebecois', ipa: 'apʁe' },
-    { accent: 'belgian', ipa: 'apʁe' }
-  ], category: 'prepositions', examples: ['Après le repas.', 'Après toi.'] },
-  { id: 'word_avant', word: 'avant', meaning: 'before', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'avɑ̃' },
-    { accent: 'quebecois', ipa: 'avɑ̃' },
-    { accent: 'belgian', ipa: 'avɑ̃' }
-  ], category: 'prepositions', examples: ['Avant le dîner.', 'Avant toi.'] },
-  { id: 'word_pendant', word: 'pendant', meaning: 'during', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'pɑ̃dɑ̃' },
-    { accent: 'quebecois', ipa: 'pɑ̃dɑ̃' },
-    { accent: 'belgian', ipa: 'pɑ̃dɑ̃' }
-  ], category: 'prepositions', examples: ['Pendant le repas.', 'Pendant la nuit.'] },
-  { id: 'word_depuis', word: 'depuis', meaning: 'since', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'dəpɥi' },
-    { accent: 'quebecois', ipa: 'dəpɥi' },
-    { accent: 'belgian', ipa: 'dəpɥi' }
-  ], category: 'prepositions', examples: ['Depuis hier.', 'Depuis longtemps.'] },
-  { id: 'word_jusqua', word: 'jusqu\'à', meaning: 'until', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ʒyska' },
-    { accent: 'quebecois', ipa: 'ʒyska' },
-    { accent: 'belgian', ipa: 'ʒyska' }
-  ], category: 'prepositions', examples: ['Jusqu\'à demain.', 'Jusqu\'à midi.'] },
-  { id: 'word_pres_de', word: 'près de', meaning: 'near', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'pʁɛ də' },
-    { accent: 'quebecois', ipa: 'pʁɛ də' },
-    { accent: 'belgian', ipa: 'pʁɛ də' }
-  ], category: 'prepositions', examples: ['Près de chez moi.', 'Près de la mer.'] },
-  { id: 'word_loin_de', word: 'loin de', meaning: 'far from', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'lwɛ̃ də' },
-    { accent: 'quebecois', ipa: 'lwɛ̃ də' },
-    { accent: 'belgian', ipa: 'lwɛ̃ də' }
-  ], category: 'prepositions', examples: ['Loin de chez moi.', 'Loin de la ville.'] },
-  { id: 'word_devant', word: 'devant', meaning: 'in front of', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'dəvɑ̃' },
-    { accent: 'quebecois', ipa: 'dəvɑ̃' },
-    { accent: 'belgian', ipa: 'dəvɑ̃' }
-  ], category: 'prepositions', examples: ['Devant la maison.', 'Devant moi.'] },
-  { id: 'word_derriere', word: 'derrière', meaning: 'behind', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'dɛʁjɛʁ' },
-    { accent: 'quebecois', ipa: 'dɛʁjɛʁ' },
-    { accent: 'belgian', ipa: 'dɛʁjɛʁ' }
-  ], category: 'prepositions', examples: ['Derrière la maison.', 'Derrière moi.'] },
-  { id: 'word_a_cote_de', word: 'à côté de', meaning: 'next to/beside', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'a kote də' },
-    { accent: 'quebecois', ipa: 'a kote də' },
-    { accent: 'belgian', ipa: 'a kote də' }
-  ], category: 'prepositions', examples: ['À côté de moi.', 'À côté de la table.'] },
-  { id: 'word_en_face_de', word: 'en face de', meaning: 'opposite/across from', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ɑ̃ fas də' },
-    { accent: 'quebecois', ipa: 'ɑ̃ fas də' },
-    { accent: 'belgian', ipa: 'ɑ̃ fas də' }
-  ], category: 'prepositions', examples: ['En face de moi.', 'En face de la maison.'] },
-  { id: 'word_autour_de', word: 'autour de', meaning: 'around', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'otuʁ də' },
-    { accent: 'quebecois', ipa: 'otuʁ də' },
-    { accent: 'belgian', ipa: 'otuʁ də' }
-  ], category: 'prepositions', examples: ['Autour de la table.', 'Autour du monde.'] },
-  { id: 'word_a_travers', word: 'à travers', meaning: 'through', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'a tʁavɛʁ' },
-    { accent: 'quebecois', ipa: 'a tʁavɛʁ' },
-    { accent: 'belgian', ipa: 'a tʁavɛʁ' }
-  ], category: 'prepositions', examples: ['À travers la forêt.', 'À travers le pays.'] },
-  { id: 'word_le_long_de', word: 'le long de', meaning: 'along', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'lə lɔ̃ də' },
-    { accent: 'quebecois', ipa: 'lə lɔ̃ də' },
-    { accent: 'belgian', ipa: 'lə lɔ̃ də' }
-  ], category: 'prepositions', examples: ['Le long de la rivière.', 'Le long du chemin.'] },
-  { id: 'word_en_haut_de', word: 'en haut de', meaning: 'above/on top of', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ɑ̃ o də' },
-    { accent: 'quebecois', ipa: 'ɑ̃ o də' },
-    { accent: 'belgian', ipa: 'ɑ̃ o də' }
-  ], category: 'prepositions', examples: ['En haut de la montagne.', 'En haut de la page.'] },
-  { id: 'word_en_bas_de', word: 'en bas de', meaning: 'below/at the bottom of', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ɑ̃ ba də' },
-    { accent: 'quebecois', ipa: 'ɑ̃ ba də' },
-    { accent: 'belgian', ipa: 'ɑ̃ ba də' }
-  ], category: 'prepositions', examples: ['En bas de la page.', 'En bas de la montagne.'] },
-  { id: 'word_a_l_interieur_de', word: 'à l\'intérieur de', meaning: 'inside', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'a lɛ̃teʁjœʁ də' },
-    { accent: 'quebecois', ipa: 'a lɛ̃teʁjœʁ də' },
-    { accent: 'belgian', ipa: 'a lɛ̃teʁjœʁ də' }
-  ], category: 'prepositions', examples: ['À l\'intérieur de la maison.', 'À l\'intérieur du sac.'] },
-  { id: 'word_a_l_exterieur_de', word: 'à l\'extérieur de', meaning: 'outside', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'a lɛksteʁjœʁ də' },
-    { accent: 'quebecois', ipa: 'a lɛksteʁjœʁ də' },
-    { accent: 'belgian', ipa: 'a lɛksteʁjœʁ də' }
-  ], category: 'prepositions', examples: ['À l\'extérieur de la maison.', 'À l\'extérieur du pays.'] },
-  { id: 'word_hors_de', word: 'hors de', meaning: 'out of', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ɔʁ də' },
-    { accent: 'quebecois', ipa: 'ɔʁ də' },
-    { accent: 'belgian', ipa: 'ɔʁ də' }
-  ], category: 'prepositions', examples: ['Hors de la ville.', 'Hors de question.'] },
-  { id: 'word_concernant', word: 'concernant', meaning: 'concerning/about', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'kɔ̃sɛʁnɑ̃' },
-    { accent: 'quebecois', ipa: 'kɔ̃sɛʁnɑ̃' },
-    { accent: 'belgian', ipa: 'kɔ̃sɛʁnɑ̃' }
-  ], category: 'prepositions', examples: ['Concernant ce problème.', 'Concernant votre demande.'] },
-  { id: 'word_grace_a', word: 'grâce à', meaning: 'thanks to', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ɡʁas a' },
-    { accent: 'quebecois', ipa: 'ɡʁas a' },
-    { accent: 'belgian', ipa: 'ɡʁas a' }
-  ], category: 'prepositions', examples: ['Grâce à toi.', 'Grâce au soleil.'] },
-  { id: 'word_a_cause_de', word: 'à cause de', meaning: 'because of', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'a koz də' },
-    { accent: 'quebecois', ipa: 'a koz də' },
-    { accent: 'belgian', ipa: 'a koz də' }
-  ], category: 'prepositions', examples: ['À cause de la pluie.', 'À cause de toi.'] },
-  { id: 'word_malgre', word: 'malgré', meaning: 'despite', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'malɡʁe' },
-    { accent: 'quebecois', ipa: 'malɡʁe' },
-    { accent: 'belgian', ipa: 'malɡʁe' }
-  ], category: 'prepositions', examples: ['Malgré la pluie.', 'Malgré tout.'] },
-  { id: 'word_selon', word: 'selon', meaning: 'according to', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'səlɔ̃' },
-    { accent: 'quebecois', ipa: 'səlɔ̃' },
-    { accent: 'belgian', ipa: 'səlɔ̃' }
-  ], category: 'prepositions', examples: ['Selon moi.', 'Selon le rapport.'] },
-  { id: 'word_sauf', word: 'sauf', meaning: 'except', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'sof' },
-    { accent: 'quebecois', ipa: 'sof' },
-    { accent: 'belgian', ipa: 'sof' }
-  ], category: 'prepositions', examples: ['Sauf toi.', 'Sauf dimanche.'] },
-  { id: 'word_hormis', word: 'hormis', meaning: 'except', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ɔʁmi' },
-    { accent: 'quebecois', ipa: 'ɔʁmi' },
-    { accent: 'belgian', ipa: 'ɔʁmi' }
-  ], category: 'prepositions', examples: ['Hormis toi.', 'Hormis quelques exceptions.'] },
-  { id: 'word_quant_a', word: 'quant à', meaning: 'as for', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'kɑ̃ a' },
-    { accent: 'quebecois', ipa: 'kɑ̃ a' },
-    { accent: 'belgian', ipa: 'kɑ̃ a' }
-  ], category: 'prepositions', examples: ['Quant à moi.', 'Quant à ce problème.'] },
-  { id: 'word_faisant_a', word: 'faute de', meaning: 'for lack of', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'fot də' },
-    { accent: 'quebecois', ipa: 'fot də' },
-    { accent: 'belgian', ipa: 'fot də' }
-  ], category: 'prepositions', examples: ['Faute de temps.', 'Faute d\'argent.'] },
-  { id: 'word_en_dehors_de', word: 'en dehors de', meaning: 'outside of', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'ɑ̃ dəwaʁ də' },
-    { accent: 'quebecois', ipa: 'ɑ̃ dəwaʁ də' },
-    { accent: 'belgian', ipa: 'ɑ̃ dəwaʁ də' }
-  ], category: 'prepositions', examples: ['En dehors du travail.', 'En dehors de la ville.'] },
-  { id: 'word_a_l_exception_de', word: 'à l\'exception de', meaning: 'with the exception of', pronunciationVariants: [
-    { accent: 'parisian', ipa: 'a lɛkspɛsjɔ̃ də' },
-    { accent: 'quebecois', ipa: 'a lɛkspɛsjɔ̃ də' },
-    { accent: 'belgian', ipa: 'a lɛkspɛsjɔ̃ də' }
-  ], category: 'prepositions', examples: ['À l\'exception de toi.', 'À l\'exception de dimanche.'] }
+  {
+    id: 'word_dans',
+    word: 'dans',
+    meaning: 'in/inside',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'dɑ̃' },
+      { accent: 'quebecois', ipa: 'dɑ̃' },
+      { accent: 'belgian', ipa: 'dɑ̃' },
+    ],
+    category: 'prepositions',
+    examples: ['Dans la maison.', 'Dans le sac.'],
+  },
+  {
+    id: 'word_sur',
+    word: 'sur',
+    meaning: 'on/upon',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'syʁ' },
+      { accent: 'quebecois', ipa: 'syʁ' },
+      { accent: 'belgian', ipa: 'syʁ' },
+    ],
+    category: 'prepositions',
+    examples: ['Sur la table.', 'Sur le mur.'],
+  },
+  {
+    id: 'word_sous',
+    word: 'sous',
+    meaning: 'under',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'su' },
+      { accent: 'quebecois', ipa: 'su' },
+      { accent: 'belgian', ipa: 'su' },
+    ],
+    category: 'prepositions',
+    examples: ['Sous la table.', 'Sous le lit.'],
+  },
+  {
+    id: 'word_avec',
+    word: 'avec',
+    meaning: 'with',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'avɛk' },
+      { accent: 'quebecois', ipa: 'avɛk' },
+      { accent: 'belgian', ipa: 'avɛk' },
+    ],
+    category: 'prepositions',
+    examples: ['Avec moi.', 'Avec un ami.'],
+  },
+  {
+    id: 'word_sans',
+    word: 'sans',
+    meaning: 'without',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'sɑ̃' },
+      { accent: 'quebecois', ipa: 'sɑ̃' },
+      { accent: 'belgian', ipa: 'sɑ̃' },
+    ],
+    category: 'prepositions',
+    examples: ['Sans sucre.', 'Sans doute.'],
+  },
+  {
+    id: 'word_pour',
+    word: 'pour',
+    meaning: 'for',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'puʁ' },
+      { accent: 'quebecois', ipa: 'puʁ' },
+      { accent: 'belgian', ipa: 'puʁ' },
+    ],
+    category: 'prepositions',
+    examples: ['Pour toi.', 'Pour demain.'],
+  },
+  {
+    id: 'word_contre',
+    word: 'contre',
+    meaning: 'against',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'kɔ̃tʁ' },
+      { accent: 'quebecois', ipa: 'kɔ̃tʁ' },
+      { accent: 'belgian', ipa: 'kɔ̃tʁ' },
+    ],
+    category: 'prepositions',
+    examples: ['Contre le mur.', 'Contre moi.'],
+  },
+  {
+    id: 'word_entre',
+    word: 'entre',
+    meaning: 'between',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɑ̃tʁ' },
+      { accent: 'quebecois', ipa: 'ɑ̃tʁ' },
+      { accent: 'belgian', ipa: 'ɑ̃tʁ' },
+    ],
+    category: 'prepositions',
+    examples: ['Entre les deux.', 'Entre amis.'],
+  },
+  {
+    id: 'word_parmi',
+    word: 'parmi',
+    meaning: 'among',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'paʁmi' },
+      { accent: 'quebecois', ipa: 'paʁmi' },
+      { accent: 'belgian', ipa: 'paʁmi' },
+    ],
+    category: 'prepositions',
+    examples: ['Parmi les amis.', 'Parmi nous.'],
+  },
+  {
+    id: 'word_chez',
+    word: 'chez',
+    meaning: 'at the home of',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ʃe' },
+      { accent: 'quebecois', ipa: 'ʃe' },
+      { accent: 'belgian', ipa: 'ʃe' },
+    ],
+    category: 'prepositions',
+    examples: ['Chez moi.', 'Chez le médecin.'],
+  },
+  {
+    id: 'word_de',
+    word: 'de',
+    meaning: 'of/from',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'də' },
+      { accent: 'quebecois', ipa: 'də' },
+      { accent: 'belgian', ipa: 'də' },
+    ],
+    category: 'prepositions',
+    examples: ['De Paris.', 'Le livre de Pierre.'],
+  },
+  {
+    id: 'word_a',
+    word: 'à',
+    meaning: 'to/at',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'a' },
+      { accent: 'quebecois', ipa: 'a' },
+      { accent: 'belgian', ipa: 'a' },
+    ],
+    category: 'prepositions',
+    examples: ['À Paris.', 'À demain.'],
+  },
+  {
+    id: 'word_en',
+    word: 'en',
+    meaning: 'in/to',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɑ̃' },
+      { accent: 'quebecois', ipa: 'ɑ̃' },
+      { accent: 'belgian', ipa: 'ɑ̃' },
+    ],
+    category: 'prepositions',
+    examples: ['En France.', 'En voiture.'],
+  },
+  {
+    id: 'word_par',
+    word: 'par',
+    meaning: 'by/through',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'paʁ' },
+      { accent: 'quebecois', ipa: 'paʁ' },
+      { accent: 'belgian', ipa: 'paʁ' },
+    ],
+    category: 'prepositions',
+    examples: ['Par ici.', 'Par train.'],
+  },
+  {
+    id: 'word_vers',
+    word: 'vers',
+    meaning: 'toward',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'vɛʁ' },
+      { accent: 'quebecois', ipa: 'vɛʁ' },
+      { accent: 'belgian', ipa: 'vɛʁ' },
+    ],
+    category: 'prepositions',
+    examples: ['Vers le nord.', 'Vers midi.'],
+  },
+  {
+    id: 'word_apres',
+    word: 'après',
+    meaning: 'after',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'apʁe' },
+      { accent: 'quebecois', ipa: 'apʁe' },
+      { accent: 'belgian', ipa: 'apʁe' },
+    ],
+    category: 'prepositions',
+    examples: ['Après le repas.', 'Après toi.'],
+  },
+  {
+    id: 'word_avant',
+    word: 'avant',
+    meaning: 'before',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'avɑ̃' },
+      { accent: 'quebecois', ipa: 'avɑ̃' },
+      { accent: 'belgian', ipa: 'avɑ̃' },
+    ],
+    category: 'prepositions',
+    examples: ['Avant le dîner.', 'Avant toi.'],
+  },
+  {
+    id: 'word_pendant',
+    word: 'pendant',
+    meaning: 'during',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'pɑ̃dɑ̃' },
+      { accent: 'quebecois', ipa: 'pɑ̃dɑ̃' },
+      { accent: 'belgian', ipa: 'pɑ̃dɑ̃' },
+    ],
+    category: 'prepositions',
+    examples: ['Pendant le repas.', 'Pendant la nuit.'],
+  },
+  {
+    id: 'word_depuis',
+    word: 'depuis',
+    meaning: 'since',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'dəpɥi' },
+      { accent: 'quebecois', ipa: 'dəpɥi' },
+      { accent: 'belgian', ipa: 'dəpɥi' },
+    ],
+    category: 'prepositions',
+    examples: ['Depuis hier.', 'Depuis longtemps.'],
+  },
+  {
+    id: 'word_jusqua',
+    word: "jusqu'à",
+    meaning: 'until',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ʒyska' },
+      { accent: 'quebecois', ipa: 'ʒyska' },
+      { accent: 'belgian', ipa: 'ʒyska' },
+    ],
+    category: 'prepositions',
+    examples: ["Jusqu'à demain.", "Jusqu'à midi."],
+  },
+  {
+    id: 'word_pres_de',
+    word: 'près de',
+    meaning: 'near',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'pʁɛ də' },
+      { accent: 'quebecois', ipa: 'pʁɛ də' },
+      { accent: 'belgian', ipa: 'pʁɛ də' },
+    ],
+    category: 'prepositions',
+    examples: ['Près de chez moi.', 'Près de la mer.'],
+  },
+  {
+    id: 'word_loin_de',
+    word: 'loin de',
+    meaning: 'far from',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'lwɛ̃ də' },
+      { accent: 'quebecois', ipa: 'lwɛ̃ də' },
+      { accent: 'belgian', ipa: 'lwɛ̃ də' },
+    ],
+    category: 'prepositions',
+    examples: ['Loin de chez moi.', 'Loin de la ville.'],
+  },
+  {
+    id: 'word_devant',
+    word: 'devant',
+    meaning: 'in front of',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'dəvɑ̃' },
+      { accent: 'quebecois', ipa: 'dəvɑ̃' },
+      { accent: 'belgian', ipa: 'dəvɑ̃' },
+    ],
+    category: 'prepositions',
+    examples: ['Devant la maison.', 'Devant moi.'],
+  },
+  {
+    id: 'word_derriere',
+    word: 'derrière',
+    meaning: 'behind',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'dɛʁjɛʁ' },
+      { accent: 'quebecois', ipa: 'dɛʁjɛʁ' },
+      { accent: 'belgian', ipa: 'dɛʁjɛʁ' },
+    ],
+    category: 'prepositions',
+    examples: ['Derrière la maison.', 'Derrière moi.'],
+  },
+  {
+    id: 'word_a_cote_de',
+    word: 'à côté de',
+    meaning: 'next to/beside',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'a kote də' },
+      { accent: 'quebecois', ipa: 'a kote də' },
+      { accent: 'belgian', ipa: 'a kote də' },
+    ],
+    category: 'prepositions',
+    examples: ['À côté de moi.', 'À côté de la table.'],
+  },
+  {
+    id: 'word_en_face_de',
+    word: 'en face de',
+    meaning: 'opposite/across from',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɑ̃ fas də' },
+      { accent: 'quebecois', ipa: 'ɑ̃ fas də' },
+      { accent: 'belgian', ipa: 'ɑ̃ fas də' },
+    ],
+    category: 'prepositions',
+    examples: ['En face de moi.', 'En face de la maison.'],
+  },
+  {
+    id: 'word_autour_de',
+    word: 'autour de',
+    meaning: 'around',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'otuʁ də' },
+      { accent: 'quebecois', ipa: 'otuʁ də' },
+      { accent: 'belgian', ipa: 'otuʁ də' },
+    ],
+    category: 'prepositions',
+    examples: ['Autour de la table.', 'Autour du monde.'],
+  },
+  {
+    id: 'word_a_travers',
+    word: 'à travers',
+    meaning: 'through',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'a tʁavɛʁ' },
+      { accent: 'quebecois', ipa: 'a tʁavɛʁ' },
+      { accent: 'belgian', ipa: 'a tʁavɛʁ' },
+    ],
+    category: 'prepositions',
+    examples: ['À travers la forêt.', 'À travers le pays.'],
+  },
+  {
+    id: 'word_le_long_de',
+    word: 'le long de',
+    meaning: 'along',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'lə lɔ̃ də' },
+      { accent: 'quebecois', ipa: 'lə lɔ̃ də' },
+      { accent: 'belgian', ipa: 'lə lɔ̃ də' },
+    ],
+    category: 'prepositions',
+    examples: ['Le long de la rivière.', 'Le long du chemin.'],
+  },
+  {
+    id: 'word_en_haut_de',
+    word: 'en haut de',
+    meaning: 'above/on top of',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɑ̃ o də' },
+      { accent: 'quebecois', ipa: 'ɑ̃ o də' },
+      { accent: 'belgian', ipa: 'ɑ̃ o də' },
+    ],
+    category: 'prepositions',
+    examples: ['En haut de la montagne.', 'En haut de la page.'],
+  },
+  {
+    id: 'word_en_bas_de',
+    word: 'en bas de',
+    meaning: 'below/at the bottom of',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɑ̃ ba də' },
+      { accent: 'quebecois', ipa: 'ɑ̃ ba də' },
+      { accent: 'belgian', ipa: 'ɑ̃ ba də' },
+    ],
+    category: 'prepositions',
+    examples: ['En bas de la page.', 'En bas de la montagne.'],
+  },
+  {
+    id: 'word_a_l_interieur_de',
+    word: "à l'intérieur de",
+    meaning: 'inside',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'a lɛ̃teʁjœʁ də' },
+      { accent: 'quebecois', ipa: 'a lɛ̃teʁjœʁ də' },
+      { accent: 'belgian', ipa: 'a lɛ̃teʁjœʁ də' },
+    ],
+    category: 'prepositions',
+    examples: ["À l'intérieur de la maison.", "À l'intérieur du sac."],
+  },
+  {
+    id: 'word_a_l_exterieur_de',
+    word: "à l'extérieur de",
+    meaning: 'outside',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'a lɛksteʁjœʁ də' },
+      { accent: 'quebecois', ipa: 'a lɛksteʁjœʁ də' },
+      { accent: 'belgian', ipa: 'a lɛksteʁjœʁ də' },
+    ],
+    category: 'prepositions',
+    examples: ["À l'extérieur de la maison.", "À l'extérieur du pays."],
+  },
+  {
+    id: 'word_hors_de',
+    word: 'hors de',
+    meaning: 'out of',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɔʁ də' },
+      { accent: 'quebecois', ipa: 'ɔʁ də' },
+      { accent: 'belgian', ipa: 'ɔʁ də' },
+    ],
+    category: 'prepositions',
+    examples: ['Hors de la ville.', 'Hors de question.'],
+  },
+  {
+    id: 'word_concernant',
+    word: 'concernant',
+    meaning: 'concerning/about',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'kɔ̃sɛʁnɑ̃' },
+      { accent: 'quebecois', ipa: 'kɔ̃sɛʁnɑ̃' },
+      { accent: 'belgian', ipa: 'kɔ̃sɛʁnɑ̃' },
+    ],
+    category: 'prepositions',
+    examples: ['Concernant ce problème.', 'Concernant votre demande.'],
+  },
+  {
+    id: 'word_grace_a',
+    word: 'grâce à',
+    meaning: 'thanks to',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɡʁas a' },
+      { accent: 'quebecois', ipa: 'ɡʁas a' },
+      { accent: 'belgian', ipa: 'ɡʁas a' },
+    ],
+    category: 'prepositions',
+    examples: ['Grâce à toi.', 'Grâce au soleil.'],
+  },
+  {
+    id: 'word_a_cause_de',
+    word: 'à cause de',
+    meaning: 'because of',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'a koz də' },
+      { accent: 'quebecois', ipa: 'a koz də' },
+      { accent: 'belgian', ipa: 'a koz də' },
+    ],
+    category: 'prepositions',
+    examples: ['À cause de la pluie.', 'À cause de toi.'],
+  },
+  {
+    id: 'word_malgre',
+    word: 'malgré',
+    meaning: 'despite',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'malɡʁe' },
+      { accent: 'quebecois', ipa: 'malɡʁe' },
+      { accent: 'belgian', ipa: 'malɡʁe' },
+    ],
+    category: 'prepositions',
+    examples: ['Malgré la pluie.', 'Malgré tout.'],
+  },
+  {
+    id: 'word_selon',
+    word: 'selon',
+    meaning: 'according to',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'səlɔ̃' },
+      { accent: 'quebecois', ipa: 'səlɔ̃' },
+      { accent: 'belgian', ipa: 'səlɔ̃' },
+    ],
+    category: 'prepositions',
+    examples: ['Selon moi.', 'Selon le rapport.'],
+  },
+  {
+    id: 'word_sauf',
+    word: 'sauf',
+    meaning: 'except',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'sof' },
+      { accent: 'quebecois', ipa: 'sof' },
+      { accent: 'belgian', ipa: 'sof' },
+    ],
+    category: 'prepositions',
+    examples: ['Sauf toi.', 'Sauf dimanche.'],
+  },
+  {
+    id: 'word_hormis',
+    word: 'hormis',
+    meaning: 'except',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɔʁmi' },
+      { accent: 'quebecois', ipa: 'ɔʁmi' },
+      { accent: 'belgian', ipa: 'ɔʁmi' },
+    ],
+    category: 'prepositions',
+    examples: ['Hormis toi.', 'Hormis quelques exceptions.'],
+  },
+  {
+    id: 'word_quant_a',
+    word: 'quant à',
+    meaning: 'as for',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'kɑ̃ a' },
+      { accent: 'quebecois', ipa: 'kɑ̃ a' },
+      { accent: 'belgian', ipa: 'kɑ̃ a' },
+    ],
+    category: 'prepositions',
+    examples: ['Quant à moi.', 'Quant à ce problème.'],
+  },
+  {
+    id: 'word_faisant_a',
+    word: 'faute de',
+    meaning: 'for lack of',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'fot də' },
+      { accent: 'quebecois', ipa: 'fot də' },
+      { accent: 'belgian', ipa: 'fot də' },
+    ],
+    category: 'prepositions',
+    examples: ['Faute de temps.', "Faute d'argent."],
+  },
+  {
+    id: 'word_en_dehors_de',
+    word: 'en dehors de',
+    meaning: 'outside of',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'ɑ̃ dəwaʁ də' },
+      { accent: 'quebecois', ipa: 'ɑ̃ dəwaʁ də' },
+      { accent: 'belgian', ipa: 'ɑ̃ dəwaʁ də' },
+    ],
+    category: 'prepositions',
+    examples: ['En dehors du travail.', 'En dehors de la ville.'],
+  },
+  {
+    id: 'word_a_l_exception_de',
+    word: "à l'exception de",
+    meaning: 'with the exception of',
+    pronunciationVariants: [
+      { accent: 'parisian', ipa: 'a lɛkspɛsjɔ̃ də' },
+      { accent: 'quebecois', ipa: 'a lɛkspɛsjɔ̃ də' },
+      { accent: 'belgian', ipa: 'a lɛkspɛsjɔ̃ də' },
+    ],
+    category: 'prepositions',
+    examples: ["À l'exception de toi.", "À l'exception de dimanche."],
+  },
 ];

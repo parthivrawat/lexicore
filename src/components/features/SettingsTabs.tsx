@@ -48,8 +48,11 @@ export function SettingsTabs() {
     <div className="space-y-8">
       {/* Tab Navigation */}
       <div className="border-b border-gray-200 dark:border-gray-700">
-        <nav className="flex overflow-x-auto space-x-8 scrollbar-hide sm:justify-center" aria-label="Settings tabs">
-          {tabs.map((tab) => (
+        <nav
+          className="flex overflow-x-auto space-x-8 scrollbar-hide sm:justify-center"
+          aria-label="Settings tabs"
+        >
+          {tabs.map(tab => (
             <button
               key={tab.id}
               onClick={() => setActiveTab(tab.id)}
@@ -61,7 +64,9 @@ export function SettingsTabs() {
               aria-current={activeTab === tab.id ? 'page' : undefined}
             >
               <div className="flex items-center gap-2">
-                <span className="text-lg">{tab.icon}</span>
+                <span className="text-lg" aria-hidden="true">
+                  {tab.icon}
+                </span>
                 <span>{tab.title}</span>
               </div>
             </button>

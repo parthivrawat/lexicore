@@ -1,6 +1,6 @@
-import React from 'react'
-import { AppShell } from '@/components/shared/AppShell'
-import { SettingsTabs } from '@/components/features/SettingsTabs'
+import React from 'react';
+import { AppShell } from '@/components/shared/AppShell';
+import { SettingsTabs } from '@/components/features/SettingsTabs';
 
 const SettingsPage: React.FC = () => {
   return (
@@ -28,7 +28,7 @@ const SettingsPage: React.FC = () => {
         <SettingsTabs />
       </div>
     </AppShell>
-  )
-}
+  );
+};
 
-export default SettingsPage
+export default SettingsPage;

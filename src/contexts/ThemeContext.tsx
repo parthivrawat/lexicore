@@ -16,7 +16,6 @@ const ThemeContext = createContext<ThemeContextType | undefined>(undefined);
 export function ThemeProvider({ children }: { children: ReactNode }) {
   const [theme, setTheme] = useState<Theme>('system');
   const [resolvedTheme, setResolvedTheme] = useState<'light' | 'dark'>('light');
-  const [isDark, setIsDark] = useState(false);
 
   // Load theme from localStorage on mount
   useEffect(() => {
@@ -30,16 +29,15 @@ export function ThemeProvider({ children }: { children: ReactNode }) {
   useEffect(() => {
     const updateResolvedTheme = () => {
       let resolved: 'light' | 'dark';
-      
+
       if (theme === 'system') {
         resolved = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
       } else {
         resolved = theme;
       }
-      
+
       setResolvedTheme(resolved);
-      setIsDark(resolved === 'dark');
-      
+
       // Update document class for Tailwind
       if (resolved === 'dark') {
         document.documentElement.classList.add('dark');
@@ -53,9 +51,9 @@ export function ThemeProvider({ children }: { children: ReactNode }) {
     // Listen for system theme changes
     const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
     const handleChange = () => updateResolvedTheme();
-    
+
     mediaQuery.addEventListener('change', handleChange);
-    
+
     return () => mediaQuery.removeEventListener('change', handleChange);
   }, [theme]);
 
@@ -64,13 +62,17 @@ export function ThemeProvider({ children }: { children: ReactNode }) {
     localStorage.setItem('theme', theme);
   }, [theme]);
 
+  const isDark = resolvedTheme === 'dark';
+
   return (
-    <ThemeContext.Provider value={{ 
-      theme, 
-      setTheme, 
-      resolvedTheme, 
-      isDark 
-    }}>
+    <ThemeContext.Provider
+      value={{
+        theme,
+        setTheme,
+        resolvedTheme,
+        isDark,
+      }}
+    >
       {children}
     </ThemeContext.Provider>
   );

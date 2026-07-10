@@ -1,20 +1,32 @@
 import { Link } from 'react-router-dom';
+import { useLanguageData } from '@/hooks/useLanguageData';
 import { ROUTES } from '@/constants';
-import { rootsEn } from '@/data/roots';
-import { vocabularyEn } from '@/data/vocabulary';
 
 export function SampleContentPreview() {
+  const { roots, vocabulary, isLoading } = useLanguageData();
+
+  if (isLoading) {
+    return (
+      <div className="text-center py-12 text-gray-500 dark:text-gray-400">
+        Loading sample content...
+      </div>
+    );
+  }
+
   return (
     <div className="grid gap-8 lg:grid-cols-2 animate-slide-up" style={{ animationDelay: '0.3s' }}>
       <div className="bg-white dark:bg-gray-800 rounded-2xl border border-gray-200/50 dark:border-gray-700/50 p-6 shadow-soft">
         <div className="flex items-center justify-between mb-4">
           <h3 className="text-lg font-bold text-gray-900 dark:text-white">Sample Roots</h3>
-          <Link to={ROUTES.roots} className="text-sm font-semibold text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 transition-colors">
+          <Link
+            to={ROUTES.roots}
+            className="text-sm font-semibold text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 transition-colors"
+          >
             View all
           </Link>
         </div>
         <div className="space-y-3">
-          {rootsEn.slice(0, 3).map((root) => (
+          {roots.slice(0, 3).map(root => (
             <Link
               key={root.id}
               to={`/roots/${root.id}`}
@@ -38,12 +50,15 @@ export function SampleContentPreview() {
       <div className="bg-white dark:bg-gray-800 rounded-2xl border border-gray-200/50 dark:border-gray-700/50 p-6 shadow-soft">
         <div className="flex items-center justify-between mb-4">
           <h3 className="text-lg font-bold text-gray-900 dark:text-white">Sample Vocabulary</h3>
-          <Link to={ROUTES.vocabulary} className="text-sm font-semibold text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 transition-colors">
+          <Link
+            to={ROUTES.vocabulary}
+            className="text-sm font-semibold text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 transition-colors"
+          >
             View all
           </Link>
         </div>
         <div className="space-y-3">
-          {vocabularyEn.slice(0, 3).map((word) => (
+          {vocabulary.slice(0, 3).map(word => (
             <Link
               key={word.id}
               to={`/vocabulary/${word.id}`}

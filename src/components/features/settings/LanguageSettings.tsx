@@ -1,6 +1,7 @@
 'use client';
 
 import { useSettings } from '@/contexts/SettingsContext';
+import type { LearningLanguage } from '@/types/settings';
 
 export function LanguageSettings() {
   const { settings, updateSetting } = useSettings();
@@ -18,7 +19,7 @@ export function LanguageSettings() {
         </label>
         <select
           value={settings.uiLanguage}
-          onChange={(e) => updateSetting('uiLanguage', e.target.value as 'en' | 'fr')}
+          onChange={e => updateSetting('uiLanguage', e.target.value as 'en' | 'fr')}
           className="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-900 dark:text-white focus:border-accent-500 focus:ring-2 focus:ring-accent-500 focus:ring-offset-2"
         >
           <option value="en">🇺🇸 English</option>
@@ -36,7 +37,7 @@ export function LanguageSettings() {
         </label>
         <select
           value={settings.learningLanguage}
-          onChange={(e) => updateSetting('learningLanguage', e.target.value as 'english' | 'french' | 'spanish' | 'latin' | 'greek')}
+          onChange={e => updateSetting('learningLanguage', e.target.value as LearningLanguage)}
           className="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-900 dark:text-white focus:border-accent-500 focus:ring-2 focus:ring-accent-500 focus:ring-offset-2"
         >
           <option value="english">🇬🇧 English</option>

@@ -1,3 +1,4 @@
+import { memo } from 'react';
 import { WordRoot } from '@/types';
 import { formatRootType } from '@/utils/format';
 import { useLanguage } from '@/contexts/LanguageContext';
@@ -7,7 +8,7 @@ interface RootCardProps {
   root: WordRoot;
 }
 
-export function RootCard({ root }: RootCardProps) {
+export const RootCard = memo(function RootCard({ root }: RootCardProps) {
   const { uiLanguage } = useLanguage();
 
   return (
@@ -23,4 +24,4 @@ export function RootCard({ root }: RootCardProps) {
       to={`/roots/${encodeURIComponent(root.id)}`}
     />
   );
-}
+});

@@ -35,7 +35,6 @@ export function getSearchResultId(item: SearchItem): string {
   return `${item.kind}:${item.id}`;
 }
 
-
 export function formatAccentName(accent: AccentType, language: 'en' | 'fr' = 'en'): string {
   return ACCENT_NAMES[accent][language];
 }

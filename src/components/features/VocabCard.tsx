@@ -1,3 +1,4 @@
+import { memo } from 'react';
 import { VocabWord } from '@/types';
 import { formatCategory } from '@/utils/format';
 import { useLanguage } from '@/contexts/LanguageContext';
@@ -7,7 +8,7 @@ interface VocabCardProps {
   word: VocabWord;
 }
 
-export function VocabCard({ word }: VocabCardProps) {
+export const VocabCard = memo(function VocabCard({ word }: VocabCardProps) {
   const { uiLanguage } = useLanguage();
 
   return (
@@ -22,4 +23,4 @@ export function VocabCard({ word }: VocabCardProps) {
       to={`/vocabulary/${encodeURIComponent(word.id)}`}
     />
   );
-}
+});

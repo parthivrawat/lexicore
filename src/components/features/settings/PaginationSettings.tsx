@@ -23,7 +23,7 @@ export function PaginationSettings() {
             max="50"
             step="5"
             value={settings.itemsPerPage}
-            onChange={(e) => updateSetting('itemsPerPage', Number(e.target.value))}
+            onChange={e => updateSetting('itemsPerPage', Number(e.target.value))}
             className="flex-1 h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer dark:bg-gray-700"
           />
           <span className="text-sm font-medium text-gray-600 dark:text-gray-400 min-w-12">

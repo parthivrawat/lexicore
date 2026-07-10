@@ -1,11 +1,8 @@
 'use client';
 
 import { createContext, useContext, useState, ReactNode } from 'react';
-import { AppSettings } from '@/types/settings';
-import { 
-  PAGINATION, 
-  TTS_CONFIG
-} from '@/constants';
+import { AppSettings, LearningLanguage } from '@/types/settings';
+import { PAGINATION, TTS_CONFIG } from '@/constants';
 
 interface SettingsContextType {
   settings: AppSettings;
@@ -32,13 +29,20 @@ export function useSettings() {
   return context;
 }
 
+const isValidLearningLanguage = (value: unknown): value is LearningLanguage =>
+  ['english', 'french', 'spanish', 'latin', 'greek'].includes(value as string);
+
 export function SettingsProvider({ children }: { children: ReactNode }) {
   const [settings, setSettings] = useState<AppSettings>(() => {
     if (typeof window !== 'undefined') {
       const saved = localStorage.getItem('app-settings');
       if (saved) {
         try {
-          return { ...defaultSettings, ...JSON.parse(saved) };
+          const parsed = JSON.parse(saved) as Partial<AppSettings>;
+          const learningLanguage = isValidLearningLanguage(parsed.learningLanguage)
+            ? parsed.learningLanguage
+            : defaultSettings.learningLanguage;
+          return { ...defaultSettings, ...parsed, learningLanguage };
         } catch {
           return defaultSettings;
         }

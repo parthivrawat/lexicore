@@ -7,7 +7,7 @@ import { SimpleThemeToggle } from '@/components/ui';
 export function AppShell({ children }: PropsWithChildren) {
   const { t } = useLanguage();
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
-  
+
   const navigationItems = [
     { to: ROUTES.home, label: 'Home', icon: '🏠' },
     { to: ROUTES.roots, label: 'Roots', icon: '🌱' },
@@ -16,12 +16,18 @@ export function AppShell({ children }: PropsWithChildren) {
   ];
 
   return (
-      <div className="min-h-screen bg-gray-50 dark:bg-gray-900 theme-transition">
+    <div className="min-h-screen bg-gray-50 dark:bg-gray-900 theme-transition">
       <header className="sticky top-0 z-50 glass-morphism border-b border-gray-200 dark:border-gray-700 shadow-soft">
         <div className="mx-auto flex max-w-7xl items-center justify-between gap-2 px-3 py-3 sm:gap-4 sm:px-4 sm:py-4 md:px-6 lg:px-8">
           <div className="min-w-0 flex-1">
-            <Link to={ROUTES.home} className="flex items-center gap-2 sm:gap-3 hover:opacity-80 transition-opacity">
-              <div className="flex h-8 w-8 items-center justify-center rounded-xl gradient-primary shadow-soft sm:h-10 sm:w-10">
+            <Link
+              to={ROUTES.home}
+              className="flex items-center gap-2 sm:gap-3 hover:opacity-80 transition-opacity"
+            >
+              <div
+                className="flex h-8 w-8 items-center justify-center rounded-xl gradient-primary shadow-soft sm:h-10 sm:w-10"
+                aria-hidden="true"
+              >
                 <span className="text-base font-bold text-white sm:text-lg">📖</span>
               </div>
               <div>
@@ -37,13 +43,16 @@ export function AppShell({ children }: PropsWithChildren) {
 
           {/* Desktop Navigation */}
           <nav className="hidden items-center gap-1 md:flex">
-            {navigationItems.map((item) => (
+            {navigationItems.map(item => (
               <Link
                 key={item.to}
                 to={item.to}
                 className="group flex items-center gap-2 rounded-xl px-4 py-2 text-sm font-medium text-gray-600 dark:text-gray-300 transition-all duration-200 hover:bg-gray-100 dark:hover:bg-gray-800 hover:text-gray-900 dark:hover:text-white hover:shadow-soft"
               >
-                <span className="text-base transition-transform duration-200 group-hover:scale-110">
+                <span
+                  className="text-base transition-transform duration-200 group-hover:scale-110"
+                  aria-hidden="true"
+                >
                   {item.icon}
                 </span>
                 <span>{item.label}</span>
@@ -54,15 +63,21 @@ export function AppShell({ children }: PropsWithChildren) {
           {/* Theme Toggle and Mobile Menu */}
           <div className="flex items-center gap-3">
             <SimpleThemeToggle />
-            
+
             {/* Mobile menu button */}
-            <button 
+            <button
               onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
               className="flex h-9 w-9 items-center justify-center rounded-xl text-gray-600 dark:text-gray-300 transition-colors hover:bg-gray-100 dark:hover:bg-gray-800 hover:text-gray-900 dark:hover:text-white md:hidden"
               aria-label="Toggle menu"
+              aria-expanded={isMobileMenuOpen}
             >
               <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth={2}
+                  d="M4 6h16M4 12h16M4 18h16"
+                />
               </svg>
             </button>
           </div>
@@ -72,14 +87,14 @@ export function AppShell({ children }: PropsWithChildren) {
         {isMobileMenuOpen && (
           <nav className="border-t border-gray-200/50 dark:border-gray-700/50 bg-gray-50/50 dark:bg-gray-900/50 px-4 py-3 md:hidden animate-fade-in">
             <div className="flex flex-col gap-2">
-              {navigationItems.map((item) => (
+              {navigationItems.map(item => (
                 <Link
                   key={item.to}
                   to={item.to}
                   onClick={() => setIsMobileMenuOpen(false)}
                   className="flex items-center gap-3 rounded-lg px-3 py-2 text-sm font-medium text-gray-600 dark:text-gray-300 transition-colors hover:bg-gray-100 dark:hover:bg-gray-800 hover:text-gray-900 dark:hover:text-white"
                 >
-                  <span>{item.icon}</span>
+                  <span aria-hidden="true">{item.icon}</span>
                   <span>{item.label}</span>
                 </Link>
               ))}
@@ -87,7 +102,7 @@ export function AppShell({ children }: PropsWithChildren) {
               <div className="mt-3">
                 <div className="text-xs text-gray-500 dark:text-gray-400">
                   <span className="inline-flex items-center gap-1">
-                    <span>🔍</span>
+                    <span aria-hidden="true">🔍</span>
                     <span>Language settings available in Settings</span>
                   </span>
                 </div>
@@ -104,7 +119,10 @@ export function AppShell({ children }: PropsWithChildren) {
       <footer className="mt-auto border-t border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
         <div className="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8 sm:py-8">
           <div className="flex flex-col items-center gap-3 text-center sm:gap-4">
-            <div className="flex h-10 w-10 items-center justify-center rounded-full gradient-primary shadow-soft sm:h-12 sm:w-12">
+            <div
+              className="flex h-10 w-10 items-center justify-center rounded-full gradient-primary shadow-soft sm:h-12 sm:w-12"
+              aria-hidden="true"
+            >
               <span className="text-lg font-bold text-white sm:text-xl">📖</span>
             </div>
             <div>

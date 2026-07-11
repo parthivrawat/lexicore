@@ -41,6 +41,7 @@ This project follows modern React + Vite best practices with a clear separation 
 - **Multi-language Context**: Language context for future internationalization
 - **Theme Support**: Theme context for light/dark mode
 - **Settings Management**: User preferences and settings
+- **PWA Support**: Installable web app with service worker and web app manifest
 
 ## 🚀 Quick Start
 
@@ -155,6 +156,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 - ✅ Responsive design
 - ✅ Static export capability
 - ✅ Professional component architecture
+- ✅ PWA support with service worker and web app manifest
 - ✅ Comprehensive documentation
 
 ### Future Expansion

@@ -36,6 +36,7 @@ Welcome to the documentation for LexiCore - Word Roots & Core Vocabulary Platfor
    - Theme support (light/dark mode)
    - Settings management
    - Responsive design
+   - PWA support with offline-ready service worker and installable web app manifest
 
 ## 🏗️ Architecture Highlights
 

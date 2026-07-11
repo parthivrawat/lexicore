@@ -5,6 +5,7 @@ node_modules
 dist
 build
 out
+dev-dist
 
 # Environment variables
 .env*
@@ -83,7 +84,6 @@ dist
 
 # Gatsby files
 .cache/
-public
 
 # Storybook build outputs
 .out
@@ -107,4 +107,4 @@ temp/
 # Deployment configuration
 app.yaml
 *.yaml
-!vite.config.ts
+!app.yaml

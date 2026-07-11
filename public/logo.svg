@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="LexiCore logo">
+  <defs>
+    <linearGradient id="brand-gradient" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0ea5e9"/>
+      <stop offset="1" stop-color="#d946ef"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#brand-gradient)"/>
+  <rect x="146" y="116" width="220" height="280" rx="24" fill="white"/>
+  <rect x="146" y="116" width="56" height="280" rx="24" fill="white" opacity="0.85"/>
+  <rect x="318" y="132" width="32" height="248" rx="8" fill="white" opacity="0.6"/>
+  <path d="M318 320 l24 64 l24 -64 h-48 z" fill="#f59e0b"/>
+</svg>

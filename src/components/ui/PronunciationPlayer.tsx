@@ -45,6 +45,7 @@ export function PronunciationPlayer({ variants, word, className = '' }: Pronunci
 
     if (!audioRef.current) {
       audioRef.current = new Audio();
+      audioRef.current.preload = 'none';
     }
     const audio = audioRef.current;
 
@@ -52,9 +53,8 @@ export function PronunciationPlayer({ variants, word, className = '' }: Pronunci
       audio.src = resolvedAudioUrl;
       audio.onended = () => setIsPlaying(false);
       audio.onerror = () => {
-        // Fallback to browser TTS if the audio asset fails to load
+        // Only reset playback state; user-initiated fallback is handled in playPronunciation
         setIsPlaying(false);
-        speakWithTts();
       };
     } else {
       audio.pause();

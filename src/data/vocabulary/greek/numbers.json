@@ -1,0 +1,93 @@
+[
+  {
+    "id": "word_el_ena",
+    "word": "ένα",
+    "meaning": "one",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "e.na"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Ένα μήλο στο τραπέζι.", "Ένα, δύο, τρία."]
+  },
+  {
+    "id": "word_el_dio",
+    "word": "δύο",
+    "meaning": "two",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ði.o"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Έχω δύο αδέρφια.", "Δύο μέρες μένουν."]
+  },
+  {
+    "id": "word_el_tria",
+    "word": "τρία",
+    "meaning": "three",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "tɾi.a"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Τρία λεπτά παρακαλώ.", "Έχω τρία βιβλία."]
+  },
+  {
+    "id": "word_el_tessera",
+    "word": "τέσσερα",
+    "meaning": "four",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ˈte.se.ɾa"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Το σπίτι έχει τέσσερα δωμάτια.", "Τέσσερα χρώματα."]
+  },
+  {
+    "id": "word_el_pente",
+    "word": "πέντε",
+    "meaning": "five",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ˈpen.de"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Πέντε δάχτυλα στο χέρι.", "Έρχομαι σε πέντε λεπτά."]
+  },
+  {
+    "id": "word_el_deka",
+    "word": "δέκα",
+    "meaning": "ten",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ðe.ka"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Δέκα ευρώ.", "Μετράω μέχρι δέκα."]
+  },
+  {
+    "id": "word_el_ekato",
+    "word": "εκατό",
+    "meaning": "one hundred",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "e.kaˈto"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Εκατό χρόνια.", "Το δωμάτιο κοστίζει εκατό."]
+  }
+]

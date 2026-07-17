@@ -1,0 +1,93 @@
+[
+  {
+    "id": "word_es_aqui",
+    "word": "aquí",
+    "meaning": "here",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "aˈki"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Estoy aquí.", "Ven aquí."]
+  },
+  {
+    "id": "word_es_alli",
+    "word": "allí",
+    "meaning": "there",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "aˈʎi"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Ella está allí.", "Allí hay un banco."]
+  },
+  {
+    "id": "word_es_ahora",
+    "word": "ahora",
+    "meaning": "now",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "aˈo.ɾa"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Quiero ir ahora.", "Ahora no puedo."]
+  },
+  {
+    "id": "word_es_despues",
+    "word": "después",
+    "meaning": "after/later",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "desˈpwes"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Nos vemos después.", "Después de comer, descansamos."]
+  },
+  {
+    "id": "word_es_bien",
+    "word": "bien",
+    "meaning": "well",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "bjen"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Estoy bien.", "Lo hiciste bien."]
+  },
+  {
+    "id": "word_es_muy",
+    "word": "muy",
+    "meaning": "very",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "muj"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Estoy muy cansado.", "Es muy bonito."]
+  },
+  {
+    "id": "word_es_siempre",
+    "word": "siempre",
+    "meaning": "always",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈsjem.pɾe"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Siempre llegas tarde.", "Te quiero siempre."]
+  }
+]

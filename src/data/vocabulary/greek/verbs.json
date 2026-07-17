@@ -1,0 +1,93 @@
+[
+  {
+    "id": "word_el_eimai",
+    "word": "είμαι",
+    "meaning": "to be",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ˈi.me"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Είμαι χαρούμενος.", "Είμαι στο σπίτι."]
+  },
+  {
+    "id": "word_el_exo",
+    "word": "έχω",
+    "meaning": "to have",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "e.ˈxo"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Έχω ένα αυτοκίνητο.", "Έχεις χρόνο;"]
+  },
+  {
+    "id": "word_el_kano",
+    "word": "κάνω",
+    "meaning": "to do/make",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ˈka.no"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Κάνω αθλήματα.", "Τι κάνεις;"]
+  },
+  {
+    "id": "word_el_pao",
+    "word": "πάω",
+    "meaning": "to go",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ˈpa.o"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Πάω στο σχολείο.", "Πάμε σινεμά;"]
+  },
+  {
+    "id": "word_el_blepo",
+    "word": "βλέπω",
+    "meaning": "to see",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ˈvle.po"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Βλέπω τη θάλασσα.", "Δεν βλέπω τίποτα."]
+  },
+  {
+    "id": "word_el_troo",
+    "word": "τρώω",
+    "meaning": "to eat",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ˈtɾo.o"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Τρώω πρωινό.", "Τρώμε μαζί."]
+  },
+  {
+    "id": "word_el_pino",
+    "word": "πίνω",
+    "meaning": "to drink",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ˈpi.no"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Πίνω νερό.", "Πίνουμε καφέ."]
+  }
+]

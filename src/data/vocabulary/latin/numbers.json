@@ -1,0 +1,93 @@
+[
+  {
+    "id": "word_la_unus",
+    "word": "ūnus",
+    "meaning": "one",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "uː.nus"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Ūnus puer adest.", "Ūnus est nēmō."]
+  },
+  {
+    "id": "word_la_duo",
+    "word": "duo",
+    "meaning": "two",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "du.o"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Duō librī in mēnsā sunt.", "Duo rēs necessāriae."]
+  },
+  {
+    "id": "word_la_tres",
+    "word": "trēs",
+    "meaning": "three",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "treːs"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Trēs fīliae habet.", "Trēs mīlitēs fortēs."]
+  },
+  {
+    "id": "word_la_quattuor",
+    "word": "quattuor",
+    "meaning": "four",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "kwat.tu.or"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Quattuor equī videntur.", "Quattuor portae urbī sunt."]
+  },
+  {
+    "id": "word_la_quinque",
+    "word": "quīnque",
+    "meaning": "five",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ˈkwiŋ.kwe"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Quīnque dēnāriī dēsunt.", "Quīnque pedēs longum est."]
+  },
+  {
+    "id": "word_la_decem",
+    "word": "decem",
+    "meaning": "ten",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "de.kem"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Decem annōs Rōmae vīxī.", "Decem virī conveniunt."]
+  },
+  {
+    "id": "word_la_centum",
+    "word": "centum",
+    "meaning": "one hundred",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ken.tum"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Centum mīlitēs pugnant.", "Centum dēnāriī sunt."]
+  }
+]

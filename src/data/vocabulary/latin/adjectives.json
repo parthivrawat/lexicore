@@ -1,0 +1,93 @@
+[
+  {
+    "id": "word_la_magnus",
+    "word": "magnus",
+    "meaning": "big, great",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "maɡ.nus"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Magnus est populus.", "Magnus amīcus est."]
+  },
+  {
+    "id": "word_la_parvus",
+    "word": "parvus",
+    "meaning": "small",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "par.wus"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Parvus est puer.", "Parva domus est."]
+  },
+  {
+    "id": "word_la_bonus",
+    "word": "bonus",
+    "meaning": "good",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "bo.nus"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Bonus vir est.", "Bonus est liber."]
+  },
+  {
+    "id": "word_la_malus",
+    "word": "malus",
+    "meaning": "bad",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ma.lus"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Malus est puer.", "Malum est bellum."]
+  },
+  {
+    "id": "word_la_pulcher",
+    "word": "pulcher",
+    "meaning": "beautiful",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "pul.ker"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Pulchra est puella.", "Rōma pulchra urbs est."]
+  },
+  {
+    "id": "word_la_felix",
+    "word": "fēlix",
+    "meaning": "happy, fortunate",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "feː.liks"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Fēlix est homō.", "Fēlix diēs est."]
+  },
+  {
+    "id": "word_la_longus",
+    "word": "longus",
+    "meaning": "long",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "loŋ.ɡus"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Longa via est.", "Longus est sermō."]
+  }
+]

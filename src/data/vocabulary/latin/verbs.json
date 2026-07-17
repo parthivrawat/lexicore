@@ -1,0 +1,93 @@
+[
+  {
+    "id": "word_la_sum",
+    "word": "sum",
+    "meaning": "I am",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "sum"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Sum laetus.", "Ego sum Rōmānus."]
+  },
+  {
+    "id": "word_la_est",
+    "word": "est",
+    "meaning": "he/she/it is",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "est"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Rōma urbs magna est.", "Vir bonus est."]
+  },
+  {
+    "id": "word_la_habeo",
+    "word": "habeō",
+    "meaning": "I have",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ha.be.oː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Habeō librum bonum.", "Nōn habeō pecūniam."]
+  },
+  {
+    "id": "word_la_ago",
+    "word": "agō",
+    "meaning": "I do; drive",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "a.ɡoː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Quid agis?", "Agō vitam bonam."]
+  },
+  {
+    "id": "word_la_facio",
+    "word": "faciō",
+    "meaning": "I make; do",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "fa.ki.oː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Faciō cēnam parātam.", "Quid facis?"]
+  },
+  {
+    "id": "word_la_dico",
+    "word": "dīcō",
+    "meaning": "I say",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "diː.koː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Dīcō verbum.", "Senātor dīcit."]
+  },
+  {
+    "id": "word_la_video",
+    "word": "videō",
+    "meaning": "I see",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "wi.de.oː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Tē videō.", "Rēgem in forō videō."]
+  }
+]

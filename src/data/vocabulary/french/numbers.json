@@ -1,0 +1,821 @@
+[
+  {
+    "id": "word_un",
+    "word": "un",
+    "meaning": "the number 1",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "œ̃"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "œ̃"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "œ̃"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["J'ai un chat.", "Un plus un égale deux."]
+  },
+  {
+    "id": "word_deux",
+    "word": "deux",
+    "meaning": "the number 2",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "dø"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "dø"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "dø"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Il y a deux livres.", "Je veux deux cafés."]
+  },
+  {
+    "id": "word_trois",
+    "word": "trois",
+    "meaning": "the number 3",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "tʁwa"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "tʁwa"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "tʁwa"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Trois personnes sont venues.", "Le numéro trois porte bonheur."]
+  },
+  {
+    "id": "word_quatre",
+    "word": "quatre",
+    "meaning": "the number 4",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "katʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "katʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "katʁ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Quatre saisons dans l'année.", "J'ai quatre frères."]
+  },
+  {
+    "id": "word_cinq",
+    "word": "cinq",
+    "meaning": "the number 5",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "sɛ̃k"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "sɛ̃k"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "sɛ̃k"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Cinq doigts sur la main.", "Donnez-moi cinq minutes."]
+  },
+  {
+    "id": "word_six",
+    "word": "six",
+    "meaning": "the number 6",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "sis"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "sis"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "sis"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Six œufs dans la boîte.", "Le film commence à six heures."]
+  },
+  {
+    "id": "word_sept",
+    "word": "sept",
+    "meaning": "the number 7",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "sɛt"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "sɛt"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "sɛt"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Sept jours dans la semaine.", "Elle a sept ans."]
+  },
+  {
+    "id": "word_huit",
+    "word": "huit",
+    "meaning": "the number 8",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "ɥit"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "ɥit"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "ɥit"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Huit personnes ont assisté.", "Le bus arrive à huit heures."]
+  },
+  {
+    "id": "word_neuf",
+    "word": "neuf",
+    "meaning": "the number 9",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "nœf"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "nœf"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "nœf"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Neuf vies d'un chat.", "J'ai neuf livres."]
+  },
+  {
+    "id": "word_dix",
+    "word": "dix",
+    "meaning": "the number 10",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "dis"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "dis"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "dis"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Dix doigts sur les deux mains.", "Note parfaite: dix sur dix."]
+  },
+  {
+    "id": "word_onze",
+    "word": "onze",
+    "meaning": "the number 11",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "ɔ̃z"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "ɔ̃z"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "ɔ̃z"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Onze joueurs dans une équipe.", "Il arrive à onze heures."]
+  },
+  {
+    "id": "word_douze",
+    "word": "douze",
+    "meaning": "the number 12",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "duz"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "duz"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "duz"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Douze mois dans l'année.", "Une douzaine signifie douze."]
+  },
+  {
+    "id": "word_vingt",
+    "word": "vingt",
+    "meaning": "the number 20",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "vɛ̃"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "vɛ̃"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "vɛ̃"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Vingt euros.", "Elle a vingt ans."]
+  },
+  {
+    "id": "word_trente",
+    "word": "trente",
+    "meaning": "the number 30",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "tʁɑ̃t"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "tʁɑ̃t"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "tʁɑ̃t"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Trente étudiants dans la classe.", "Il fait trente degrés."]
+  },
+  {
+    "id": "word_cent",
+    "word": "cent",
+    "meaning": "the number 100",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "sɑ̃"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "sɑ̃"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "sɑ̃"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Cent personnes sont venues.", "Le livre a cent pages."]
+  },
+  {
+    "id": "word_mille",
+    "word": "mille",
+    "meaning": "the number 1000",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "mil"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "mil"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "mil"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Mille euros.", "Mille kilomètres."]
+  },
+  {
+    "id": "word_million",
+    "word": "million",
+    "meaning": "the number 1,000,000",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "miljɔ̃"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "miljɔ̃"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "miljɔ̃"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Un million de personnes ont regardé.", "Ça coûte un million d'euros."]
+  },
+  {
+    "id": "word_premier",
+    "word": "premier",
+    "meaning": "first",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "pʁəmje"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "pʁəmje"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "pʁəmje"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Premier prix.", "C'est ma première fois."]
+  },
+  {
+    "id": "word_deuxieme",
+    "word": "deuxième",
+    "meaning": "second",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "døzjɛm"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "døzjɛm"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "døzjɛm"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Deuxième place.", "Attendez une seconde."]
+  },
+  {
+    "id": "word_troisieme",
+    "word": "troisième",
+    "meaning": "third",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "tʁwazjɛm"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "tʁwazjɛm"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "tʁwazjɛm"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Troisième étage.", "Elle est arrivée troisième."]
+  },
+  {
+    "id": "word_quatrieme",
+    "word": "quatrième",
+    "meaning": "fourth",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "katʁijɛm"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "katʁijɛm"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "katʁijɛm"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Quatrième place.", "Le quatrième mois."]
+  },
+  {
+    "id": "word_cinquieme",
+    "word": "cinquième",
+    "meaning": "fifth",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "sɛ̃kjɛm"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "sɛ̃kjɛm"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "sɛ̃kjɛm"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Cinquième avenue.", "C'est le cinquième jour."]
+  },
+  {
+    "id": "word_sixieme",
+    "word": "sixième",
+    "meaning": "sixth",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "sizjɛm"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "sizjɛm"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "sizjɛm"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Sixième sens.", "Le sixième chapitre."]
+  },
+  {
+    "id": "word_septieme",
+    "word": "septième",
+    "meaning": "seventh",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "sɛtjɛm"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "sɛtjɛm"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "sɛtjɛm"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Septième ciel.", "Le septième jour."]
+  },
+  {
+    "id": "word_huitieme",
+    "word": "huitième",
+    "meaning": "eighth",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "ɥitjɛm"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "ɥitjɛm"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "ɥitjɛm"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Huitième note.", "Le huitième mois."]
+  },
+  {
+    "id": "word_neuvieme",
+    "word": "neuvième",
+    "meaning": "ninth",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "nœvjɛm"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "nœvjɛm"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "nœvjɛm"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Neuvième inning.", "Le neuvième cercle."]
+  },
+  {
+    "id": "word_dixieme",
+    "word": "dixième",
+    "meaning": "tenth",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "dizjɛm"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "dizjɛm"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "dizjɛm"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Dixième anniversaire.", "Le dixième étage."]
+  },
+  {
+    "id": "word_zero",
+    "word": "zéro",
+    "meaning": "zero",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "zeʁo"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "zeʁo"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "zeʁo"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Zéro degré.", "Zéro absolu."]
+  },
+  {
+    "id": "word_quarante",
+    "word": "quarante",
+    "meaning": "forty",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "kaʁɑ̃t"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "kaʁɑ̃t"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "kaʁɑ̃t"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Quarante winks.", "Plus de quarante ans."]
+  },
+  {
+    "id": "word_cinquante",
+    "word": "cinquante",
+    "meaning": "fifty",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "sɛ̃kɑ̃t"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "sɛ̃kɑ̃t"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "sɛ̃kɑ̃t"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Cinquante états.", "Cinquante-cinquante chance."]
+  },
+  {
+    "id": "word_soixante",
+    "word": "soixante",
+    "meaning": "sixty",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "swasɑ̃t"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "swasɑ̃t"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "swasɑ̃t"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Soixante minutes.", "Soixante ans."]
+  },
+  {
+    "id": "word_soixante_dix",
+    "word": "soixante-dix",
+    "meaning": "seventy",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "swasɑ̃t dis"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "swasɑ̃t dis"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "swasɑ̃t dis"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Soixante-dix degrés.", "Soixante-dix kilomètres."]
+  },
+  {
+    "id": "word_quatre_vingt",
+    "word": "quatre-vingt",
+    "meaning": "eighty",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "katʁ vɛ̃"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "katʁ vɛ̃"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "katʁ vɛ̃"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Quatre-vingt jours.", "Quatre-vingt pour cent."]
+  },
+  {
+    "id": "word_quatre_vingt_dix",
+    "word": "quatre-vingt-dix",
+    "meaning": "ninety",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "katʁ vɛ̃ dis"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "katʁ vɛ̃ dis"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "katʁ vɛ̃ dis"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Quatre-vingt-dix degrés.", "Quatre-vingt-dix pour cent."]
+  },
+  {
+    "id": "word_milliard",
+    "word": "milliard",
+    "meaning": "billion",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "miljaʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "miljaʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "miljaʁ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Un milliard de dollars.", "Des milliards d'étoiles."]
+  },
+  {
+    "id": "word_demi",
+    "word": "demi",
+    "meaning": "half",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "dəmi"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "dəmi"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "dəmi"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Demi-heure.", "À moitié vide."]
+  },
+  {
+    "id": "word_quart",
+    "word": "quart",
+    "meaning": "quarter",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "kaʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "kaʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "kaʁ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Quart passé trois.", "Un quart de dollar."]
+  },
+  {
+    "id": "word_double",
+    "word": "double",
+    "meaning": "double",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "dubl"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "dubl"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "dubl"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Double vérification.", "Double la quantité."]
+  },
+  {
+    "id": "word_triple",
+    "word": "triple",
+    "meaning": "triple",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "tʁipl"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "tʁipl"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "tʁipl"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Triple menace.", "Saut triple."]
+  }
+]

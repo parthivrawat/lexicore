@@ -1,0 +1,93 @@
+[
+  {
+    "id": "word_es_hola",
+    "word": "hola",
+    "meaning": "hello",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈola"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Hola, ¿cómo estás?", "Hola, buenos días."]
+  },
+  {
+    "id": "word_es_adios",
+    "word": "adiós",
+    "meaning": "goodbye",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "aˈðjos"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Adiós, hasta mañana.", "Se despidió con un adiós."]
+  },
+  {
+    "id": "word_es_buenos_dias",
+    "word": "buenos días",
+    "meaning": "good morning",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈbwe.ɾos ˈði.as"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Buenos días, ¿cómo amaneciste?", "Les deseo buenos días."]
+  },
+  {
+    "id": "word_es_buenas_noches",
+    "word": "buenas noches",
+    "meaning": "good night",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈbwe.nas ˈno.tʃes"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Buenas noches, duerme bien.", "Nos despedimos con buenas noches."]
+  },
+  {
+    "id": "word_es_gracias",
+    "word": "gracias",
+    "meaning": "thank you",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈɡɾa.θjas"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Gracias por tu ayuda.", "Muchas gracias."]
+  },
+  {
+    "id": "word_es_por_favor",
+    "word": "por favor",
+    "meaning": "please",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "poɾ faˈβoɾ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Un café, por favor.", "Pasa, por favor."]
+  },
+  {
+    "id": "word_es_de_nada",
+    "word": "de nada",
+    "meaning": "you're welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ðe ˈna.ða"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Gracias. - De nada.", "De nada, es un placer."]
+  }
+]

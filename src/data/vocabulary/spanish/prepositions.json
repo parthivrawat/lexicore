@@ -1,0 +1,93 @@
+[
+  {
+    "id": "word_es_en",
+    "word": "en",
+    "meaning": "in/on/at",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "en"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Estoy en casa.", "Voy en coche."]
+  },
+  {
+    "id": "word_es_de",
+    "word": "de",
+    "meaning": "of/from",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ðe"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Es de España.", "Un vaso de agua."]
+  },
+  {
+    "id": "word_es_a",
+    "word": "a",
+    "meaning": "to/at",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "a"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Voy a casa.", "A las tres."]
+  },
+  {
+    "id": "word_es_con",
+    "word": "con",
+    "meaning": "with",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "kon"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Voy con amigos.", "Café con leche."]
+  },
+  {
+    "id": "word_es_sin",
+    "word": "sin",
+    "meaning": "without",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "sin"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Voy sin paraguas.", "Sin ti no puedo."]
+  },
+  {
+    "id": "word_es_por",
+    "word": "por",
+    "meaning": "for/by/through",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "poɾ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Paso por tu casa.", "Gracias por venir."]
+  },
+  {
+    "id": "word_es_para",
+    "word": "para",
+    "meaning": "for/in order to",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈpa.ɾa"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Es para ti.", "Voy para allá."]
+  }
+]

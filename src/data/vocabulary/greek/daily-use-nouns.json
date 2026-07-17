@@ -1,0 +1,93 @@
+[
+  {
+    "id": "word_el_spiti",
+    "word": "σπίτι",
+    "meaning": "house",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ˈspi.ti"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Το σπίτι μου είναι μικρό.", "Πάω στο σπίτι."]
+  },
+  {
+    "id": "word_el_nero",
+    "word": "νερό",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ne.ˈɾo"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Θέλω νερό.", "Το νερό είναι κρύο."]
+  },
+  {
+    "id": "word_el_fagito",
+    "word": "φαγητό",
+    "meaning": "food",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "fa.ʝi.ˈto"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Το φαγητό είναι νόστιμο.", "Μαγειρεύω φαγητό."]
+  },
+  {
+    "id": "word_el_oikogeneia",
+    "word": "οικογένεια",
+    "meaning": "family",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "i.ko.ˈʝe.ni.a"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Η οικογένειά μου είναι μεγάλη.", "Αγαπώ την οικογένειά μου."]
+  },
+  {
+    "id": "word_el_douleia",
+    "word": "δουλειά",
+    "meaning": "work",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ðu.ˈʎa"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Η δουλειά είναι δύσκολη.", "Πάω στη δουλειά."]
+  },
+  {
+    "id": "word_el_sxoleio",
+    "word": "σχολείο",
+    "meaning": "school",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "sxo.ˈʎo"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Το σχολείο αρχίζει αύριο.", "Πάω στο σχολείο."]
+  },
+  {
+    "id": "word_el_filos",
+    "word": "φίλος",
+    "meaning": "friend",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ˈfi.los"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Ο φίλος μου είναι τίμιος.", "Έχω πολλούς φίλους."]
+  }
+]

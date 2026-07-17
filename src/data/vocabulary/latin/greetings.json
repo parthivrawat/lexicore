@@ -1,0 +1,93 @@
+[
+  {
+    "id": "word_la_salve",
+    "word": "salve",
+    "meaning": "hello; be well",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "sal.we"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Salve, amīce!", "Salve, quid agis?"]
+  },
+  {
+    "id": "word_la_ave",
+    "word": "avē",
+    "meaning": "hail; farewell",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "a.weː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Avē, Caesar!", "Avē atque valē."]
+  },
+  {
+    "id": "word_la_vale",
+    "word": "valē",
+    "meaning": "goodbye; be strong",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "wa.leː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Valē, mī amīce!", "Valē et bonam fortūnam."]
+  },
+  {
+    "id": "word_la_bonum_diem",
+    "word": "bonum diem",
+    "meaning": "good day",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "bo.num di.em"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Bonum diem tibi optō.", "Bonum diem, dōmine."]
+  },
+  {
+    "id": "word_la_bonam_noctem",
+    "word": "bonam noctem",
+    "meaning": "good night",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "bo.nam nok.tem"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Bonam noctem, puerī!", "Bonam noctem et suāvia somnia."]
+  },
+  {
+    "id": "word_la_gratias_ago",
+    "word": "grātiās agō",
+    "meaning": "I thank; thank you",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ˈɡraː.ti.aːs a.ɡoː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Grātiās agō tibi.", "Multās grātiās tibi agō."]
+  },
+  {
+    "id": "word_la_ignosce",
+    "word": "ignōsce",
+    "meaning": "pardon; excuse me",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "iɡˈnoːs.ke"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Ignōsce mihi!", "Ignōsce, quaesō."]
+  }
+]

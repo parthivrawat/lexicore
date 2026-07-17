@@ -1,0 +1,93 @@
+[
+  {
+    "id": "word_es_casa",
+    "word": "casa",
+    "meaning": "house",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈka.sa"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Mi casa es azul.", "La casa tiene jardín."]
+  },
+  {
+    "id": "word_es_agua",
+    "word": "agua",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈa.ɣwa"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Necesito agua.", "El agua está fría."]
+  },
+  {
+    "id": "word_es_comida",
+    "word": "comida",
+    "meaning": "food",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "koˈmi.ða"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["La comida está lista.", "Me gusta la comida mexicana."]
+  },
+  {
+    "id": "word_es_familia",
+    "word": "familia",
+    "meaning": "family",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "faˈmi.lja"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Mi familia es grande.", "La familia es importante."]
+  },
+  {
+    "id": "word_es_trabajo",
+    "word": "trabajo",
+    "meaning": "work",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "tɾaˈβa.xo"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["El trabajo es interesante.", "Voy al trabajo."]
+  },
+  {
+    "id": "word_es_escuela",
+    "word": "escuela",
+    "meaning": "school",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "esˈkwe.la"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["La escuela es grande.", "Voy a la escuela."]
+  },
+  {
+    "id": "word_es_amigo",
+    "word": "amigo",
+    "meaning": "friend",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "aˈmi.ɣo"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Es mi mejor amigo.", "Tengo un amigo nuevo."]
+  }
+]

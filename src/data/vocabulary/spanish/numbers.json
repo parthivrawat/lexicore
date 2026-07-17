@@ -1,0 +1,93 @@
+[
+  {
+    "id": "word_es_uno",
+    "word": "uno",
+    "meaning": "one",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈu.no"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Tengo uno solo.", "El número uno es importante."]
+  },
+  {
+    "id": "word_es_dos",
+    "word": "dos",
+    "meaning": "two",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ðos"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Son dos hermanos.", "Dos cabezas piensan mejor."]
+  },
+  {
+    "id": "word_es_tres",
+    "word": "tres",
+    "meaning": "three",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "tɾes"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Tres deseos.", "Llegaron tres personas."]
+  },
+  {
+    "id": "word_es_diez",
+    "word": "diez",
+    "meaning": "ten",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈdjes"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Tengo diez euros.", "Cuenta hasta diez."]
+  },
+  {
+    "id": "word_es_cien",
+    "word": "cien",
+    "meaning": "one hundred",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "θjen"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Cien años de soledad.", "Ganó cien puntos."]
+  },
+  {
+    "id": "word_es_mil",
+    "word": "mil",
+    "meaning": "one thousand",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "mil"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Mil gracias.", "Hay mil razones."]
+  },
+  {
+    "id": "word_es_millon",
+    "word": "millón",
+    "meaning": "million",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "miˈʎon"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Un millón de dólares.", "Ganaron un millón."]
+  }
+]

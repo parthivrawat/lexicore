@@ -1,0 +1,93 @@
+[
+  {
+    "id": "word_el_megalos",
+    "word": "μεγάλος",
+    "meaning": "big",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "me.ˈɣa.los"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Το σπίτι είναι μεγάλο.", "Έχει μεγάλη καρδιά."]
+  },
+  {
+    "id": "word_el_mikros",
+    "word": "μικρός",
+    "meaning": "small",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "mi.ˈkɾos"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Ο σκύλος είναι μικρός.", "Μια μικρή λίμνη."]
+  },
+  {
+    "id": "word_el_kalos",
+    "word": "καλός",
+    "meaning": "good",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ka.ˈlos"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Είναι καλός άνθρωπος.", "Έχει καλή διάθεση."]
+  },
+  {
+    "id": "word_el_kakos",
+    "word": "κακός",
+    "meaning": "bad",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ka.ˈkos"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Ο καιρός είναι κακός.", "Αυτό είναι κακό σημάδι."]
+  },
+  {
+    "id": "word_el_omorfos",
+    "word": "όμορφος",
+    "meaning": "beautiful",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ˈo.moɾ.fos"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Η θέα είναι όμορφη.", "Μια όμορφη μέρα."]
+  },
+  {
+    "id": "word_el_haroumenos",
+    "word": "χαρούμενος",
+    "meaning": "happy",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "xa.ˈɾu.me.nos"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Είναι χαρούμενος σήμερα.", "Μια χαρούμενη οικογένεια."]
+  },
+  {
+    "id": "word_el_grigoros",
+    "word": "γρήγορος",
+    "meaning": "fast",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ˈɡɾi.ʝi.ɾos"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Ο δρομέας είναι γρήγορος.", "Ένα γρήγορο αυτοκίνητο."]
+  }
+]

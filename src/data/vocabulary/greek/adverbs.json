@@ -1,0 +1,93 @@
+[
+  {
+    "id": "word_el_edo",
+    "word": "εδώ",
+    "meaning": "here",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "e.ˈðo"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Είμαι εδώ.", "Έλα εδώ."]
+  },
+  {
+    "id": "word_el_ekei",
+    "word": "εκεί",
+    "meaning": "there",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "e.ˈci"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Είναι εκεί.", "Πάω εκεί αύριο."]
+  },
+  {
+    "id": "word_el_tora",
+    "word": "τώρα",
+    "meaning": "now",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ˈto.ɾa"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Θέλω να φύγω τώρα.", "Τώρα είναι η ώρα."]
+  },
+  {
+    "id": "word_el_meta",
+    "word": "μετά",
+    "meaning": "after",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "me.ˈta"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Θα έρθω μετά.", "Μετά το φαγητό."]
+  },
+  {
+    "id": "word_el_kala",
+    "word": "καλά",
+    "meaning": "well",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ka.ˈla"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Τα πάω καλά.", "Κάνω καλά τη δουλειά."]
+  },
+  {
+    "id": "word_el_poli",
+    "word": "πολύ",
+    "meaning": "very",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "po.ˈli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Είναι πολύ καλός.", "Πολύ ωραία!"]
+  },
+  {
+    "id": "word_el_panta",
+    "word": "πάντα",
+    "meaning": "always",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ˈpan.da"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Σε σκέφτομαι πάντα.", "Πάντα χαμογελάει."]
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "word_la_pater",
+    "word": "pater",
+    "meaning": "father",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "pa.ter"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Pater meus est agricola.", "Pater fīlium amat."]
+  },
+  {
+    "id": "word_la_mater",
+    "word": "māter",
+    "meaning": "mother",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "maː.ter"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Māter cēnam parat.", "Māter liberos amat."]
+  },
+  {
+    "id": "word_la_filius",
+    "word": "fīlius",
+    "meaning": "son",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "fiː.li.us"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Fīlius patrem adiuvat.", "Fīlius meus est parvus."]
+  },
+  {
+    "id": "word_la_filia",
+    "word": "fīlia",
+    "meaning": "daughter",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "fiː.li.a"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Fīlia mātrī auxilium dat.", "Fīlia est docta."]
+  },
+  {
+    "id": "word_la_domus",
+    "word": "domus",
+    "meaning": "house, home",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "do.mus"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Domus mea est rōmāna.", "Ad domum redeō."]
+  },
+  {
+    "id": "word_la_aqua",
+    "word": "aqua",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ak.wa"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Aqua frīgida est.", "Aqua vītae necessāria est."]
+  },
+  {
+    "id": "word_la_panis",
+    "word": "pānis",
+    "meaning": "bread",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "paː.nis"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Pānis in mēnsā est.", "Pānis et aqua coēnō."]
+  }
+]

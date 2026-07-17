@@ -1,0 +1,93 @@
+[
+  {
+    "id": "word_es_ser",
+    "word": "ser",
+    "meaning": "to be (essence)",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "seɾ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Quiero ser doctor.", "El cielo es azul."]
+  },
+  {
+    "id": "word_es_estar",
+    "word": "estar",
+    "meaning": "to be (state)",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "esˈtaɾ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Estoy cansado.", "Ella está en casa."]
+  },
+  {
+    "id": "word_es_tener",
+    "word": "tener",
+    "meaning": "to have",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "teˈneɾ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Tengo un libro.", "Tienes tiempo?"]
+  },
+  {
+    "id": "word_es_hacer",
+    "word": "hacer",
+    "meaning": "to do/make",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "aˈθeɾ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Voy a hacer la cena.", "Hace buen tiempo."]
+  },
+  {
+    "id": "word_es_ir",
+    "word": "ir",
+    "meaning": "to go",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "iɾ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Voy a la escuela.", "Vamos al parque."]
+  },
+  {
+    "id": "word_es_venir",
+    "word": "venir",
+    "meaning": "to come",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "beˈniɾ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Ven aquí, por favor.", "Viene de lejos."]
+  },
+  {
+    "id": "word_es_ver",
+    "word": "ver",
+    "meaning": "to see",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "beɾ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Te veo mañana.", "No puedo ver nada."]
+  }
+]

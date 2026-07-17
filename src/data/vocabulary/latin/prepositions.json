@@ -1,0 +1,93 @@
+[
+  {
+    "id": "word_la_in",
+    "word": "in",
+    "meaning": "in, into",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "in"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["In urbe sum.", "In domum eō."]
+  },
+  {
+    "id": "word_la_ad",
+    "word": "ad",
+    "meaning": "to, toward",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ad"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Ad Rōmam īmus.", "Ad te veniō."]
+  },
+  {
+    "id": "word_la_de",
+    "word": "dē",
+    "meaning": "from, about",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "deː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Dē Rōmā loquor.", "Dē monte descendit."]
+  },
+  {
+    "id": "word_la_cum",
+    "word": "cum",
+    "meaning": "with",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "kum"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Cum amīcīs veniō.", "Cum cūrā facit."]
+  },
+  {
+    "id": "word_la_sine",
+    "word": "sine",
+    "meaning": "without",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "si.ne"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Sine timore est.", "Sine aquā vīvere nōn possum."]
+  },
+  {
+    "id": "word_la_per",
+    "word": "per",
+    "meaning": "through",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "per"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Per viam ambulat.", "Per saxa cadit."]
+  },
+  {
+    "id": "word_la_pro",
+    "word": "pro",
+    "meaning": "for, before",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "pro"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Pro patria pugnat.", "Pro populo stat."]
+  }
+]

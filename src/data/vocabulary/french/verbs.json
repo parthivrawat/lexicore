@@ -1,0 +1,968 @@
+[
+  {
+    "id": "word_etre",
+    "word": "être",
+    "meaning": "to be",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "ɛtʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "ɛtʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "ɛtʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Je veux être heureux.", "Être ou ne pas être."]
+  },
+  {
+    "id": "word_avoir",
+    "word": "avoir",
+    "meaning": "to have",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "avwaʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "avwaʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "avwaʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["J'ai une voiture.", "Ils ont deux enfants."]
+  },
+  {
+    "id": "word_faire",
+    "word": "faire",
+    "meaning": "to do/make",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "fɛʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "fɛʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "fɛʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Que dois-je faire?", "Fais tes devoirs."]
+  },
+  {
+    "id": "word_dire",
+    "word": "dire",
+    "meaning": "to say",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "diʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "diʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "diʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Dis bonjour à elle.", "Qu'as-tu dit?"]
+  },
+  {
+    "id": "word_aller",
+    "word": "aller",
+    "meaning": "to go",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "ale"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "ale"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "ale"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Allons à la maison.", "Le train va à la ville."]
+  },
+  {
+    "id": "word_voir",
+    "word": "voir",
+    "meaning": "to see",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "vwaʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "vwaʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "vwaʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Je vois les montagnes.", "Peux-tu me voir?"]
+  },
+  {
+    "id": "word_savoir",
+    "word": "savoir",
+    "meaning": "to know",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "savwaʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "savwaʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "savwaʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Je sais la réponse.", "Sais-tu son nom?"]
+  },
+  {
+    "id": "word_pouvoir",
+    "word": "pouvoir",
+    "meaning": "to be able to",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "puvwaʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "puvwaʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "puvwaʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Je peux venir demain.", "Peux-tu m'aider?"]
+  },
+  {
+    "id": "word_vouloir",
+    "word": "vouloir",
+    "meaning": "to want",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "vulwaʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "vulwaʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "vulwaʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Je veux un café.", "Que veux-tu manger?"]
+  },
+  {
+    "id": "word_venir",
+    "word": "venir",
+    "meaning": "to come",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "vəniʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "vəniʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "vəniʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Viens demain.", "Elle vient de Paris."]
+  },
+  {
+    "id": "word_falloir",
+    "word": "falloir",
+    "meaning": "to need/must",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "falwaʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "falwaʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "falwaʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Il faut travailler.", "Il faut être patient."]
+  },
+  {
+    "id": "word_parler",
+    "word": "parler",
+    "meaning": "to speak",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "paʁle"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "paʁle"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "paʁle"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Je parle français.", "Parlez plus lentement."]
+  },
+  {
+    "id": "word_prendre",
+    "word": "prendre",
+    "meaning": "to take",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "pʁɑ̃dʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "pʁɑ̃dʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "pʁɑ̃dʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Prends ma main.", "Je prends le bus."]
+  },
+  {
+    "id": "word_donner",
+    "word": "donner",
+    "meaning": "to give",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "dɔne"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "dɔne"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "dɔne"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Donne-moi un livre.", "Elle donne des cours."]
+  },
+  {
+    "id": "word_comprendre",
+    "word": "comprendre",
+    "meaning": "to understand",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "kɔ̃pʁɑ̃dʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "kɔ̃pʁɑ̃dʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "kɔ̃pʁɑ̃dʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Je comprends la leçon.", "Tu comprends?"]
+  },
+  {
+    "id": "word_manger",
+    "word": "manger",
+    "meaning": "to eat",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "mɑ̃ʒe"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "mɑ̃ʒe"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "mɑ̃ʒe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Je mange une pomme.", "Mangeons ensemble."]
+  },
+  {
+    "id": "word_boire",
+    "word": "boire",
+    "meaning": "to drink",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "bwaʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "bwaʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "bwaʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Je bois de l'eau.", "Veux-tu boire quelque chose?"]
+  },
+  {
+    "id": "word_écrire",
+    "word": "écrire",
+    "meaning": "to write",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "ekʁiʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "ekʁiʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "ekʁiʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["J'écris une lettre.", "Écris ton nom."]
+  },
+  {
+    "id": "word_lire",
+    "word": "lire",
+    "meaning": "to read",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "liʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "liʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "liʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Je lis un livre.", "Elle lit le journal."]
+  },
+  {
+    "id": "word_travailler",
+    "word": "travailler",
+    "meaning": "to work",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "tʁavaje"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "tʁavaje"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "tʁavaje"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Je travaille à Paris.", "Travaillez dur!"]
+  },
+  {
+    "id": "word_pousser",
+    "word": "pousser",
+    "meaning": "to push",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "puse"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "puse"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "puse"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Pousse le bouton.", "Elle a poussé la porte."]
+  },
+  {
+    "id": "word_sauter",
+    "word": "sauter",
+    "meaning": "to jump",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "sote"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "sote"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "sote"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Saute par-dessus la clôture.", "Le chat a sauté."]
+  },
+  {
+    "id": "word_danser",
+    "word": "danser",
+    "meaning": "to dance",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "dɑ̃se"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "dɑ̃se"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "dɑ̃se"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Dansons!", "Elle danse magnifiquement."]
+  },
+  {
+    "id": "word_chanter",
+    "word": "chanter",
+    "meaning": "to sing",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "ʃɑ̃te"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "ʃɑ̃te"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "ʃɑ̃te"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Chante une chanson.", "Elle chante dans le chœur."]
+  },
+  {
+    "id": "word_dormir",
+    "word": "dormir",
+    "meaning": "to sleep",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "dɔʁmiʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "dɔʁmiʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "dɔʁmiʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Dors bien.", "Elle a dormi huit heures."]
+  },
+  {
+    "id": "word_rever",
+    "word": "rêver",
+    "meaning": "to dream",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "ʁeve"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "ʁeve"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "ʁeve"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Rêve grand.", "J'ai rêvé de toi."]
+  },
+  {
+    "id": "word_se_reveiller",
+    "word": "se réveiller",
+    "meaning": "to wake up",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "sə ʁeveje"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "sə ʁeveje"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "sə ʁeveje"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Réveille-toi tôt.", "Elle s'est réveillée à l'aube."]
+  },
+  {
+    "id": "word_cuisiner",
+    "word": "cuisiner",
+    "meaning": "to cook",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "kɥizine"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "kɥizine"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "kɥizine"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Cuisine le dîner.", "Il cuisine de délicieux repas."]
+  },
+  {
+    "id": "word_nettoyer",
+    "word": "nettoyer",
+    "meaning": "to clean",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "netwaje"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "netwaje"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "netwaje"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Nettoie ta chambre.", "Elle a nettoyé la maison."]
+  },
+  {
+    "id": "word_laver",
+    "word": "laver",
+    "meaning": "to wash",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "lave"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "lave"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "lave"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Lave tes mains.", "Lave la vaisselle."]
+  },
+  {
+    "id": "word_secher",
+    "word": "sécher",
+    "meaning": "to dry",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "seʃe"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "seʃe"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "seʃe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Sèche tes cheveux.", "Les vêtements ont séché."]
+  },
+  {
+    "id": "word_conduire",
+    "word": "conduire",
+    "meaning": "to drive",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "kɔndɥiʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "kɔndɥiʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "kɔndɥiʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Conduis prudemment.", "Elle conduit au travail."]
+  },
+  {
+    "id": "word_marcher",
+    "word": "marcher",
+    "meaning": "to walk",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "maʁʃe"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "maʁʃe"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "maʁʃe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Marche lentement.", "Je marche tous les jours."]
+  },
+  {
+    "id": "word_voler",
+    "word": "voler",
+    "meaning": "to fly",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "vɔle"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "vɔle"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "vɔle"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Vole à Paris.", "Les oiseaux volent sud en hiver."]
+  },
+  {
+    "id": "word_nager",
+    "word": "nager",
+    "meaning": "to swim",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "naʒe"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "naʒe"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "naʒe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Nage à travers le lac.", "Elle nage chaque matin."]
+  },
+  {
+    "id": "word_grimper",
+    "word": "grimper",
+    "meaning": "to climb",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "ɡʁɛ̃pe"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "ɡʁɛ̃pe"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "ɡʁɛ̃pe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Grimpe la montagne.", "Il a grimpé l'échelle."]
+  },
+  {
+    "id": "word_tomber",
+    "word": "tomber",
+    "meaning": "to fall",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "tɔ̃be"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "tɔ̃be"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "tɔ̃be"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Ne tombe pas!", "Les feuilles tombent en automne."]
+  },
+  {
+    "id": "word_attraper",
+    "word": "attraper",
+    "meaning": "to catch",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "atʁape"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "atʁape"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "atʁape"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Attrape la balle.", "Elle a attrapé le train."]
+  },
+  {
+    "id": "word_lancer",
+    "word": "lancer",
+    "meaning": "to throw",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "lɑ̃se"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "lɑ̃se"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "lɑ̃se"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Lance la balle.", "Il l'a jeté."]
+  },
+  {
+    "id": "word_frapper",
+    "word": "frapper",
+    "meaning": "to hit",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "fʁape"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "fʁape"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "fʁape"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Frappe la cible.", "La voiture a frappé le mur."]
+  },
+  {
+    "id": "word_coup_de_pied",
+    "word": "donner un coup de pied",
+    "meaning": "to kick",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "dɔne ku də pje"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "dɔne ku də pje"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "dɔne ku də pje"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Donne un coup de pied au ballon.", "Il a donné un coup de pied à la porte."]
+  },
+  {
+    "id": "word_mordre",
+    "word": "mordre",
+    "meaning": "to bite",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "mɔʁdʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "mɔʁdʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "mɔʁdʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Ne mords pas tes ongles.", "Le chien l'a mordu."]
+  },
+  {
+    "id": "word_choisir",
+    "word": "choisir",
+    "meaning": "to choose",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "ʃwaziʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "ʃwaziʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "ʃwaziʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Choisis sagement.", "Elle a choisi le rouge."]
+  },
+  {
+    "id": "word_aimer",
+    "word": "aimer",
+    "meaning": "to like/love",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "ɛme"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "ɛme"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "ɛme"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["J'aime le chocolat.", "Elle aime lire."]
+  },
+  {
+    "id": "word_detester",
+    "word": "détester",
+    "meaning": "to hate",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "deteste"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "deteste"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "deteste"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Je déteste attendre.", "Il déteste perdre."]
+  },
+  {
+    "id": "word_adorer",
+    "word": "adorer",
+    "meaning": "to love/adore",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "adɔʁe"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "adɔʁe"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "adɔʁe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Je t'adore.", "Elle adore le chocolat."]
+  }
+]

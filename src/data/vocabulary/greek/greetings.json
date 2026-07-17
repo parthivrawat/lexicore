@@ -1,0 +1,93 @@
+[
+  {
+    "id": "word_el_geia",
+    "word": "γειά",
+    "meaning": "hello",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ʝa"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Γειά, τι κάνεις;", "Γειά σου, φίλε μου."]
+  },
+  {
+    "id": "word_el_kalimera",
+    "word": "καλημέρα",
+    "meaning": "good morning",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ka.liˈme.ɾa"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Καλημέρα, πώς είσαι;", "Καλημέρα σε όλους."]
+  },
+  {
+    "id": "word_el_kalinixta",
+    "word": "καληνύχτα",
+    "meaning": "good night",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ka.liˈni.hta"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Καληνύχτα, γλυκιά μου.", "Καληνύχτα και όνειρα γλυκά."]
+  },
+  {
+    "id": "word_el_anti",
+    "word": "αντίο",
+    "meaning": "goodbye",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "a.ˈði.o"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Αντίο, τα λέμε αύριο.", "Είπε αντίο και έφυγε."]
+  },
+  {
+    "id": "word_el_efcharisto",
+    "word": "ευχαριστώ",
+    "meaning": "thank you",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "efxariˈsto"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Ευχαριστώ πολύ!", "Σε ευχαριστώ για τη βοήθεια."]
+  },
+  {
+    "id": "word_el_parakalo",
+    "word": "παρακαλώ",
+    "meaning": "please; you're welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "paɾakaˈlo"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Ένα νερό, παρακαλώ.", "Παρακαλώ, δεν κάνει τίποτα."]
+  },
+  {
+    "id": "word_el_signomi",
+    "word": "συγγνώμη",
+    "meaning": "sorry; excuse me",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "siɲˈɣnomi"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Συγγνώμη, δεν το ήξερα.", "Συγγνώμη, μπορώ να περάσω;"]
+  }
+]

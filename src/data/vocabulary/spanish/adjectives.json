@@ -1,0 +1,93 @@
+[
+  {
+    "id": "word_es_grande",
+    "word": "grande",
+    "meaning": "big",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈɣɾan.de"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["La casa es grande.", "Tiene un gran corazón."]
+  },
+  {
+    "id": "word_es_pequeno",
+    "word": "pequeño",
+    "meaning": "small",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "peˈke.ɲo"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Es un perro pequeño.", "La habitación es pequeña."]
+  },
+  {
+    "id": "word_es_bueno",
+    "word": "bueno",
+    "meaning": "good",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈbwe.no"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Es un buen día.", "El libro es bueno."]
+  },
+  {
+    "id": "word_es_malo",
+    "word": "malo",
+    "meaning": "bad",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈma.lo"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Es una mala idea.", "El tiempo está malo."]
+  },
+  {
+    "id": "word_es_nuevo",
+    "word": "nuevo",
+    "meaning": "new",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈnwe.βo"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Tengo un coche nuevo.", "Es una nueva oportunidad."]
+  },
+  {
+    "id": "word_es_viejo",
+    "word": "viejo",
+    "meaning": "old",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈbje.xo"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Es un edificio viejo.", "Mi abuelo es viejo."]
+  },
+  {
+    "id": "word_es_feliz",
+    "word": "feliz",
+    "meaning": "happy",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "feˈlis"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Estoy muy feliz.", "Es un día feliz."]
+  }
+]

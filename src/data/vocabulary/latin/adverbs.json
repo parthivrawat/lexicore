@@ -1,0 +1,93 @@
+[
+  {
+    "id": "word_la_hic",
+    "word": "hīc",
+    "meaning": "here",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "hiːk"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Hīc maneō.", "Hīc est domus mea."]
+  },
+  {
+    "id": "word_la_ibi",
+    "word": "ibī",
+    "meaning": "there",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "i.biː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Ibī erat rēx.", "Ibī eum vīdī."]
+  },
+  {
+    "id": "word_la_nunc",
+    "word": "nunc",
+    "meaning": "now",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "nuŋk"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Nunc veniō.", "Nunc est optimum tempus."]
+  },
+  {
+    "id": "word_la_tunc",
+    "word": "tunc",
+    "meaning": "then",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "tuŋk"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Tunc Rōma erat parva.", "Tunc vīdimus eum."]
+  },
+  {
+    "id": "word_la_bene",
+    "word": "bene",
+    "meaning": "well",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "be.ne"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Bene loquitur.", "Bene est."]
+  },
+  {
+    "id": "word_la_male",
+    "word": "male",
+    "meaning": "badly",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ma.le"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Male pugnat.", "Male dīcit."]
+  },
+  {
+    "id": "word_la_semper",
+    "word": "semper",
+    "meaning": "always",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "sem.per"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Semper vērum dīcō.", "Semper parātus sum."]
+  }
+]

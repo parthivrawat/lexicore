@@ -1,0 +1,1178 @@
+[
+  {
+    "id": "word_quickly",
+    "word": "quickly",
+    "meaning": "fast",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈkwɪkli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈkwɪkli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈkwɪkli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Run quickly.", "Finish quickly."]
+  },
+  {
+    "id": "word_slowly",
+    "word": "slowly",
+    "meaning": "not fast",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈsloʊli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈsləʊli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈsləʊli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Walk slowly.", "Drive slowly."]
+  },
+  {
+    "id": "word_well",
+    "word": "well",
+    "meaning": "properly",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "wɛl"
+      },
+      {
+        "accent": "british",
+        "ipa": "wɛl"
+      },
+      {
+        "accent": "australian",
+        "ipa": "wɛl"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Do it well.", "Well done."]
+  },
+  {
+    "id": "word_badly",
+    "word": "badly",
+    "meaning": "poorly",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈbædli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈbædli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈbædli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Behave badly.", "Treat badly."]
+  },
+  {
+    "id": "word_loudly",
+    "word": "loudly",
+    "meaning": "with noise",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈlaʊdli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈlaʊdli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈlaʊdli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Speak loudly.", "Laugh loudly."]
+  },
+  {
+    "id": "word_quietly",
+    "word": "quietly",
+    "meaning": "silently",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈkwaɪətli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈkwaɪətli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈkwaɪətli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Speak quietly.", "Work quietly."]
+  },
+  {
+    "id": "word_happily",
+    "word": "happily",
+    "meaning": "joyfully",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈhæpəli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈhæpəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈhæpəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Live happily.", "Sing happily."]
+  },
+  {
+    "id": "word_sadly",
+    "word": "sadly",
+    "meaning": "unhappily",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈsædli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈsædli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈsædli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Sadly, he left.", "Smile sadly."]
+  },
+  {
+    "id": "word_carefully",
+    "word": "carefully",
+    "meaning": "with caution",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈkɛrfəli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈkɛəfəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈkɛəfəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Drive carefully.", "Listen carefully."]
+  },
+  {
+    "id": "word_easily",
+    "word": "easily",
+    "meaning": "without difficulty",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈiːzəli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈiːzəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈiːzəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Win easily.", "Breathe easily."]
+  },
+  {
+    "id": "word_clearly",
+    "word": "clearly",
+    "meaning": "distinctly",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈklɪrli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈklɪəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈklɪəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Speak clearly.", "See clearly."]
+  },
+  {
+    "id": "word_strongly",
+    "word": "strongly",
+    "meaning": "forcefully",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈstrɔːŋli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈstrɒŋli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈstrɒŋli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Feel strongly.", "Disagree strongly."]
+  },
+  {
+    "id": "word_softly",
+    "word": "softly",
+    "meaning": "gently",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈsɔːftli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈsɒftli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈsɒftli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Speak softly.", "Touch softly."]
+  },
+  {
+    "id": "word_always",
+    "word": "always",
+    "meaning": "at all times",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈɔːlweɪz"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈɔːlweɪz"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈɔːlweɪz"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Always late.", "I always remember."]
+  },
+  {
+    "id": "word_never",
+    "word": "never",
+    "meaning": "at no time",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈnɛvər"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈnɛvə"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈnɛvə"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Never give up.", "I never knew."]
+  },
+  {
+    "id": "word_often",
+    "word": "often",
+    "meaning": "frequently",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈɔːfən"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈɒfən"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈɒfən"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Visit often.", "Often late."]
+  },
+  {
+    "id": "word_sometimes",
+    "word": "sometimes",
+    "meaning": "occasionally",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈsʌmtaɪmz"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈsʌmtaɪmz"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈsʌmtaɪmz"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Sometimes I wonder.", "Sometimes it rains."]
+  },
+  {
+    "id": "word_usually",
+    "word": "usually",
+    "meaning": "normally",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈjuːʒuəli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈjuːʒəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈjuːʒəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Usually works.", "I usually walk."]
+  },
+  {
+    "id": "word_now",
+    "word": "now",
+    "meaning": "at present",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "naʊ"
+      },
+      {
+        "accent": "british",
+        "ipa": "naʊ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "naʊ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Do it now.", "Right now."]
+  },
+  {
+    "id": "word_then",
+    "word": "then",
+    "meaning": "at that time",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ðɛn"
+      },
+      {
+        "accent": "british",
+        "ipa": "ðɛn"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ðɛn"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Back then.", "Then we left."]
+  },
+  {
+    "id": "word_soon",
+    "word": "soon",
+    "meaning": "shortly",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "suːn"
+      },
+      {
+        "accent": "british",
+        "ipa": "suːn"
+      },
+      {
+        "accent": "australian",
+        "ipa": "suːn"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["See you soon.", "Coming soon."]
+  },
+  {
+    "id": "word_later",
+    "word": "later",
+    "meaning": "afterwards",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈleɪtər"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈleɪtə"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈleɪtə"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["See you later.", "Call later."]
+  },
+  {
+    "id": "word_yesterday",
+    "word": "yesterday",
+    "meaning": "day before today",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈjɛstərdeɪ"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈjɛstədeɪ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈjɛstədeɪ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Yesterday rained.", "I went yesterday."]
+  },
+  {
+    "id": "word_today",
+    "word": "today",
+    "meaning": "this day",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "təˈdeɪ"
+      },
+      {
+        "accent": "british",
+        "ipa": "təˈdeɪ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "təˈdeɪ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Today is Monday.", "Work today."]
+  },
+  {
+    "id": "word_tomorrow",
+    "word": "tomorrow",
+    "meaning": "next day",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "təˈmɔːroʊ"
+      },
+      {
+        "accent": "british",
+        "ipa": "təˈmɒrəʊ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "təˈmɒrəʊ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["See you tomorrow.", "Tomorrow comes."]
+  },
+  {
+    "id": "word_here",
+    "word": "here",
+    "meaning": "in this place",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "hɪr"
+      },
+      {
+        "accent": "british",
+        "ipa": "hɪə"
+      },
+      {
+        "accent": "australian",
+        "ipa": "hɪə"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Come here.", "I live here."]
+  },
+  {
+    "id": "word_there",
+    "word": "there",
+    "meaning": "in that place",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ðɛr"
+      },
+      {
+        "accent": "british",
+        "ipa": "ðeə"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ðeə"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Go there.", "It's over there."]
+  },
+  {
+    "id": "word_everywhere",
+    "word": "everywhere",
+    "meaning": "in all places",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈɛvriweər"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈɛvriweə"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈɛvriweə"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Look everywhere.", "Snow everywhere."]
+  },
+  {
+    "id": "word_nowhere",
+    "word": "nowhere",
+    "meaning": "in no place",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈnoʊweər"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈnəʊweə"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈnəʊweə"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Go nowhere.", "Nowhere to go."]
+  },
+  {
+    "id": "word_very",
+    "word": "very",
+    "meaning": "extremely",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈvɛri"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈvɛri"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈvɛri"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Very good.", "Very happy."]
+  },
+  {
+    "id": "word_too",
+    "word": "too",
+    "meaning": "excessively",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "tuː"
+      },
+      {
+        "accent": "british",
+        "ipa": "tuː"
+      },
+      {
+        "accent": "australian",
+        "ipa": "tuː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Too hot.", "Too much."]
+  },
+  {
+    "id": "word_quite",
+    "word": "quite",
+    "meaning": "rather",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "kwaɪt"
+      },
+      {
+        "accent": "british",
+        "ipa": "kwaɪt"
+      },
+      {
+        "accent": "australian",
+        "ipa": "kwaɪt"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Quite good.", "Quite right."]
+  },
+  {
+    "id": "word_almost",
+    "word": "almost",
+    "meaning": "nearly",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈɔːlmoʊst"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈɔːlməʊst"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈɔːlməʊst"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Almost done.", "Almost there."]
+  },
+  {
+    "id": "word_barely",
+    "word": "barely",
+    "meaning": "hardly",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈbɛrli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈbeəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈbeəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Barely made it.", "Barely visible."]
+  },
+  {
+    "id": "word_however",
+    "word": "however",
+    "meaning": "nevertheless",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "haʊˈɛvər"
+      },
+      {
+        "accent": "british",
+        "ipa": "haʊˈɛvə"
+      },
+      {
+        "accent": "australian",
+        "ipa": "haʊˈɛvə"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["However, I tried.", "However you like."]
+  },
+  {
+    "id": "word_perhaps",
+    "word": "perhaps",
+    "meaning": "maybe",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "pərˈhæps"
+      },
+      {
+        "accent": "british",
+        "ipa": "pəˈhæps"
+      },
+      {
+        "accent": "australian",
+        "ipa": "pəˈhæps"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Perhaps later.", "Perhaps not."]
+  },
+  {
+    "id": "word_probably",
+    "word": "probably",
+    "meaning": "likely",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈprɑːbəbli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈprɒbəbli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈprɒbəbli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Probably yes.", "Probably coming."]
+  },
+  {
+    "id": "word_certainly",
+    "word": "certainly",
+    "meaning": "definitely",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈsɜːrtənli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈsɜːtənli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈsɜːtənli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Certainly not.", "Certainly yes."]
+  },
+  {
+    "id": "word_really",
+    "word": "really",
+    "meaning": "truly",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈriːəli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈriːəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈriːəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Really good.", "Really?"]
+  },
+  {
+    "id": "word_actually",
+    "word": "actually",
+    "meaning": "in fact",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈæktʃuəli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈæktʃuəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈæktʃuəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Actually, no.", "Actually yes."]
+  },
+  {
+    "id": "word_suddenly",
+    "word": "suddenly",
+    "meaning": "unexpectedly",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈsʌdənli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈsʌdənli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈsʌdənli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Suddenly stopped.", "Suddenly appeared."]
+  },
+  {
+    "id": "word_finally",
+    "word": "finally",
+    "meaning": "at last",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈfaɪnəli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈfaɪnəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈfaɪnəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Finally done.", "Finally here."]
+  },
+  {
+    "id": "word_already",
+    "word": "already",
+    "meaning": "before now",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɔːlˈrɛdi"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɔːlˈrɛdi"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɔːlˈrɛdi"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Already done.", "Already left."]
+  },
+  {
+    "id": "word_still",
+    "word": "still",
+    "meaning": "continuing",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "stɪl"
+      },
+      {
+        "accent": "british",
+        "ipa": "stɪl"
+      },
+      {
+        "accent": "australian",
+        "ipa": "stɪl"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Still waiting.", "Still working."]
+  },
+  {
+    "id": "word_just",
+    "word": "just",
+    "meaning": "only/recently",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "dʒʌst"
+      },
+      {
+        "accent": "british",
+        "ipa": "dʒʌst"
+      },
+      {
+        "accent": "australian",
+        "ipa": "dʒʌst"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Just me.", "Just arrived."]
+  },
+  {
+    "id": "word_only",
+    "word": "only",
+    "meaning": "solely",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈoʊnli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈəʊnli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈəʊnli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Only you.", "Only once."]
+  },
+  {
+    "id": "word_together",
+    "word": "together",
+    "meaning": "with others",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "təˈɡɛðər"
+      },
+      {
+        "accent": "british",
+        "ipa": "təˈɡɛðə"
+      },
+      {
+        "accent": "australian",
+        "ipa": "təˈɡɛðə"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Work together.", "Live together."]
+  },
+  {
+    "id": "word_alone",
+    "word": "alone",
+    "meaning": "by oneself",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "əˈloʊn"
+      },
+      {
+        "accent": "british",
+        "ipa": "əˈləʊn"
+      },
+      {
+        "accent": "australian",
+        "ipa": "əˈləʊn"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Sit alone.", "Walk alone."]
+  },
+  {
+    "id": "word_away",
+    "word": "away",
+    "meaning": "distant",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "əˈweɪ"
+      },
+      {
+        "accent": "british",
+        "ipa": "əˈweɪ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "əˈweɪ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Go away.", "Far away."]
+  },
+  {
+    "id": "word_back",
+    "word": "back",
+    "meaning": "return",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "bæk"
+      },
+      {
+        "accent": "british",
+        "ipa": "bæk"
+      },
+      {
+        "accent": "australian",
+        "ipa": "bæk"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Come back.", "Go back."]
+  },
+  {
+    "id": "word_forward",
+    "word": "forward",
+    "meaning": "ahead",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈfɔːrwərd"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈfɔːwəd"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈfɔːwəd"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Move forward.", "Step forward."]
+  },
+  {
+    "id": "word_backward",
+    "word": "backward",
+    "meaning": "in reverse",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈbækwərd"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈbækwəd"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈbækwəd"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Look backward.", "Step backward."]
+  },
+  {
+    "id": "word_up",
+    "word": "up",
+    "meaning": "upward",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ʌp"
+      },
+      {
+        "accent": "british",
+        "ipa": "ʌp"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ʌp"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Look up.", "Stand up."]
+  },
+  {
+    "id": "word_down",
+    "word": "down",
+    "meaning": "downward",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "daʊn"
+      },
+      {
+        "accent": "british",
+        "ipa": "daʊn"
+      },
+      {
+        "accent": "australian",
+        "ipa": "daʊn"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Sit down.", "Go down."]
+  },
+  {
+    "id": "word_inside",
+    "word": "inside",
+    "meaning": "interior",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˌɪnˈsaɪd"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˌɪnˈsaɪd"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˌɪnˈsaɪd"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Stay inside.", "Look inside."]
+  },
+  {
+    "id": "word_outside",
+    "word": "outside",
+    "meaning": "exterior",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˌaʊtˈsaɪd"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˌaʊtˈsaɪd"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˌaʊtˈsaɪd"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Play outside.", "Go outside."]
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "word_el_se",
+    "word": "σε",
+    "meaning": "in, to, at",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "se"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Πάω σε ένα καφέ.", "Ζω σε μικρό σπίτι."]
+  },
+  {
+    "id": "word_el_apo",
+    "word": "από",
+    "meaning": "from",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "a.ˈpo"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Είμαι από την Ελλάδα.", "Ένα δώρο από τον πατέρα μου."]
+  },
+  {
+    "id": "word_el_gia",
+    "word": "για",
+    "meaning": "for",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ʝa"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Ένα δώρο για σένα.", "Τρέχω για το λεωφορείο."]
+  },
+  {
+    "id": "word_el_me",
+    "word": "με",
+    "meaning": "with",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "me"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Πάω με τον φίλο μου.", "Καφές με γάλα."]
+  },
+  {
+    "id": "word_el_xoris",
+    "word": "χωρίς",
+    "meaning": "without",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "xo.ˈɾis"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Δεν μπορώ να ζήσω χωρίς σένα.", "Έφυγε χωρίς λεφτά."]
+  },
+  {
+    "id": "word_el_mesa",
+    "word": "μέσα",
+    "meaning": "inside",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ˈme.sa"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Μπες μέσα.", "Η γάτα είναι μέσα."]
+  },
+  {
+    "id": "word_el_ekso",
+    "word": "έξω",
+    "meaning": "outside",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ˈe.kso"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Πάμε έξω.", "Το κρύο είναι έξω."]
+  }
+]

@@ -64,8 +64,12 @@ type EtymologyModule = {
   etymologyData: Record<string, Etymology>;
 };
 
-const etymologyImportMap: Partial<Record<LearningLanguage, () => Promise<unknown>>> = {
+const etymologyImportMap: Record<LearningLanguage, () => Promise<unknown>> = {
   english: () => import('@/data/etymology/english'),
+  french: () => import('@/data/etymology/french'),
+  spanish: () => import('@/data/etymology/spanish'),
+  latin: () => import('@/data/etymology/latin'),
+  greek: () => import('@/data/etymology/greek'),
 };
 
 export async function loadRootsData(language: LearningLanguage): Promise<WordRoot[]> {
@@ -114,10 +118,6 @@ export async function loadEtymologyData(
   }
 
   const load = etymologyImportMap[language];
-  if (!load) {
-    resultCache.etymology = { ...resultCache.etymology, [language]: {} };
-    return {};
-  }
 
   if (!promiseCache.etymology?.[language]) {
     promiseCache.etymology = {

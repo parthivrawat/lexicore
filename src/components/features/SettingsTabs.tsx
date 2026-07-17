@@ -9,9 +9,16 @@ import { LanguageSettings } from './settings/LanguageSettings';
 type TabId = 'pagination' | 'search' | 'ui' | 'language';
 
 export function SettingsTabs() {
-  const [activeTab, setActiveTab] = useState<TabId>('pagination');
+  const [activeTab, setActiveTab] = useState<TabId>('language');
 
   const tabs = [
+    {
+      id: 'language' as TabId,
+      title: 'Language',
+      description: 'Configure interface and learning language preferences',
+      icon: '🌍',
+      component: LanguageSettings,
+    },
     {
       id: 'pagination' as TabId,
       title: 'Pagination',
@@ -32,13 +39,6 @@ export function SettingsTabs() {
       description: 'Adjust visual elements and interactions',
       icon: '🎨',
       component: UISettings,
-    },
-    {
-      id: 'language' as TabId,
-      title: 'Language',
-      description: 'Configure interface and learning language preferences',
-      icon: '🌍',
-      component: LanguageSettings,
     },
   ];
 

@@ -1,0 +1,6094 @@
+{
+  "word_house": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "Prehistoric",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*dṓm",
+        "period": "Prehistoric",
+        "meaning": "home, house"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*hūsą",
+        "period": "c. 500 BC",
+        "meaning": "house"
+      },
+      {
+        "language": "Old English",
+        "form": "hūs",
+        "period": "Before 12th century",
+        "meaning": "house"
+      },
+      {
+        "language": "Middle English",
+        "form": "hous, house",
+        "period": "12th-15th century",
+        "meaning": "house"
+      },
+      {
+        "language": "Modern English",
+        "form": "house",
+        "period": "15th century",
+        "meaning": "house"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Haus",
+        "meaning": "house"
+      },
+      {
+        "language": "Dutch",
+        "word": "huis",
+        "meaning": "house"
+      },
+      {
+        "language": "Swedish",
+        "word": "hus",
+        "meaning": "house"
+      }
+    ]
+  },
+  "word_water": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "Prehistoric",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*wódr̥",
+        "period": "Prehistoric",
+        "meaning": "water"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*watōr",
+        "period": "c. 500 BC",
+        "meaning": "water"
+      },
+      {
+        "language": "Old English",
+        "form": "wæter",
+        "period": "Before 12th century",
+        "meaning": "water"
+      },
+      {
+        "language": "Middle English",
+        "form": "water",
+        "period": "12th-15th century",
+        "meaning": "water"
+      },
+      {
+        "language": "Modern English",
+        "form": "water",
+        "period": "15th century",
+        "meaning": "water"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Wasser",
+        "meaning": "water"
+      },
+      {
+        "language": "Dutch",
+        "word": "water",
+        "meaning": "water"
+      },
+      {
+        "language": "Swedish",
+        "word": "vatten",
+        "meaning": "water"
+      },
+      {
+        "language": "Russian",
+        "word": "voda",
+        "meaning": "water"
+      },
+      {
+        "language": "Greek",
+        "word": "hudōr",
+        "meaning": "water"
+      }
+    ]
+  },
+  "word_food": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "Prehistoric",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*pā-",
+        "period": "Prehistoric",
+        "meaning": "to feed, to protect"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*fōdą",
+        "period": "c. 500 BC",
+        "meaning": "food"
+      },
+      {
+        "language": "Old English",
+        "form": "fōda",
+        "period": "Before 12th century",
+        "meaning": "food"
+      },
+      {
+        "language": "Middle English",
+        "form": "fode, food",
+        "period": "12th-15th century",
+        "meaning": "food"
+      },
+      {
+        "language": "Modern English",
+        "form": "food",
+        "period": "15th century",
+        "meaning": "food"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Futter",
+        "meaning": "fodder, food"
+      },
+      {
+        "language": "Dutch",
+        "word": "voer",
+        "meaning": "fodder"
+      },
+      {
+        "language": "Swedish",
+        "word": "foder",
+        "meaning": "fodder"
+      }
+    ]
+  },
+  "word_time": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "Prehistoric",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*di-",
+        "period": "Prehistoric",
+        "meaning": "to divide"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*tīmô",
+        "period": "c. 500 BC",
+        "meaning": "time, season"
+      },
+      {
+        "language": "Old English",
+        "form": "tīma",
+        "period": "Before 12th century",
+        "meaning": "time, season"
+      },
+      {
+        "language": "Middle English",
+        "form": "time",
+        "period": "12th-15th century",
+        "meaning": "time"
+      },
+      {
+        "language": "Modern English",
+        "form": "time",
+        "period": "15th century",
+        "meaning": "time"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Zeit",
+        "meaning": "time"
+      },
+      {
+        "language": "Dutch",
+        "word": "tijd",
+        "meaning": "time"
+      },
+      {
+        "language": "Swedish",
+        "word": "tid",
+        "meaning": "time"
+      }
+    ],
+    "notes": "Originally meant \"a division of the day\" or \"season\"."
+  },
+  "word_book": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*bōks",
+        "period": "c. 500 BC",
+        "meaning": "beech tree, book"
+      },
+      {
+        "language": "Old English",
+        "form": "bōc",
+        "period": "Before 12th century",
+        "meaning": "book, written document"
+      },
+      {
+        "language": "Middle English",
+        "form": "book",
+        "period": "12th-15th century",
+        "meaning": "book"
+      },
+      {
+        "language": "Modern English",
+        "form": "book",
+        "period": "15th century",
+        "meaning": "book"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Buch",
+        "meaning": "book"
+      },
+      {
+        "language": "Dutch",
+        "word": "boek",
+        "meaning": "book"
+      },
+      {
+        "language": "Swedish",
+        "word": "bok",
+        "meaning": "book"
+      }
+    ],
+    "notes": "Named after beech trees, whose bark was used for writing in ancient times."
+  },
+  "word_family": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 15th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "familia",
+        "period": "Roman era",
+        "meaning": "household, servants"
+      },
+      {
+        "language": "Old French",
+        "form": "familie",
+        "period": "12th-14th century",
+        "meaning": "family"
+      },
+      {
+        "language": "Middle English",
+        "form": "familie, family",
+        "period": "15th century",
+        "meaning": "family"
+      },
+      {
+        "language": "Modern English",
+        "form": "family",
+        "period": "16th century",
+        "meaning": "family"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "famille",
+        "meaning": "family"
+      },
+      {
+        "language": "Spanish",
+        "word": "familia",
+        "meaning": "family"
+      },
+      {
+        "language": "Italian",
+        "word": "famiglia",
+        "meaning": "family"
+      },
+      {
+        "language": "Portuguese",
+        "word": "família",
+        "meaning": "family"
+      }
+    ],
+    "notes": "From Latin \"familia\", originally meaning \"household\" including servants and slaves."
+  },
+  "word_friend": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "Prehistoric",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*prey-",
+        "period": "Prehistoric",
+        "meaning": "to love"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*frijōną",
+        "period": "c. 500 BC",
+        "meaning": "to love, to be free"
+      },
+      {
+        "language": "Old English",
+        "form": "frēond",
+        "period": "Before 12th century",
+        "meaning": "friend, lover"
+      },
+      {
+        "language": "Middle English",
+        "form": "freend, friend",
+        "period": "12th-15th century",
+        "meaning": "friend"
+      },
+      {
+        "language": "Modern English",
+        "form": "friend",
+        "period": "15th century",
+        "meaning": "friend"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Freund",
+        "meaning": "friend"
+      },
+      {
+        "language": "Dutch",
+        "word": "vriend",
+        "meaning": "friend"
+      },
+      {
+        "language": "Swedish",
+        "word": "vän",
+        "meaning": "friend"
+      }
+    ],
+    "notes": "Related to \"free\" - originally meant \"one who loves\" or \"beloved\"."
+  },
+  "word_person": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "persona",
+        "period": "Roman era",
+        "meaning": "mask, character, role"
+      },
+      {
+        "language": "Old French",
+        "form": "persone",
+        "period": "12th-13th century",
+        "meaning": "person, human being"
+      },
+      {
+        "language": "Middle English",
+        "form": "persone, person",
+        "period": "13th-15th century",
+        "meaning": "person"
+      },
+      {
+        "language": "Modern English",
+        "form": "person",
+        "period": "15th century",
+        "meaning": "person"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "personne",
+        "meaning": "person"
+      },
+      {
+        "language": "Spanish",
+        "word": "persona",
+        "meaning": "person"
+      },
+      {
+        "language": "Italian",
+        "word": "persona",
+        "meaning": "person"
+      },
+      {
+        "language": "Portuguese",
+        "word": "pessoa",
+        "meaning": "person"
+      }
+    ],
+    "notes": "From Latin \"persona\" originally meaning \"mask\" worn by actors, later extended to the role and then the individual."
+  },
+  "word_year": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "Prehistoric",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*yeh₁-",
+        "period": "Prehistoric",
+        "meaning": "to go, to year"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*jērą",
+        "period": "c. 500 BC",
+        "meaning": "year"
+      },
+      {
+        "language": "Old English",
+        "form": "gēar",
+        "period": "Before 12th century",
+        "meaning": "year"
+      },
+      {
+        "language": "Middle English",
+        "form": "yer, year",
+        "period": "12th-15th century",
+        "meaning": "year"
+      },
+      {
+        "language": "Modern English",
+        "form": "year",
+        "period": "15th century",
+        "meaning": "year"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Jahr",
+        "meaning": "year"
+      },
+      {
+        "language": "Dutch",
+        "word": "jaar",
+        "meaning": "year"
+      },
+      {
+        "language": "Swedish",
+        "word": "år",
+        "meaning": "year"
+      },
+      {
+        "language": "Latin",
+        "word": "annus",
+        "meaning": "year"
+      }
+    ],
+    "notes": "Related to the concept of \"going\" or \"passing\", referring to the cycle of seasons."
+  },
+  "word_way": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "Prehistoric",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*weǵʰ-",
+        "period": "Prehistoric",
+        "meaning": "to go, to transport"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*wegaz",
+        "period": "c. 500 BC",
+        "meaning": "way, path"
+      },
+      {
+        "language": "Old English",
+        "form": "weg",
+        "period": "Before 12th century",
+        "meaning": "way, path"
+      },
+      {
+        "language": "Middle English",
+        "form": "wei, way",
+        "period": "12th-15th century",
+        "meaning": "way"
+      },
+      {
+        "language": "Modern English",
+        "form": "way",
+        "period": "15th century",
+        "meaning": "way"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Weg",
+        "meaning": "way, path"
+      },
+      {
+        "language": "Dutch",
+        "word": "weg",
+        "meaning": "way, path"
+      },
+      {
+        "language": "Swedish",
+        "word": "väg",
+        "meaning": "way, road"
+      }
+    ],
+    "notes": "From a root meaning \"to go\" or \"to transport\", originally referring to a path for movement."
+  },
+  "word_day": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "Prehistoric",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*dyew-",
+        "period": "Prehistoric",
+        "meaning": "to shine, sky, day"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*dagaz",
+        "period": "c. 500 BC",
+        "meaning": "day"
+      },
+      {
+        "language": "Old English",
+        "form": "dæg",
+        "period": "Before 12th century",
+        "meaning": "day"
+      },
+      {
+        "language": "Middle English",
+        "form": "day, dai",
+        "period": "12th-15th century",
+        "meaning": "day"
+      },
+      {
+        "language": "Modern English",
+        "form": "day",
+        "period": "15th century",
+        "meaning": "day"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Tag",
+        "meaning": "day"
+      },
+      {
+        "language": "Dutch",
+        "word": "dag",
+        "meaning": "day"
+      },
+      {
+        "language": "Swedish",
+        "word": "dag",
+        "meaning": "day"
+      },
+      {
+        "language": "Latin",
+        "word": "dies",
+        "meaning": "day"
+      }
+    ],
+    "notes": "Related to \"sky\" and \"shine\" - originally meant the time when the sky is bright."
+  },
+  "word_thing": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*þingą",
+        "period": "c. 500 BC",
+        "meaning": "assembly, matter, thing"
+      },
+      {
+        "language": "Old English",
+        "form": "þing",
+        "period": "Before 12th century",
+        "meaning": "assembly, matter, thing"
+      },
+      {
+        "language": "Middle English",
+        "form": "thing, thyng",
+        "period": "12th-15th century",
+        "meaning": "thing"
+      },
+      {
+        "language": "Modern English",
+        "form": "thing",
+        "period": "15th century",
+        "meaning": "thing"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Ding",
+        "meaning": "thing"
+      },
+      {
+        "language": "Dutch",
+        "word": "ding",
+        "meaning": "thing"
+      },
+      {
+        "language": "Swedish",
+        "word": "ting",
+        "meaning": "thing"
+      }
+    ],
+    "notes": "Originally meant \"assembly\" or \"council\", later generalized to any matter or object."
+  },
+  "word_man": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "Prehistoric",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*h₂nḗr",
+        "period": "Prehistoric",
+        "meaning": "man, male"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*mann-",
+        "period": "c. 500 BC",
+        "meaning": "man, human being"
+      },
+      {
+        "language": "Old English",
+        "form": "mann",
+        "period": "Before 12th century",
+        "meaning": "man, human"
+      },
+      {
+        "language": "Middle English",
+        "form": "man, mann",
+        "period": "12th-15th century",
+        "meaning": "man"
+      },
+      {
+        "language": "Modern English",
+        "form": "man",
+        "period": "15th century",
+        "meaning": "man"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Mann",
+        "meaning": "man"
+      },
+      {
+        "language": "Dutch",
+        "word": "man",
+        "meaning": "man"
+      },
+      {
+        "language": "Swedish",
+        "word": "man",
+        "meaning": "man"
+      },
+      {
+        "language": "Sanskrit",
+        "word": "nara",
+        "meaning": "man"
+      }
+    ],
+    "notes": "Originally meant \"human being\" in general, later specialized to adult male."
+  },
+  "word_world": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*wer-ald-",
+        "period": "c. 500 BC",
+        "meaning": "age of man, world"
+      },
+      {
+        "language": "Old English",
+        "form": "weorold",
+        "period": "Before 12th century",
+        "meaning": "world, age"
+      },
+      {
+        "language": "Middle English",
+        "form": "world, worlde",
+        "period": "12th-15th century",
+        "meaning": "world"
+      },
+      {
+        "language": "Modern English",
+        "form": "world",
+        "period": "15th century",
+        "meaning": "world"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Welt",
+        "meaning": "world"
+      },
+      {
+        "language": "Dutch",
+        "word": "wereld",
+        "meaning": "world"
+      },
+      {
+        "language": "Swedish",
+        "word": "värld",
+        "meaning": "world"
+      }
+    ],
+    "notes": "Compound of \"man\" (wer) and \"age\" (ald), literally meaning \"age of man\"."
+  },
+  "word_life": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*lībą",
+        "period": "c. 500 BC",
+        "meaning": "life, body"
+      },
+      {
+        "language": "Old English",
+        "form": "līf",
+        "period": "Before 12th century",
+        "meaning": "life"
+      },
+      {
+        "language": "Middle English",
+        "form": "lif, life",
+        "period": "12th-15th century",
+        "meaning": "life"
+      },
+      {
+        "language": "Modern English",
+        "form": "life",
+        "period": "15th century",
+        "meaning": "life"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Leben",
+        "meaning": "life"
+      },
+      {
+        "language": "Dutch",
+        "word": "leven",
+        "meaning": "life"
+      },
+      {
+        "language": "Swedish",
+        "word": "liv",
+        "meaning": "life"
+      }
+    ],
+    "notes": "From a root meaning \"to remain, to live\", related to the concept of vitality."
+  },
+  "word_hand": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*handuz",
+        "period": "c. 500 BC",
+        "meaning": "hand"
+      },
+      {
+        "language": "Old English",
+        "form": "hand",
+        "period": "Before 12th century",
+        "meaning": "hand"
+      },
+      {
+        "language": "Middle English",
+        "form": "hand, hond",
+        "period": "12th-15th century",
+        "meaning": "hand"
+      },
+      {
+        "language": "Modern English",
+        "form": "hand",
+        "period": "15th century",
+        "meaning": "hand"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Hand",
+        "meaning": "hand"
+      },
+      {
+        "language": "Dutch",
+        "word": "hand",
+        "meaning": "hand"
+      },
+      {
+        "language": "Swedish",
+        "word": "hand",
+        "meaning": "hand"
+      }
+    ],
+    "notes": "One of the most stable words in Germanic languages, with little change over millennia."
+  },
+  "word_part": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "partem",
+        "period": "Roman era",
+        "meaning": "part, piece, share"
+      },
+      {
+        "language": "Old French",
+        "form": "part",
+        "period": "12th-13th century",
+        "meaning": "part"
+      },
+      {
+        "language": "Middle English",
+        "form": "part, parte",
+        "period": "12th-15th century",
+        "meaning": "part"
+      },
+      {
+        "language": "Modern English",
+        "form": "part",
+        "period": "15th century",
+        "meaning": "part"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "partie",
+        "meaning": "part"
+      },
+      {
+        "language": "Spanish",
+        "word": "parte",
+        "meaning": "part"
+      },
+      {
+        "language": "Italian",
+        "word": "parte",
+        "meaning": "part"
+      },
+      {
+        "language": "Portuguese",
+        "word": "parte",
+        "meaning": "part"
+      }
+    ],
+    "notes": "From Latin \"pars, partis\" meaning \"a division, share, or portion\"."
+  },
+  "word_child": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*kelþ-",
+        "period": "c. 500 BC",
+        "meaning": "womb, child"
+      },
+      {
+        "language": "Old English",
+        "form": "cild",
+        "period": "Before 12th century",
+        "meaning": "child, infant"
+      },
+      {
+        "language": "Middle English",
+        "form": "child, child",
+        "period": "12th-15th century",
+        "meaning": "child"
+      },
+      {
+        "language": "Modern English",
+        "form": "child",
+        "period": "15th century",
+        "meaning": "child"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Kind",
+        "meaning": "child"
+      },
+      {
+        "language": "Dutch",
+        "word": "kind",
+        "meaning": "child"
+      },
+      {
+        "language": "Swedish",
+        "word": "barn",
+        "meaning": "child"
+      }
+    ],
+    "notes": "Originally related to \"womb\" or \"belly\", referring to the fruit of the womb."
+  },
+  "word_eye": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*awjō",
+        "period": "c. 500 BC",
+        "meaning": "eye"
+      },
+      {
+        "language": "Old English",
+        "form": "ēage",
+        "period": "Before 12th century",
+        "meaning": "eye"
+      },
+      {
+        "language": "Middle English",
+        "form": "eye, eie",
+        "period": "12th-15th century",
+        "meaning": "eye"
+      },
+      {
+        "language": "Modern English",
+        "form": "eye",
+        "period": "15th century",
+        "meaning": "eye"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Auge",
+        "meaning": "eye"
+      },
+      {
+        "language": "Dutch",
+        "word": "oog",
+        "meaning": "eye"
+      },
+      {
+        "language": "Swedish",
+        "word": "öga",
+        "meaning": "eye"
+      },
+      {
+        "language": "Latin",
+        "word": "oculus",
+        "meaning": "eye"
+      }
+    ],
+    "notes": "From a root meaning \"to see\", related to the concept of vision."
+  },
+  "word_woman": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*wībą",
+        "period": "c. 500 BC",
+        "meaning": "woman, wife"
+      },
+      {
+        "language": "Old English",
+        "form": "wīfman",
+        "period": "Before 12th century",
+        "meaning": "woman, wife"
+      },
+      {
+        "language": "Middle English",
+        "form": "wimman, woman",
+        "period": "12th-15th century",
+        "meaning": "woman"
+      },
+      {
+        "language": "Modern English",
+        "form": "woman",
+        "period": "15th century",
+        "meaning": "woman"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Frau",
+        "meaning": "woman"
+      },
+      {
+        "language": "Dutch",
+        "word": "vrouw",
+        "meaning": "woman"
+      },
+      {
+        "language": "Swedish",
+        "word": "kvinna",
+        "meaning": "woman"
+      }
+    ],
+    "notes": "Compound of \"wife\" (wīf) and \"man\" (man), originally meaning \"female human\"."
+  },
+  "word_place": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "platea",
+        "period": "Roman era",
+        "meaning": "broad street, open space"
+      },
+      {
+        "language": "Old French",
+        "form": "place",
+        "period": "12th-13th century",
+        "meaning": "place, space"
+      },
+      {
+        "language": "Middle English",
+        "form": "place, plas",
+        "period": "13th-15th century",
+        "meaning": "place"
+      },
+      {
+        "language": "Modern English",
+        "form": "place",
+        "period": "15th century",
+        "meaning": "place"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "place",
+        "meaning": "place, square"
+      },
+      {
+        "language": "Spanish",
+        "word": "plaza",
+        "meaning": "square, place"
+      },
+      {
+        "language": "Italian",
+        "word": "piazza",
+        "meaning": "square"
+      }
+    ],
+    "notes": "From Latin \"platea\" meaning \"broad street\", later generalized to any location."
+  },
+  "word_week": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*wikōną",
+        "period": "c. 500 BC",
+        "meaning": "week, sequence"
+      },
+      {
+        "language": "Old English",
+        "form": "wice",
+        "period": "Before 12th century",
+        "meaning": "week"
+      },
+      {
+        "language": "Middle English",
+        "form": "weke, wik",
+        "period": "12th-15th century",
+        "meaning": "week"
+      },
+      {
+        "language": "Modern English",
+        "form": "week",
+        "period": "15th century",
+        "meaning": "week"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Woche",
+        "meaning": "week"
+      },
+      {
+        "language": "Dutch",
+        "word": "week",
+        "meaning": "week"
+      },
+      {
+        "language": "Swedish",
+        "word": "vecka",
+        "meaning": "week"
+      }
+    ],
+    "notes": "From a root meaning \"to turn, to change\", referring to the cycle of days."
+  },
+  "word_case": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "capsa",
+        "period": "Roman era",
+        "meaning": "box, container"
+      },
+      {
+        "language": "Old French",
+        "form": "cas",
+        "period": "12th-13th century",
+        "meaning": "case, container"
+      },
+      {
+        "language": "Middle English",
+        "form": "cas, case",
+        "period": "12th-15th century",
+        "meaning": "case"
+      },
+      {
+        "language": "Modern English",
+        "form": "case",
+        "period": "15th century",
+        "meaning": "case"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "cas",
+        "meaning": "case"
+      },
+      {
+        "language": "Spanish",
+        "word": "caja",
+        "meaning": "box"
+      },
+      {
+        "language": "Italian",
+        "word": "cassa",
+        "meaning": "box"
+      }
+    ],
+    "notes": "From Latin \"capsa\" meaning \"box\", later extended to abstract meanings like \"instance\" or \"situation\"."
+  },
+  "word_point": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "punctum",
+        "period": "Roman era",
+        "meaning": "point, dot, prick"
+      },
+      {
+        "language": "Old French",
+        "form": "point",
+        "period": "12th-13th century",
+        "meaning": "point, dot"
+      },
+      {
+        "language": "Middle English",
+        "form": "point, pointe",
+        "period": "13th-15th century",
+        "meaning": "point"
+      },
+      {
+        "language": "Modern English",
+        "form": "point",
+        "period": "15th century",
+        "meaning": "point"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "point",
+        "meaning": "point"
+      },
+      {
+        "language": "Spanish",
+        "word": "punto",
+        "meaning": "point"
+      },
+      {
+        "language": "Italian",
+        "word": "punto",
+        "meaning": "point"
+      }
+    ],
+    "notes": "From Latin \"punctum\" meaning \"a small mark or dot\", from \"pungere\" meaning \"to prick\"."
+  },
+  "word_government": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 14th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "gubernare",
+        "period": "Roman era",
+        "meaning": "to steer, to rule"
+      },
+      {
+        "language": "Old French",
+        "form": "governement",
+        "period": "13th-14th century",
+        "meaning": "government"
+      },
+      {
+        "language": "Middle English",
+        "form": "governement",
+        "period": "14th-15th century",
+        "meaning": "government"
+      },
+      {
+        "language": "Modern English",
+        "form": "government",
+        "period": "15th century",
+        "meaning": "government"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "gouvernement",
+        "meaning": "government"
+      },
+      {
+        "language": "Spanish",
+        "word": "gobierno",
+        "meaning": "government"
+      },
+      {
+        "language": "Italian",
+        "word": "governo",
+        "meaning": "government"
+      }
+    ],
+    "notes": "From Latin \"gubernare\" meaning \"to steer a ship\", later applied to ruling a state."
+  },
+  "word_company": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "companionem",
+        "period": "Roman era",
+        "meaning": "companion, one who eats bread with another"
+      },
+      {
+        "language": "Old French",
+        "form": "compaignie",
+        "period": "12th-13th century",
+        "meaning": "company, companionship"
+      },
+      {
+        "language": "Middle English",
+        "form": "companie, company",
+        "period": "13th-15th century",
+        "meaning": "company"
+      },
+      {
+        "language": "Modern English",
+        "form": "company",
+        "period": "15th century",
+        "meaning": "company"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "compagnie",
+        "meaning": "company"
+      },
+      {
+        "language": "Spanish",
+        "word": "compañía",
+        "meaning": "company"
+      },
+      {
+        "language": "Italian",
+        "word": "compagnia",
+        "meaning": "company"
+      }
+    ],
+    "notes": "From Latin \"com\" (with) + \"panis\" (bread), literally meaning \"one who shares bread with you\"."
+  },
+  "word_number": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 14th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "numerus",
+        "period": "Roman era",
+        "meaning": "number, quantity"
+      },
+      {
+        "language": "Old French",
+        "form": "nombre",
+        "period": "12th-13th century",
+        "meaning": "number"
+      },
+      {
+        "language": "Middle English",
+        "form": "nombre, number",
+        "period": "13th-15th century",
+        "meaning": "number"
+      },
+      {
+        "language": "Modern English",
+        "form": "number",
+        "period": "15th century",
+        "meaning": "number"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "nombre",
+        "meaning": "number"
+      },
+      {
+        "language": "Spanish",
+        "word": "número",
+        "meaning": "number"
+      },
+      {
+        "language": "Italian",
+        "word": "numero",
+        "meaning": "number"
+      },
+      {
+        "language": "Portuguese",
+        "word": "número",
+        "meaning": "number"
+      }
+    ],
+    "notes": "From Latin \"numerus\" meaning \"a number, quantity, or sum\"."
+  },
+  "word_group": {
+    "languageOrigin": "Italian",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "Italian",
+        "form": "gruppo",
+        "period": "17th century",
+        "meaning": "group, cluster"
+      },
+      {
+        "language": "French",
+        "form": "groupe",
+        "period": "17th-18th century",
+        "meaning": "group"
+      },
+      {
+        "language": "English",
+        "form": "group",
+        "period": "17th century",
+        "meaning": "group"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "groupe",
+        "meaning": "group"
+      },
+      {
+        "language": "Spanish",
+        "word": "grupo",
+        "meaning": "group"
+      },
+      {
+        "language": "Italian",
+        "word": "gruppo",
+        "meaning": "group"
+      },
+      {
+        "language": "German",
+        "word": "Gruppe",
+        "meaning": "group"
+      }
+    ],
+    "notes": "From Italian \"gruppo\" meaning \"knot, cluster\", originally from a root meaning \"to roll together\"."
+  },
+  "word_problem": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 14th century",
+    "timeline": [
+      {
+        "language": "Greek",
+        "form": "problema",
+        "period": "Ancient Greek",
+        "meaning": "something thrown forward, question"
+      },
+      {
+        "language": "Latin",
+        "form": "problema",
+        "period": "Medieval Latin",
+        "meaning": "problem"
+      },
+      {
+        "language": "Old French",
+        "form": "probleme",
+        "period": "14th century",
+        "meaning": "problem"
+      },
+      {
+        "language": "Middle English",
+        "form": "probleme, problem",
+        "period": "14th-15th century",
+        "meaning": "problem"
+      },
+      {
+        "language": "Modern English",
+        "form": "problem",
+        "period": "15th century",
+        "meaning": "problem"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "problème",
+        "meaning": "problem"
+      },
+      {
+        "language": "Spanish",
+        "word": "problema",
+        "meaning": "problem"
+      },
+      {
+        "language": "Italian",
+        "word": "problema",
+        "meaning": "problem"
+      },
+      {
+        "language": "German",
+        "word": "Problem",
+        "meaning": "problem"
+      }
+    ],
+    "notes": "From Greek \"pro\" (forward) + \"ballein\" (to throw), literally meaning \"something thrown forward for discussion\"."
+  },
+  "word_fact": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 16th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "factum",
+        "period": "Roman era",
+        "meaning": "thing done, deed, fact"
+      },
+      {
+        "language": "Middle English",
+        "form": "fact, feit",
+        "period": "15th-16th century",
+        "meaning": "fact, deed"
+      },
+      {
+        "language": "Modern English",
+        "form": "fact",
+        "period": "16th century",
+        "meaning": "fact"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "fait",
+        "meaning": "fact, deed"
+      },
+      {
+        "language": "Spanish",
+        "word": "hecho",
+        "meaning": "fact, deed"
+      },
+      {
+        "language": "Italian",
+        "word": "fatto",
+        "meaning": "fact, deed"
+      }
+    ],
+    "notes": "From Latin \"factum\" meaning \"something done\", from \"facere\" meaning \"to do, to make\"."
+  },
+  "word_money": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "moneta",
+        "period": "Roman era",
+        "meaning": "money, coin, mint"
+      },
+      {
+        "language": "Old French",
+        "form": "moneie",
+        "period": "12th-13th century",
+        "meaning": "money"
+      },
+      {
+        "language": "Middle English",
+        "form": "moneye, money",
+        "period": "13th-15th century",
+        "meaning": "money"
+      },
+      {
+        "language": "Modern English",
+        "form": "money",
+        "period": "15th century",
+        "meaning": "money"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "monnaie",
+        "meaning": "money, coin"
+      },
+      {
+        "language": "Spanish",
+        "word": "moneda",
+        "meaning": "money, coin"
+      },
+      {
+        "language": "Italian",
+        "word": "moneta",
+        "meaning": "money"
+      }
+    ],
+    "notes": "From Latin \"moneta\", named after the temple of Juno Moneta where coins were minted."
+  },
+  "word_story": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "historia",
+        "period": "Roman era",
+        "meaning": "history, story"
+      },
+      {
+        "language": "Old French",
+        "form": "estorie, historie",
+        "period": "12th-13th century",
+        "meaning": "story, history"
+      },
+      {
+        "language": "Middle English",
+        "form": "storie, story",
+        "period": "13th-15th century",
+        "meaning": "story"
+      },
+      {
+        "language": "Modern English",
+        "form": "story",
+        "period": "15th century",
+        "meaning": "story"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "histoire",
+        "meaning": "story, history"
+      },
+      {
+        "language": "Spanish",
+        "word": "historia",
+        "meaning": "story, history"
+      },
+      {
+        "language": "Italian",
+        "word": "storia",
+        "meaning": "story, history"
+      }
+    ],
+    "notes": "From Latin \"historia\" meaning \"inquiry, narrative\", originally meant \"history\" before specializing to \"story\"."
+  },
+  "word_area": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 16th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "area",
+        "period": "Roman era",
+        "meaning": "open space, level ground, threshing floor"
+      },
+      {
+        "language": "Middle English",
+        "form": "area",
+        "period": "16th century",
+        "meaning": "area, space"
+      },
+      {
+        "language": "Modern English",
+        "form": "area",
+        "period": "16th century",
+        "meaning": "area"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Italian",
+        "word": "area",
+        "meaning": "area"
+      },
+      {
+        "language": "Spanish",
+        "word": "área",
+        "meaning": "area"
+      },
+      {
+        "language": "Portuguese",
+        "word": "área",
+        "meaning": "area"
+      }
+    ],
+    "notes": "From Latin \"area\" meaning \"open space\" or \"threshing floor\", later generalized to any region."
+  },
+  "word_student": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 14th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "studere",
+        "period": "Roman era",
+        "meaning": "to study, to be eager"
+      },
+      {
+        "language": "Latin",
+        "form": "studentem",
+        "period": "Medieval Latin",
+        "meaning": "student, scholar"
+      },
+      {
+        "language": "Middle English",
+        "form": "student, studient",
+        "period": "14th-15th century",
+        "meaning": "student"
+      },
+      {
+        "language": "Modern English",
+        "form": "student",
+        "period": "15th century",
+        "meaning": "student"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "étudiant",
+        "meaning": "student"
+      },
+      {
+        "language": "Spanish",
+        "word": "estudiante",
+        "meaning": "student"
+      },
+      {
+        "language": "Italian",
+        "word": "studente",
+        "meaning": "student"
+      },
+      {
+        "language": "German",
+        "word": "Student",
+        "meaning": "student"
+      }
+    ],
+    "notes": "From Latin \"studere\" meaning \"to be eager, to study\", originally meant \"one who is eager to learn\"."
+  },
+  "word_country": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "contra",
+        "period": "Roman era",
+        "meaning": "against, opposite"
+      },
+      {
+        "language": "Old French",
+        "form": "contrée",
+        "period": "12th-13th century",
+        "meaning": "region, country"
+      },
+      {
+        "language": "Middle English",
+        "form": "contree, country",
+        "period": "13th-15th century",
+        "meaning": "country"
+      },
+      {
+        "language": "Modern English",
+        "form": "country",
+        "period": "15th century",
+        "meaning": "country"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "contrée",
+        "meaning": "region"
+      },
+      {
+        "language": "Spanish",
+        "word": "país",
+        "meaning": "country"
+      },
+      {
+        "language": "Italian",
+        "word": "paese",
+        "meaning": "country"
+      }
+    ],
+    "notes": "From Latin \"contra\" meaning \"opposite\", originally referring to land lying opposite or around a settlement."
+  },
+  "word_school": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 9th century",
+    "timeline": [
+      {
+        "language": "Greek",
+        "form": "scholē",
+        "period": "Ancient Greek",
+        "meaning": "leisure, discussion, lecture"
+      },
+      {
+        "language": "Latin",
+        "form": "schola",
+        "period": "Roman era",
+        "meaning": "school"
+      },
+      {
+        "language": "Old English",
+        "form": "scol",
+        "period": "9th-11th century",
+        "meaning": "school"
+      },
+      {
+        "language": "Middle English",
+        "form": "scole, school",
+        "period": "12th-15th century",
+        "meaning": "school"
+      },
+      {
+        "language": "Modern English",
+        "form": "school",
+        "period": "15th century",
+        "meaning": "school"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "école",
+        "meaning": "school"
+      },
+      {
+        "language": "Spanish",
+        "word": "escuela",
+        "meaning": "school"
+      },
+      {
+        "language": "Italian",
+        "word": "scuola",
+        "meaning": "school"
+      },
+      {
+        "language": "German",
+        "word": "Schule",
+        "meaning": "school"
+      }
+    ],
+    "notes": "From Greek \"scholē\" meaning \"leisure\", originally referring to discussions held during leisure time."
+  },
+  "word_state": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "status",
+        "period": "Roman era",
+        "meaning": "condition, position, state"
+      },
+      {
+        "language": "Old French",
+        "form": "estat",
+        "period": "12th-13th century",
+        "meaning": "state, condition"
+      },
+      {
+        "language": "Middle English",
+        "form": "stat, state",
+        "period": "13th-15th century",
+        "meaning": "state"
+      },
+      {
+        "language": "Modern English",
+        "form": "state",
+        "period": "15th century",
+        "meaning": "state"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "état",
+        "meaning": "state"
+      },
+      {
+        "language": "Spanish",
+        "word": "estado",
+        "meaning": "state"
+      },
+      {
+        "language": "Italian",
+        "word": "stato",
+        "meaning": "state"
+      }
+    ],
+    "notes": "From Latin \"status\" meaning \"condition, position, or standing\", later extended to political entities."
+  },
+  "word_home": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*haimaz",
+        "period": "c. 500 BC",
+        "meaning": "village, home"
+      },
+      {
+        "language": "Old English",
+        "form": "hām",
+        "period": "Before 12th century",
+        "meaning": "home, village"
+      },
+      {
+        "language": "Middle English",
+        "form": "hoom, home",
+        "period": "12th-15th century",
+        "meaning": "home"
+      },
+      {
+        "language": "Modern English",
+        "form": "home",
+        "period": "15th century",
+        "meaning": "home"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Heim",
+        "meaning": "home"
+      },
+      {
+        "language": "Dutch",
+        "word": "heim",
+        "meaning": "home"
+      },
+      {
+        "language": "Swedish",
+        "word": "hem",
+        "meaning": "home"
+      }
+    ],
+    "notes": "From a root meaning \"village\" or \"settlement\", later specialized to mean \"dwelling place\"."
+  },
+  "word_mother": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "Prehistoric",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*méh₂tēr",
+        "period": "Prehistoric",
+        "meaning": "mother"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*mōdēr",
+        "period": "c. 500 BC",
+        "meaning": "mother"
+      },
+      {
+        "language": "Old English",
+        "form": "mōdor",
+        "period": "Before 12th century",
+        "meaning": "mother"
+      },
+      {
+        "language": "Middle English",
+        "form": "moder, mother",
+        "period": "12th-15th century",
+        "meaning": "mother"
+      },
+      {
+        "language": "Modern English",
+        "form": "mother",
+        "period": "15th century",
+        "meaning": "mother"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Mutter",
+        "meaning": "mother"
+      },
+      {
+        "language": "Dutch",
+        "word": "moeder",
+        "meaning": "mother"
+      },
+      {
+        "language": "Swedish",
+        "word": "moder",
+        "meaning": "mother"
+      },
+      {
+        "language": "Latin",
+        "word": "mater",
+        "meaning": "mother"
+      },
+      {
+        "language": "Greek",
+        "word": "mētēr",
+        "meaning": "mother"
+      }
+    ],
+    "notes": "One of the most stable words across Indo-European languages, with little change over thousands of years."
+  },
+  "word_father": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "Prehistoric",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*ph₂tḗr",
+        "period": "Prehistoric",
+        "meaning": "father"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*fadēr",
+        "period": "c. 500 BC",
+        "meaning": "father"
+      },
+      {
+        "language": "Old English",
+        "form": "fæder",
+        "period": "Before 12th century",
+        "meaning": "father"
+      },
+      {
+        "language": "Middle English",
+        "form": "fader, father",
+        "period": "12th-15th century",
+        "meaning": "father"
+      },
+      {
+        "language": "Modern English",
+        "form": "father",
+        "period": "15th century",
+        "meaning": "father"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Vater",
+        "meaning": "father"
+      },
+      {
+        "language": "Dutch",
+        "word": "vader",
+        "meaning": "father"
+      },
+      {
+        "language": "Swedish",
+        "word": "fader",
+        "meaning": "father"
+      },
+      {
+        "language": "Latin",
+        "word": "pater",
+        "meaning": "father"
+      },
+      {
+        "language": "Greek",
+        "word": "patēr",
+        "meaning": "father"
+      }
+    ],
+    "notes": "One of the most stable words across Indo-European languages, with little change over thousands of years."
+  },
+  "word_language": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "lingua",
+        "period": "Roman era",
+        "meaning": "tongue, language"
+      },
+      {
+        "language": "Old French",
+        "form": "language",
+        "period": "12th-13th century",
+        "meaning": "language"
+      },
+      {
+        "language": "Middle English",
+        "form": "language",
+        "period": "13th-15th century",
+        "meaning": "language"
+      },
+      {
+        "language": "Modern English",
+        "form": "language",
+        "period": "15th century",
+        "meaning": "language"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "langue",
+        "meaning": "language"
+      },
+      {
+        "language": "Spanish",
+        "word": "lengua",
+        "meaning": "language, tongue"
+      },
+      {
+        "language": "Italian",
+        "word": "lingua",
+        "meaning": "language, tongue"
+      },
+      {
+        "language": "Portuguese",
+        "word": "língua",
+        "meaning": "language, tongue"
+      }
+    ],
+    "notes": "From Latin \"lingua\" meaning \"tongue\", originally referring to the organ of speech."
+  },
+  "word_music": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Greek",
+        "form": "mousikē",
+        "period": "Ancient Greek",
+        "meaning": "art of the Muses"
+      },
+      {
+        "language": "Latin",
+        "form": "musica",
+        "period": "Roman era",
+        "meaning": "music"
+      },
+      {
+        "language": "Old French",
+        "form": "musique",
+        "period": "12th-13th century",
+        "meaning": "music"
+      },
+      {
+        "language": "Middle English",
+        "form": "musike, music",
+        "period": "13th-15th century",
+        "meaning": "music"
+      },
+      {
+        "language": "Modern English",
+        "form": "music",
+        "period": "15th century",
+        "meaning": "music"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "musique",
+        "meaning": "music"
+      },
+      {
+        "language": "Spanish",
+        "word": "música",
+        "meaning": "music"
+      },
+      {
+        "language": "Italian",
+        "word": "musica",
+        "meaning": "music"
+      },
+      {
+        "language": "German",
+        "word": "Musik",
+        "meaning": "music"
+      }
+    ],
+    "notes": "From Greek \"mousikē\" meaning \"art of the Muses\", the Greek goddesses of arts and sciences."
+  },
+  "word_car": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 16th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "carrus",
+        "period": "Roman era",
+        "meaning": "wagon, cart"
+      },
+      {
+        "language": "Middle English",
+        "form": "carre, car",
+        "period": "14th-16th century",
+        "meaning": "cart, wagon"
+      },
+      {
+        "language": "Modern English",
+        "form": "car",
+        "period": "16th century",
+        "meaning": "car"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "char",
+        "meaning": "cart"
+      },
+      {
+        "language": "Spanish",
+        "word": "carro",
+        "meaning": "cart, car"
+      },
+      {
+        "language": "Italian",
+        "word": "carro",
+        "meaning": "cart"
+      },
+      {
+        "language": "Portuguese",
+        "word": "carro",
+        "meaning": "cart, car"
+      }
+    ],
+    "notes": "From Latin \"carrus\" meaning \"wagon\" or \"cart\", originally referring to any wheeled vehicle."
+  },
+  "word_city": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "civitas",
+        "period": "Roman era",
+        "meaning": "citizenship, city"
+      },
+      {
+        "language": "Old French",
+        "form": "cité",
+        "period": "12th-13th century",
+        "meaning": "city"
+      },
+      {
+        "language": "Middle English",
+        "form": "cite, city",
+        "period": "13th-15th century",
+        "meaning": "city"
+      },
+      {
+        "language": "Modern English",
+        "form": "city",
+        "period": "15th century",
+        "meaning": "city"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "cité",
+        "meaning": "city"
+      },
+      {
+        "language": "Spanish",
+        "word": "ciudad",
+        "meaning": "city"
+      },
+      {
+        "language": "Italian",
+        "word": "città",
+        "meaning": "city"
+      }
+    ],
+    "notes": "From Latin \"civitas\" meaning \"citizenship\" or \"community of citizens\", later referring to the place itself."
+  },
+  "word_community": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 14th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "communitas",
+        "period": "Roman era",
+        "meaning": "community, fellowship"
+      },
+      {
+        "language": "Old French",
+        "form": "comuneté",
+        "period": "13th-14th century",
+        "meaning": "community"
+      },
+      {
+        "language": "Middle English",
+        "form": "communite, community",
+        "period": "14th-15th century",
+        "meaning": "community"
+      },
+      {
+        "language": "Modern English",
+        "form": "community",
+        "period": "15th century",
+        "meaning": "community"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "communauté",
+        "meaning": "community"
+      },
+      {
+        "language": "Spanish",
+        "word": "comunidad",
+        "meaning": "community"
+      },
+      {
+        "language": "Italian",
+        "word": "comunità",
+        "meaning": "community"
+      },
+      {
+        "language": "Portuguese",
+        "word": "comunidade",
+        "meaning": "community"
+      }
+    ],
+    "notes": "From Latin \"communitas\" meaning \"fellowship\" or \"common possession\", from \"communis\" meaning \"common\"."
+  },
+  "word_power": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "potere",
+        "period": "Roman era",
+        "meaning": "to be able, power"
+      },
+      {
+        "language": "Old French",
+        "form": "poair, power",
+        "period": "12th-13th century",
+        "meaning": "power, ability"
+      },
+      {
+        "language": "Middle English",
+        "form": "power, pouer",
+        "period": "13th-15th century",
+        "meaning": "power"
+      },
+      {
+        "language": "Modern English",
+        "form": "power",
+        "period": "15th century",
+        "meaning": "power"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "pouvoir",
+        "meaning": "power"
+      },
+      {
+        "language": "Spanish",
+        "word": "poder",
+        "meaning": "power"
+      },
+      {
+        "language": "Italian",
+        "word": "potere",
+        "meaning": "power"
+      },
+      {
+        "language": "Portuguese",
+        "word": "poder",
+        "meaning": "power"
+      }
+    ],
+    "notes": "From Latin \"potere\" meaning \"to be able\", originally referring to ability or capacity."
+  },
+  "word_name": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*namō",
+        "period": "c. 500 BC",
+        "meaning": "name"
+      },
+      {
+        "language": "Old English",
+        "form": "nama",
+        "period": "Before 12th century",
+        "meaning": "name"
+      },
+      {
+        "language": "Middle English",
+        "form": "name, nome",
+        "period": "12th-15th century",
+        "meaning": "name"
+      },
+      {
+        "language": "Modern English",
+        "form": "name",
+        "period": "15th century",
+        "meaning": "name"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Name",
+        "meaning": "name"
+      },
+      {
+        "language": "Dutch",
+        "word": "naam",
+        "meaning": "name"
+      },
+      {
+        "language": "Swedish",
+        "word": "namn",
+        "meaning": "name"
+      },
+      {
+        "language": "Latin",
+        "word": "nomen",
+        "meaning": "name"
+      },
+      {
+        "language": "Greek",
+        "word": "onoma",
+        "meaning": "name"
+      }
+    ],
+    "notes": "From a root meaning \"to know\", originally referring to something by which a person or thing is known."
+  },
+  "word_team": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*taugmaz",
+        "period": "c. 500 BC",
+        "meaning": "rope, yoke, team"
+      },
+      {
+        "language": "Old English",
+        "form": "tēam",
+        "period": "Before 12th century",
+        "meaning": "team, offspring, yoke of oxen"
+      },
+      {
+        "language": "Middle English",
+        "form": "tem, team",
+        "period": "12th-15th century",
+        "meaning": "team"
+      },
+      {
+        "language": "Modern English",
+        "form": "team",
+        "period": "15th century",
+        "meaning": "team"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Zug",
+        "meaning": "team, train"
+      },
+      {
+        "language": "Dutch",
+        "word": "toom",
+        "meaning": "bridle, reins"
+      }
+    ],
+    "notes": "Originally meant \"yoke of oxen\" or \"offspring\", later generalized to any group working together."
+  },
+  "word_minute": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 14th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "minutus",
+        "period": "Roman era",
+        "meaning": "small, minute"
+      },
+      {
+        "language": "Middle English",
+        "form": "minut, minute",
+        "period": "14th-15th century",
+        "meaning": "minute"
+      },
+      {
+        "language": "Modern English",
+        "form": "minute",
+        "period": "15th century",
+        "meaning": "minute"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "minute",
+        "meaning": "minute"
+      },
+      {
+        "language": "Spanish",
+        "word": "minuto",
+        "meaning": "minute"
+      },
+      {
+        "language": "Italian",
+        "word": "minuto",
+        "meaning": "minute"
+      },
+      {
+        "language": "Portuguese",
+        "word": "minuto",
+        "meaning": "minute"
+      }
+    ],
+    "notes": "From Latin \"minutus\" meaning \"small\", originally referring to a \"small part\" of an hour."
+  },
+  "word_idea": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 16th century",
+    "timeline": [
+      {
+        "language": "Greek",
+        "form": "idea",
+        "period": "Ancient Greek",
+        "meaning": "form, pattern, idea"
+      },
+      {
+        "language": "Latin",
+        "form": "idea",
+        "period": "Roman era",
+        "meaning": "idea, form"
+      },
+      {
+        "language": "Middle English",
+        "form": "idea",
+        "period": "15th-16th century",
+        "meaning": "idea"
+      },
+      {
+        "language": "Modern English",
+        "form": "idea",
+        "period": "16th century",
+        "meaning": "idea"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "idée",
+        "meaning": "idea"
+      },
+      {
+        "language": "Spanish",
+        "word": "idea",
+        "meaning": "idea"
+      },
+      {
+        "language": "Italian",
+        "word": "idea",
+        "meaning": "idea"
+      },
+      {
+        "language": "Portuguese",
+        "word": "ideia",
+        "meaning": "idea"
+      }
+    ],
+    "notes": "From Greek \"idea\" meaning \"form\" or \"pattern\", originally referring to the Platonic ideal forms."
+  },
+  "word_kid": {
+    "languageOrigin": "Old Norse",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Old Norse",
+        "form": "kið",
+        "period": "Viking age",
+        "meaning": "young goat"
+      },
+      {
+        "language": "Middle English",
+        "form": "kid, kide",
+        "period": "12th-15th century",
+        "meaning": "young goat, child"
+      },
+      {
+        "language": "Modern English",
+        "form": "kid",
+        "period": "16th century",
+        "meaning": "child"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Kitz",
+        "meaning": "young goat"
+      },
+      {
+        "language": "Dutch",
+        "word": "kid",
+        "meaning": "young goat"
+      },
+      {
+        "language": "Swedish",
+        "word": "kid",
+        "meaning": "young goat"
+      }
+    ],
+    "notes": "Originally meant \"young goat\", later extended to mean \"child\" by analogy."
+  },
+  "word_parent": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 15th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "parentem",
+        "period": "Roman era",
+        "meaning": "parent, ancestor"
+      },
+      {
+        "language": "Old French",
+        "form": "parent",
+        "period": "13th-14th century",
+        "meaning": "parent"
+      },
+      {
+        "language": "Middle English",
+        "form": "parent",
+        "period": "15th century",
+        "meaning": "parent"
+      },
+      {
+        "language": "Modern English",
+        "form": "parent",
+        "period": "15th century",
+        "meaning": "parent"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "parent",
+        "meaning": "parent"
+      },
+      {
+        "language": "Spanish",
+        "word": "padre",
+        "meaning": "father"
+      },
+      {
+        "language": "Italian",
+        "word": "genitore",
+        "meaning": "parent"
+      },
+      {
+        "language": "Portuguese",
+        "word": "pai",
+        "meaning": "father"
+      }
+    ],
+    "notes": "From Latin \"parentem\" meaning \"parent\" or \"ancestor\", from \"parere\" meaning \"to bring forth\"."
+  },
+  "word_face": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "facies",
+        "period": "Roman era",
+        "meaning": "face, form, appearance"
+      },
+      {
+        "language": "Old French",
+        "form": "face",
+        "period": "12th-13th century",
+        "meaning": "face"
+      },
+      {
+        "language": "Middle English",
+        "form": "face, fas",
+        "period": "13th-15th century",
+        "meaning": "face"
+      },
+      {
+        "language": "Modern English",
+        "form": "face",
+        "period": "15th century",
+        "meaning": "face"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "visage",
+        "meaning": "face"
+      },
+      {
+        "language": "Spanish",
+        "word": "cara",
+        "meaning": "face"
+      },
+      {
+        "language": "Italian",
+        "word": "faccia",
+        "meaning": "face"
+      },
+      {
+        "language": "Portuguese",
+        "word": "cara",
+        "meaning": "face"
+      }
+    ],
+    "notes": "From Latin \"facies\" meaning \"form\" or \"appearance\", later specialized to the face."
+  },
+  "word_door": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*daurz",
+        "period": "c. 500 BC",
+        "meaning": "door"
+      },
+      {
+        "language": "Old English",
+        "form": "duru",
+        "period": "Before 12th century",
+        "meaning": "door"
+      },
+      {
+        "language": "Middle English",
+        "form": "dore, door",
+        "period": "12th-15th century",
+        "meaning": "door"
+      },
+      {
+        "language": "Modern English",
+        "form": "door",
+        "period": "15th century",
+        "meaning": "door"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Tür",
+        "meaning": "door"
+      },
+      {
+        "language": "Dutch",
+        "word": "deur",
+        "meaning": "door"
+      },
+      {
+        "language": "Swedish",
+        "word": "dörr",
+        "meaning": "door"
+      },
+      {
+        "language": "Latin",
+        "word": "fores",
+        "meaning": "door"
+      }
+    ],
+    "notes": "From a root meaning \"to enter\" or \"to go through\", referring to an entrance."
+  },
+  "word_health": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*hailþaz",
+        "period": "c. 500 BC",
+        "meaning": "whole, healthy"
+      },
+      {
+        "language": "Old English",
+        "form": "hǣlþ",
+        "period": "Before 12th century",
+        "meaning": "health, wholeness"
+      },
+      {
+        "language": "Middle English",
+        "form": "helthe, health",
+        "period": "12th-15th century",
+        "meaning": "health"
+      },
+      {
+        "language": "Modern English",
+        "form": "health",
+        "period": "15th century",
+        "meaning": "health"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Gesundheit",
+        "meaning": "health"
+      },
+      {
+        "language": "Dutch",
+        "word": "gezondheid",
+        "meaning": "health"
+      },
+      {
+        "language": "Swedish",
+        "word": "hälsa",
+        "meaning": "health"
+      }
+    ],
+    "notes": "From a root meaning \"whole\" or \"complete\", health being the state of being whole."
+  },
+  "word_history": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 14th century",
+    "timeline": [
+      {
+        "language": "Greek",
+        "form": "historia",
+        "period": "Ancient Greek",
+        "meaning": "inquiry, investigation"
+      },
+      {
+        "language": "Latin",
+        "form": "historia",
+        "period": "Roman era",
+        "meaning": "history, narrative"
+      },
+      {
+        "language": "Old French",
+        "form": "estorie, historie",
+        "period": "12th-14th century",
+        "meaning": "history"
+      },
+      {
+        "language": "Middle English",
+        "form": "historie, history",
+        "period": "14th-15th century",
+        "meaning": "history"
+      },
+      {
+        "language": "Modern English",
+        "form": "history",
+        "period": "15th century",
+        "meaning": "history"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "histoire",
+        "meaning": "history"
+      },
+      {
+        "language": "Spanish",
+        "word": "historia",
+        "meaning": "history"
+      },
+      {
+        "language": "Italian",
+        "word": "storia",
+        "meaning": "history"
+      },
+      {
+        "language": "Portuguese",
+        "word": "história",
+        "meaning": "history"
+      }
+    ],
+    "notes": "From Greek \"historia\" meaning \"inquiry\" or \"investigation\", originally referring to learning through inquiry."
+  },
+  "word_party": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 14th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "partem",
+        "period": "Roman era",
+        "meaning": "part, share, side"
+      },
+      {
+        "language": "Old French",
+        "form": "partie",
+        "period": "12th-13th century",
+        "meaning": "part, party, side"
+      },
+      {
+        "language": "Middle English",
+        "form": "partie, party",
+        "period": "14th-15th century",
+        "meaning": "party, group"
+      },
+      {
+        "language": "Modern English",
+        "form": "party",
+        "period": "15th century",
+        "meaning": "party"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "partie",
+        "meaning": "party, part"
+      },
+      {
+        "language": "Spanish",
+        "word": "partido",
+        "meaning": "party, side"
+      },
+      {
+        "language": "Italian",
+        "word": "partito",
+        "meaning": "party"
+      }
+    ],
+    "notes": "From Latin \"partem\" meaning \"part\" or \"side\", originally referring to a group taking one side in a dispute."
+  },
+  "word_result": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 15th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "resultare",
+        "period": "Medieval Latin",
+        "meaning": "to result, to spring back"
+      },
+      {
+        "language": "Middle English",
+        "form": "result",
+        "period": "15th century",
+        "meaning": "result"
+      },
+      {
+        "language": "Modern English",
+        "form": "result",
+        "period": "15th century",
+        "meaning": "result"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "résultat",
+        "meaning": "result"
+      },
+      {
+        "language": "Spanish",
+        "word": "resultado",
+        "meaning": "result"
+      },
+      {
+        "language": "Italian",
+        "word": "risultato",
+        "meaning": "result"
+      },
+      {
+        "language": "Portuguese",
+        "word": "resultado",
+        "meaning": "result"
+      }
+    ],
+    "notes": "From Latin \"resultare\" meaning \"to spring back\" or \"to rebound\", referring to the outcome of an action."
+  },
+  "word_morning": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*murganaz",
+        "period": "c. 500 BC",
+        "meaning": "morning"
+      },
+      {
+        "language": "Old English",
+        "form": "morgen",
+        "period": "Before 12th century",
+        "meaning": "morning"
+      },
+      {
+        "language": "Middle English",
+        "form": "morwening, morning",
+        "period": "12th-15th century",
+        "meaning": "morning"
+      },
+      {
+        "language": "Modern English",
+        "form": "morning",
+        "period": "15th century",
+        "meaning": "morning"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Morgen",
+        "meaning": "morning"
+      },
+      {
+        "language": "Dutch",
+        "word": "morgen",
+        "meaning": "morning"
+      },
+      {
+        "language": "Swedish",
+        "word": "morgon",
+        "meaning": "morning"
+      }
+    ],
+    "notes": "From a root meaning \"to dawn\" or \"to become light\", referring to the time of daybreak."
+  },
+  "word_reason": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "rationem",
+        "period": "Roman era",
+        "meaning": "reason, calculation, judgment"
+      },
+      {
+        "language": "Old French",
+        "form": "raison",
+        "period": "12th-13th century",
+        "meaning": "reason"
+      },
+      {
+        "language": "Middle English",
+        "form": "resoun, reason",
+        "period": "12th-15th century",
+        "meaning": "reason"
+      },
+      {
+        "language": "Modern English",
+        "form": "reason",
+        "period": "15th century",
+        "meaning": "reason"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "raison",
+        "meaning": "reason"
+      },
+      {
+        "language": "Spanish",
+        "word": "razón",
+        "meaning": "reason"
+      },
+      {
+        "language": "Italian",
+        "word": "ragione",
+        "meaning": "reason"
+      },
+      {
+        "language": "Portuguese",
+        "word": "razão",
+        "meaning": "reason"
+      }
+    ],
+    "notes": "From Latin \"ratio\" meaning \"reckoning\" or \"calculation\", later extended to logical thinking."
+  },
+  "word_research": {
+    "languageOrigin": "Old French",
+    "yearOfOrigin": "c. 16th century",
+    "timeline": [
+      {
+        "language": "Old French",
+        "form": "recercher",
+        "period": "14th-15th century",
+        "meaning": "to search again, to investigate"
+      },
+      {
+        "language": "Middle English",
+        "form": "searchen",
+        "period": "14th-15th century",
+        "meaning": "to search"
+      },
+      {
+        "language": "Modern English",
+        "form": "research",
+        "period": "16th century",
+        "meaning": "research"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "recherche",
+        "meaning": "research"
+      },
+      {
+        "language": "Spanish",
+        "word": "investigación",
+        "meaning": "research"
+      },
+      {
+        "language": "Italian",
+        "word": "ricerca",
+        "meaning": "research"
+      },
+      {
+        "language": "German",
+        "word": "Forschung",
+        "meaning": "research"
+      }
+    ],
+    "notes": "From Old French \"recercher\" meaning \"to search again\", from \"re\" (again) + \"cercher\" (to search)."
+  },
+  "word_girl": {
+    "languageOrigin": "Old English",
+    "yearOfOrigin": "c. 14th century",
+    "timeline": [
+      {
+        "language": "Old English",
+        "form": "gyrle",
+        "period": "Before 12th century",
+        "meaning": "child, young person"
+      },
+      {
+        "language": "Middle English",
+        "form": "girle, gerle",
+        "period": "13th-15th century",
+        "meaning": "child, young woman"
+      },
+      {
+        "language": "Modern English",
+        "form": "girl",
+        "period": "15th century",
+        "meaning": "girl"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Mädchen",
+        "meaning": "girl"
+      },
+      {
+        "language": "Dutch",
+        "word": "meisje",
+        "meaning": "girl"
+      },
+      {
+        "language": "Swedish",
+        "word": "flicka",
+        "meaning": "girl"
+      }
+    ],
+    "notes": "Originally meant \"child\" of either sex, later specialized to mean \"female child\"."
+  },
+  "word_guy": {
+    "languageOrigin": "Old French",
+    "yearOfOrigin": "c. 19th century",
+    "timeline": [
+      {
+        "language": "Old French",
+        "form": "Guy",
+        "period": "Medieval",
+        "meaning": "proper name"
+      },
+      {
+        "language": "English",
+        "form": "guy",
+        "period": "19th century",
+        "meaning": "fellow, man"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "type",
+        "meaning": "guy, fellow"
+      },
+      {
+        "language": "Spanish",
+        "word": "tipo",
+        "meaning": "guy, fellow"
+      },
+      {
+        "language": "Italian",
+        "word": "tipo",
+        "meaning": "guy, fellow"
+      }
+    ],
+    "notes": "From the name \"Guy Fawkes\", originally a proper name that became a generic term for a man."
+  },
+  "word_job": {
+    "languageOrigin": "Middle English",
+    "yearOfOrigin": "c. 16th century",
+    "timeline": [
+      {
+        "language": "Middle English",
+        "form": "jobbe",
+        "period": "16th century",
+        "meaning": "piece of work, task"
+      },
+      {
+        "language": "Modern English",
+        "form": "job",
+        "period": "17th century",
+        "meaning": "job, occupation"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Job",
+        "meaning": "job"
+      },
+      {
+        "language": "French",
+        "word": "boulot",
+        "meaning": "job"
+      },
+      {
+        "language": "Spanish",
+        "word": "trabajo",
+        "meaning": "work, job"
+      }
+    ],
+    "notes": "Of uncertain origin, possibly related to \"lump\" or \"piece\", originally meaning a specific task."
+  },
+  "word_phone": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 19th century",
+    "timeline": [
+      {
+        "language": "Greek",
+        "form": "phōnē",
+        "period": "Ancient Greek",
+        "meaning": "sound, voice"
+      },
+      {
+        "language": "Greek",
+        "form": "telephone",
+        "period": "19th century",
+        "meaning": "telephone"
+      },
+      {
+        "language": "English",
+        "form": "phone",
+        "period": "20th century",
+        "meaning": "phone"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "téléphone",
+        "meaning": "telephone"
+      },
+      {
+        "language": "Spanish",
+        "word": "teléfono",
+        "meaning": "telephone"
+      },
+      {
+        "language": "Italian",
+        "word": "telefono",
+        "meaning": "telephone"
+      },
+      {
+        "language": "German",
+        "word": "Telefon",
+        "meaning": "telephone"
+      }
+    ],
+    "notes": "Short for \"telephone\", from Greek \"tele\" (far) + \"phone\" (sound), literally meaning \"far sound\"."
+  },
+  "word_room": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*rūmą",
+        "period": "c. 500 BC",
+        "meaning": "space, room"
+      },
+      {
+        "language": "Old English",
+        "form": "rūm",
+        "period": "Before 12th century",
+        "meaning": "space, room"
+      },
+      {
+        "language": "Middle English",
+        "form": "roum, room",
+        "period": "12th-15th century",
+        "meaning": "room, space"
+      },
+      {
+        "language": "Modern English",
+        "form": "room",
+        "period": "15th century",
+        "meaning": "room"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Raum",
+        "meaning": "room, space"
+      },
+      {
+        "language": "Dutch",
+        "word": "ruimte",
+        "meaning": "space"
+      },
+      {
+        "language": "Swedish",
+        "word": "rum",
+        "meaning": "room"
+      }
+    ],
+    "notes": "From a root meaning \"space\" or \"open space\", originally referring to any enclosed space."
+  },
+  "word_teacher": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*taikiją",
+        "period": "c. 500 BC",
+        "meaning": "to show, to teach"
+      },
+      {
+        "language": "Old English",
+        "form": "tæcan",
+        "period": "Before 12th century",
+        "meaning": "to teach"
+      },
+      {
+        "language": "Middle English",
+        "form": "techen, teacher",
+        "period": "13th-15th century",
+        "meaning": "to teach, teacher"
+      },
+      {
+        "language": "Modern English",
+        "form": "teacher",
+        "period": "15th century",
+        "meaning": "teacher"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Lehrer",
+        "meaning": "teacher"
+      },
+      {
+        "language": "Dutch",
+        "word": "leraar",
+        "meaning": "teacher"
+      },
+      {
+        "language": "Swedish",
+        "word": "lärare",
+        "meaning": "teacher"
+      }
+    ],
+    "notes": "From a root meaning \"to show\" or \"to point out\", referring to someone who shows or instructs."
+  },
+  "word_office": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "officium",
+        "period": "Roman era",
+        "meaning": "service, duty, office"
+      },
+      {
+        "language": "Old French",
+        "form": "office",
+        "period": "12th-13th century",
+        "meaning": "office, duty"
+      },
+      {
+        "language": "Middle English",
+        "form": "office, offis",
+        "period": "13th-15th century",
+        "meaning": "office"
+      },
+      {
+        "language": "Modern English",
+        "form": "office",
+        "period": "15th century",
+        "meaning": "office"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "bureau",
+        "meaning": "office"
+      },
+      {
+        "language": "Spanish",
+        "word": "oficina",
+        "meaning": "office"
+      },
+      {
+        "language": "Italian",
+        "word": "ufficio",
+        "meaning": "office"
+      },
+      {
+        "language": "Portuguese",
+        "word": "escritório",
+        "meaning": "office"
+      }
+    ],
+    "notes": "From Latin \"officium\" meaning \"service\" or \"duty\", originally referring to a place where duties are performed."
+  },
+  "word_hour": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "hora",
+        "period": "Roman era",
+        "meaning": "hour, time"
+      },
+      {
+        "language": "Old French",
+        "form": "hore, heure",
+        "period": "12th-13th century",
+        "meaning": "hour"
+      },
+      {
+        "language": "Middle English",
+        "form": "hour, houre",
+        "period": "13th-15th century",
+        "meaning": "hour"
+      },
+      {
+        "language": "Modern English",
+        "form": "hour",
+        "period": "15th century",
+        "meaning": "hour"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "heure",
+        "meaning": "hour"
+      },
+      {
+        "language": "Spanish",
+        "word": "hora",
+        "meaning": "hour"
+      },
+      {
+        "language": "Italian",
+        "word": "ora",
+        "meaning": "hour"
+      },
+      {
+        "language": "Portuguese",
+        "word": "hora",
+        "meaning": "hour"
+      }
+    ],
+    "notes": "From Latin \"hora\" meaning \"hour\", originally from Greek \"hōra\" meaning \"season, time\"."
+  },
+  "word_game": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*gamą",
+        "period": "c. 500 BC",
+        "meaning": "game, play"
+      },
+      {
+        "language": "Old English",
+        "form": "gamen",
+        "period": "Before 12th century",
+        "meaning": "game, amusement"
+      },
+      {
+        "language": "Middle English",
+        "form": "game, gamen",
+        "period": "12th-15th century",
+        "meaning": "game"
+      },
+      {
+        "language": "Modern English",
+        "form": "game",
+        "period": "15th century",
+        "meaning": "game"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Spiel",
+        "meaning": "game"
+      },
+      {
+        "language": "Dutch",
+        "word": "spel",
+        "meaning": "game"
+      },
+      {
+        "language": "Swedish",
+        "word": "spel",
+        "meaning": "game"
+      }
+    ],
+    "notes": "From a root meaning \"to leap\" or \"to rejoice\", referring to amusement or play."
+  },
+  "word_line": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 14th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "linea",
+        "period": "Roman era",
+        "meaning": "linen thread, line"
+      },
+      {
+        "language": "Old French",
+        "form": "ligne",
+        "period": "12th-13th century",
+        "meaning": "line"
+      },
+      {
+        "language": "Middle English",
+        "form": "line, lyne",
+        "period": "13th-15th century",
+        "meaning": "line"
+      },
+      {
+        "language": "Modern English",
+        "form": "line",
+        "period": "15th century",
+        "meaning": "line"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "ligne",
+        "meaning": "line"
+      },
+      {
+        "language": "Spanish",
+        "word": "línea",
+        "meaning": "line"
+      },
+      {
+        "language": "Italian",
+        "word": "linea",
+        "meaning": "line"
+      },
+      {
+        "language": "Portuguese",
+        "word": "linha",
+        "meaning": "line"
+      }
+    ],
+    "notes": "From Latin \"linea\" meaning \"linen thread\", originally referring to a thread used as a guide."
+  },
+  "word_end": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*andijaz",
+        "period": "c. 500 BC",
+        "meaning": "end, limit"
+      },
+      {
+        "language": "Old English",
+        "form": "ende",
+        "period": "Before 12th century",
+        "meaning": "end"
+      },
+      {
+        "language": "Middle English",
+        "form": "end, ende",
+        "period": "12th-15th century",
+        "meaning": "end"
+      },
+      {
+        "language": "Modern English",
+        "form": "end",
+        "period": "15th century",
+        "meaning": "end"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Ende",
+        "meaning": "end"
+      },
+      {
+        "language": "Dutch",
+        "word": "einde",
+        "meaning": "end"
+      },
+      {
+        "language": "Swedish",
+        "word": "ände",
+        "meaning": "end"
+      }
+    ],
+    "notes": "From a root meaning \"to limit\" or \"to bound\", referring to the final point or limit."
+  },
+  "word_member": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 14th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "membrum",
+        "period": "Roman era",
+        "meaning": "limb, member, part"
+      },
+      {
+        "language": "Old French",
+        "form": "membre",
+        "period": "12th-13th century",
+        "meaning": "member, limb"
+      },
+      {
+        "language": "Middle English",
+        "form": "membre, member",
+        "period": "13th-15th century",
+        "meaning": "member"
+      },
+      {
+        "language": "Modern English",
+        "form": "member",
+        "period": "15th century",
+        "meaning": "member"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "membre",
+        "meaning": "member"
+      },
+      {
+        "language": "Spanish",
+        "word": "miembro",
+        "meaning": "member"
+      },
+      {
+        "language": "Italian",
+        "word": "membro",
+        "meaning": "member"
+      },
+      {
+        "language": "Portuguese",
+        "word": "membro",
+        "meaning": "member"
+      }
+    ],
+    "notes": "From Latin \"membrum\" meaning \"limb\" or \"body part\", later extended to mean a part of a group."
+  },
+  "word_law": {
+    "languageOrigin": "Old Norse",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Norse",
+        "form": "lag",
+        "period": "Viking age",
+        "meaning": "law, layer"
+      },
+      {
+        "language": "Old English",
+        "form": "lagu",
+        "period": "10th-11th century",
+        "meaning": "law"
+      },
+      {
+        "language": "Middle English",
+        "form": "lawe, law",
+        "period": "12th-15th century",
+        "meaning": "law"
+      },
+      {
+        "language": "Modern English",
+        "form": "law",
+        "period": "15th century",
+        "meaning": "law"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Gesetz",
+        "meaning": "law"
+      },
+      {
+        "language": "Dutch",
+        "word": "wet",
+        "meaning": "law"
+      },
+      {
+        "language": "Swedish",
+        "word": "lag",
+        "meaning": "law"
+      }
+    ],
+    "notes": "From Old Norse \"lag\" meaning \"layer\" or \"something laid down\", referring to established rules."
+  },
+  "word_president": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 14th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "praesidentem",
+        "period": "Roman era",
+        "meaning": "president, one who presides"
+      },
+      {
+        "language": "Middle English",
+        "form": "president",
+        "period": "14th-15th century",
+        "meaning": "president"
+      },
+      {
+        "language": "Modern English",
+        "form": "president",
+        "period": "15th century",
+        "meaning": "president"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "président",
+        "meaning": "president"
+      },
+      {
+        "language": "Spanish",
+        "word": "presidente",
+        "meaning": "president"
+      },
+      {
+        "language": "Italian",
+        "word": "presidente",
+        "meaning": "president"
+      },
+      {
+        "language": "Portuguese",
+        "word": "presidente",
+        "meaning": "president"
+      }
+    ],
+    "notes": "From Latin \"praesidere\" meaning \"to sit before, to preside\", from \"prae\" (before) + \"sedere\" (to sit)."
+  },
+  "word_month": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*mēnōþs",
+        "period": "c. 500 BC",
+        "meaning": "month"
+      },
+      {
+        "language": "Old English",
+        "form": "mōnaþ",
+        "period": "Before 12th century",
+        "meaning": "month"
+      },
+      {
+        "language": "Middle English",
+        "form": "moneth, month",
+        "period": "12th-15th century",
+        "meaning": "month"
+      },
+      {
+        "language": "Modern English",
+        "form": "month",
+        "period": "15th century",
+        "meaning": "month"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Monat",
+        "meaning": "month"
+      },
+      {
+        "language": "Dutch",
+        "word": "maand",
+        "meaning": "month"
+      },
+      {
+        "language": "Swedish",
+        "word": "månad",
+        "meaning": "month"
+      }
+    ],
+    "notes": "Related to \"moon\", originally referring to the lunar cycle or one complete cycle of the moon."
+  },
+  "word_lesson": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "lectionem",
+        "period": "Roman era",
+        "meaning": "reading, lesson"
+      },
+      {
+        "language": "Old French",
+        "form": "leçon",
+        "period": "12th-13th century",
+        "meaning": "lesson"
+      },
+      {
+        "language": "Middle English",
+        "form": "lesoun, lesson",
+        "period": "13th-15th century",
+        "meaning": "lesson"
+      },
+      {
+        "language": "Modern English",
+        "form": "lesson",
+        "period": "15th century",
+        "meaning": "lesson"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "leçon",
+        "meaning": "lesson"
+      },
+      {
+        "language": "Spanish",
+        "word": "lección",
+        "meaning": "lesson"
+      },
+      {
+        "language": "Italian",
+        "word": "lezione",
+        "meaning": "lesson"
+      },
+      {
+        "language": "Portuguese",
+        "word": "lição",
+        "meaning": "lesson"
+      }
+    ],
+    "notes": "From Latin \"lectio\" meaning \"reading\", originally referring to a passage read for instruction."
+  },
+  "word_air": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 14th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "aer",
+        "period": "Roman era",
+        "meaning": "air, atmosphere"
+      },
+      {
+        "language": "Old French",
+        "form": "air",
+        "period": "12th-13th century",
+        "meaning": "air"
+      },
+      {
+        "language": "Middle English",
+        "form": "air, eyr",
+        "period": "13th-15th century",
+        "meaning": "air"
+      },
+      {
+        "language": "Modern English",
+        "form": "air",
+        "period": "15th century",
+        "meaning": "air"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "air",
+        "meaning": "air"
+      },
+      {
+        "language": "Spanish",
+        "word": "aire",
+        "meaning": "air"
+      },
+      {
+        "language": "Italian",
+        "word": "aria",
+        "meaning": "air"
+      },
+      {
+        "language": "Portuguese",
+        "word": "ar",
+        "meaning": "air"
+      }
+    ],
+    "notes": "From Latin \"aer\" meaning \"air\" or \"atmosphere\", from Greek \"aēr\" meaning \"air\"."
+  },
+  "word_fire": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*fōr",
+        "period": "c. 500 BC",
+        "meaning": "fire"
+      },
+      {
+        "language": "Old English",
+        "form": "fȳr",
+        "period": "Before 12th century",
+        "meaning": "fire"
+      },
+      {
+        "language": "Middle English",
+        "form": "fier, fire",
+        "period": "12th-15th century",
+        "meaning": "fire"
+      },
+      {
+        "language": "Modern English",
+        "form": "fire",
+        "period": "15th century",
+        "meaning": "fire"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Feuer",
+        "meaning": "fire"
+      },
+      {
+        "language": "Dutch",
+        "word": "vuur",
+        "meaning": "fire"
+      },
+      {
+        "language": "Swedish",
+        "word": "eld",
+        "meaning": "fire"
+      }
+    ],
+    "notes": "From a root meaning \"to burn\" or \"to be hot\", one of the most ancient words in Germanic languages."
+  },
+  "word_light": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*leuhtą",
+        "period": "c. 500 BC",
+        "meaning": "light, brightness"
+      },
+      {
+        "language": "Old English",
+        "form": "lēoht",
+        "period": "Before 12th century",
+        "meaning": "light"
+      },
+      {
+        "language": "Middle English",
+        "form": "light, liht",
+        "period": "12th-15th century",
+        "meaning": "light"
+      },
+      {
+        "language": "Modern English",
+        "form": "light",
+        "period": "15th century",
+        "meaning": "light"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Licht",
+        "meaning": "light"
+      },
+      {
+        "language": "Dutch",
+        "word": "licht",
+        "meaning": "light"
+      },
+      {
+        "language": "Swedish",
+        "word": "ljus",
+        "meaning": "light"
+      },
+      {
+        "language": "Latin",
+        "word": "lux",
+        "meaning": "light"
+      }
+    ],
+    "notes": "From a root meaning \"to shine\" or \"to be bright\", referring to illumination."
+  },
+  "word_sound": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sonus",
+        "period": "Roman era",
+        "meaning": "sound, noise"
+      },
+      {
+        "language": "Old French",
+        "form": "son",
+        "period": "12th-13th century",
+        "meaning": "sound"
+      },
+      {
+        "language": "Middle English",
+        "form": "soun, sound",
+        "period": "13th-15th century",
+        "meaning": "sound"
+      },
+      {
+        "language": "Modern English",
+        "form": "sound",
+        "period": "15th century",
+        "meaning": "sound"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "son",
+        "meaning": "sound"
+      },
+      {
+        "language": "Spanish",
+        "word": "sonido",
+        "meaning": "sound"
+      },
+      {
+        "language": "Italian",
+        "word": "suono",
+        "meaning": "sound"
+      },
+      {
+        "language": "Portuguese",
+        "word": "som",
+        "meaning": "sound"
+      }
+    ],
+    "notes": "From Latin \"sonus\" meaning \"sound\" or \"noise\", from a root meaning \"to sound\"."
+  },
+  "word_color": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "color",
+        "period": "Roman era",
+        "meaning": "color, appearance"
+      },
+      {
+        "language": "Old French",
+        "form": "colour, color",
+        "period": "12th-13th century",
+        "meaning": "color"
+      },
+      {
+        "language": "Middle English",
+        "form": "colour, color",
+        "period": "13th-15th century",
+        "meaning": "color"
+      },
+      {
+        "language": "Modern English",
+        "form": "color",
+        "period": "15th century",
+        "meaning": "color"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "couleur",
+        "meaning": "color"
+      },
+      {
+        "language": "Spanish",
+        "word": "color",
+        "meaning": "color"
+      },
+      {
+        "language": "Italian",
+        "word": "colore",
+        "meaning": "color"
+      },
+      {
+        "language": "Portuguese",
+        "word": "cor",
+        "meaning": "color"
+      }
+    ],
+    "notes": "From Latin \"color\" meaning \"color\" or \"appearance\", from a root meaning \"to cover\" or \"to conceal\"."
+  },
+  "word_side": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*sīdō",
+        "period": "c. 500 BC",
+        "meaning": "side, flank"
+      },
+      {
+        "language": "Old English",
+        "form": "sīd",
+        "period": "Before 12th century",
+        "meaning": "side"
+      },
+      {
+        "language": "Middle English",
+        "form": "side, syde",
+        "period": "12th-15th century",
+        "meaning": "side"
+      },
+      {
+        "language": "Modern English",
+        "form": "side",
+        "period": "15th century",
+        "meaning": "side"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Seite",
+        "meaning": "side"
+      },
+      {
+        "language": "Dutch",
+        "word": "zijde",
+        "meaning": "side"
+      },
+      {
+        "language": "Swedish",
+        "word": "sida",
+        "meaning": "side"
+      }
+    ],
+    "notes": "From a root meaning \"long\" or \"extended\", referring to the flank or side of something."
+  },
+  "word_bed": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*badją",
+        "period": "c. 500 BC",
+        "meaning": "bed, sleeping place"
+      },
+      {
+        "language": "Old English",
+        "form": "bedd",
+        "period": "Before 12th century",
+        "meaning": "bed"
+      },
+      {
+        "language": "Middle English",
+        "form": "bed, bedde",
+        "period": "12th-15th century",
+        "meaning": "bed"
+      },
+      {
+        "language": "Modern English",
+        "form": "bed",
+        "period": "15th century",
+        "meaning": "bed"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Bett",
+        "meaning": "bed"
+      },
+      {
+        "language": "Dutch",
+        "word": "bed",
+        "meaning": "bed"
+      },
+      {
+        "language": "Swedish",
+        "word": "säng",
+        "meaning": "bed"
+      }
+    ],
+    "notes": "From a root meaning \"to dig\" or \"to hollow out\", originally referring to a hollowed-out sleeping place."
+  },
+  "word_chair": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "cathedra",
+        "period": "Roman era",
+        "meaning": "chair, seat"
+      },
+      {
+        "language": "Old French",
+        "form": "chaiere, chaire",
+        "period": "12th-13th century",
+        "meaning": "chair"
+      },
+      {
+        "language": "Middle English",
+        "form": "chaire, chair",
+        "period": "13th-15th century",
+        "meaning": "chair"
+      },
+      {
+        "language": "Modern English",
+        "form": "chair",
+        "period": "15th century",
+        "meaning": "chair"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "chaise",
+        "meaning": "chair"
+      },
+      {
+        "language": "Spanish",
+        "word": "silla",
+        "meaning": "chair"
+      },
+      {
+        "language": "Italian",
+        "word": "sedia",
+        "meaning": "chair"
+      },
+      {
+        "language": "Portuguese",
+        "word": "cadeira",
+        "meaning": "chair"
+      }
+    ],
+    "notes": "From Latin \"cathedra\" meaning \"seat\" or \"chair\", from \"cata\" (down) + \"hedra\" (seat)."
+  },
+  "word_table": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "tabula",
+        "period": "Roman era",
+        "meaning": "board, plank, table"
+      },
+      {
+        "language": "Old French",
+        "form": "table",
+        "period": "12th-13th century",
+        "meaning": "table"
+      },
+      {
+        "language": "Middle English",
+        "form": "table, tabel",
+        "period": "12th-15th century",
+        "meaning": "table"
+      },
+      {
+        "language": "Modern English",
+        "form": "table",
+        "period": "15th century",
+        "meaning": "table"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "table",
+        "meaning": "table"
+      },
+      {
+        "language": "Spanish",
+        "word": "mesa",
+        "meaning": "table"
+      },
+      {
+        "language": "Italian",
+        "word": "tavolo",
+        "meaning": "table"
+      },
+      {
+        "language": "Portuguese",
+        "word": "mesa",
+        "meaning": "table"
+      }
+    ],
+    "notes": "From Latin \"tabula\" meaning \"board\" or \"plank\", originally referring to a flat board used as a table."
+  },
+  "word_desk": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 14th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "discus",
+        "period": "Roman era",
+        "meaning": "disc, dish, desk"
+      },
+      {
+        "language": "Middle English",
+        "form": "deske, desk",
+        "period": "14th-15th century",
+        "meaning": "desk"
+      },
+      {
+        "language": "Modern English",
+        "form": "desk",
+        "period": "15th century",
+        "meaning": "desk"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "bureau",
+        "meaning": "desk"
+      },
+      {
+        "language": "Spanish",
+        "word": "escritorio",
+        "meaning": "desk"
+      },
+      {
+        "language": "Italian",
+        "word": "scrivania",
+        "meaning": "desk"
+      },
+      {
+        "language": "German",
+        "word": "Schreibtisch",
+        "meaning": "desk"
+      }
+    ],
+    "notes": "From Latin \"discus\" meaning \"disc\" or \"dish\", originally referring to a sloping table for writing."
+  },
+  "word_window": {
+    "languageOrigin": "Old Norse",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Old Norse",
+        "form": "vindauga",
+        "period": "Viking age",
+        "meaning": "wind eye, window"
+      },
+      {
+        "language": "Middle English",
+        "form": "windowe, window",
+        "period": "13th-15th century",
+        "meaning": "window"
+      },
+      {
+        "language": "Modern English",
+        "form": "window",
+        "period": "15th century",
+        "meaning": "window"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Fenster",
+        "meaning": "window"
+      },
+      {
+        "language": "Dutch",
+        "word": "raam",
+        "meaning": "window"
+      },
+      {
+        "language": "Swedish",
+        "word": "fönster",
+        "meaning": "window"
+      }
+    ],
+    "notes": "From Old Norse \"vindauga\" meaning \"wind eye\", literally \"eye for the wind\" or \"opening for light\"."
+  },
+  "word_wall": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "vallum",
+        "period": "Roman era",
+        "meaning": "rampart, wall"
+      },
+      {
+        "language": "Old English",
+        "form": "weall",
+        "period": "Before 12th century",
+        "meaning": "wall"
+      },
+      {
+        "language": "Middle English",
+        "form": "wall, walle",
+        "period": "12th-15th century",
+        "meaning": "wall"
+      },
+      {
+        "language": "Modern English",
+        "form": "wall",
+        "period": "15th century",
+        "meaning": "wall"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Mauer",
+        "meaning": "wall"
+      },
+      {
+        "language": "Dutch",
+        "word": "muur",
+        "meaning": "wall"
+      },
+      {
+        "language": "Swedish",
+        "word": "vägg",
+        "meaning": "wall"
+      }
+    ],
+    "notes": "From Latin \"vallum\" meaning \"rampart\" or \"fortification\", from \"vallo\" meaning \"to strengthen\"."
+  },
+  "word_floor": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "planum",
+        "period": "Roman era",
+        "meaning": "flat surface, floor"
+      },
+      {
+        "language": "Old French",
+        "form": "flor",
+        "period": "12th-13th century",
+        "meaning": "floor"
+      },
+      {
+        "language": "Middle English",
+        "form": "flor, floor",
+        "period": "13th-15th century",
+        "meaning": "floor"
+      },
+      {
+        "language": "Modern English",
+        "form": "floor",
+        "period": "15th century",
+        "meaning": "floor"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "sol",
+        "meaning": "floor"
+      },
+      {
+        "language": "Spanish",
+        "word": "suelo",
+        "meaning": "floor"
+      },
+      {
+        "language": "Italian",
+        "word": "pavimento",
+        "meaning": "floor"
+      },
+      {
+        "language": "Portuguese",
+        "word": "chão",
+        "meaning": "floor"
+      }
+    ],
+    "notes": "From Latin \"planum\" meaning \"flat surface\", originally referring to the ground level of a building."
+  },
+  "word_ceiling": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 16th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "caelum",
+        "period": "Roman era",
+        "meaning": "sky, heaven"
+      },
+      {
+        "language": "Middle English",
+        "form": "celing, ceiling",
+        "period": "16th century",
+        "meaning": "ceiling"
+      },
+      {
+        "language": "Modern English",
+        "form": "ceiling",
+        "period": "16th century",
+        "meaning": "ceiling"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "plafond",
+        "meaning": "ceiling"
+      },
+      {
+        "language": "Spanish",
+        "word": "techo",
+        "meaning": "ceiling"
+      },
+      {
+        "language": "Italian",
+        "word": "soffitto",
+        "meaning": "ceiling"
+      },
+      {
+        "language": "Portuguese",
+        "word": "teto",
+        "meaning": "ceiling"
+      }
+    ],
+    "notes": "From Latin \"caelum\" meaning \"sky\" or \"heaven\", metaphorically referring to the \"sky\" of a room."
+  },
+  "word_roof": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*hrōfaz",
+        "period": "c. 500 BC",
+        "meaning": "roof"
+      },
+      {
+        "language": "Old English",
+        "form": "hrōf",
+        "period": "Before 12th century",
+        "meaning": "roof"
+      },
+      {
+        "language": "Middle English",
+        "form": "roof, rofe",
+        "period": "12th-15th century",
+        "meaning": "roof"
+      },
+      {
+        "language": "Modern English",
+        "form": "roof",
+        "period": "15th century",
+        "meaning": "roof"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Dach",
+        "meaning": "roof"
+      },
+      {
+        "language": "Dutch",
+        "word": "dak",
+        "meaning": "roof"
+      },
+      {
+        "language": "Swedish",
+        "word": "tak",
+        "meaning": "roof"
+      }
+    ],
+    "notes": "From a root meaning \"to cover\" or \"to shelter\", referring to the covering of a building."
+  },
+  "word_garden": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*gardaz",
+        "period": "c. 500 BC",
+        "meaning": "enclosure, yard"
+      },
+      {
+        "language": "Old English",
+        "form": "geard",
+        "period": "Before 12th century",
+        "meaning": "yard, enclosure"
+      },
+      {
+        "language": "Middle English",
+        "form": "gardin, garden",
+        "period": "13th-15th century",
+        "meaning": "garden"
+      },
+      {
+        "language": "Modern English",
+        "form": "garden",
+        "period": "15th century",
+        "meaning": "garden"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Garten",
+        "meaning": "garden"
+      },
+      {
+        "language": "Dutch",
+        "word": "tuin",
+        "meaning": "garden"
+      },
+      {
+        "language": "Swedish",
+        "word": "trädgård",
+        "meaning": "garden"
+      }
+    ],
+    "notes": "From a root meaning \"to enclose\" or \"to guard\", originally referring to an enclosed area for cultivation."
+  },
+  "word_park": {
+    "languageOrigin": "Old French",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Old French",
+        "form": "parc",
+        "period": "12th-13th century",
+        "meaning": "enclosed hunting ground"
+      },
+      {
+        "language": "Middle English",
+        "form": "parke, park",
+        "period": "13th-15th century",
+        "meaning": "park"
+      },
+      {
+        "language": "Modern English",
+        "form": "park",
+        "period": "15th century",
+        "meaning": "park"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "parc",
+        "meaning": "park"
+      },
+      {
+        "language": "Spanish",
+        "word": "parque",
+        "meaning": "park"
+      },
+      {
+        "language": "Italian",
+        "word": "parco",
+        "meaning": "park"
+      },
+      {
+        "language": "Portuguese",
+        "word": "parque",
+        "meaning": "park"
+      }
+    ],
+    "notes": "From Old French \"parc\" meaning \"enclosed ground\", from Medieval Latin \"parricus\" meaning \"enclosure\"."
+  },
+  "word_street": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "strata",
+        "period": "Roman era",
+        "meaning": "paved road, street"
+      },
+      {
+        "language": "Old English",
+        "form": "strǣt",
+        "period": "Before 12th century",
+        "meaning": "paved road, street"
+      },
+      {
+        "language": "Middle English",
+        "form": "strete, street",
+        "period": "12th-15th century",
+        "meaning": "street"
+      },
+      {
+        "language": "Modern English",
+        "form": "street",
+        "period": "15th century",
+        "meaning": "street"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "rue",
+        "meaning": "street"
+      },
+      {
+        "language": "Spanish",
+        "word": "calle",
+        "meaning": "street"
+      },
+      {
+        "language": "Italian",
+        "word": "strada",
+        "meaning": "street"
+      },
+      {
+        "language": "Portuguese",
+        "word": "rua",
+        "meaning": "street"
+      }
+    ],
+    "notes": "From Latin \"strata\" meaning \"paved way\", from \"sternere\" meaning \"to spread out\" or \"to pave\"."
+  },
+  "word_road": {
+    "languageOrigin": "Old English",
+    "yearOfOrigin": "Before 12th century",
+    "timeline": [
+      {
+        "language": "Old English",
+        "form": "rād",
+        "period": "Before 12th century",
+        "meaning": "riding, journey, road"
+      },
+      {
+        "language": "Middle English",
+        "form": "rood, road",
+        "period": "12th-15th century",
+        "meaning": "road"
+      },
+      {
+        "language": "Modern English",
+        "form": "road",
+        "period": "15th century",
+        "meaning": "road"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Straße",
+        "meaning": "street"
+      },
+      {
+        "language": "Dutch",
+        "word": "weg",
+        "meaning": "way, road"
+      },
+      {
+        "language": "Swedish",
+        "word": "väg",
+        "meaning": "road, way"
+      }
+    ],
+    "notes": "From Old English \"rād\" meaning \"riding\" or \"journey\", originally referring to a route for riding."
+  },
+  "word_bridge": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*bruggjō",
+        "period": "c. 500 BC",
+        "meaning": "bridge"
+      },
+      {
+        "language": "Old English",
+        "form": "brycg",
+        "period": "Before 12th century",
+        "meaning": "bridge"
+      },
+      {
+        "language": "Middle English",
+        "form": "brigge, bridge",
+        "period": "12th-15th century",
+        "meaning": "bridge"
+      },
+      {
+        "language": "Modern English",
+        "form": "bridge",
+        "period": "15th century",
+        "meaning": "bridge"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Brücke",
+        "meaning": "bridge"
+      },
+      {
+        "language": "Dutch",
+        "word": "brug",
+        "meaning": "bridge"
+      },
+      {
+        "language": "Swedish",
+        "word": "bro",
+        "meaning": "bridge"
+      }
+    ],
+    "notes": "From a root meaning \"beam\" or \"log\", originally referring to a structure made of beams for crossing."
+  },
+  "word_river": {
+    "languageOrigin": "Old French",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ripa",
+        "period": "Roman era",
+        "meaning": "riverbank"
+      },
+      {
+        "language": "Old French",
+        "form": "riviere",
+        "period": "12th-13th century",
+        "meaning": "river"
+      },
+      {
+        "language": "Middle English",
+        "form": "river, rivere",
+        "period": "13th-15th century",
+        "meaning": "river"
+      },
+      {
+        "language": "Modern English",
+        "form": "river",
+        "period": "15th century",
+        "meaning": "river"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "rivière",
+        "meaning": "river"
+      },
+      {
+        "language": "Spanish",
+        "word": "río",
+        "meaning": "river"
+      },
+      {
+        "language": "Italian",
+        "word": "fiume",
+        "meaning": "river"
+      },
+      {
+        "language": "Portuguese",
+        "word": "rio",
+        "meaning": "river"
+      }
+    ],
+    "notes": "From Latin \"ripa\" meaning \"riverbank\", later extended to mean the flowing water itself."
+  },
+  "word_ocean": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 14th century",
+    "timeline": [
+      {
+        "language": "Greek",
+        "form": "Ōkeanos",
+        "period": "Ancient Greek",
+        "meaning": "Oceanus, great river"
+      },
+      {
+        "language": "Latin",
+        "form": "Oceanus",
+        "period": "Roman era",
+        "meaning": "ocean"
+      },
+      {
+        "language": "Middle English",
+        "form": "occean, ocean",
+        "period": "14th-15th century",
+        "meaning": "ocean"
+      },
+      {
+        "language": "Modern English",
+        "form": "ocean",
+        "period": "15th century",
+        "meaning": "ocean"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "océan",
+        "meaning": "ocean"
+      },
+      {
+        "language": "Spanish",
+        "word": "océano",
+        "meaning": "ocean"
+      },
+      {
+        "language": "Italian",
+        "word": "oceano",
+        "meaning": "ocean"
+      },
+      {
+        "language": "Portuguese",
+        "word": "oceano",
+        "meaning": "ocean"
+      }
+    ],
+    "notes": "From Greek \"Ōkeanos\", the name of the Titan god of the sea, originally meaning the great river encircling the earth."
+  },
+  "word_mountain": {
+    "languageOrigin": "Old French",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "montem",
+        "period": "Roman era",
+        "meaning": "mountain"
+      },
+      {
+        "language": "Old French",
+        "form": "montaigne",
+        "period": "12th-13th century",
+        "meaning": "mountain"
+      },
+      {
+        "language": "Middle English",
+        "form": "mounteyne, mountain",
+        "period": "13th-15th century",
+        "meaning": "mountain"
+      },
+      {
+        "language": "Modern English",
+        "form": "mountain",
+        "period": "15th century",
+        "meaning": "mountain"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "montagne",
+        "meaning": "mountain"
+      },
+      {
+        "language": "Spanish",
+        "word": "montaña",
+        "meaning": "mountain"
+      },
+      {
+        "language": "Italian",
+        "word": "montagna",
+        "meaning": "mountain"
+      },
+      {
+        "language": "Portuguese",
+        "word": "montanha",
+        "meaning": "mountain"
+      }
+    ],
+    "notes": "From Latin \"mons, montis\" meaning \"mountain\", from a root meaning \"to rise\" or \"to stand tall\"."
+  },
+  "word_forest": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "forestis",
+        "period": "Medieval Latin",
+        "meaning": "outside, forest"
+      },
+      {
+        "language": "Old French",
+        "form": "forest",
+        "period": "12th-13th century",
+        "meaning": "forest"
+      },
+      {
+        "language": "Middle English",
+        "form": "forest, foreste",
+        "period": "13th-15th century",
+        "meaning": "forest"
+      },
+      {
+        "language": "Modern English",
+        "form": "forest",
+        "period": "15th century",
+        "meaning": "forest"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "forêt",
+        "meaning": "forest"
+      },
+      {
+        "language": "Spanish",
+        "word": "bosque",
+        "meaning": "forest"
+      },
+      {
+        "language": "Italian",
+        "word": "foresta",
+        "meaning": "forest"
+      },
+      {
+        "language": "Portuguese",
+        "word": "floresta",
+        "meaning": "forest"
+      }
+    ],
+    "notes": "From Medieval Latin \"forestis\" meaning \"outside the main settlement\", originally referring to hunting grounds."
+  },
+  "word_tree": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*trewą",
+        "period": "c. 500 BC",
+        "meaning": "tree, wood"
+      },
+      {
+        "language": "Old English",
+        "form": "trēow",
+        "period": "Before 12th century",
+        "meaning": "tree, wood"
+      },
+      {
+        "language": "Middle English",
+        "form": "tre, tree",
+        "period": "12th-15th century",
+        "meaning": "tree"
+      },
+      {
+        "language": "Modern English",
+        "form": "tree",
+        "period": "15th century",
+        "meaning": "tree"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Baum",
+        "meaning": "tree"
+      },
+      {
+        "language": "Dutch",
+        "word": "boom",
+        "meaning": "tree"
+      },
+      {
+        "language": "Swedish",
+        "word": "träd",
+        "meaning": "tree"
+      }
+    ],
+    "notes": "From a root meaning \"to be firm\" or \"to be solid\", referring to the sturdy nature of trees."
+  },
+  "word_flower": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "flōrem",
+        "period": "Roman era",
+        "meaning": "flower, bloom"
+      },
+      {
+        "language": "Old French",
+        "form": "flor, flour",
+        "period": "12th-13th century",
+        "meaning": "flower"
+      },
+      {
+        "language": "Middle English",
+        "form": "flour, flower",
+        "period": "13th-15th century",
+        "meaning": "flower"
+      },
+      {
+        "language": "Modern English",
+        "form": "flower",
+        "period": "15th century",
+        "meaning": "flower"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "fleur",
+        "meaning": "flower"
+      },
+      {
+        "language": "Spanish",
+        "word": "flor",
+        "meaning": "flower"
+      },
+      {
+        "language": "Italian",
+        "word": "fiore",
+        "meaning": "flower"
+      },
+      {
+        "language": "Portuguese",
+        "word": "flor",
+        "meaning": "flower"
+      }
+    ],
+    "notes": "From Latin \"flos, floris\" meaning \"flower\" or \"bloom\", from a root meaning \"to blow\" or \"to blossom\"."
+  },
+  "word_animal": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 14th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "animal",
+        "period": "Roman era",
+        "meaning": "animal, living being"
+      },
+      {
+        "language": "Middle English",
+        "form": "animal",
+        "period": "14th-15th century",
+        "meaning": "animal"
+      },
+      {
+        "language": "Modern English",
+        "form": "animal",
+        "period": "15th century",
+        "meaning": "animal"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "animal",
+        "meaning": "animal"
+      },
+      {
+        "language": "Spanish",
+        "word": "animal",
+        "meaning": "animal"
+      },
+      {
+        "language": "Italian",
+        "word": "animale",
+        "meaning": "animal"
+      },
+      {
+        "language": "Portuguese",
+        "word": "animal",
+        "meaning": "animal"
+      }
+    ],
+    "notes": "From Latin \"animal\" meaning \"living being\", from \"anima\" meaning \"breath, soul, life\"."
+  },
+  "word_bird": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*birdiz",
+        "period": "c. 500 BC",
+        "meaning": "bird"
+      },
+      {
+        "language": "Old English",
+        "form": "brid",
+        "period": "Before 12th century",
+        "meaning": "bird, young bird"
+      },
+      {
+        "language": "Middle English",
+        "form": "brid, bird",
+        "period": "12th-15th century",
+        "meaning": "bird"
+      },
+      {
+        "language": "Modern English",
+        "form": "bird",
+        "period": "15th century",
+        "meaning": "bird"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Vogel",
+        "meaning": "bird"
+      },
+      {
+        "language": "Dutch",
+        "word": "vogel",
+        "meaning": "bird"
+      },
+      {
+        "language": "Swedish",
+        "word": "fågel",
+        "meaning": "bird"
+      }
+    ],
+    "notes": "Of uncertain origin, possibly related to \"breed\" or \"brood\", originally referring to young birds."
+  },
+  "word_dog": {
+    "languageOrigin": "Old English",
+    "yearOfOrigin": "Before 12th century",
+    "timeline": [
+      {
+        "language": "Old English",
+        "form": "docga",
+        "period": "Before 12th century",
+        "meaning": "dog"
+      },
+      {
+        "language": "Middle English",
+        "form": "dogge, dog",
+        "period": "12th-15th century",
+        "meaning": "dog"
+      },
+      {
+        "language": "Modern English",
+        "form": "dog",
+        "period": "15th century",
+        "meaning": "dog"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Hund",
+        "meaning": "dog"
+      },
+      {
+        "language": "Dutch",
+        "word": "hond",
+        "meaning": "dog"
+      },
+      {
+        "language": "Swedish",
+        "word": "hund",
+        "meaning": "dog"
+      }
+    ],
+    "notes": "Of uncertain origin, possibly from a root meaning \"to bite\" or \"to snap\"."
+  },
+  "word_cat": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 8th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "cattus",
+        "period": "Late Latin",
+        "meaning": "cat"
+      },
+      {
+        "language": "Old English",
+        "form": "catt",
+        "period": "8th-11th century",
+        "meaning": "cat"
+      },
+      {
+        "language": "Middle English",
+        "form": "cat, catte",
+        "period": "12th-15th century",
+        "meaning": "cat"
+      },
+      {
+        "language": "Modern English",
+        "form": "cat",
+        "period": "15th century",
+        "meaning": "cat"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "chat",
+        "meaning": "cat"
+      },
+      {
+        "language": "Spanish",
+        "word": "gato",
+        "meaning": "cat"
+      },
+      {
+        "language": "Italian",
+        "word": "gatto",
+        "meaning": "cat"
+      },
+      {
+        "language": "Portuguese",
+        "word": "gato",
+        "meaning": "cat"
+      }
+    ],
+    "notes": "From Late Latin \"cattus\", possibly of Afro-Asiatic origin, replacing the Old English \"catt\"."
+  },
+  "word_horse": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*hrussą",
+        "period": "c. 500 BC",
+        "meaning": "horse"
+      },
+      {
+        "language": "Old English",
+        "form": "hors",
+        "period": "Before 12th century",
+        "meaning": "horse"
+      },
+      {
+        "language": "Middle English",
+        "form": "hors, horse",
+        "period": "12th-15th century",
+        "meaning": "horse"
+      },
+      {
+        "language": "Modern English",
+        "form": "horse",
+        "period": "15th century",
+        "meaning": "horse"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Pferd",
+        "meaning": "horse"
+      },
+      {
+        "language": "Dutch",
+        "word": "paard",
+        "meaning": "horse"
+      },
+      {
+        "language": "Swedish",
+        "word": "häst",
+        "meaning": "horse"
+      }
+    ],
+    "notes": "From a root meaning \"to run\" or \"to leap\", referring to the animal's speed."
+  },
+  "word_cow": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*kūz",
+        "period": "c. 500 BC",
+        "meaning": "cow"
+      },
+      {
+        "language": "Old English",
+        "form": "cū",
+        "period": "Before 12th century",
+        "meaning": "cow"
+      },
+      {
+        "language": "Middle English",
+        "form": "cou, cow",
+        "period": "12th-15th century",
+        "meaning": "cow"
+      },
+      {
+        "language": "Modern English",
+        "form": "cow",
+        "period": "15th century",
+        "meaning": "cow"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Kuh",
+        "meaning": "cow"
+      },
+      {
+        "language": "Dutch",
+        "word": "koe",
+        "meaning": "cow"
+      },
+      {
+        "language": "Swedish",
+        "word": "ko",
+        "meaning": "cow"
+      },
+      {
+        "language": "Latin",
+        "word": "bōs",
+        "meaning": "cow"
+      }
+    ],
+    "notes": "From a root meaning \"to low\" or \"to moo\", imitating the sound the animal makes."
+  },
+  "word_chicken": {
+    "languageOrigin": "Old English",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old English",
+        "form": "cicen",
+        "period": "Before 12th century",
+        "meaning": "young fowl, chicken"
+      },
+      {
+        "language": "Middle English",
+        "form": "chiken, chicken",
+        "period": "12th-15th century",
+        "meaning": "chicken"
+      },
+      {
+        "language": "Modern English",
+        "form": "chicken",
+        "period": "15th century",
+        "meaning": "chicken"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Huhn",
+        "meaning": "chicken"
+      },
+      {
+        "language": "Dutch",
+        "word": "kip",
+        "meaning": "chicken"
+      },
+      {
+        "language": "Swedish",
+        "word": "kyckling",
+        "meaning": "chicken"
+      },
+      {
+        "language": "French",
+        "word": "poulet",
+        "meaning": "chicken"
+      }
+    ],
+    "notes": "From Old English \"cicen\" meaning \"young fowl\", possibly related to \"cock\" (rooster)."
+  },
+  "word_fish": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*fiskaz",
+        "period": "c. 500 BC",
+        "meaning": "fish"
+      },
+      {
+        "language": "Old English",
+        "form": "fisc",
+        "period": "Before 12th century",
+        "meaning": "fish"
+      },
+      {
+        "language": "Middle English",
+        "form": "fisch, fish",
+        "period": "12th-15th century",
+        "meaning": "fish"
+      },
+      {
+        "language": "Modern English",
+        "form": "fish",
+        "period": "15th century",
+        "meaning": "fish"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Fisch",
+        "meaning": "fish"
+      },
+      {
+        "language": "Dutch",
+        "word": "vis",
+        "meaning": "fish"
+      },
+      {
+        "language": "Swedish",
+        "word": "fisk",
+        "meaning": "fish"
+      },
+      {
+        "language": "Latin",
+        "word": "piscis",
+        "meaning": "fish"
+      }
+    ],
+    "notes": "From a root meaning \"to swim\", one of the most ancient words in Germanic languages."
+  },
+  "word_sun": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "Prehistoric",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*sóh₂wl̥",
+        "period": "Prehistoric",
+        "meaning": "sun"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*sunnǭ",
+        "period": "c. 500 BC",
+        "meaning": "sun"
+      },
+      {
+        "language": "Old English",
+        "form": "sunne",
+        "period": "Before 12th century",
+        "meaning": "sun"
+      },
+      {
+        "language": "Middle English",
+        "form": "sunne, sun",
+        "period": "12th-15th century",
+        "meaning": "sun"
+      },
+      {
+        "language": "Modern English",
+        "form": "sun",
+        "period": "15th century",
+        "meaning": "sun"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Sonne",
+        "meaning": "sun"
+      },
+      {
+        "language": "Dutch",
+        "word": "zon",
+        "meaning": "sun"
+      },
+      {
+        "language": "Swedish",
+        "word": "sol",
+        "meaning": "sun"
+      },
+      {
+        "language": "Latin",
+        "word": "sol",
+        "meaning": "sun"
+      },
+      {
+        "language": "Greek",
+        "word": "hēlios",
+        "meaning": "sun"
+      }
+    ],
+    "notes": "One of the most stable words across Indo-European languages, with little change over thousands of years."
+  },
+  "word_moon": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*mēnô",
+        "period": "c. 500 BC",
+        "meaning": "moon, month"
+      },
+      {
+        "language": "Old English",
+        "form": "mōna",
+        "period": "Before 12th century",
+        "meaning": "moon"
+      },
+      {
+        "language": "Middle English",
+        "form": "mone, moon",
+        "period": "12th-15th century",
+        "meaning": "moon"
+      },
+      {
+        "language": "Modern English",
+        "form": "moon",
+        "period": "15th century",
+        "meaning": "moon"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Mond",
+        "meaning": "moon"
+      },
+      {
+        "language": "Dutch",
+        "word": "maan",
+        "meaning": "moon"
+      },
+      {
+        "language": "Swedish",
+        "word": "måne",
+        "meaning": "moon"
+      },
+      {
+        "language": "Latin",
+        "word": "luna",
+        "meaning": "moon"
+      }
+    ],
+    "notes": "Related to \"month\", originally referring to the measure of time based on lunar cycles."
+  },
+  "word_star": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*sternǭ",
+        "period": "c. 500 BC",
+        "meaning": "star"
+      },
+      {
+        "language": "Old English",
+        "form": "steorra",
+        "period": "Before 12th century",
+        "meaning": "star"
+      },
+      {
+        "language": "Middle English",
+        "form": "sterre, star",
+        "period": "12th-15th century",
+        "meaning": "star"
+      },
+      {
+        "language": "Modern English",
+        "form": "star",
+        "period": "15th century",
+        "meaning": "star"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Stern",
+        "meaning": "star"
+      },
+      {
+        "language": "Dutch",
+        "word": "ster",
+        "meaning": "star"
+      },
+      {
+        "language": "Swedish",
+        "word": "stjärna",
+        "meaning": "star"
+      },
+      {
+        "language": "Latin",
+        "word": "stella",
+        "meaning": "star"
+      }
+    ],
+    "notes": "From a root meaning \"to scatter\" or \"to strew\", referring to stars scattered across the sky."
+  },
+  "word_sky": {
+    "languageOrigin": "Old Norse",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Old Norse",
+        "form": "ský",
+        "period": "Viking age",
+        "meaning": "cloud, sky"
+      },
+      {
+        "language": "Middle English",
+        "form": "sky, skie",
+        "period": "13th-15th century",
+        "meaning": "sky, cloud"
+      },
+      {
+        "language": "Modern English",
+        "form": "sky",
+        "period": "15th century",
+        "meaning": "sky"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Himmel",
+        "meaning": "sky, heaven"
+      },
+      {
+        "language": "Dutch",
+        "word": "hemel",
+        "meaning": "sky, heaven"
+      },
+      {
+        "language": "Swedish",
+        "word": "himmel",
+        "meaning": "sky"
+      }
+    ],
+    "notes": "From Old Norse \"ský\" meaning \"cloud\", originally referring to the cloudy covering of the heavens."
+  },
+  "word_cloud": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*klēwaz",
+        "period": "c. 500 BC",
+        "meaning": "rock, cliff, cloud"
+      },
+      {
+        "language": "Old English",
+        "form": "clūd",
+        "period": "Before 12th century",
+        "meaning": "rock, hill, cloud"
+      },
+      {
+        "language": "Middle English",
+        "form": "cloude, cloud",
+        "period": "12th-15th century",
+        "meaning": "cloud"
+      },
+      {
+        "language": "Modern English",
+        "form": "cloud",
+        "period": "15th century",
+        "meaning": "cloud"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Wolke",
+        "meaning": "cloud"
+      },
+      {
+        "language": "Dutch",
+        "word": "wolk",
+        "meaning": "cloud"
+      },
+      {
+        "language": "Swedish",
+        "word": "moln",
+        "meaning": "cloud"
+      }
+    ],
+    "notes": "Originally meant \"rock\" or \"cliff\", later metaphorically applied to clouds resembling rock formations."
+  },
+  "word_rain": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*regną",
+        "period": "c. 500 BC",
+        "meaning": "rain"
+      },
+      {
+        "language": "Old English",
+        "form": "regn",
+        "period": "Before 12th century",
+        "meaning": "rain"
+      },
+      {
+        "language": "Middle English",
+        "form": "rein, rain",
+        "period": "12th-15th century",
+        "meaning": "rain"
+      },
+      {
+        "language": "Modern English",
+        "form": "rain",
+        "period": "15th century",
+        "meaning": "rain"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Regen",
+        "meaning": "rain"
+      },
+      {
+        "language": "Dutch",
+        "word": "regen",
+        "meaning": "rain"
+      },
+      {
+        "language": "Swedish",
+        "word": "regn",
+        "meaning": "rain"
+      }
+    ],
+    "notes": "From a root meaning \"wet\" or \"moist\", referring to water falling from the sky."
+  },
+  "word_snow": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*snaiwaz",
+        "period": "c. 500 BC",
+        "meaning": "snow"
+      },
+      {
+        "language": "Old English",
+        "form": "snāw",
+        "period": "Before 12th century",
+        "meaning": "snow"
+      },
+      {
+        "language": "Middle English",
+        "form": "snou, snow",
+        "period": "12th-15th century",
+        "meaning": "snow"
+      },
+      {
+        "language": "Modern English",
+        "form": "snow",
+        "period": "15th century",
+        "meaning": "snow"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Schnee",
+        "meaning": "snow"
+      },
+      {
+        "language": "Dutch",
+        "word": "sneeuw",
+        "meaning": "snow"
+      },
+      {
+        "language": "Swedish",
+        "word": "snö",
+        "meaning": "snow"
+      }
+    ],
+    "notes": "From a root meaning \"to moisten\" or \"to wet\", referring to frozen precipitation."
+  },
+  "word_wind": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*windaz",
+        "period": "c. 500 BC",
+        "meaning": "wind"
+      },
+      {
+        "language": "Old English",
+        "form": "wind",
+        "period": "Before 12th century",
+        "meaning": "wind"
+      },
+      {
+        "language": "Middle English",
+        "form": "wind, wynd",
+        "period": "12th-15th century",
+        "meaning": "wind"
+      },
+      {
+        "language": "Modern English",
+        "form": "wind",
+        "period": "15th century",
+        "meaning": "wind"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Wind",
+        "meaning": "wind"
+      },
+      {
+        "language": "Dutch",
+        "word": "wind",
+        "meaning": "wind"
+      },
+      {
+        "language": "Swedish",
+        "word": "vind",
+        "meaning": "wind"
+      },
+      {
+        "language": "Latin",
+        "word": "ventus",
+        "meaning": "wind"
+      }
+    ],
+    "notes": "From a root meaning \"to blow\" or \"to move air\", referring to moving air currents."
+  },
+  "word_earth": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*erþō",
+        "period": "c. 500 BC",
+        "meaning": "earth, ground"
+      },
+      {
+        "language": "Old English",
+        "form": "eorþe",
+        "period": "Before 12th century",
+        "meaning": "earth, ground"
+      },
+      {
+        "language": "Middle English",
+        "form": "erthe, earth",
+        "period": "12th-15th century",
+        "meaning": "earth"
+      },
+      {
+        "language": "Modern English",
+        "form": "earth",
+        "period": "15th century",
+        "meaning": "earth"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Erde",
+        "meaning": "earth"
+      },
+      {
+        "language": "Dutch",
+        "word": "aarde",
+        "meaning": "earth"
+      },
+      {
+        "language": "Swedish",
+        "word": "jord",
+        "meaning": "earth, soil"
+      },
+      {
+        "language": "Latin",
+        "word": "terra",
+        "meaning": "earth"
+      }
+    ],
+    "notes": "From a root meaning \"ground\" or \"soil\", referring to the planet or the land beneath us."
+  },
+  "word_work_2": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BC",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*werką",
+        "period": "c. 500 BC",
+        "meaning": "work, deed"
+      },
+      {
+        "language": "Old English",
+        "form": "weorc",
+        "period": "Before 12th century",
+        "meaning": "work, labor"
+      },
+      {
+        "language": "Middle English",
+        "form": "work, werk",
+        "period": "12th-15th century",
+        "meaning": "work"
+      },
+      {
+        "language": "Modern English",
+        "form": "work",
+        "period": "15th century",
+        "meaning": "work"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "Werk",
+        "meaning": "work"
+      },
+      {
+        "language": "Dutch",
+        "word": "werk",
+        "meaning": "work"
+      },
+      {
+        "language": "Swedish",
+        "word": "verk",
+        "meaning": "work"
+      }
+    ],
+    "notes": "From a root meaning \"to do, to act\", originally referring to any deed or action."
+  }
+}

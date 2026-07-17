@@ -1880,5 +1880,396 @@
       }
     ],
     "notes": "Compound of \"out\" + \"side\", literally meaning \"on the outer side\"."
+  },
+  "word_without": {
+    "languageOrigin": "Old English",
+    "yearOfOrigin": "Before 12th century",
+    "timeline": [
+      {
+        "language": "Old English",
+        "form": "wiþūtan",
+        "period": "Before 12th century",
+        "meaning": "outside of, not within"
+      },
+      {
+        "language": "Middle English",
+        "form": "withouten, without",
+        "period": "12th-15th century",
+        "meaning": "without"
+      },
+      {
+        "language": "Modern English",
+        "form": "without",
+        "period": "15th century",
+        "meaning": "without"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "German",
+        "word": "außer",
+        "meaning": "outside, except"
+      },
+      {
+        "language": "Dutch",
+        "word": "buiten",
+        "meaning": "outside, without"
+      },
+      {
+        "language": "Swedish",
+        "word": "utan",
+        "meaning": "without"
+      }
+    ],
+    "notes": "From Old English wið ('against, opposite') + ūtan ('outside, from out'), originally meaning 'outside of' and later 'lacking'."
+  },
+  "word_as_preposition": {
+    "languageOrigin": "Old English",
+    "timeline": [
+      {
+        "language": "Old English",
+        "form": "eallswā",
+        "meaning": "just so; as"
+      },
+      {
+        "language": "Middle English",
+        "form": "as"
+      }
+    ],
+    "notes": "From Middle English as, als(a), alswa, from Old English eallswā (“just so; as”), thus representing a reduced form of also. Compare German Low German a(l)s, German als, Dutch als."
+  },
+  "word_but_preposition": {
+    "languageOrigin": "Proto-West Germanic",
+    "timeline": [
+      {
+        "language": "Proto-West Germanic",
+        "form": "*biūtan"
+      },
+      {
+        "language": "Old English",
+        "form": "būtan",
+        "meaning": "without, outside of, except, only"
+      },
+      {
+        "language": "Middle English",
+        "form": "but"
+      }
+    ],
+    "notes": "From Middle English but, buten, boute, bouten, from Old English būtan (“without, outside of, except, only”), from Proto-West Germanic *biūtan, *biūtini, equivalent to be- + out. Cognate with Scots but, bot (“outside, without, but”), Saterland Frisian buute (“without”), West Frisian bûten (“outside of, apart from, other than, except, but”), Dutch buiten (“outside”), Dutch Low Saxon buten (“outside”), German Low German buuten, buute (“outside”), obsolete German baußen (“outside”), Luxembourgish ba…"
+  },
+  "word_despite": {
+    "languageOrigin": "Middle English",
+    "timeline": [
+      {
+        "language": "Middle English",
+        "form": "despit"
+      },
+      {
+        "language": "Old French",
+        "form": "despit"
+      },
+      {
+        "language": "Latin",
+        "form": "dēspectum",
+        "meaning": "looking down on"
+      },
+      {
+        "language": "Middle English",
+        "form": "dispit"
+      },
+      {
+        "language": "Modern English",
+        "form": "despite"
+      }
+    ],
+    "notes": "The noun is derived from Middle English despit, dispit, from Old French despit, from Latin dēspectum (“looking down on”), from dēspiciō (“to look down, despise”).\nThe preposition is derived from Middle English dispit, itself derived from the phrase in dispit of (in despite of).\nCompare typologically Russian несмотря́ на (nesmotrjá na) (< смотре́ть (smotrétʹ)); невзира́я на (nevzirája na) (< взира́ть (vzirátʹ)), презре́в (prezrév) (< презре́ть (prezrétʹ) <~ зреть (zretʹ)) (compare despite—despise…"
+  },
+  "word_except_preposition": {
+    "languageOrigin": "Latin",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "exceptus"
+      },
+      {
+        "language": "Middle French",
+        "form": "excepter"
+      },
+      {
+        "language": "Modern English",
+        "form": "except"
+      }
+    ],
+    "notes": "Borrowed from Middle French excepter, from Latin exceptus."
+  },
+  "word_like_preposition": {
+    "languageOrigin": "Middle English",
+    "timeline": [
+      {
+        "language": "Middle English",
+        "form": "liken"
+      },
+      {
+        "language": "Old English",
+        "form": "līcian",
+        "meaning": "to like, to please"
+      },
+      {
+        "language": "Proto-West Germanic",
+        "form": "*līkēn"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*līkāną"
+      },
+      {
+        "language": "Proto-Indo-European",
+        "form": "*leyg-",
+        "meaning": "image; likeness; similarity"
+      },
+      {
+        "language": "Middle English",
+        "form": "like",
+        "meaning": "pleasure, will, like"
+      }
+    ],
+    "notes": "Verb from Middle English liken, from Old English līcian (“to like, to please”), from Proto-West Germanic *līkēn, from Proto-Germanic *līkāną, from Proto-Indo-European *leyg- (“image; likeness; similarity”).\nCognate with Saterland Frisian liekje (“to be similar, resemble”), West Frisian lykje (“to seem, appear, look”), Dutch lijken (“to seem”), Low German lieken (“to be like; resemble”), German gleichen (“to resemble”), Swedish lika (“to like; put up with; align with”), Norwegian like (“to like”)…"
+  },
+  "word_opposite_preposition": {
+    "languageOrigin": "Latin",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "oppositus"
+      },
+      {
+        "language": "Old French",
+        "form": "oposite"
+      },
+      {
+        "language": "Middle English",
+        "form": "opposit"
+      },
+      {
+        "language": "Modern English",
+        "form": "opposite"
+      }
+    ],
+    "notes": "Inherited from Middle English opposit, borrowed from Old French oposite, from Latin oppositus, perfect passive participle of oppōnō (“to oppose”). Compare oppose."
+  },
+  "word_out_preposition": {
+    "languageOrigin": "Proto-Indo-European",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*úd",
+        "meaning": "upwards, away"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*ūt",
+        "meaning": "out"
+      },
+      {
+        "language": "Proto-West Germanic",
+        "form": "*ūt"
+      },
+      {
+        "language": "Middle English",
+        "form": "out"
+      }
+    ],
+    "notes": "From Middle English out, oute, from a combination of Old English ūt (“out”, preposition & adverb), from Proto-West Germanic *ūt, from Proto-Germanic *ūt (“out”); and Old English ūte (“outside; without”, adverb), from Proto-Germanic *ūtai (“out; outside”); both from Proto-Indo-European *úd (“upwards, away”).\nCognates\nCognate with Scots oot (“out”), Yola out, outh, udh, ut, uth (“out”), North Frisian üt, ütj (“out”), Saterland Frisian uut (“out of”), West Frisian út (“out”), Cimbrian aus, auz (“ou…"
+  },
+  "word_past_preposition": {
+    "languageOrigin": "Middle English",
+    "timeline": [
+      {
+        "language": "Middle English",
+        "form": "passed"
+      },
+      {
+        "language": "Modern English",
+        "form": "past"
+      }
+    ],
+    "notes": "From Middle English passed, past participle of passen (“to pass, to go by”), whence Modern English pass."
+  },
+  "word_per": {
+    "languageOrigin": "Proto-Indo-European",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*per"
+      },
+      {
+        "language": "Latin",
+        "form": "per",
+        "meaning": "through, during"
+      },
+      {
+        "language": "Modern English",
+        "form": "per"
+      }
+    ],
+    "notes": "From Latin per (“through, during”), from Proto-Indo-European *per. Doublet of par."
+  },
+  "word_plus_preposition": {
+    "languageOrigin": "Latin",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "plūs",
+        "meaning": "more"
+      },
+      {
+        "language": "Modern English",
+        "form": "plus"
+      }
+    ],
+    "notes": "Borrowed from Latin plūs (“more”)."
+  },
+  "word_round_preposition": {
+    "languageOrigin": "Middle English",
+    "timeline": [
+      {
+        "language": "Middle English",
+        "form": "round"
+      }
+    ],
+    "notes": "From Middle English round, rounde, from Old Northern French roünt, rund, Old French ront, runt, reont ( > French rond), from both Late Latin retundus and the original Latin rotundus. The noun developed partly from the adjective and partly from the corresponding French noun rond. Doublet of rotund."
+  },
+  "word_than_preposition": {
+    "languageOrigin": "Proto-Indo-European",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*tóm"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*þan",
+        "meaning": "then; than"
+      },
+      {
+        "language": "Proto-West Germanic",
+        "form": "*þannē"
+      },
+      {
+        "language": "Old English",
+        "form": "þanne"
+      },
+      {
+        "language": "Middle English",
+        "form": "than"
+      }
+    ],
+    "notes": "From Middle English than, thanne (“than; then”), from Old English þanne, a variant of þonne (“then; when; than”), from Proto-West Germanic *þannē, an alteration of *þan (“then; than”), from Proto-Germanic *þan (“then; than”), from earlier *þam, from Proto-Indo-European *tóm, accusative masculine of *só (“that”, demonstrative pronoun).\nCognate with Dutch dan (“then; than”), German denn (“for; so”), German dann (“then”). Doublet of then."
+  },
+  "word_throughout_preposition": {
+    "languageOrigin": "Old English",
+    "timeline": [
+      {
+        "language": "Old English",
+        "form": "þurh"
+      },
+      {
+        "language": "Modern English",
+        "form": "throughout"
+      }
+    ],
+    "notes": "From Old English þurh ūt, equivalent to through + out. Compare German durchaus (“all the way, fully, absolutely”)."
+  },
+  "word_till_preposition": {
+    "languageOrigin": "Proto-Germanic",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*til",
+        "meaning": "to, toward"
+      },
+      {
+        "language": "Middle English",
+        "form": "til"
+      },
+      {
+        "language": "Modern English",
+        "form": "till"
+      }
+    ],
+    "notes": "From Middle English til, from Northern Old English til, from or akin to Old Norse til (“to, till”); both from Proto-Germanic *til (“to, toward”), from Proto-Germanic *tilą (“planned point in time”). Not a contraction of until; rather, until comes from till with the prefix un- (“against; toward; up to”) also found in unto. Cognate with Old Frisian til (“to, till”), Danish til (“to”), Swedish till (“to, till”), Icelandic til (“to, till”)."
+  },
+  "word_towards": {
+    "languageOrigin": "Old English",
+    "timeline": [
+      {
+        "language": "Old English",
+        "form": "tōweardes"
+      },
+      {
+        "language": "Middle English",
+        "form": "towardes"
+      },
+      {
+        "language": "Modern English",
+        "form": "towards"
+      }
+    ],
+    "notes": "From Middle English towardes, from Old English tōweardes, tōwærdes, equivalent to toward + -s (adverbial suffix)."
+  },
+  "word_unlike": {
+    "languageOrigin": "Proto-Germanic",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*ungalīkaz"
+      },
+      {
+        "language": "Old English",
+        "form": "unlīċ"
+      },
+      {
+        "language": "Middle English",
+        "form": "unlic"
+      },
+      {
+        "language": "Modern English",
+        "form": "unlike"
+      }
+    ],
+    "notes": "From Middle English unlic, unlich, from Old English unlīċ, unġelīċ (“unlike, different, dissimilar, diverse”), from Proto-Germanic *ungalīkaz. By surface analysis, un- + like. Cognate with Dutch ongelijk, German ungleich, Old Norse úlíkr (see there for North Germanic descendants)."
+  },
+  "word_upon": {
+    "languageOrigin": "Old English",
+    "timeline": [
+      {
+        "language": "Old English",
+        "form": "upon"
+      },
+      {
+        "language": "Middle English",
+        "form": "upon"
+      }
+    ],
+    "notes": "From Middle English upon, uppon, uppen, from Old English upon, uppon, uppan (“on, upon, up to, against, after, in addition to”), equivalent to up (“adverb”) + on (“preposition”). Cognate with Old Saxon uppan (“upon”), Old High German ūfan, ūffan (“upon”), Icelandic upp á, upp á (“up on, upon”), Swedish uppå (“up on, upon”) (thence Swedish på), Danish på (“up on, upon”), Norwegian på (“up on, upon”)."
+  },
+  "word_via": {
+    "languageOrigin": "Proto-Indo-European",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*weǵʰ-"
+      },
+      {
+        "language": "Latin",
+        "form": "via",
+        "meaning": "road"
+      },
+      {
+        "language": "Modern English",
+        "form": "via"
+      }
+    ],
+    "notes": "Borrowed from Latin via (“road”), possibly from Proto-Indo-European *weǵʰ-. Possible doublet of way.\nThe sense in electronics is also explained as vertical interconnect access."
   }
 }

@@ -817,5 +817,152 @@
     ],
     "category": "numbers",
     "examples": ["Triple threat.", "Triple jump."]
+  },
+  {
+    "id": "word_eighteen",
+    "word": "eighteen",
+    "meaning": "",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˌeɪˈtiːn"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˌeɪˈtiːn"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˌeɪˈtiːn"
+      }
+    ],
+    "category": "numbers",
+    "examples": []
+  },
+  {
+    "id": "word_fifteen",
+    "word": "fifteen",
+    "meaning": "15",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˌfɪfˈtiːn"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˌfɪfˈtiːn"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˌfɪfˈtiːn"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["He's in the first fifteen."]
+  },
+  {
+    "id": "word_fourteen",
+    "word": "fourteen",
+    "meaning": "",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˌfɔːrˈtiːn"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˌfɔːˈtiːn"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˌfɔːˈtiːn"
+      }
+    ],
+    "category": "numbers",
+    "examples": []
+  },
+  {
+    "id": "word_nineteen",
+    "word": "nineteen",
+    "meaning": "",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˌnaɪnˈtiːn"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˌnaɪnˈtiːn"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˌnaɪnˈtiːn"
+      }
+    ],
+    "category": "numbers",
+    "examples": []
+  },
+  {
+    "id": "word_seventeen",
+    "word": "seventeen",
+    "meaning": "",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˌsevnˈtiːn"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˌsevnˈtiːn"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˌsevnˈtiːn"
+      }
+    ],
+    "category": "numbers",
+    "examples": []
+  },
+  {
+    "id": "word_sixteen",
+    "word": "sixteen",
+    "meaning": "",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˌsɪksˈtiːn"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˌsɪksˈtiːn"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˌsɪksˈtiːn"
+      }
+    ],
+    "category": "numbers",
+    "examples": []
+  },
+  {
+    "id": "word_thirteen",
+    "word": "thirteen",
+    "meaning": "",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˌθɜːrˈtiːn"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˌθɜːˈtiːn"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˌθɜːˈtiːn"
+      }
+    ],
+    "category": "numbers",
+    "examples": []
   }
 ]

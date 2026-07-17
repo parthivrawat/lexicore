@@ -1944,5 +1944,159 @@
       }
     ],
     "notes": "From Latin \"triplex\" meaning \"threefold\", from \"tres\" meaning \"three\" + \"-plex\" meaning \"fold\"."
+  },
+  "word_eighteen": {
+    "languageOrigin": "Proto-Germanic",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*ahtōutehun"
+      },
+      {
+        "language": "Old English",
+        "form": "eahtatīene"
+      },
+      {
+        "language": "Middle English",
+        "form": "eightetene"
+      },
+      {
+        "language": "Modern English",
+        "form": "eighteen"
+      }
+    ],
+    "notes": "From Middle English eightetene, eiȝtene, ehtetene, from Old English eahtatīene, eahtatēne, from Proto-Germanic *ahtōutehun. Cognate with West Frisian achttjin, Dutch achttien, German achtzehn, Danish atten.\nEquivalent to eight + -teen"
+  },
+  "word_fifteen": {
+    "languageOrigin": "Proto-Germanic",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*fimftehun"
+      },
+      {
+        "language": "Old English",
+        "form": "fīftīene"
+      },
+      {
+        "language": "Middle English",
+        "form": "fiftene"
+      },
+      {
+        "language": "Modern English",
+        "form": "fifteen"
+      }
+    ],
+    "notes": "PIE word\n *pénkʷe\nFrom Middle English fiftene, from Old English fīftīene, fīftēne, from Proto-Germanic *fimftehun. Cognate with West Frisian fyftjin, Dutch vijftien, German fünfzehn, Danish femten. Equivalent to five + -teen."
+  },
+  "word_fourteen": {
+    "languageOrigin": "Proto-Germanic",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*fedurtehun"
+      },
+      {
+        "language": "Old English",
+        "form": "fēowertīene"
+      },
+      {
+        "language": "Middle English",
+        "form": "fourtene"
+      },
+      {
+        "language": "Modern English",
+        "form": "fourteen"
+      }
+    ],
+    "notes": "From Middle English fourtene, from Old English fēowertīene, from Proto-Germanic *fedurtehun. Cognate with West Frisian fjirtjin, Dutch veertien, German vierzehn, Danish fjorten. Equivalent to four + -teen."
+  },
+  "word_nineteen": {
+    "languageOrigin": "Proto-Germanic",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*newuntehun"
+      },
+      {
+        "language": "Old English",
+        "form": "niġontīene"
+      },
+      {
+        "language": "Middle English",
+        "form": "nyntene"
+      },
+      {
+        "language": "Modern English",
+        "form": "nineteen"
+      }
+    ],
+    "notes": "From Middle English nyntene, nynetene, from Old English niġontīene, niġontēne, from Proto-Germanic *newuntehun. Cognate with Dutch negentien, Low German negenteihn, Hunsrik neinzen, German neunzehn, Danish nitten.\nEquivalent to nine + -teen"
+  },
+  "word_seventeen": {
+    "languageOrigin": "Proto-Germanic",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*sebuntehun"
+      },
+      {
+        "language": "Old English",
+        "form": "seofontīene"
+      },
+      {
+        "language": "Middle English",
+        "form": "seventene"
+      },
+      {
+        "language": "Modern English",
+        "form": "seventeen"
+      }
+    ],
+    "notes": "Inherited from Middle English seventene, from Old English seofontīene, from Proto-Germanic *sebuntehun. Cognate with Dutch zeventien, West Frisian santjin, German siebzehn, Danish sytten.\nEquivalent to seven + -teen"
+  },
+  "word_sixteen": {
+    "languageOrigin": "Proto-Germanic",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*sehstehun"
+      },
+      {
+        "language": "Old English",
+        "form": "sixtīene"
+      },
+      {
+        "language": "Middle English",
+        "form": "sextene"
+      },
+      {
+        "language": "Modern English",
+        "form": "sixteen"
+      }
+    ],
+    "notes": "Inherited from Middle English sextene, sixtene, from Old English sixtīene, from Proto-Germanic *sehstehun. Cognate with West Frisian sechstjin, Dutch zestien, German sechzehn, Danish seksten. Equivalent to six + -teen."
+  },
+  "word_thirteen": {
+    "languageOrigin": "Proto-Germanic",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*þritehun"
+      },
+      {
+        "language": "Old English",
+        "form": "þrēotīene"
+      },
+      {
+        "language": "Middle English",
+        "form": "thirttene"
+      },
+      {
+        "language": "Modern English",
+        "form": "thirteen"
+      }
+    ],
+    "notes": "From Middle English thirttene, variant (through metathesis) of thrittene, from Old English þrēotīene, from Proto-Germanic *þritehun, compound of *þrīz (“three”) + *tehun (“teen”). Cognate with West Frisian trettjin, Dutch dertien, German dreizehn, Danish tretten. Equivalent to three + -teen."
   }
 }

@@ -819,87 +819,171 @@
     "examples": ["Off the table.", "Take off."]
   },
   {
-    "id": "word_up_2",
-    "word": "up",
-    "meaning": "upward",
+    "id": "word_according_to",
+    "word": "according to",
+    "meaning": "as stated or reported by somebody/something",
     "pronunciationVariants": [
       {
         "accent": "american",
-        "ipa": "ʌp"
+        "ipa": "əˈkɔːrdɪŋ tə"
       },
       {
         "accent": "british",
-        "ipa": "ʌp"
+        "ipa": "əˈkɔːdɪŋ tə"
       },
       {
         "accent": "australian",
-        "ipa": "ʌp"
+        "ipa": "əˈkɔːdɪŋ tə"
       }
     ],
     "category": "prepositions",
-    "examples": ["Up the hill.", "Go up."]
+    "examples": ["According to Mick, it's a great movie."]
   },
   {
-    "id": "word_down_2",
-    "word": "down",
-    "meaning": "downward",
+    "id": "word_despite",
+    "word": "despite",
+    "meaning": "used to show that something happened or is true although something else might have happened to prevent it",
     "pronunciationVariants": [
       {
         "accent": "american",
-        "ipa": "daʊn"
+        "ipa": "dɪˈspaɪt"
       },
       {
         "accent": "british",
-        "ipa": "daʊn"
+        "ipa": "dɪˈspaɪt"
       },
       {
         "accent": "australian",
-        "ipa": "daʊn"
+        "ipa": "dɪˈspaɪt"
       }
     ],
     "category": "prepositions",
-    "examples": ["Down the stairs.", "Sit down."]
+    "examples": ["Her voice was shaking despite all her efforts to control it."]
   },
   {
-    "id": "word_inside_2",
-    "word": "inside",
-    "meaning": "interior",
+    "id": "word_including",
+    "word": "including",
+    "meaning": "having something as part of a group or set",
     "pronunciationVariants": [
       {
         "accent": "american",
-        "ipa": "ˌɪnˈsaɪd"
+        "ipa": "ɪnˈkluːdɪŋ"
       },
       {
         "accent": "british",
-        "ipa": "ˌɪnˈsaɪd"
+        "ipa": "ɪnˈkluːdɪŋ"
       },
       {
         "accent": "australian",
-        "ipa": "ˌɪnˈsaɪd"
+        "ipa": "ɪnˈkluːdɪŋ"
       }
     ],
     "category": "prepositions",
-    "examples": ["Inside the box.", "Stay inside."]
+    "examples": ["I've got three days' holiday including New Year's Day."]
   },
   {
-    "id": "word_outside_2",
-    "word": "outside",
-    "meaning": "exterior",
+    "id": "word_per",
+    "word": "per",
+    "meaning": "used to express the cost or amount of something for each person, number used, distance travelled, etc.",
     "pronunciationVariants": [
       {
         "accent": "american",
-        "ipa": "ˌaʊtˈsaɪd"
+        "ipa": "pər"
       },
       {
         "accent": "british",
-        "ipa": "ˌaʊtˈsaɪd"
+        "ipa": "pə(r)"
       },
       {
         "accent": "australian",
-        "ipa": "ˌaʊtˈsaɪd"
+        "ipa": "pə(r)"
       }
     ],
     "category": "prepositions",
-    "examples": ["Outside the house.", "Play outside."]
+    "examples": ["Rooms cost £50 per person, per night."]
+  },
+  {
+    "id": "word_towards",
+    "word": "towards",
+    "meaning": "in the direction of somebody/something",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "tɔːrdz"
+      },
+      {
+        "accent": "british",
+        "ipa": "təˈwɔːdz"
+      },
+      {
+        "accent": "australian",
+        "ipa": "təˈwɔːdz"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["They were heading towards the German border."]
+  },
+  {
+    "id": "word_unlike",
+    "word": "unlike",
+    "meaning": "different from a particular person or thing",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˌʌnˈlaɪk"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˌʌnˈlaɪk"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˌʌnˈlaɪk"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Music is quite unlike any other art form."]
+  },
+  {
+    "id": "word_upon",
+    "word": "upon",
+    "meaning": "",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "əˈpɑːn"
+      },
+      {
+        "accent": "british",
+        "ipa": "əˈpɒn"
+      },
+      {
+        "accent": "australian",
+        "ipa": "əˈpɒn"
+      }
+    ],
+    "category": "prepositions",
+    "examples": []
+  },
+  {
+    "id": "word_via",
+    "word": "via",
+    "meaning": "through a place",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈvaɪə"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈvaɪə"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈvaɪə"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["We flew home via Dubai."]
   }
 ]

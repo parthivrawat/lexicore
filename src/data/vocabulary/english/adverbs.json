@@ -1174,5 +1174,2300 @@
     ],
     "category": "adverbs",
     "examples": ["Play outside.", "Go outside."]
+  },
+  {
+    "id": "word_abroad",
+    "word": "abroad",
+    "meaning": "in or to a foreign country",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "əˈbrɔːd"
+      },
+      {
+        "accent": "british",
+        "ipa": "əˈbrɔːd"
+      },
+      {
+        "accent": "australian",
+        "ipa": "əˈbrɔːd"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["to go/travel/live/study abroad "]
+  },
+  {
+    "id": "word_absolutely",
+    "word": "absolutely",
+    "meaning": "used to emphasize that something is completely true",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈæbsəluːtli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈæbsəluːtli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈæbsəluːtli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["You're absolutely right."]
+  },
+  {
+    "id": "word_afterwards",
+    "word": "afterwards",
+    "meaning": "at a later time; after an event that has already been mentioned",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈæftərwərdz"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈɑːftəwədz"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈɑːftəwədz"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Afterwards she was sorry for what she'd said."]
+  },
+  {
+    "id": "word_again",
+    "word": "again",
+    "meaning": "one more time; on another occasion",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "əˈɡen"
+      },
+      {
+        "accent": "british",
+        "ipa": "əˈɡen"
+      },
+      {
+        "accent": "australian",
+        "ipa": "əˈɡen"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["This must never happen again."]
+  },
+  {
+    "id": "word_ago",
+    "word": "ago",
+    "meaning": "used in expressions of time with the simple past tense to show how far in the past something happened",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "əˈɡəʊ"
+      },
+      {
+        "accent": "british",
+        "ipa": "əˈɡəʊ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "əˈɡəʊ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["two weeks/months/years ago"]
+  },
+  {
+    "id": "word_ahead",
+    "word": "ahead",
+    "meaning": "further forward in space or time; in front",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "əˈhed"
+      },
+      {
+        "accent": "british",
+        "ipa": "əˈhed"
+      },
+      {
+        "accent": "australian",
+        "ipa": "əˈhed"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["I'll run ahead and warn them."]
+  },
+  {
+    "id": "word_also",
+    "word": "also",
+    "meaning": "in addition; too",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈɔːlsəʊ"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈɔːlsəʊ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈɔːlsəʊ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["She's fluent in French and German. She also speaks a little Italian."]
+  },
+  {
+    "id": "word_any_more",
+    "word": "any more",
+    "meaning": "often used at the end of negative sentences and at the end of questions, to mean ‘any longer’",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˌeni ˈmɔːr"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˌeni ˈmɔː(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˌeni ˈmɔː(r)"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["She doesn't live here any more."]
+  },
+  {
+    "id": "word_anyway",
+    "word": "anyway",
+    "meaning": "used when adding something to support an idea or argument",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈeniweɪ"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈeniweɪ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈeniweɪ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["It's too expensive and anyway the colour doesn't suit you."]
+  },
+  {
+    "id": "word_apart",
+    "word": "apart",
+    "meaning": "separated by a distance, of space or time",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "əˈpɑːrt"
+      },
+      {
+        "accent": "british",
+        "ipa": "əˈpɑːt"
+      },
+      {
+        "accent": "australian",
+        "ipa": "əˈpɑːt"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["The two houses stood 500 metres apart."]
+  },
+  {
+    "id": "word_apparently",
+    "word": "apparently",
+    "meaning": "according to what you have heard or read; according to the way something appears",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "əˈpærəntli"
+      },
+      {
+        "accent": "british",
+        "ipa": "əˈpærəntli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "əˈpærəntli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Apparently they are getting divorced soon."]
+  },
+  {
+    "id": "word_approximately",
+    "word": "approximately",
+    "meaning": "used to show that something is almost, but not completely, accurate or correct",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "əˈprɑːksɪmətli"
+      },
+      {
+        "accent": "british",
+        "ipa": "əˈprɒksɪmətli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "əˈprɒksɪmətli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["The journey took approximately seven hours."]
+  },
+  {
+    "id": "word_backwards",
+    "word": "backwards",
+    "meaning": "towards a place or position that is behind",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈbækwərdz"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈbækwədz"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈbækwədz"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["I lost my balance and fell backwards."]
+  },
+  {
+    "id": "word_basically",
+    "word": "basically",
+    "meaning": "in the most important ways, without considering things that are less important",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈbeɪsɪkli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈbeɪsɪkli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈbeɪsɪkli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["I think we are basically saying the same thing. "]
+  },
+  {
+    "id": "word_closely",
+    "word": "closely",
+    "meaning": "near in space or time",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈkləʊsli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈkləʊsli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈkləʊsli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["He walked into the room, closely followed by the rest of the family."]
+  },
+  {
+    "id": "word_commonly",
+    "word": "commonly",
+    "meaning": "usually; very often; by most people",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈkɑːmənli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈkɒmənli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈkɒmənli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Christopher is commonly known as Kit."]
+  },
+  {
+    "id": "word_completely",
+    "word": "completely",
+    "meaning": "in every way possible; in every part",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "kəmˈpliːtli"
+      },
+      {
+        "accent": "british",
+        "ipa": "kəmˈpliːtli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "kəmˈpliːtli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["It was completely different from how I had imagined it."]
+  },
+  {
+    "id": "word_constantly",
+    "word": "constantly",
+    "meaning": "all the time; repeatedly",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈkɑːnstəntli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈkɒnstəntli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈkɒnstəntli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Fashion is constantly changing."]
+  },
+  {
+    "id": "word_correctly",
+    "word": "correctly",
+    "meaning": "in a way that is accurate or true, without any mistakes",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "kəˈrektli"
+      },
+      {
+        "accent": "british",
+        "ipa": "kəˈrektli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "kəˈrektli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Have you spelled it correctly?"]
+  },
+  {
+    "id": "word_currently",
+    "word": "currently",
+    "meaning": "at the present time",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈkɜːrəntli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈkʌrəntli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈkʌrəntli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["The hourly charge is currently £35."]
+  },
+  {
+    "id": "word_deeply",
+    "word": "deeply",
+    "meaning": "very; very much",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈdiːpli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈdiːpli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈdiːpli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["She is deeply religious."]
+  },
+  {
+    "id": "word_definitely",
+    "word": "definitely",
+    "meaning": "a way of emphasizing that something is true and that there is no doubt about it",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈdefɪnətli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈdefɪnətli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈdefɪnətli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["I definitely remember sending the letter."]
+  },
+  {
+    "id": "word_deliberately",
+    "word": "deliberately",
+    "meaning": "done in a way that was planned, not by chance",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "dɪˈlɪbərətli"
+      },
+      {
+        "accent": "british",
+        "ipa": "dɪˈlɪbərətli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "dɪˈlɪbərətli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["She's been deliberately ignoring him all day."]
+  },
+  {
+    "id": "word_differently",
+    "word": "differently",
+    "meaning": "in a different way from somebody/something",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈdɪfrəntli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈdɪfrəntli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈdɪfrəntli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Boys and girls may behave differently."]
+  },
+  {
+    "id": "word_directly",
+    "word": "directly",
+    "meaning": "without stopping or changing direction",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "dəˈrektli"
+      },
+      {
+        "accent": "british",
+        "ipa": "dəˈrektli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "dəˈrektli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["The path leads directly to the river."]
+  },
+  {
+    "id": "word_downwards",
+    "word": "downwards",
+    "meaning": "towards the ground; towards a lower place or position",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈdaʊnwərdz"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈdaʊnwədz"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈdaʊnwədz"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["She was lying face downwards on the grass."]
+  },
+  {
+    "id": "word_effectively",
+    "word": "effectively",
+    "meaning": "in a way that produces the intended result or a successful result",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɪˈfektɪvli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɪˈfektɪvli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɪˈfektɪvli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["The company must reduce costs to compete effectively."]
+  },
+  {
+    "id": "word_else",
+    "word": "else",
+    "meaning": "in addition to something already mentioned",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "els"
+      },
+      {
+        "accent": "british",
+        "ipa": "els"
+      },
+      {
+        "accent": "australian",
+        "ipa": "els"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["What else did he say?"]
+  },
+  {
+    "id": "word_elsewhere",
+    "word": "elsewhere",
+    "meaning": "in, at or to another place or other places",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˌelsˈwer"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˌelsˈweə(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˌelsˈweə(r)"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Dissatisfied customers will look elsewhere."]
+  },
+  {
+    "id": "word_entirely",
+    "word": "entirely",
+    "meaning": "in every way possible; completely",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɪnˈtaɪərli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɪnˈtaɪəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɪnˈtaɪəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["The experience was entirely new to me."]
+  },
+  {
+    "id": "word_equally",
+    "word": "equally",
+    "meaning": "to the same degree; in the same or in a similar way",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈiːkwəli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈiːkwəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈiːkwəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Diet and exercise are equally important."]
+  },
+  {
+    "id": "word_especially",
+    "word": "especially",
+    "meaning": "more with one person, thing, etc. than with others, or more in particular circumstances than in others ",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɪˈspeʃəli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɪˈspeʃəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɪˈspeʃəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Teenagers are very fashion conscious, especially girls."]
+  },
+  {
+    "id": "word_eventually",
+    "word": "eventually",
+    "meaning": "at the end of a period of time or a series of events",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɪˈventʃuəli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɪˈventʃuəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɪˈventʃuəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Our flight eventually left five hours late."]
+  },
+  {
+    "id": "word_ever",
+    "word": "ever",
+    "meaning": "used in negative sentences and questions, or sentences with if to mean ‘at any time’",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈevər"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈevə(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈevə(r)"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Nothing ever happens here."]
+  },
+  {
+    "id": "word_exactly",
+    "word": "exactly",
+    "meaning": "used to emphasize that something is correct in every way or in every detail",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɪɡˈzæktli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɪɡˈzæktli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɪɡˈzæktli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["It's exactly nine o'clock."]
+  },
+  {
+    "id": "word_extremely",
+    "word": "extremely",
+    "meaning": "to a very high degree",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɪkˈstriːmli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɪkˈstriːmli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɪkˈstriːmli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["It is extremely important to follow the directions exactly."]
+  },
+  {
+    "id": "word_fairly",
+    "word": "fairly",
+    "meaning": "to some extent but not very",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈferli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈfeəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈfeəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["fairly simple/easy/straightforward"]
+  },
+  {
+    "id": "word_firstly",
+    "word": "firstly",
+    "meaning": "used to introduce the first of a list of points you want to make in a speech or piece of writing",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈfɜːrstli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈfɜːstli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈfɜːstli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["There are two reasons for this decision: firstly…"]
+  },
+  {
+    "id": "word_forever",
+    "word": "forever",
+    "meaning": "used to say that a particular situation or state will always exist",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "fərˈevər"
+      },
+      {
+        "accent": "british",
+        "ipa": "fərˈevə(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "fərˈevə(r)"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["I'll love you forever!"]
+  },
+  {
+    "id": "word_fortunately",
+    "word": "fortunately",
+    "meaning": "by good luck",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈfɔːrtʃənətli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈfɔːtʃənətli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈfɔːtʃənətli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["I was late, but fortunately the meeting hadn't started."]
+  },
+  {
+    "id": "word_frequently",
+    "word": "frequently",
+    "meaning": "often",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈfriːkwəntli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈfriːkwəntli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈfriːkwəntli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Buses run frequently between the city and the airport."]
+  },
+  {
+    "id": "word_fully",
+    "word": "fully",
+    "meaning": "completely",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈfʊli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈfʊli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈfʊli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["I fully understand your motives."]
+  },
+  {
+    "id": "word_furthermore",
+    "word": "furthermore",
+    "meaning": "in addition to what has just been stated. Furthermore is used especially to add a point to an argument.",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˌfɜːrðərˈmɔːr"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˌfɜːðəˈmɔː(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˌfɜːðəˈmɔː(r)"
+      }
+    ],
+    "category": "adverbs",
+    "examples": [
+      "He said he had not discussed the matter with her. Furthermore, he had not even contacted her."
+    ]
+  },
+  {
+    "id": "word_generally",
+    "word": "generally",
+    "meaning": "by or to most people",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈdʒenrəli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈdʒenrəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈdʒenrəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["The initiative was generally considered a success."]
+  },
+  {
+    "id": "word_gradually",
+    "word": "gradually",
+    "meaning": "slowly, over a long period of time",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈɡrædʒuəli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈɡrædʒuəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈɡrædʒuəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["to gradually increase/decrease"]
+  },
+  {
+    "id": "word_hardly",
+    "word": "hardly",
+    "meaning": "almost no; almost not; almost none",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈhɑːrdli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈhɑːdli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈhɑːdli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["There's hardly any tea left."]
+  },
+  {
+    "id": "word_heavily",
+    "word": "heavily",
+    "meaning": "to a great degree; in large amounts",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈhevɪli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈhevɪli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈhevɪli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["It was raining heavily."]
+  },
+  {
+    "id": "word_highly",
+    "word": "highly",
+    "meaning": "very",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈhaɪli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈhaɪli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈhaɪli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["It is highly unlikely that she'll be late."]
+  },
+  {
+    "id": "word_how",
+    "word": "how",
+    "meaning": "in what way or manner",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "haʊ"
+      },
+      {
+        "accent": "british",
+        "ipa": "haʊ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "haʊ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["How does it work?"]
+  },
+  {
+    "id": "word_immediately",
+    "word": "immediately",
+    "meaning": "without delay",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɪˈmiːdiətli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɪˈmiːdiətli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɪˈmiːdiətli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["She answered almost immediately."]
+  },
+  {
+    "id": "word_increasingly",
+    "word": "increasingly",
+    "meaning": "more and more all the time",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɪnˈkriːsɪŋli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɪnˈkriːsɪŋli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɪnˈkriːsɪŋli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Tourism is playing an increasingly important role in the region's economy"]
+  },
+  {
+    "id": "word_incredibly",
+    "word": "incredibly",
+    "meaning": "extremely",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɪnˈkredəbli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɪnˈkredəbli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɪnˈkredəbli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["It was all incredibly difficult."]
+  },
+  {
+    "id": "word_indeed",
+    "word": "indeed",
+    "meaning": "used after very and an adjective or adverb to emphasize a statement, description, etc.",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɪnˈdiːd"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɪnˈdiːd"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɪnˈdiːd"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Thank you very much indeed!"]
+  },
+  {
+    "id": "word_indoors",
+    "word": "indoors",
+    "meaning": "inside or into a building",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˌɪnˈdɔːrz"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˌɪnˈdɔːz"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˌɪnˈdɔːz"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["I prefer to stay indoors in this really hot weather."]
+  },
+  {
+    "id": "word_initially",
+    "word": "initially",
+    "meaning": "at the beginning",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɪˈnɪʃəli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɪˈnɪʃəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɪˈnɪʃəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Initially, the system worked well."]
+  },
+  {
+    "id": "word_instead",
+    "word": "instead",
+    "meaning": "in the place of somebody/something",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɪnˈsted"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɪnˈsted"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɪnˈsted"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Lee was ill so I went instead."]
+  },
+  {
+    "id": "word_largely",
+    "word": "largely",
+    "meaning": "to a great extent; mostly or mainly",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈlɑːrdʒli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈlɑːdʒli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈlɑːdʒli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["The manager was largely responsible for the team’s victory."]
+  },
+  {
+    "id": "word_mainly",
+    "word": "mainly",
+    "meaning": "more than anything else; also used to talk about the most important reason for something",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈmeɪnli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈmeɪnli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈmeɪnli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["They eat mainly fruit and nuts."]
+  },
+  {
+    "id": "word_maybe",
+    "word": "maybe",
+    "meaning": "used when you are not certain that something will happen or that something is true or is a correct number ",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈmeɪbi"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈmeɪbi"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈmeɪbi"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Maybe he'll come, maybe he won't."]
+  },
+  {
+    "id": "word_meanwhile",
+    "word": "meanwhile",
+    "meaning": "while something else is happening",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈmiːnwaɪl"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈmiːnwaɪl"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈmiːnwaɪl"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Leave the cake to cool completely. Meanwhile, make the topping."]
+  },
+  {
+    "id": "word_mostly",
+    "word": "mostly",
+    "meaning": "mainly; generally",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈməʊstli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈməʊstli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈməʊstli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["The sauce is mostly cream."]
+  },
+  {
+    "id": "word_naturally",
+    "word": "naturally",
+    "meaning": "in a way that you would expect",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈnætʃrəli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈnætʃrəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈnætʃrəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Naturally, I get upset when things go wrong."]
+  },
+  {
+    "id": "word_nearly",
+    "word": "nearly",
+    "meaning": "almost; not quite; not completely",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈnɪrli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈnɪəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈnɪəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["The bottle's nearly empty."]
+  },
+  {
+    "id": "word_necessarily",
+    "word": "necessarily",
+    "meaning": "used to say that something cannot be avoided",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˌnesəˈserəli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˌnesəˈserəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˌnesəˈserəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["The number of places available is necessarily limited."]
+  },
+  {
+    "id": "word_nevertheless",
+    "word": "nevertheless",
+    "meaning": "despite something that you have just mentioned",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˌnevərðəˈles"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˌnevəðəˈles"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˌnevəðəˈles"
+      }
+    ],
+    "category": "adverbs",
+    "examples": [
+      "There is little chance that we will succeed in changing the law. Nevertheless, it is important that we try."
+    ]
+  },
+  {
+    "id": "word_normally",
+    "word": "normally",
+    "meaning": "usually; in normal circumstances",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈnɔːrməli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈnɔːməli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈnɔːməli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["I would never normally discuss this."]
+  },
+  {
+    "id": "word_not",
+    "word": "not",
+    "meaning": "used with be, do or have to form the negative of verbs; used to form the negative of modal verbs like can or must",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "nɑːt"
+      },
+      {
+        "accent": "british",
+        "ipa": "nɒt"
+      },
+      {
+        "accent": "australian",
+        "ipa": "nɒt"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["She did not/didn’t see him."]
+  },
+  {
+    "id": "word_oclock",
+    "word": "o'clock",
+    "meaning": "used with the numbers 1 to 12 when telling the time, to mean an exact hour",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "əˈklɑːk"
+      },
+      {
+        "accent": "british",
+        "ipa": "əˈklɒk"
+      },
+      {
+        "accent": "australian",
+        "ipa": "əˈklɒk"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["He left between five and six o'clock."]
+  },
+  {
+    "id": "word_obviously",
+    "word": "obviously",
+    "meaning": "used when giving information that you expect other people to know already or agree with",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈɑːbviəsli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈɒbviəsli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈɒbviəsli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Obviously, we don't want to spend too much money."]
+  },
+  {
+    "id": "word_occasionally",
+    "word": "occasionally",
+    "meaning": "sometimes but not often",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "əˈkeɪʒnəli"
+      },
+      {
+        "accent": "british",
+        "ipa": "əˈkeɪʒnəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "əˈkeɪʒnəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["We occasionally meet for a drink after work."]
+  },
+  {
+    "id": "word_originally",
+    "word": "originally",
+    "meaning": "used to describe the situation that existed at the beginning of a particular period or activity, especially before something was changed",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "əˈrɪdʒənəli"
+      },
+      {
+        "accent": "british",
+        "ipa": "əˈrɪdʒənəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "əˈrɪdʒənəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["The school was originally very small."]
+  },
+  {
+    "id": "word_otherwise",
+    "word": "otherwise",
+    "meaning": "used to state what the result would be if something did not happen or if the situation were different",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈʌðərwaɪz"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈʌðəwaɪz"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈʌðəwaɪz"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["My parents lent me the money. Otherwise, I couldn't have afforded the trip."]
+  },
+  {
+    "id": "word_out",
+    "word": "out",
+    "meaning": "away from the inside of a place or thing",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "aʊt"
+      },
+      {
+        "accent": "british",
+        "ipa": "aʊt"
+      },
+      {
+        "accent": "australian",
+        "ipa": "aʊt"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["She ran out into the corridor."]
+  },
+  {
+    "id": "word_outdoors",
+    "word": "outdoors",
+    "meaning": "outside, rather than in a building",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˌaʊtˈdɔːrz"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˌaʊtˈdɔːz"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˌaʊtˈdɔːz"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["The rain prevented them from eating outdoors."]
+  },
+  {
+    "id": "word_particularly",
+    "word": "particularly",
+    "meaning": "especially; more than usual or more than others",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "pərˈtɪkjələrli"
+      },
+      {
+        "accent": "british",
+        "ipa": "pəˈtɪkjələli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "pəˈtɪkjələli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["particularly useful/important/interesting"]
+  },
+  {
+    "id": "word_partly",
+    "word": "partly",
+    "meaning": "to some extent; not completely",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈpɑːrtli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈpɑːtli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈpɑːtli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": [
+      "Some people are unwilling to attend the classes partly because of the cost involved."
+    ]
+  },
+  {
+    "id": "word_perfectly",
+    "word": "perfectly",
+    "meaning": "completely",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈpɜːrfɪktli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈpɜːfɪktli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈpɜːfɪktli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["It's perfectly normal to feel like this."]
+  },
+  {
+    "id": "word_personally",
+    "word": "personally",
+    "meaning": "used to show that you are giving your own opinion about something",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈpɜːrsənəli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈpɜːsənəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈpɜːsənəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Personally, I prefer the second option."]
+  },
+  {
+    "id": "word_possibly",
+    "word": "possibly",
+    "meaning": "used to say that something might exist, happen or be true, but you are not certain",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈpɑːsəbli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈpɒsəbli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈpɒsəbli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["It was possibly their worst performance ever."]
+  },
+  {
+    "id": "word_previously",
+    "word": "previously",
+    "meaning": "at a time before the time that you are talking about",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈpriːviəsli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈpriːviəsli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈpriːviəsli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["The building had previously been used as a hotel."]
+  },
+  {
+    "id": "word_properly",
+    "word": "properly",
+    "meaning": "in a way that is correct and/or appropriate",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈprɑːpərli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈprɒpəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈprɒpəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["How much money do we need to do the job properly?"]
+  },
+  {
+    "id": "word_rapidly",
+    "word": "rapidly",
+    "meaning": "very quickly; at a great rate",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈræpɪdli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈræpɪdli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈræpɪdli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["to increase/spread/expand rapidly"]
+  },
+  {
+    "id": "word_rarely",
+    "word": "rarely",
+    "meaning": "not very often",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈrerli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈreəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈreəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["She is rarely seen in public nowadays."]
+  },
+  {
+    "id": "word_rather",
+    "word": "rather",
+    "meaning": "used to mean ‘fairly’ or ‘to some degree’, often when you are disappointed, surprised or expressing slight criticism ",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈræðər"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈrɑːðə(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈrɑːðə(r)"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["rather odd/strange/unusual"]
+  },
+  {
+    "id": "word_recently",
+    "word": "recently",
+    "meaning": "not long ago",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈriːsntli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈriːsntli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈriːsntli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["a recently published book"]
+  },
+  {
+    "id": "word_regularly",
+    "word": "regularly",
+    "meaning": "at regular intervals or times ",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈreɡjələrli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈreɡjələli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈreɡjələli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["We meet regularly to discuss the progress of the project."]
+  },
+  {
+    "id": "word_relatively",
+    "word": "relatively",
+    "meaning": "to a fairly large degree, especially in comparison to something else",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈrelətɪvli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈrelətɪvli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈrelətɪvli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["relatively large/small/high/low"]
+  },
+  {
+    "id": "word_secondly",
+    "word": "secondly",
+    "meaning": "used to introduce the second of a list of points you want to make in a speech or piece of writing",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈsekəndli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈsekəndli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈsekəndli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Firstly, it's expensive, and secondly, it's too slow."]
+  },
+  {
+    "id": "word_seriously",
+    "word": "seriously",
+    "meaning": "in a serious way",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈsɪriəsli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈsɪəriəsli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈsɪəriəsli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["to be seriously ill/injured/wounded/hurt"]
+  },
+  {
+    "id": "word_significantly",
+    "word": "significantly",
+    "meaning": "in a way that is large or important enough to have an effect on something or to be noticed",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "sɪɡˈnɪfɪkəntli"
+      },
+      {
+        "accent": "british",
+        "ipa": "sɪɡˈnɪfɪkəntli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "sɪɡˈnɪfɪkəntli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["significantly higher/lower/larger/smaller"]
+  },
+  {
+    "id": "word_similarly",
+    "word": "similarly",
+    "meaning": "in almost the same way",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈsɪmələrli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈsɪmələli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈsɪmələli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["It is a little cheaper than other similarly sized cars."]
+  },
+  {
+    "id": "word_simply",
+    "word": "simply",
+    "meaning": "used to emphasize how easy or basic something is",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈsɪmpli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈsɪmpli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈsɪmpli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["To order, simply click here."]
+  },
+  {
+    "id": "word_slightly",
+    "word": "slightly",
+    "meaning": "a little",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈslaɪtli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈslaɪtli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈslaɪtli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["a slightly different version"]
+  },
+  {
+    "id": "word_somewhat",
+    "word": "somewhat",
+    "meaning": "to some degree",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈsʌmwʌt"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈsʌmwɒt"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈsʌmwɒt"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["somewhat different/similar"]
+  },
+  {
+    "id": "word_specifically",
+    "word": "specifically",
+    "meaning": "connected with or intended for one particular thing only",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "spəˈsɪfɪkli"
+      },
+      {
+        "accent": "british",
+        "ipa": "spəˈsɪfɪkli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "spəˈsɪfɪkli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["liquid vitamins specifically designed for children"]
+  },
+  {
+    "id": "word_successfully",
+    "word": "successfully",
+    "meaning": "in a way that achieves your aims or what was intended",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "səkˈsesfəli"
+      },
+      {
+        "accent": "british",
+        "ipa": "səkˈsesfəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "səkˈsesfəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["She had already successfully completed these courses."]
+  },
+  {
+    "id": "word_surely",
+    "word": "surely",
+    "meaning": "used to show that you are almost certain of what you are saying and want other people to agree with you",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈʃʊrli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈʃʊəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈʃʊəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Surely we should do something about it?"]
+  },
+  {
+    "id": "word_therefore",
+    "word": "therefore",
+    "meaning": "used to introduce the logical result of something that has just been mentioned",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈðerfɔːr"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈðeəfɔː(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈðeəfɔː(r)"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["He's only 17 and therefore not eligible to vote."]
+  },
+  {
+    "id": "word_throughout",
+    "word": "throughout",
+    "meaning": "in or into every part of something",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "θruːˈaʊt"
+      },
+      {
+        "accent": "british",
+        "ipa": "θruːˈaʊt"
+      },
+      {
+        "accent": "australian",
+        "ipa": "θruːˈaʊt"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["They export their products to markets throughout the world."]
+  },
+  {
+    "id": "word_thus",
+    "word": "thus",
+    "meaning": "in this way; like this",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ðʌs"
+      },
+      {
+        "accent": "british",
+        "ipa": "ðʌs"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ðʌs"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Many scholars have argued thus."]
+  },
+  {
+    "id": "word_totally",
+    "word": "totally",
+    "meaning": "completely",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈtəʊtəli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈtəʊtəli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈtəʊtəli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["They come from totally different cultures."]
+  },
+  {
+    "id": "word_truly",
+    "word": "truly",
+    "meaning": "used to emphasize that a particular statement, feeling, etc. is sincere or real",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈtruːli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈtruːli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈtruːli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["She truly believes that none of this is her fault."]
+  },
+  {
+    "id": "word_twice",
+    "word": "twice",
+    "meaning": "two times; on two occasions",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "twaɪs"
+      },
+      {
+        "accent": "british",
+        "ipa": "twaɪs"
+      },
+      {
+        "accent": "australian",
+        "ipa": "twaɪs"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["I don't know him well; I've only met him twice."]
+  },
+  {
+    "id": "word_typically",
+    "word": "typically",
+    "meaning": "used to say that something usually happens in the way that you are stating",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈtɪpɪkli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈtɪpɪkli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈtɪpɪkli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["The standard chips are typically used for databases and other business software."]
+  },
+  {
+    "id": "word_ultimately",
+    "word": "ultimately",
+    "meaning": "in the end; finally",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈʌltɪmətli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈʌltɪmətli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈʌltɪmətli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["A poor diet will ultimately lead to illness."]
+  },
+  {
+    "id": "word_unfortunately",
+    "word": "unfortunately",
+    "meaning": "used to say that a particular situation or fact makes you sad or disappointed, or gets you into a difficult position",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ʌnˈfɔːrtʃənətli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ʌnˈfɔːtʃənətli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ʌnˈfɔːtʃənətli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Unfortunately, I won't be able to attend the meeting."]
+  },
+  {
+    "id": "word_upwards",
+    "word": "upwards",
+    "meaning": "towards a higher place or position",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈʌpwərdz"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈʌpwədz"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈʌpwədz"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Place your hands on the table with the palms facing upwards."]
+  },
+  {
+    "id": "word_why",
+    "word": "why",
+    "meaning": "used in questions to ask the reason for or purpose of something",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "waɪ"
+      },
+      {
+        "accent": "british",
+        "ipa": "waɪ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "waɪ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Why were you late?"]
+  },
+  {
+    "id": "word_widely",
+    "word": "widely",
+    "meaning": "by a lot of people; in or to many places",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈwaɪdli"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈwaɪdli"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈwaɪdli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["The term is widely used in everyday speech."]
   }
 ]

@@ -1,0 +1,2442 @@
+[
+  {
+    "id": "word_a",
+    "word": "a",
+    "meaning": "used before countable or singular nouns referring to people or things that have not already been mentioned",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ə"
+      },
+      {
+        "accent": "british",
+        "ipa": "ə"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ə"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["a man/horse/unit"]
+  },
+  {
+    "id": "word_ah",
+    "word": "ah",
+    "meaning": "used to express surprise, pleasure or sympathy, or when you disagree with somebody",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɑː"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɑː"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɑː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ah, there you are!"]
+  },
+  {
+    "id": "word_all_determiner",
+    "word": "all",
+    "meaning": "the whole number of",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɔːl"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɔːl"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɔːl"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["All horses are animals, but not all animals are horses."]
+  },
+  {
+    "id": "word_all_right_exclamation",
+    "word": "all right",
+    "meaning": "used to check that somebody agrees or understands",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɔːl ˈraɪt"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɔːl ˈraɪt"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɔːl ˈraɪt"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["We've got to get up early, all right?"]
+  },
+  {
+    "id": "word_although",
+    "word": "although",
+    "meaning": "used for introducing a statement that makes the main statement in a sentence seem surprising",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɔːlˈðəʊ"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɔːlˈðəʊ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɔːlˈðəʊ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Although the sun was shining, it wasn't very warm."]
+  },
+  {
+    "id": "word_and",
+    "word": "and",
+    "meaning": "also; in addition to",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ənd"
+      },
+      {
+        "accent": "british",
+        "ipa": "ənd"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ənd"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["bread and butter"]
+  },
+  {
+    "id": "word_another",
+    "word": "another",
+    "meaning": "one more; an extra thing or person",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "əˈnʌðər"
+      },
+      {
+        "accent": "british",
+        "ipa": "əˈnʌðə(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "əˈnʌðə(r)"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Would you like another drink?"]
+  },
+  {
+    "id": "word_any_determiner",
+    "word": "any",
+    "meaning": "used with uncountable or plural nouns in negative sentences and questions, after if or whether, and after some verbs such as prevent, ban, forbid, etc. to refer to an amount or a number of something, however large or small",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈeni"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈeni"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈeni"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["I didn't eat any meat."]
+  },
+  {
+    "id": "word_anybody",
+    "word": "anybody",
+    "meaning": "used instead of somebody in negative sentences and in questions after if/whether, and after verbs such as prevent, forbid, avoid, etc.",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈenibɑːdi"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈenibɒdi"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈenibɒdi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Is there anybody who can help me?"]
+  },
+  {
+    "id": "word_anyone",
+    "word": "anyone",
+    "meaning": "used instead of someone in negative sentences and in questions after if/whether, and after verbs such as prevent, forbid, avoid, etc.",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈeniwʌn"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈeniwʌn"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈeniwʌn"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Is anyone there?"]
+  },
+  {
+    "id": "word_anything",
+    "word": "anything",
+    "meaning": "used instead of something in negative sentences and in questions; after if/whether; and after verbs such as prevent, ban, avoid, etc.",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈeniθɪŋ"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈeniθɪŋ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈeniθɪŋ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Would you like anything else?"]
+  },
+  {
+    "id": "word_anywhere_pronoun",
+    "word": "anywhere",
+    "meaning": "used in negative sentences and in questions instead of somewhere",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈeniwer"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈeniweə(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈeniweə(r)"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["I don't have anywhere to stay."]
+  },
+  {
+    "id": "word_as_conjunction",
+    "word": "as",
+    "meaning": "while something else is happening",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "əz"
+      },
+      {
+        "accent": "british",
+        "ipa": "əz"
+      },
+      {
+        "accent": "australian",
+        "ipa": "əz"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["He sat watching her as she got ready."]
+  },
+  {
+    "id": "word_attention",
+    "word": "attention",
+    "meaning": "used for asking people to listen to something that is being announced",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "əˈtenʃn"
+      },
+      {
+        "accent": "british",
+        "ipa": "əˈtenʃn"
+      },
+      {
+        "accent": "australian",
+        "ipa": "əˈtenʃn"
+      }
+    ],
+    "category": "function-words",
+    "examples": [
+      "Attention, please! Passengers for flight KL412 are requested to go to gate 21 immediately."
+    ]
+  },
+  {
+    "id": "word_because",
+    "word": "because",
+    "meaning": "for the reason that",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "bɪˈkəz"
+      },
+      {
+        "accent": "british",
+        "ipa": "bɪˈkəz"
+      },
+      {
+        "accent": "australian",
+        "ipa": "bɪˈkəz"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["I did it because he told me to."]
+  },
+  {
+    "id": "word_both",
+    "word": "both",
+    "meaning": "used with plural nouns to mean ‘the two’ or ‘the one as well as the other’",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "bəʊθ"
+      },
+      {
+        "accent": "british",
+        "ipa": "bəʊθ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "bəʊθ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Both women were French."]
+  },
+  {
+    "id": "word_but",
+    "word": "but",
+    "meaning": "used to introduce a word or phrase that contrasts with what was said before",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "bət"
+      },
+      {
+        "accent": "british",
+        "ipa": "bət"
+      },
+      {
+        "accent": "australian",
+        "ipa": "bət"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["I got it wrong. It wasn't the red one but the blue one."]
+  },
+  {
+    "id": "word_dear_exclamation",
+    "word": "dear",
+    "meaning": "used in expressions that show that you are surprised, upset, annoyed or worried",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "dɪr"
+      },
+      {
+        "accent": "british",
+        "ipa": "dɪə(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "dɪə(r)"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Oh dear! I think I've lost my purse!"]
+  },
+  {
+    "id": "word_dozen",
+    "word": "dozen",
+    "meaning": "a group of twelve of the same thing",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈdʌzn"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈdʌzn"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈdʌzn"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Give me a dozen, please."]
+  },
+  {
+    "id": "word_each_determiner",
+    "word": "each",
+    "meaning": "used to refer to every one of two or more people or things, when you are thinking about them separately",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "iːtʃ"
+      },
+      {
+        "accent": "british",
+        "ipa": "iːtʃ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "iːtʃ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Each answer is worth 20 points."]
+  },
+  {
+    "id": "word_either_determiner",
+    "word": "either",
+    "meaning": "one or the other of two; it does not matter which",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈiːðər"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈaɪðə(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈaɪðə(r)"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["You can park on either side of the street."]
+  },
+  {
+    "id": "word_enough_determiner",
+    "word": "enough",
+    "meaning": "used before plural or uncountable nouns to mean ‘as many or as much as somebody needs or wants’",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɪˈnʌf"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɪˈnʌf"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɪˈnʌf"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Have you made enough copies?"]
+  },
+  {
+    "id": "word_every",
+    "word": "every",
+    "meaning": "used with singular nouns to refer to all the members of a group of things or people",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈevri"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈevri"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈevri"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["She knows every student in the school."]
+  },
+  {
+    "id": "word_everybody",
+    "word": "everybody",
+    "meaning": "every person; all people",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈevribɑːdi"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈevribɒdi"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈevribɒdi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Everybody knows Tom."]
+  },
+  {
+    "id": "word_everyone",
+    "word": "everyone",
+    "meaning": "every person; all people",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈevriwʌn"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈevriwʌn"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈevriwʌn"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Everyone cheered and clapped."]
+  },
+  {
+    "id": "word_everything",
+    "word": "everything",
+    "meaning": "all things",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈevriθɪŋ"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈevriθɪŋ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈevriθɪŋ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Everything had gone."]
+  },
+  {
+    "id": "word_except",
+    "word": "except",
+    "meaning": "used before you mention something that makes a statement not completely true",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɪkˈsept"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɪkˈsept"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɪkˈsept"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["I didn't tell him anything except that I needed the money."]
+  },
+  {
+    "id": "word_few_determiner",
+    "word": "few",
+    "meaning": "used with plural nouns and a plural verb to mean ‘a small number’, ‘some’",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "fjuː"
+      },
+      {
+        "accent": "british",
+        "ipa": "fjuː"
+      },
+      {
+        "accent": "australian",
+        "ipa": "fjuː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["We've had a few replies."]
+  },
+  {
+    "id": "word_he",
+    "word": "he",
+    "meaning": "a male person or animal that has already been mentioned or is easily identified",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "hi"
+      },
+      {
+        "accent": "british",
+        "ipa": "hi"
+      },
+      {
+        "accent": "australian",
+        "ipa": "hi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Everyone liked my father—he was the perfect gentleman."]
+  },
+  {
+    "id": "word_her",
+    "word": "her",
+    "meaning": "of or belonging to a woman or girl who has already been mentioned or is easily identified",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "hər"
+      },
+      {
+        "accent": "british",
+        "ipa": "hə(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "hə(r)"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Meg loves her job."]
+  },
+  {
+    "id": "word_hers",
+    "word": "hers",
+    "meaning": "of or belonging to her",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "hɜːrz"
+      },
+      {
+        "accent": "british",
+        "ipa": "hɜːz"
+      },
+      {
+        "accent": "australian",
+        "ipa": "hɜːz"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["His eyes met hers."]
+  },
+  {
+    "id": "word_herself",
+    "word": "herself",
+    "meaning": "used when the woman or girl who performs an action is also affected by it",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "hɜːrˈself"
+      },
+      {
+        "accent": "british",
+        "ipa": "hɜːˈself"
+      },
+      {
+        "accent": "australian",
+        "ipa": "hɜːˈself"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["She hurt herself."]
+  },
+  {
+    "id": "word_hey",
+    "word": "hey",
+    "meaning": "used to attract somebody’s attention or to express interest, surprise or anger",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "heɪ"
+      },
+      {
+        "accent": "british",
+        "ipa": "heɪ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "heɪ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Hey, can I just ask you something?"]
+  },
+  {
+    "id": "word_him",
+    "word": "him",
+    "meaning": "used as the object of a verb, after the verb be or after a preposition to refer to a male person or animal that has already been mentioned or is easily identified",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "hɪm"
+      },
+      {
+        "accent": "british",
+        "ipa": "hɪm"
+      },
+      {
+        "accent": "australian",
+        "ipa": "hɪm"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["When did you see him?"]
+  },
+  {
+    "id": "word_himself",
+    "word": "himself",
+    "meaning": "used when the man or boy who performs an action is also affected by it",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "hɪmˈself"
+      },
+      {
+        "accent": "british",
+        "ipa": "hɪmˈself"
+      },
+      {
+        "accent": "australian",
+        "ipa": "hɪmˈself"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["He introduced himself."]
+  },
+  {
+    "id": "word_his",
+    "word": "his",
+    "meaning": "of or belonging to a man or boy who has already been mentioned or is easily identified",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "hɪz"
+      },
+      {
+        "accent": "british",
+        "ipa": "hɪz"
+      },
+      {
+        "accent": "australian",
+        "ipa": "hɪz"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["James has sold his car."]
+  },
+  {
+    "id": "word_i",
+    "word": "I",
+    "meaning": "used as the subject of a verb when the speaker or writer is referring to himself/herself",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "aɪ"
+      },
+      {
+        "accent": "british",
+        "ipa": "aɪ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "aɪ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["I think I'd better go now."]
+  },
+  {
+    "id": "word_if",
+    "word": "if",
+    "meaning": "used to say that one thing can, will or might happen or be true, depending on another thing happening or being true",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɪf"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɪf"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɪf"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["If you see him, give him this note."]
+  },
+  {
+    "id": "word_it_pronoun",
+    "word": "it",
+    "meaning": "used to refer to an animal or a thing that has already been mentioned or that is being talked about now",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɪt"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɪt"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɪt"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["‘Where's your car?’ ‘It's in the garage.’"]
+  },
+  {
+    "id": "word_its",
+    "word": "its",
+    "meaning": "belonging to or connected with a thing, an animal or a baby",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɪts"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɪts"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɪts"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Turn the box on its side."]
+  },
+  {
+    "id": "word_itself",
+    "word": "itself",
+    "meaning": "used when the animal or thing that does an action is also affected by it",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɪtˈself"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɪtˈself"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɪtˈself"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["The cat was washing itself."]
+  },
+  {
+    "id": "word_last_determiner",
+    "word": "last",
+    "meaning": "happening or coming after all other similar things or people",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "læst"
+      },
+      {
+        "accent": "british",
+        "ipa": "lɑːst"
+      },
+      {
+        "accent": "australian",
+        "ipa": "lɑːst"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["We caught the last bus home."]
+  },
+  {
+    "id": "word_least_determiner",
+    "word": "least",
+    "meaning": "smallest in size, amount, degree, etc.",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "liːst"
+      },
+      {
+        "accent": "british",
+        "ipa": "liːst"
+      },
+      {
+        "accent": "australian",
+        "ipa": "liːst"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["He's the best teacher, even though he has the least experience."]
+  },
+  {
+    "id": "word_less_determiner",
+    "word": "less",
+    "meaning": "used with uncountable nouns to mean ‘a smaller amount of’",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "les"
+      },
+      {
+        "accent": "british",
+        "ipa": "les"
+      },
+      {
+        "accent": "australian",
+        "ipa": "les"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["less something, less butter/time/importance"]
+  },
+  {
+    "id": "word_little_determiner",
+    "word": "little",
+    "meaning": "used with uncountable nouns to mean ‘a small amount’, ‘some’",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈlɪtl"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈlɪtl"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈlɪtl"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["a little milk/sugar/tea"]
+  },
+  {
+    "id": "word_lot_determiner",
+    "word": "lot",
+    "meaning": "a large number or amount of somebody/something",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "lɑːt"
+      },
+      {
+        "accent": "british",
+        "ipa": "lɒt"
+      },
+      {
+        "accent": "australian",
+        "ipa": "lɒt"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["What a lot of presents!"]
+  },
+  {
+    "id": "word_many",
+    "word": "many",
+    "meaning": "used with plural nouns and verbs, especially in negative sentences or in more formal English, to mean ‘a large number of’. Also used in questions to ask about the size of a number, and with ‘as’, ‘so’ and ‘too’.",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈmeni"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈmeni"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈmeni"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["We don't have very many copies left."]
+  },
+  {
+    "id": "word_me",
+    "word": "me",
+    "meaning": "the form of I that is used when the speaker or writer is the object of a verb or preposition, or after the verb be",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "mi"
+      },
+      {
+        "accent": "british",
+        "ipa": "mi"
+      },
+      {
+        "accent": "australian",
+        "ipa": "mi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Don't hit me."]
+  },
+  {
+    "id": "word_mine_pronoun",
+    "word": "mine",
+    "meaning": "of or belonging to the person writing or speaking",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "maɪn"
+      },
+      {
+        "accent": "british",
+        "ipa": "maɪn"
+      },
+      {
+        "accent": "australian",
+        "ipa": "maɪn"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["That's mine."]
+  },
+  {
+    "id": "word_more_determiner",
+    "word": "more",
+    "meaning": "a larger number or amount of",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "mɔːr"
+      },
+      {
+        "accent": "british",
+        "ipa": "mɔː(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "mɔː(r)"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["I want some more!"]
+  },
+  {
+    "id": "word_most_determiner",
+    "word": "most",
+    "meaning": "the largest in number or amount",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "məʊst"
+      },
+      {
+        "accent": "british",
+        "ipa": "məʊst"
+      },
+      {
+        "accent": "australian",
+        "ipa": "məʊst"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Who do you think will get (the) most votes?"]
+  },
+  {
+    "id": "word_much_determiner",
+    "word": "much",
+    "meaning": "used with uncountable nouns, especially in negative sentences to mean ‘a large amount of something’, or after ‘how’ to ask about the amount of something. It is also used with ‘as’, ‘so’ and ‘too’.",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "mʌtʃ"
+      },
+      {
+        "accent": "british",
+        "ipa": "mʌtʃ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "mʌtʃ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["I don't have much money with me."]
+  },
+  {
+    "id": "word_my",
+    "word": "my",
+    "meaning": "of or belonging to the speaker or writer",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "maɪ"
+      },
+      {
+        "accent": "british",
+        "ipa": "maɪ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "maɪ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Where's my passport?"]
+  },
+  {
+    "id": "word_myself",
+    "word": "myself",
+    "meaning": "used when the speaker or writer is also the person affected by an action",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "maɪˈself"
+      },
+      {
+        "accent": "british",
+        "ipa": "maɪˈself"
+      },
+      {
+        "accent": "australian",
+        "ipa": "maɪˈself"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["I cut myself on a knife."]
+  },
+  {
+    "id": "word_neither_determiner",
+    "word": "neither",
+    "meaning": "not one nor the other of two things or people",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈniːðər"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈnaɪðə(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈnaɪðə(r)"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Neither answer is correct."]
+  },
+  {
+    "id": "word_no",
+    "word": "no",
+    "meaning": "not one; not any; not a",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "nəʊ"
+      },
+      {
+        "accent": "british",
+        "ipa": "nəʊ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "nəʊ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["No student is to leave the room."]
+  },
+  {
+    "id": "word_no_one",
+    "word": "no one",
+    "meaning": "not anyone; no person",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈnəʊ wʌn"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈnəʊ wʌn"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈnəʊ wʌn"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["No one was at home."]
+  },
+  {
+    "id": "word_nobody",
+    "word": "nobody",
+    "meaning": "not anyone; no person",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈnəʊbədi"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈnəʊbədi"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈnəʊbədi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Nobody knew what to say."]
+  },
+  {
+    "id": "word_none",
+    "word": "none",
+    "meaning": "not one of a group of people or things; not any",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "nʌn"
+      },
+      {
+        "accent": "british",
+        "ipa": "nʌn"
+      },
+      {
+        "accent": "australian",
+        "ipa": "nʌn"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["None of these pens works/work."]
+  },
+  {
+    "id": "word_nor_conjunction",
+    "word": "nor",
+    "meaning": "and not",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "nɔːr"
+      },
+      {
+        "accent": "british",
+        "ipa": "nɔː(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "nɔː(r)"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["She seemed neither surprised nor worried."]
+  },
+  {
+    "id": "word_nothing",
+    "word": "nothing",
+    "meaning": "not anything; no single thing",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈnʌθɪŋ"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈnʌθɪŋ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈnʌθɪŋ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["There was nothing in her bag."]
+  },
+  {
+    "id": "word_oh",
+    "word": "oh",
+    "meaning": "used when you are reacting to something that has been said, especially if you did not know it before",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "əʊ"
+      },
+      {
+        "accent": "british",
+        "ipa": "əʊ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "əʊ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["‘I saw Ben yesterday.’ ‘Oh yes, how is he?’"]
+  },
+  {
+    "id": "word_ok_exclamation",
+    "word": "OK",
+    "meaning": "yes; all right",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "əʊˈkeɪ"
+      },
+      {
+        "accent": "british",
+        "ipa": "əʊˈkeɪ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "əʊˈkeɪ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["‘Shall we go for a walk?’ ‘OK.’"]
+  },
+  {
+    "id": "word_once_conjunction",
+    "word": "once",
+    "meaning": "as soon as; when",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "wʌns"
+      },
+      {
+        "accent": "british",
+        "ipa": "wʌns"
+      },
+      {
+        "accent": "australian",
+        "ipa": "wʌns"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["We didn't know how we would cope once the money had gone."]
+  },
+  {
+    "id": "word_or",
+    "word": "or",
+    "meaning": "used to introduce another possibility",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɔːr"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɔː(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɔː(r)"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Is your sister older or younger than you?"]
+  },
+  {
+    "id": "word_other_pronoun",
+    "word": "other",
+    "meaning": "used to refer to people or things that are additional or different to people or things that have been mentioned or are known about",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈʌðər"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈʌðə(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈʌðə(r)"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Mr Harris and Mrs Bate and three other teachers were there."]
+  },
+  {
+    "id": "word_our",
+    "word": "our",
+    "meaning": "belonging to us; connected with us",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɑːr"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɑː(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɑː(r)"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["our daughter/dog/house"]
+  },
+  {
+    "id": "word_ours",
+    "word": "ours",
+    "meaning": "the one or ones that belong to us",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɑːrz"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɑːz"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɑːz"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Their house is very similar to ours, but ours is bigger."]
+  },
+  {
+    "id": "word_ourselves",
+    "word": "ourselves",
+    "meaning": "the reflexive form of we; used when you and another person or other people together cause and are affected by an action",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɑːrˈselvz"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɑːˈselvz"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɑːˈselvz"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["We shouldn't blame ourselves for what happened."]
+  },
+  {
+    "id": "word_own_pronoun",
+    "word": "own",
+    "meaning": "used to emphasize that something belongs to or is connected with somebody",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "əʊn"
+      },
+      {
+        "accent": "british",
+        "ipa": "əʊn"
+      },
+      {
+        "accent": "australian",
+        "ipa": "əʊn"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["It was her own idea."]
+  },
+  {
+    "id": "word_plenty",
+    "word": "plenty",
+    "meaning": "a large amount; as much or as many as you need",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈplenti"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈplenti"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈplenti"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["plenty of eggs/money/time"]
+  },
+  {
+    "id": "word_plus_conjunction",
+    "word": "plus",
+    "meaning": "used to add more information",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "plʌs"
+      },
+      {
+        "accent": "british",
+        "ipa": "plʌs"
+      },
+      {
+        "accent": "australian",
+        "ipa": "plʌs"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["I've got too much on at work. Plus my father is not well."]
+  },
+  {
+    "id": "word_several",
+    "word": "several",
+    "meaning": "more than two but not very many",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈsevrəl"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈsevrəl"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈsevrəl"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Several letters arrived this morning."]
+  },
+  {
+    "id": "word_she",
+    "word": "she",
+    "meaning": "a female person or animal that has already been mentioned or is easily identified",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ʃi"
+      },
+      {
+        "accent": "british",
+        "ipa": "ʃi"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ʃi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["‘What does your sister do?’ ‘She's a dentist.’"]
+  },
+  {
+    "id": "word_so_conjunction",
+    "word": "so",
+    "meaning": "used to show the reason for something",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "səʊ"
+      },
+      {
+        "accent": "british",
+        "ipa": "səʊ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "səʊ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["It was still painful, so I went to see a doctor."]
+  },
+  {
+    "id": "word_some",
+    "word": "some",
+    "meaning": "used with uncountable nouns or plural countable nouns to mean ‘an amount of’ or ‘a number of’, when the amount or number is not given",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "sʌm"
+      },
+      {
+        "accent": "british",
+        "ipa": "sʌm"
+      },
+      {
+        "accent": "australian",
+        "ipa": "sʌm"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["There's some milk in the fridge."]
+  },
+  {
+    "id": "word_somebody",
+    "word": "somebody",
+    "meaning": "a person who is not known or mentioned by name",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈsʌmbədi"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈsʌmbədi"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈsʌmbədi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Somebody should have told me."]
+  },
+  {
+    "id": "word_someone",
+    "word": "someone",
+    "meaning": "a person who is not known or mentioned by name",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈsʌmwʌn"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈsʌmwʌn"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈsʌmwʌn"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["There's someone at the door."]
+  },
+  {
+    "id": "word_something",
+    "word": "something",
+    "meaning": "a thing that is not known or mentioned by name",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈsʌmθɪŋ"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈsʌmθɪŋ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈsʌmθɪŋ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["We stopped for something to eat."]
+  },
+  {
+    "id": "word_somewhere_pronoun",
+    "word": "somewhere",
+    "meaning": "a place that you do not know or do not mention by name",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈsʌmwer"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈsʌmweə(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈsʌmweə(r)"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["We need to find somewhere to live."]
+  },
+  {
+    "id": "word_such",
+    "word": "such",
+    "meaning": "used to emphasize the great degree of something",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "sʌtʃ"
+      },
+      {
+        "accent": "british",
+        "ipa": "sʌtʃ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "sʌtʃ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["This issue was of such importance that we could not afford to ignore it."]
+  },
+  {
+    "id": "word_than",
+    "word": "than",
+    "meaning": "used to introduce the second part of a comparison",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ðən"
+      },
+      {
+        "accent": "british",
+        "ipa": "ðən"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ðən"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["I'm older than her."]
+  },
+  {
+    "id": "word_that_conjunction",
+    "word": "that",
+    "meaning": "used after some verbs, adjectives and nouns to introduce a new part of the sentence",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ðət"
+      },
+      {
+        "accent": "british",
+        "ipa": "ðət"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ðət"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["She said (that) the story was true."]
+  },
+  {
+    "id": "word_the",
+    "word": "the",
+    "meaning": "used to refer to somebody/something that has already been mentioned or is easily understood",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ðə"
+      },
+      {
+        "accent": "british",
+        "ipa": "ðə"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ðə"
+      }
+    ],
+    "category": "function-words",
+    "examples": [
+      "There were three questions. The first two were relatively easy but the third one was hard."
+    ]
+  },
+  {
+    "id": "word_their",
+    "word": "their",
+    "meaning": "of or belonging to people, animals or things that have already been mentioned or are easily identified",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ðer"
+      },
+      {
+        "accent": "british",
+        "ipa": "ðeə(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ðeə(r)"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Their parties are always fun."]
+  },
+  {
+    "id": "word_theirs",
+    "word": "theirs",
+    "meaning": "of or belonging to them",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ðerz"
+      },
+      {
+        "accent": "british",
+        "ipa": "ðeəz"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ðeəz"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Theirs are the children with very fair hair."]
+  },
+  {
+    "id": "word_them",
+    "word": "them",
+    "meaning": "used when referring to people, animals or things as the object of a verb or preposition, or after the verb be",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ðəm"
+      },
+      {
+        "accent": "british",
+        "ipa": "ðəm"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ðəm"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Tell them the news."]
+  },
+  {
+    "id": "word_themselves",
+    "word": "themselves",
+    "meaning": "used when people or animals performing an action are also affected by it",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ðəmˈselvz"
+      },
+      {
+        "accent": "british",
+        "ipa": "ðəmˈselvz"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ðəmˈselvz"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["They seemed to be enjoying themselves."]
+  },
+  {
+    "id": "word_they",
+    "word": "they",
+    "meaning": "people, animals or things that have already been mentioned or are easily identified",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ðeɪ"
+      },
+      {
+        "accent": "british",
+        "ipa": "ðeɪ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ðeɪ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["‘Where are John and Liz?’ ‘They went for a walk.’"]
+  },
+  {
+    "id": "word_this_determiner",
+    "word": "this",
+    "meaning": "used to refer to a particular person, thing or event that is close to you, especially compared with another",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ðɪs"
+      },
+      {
+        "accent": "british",
+        "ipa": "ðɪs"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ðɪs"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["How long have you been living in this country?"]
+  },
+  {
+    "id": "word_though_conjunction",
+    "word": "though",
+    "meaning": "despite the fact that",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ðəʊ"
+      },
+      {
+        "accent": "british",
+        "ipa": "ðəʊ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ðəʊ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Anne was fond of Tim, though he often annoyed her."]
+  },
+  {
+    "id": "word_till",
+    "word": "till",
+    "meaning": "until",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "tɪl"
+      },
+      {
+        "accent": "british",
+        "ipa": "tɪl"
+      },
+      {
+        "accent": "australian",
+        "ipa": "tɪl"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["We're open till 6 o'clock."]
+  },
+  {
+    "id": "word_unless",
+    "word": "unless",
+    "meaning": "used to say that something can only happen or be true in a particular situation",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ənˈles"
+      },
+      {
+        "accent": "british",
+        "ipa": "ənˈles"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ənˈles"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["You won't get paid for time off unless you have a doctor's note."]
+  },
+  {
+    "id": "word_us",
+    "word": "us",
+    "meaning": "used when the speaker or writer and another or others are the object of a verb or preposition, or after the verb be",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "əs"
+      },
+      {
+        "accent": "british",
+        "ipa": "əs"
+      },
+      {
+        "accent": "australian",
+        "ipa": "əs"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["She gave us a picture as a wedding present."]
+  },
+  {
+    "id": "word_we",
+    "word": "we",
+    "meaning": "I and another person or other people; I and you",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "wi"
+      },
+      {
+        "accent": "british",
+        "ipa": "wi"
+      },
+      {
+        "accent": "australian",
+        "ipa": "wi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["We've moved to Atlanta."]
+  },
+  {
+    "id": "word_what",
+    "word": "what",
+    "meaning": "used in questions to ask for particular information about somebody/something",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "wʌt"
+      },
+      {
+        "accent": "british",
+        "ipa": "wɒt"
+      },
+      {
+        "accent": "australian",
+        "ipa": "wɒt"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["What is your name?"]
+  },
+  {
+    "id": "word_whatever",
+    "word": "whatever",
+    "meaning": "any or every; anything or everything",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "wətˈevər"
+      },
+      {
+        "accent": "british",
+        "ipa": "wɒtˈevə(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "wɒtˈevə(r)"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Take whatever action is needed."]
+  },
+  {
+    "id": "word_when_conjunction",
+    "word": "when",
+    "meaning": "at or during the time that",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "wen"
+      },
+      {
+        "accent": "british",
+        "ipa": "wen"
+      },
+      {
+        "accent": "australian",
+        "ipa": "wen"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["I loved history when I was at school."]
+  },
+  {
+    "id": "word_whenever",
+    "word": "whenever",
+    "meaning": "at any time that; on any occasion that",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "wenˈevər"
+      },
+      {
+        "accent": "british",
+        "ipa": "wenˈevə(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "wenˈevə(r)"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["You can ask for help whenever you need it."]
+  },
+  {
+    "id": "word_where_conjunction",
+    "word": "where",
+    "meaning": "(in) the place or situation in which",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "wer"
+      },
+      {
+        "accent": "british",
+        "ipa": "weə(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "weə(r)"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["This is where I live."]
+  },
+  {
+    "id": "word_whereas",
+    "word": "whereas",
+    "meaning": "used to compare or contrast two facts",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˌwerˈæz"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˌweərˈæz"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˌweərˈæz"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Some of the studies show positive results, whereas others do not."]
+  },
+  {
+    "id": "word_wherever",
+    "word": "wherever",
+    "meaning": "in any place",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "werˈevər"
+      },
+      {
+        "accent": "british",
+        "ipa": "weərˈevə(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "weərˈevə(r)"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Sit wherever you like."]
+  },
+  {
+    "id": "word_whether",
+    "word": "whether",
+    "meaning": "used to express a doubt or choice between two possibilities",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈweðər"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈweðə(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈweðə(r)"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["He seemed undecided whether to go or stay."]
+  },
+  {
+    "id": "word_which",
+    "word": "which",
+    "meaning": "used in questions to ask somebody to be exact about one or more people or things from a limited number",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "wɪtʃ"
+      },
+      {
+        "accent": "british",
+        "ipa": "wɪtʃ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "wɪtʃ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Which is better exercise—swimming or tennis?"]
+  },
+  {
+    "id": "word_while",
+    "word": "while",
+    "meaning": "during the time that something is happening; at the same time as something else is happening",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "waɪl"
+      },
+      {
+        "accent": "british",
+        "ipa": "waɪl"
+      },
+      {
+        "accent": "australian",
+        "ipa": "waɪl"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["We must have been burgled while we were asleep."]
+  },
+  {
+    "id": "word_who",
+    "word": "who",
+    "meaning": "used in questions to ask about the name, identity or function of one or more people",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "huː"
+      },
+      {
+        "accent": "british",
+        "ipa": "huː"
+      },
+      {
+        "accent": "australian",
+        "ipa": "huː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Who is that woman?"]
+  },
+  {
+    "id": "word_whom",
+    "word": "whom",
+    "meaning": "used instead of ‘who’ as the object of a verb or preposition",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "huːm"
+      },
+      {
+        "accent": "british",
+        "ipa": "huːm"
+      },
+      {
+        "accent": "australian",
+        "ipa": "huːm"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Whom did they invite?"]
+  },
+  {
+    "id": "word_whose",
+    "word": "whose",
+    "meaning": "used in questions to ask who something belongs to",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "huːz"
+      },
+      {
+        "accent": "british",
+        "ipa": "huːz"
+      },
+      {
+        "accent": "australian",
+        "ipa": "huːz"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Whose house is that?"]
+  },
+  {
+    "id": "word_wow",
+    "word": "wow",
+    "meaning": "used to show that you are very surprised or impressed by somebody/something",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "waʊ"
+      },
+      {
+        "accent": "british",
+        "ipa": "waʊ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "waʊ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Wow! You look terrific!"]
+  },
+  {
+    "id": "word_yeah",
+    "word": "yeah",
+    "meaning": "",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "jeə"
+      },
+      {
+        "accent": "british",
+        "ipa": "jeə"
+      },
+      {
+        "accent": "australian",
+        "ipa": "jeə"
+      }
+    ],
+    "category": "function-words",
+    "examples": []
+  },
+  {
+    "id": "word_yes",
+    "word": "yes",
+    "meaning": "used to answer a question and say that something is correct or true",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "jes"
+      },
+      {
+        "accent": "british",
+        "ipa": "jes"
+      },
+      {
+        "accent": "australian",
+        "ipa": "jes"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["‘Is this your car?’ ‘Yes, it is.’"]
+  },
+  {
+    "id": "word_yet_conjunction",
+    "word": "yet",
+    "meaning": "despite what has just been said",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "jet"
+      },
+      {
+        "accent": "british",
+        "ipa": "jet"
+      },
+      {
+        "accent": "australian",
+        "ipa": "jet"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["It's a small car, yet it's surprisingly spacious."]
+  },
+  {
+    "id": "word_you",
+    "word": "you",
+    "meaning": "used as the subject or object of a verb or after a preposition to refer to the person or people being spoken or written to",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "jə"
+      },
+      {
+        "accent": "british",
+        "ipa": "ju"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ju"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["You said you knew the way."]
+  },
+  {
+    "id": "word_your",
+    "word": "your",
+    "meaning": "of or belonging to the person or people being spoken or written to",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "jʊr"
+      },
+      {
+        "accent": "british",
+        "ipa": "jɔː(r)"
+      },
+      {
+        "accent": "australian",
+        "ipa": "jɔː(r)"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["I like your dress."]
+  },
+  {
+    "id": "word_yours",
+    "word": "yours",
+    "meaning": "of or belonging to you",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "jərz"
+      },
+      {
+        "accent": "british",
+        "ipa": "jɔːz"
+      },
+      {
+        "accent": "australian",
+        "ipa": "jɔːz"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Is that book yours?"]
+  },
+  {
+    "id": "word_yourself",
+    "word": "yourself",
+    "meaning": "used when the person or people being spoken to both cause and are affected by an action",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "jɔːrˈself"
+      },
+      {
+        "accent": "british",
+        "ipa": "jɔːˈself"
+      },
+      {
+        "accent": "australian",
+        "ipa": "jɔːˈself"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Have you hurt yourself?"]
+  }
+]

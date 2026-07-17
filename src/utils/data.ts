@@ -1,5 +1,6 @@
 import { VocabWord, WordRoot, VocabCategory } from '@/types';
 import type { LearningLanguage } from '@/types/settings';
+import { CATEGORY_ORDER } from '@/constants';
 import { loadRootsData, loadVocabularyData, loadEtymologyData } from './dataLoader';
 import { getTtsAudioUrl } from './audio';
 
@@ -105,7 +106,7 @@ export function groupWordsByCategory(words: VocabWord[]): Record<string, VocabWo
 }
 
 export function sortWordsByCategory(words: VocabWord[]): VocabWord[] {
-  const categoryOrder: VocabCategory[] = ['greetings', 'numbers', 'verbs', 'daily-use-nouns'];
+  const categoryOrder: VocabCategory[] = [...CATEGORY_ORDER];
 
   return words.sort((a, b) => {
     const aIndex = categoryOrder.indexOf(a.category);

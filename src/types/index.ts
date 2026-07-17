@@ -40,7 +40,14 @@ export type WordRoot = {
 };
 
 export type VocabCategory =
-  'greetings' | 'numbers' | 'verbs' | 'daily-use-nouns' | 'adjectives' | 'adverbs' | 'prepositions';
+  | 'greetings'
+  | 'numbers'
+  | 'verbs'
+  | 'daily-use-nouns'
+  | 'adjectives'
+  | 'adverbs'
+  | 'prepositions'
+  | 'function-words';
 
 export type VocabWord = {
   id: string;

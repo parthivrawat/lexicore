@@ -17,6 +17,7 @@ export const CATEGORY_ORDER = [
   'adjectives',
   'adverbs',
   'prepositions',
+  'function-words',
 ] as const;
 
 export const CATEGORIES = {
@@ -47,6 +48,10 @@ export const CATEGORIES = {
   prepositions: {
     en: 'Prepositions',
     fr: 'Prépositions',
+  },
+  'function-words': {
+    en: 'Function Words',
+    fr: 'Mots fonctionnels',
   },
 } as const;
 

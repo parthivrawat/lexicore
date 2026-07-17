@@ -1,0 +1,392 @@
+[
+  {
+    "id": "root_la_a",
+    "root": "a-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "from, away",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "a"
+      }
+    ],
+    "examples": [
+      {
+        "word": "abire",
+        "meaning": "to go away",
+        "sentence": "Hostes abire debent."
+      },
+      {
+        "word": "absolvere",
+        "meaning": "to loosen from",
+        "sentence": "Iudex eum absolvit."
+      }
+    ],
+    "relatedRootIds": ["root_la_ab"]
+  },
+  {
+    "id": "root_la_ab",
+    "root": "ab-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "from, away from",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ab"
+      }
+    ],
+    "examples": [
+      {
+        "word": "abire",
+        "meaning": "to go away",
+        "sentence": "Ab urbe abire volunt."
+      },
+      {
+        "word": "abscondere",
+        "meaning": "to hide away",
+        "sentence": "Aurum abscondit."
+      }
+    ],
+    "relatedRootIds": ["root_la_a"]
+  },
+  {
+    "id": "root_la_ad",
+    "root": "ad-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "to, toward",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ad"
+      }
+    ],
+    "examples": [
+      {
+        "word": "adire",
+        "meaning": "to approach",
+        "sentence": "Ad templum adimus."
+      },
+      {
+        "word": "adferre",
+        "meaning": "to bring to",
+        "sentence": "Librum mihi adfert."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_ante",
+    "root": "ante-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "before",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "an.te"
+      }
+    ],
+    "examples": [
+      {
+        "word": "antecedere",
+        "meaning": "to go before",
+        "sentence": "Equites antecedunt."
+      },
+      {
+        "word": "antepōnere",
+        "meaning": "to place before",
+        "sentence": "Vitam honōri antepōnit."
+      }
+    ],
+    "relatedRootIds": ["root_la_post"]
+  },
+  {
+    "id": "root_la_bi",
+    "root": "bi-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "two",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "bi"
+      }
+    ],
+    "examples": [
+      {
+        "word": "bipedalis",
+        "meaning": "two feet long",
+        "sentence": "Mensa bipedalis est."
+      },
+      {
+        "word": "bis",
+        "meaning": "twice",
+        "sentence": "Bis in diē cenat."
+      }
+    ],
+    "relatedRootIds": ["root_la_duo"]
+  },
+  {
+    "id": "root_la_circum",
+    "root": "circum-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "around",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "kir.kum"
+      }
+    ],
+    "examples": [
+      {
+        "word": "circumdare",
+        "meaning": "to surround",
+        "sentence": "Moenibus urbem circumdant."
+      },
+      {
+        "word": "circumire",
+        "meaning": "to go around",
+        "sentence": "Exploratores circumierunt."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_con",
+    "root": "con-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "with, together",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "kon"
+      }
+    ],
+    "examples": [
+      {
+        "word": "convenire",
+        "meaning": "to come together",
+        "sentence": "Amici in forum conveniunt."
+      },
+      {
+        "word": "conscribere",
+        "meaning": "to write together",
+        "sentence": "Leges conscribunt."
+      }
+    ],
+    "relatedRootIds": ["root_la_cum"]
+  },
+  {
+    "id": "root_la_cum",
+    "root": "cum-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "with, together",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "kum"
+      }
+    ],
+    "examples": [
+      {
+        "word": "cumulāre",
+        "meaning": "to heap together",
+        "sentence": "Dona cumulant."
+      },
+      {
+        "word": "convenire",
+        "meaning": "to come together",
+        "sentence": "Cum amīs conveniō."
+      }
+    ],
+    "relatedRootIds": ["root_la_con"]
+  },
+  {
+    "id": "root_la_de",
+    "root": "de-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "down, away",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "de"
+      }
+    ],
+    "examples": [
+      {
+        "word": "descendere",
+        "meaning": "to descend",
+        "sentence": "Mōns descendit."
+      },
+      {
+        "word": "dēmōnstrāre",
+        "meaning": "to point out",
+        "sentence": "Magister viam dēmōnstrat."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_ex",
+    "root": "ex-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "out, from",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "eks"
+      }
+    ],
+    "examples": [
+      {
+        "word": "exīre",
+        "meaning": "to go out",
+        "sentence": "Puerī ex schola exīre gaudent."
+      },
+      {
+        "word": "exemplum",
+        "meaning": "example",
+        "sentence": "Hoc exemplum bonum est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_inter",
+    "root": "inter-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "between, among",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "in.ter"
+      }
+    ],
+    "examples": [
+      {
+        "word": "intercedere",
+        "meaning": "to intervene",
+        "sentence": "Inter duas partes intercedit."
+      },
+      {
+        "word": "interrogāre",
+        "meaning": "to ask",
+        "sentence": "Senātor eum interrogat."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_post",
+    "root": "post-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "after",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "post"
+      }
+    ],
+    "examples": [
+      {
+        "word": "postponere",
+        "meaning": "to place after",
+        "sentence": "Bellum postpōnit."
+      },
+      {
+        "word": "posteā",
+        "meaning": "afterwards",
+        "sentence": "Posteā rēs clāra est."
+      }
+    ],
+    "relatedRootIds": ["root_la_ante"]
+  },
+  {
+    "id": "root_la_pre",
+    "root": "pre-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "before",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "pre"
+      }
+    ],
+    "examples": [
+      {
+        "word": "praecedere",
+        "meaning": "to precede",
+        "sentence": "Auxiliāriī praecedunt."
+      },
+      {
+        "word": "praemittere",
+        "meaning": "to send before",
+        "sentence": "Explorātōrēs praemittit."
+      }
+    ],
+    "relatedRootIds": ["root_la_ante"]
+  },
+  {
+    "id": "root_la_re",
+    "root": "re-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "back, again",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "re"
+      }
+    ],
+    "examples": [
+      {
+        "word": "redīre",
+        "meaning": "to return",
+        "sentence": "Ad patriam redīre cupit."
+      },
+      {
+        "word": "repetere",
+        "meaning": "to seek again",
+        "sentence": "Armā repetere vult."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_sub",
+    "root": "sub-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "under",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "sub"
+      }
+    ],
+    "examples": [
+      {
+        "word": "subīre",
+        "meaning": "to go under",
+        "sentence": "Mūrī subīre timent."
+      },
+      {
+        "word": "subscrībere",
+        "meaning": "to write under",
+        "sentence": "Subscrībit nomen suum."
+      }
+    ],
+    "relatedRootIds": []
+  }
+]

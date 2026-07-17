@@ -1,0 +1,288 @@
+[
+  {
+    "id": "root_el_ic",
+    "root": "-ικός",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "relating to",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "i.kos"
+      }
+    ],
+    "examples": [
+      {
+        "word": "πολιτικός",
+        "meaning": "political",
+        "sentence": "Ο πολιτικός λόγος είναι σκληρός."
+      },
+      {
+        "word": "μουσικός",
+        "meaning": "musical",
+        "sentence": "Το μουσικό σχολείο είναι κοντά."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_is",
+    "root": "-ισμός",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "doctrine, system",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "iz.mos"
+      }
+    ],
+    "examples": [
+      {
+        "word": "τουρισμός",
+        "meaning": "tourism",
+        "sentence": "Ο τουρισμός αυξάνεται."
+      },
+      {
+        "word": "ηρωισμός",
+        "meaning": "heroism",
+        "sentence": "Ο ηρωισμός του θαυμάστηκε."
+      }
+    ],
+    "relatedRootIds": ["root_el_ist"]
+  },
+  {
+    "id": "root_el_ist",
+    "root": "-ιστής",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "one who practices",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "is.tis"
+      }
+    ],
+    "examples": [
+      {
+        "word": "καλλιτέχνης",
+        "meaning": "artist",
+        "sentence": "Ο καλλιτέχνης ζωγραφίζει."
+      },
+      {
+        "word": "πιάνιστας",
+        "meaning": "pianist",
+        "sentence": "Η πιανίστα παίζει όμορφα."
+      }
+    ],
+    "relatedRootIds": ["root_el_is"]
+  },
+  {
+    "id": "root_el_itis",
+    "root": "-ίτιδα",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "inflammation",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "i.ti.ða"
+      }
+    ],
+    "examples": [
+      {
+        "word": "αρθρίτιδα",
+        "meaning": "arthritis",
+        "sentence": "Η αρθρίτιδα πονάει."
+      },
+      {
+        "word": "βρογχίτιδα",
+        "meaning": "bronchitis",
+        "sentence": "Η βρογχίτιδα είναι κοινή."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_logia",
+    "root": "-λογία",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "study of",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "lo.ʝi.a"
+      }
+    ],
+    "examples": [
+      {
+        "word": "βιολογία",
+        "meaning": "biology",
+        "sentence": "Η βιολογία είναι ενδιαφέρουσα."
+      },
+      {
+        "word": "ψυχολογία",
+        "meaning": "psychology",
+        "sentence": "Η ψυχολογία μελετά τον νου."
+      }
+    ],
+    "relatedRootIds": ["root_el_log"]
+  },
+  {
+    "id": "root_el_metro",
+    "root": "-μέτρη",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "measure",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "me.tri"
+      }
+    ],
+    "examples": [
+      {
+        "word": "θερμόμετρο",
+        "meaning": "thermometer",
+        "sentence": "Το θερμόμετρο δείχνει 38."
+      },
+      {
+        "word": "βαρόμετρο",
+        "meaning": "barometer",
+        "sentence": "Το βαρόμετρο πέφτει."
+      }
+    ],
+    "relatedRootIds": ["root_el_met"]
+  },
+  {
+    "id": "root_el_nym",
+    "root": "-νυμο",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "name",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ni.mo"
+      }
+    ],
+    "examples": [
+      {
+        "word": "συνώνυμο",
+        "meaning": "synonym",
+        "sentence": "Το συνώνυμο είναι παρόμοιο."
+      },
+      {
+        "word": "αντώνυμο",
+        "meaning": "antonym",
+        "sentence": "Το αντώνυμο είναι το αντίθετο."
+      }
+    ],
+    "relatedRootIds": ["root_el_onym"]
+  },
+  {
+    "id": "root_el_osis",
+    "root": "-ωση",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "condition, process",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "o.si"
+      }
+    ],
+    "examples": [
+      {
+        "word": "διάγνωση",
+        "meaning": "diagnosis",
+        "sentence": "Η διάγνωση είναι σημαντική."
+      },
+      {
+        "word": "σύνθεση",
+        "meaning": "synthesis",
+        "sentence": "Η σύνθεση είναι δύσκολη."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_phob",
+    "root": "-φοβία",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "fear of",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "fo.vi.a"
+      }
+    ],
+    "examples": [
+      {
+        "word": "υψοφοβία",
+        "meaning": "fear of heights",
+        "sentence": "Η υψοφοβία είναι συνηθισμένη."
+      },
+      {
+        "word": "αραχνοφοβία",
+        "meaning": "fear of spiders",
+        "sentence": "Η αραχνοφοβία είναι έντονη."
+      }
+    ],
+    "relatedRootIds": ["root_el_phobe"]
+  },
+  {
+    "id": "root_el_phone",
+    "root": "-φωνία",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "sound, voice",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "fo.ni.a"
+      }
+    ],
+    "examples": [
+      {
+        "word": "τηλέφωνο",
+        "meaning": "telephone",
+        "sentence": "Το τηλέφωνο χτυπάει."
+      },
+      {
+        "word": "συμφωνία",
+        "meaning": "symphony",
+        "sentence": "Η συμφωνία είναι όμορφη."
+      }
+    ],
+    "relatedRootIds": ["root_el_phon"]
+  },
+  {
+    "id": "root_el_scope",
+    "root": "-σκόπιο",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "instrument for viewing",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "sko.pjo"
+      }
+    ],
+    "examples": [
+      {
+        "word": "τηλεσκόπιο",
+        "meaning": "telescope",
+        "sentence": "Το τηλεσκόπιο είναι στον λόφο."
+      },
+      {
+        "word": "μικροσκόπιο",
+        "meaning": "microscope",
+        "sentence": "Το μικροσκόπιο μεγεθύνει."
+      }
+    ],
+    "relatedRootIds": ["root_el_scop"]
+  }
+]

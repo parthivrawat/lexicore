@@ -1,0 +1,418 @@
+[
+  {
+    "id": "root_es_a",
+    "root": "a-",
+    "type": "prefix",
+    "languageOrigin": "Spanish",
+    "meaning": "to, toward",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "a"
+      }
+    ],
+    "examples": [
+      {
+        "word": "acercar",
+        "meaning": "to bring near",
+        "sentence": "Voy a acercar la mesa."
+      },
+      {
+        "word": "añadir",
+        "meaning": "to add",
+        "sentence": "Añade un poco de sal."
+      }
+    ],
+    "relatedRootIds": ["root_es_ad"]
+  },
+  {
+    "id": "root_es_ad",
+    "root": "ad-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "to, toward",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "að"
+      }
+    ],
+    "examples": [
+      {
+        "word": "admirar",
+        "meaning": "to admire",
+        "sentence": "La gente la admira mucho."
+      },
+      {
+        "word": "adoptar",
+        "meaning": "to adopt",
+        "sentence": "Decidieron adoptar un perro."
+      }
+    ],
+    "relatedRootIds": ["root_es_a"]
+  },
+  {
+    "id": "root_es_anti",
+    "root": "anti-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "against, opposite",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈanti"
+      }
+    ],
+    "examples": [
+      {
+        "word": "antipático",
+        "meaning": "unpleasant",
+        "sentence": "El vecino es antipático."
+      },
+      {
+        "word": "antiguo",
+        "meaning": "ancient",
+        "sentence": "Visitamos un templo antiguo."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_auto",
+    "root": "auto-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "self",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈawto"
+      }
+    ],
+    "examples": [
+      {
+        "word": "automóvil",
+        "meaning": "automobile",
+        "sentence": "Mi automóvil es rojo."
+      },
+      {
+        "word": "autorretrato",
+        "meaning": "self-portrait",
+        "sentence": "Pintó un autorretrato."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_bene",
+    "root": "bene-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "good, well",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈbene"
+      }
+    ],
+    "examples": [
+      {
+        "word": "benedecir",
+        "meaning": "to bless",
+        "sentence": "Fue a bendecir la casa."
+      },
+      {
+        "word": "beneficio",
+        "meaning": "benefit",
+        "sentence": "El trabajo tiene buenos beneficios."
+      }
+    ],
+    "relatedRootIds": ["root_es_bon"]
+  },
+  {
+    "id": "root_es_bon",
+    "root": "bon-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "good",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "bon"
+      }
+    ],
+    "examples": [
+      {
+        "word": "bondad",
+        "meaning": "goodness",
+        "sentence": "Tu bondad me sorprende."
+      },
+      {
+        "word": "bonito",
+        "meaning": "pretty",
+        "sentence": "Es un pueblo bonito."
+      }
+    ],
+    "relatedRootIds": ["root_es_bene"]
+  },
+  {
+    "id": "root_es_con",
+    "root": "con-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "with, together",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "kon"
+      }
+    ],
+    "examples": [
+      {
+        "word": "conocer",
+        "meaning": "to know",
+        "sentence": "Quiero conocer la ciudad."
+      },
+      {
+        "word": "construir",
+        "meaning": "to build",
+        "sentence": "Van a construir un puente."
+      }
+    ],
+    "relatedRootIds": ["root_es_com"]
+  },
+  {
+    "id": "root_es_com",
+    "root": "com-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "with, together",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "kom"
+      }
+    ],
+    "examples": [
+      {
+        "word": "comprar",
+        "meaning": "to buy",
+        "sentence": "Voy a comprar pan."
+      },
+      {
+        "word": "compartir",
+        "meaning": "to share",
+        "sentence": "Me gusta compartir con amigos."
+      }
+    ],
+    "relatedRootIds": ["root_es_con"]
+  },
+  {
+    "id": "root_es_des",
+    "root": "des-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "undo, remove, apart",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "des"
+      }
+    ],
+    "examples": [
+      {
+        "word": "desamor",
+        "meaning": "lack of love",
+        "sentence": "El desamor es difícil."
+      },
+      {
+        "word": "deshacer",
+        "meaning": "to undo",
+        "sentence": "Necesito deshacer el nudo."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_en",
+    "root": "en-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "in, into",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "en"
+      }
+    ],
+    "examples": [
+      {
+        "word": "encerrar",
+        "meaning": "to enclose",
+        "sentence": "No encierres al gato."
+      },
+      {
+        "word": "encontrar",
+        "meaning": "to find",
+        "sentence": "Espero encontrar las llaves."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_ex",
+    "root": "ex-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "out, former",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "eks"
+      }
+    ],
+    "examples": [
+      {
+        "word": "expulsar",
+        "meaning": "to expel",
+        "sentence": "Decidieron expulsar al alumno."
+      },
+      {
+        "word": "explicar",
+        "meaning": "to explain",
+        "sentence": "Me puede explicar por qué."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_extra",
+    "root": "extra-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "outside, beyond",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈekstɾa"
+      }
+    ],
+    "examples": [
+      {
+        "word": "extraordinario",
+        "meaning": "extraordinary",
+        "sentence": "Fue un día extraordinario."
+      },
+      {
+        "word": "extranjero",
+        "meaning": "foreigner",
+        "sentence": "Es un extranjero amable."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_inter",
+    "root": "inter-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "between, among",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "inˈteɾ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "internacional",
+        "meaning": "international",
+        "sentence": "Es una empresa internacional."
+      },
+      {
+        "word": "intermedio",
+        "meaning": "intermediate",
+        "sentence": "Es de nivel intermedio."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_pre",
+    "root": "pre-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "before",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "pɾe"
+      }
+    ],
+    "examples": [
+      {
+        "word": "prever",
+        "meaning": "to foresee",
+        "sentence": "No pude prever el problema."
+      },
+      {
+        "word": "preparar",
+        "meaning": "to prepare",
+        "sentence": "Voy a preparar la cena."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_re",
+    "root": "re-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "again, back",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ɾe"
+      }
+    ],
+    "examples": [
+      {
+        "word": "rehacer",
+        "meaning": "to redo",
+        "sentence": "Tengo que rehacer el trabajo."
+      },
+      {
+        "word": "renacer",
+        "meaning": "to be reborn",
+        "sentence": "La ciudad renació con el festival."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_sub",
+    "root": "sub-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "under",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "sub"
+      }
+    ],
+    "examples": [
+      {
+        "word": "submarino",
+        "meaning": "submarine",
+        "sentence": "Vimos un submarino en el museo."
+      },
+      {
+        "word": "subrayar",
+        "meaning": "to underline",
+        "sentence": "Subraya las palabras clave."
+      }
+    ],
+    "relatedRootIds": []
+  }
+]

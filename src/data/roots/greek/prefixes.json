@@ -1,0 +1,418 @@
+[
+  {
+    "id": "root_el_a",
+    "root": "a-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "not, without",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "a"
+      }
+    ],
+    "examples": [
+      {
+        "word": "άναλφος",
+        "meaning": "without letters",
+        "sentence": "Ο παππούς ήταν άναλφος."
+      },
+      {
+        "word": "άτομο",
+        "meaning": "atom (indivisible)",
+        "sentence": "Το άτομο είναι μικρό."
+      }
+    ],
+    "relatedRootIds": ["root_el_an"]
+  },
+  {
+    "id": "root_el_an",
+    "root": "an-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "not, without",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "an"
+      }
+    ],
+    "examples": [
+      {
+        "word": "ανορθόδοξος",
+        "meaning": "unorthodox",
+        "sentence": "Η άποψή του είναι ανορθόδοξη."
+      },
+      {
+        "word": "ανεξάρτητος",
+        "meaning": "independent",
+        "sentence": "Η Ελλάδα έγινε ανεξάρτητη."
+      }
+    ],
+    "relatedRootIds": ["root_el_a"]
+  },
+  {
+    "id": "root_el_anti",
+    "root": "anti-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "against, opposite",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "a.ði"
+      }
+    ],
+    "examples": [
+      {
+        "word": "αντίθετος",
+        "meaning": "opposite",
+        "sentence": "Έχουμε αντίθετες απόψεις."
+      },
+      {
+        "word": "αντίβιοτο",
+        "meaning": "antibiotic",
+        "sentence": "Το αντιβιοτικό τον γιατρεύει."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_auto",
+    "root": "auto-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "self",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "af.to"
+      }
+    ],
+    "examples": [
+      {
+        "word": "αυτοκίνητο",
+        "meaning": "automobile",
+        "sentence": "Το αυτοκίνητο είναι κόκκινο."
+      },
+      {
+        "word": "αυτοβιογραφία",
+        "meaning": "autobiography",
+        "sentence": "Η αυτοβιογραφία του είναι διάσημη."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_dia",
+    "root": "dia-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "through, across",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ði.a"
+      }
+    ],
+    "examples": [
+      {
+        "word": "διάλογος",
+        "meaning": "dialogue",
+        "sentence": "Ο διάλογος είναι χρήσιμος."
+      },
+      {
+        "word": "διαμάντι",
+        "meaning": "diamond",
+        "sentence": "Το διαμάντι λάμπει."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_dys",
+    "root": "dys-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "bad, difficult",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ðis"
+      }
+    ],
+    "examples": [
+      {
+        "word": "δυσλειτουργία",
+        "meaning": "dysfunction",
+        "sentence": "Υπάρχει δυσλειτουργία στο σύστημα."
+      },
+      {
+        "word": "δυσκολία",
+        "meaning": "difficulty",
+        "sentence": "Η δυσκολία είναι μεγάλη."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_epi",
+    "root": "epi-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "upon, over",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "e.pi"
+      }
+    ],
+    "examples": [
+      {
+        "word": "επιφάνεια",
+        "meaning": "surface",
+        "sentence": "Η επιφάνεια είναι λεία."
+      },
+      {
+        "word": "επίδειξη",
+        "meaning": "demonstration",
+        "sentence": "Η επίδειξη είναι αύριο."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_eu",
+    "root": "eu-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "good, well",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ef"
+      }
+    ],
+    "examples": [
+      {
+        "word": "ευχάριστος",
+        "meaning": "pleasant",
+        "sentence": "Η είδηση είναι ευχάριστη."
+      },
+      {
+        "word": "ευγενικός",
+        "meaning": "kind",
+        "sentence": "Είναι πολύ ευγενικός."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_hemi",
+    "root": "hemi-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "half",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "e.mi"
+      }
+    ],
+    "examples": [
+      {
+        "word": "ημισφαίριο",
+        "meaning": "hemisphere",
+        "sentence": "Η Ελλάδα είναι στο βόρειο ημισφαίριο."
+      },
+      {
+        "word": "ημίχρονο",
+        "meaning": "half-time",
+        "sentence": "Το ημίχρονο τελείωσε."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_hyper",
+    "root": "hyper-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "over, excessive",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "i.peɾ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "υπερβολή",
+        "meaning": "exaggeration",
+        "sentence": "Αυτό είναι υπερβολή."
+      },
+      {
+        "word": "υπερήρωας",
+        "meaning": "superhero",
+        "sentence": "Ο υπερήρωας σώζει την πόλη."
+      }
+    ],
+    "relatedRootIds": ["root_el_hypo"]
+  },
+  {
+    "id": "root_el_hypo",
+    "root": "hypo-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "under, below",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "i.po"
+      }
+    ],
+    "examples": [
+      {
+        "word": "υπόθεση",
+        "meaning": "hypothesis",
+        "sentence": "Η υπόθεση του είναι ενδιαφέρουσα."
+      },
+      {
+        "word": "υπογλυκαιμία",
+        "meaning": "hypoglycemia",
+        "sentence": "Η υπογλυκαιμία είναι επικίνδυνη."
+      }
+    ],
+    "relatedRootIds": ["root_el_hyper"]
+  },
+  {
+    "id": "root_el_meta",
+    "root": "meta-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "after, beyond, change",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "me.ta"
+      }
+    ],
+    "examples": [
+      {
+        "word": "μεταφορά",
+        "meaning": "transport",
+        "sentence": "Η μεταφορά είναι δωρεάν."
+      },
+      {
+        "word": "μεταλλαγή",
+        "meaning": "mutation",
+        "sentence": "Η μεταλλαγή είναι σπάνια."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_mono",
+    "root": "mono-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "one, single",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "mo.no"
+      }
+    ],
+    "examples": [
+      {
+        "word": "μονόλογος",
+        "meaning": "monologue",
+        "sentence": "Ο ηθοποιός είπε ένα μονόλογο."
+      },
+      {
+        "word": "μονοπάτι",
+        "meaning": "path",
+        "sentence": "Το μονοπάτι είναι στενό."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_pan",
+    "root": "pan-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "all",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "pan"
+      }
+    ],
+    "examples": [
+      {
+        "word": "παντού",
+        "meaning": "everywhere",
+        "sentence": "Η χαρά είναι παντού."
+      },
+      {
+        "word": "πανδημία",
+        "meaning": "pandemic",
+        "sentence": "Η πανδημία άλλαξε τον κόσμο."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_poli",
+    "root": "poly-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "many",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "po.li"
+      }
+    ],
+    "examples": [
+      {
+        "word": "πολυμορφία",
+        "meaning": "polymorphism",
+        "sentence": "Η πολυμορφία είναι συνηθισμένη."
+      },
+      {
+        "word": "πολύτεχνο",
+        "meaning": "polytechnic",
+        "sentence": "Το πολύτεχνο είναι μεγάλο."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_syn",
+    "root": "syn-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "with, together",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "sin"
+      }
+    ],
+    "examples": [
+      {
+        "word": "συνεργασία",
+        "meaning": "cooperation",
+        "sentence": "Η συνεργασία είναι σημαντική."
+      },
+      {
+        "word": "συναυλία",
+        "meaning": "concert",
+        "sentence": "Η συναυλία είναι απόψε."
+      }
+    ],
+    "relatedRootIds": []
+  }
+]

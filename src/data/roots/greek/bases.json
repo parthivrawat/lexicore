@@ -1,0 +1,470 @@
+[
+  {
+    "id": "root_el_anthrop",
+    "root": "anthrop-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "human",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "an.θrop"
+      }
+    ],
+    "examples": [
+      {
+        "word": "άνθρωπος",
+        "meaning": "human",
+        "sentence": "Ο άνθρωπος είναι σοφός."
+      },
+      {
+        "word": "ανθρωπολογία",
+        "meaning": "anthropology",
+        "sentence": "Η ανθρωπολογία μελετά τον άνθρωπο."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_bio",
+    "root": "bio-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "life",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "vi.o"
+      }
+    ],
+    "examples": [
+      {
+        "word": "βίος",
+        "meaning": "life",
+        "sentence": "Ο βίος είναι σύντομος."
+      },
+      {
+        "word": "βιολογία",
+        "meaning": "biology",
+        "sentence": "Η βιολογία είναι επιστήμη."
+      }
+    ],
+    "relatedRootIds": ["root_el_zo"]
+  },
+  {
+    "id": "root_el_chron",
+    "root": "chron-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "time",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "xron"
+      }
+    ],
+    "examples": [
+      {
+        "word": "χρόνος",
+        "meaning": "time",
+        "sentence": "Ο χρόνος περνάει γρήγορα."
+      },
+      {
+        "word": "χρονολόγιο",
+        "meaning": "chronology",
+        "sentence": "Το χρονολόγιο είναι ακριβές."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_cosm",
+    "root": "cosm-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "world, order",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "kosm"
+      }
+    ],
+    "examples": [
+      {
+        "word": "κόσμος",
+        "meaning": "world",
+        "sentence": "Ο κόσμος είναι μεγάλος."
+      },
+      {
+        "word": "κοσμοπολιτισμός",
+        "meaning": "cosmopolitanism",
+        "sentence": "Ο κοσμοπολιτισμός είναι ιδέα."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_geo",
+    "root": "geo-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "earth",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ʝe.o"
+      }
+    ],
+    "examples": [
+      {
+        "word": "γη",
+        "meaning": "earth",
+        "sentence": "Η γη είναι στρογγυλή."
+      },
+      {
+        "word": "γεωγραφία",
+        "meaning": "geography",
+        "sentence": "Η γεωγραφία είναι χρήσιμη."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_graph",
+    "root": "graph-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "write",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ɣraf"
+      }
+    ],
+    "examples": [
+      {
+        "word": "γράφω",
+        "meaning": "I write",
+        "sentence": "Γράφω ένα γράμμα."
+      },
+      {
+        "word": "γραφείο",
+        "meaning": "office",
+        "sentence": "Το γραφείο είναι μεγάλο."
+      }
+    ],
+    "relatedRootIds": ["root_el_gram"]
+  },
+  {
+    "id": "root_el_gram",
+    "root": "gram-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "letter, writing",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ɣram"
+      }
+    ],
+    "examples": [
+      {
+        "word": "γράμμα",
+        "meaning": "letter",
+        "sentence": "Το γράμμα ήρθε χθες."
+      },
+      {
+        "word": "γραμματόσημο",
+        "meaning": "stamp",
+        "sentence": "Κόλλησε το γραμματόσημο."
+      }
+    ],
+    "relatedRootIds": ["root_el_graph"]
+  },
+  {
+    "id": "root_el_hydr",
+    "root": "hydr-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "i.ðr"
+      }
+    ],
+    "examples": [
+      {
+        "word": "νερό",
+        "meaning": "water",
+        "sentence": "Το νερό είναι κρύο."
+      },
+      {
+        "word": "υδρογονάνθρακας",
+        "meaning": "hydrocarbon",
+        "sentence": "Ο υδρογονάνθρακας είναι χημικός."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_log",
+    "root": "log-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "word, reason",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "loɣ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "λόγος",
+        "meaning": "word, speech",
+        "sentence": "Ο λόγος του είναι πειστικός."
+      },
+      {
+        "word": "λογική",
+        "meaning": "logic",
+        "sentence": "Η λογική είναι σημαντική."
+      }
+    ],
+    "relatedRootIds": ["root_el_logia"]
+  },
+  {
+    "id": "root_el_met",
+    "root": "met-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "measure",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "met"
+      }
+    ],
+    "examples": [
+      {
+        "word": "μέτρο",
+        "meaning": "measure",
+        "sentence": "Το μέτρο είναι ακριβές."
+      },
+      {
+        "word": "γεωμετρία",
+        "meaning": "geometry",
+        "sentence": "Η γεωμετρία είναι τέχνη."
+      }
+    ],
+    "relatedRootIds": ["root_el_metro"]
+  },
+  {
+    "id": "root_el_onym",
+    "root": "onym-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "name",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "o.nim"
+      }
+    ],
+    "examples": [
+      {
+        "word": "όνομα",
+        "meaning": "name",
+        "sentence": "Το όνομά μου είναι Μαρία."
+      },
+      {
+        "word": "ανώνυμο",
+        "meaning": "anonymous",
+        "sentence": "Το γράμμα ήταν ανώνυμο."
+      }
+    ],
+    "relatedRootIds": ["root_el_nym"]
+  },
+  {
+    "id": "root_el_phil",
+    "root": "phil-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "love",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "fil"
+      }
+    ],
+    "examples": [
+      {
+        "word": "φιλία",
+        "meaning": "friendship",
+        "sentence": "Η φιλία είναι πολύτιμη."
+      },
+      {
+        "word": "φιλοσοφία",
+        "meaning": "philosophy",
+        "sentence": "Η φιλοσοφία είναι παλιά."
+      }
+    ],
+    "relatedRootIds": ["root_el_phobe"]
+  },
+  {
+    "id": "root_el_phobe",
+    "root": "phob-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "fear",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "fo.v"
+      }
+    ],
+    "examples": [
+      {
+        "word": "φόβος",
+        "meaning": "fear",
+        "sentence": "Ο φόβος τον κυριεύει."
+      },
+      {
+        "word": "φοβία",
+        "meaning": "phobia",
+        "sentence": "Η φοβία είναι ψυχολογική."
+      }
+    ],
+    "relatedRootIds": ["root_el_phil"]
+  },
+  {
+    "id": "root_el_phon",
+    "root": "phon-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "sound",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "fon"
+      }
+    ],
+    "examples": [
+      {
+        "word": "φωνή",
+        "meaning": "voice",
+        "sentence": "Η φωνή της είναι γλυκιά."
+      },
+      {
+        "word": "τηλέφωνο",
+        "meaning": "telephone",
+        "sentence": "Το τηλέφωνο χτυπά."
+      }
+    ],
+    "relatedRootIds": ["root_el_phone"]
+  },
+  {
+    "id": "root_el_phot",
+    "root": "phot-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "light",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "fot"
+      }
+    ],
+    "examples": [
+      {
+        "word": "φως",
+        "meaning": "light",
+        "sentence": "Το φως είναι λαμπερό."
+      },
+      {
+        "word": "φωτογραφία",
+        "meaning": "photography",
+        "sentence": "Η φωτογραφία είναι τέχνη."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_scop",
+    "root": "scop-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "see, view",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "sko.p"
+      }
+    ],
+    "examples": [
+      {
+        "word": "σκοπεύω",
+        "meaning": "I aim",
+        "sentence": "Σκοπεύω στον στόχο."
+      },
+      {
+        "word": "σκοπιά",
+        "meaning": "watch",
+        "sentence": "Η σκοπιά είναι ψηλά."
+      }
+    ],
+    "relatedRootIds": ["root_el_scope"]
+  },
+  {
+    "id": "root_el_therm",
+    "root": "therm-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "heat",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "θerm"
+      }
+    ],
+    "examples": [
+      {
+        "word": "θερμότητα",
+        "meaning": "heat",
+        "sentence": "Η θερμότητα είναι έντονη."
+      },
+      {
+        "word": "θερμόμετρο",
+        "meaning": "thermometer",
+        "sentence": "Το θερμόμετρο είναι ακριβές."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_zo",
+    "root": "zo-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "animal, life",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "zo"
+      }
+    ],
+    "examples": [
+      {
+        "word": "ζώο",
+        "meaning": "animal",
+        "sentence": "Το ζώο είναι ήμερο."
+      },
+      {
+        "word": "ζωολογία",
+        "meaning": "zoology",
+        "sentence": "Η ζωολογία μελετά τα ζώα."
+      }
+    ],
+    "relatedRootIds": ["root_el_bio"]
+  }
+]

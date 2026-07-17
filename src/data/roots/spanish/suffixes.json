@@ -1,0 +1,366 @@
+[
+  {
+    "id": "root_es_able",
+    "root": "-able",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "able to be",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈaβle"
+      }
+    ],
+    "examples": [
+      {
+        "word": "amable",
+        "meaning": "kind",
+        "sentence": "Ella es muy amable."
+      },
+      {
+        "word": "aceptable",
+        "meaning": "acceptable",
+        "sentence": "El resultado es aceptable."
+      }
+    ],
+    "relatedRootIds": ["root_es_ible"]
+  },
+  {
+    "id": "root_es_ible",
+    "root": "-ible",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "able to be",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈiβle"
+      }
+    ],
+    "examples": [
+      {
+        "word": "visible",
+        "meaning": "visible",
+        "sentence": "El edificio es visible desde lejos."
+      },
+      {
+        "word": "comprensible",
+        "meaning": "understandable",
+        "sentence": "Tu miedo es comprensible."
+      }
+    ],
+    "relatedRootIds": ["root_es_able"]
+  },
+  {
+    "id": "root_es_ador",
+    "root": "-ador",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "doer, one who does",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "aˈðoɾ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "cantador",
+        "meaning": "singer",
+        "sentence": "El cantador entonó una canción."
+      },
+      {
+        "word": "luchador",
+        "meaning": "fighter",
+        "sentence": "Es un luchador valiente."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_aje",
+    "root": "-aje",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "collective, result",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈaxe"
+      }
+    ],
+    "examples": [
+      {
+        "word": "homenaje",
+        "meaning": "tribute",
+        "sentence": "Rindieron homenaje al artista."
+      },
+      {
+        "word": "vaje",
+        "meaning": "voyage",
+        "sentence": "El vaje fue largo."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_anzo",
+    "root": "-azo",
+    "type": "suffix",
+    "languageOrigin": "Spanish",
+    "meaning": "blow, large",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈaθo"
+      }
+    ],
+    "examples": [
+      {
+        "word": "martillazo",
+        "meaning": "hammer blow",
+        "sentence": "Dio un martillazo en la mesa."
+      },
+      {
+        "word": "portazo",
+        "meaning": "slam of a door",
+        "sentence": "Cerró la puerta de un portazo."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_cion",
+    "root": "-ción",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "action, state, result",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈsjon"
+      }
+    ],
+    "examples": [
+      {
+        "word": "nación",
+        "meaning": "nation",
+        "sentence": "Es una nación orgullosa."
+      },
+      {
+        "word": "acción",
+        "meaning": "action",
+        "sentence": "La acción fue rápida."
+      }
+    ],
+    "relatedRootIds": ["root_es_sion"]
+  },
+  {
+    "id": "root_es_sion",
+    "root": "-sión",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "action, state, result",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈsjon"
+      }
+    ],
+    "examples": [
+      {
+        "word": "expresión",
+        "meaning": "expression",
+        "sentence": "Su expresión fue sincera."
+      },
+      {
+        "word": "conclusión",
+        "meaning": "conclusion",
+        "sentence": "Llegamos a una conclusión."
+      }
+    ],
+    "relatedRootIds": ["root_es_cion"]
+  },
+  {
+    "id": "root_es_dad",
+    "root": "-dad",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "quality, state",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈðað"
+      }
+    ],
+    "examples": [
+      {
+        "word": "igualdad",
+        "meaning": "equality",
+        "sentence": "La igualdad es importante."
+      },
+      {
+        "word": "libertad",
+        "meaning": "freedom",
+        "sentence": "La libertad debe respetarse."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_ero",
+    "root": "-ero",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "profession, place, container",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈeɾo"
+      }
+    ],
+    "examples": [
+      {
+        "word": "panadero",
+        "meaning": "baker",
+        "sentence": "El panadero hace el pan."
+      },
+      {
+        "word": "cajero",
+        "meaning": "cashier",
+        "sentence": "Paga en la cajero."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_ismo",
+    "root": "-ismo",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "doctrine, system",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈizmo"
+      }
+    ],
+    "examples": [
+      {
+        "word": "turismo",
+        "meaning": "tourism",
+        "sentence": "El turismo crece cada año."
+      },
+      {
+        "word": "heroísmo",
+        "meaning": "heroism",
+        "sentence": "Su heroísmo nos inspiró."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_ista",
+    "root": "-ista",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "specialist, follower",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈista"
+      }
+    ],
+    "examples": [
+      {
+        "word": "pianista",
+        "meaning": "pianist",
+        "sentence": "La pianista tocó una sonata."
+      },
+      {
+        "word": "artista",
+        "meaning": "artist",
+        "sentence": "Es un artista famoso."
+      }
+    ],
+    "relatedRootIds": ["root_es_ismo"]
+  },
+  {
+    "id": "root_es_ito",
+    "root": "-ito",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "small, diminutive",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈito"
+      }
+    ],
+    "examples": [
+      {
+        "word": "perrito",
+        "meaning": "little dog",
+        "sentence": "El perrito corre en el parque."
+      },
+      {
+        "word": "casita",
+        "meaning": "little house",
+        "sentence": "Viven en una casita azul."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_mente",
+    "root": "-mente",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "manner, in the way of",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈmente"
+      }
+    ],
+    "examples": [
+      {
+        "word": "rápidamente",
+        "meaning": "quickly",
+        "sentence": "Corrió rápidamente."
+      },
+      {
+        "word": "felizmente",
+        "meaning": "happily",
+        "sentence": "Aceptó felizmente la invitación."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_oso",
+    "root": "-oso",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "full of, tending to",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈoso"
+      }
+    ],
+    "examples": [
+      {
+        "word": "hermoso",
+        "meaning": "beautiful",
+        "sentence": "El paisaje es hermoso."
+      },
+      {
+        "word": "peligroso",
+        "meaning": "dangerous",
+        "sentence": "El camino es peligroso."
+      }
+    ],
+    "relatedRootIds": []
+  }
+]

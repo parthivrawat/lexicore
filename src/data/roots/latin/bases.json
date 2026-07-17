@@ -1,0 +1,470 @@
+[
+  {
+    "id": "root_la_aqua",
+    "root": "aqua-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ak.wa"
+      }
+    ],
+    "examples": [
+      {
+        "word": "aqua",
+        "meaning": "water",
+        "sentence": "Aqua vītae necessāria est."
+      },
+      {
+        "word": "aquae",
+        "meaning": "waters",
+        "sentence": "Aquae fontis clārae sunt."
+      }
+    ],
+    "relatedRootIds": ["root_la_hydr"]
+  },
+  {
+    "id": "root_la_hydr",
+    "root": "hydr-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "hy.dr"
+      }
+    ],
+    "examples": [
+      {
+        "word": "hydria",
+        "meaning": "water jar",
+        "sentence": "Hydria in mēnsā stat."
+      },
+      {
+        "word": "hydrō",
+        "meaning": "to be filled with water",
+        "sentence": "Navis hydrāta est."
+      }
+    ],
+    "relatedRootIds": ["root_la_aqua"]
+  },
+  {
+    "id": "root_la_terra",
+    "root": "terra-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "earth, land",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ter.ra"
+      }
+    ],
+    "examples": [
+      {
+        "word": "terra",
+        "meaning": "earth",
+        "sentence": "Terra mātrēm vocāmus."
+      },
+      {
+        "word": "terrestris",
+        "meaning": "terrestrial",
+        "sentence": "Bellum terrestre est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_port",
+    "root": "port-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "carry",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "port"
+      }
+    ],
+    "examples": [
+      {
+        "word": "portāre",
+        "meaning": "to carry",
+        "sentence": "Servī onera portant."
+      },
+      {
+        "word": "portus",
+        "meaning": "harbor",
+        "sentence": "Navis in portum intrat."
+      }
+    ],
+    "relatedRootIds": ["root_la_fer"]
+  },
+  {
+    "id": "root_la_fer",
+    "root": "fer-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "carry, bear",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "fer"
+      }
+    ],
+    "examples": [
+      {
+        "word": "ferre",
+        "meaning": "to carry",
+        "sentence": "Auxilium mihi fer."
+      },
+      {
+        "word": "transferre",
+        "meaning": "to carry across",
+        "sentence": "Pecuniam transferre vult."
+      }
+    ],
+    "relatedRootIds": ["root_la_port"]
+  },
+  {
+    "id": "root_la_spect",
+    "root": "spect-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "look",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "spekt"
+      }
+    ],
+    "examples": [
+      {
+        "word": "spectāre",
+        "meaning": "to look at",
+        "sentence": "Omnes spectāre solent."
+      },
+      {
+        "word": "spectāculum",
+        "meaning": "spectacle",
+        "sentence": "Spectāculum populum dēlectat."
+      }
+    ],
+    "relatedRootIds": ["root_la_vid"]
+  },
+  {
+    "id": "root_la_vid",
+    "root": "vid-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "see",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "wid"
+      }
+    ],
+    "examples": [
+      {
+        "word": "vidēre",
+        "meaning": "to see",
+        "sentence": "Eum in forō videō."
+      },
+      {
+        "word": "invidēre",
+        "meaning": "to envy",
+        "sentence": "Invidet virō clārō."
+      }
+    ],
+    "relatedRootIds": ["root_la_spect"]
+  },
+  {
+    "id": "root_la_struct",
+    "root": "struct-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "build",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "strukt"
+      }
+    ],
+    "examples": [
+      {
+        "word": "struere",
+        "meaning": "to build",
+        "sentence": "Mūrōs struere incipiunt."
+      },
+      {
+        "word": "dēstruere",
+        "meaning": "to destroy",
+        "sentence": "Hostēs mūrōs dēstruunt."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_dict",
+    "root": "dict-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "say",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "dikt"
+      }
+    ],
+    "examples": [
+      {
+        "word": "dīcere",
+        "meaning": "to say",
+        "sentence": "Magister verba dīcit."
+      },
+      {
+        "word": "dictum",
+        "meaning": "saying",
+        "sentence": "Dictum eius notum est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_duc",
+    "root": "duc-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "lead",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "duk"
+      }
+    ],
+    "examples": [
+      {
+        "word": "dūcere",
+        "meaning": "to lead",
+        "sentence": "Rēx exercitum dūcit."
+      },
+      {
+        "word": "indūcere",
+        "meaning": "to lead into",
+        "sentence": "Hostēs in insidiās indūcunt."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_jact",
+    "root": "jact-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "throw",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "jakt"
+      }
+    ],
+    "examples": [
+      {
+        "word": "jacere",
+        "meaning": "to throw",
+        "sentence": "Puer lapidem jacet."
+      },
+      {
+        "word": "abjicere",
+        "meaning": "to throw away",
+        "sentence": "Scutum abjicit."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_mit",
+    "root": "mit-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "send",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "mit"
+      }
+    ],
+    "examples": [
+      {
+        "word": "mittere",
+        "meaning": "to send",
+        "sentence": "Litterās ad eum mittit."
+      },
+      {
+        "word": "demittere",
+        "meaning": "to send down",
+        "sentence": "Miles dē murō sē demittit."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_scrib",
+    "root": "scrib-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "write",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "skrib"
+      }
+    ],
+    "examples": [
+      {
+        "word": "scrībere",
+        "meaning": "to write",
+        "sentence": "Poēta carmen scrībit."
+      },
+      {
+        "word": "prōscrībere",
+        "meaning": "to proscribe",
+        "sentence": "Nōmen in tabulā prōscrībit."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_tract",
+    "root": "tract-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "draw, pull",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "trakt"
+      }
+    ],
+    "examples": [
+      {
+        "word": "trahere",
+        "meaning": "to draw",
+        "sentence": "Bōs plaustrum trahit."
+      },
+      {
+        "word": "contractus",
+        "meaning": "contract",
+        "sentence": "Contractus inter civēs fit."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_ven",
+    "root": "ven-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "come",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "wen"
+      }
+    ],
+    "examples": [
+      {
+        "word": "venīre",
+        "meaning": "to come",
+        "sentence": "Amīcī ad cēnam veniunt."
+      },
+      {
+        "word": "advenīre",
+        "meaning": "to arrive",
+        "sentence": "Rēx crās advenit."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_vert",
+    "root": "vert-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "turn",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "wert"
+      }
+    ],
+    "examples": [
+      {
+        "word": "vertere",
+        "meaning": "to turn",
+        "sentence": "Ventus vela vertit."
+      },
+      {
+        "word": "adversus",
+        "meaning": "against",
+        "sentence": "Hostēs adversī stant."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_voc",
+    "root": "voc-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "call",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "wok"
+      }
+    ],
+    "examples": [
+      {
+        "word": "vocāre",
+        "meaning": "to call",
+        "sentence": "Māter fīlium vocat."
+      },
+      {
+        "word": "vocābulum",
+        "meaning": "word",
+        "sentence": "Quod vocābulum est?"
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_duo",
+    "root": "duo-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "two",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "du.o"
+      }
+    ],
+    "examples": [
+      {
+        "word": "duo",
+        "meaning": "two",
+        "sentence": "Duō sunt libri."
+      },
+      {
+        "word": "duārius",
+        "meaning": "double",
+        "sentence": "Pondus duārius est."
+      }
+    ],
+    "relatedRootIds": ["root_la_bi"]
+  }
+]

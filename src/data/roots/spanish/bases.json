@@ -1,0 +1,366 @@
+[
+  {
+    "id": "root_es_am",
+    "root": "am-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "love",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "am"
+      }
+    ],
+    "examples": [
+      {
+        "word": "amor",
+        "meaning": "love",
+        "sentence": "El amor es fuerte."
+      },
+      {
+        "word": "amigo",
+        "meaning": "friend",
+        "sentence": "Mi amigo es leal."
+      }
+    ],
+    "relatedRootIds": ["root_es_amor"]
+  },
+  {
+    "id": "root_es_amor",
+    "root": "amor",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "love",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "aˈmoɾ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "amoroso",
+        "meaning": "loving",
+        "sentence": "Es un padre amoroso."
+      },
+      {
+        "word": "enamorar",
+        "meaning": "to make fall in love",
+        "sentence": "La canción me enamoró."
+      }
+    ],
+    "relatedRootIds": ["root_es_am"]
+  },
+  {
+    "id": "root_es_aqua",
+    "root": "aqua-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈakwa"
+      }
+    ],
+    "examples": [
+      {
+        "word": "agua",
+        "meaning": "water",
+        "sentence": "Necesito beber agua."
+      },
+      {
+        "word": "aguacero",
+        "meaning": "downpour",
+        "sentence": "El aguacero duró una hora."
+      }
+    ],
+    "relatedRootIds": ["root_es_hidr"]
+  },
+  {
+    "id": "root_es_cas",
+    "root": "cas-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "house",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "kas"
+      }
+    ],
+    "examples": [
+      {
+        "word": "casa",
+        "meaning": "house",
+        "sentence": "La casa es grande."
+      },
+      {
+        "word": "casero",
+        "meaning": "homemade",
+        "sentence": "Me gusta el pan casero."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_foc",
+    "root": "foc-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "fire",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "fok"
+      }
+    ],
+    "examples": [
+      {
+        "word": "fuego",
+        "meaning": "fire",
+        "sentence": "El fuego calienta la casa."
+      },
+      {
+        "word": "fogata",
+        "meaning": "bonfire",
+        "sentence": "Hicimos una fogata en la playa."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_hidr",
+    "root": "hidr-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈiðɾ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "hidratar",
+        "meaning": "to hydrate",
+        "sentence": "Es importante hidratarse."
+      },
+      {
+        "word": "hidroeléctrico",
+        "meaning": "hydroelectric",
+        "sentence": "Usan energía hidroeléctrica."
+      }
+    ],
+    "relatedRootIds": ["root_es_aqua"]
+  },
+  {
+    "id": "root_es_libr",
+    "root": "libr-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "book",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "liβɾ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "libro",
+        "meaning": "book",
+        "sentence": "Leo un libro interesante."
+      },
+      {
+        "word": "librero",
+        "meaning": "bookshelf",
+        "sentence": "El librero está lleno."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_luc",
+    "root": "luc-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "light",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "luk"
+      }
+    ],
+    "examples": [
+      {
+        "word": "luz",
+        "meaning": "light",
+        "sentence": "La luz es brillante."
+      },
+      {
+        "word": "luminoso",
+        "meaning": "luminous",
+        "sentence": "El día es luminoso."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_man",
+    "root": "man-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "hand",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "man"
+      }
+    ],
+    "examples": [
+      {
+        "word": "mano",
+        "meaning": "hand",
+        "sentence": "Me duele la mano."
+      },
+      {
+        "word": "manual",
+        "meaning": "manual",
+        "sentence": "Lee el manual de instrucciones."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_mater",
+    "root": "mater-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "mother",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "maˈteɾ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "madre",
+        "meaning": "mother",
+        "sentence": "Mi madre cocina bien."
+      },
+      {
+        "word": "madrina",
+        "meaning": "godmother",
+        "sentence": "La madrina llevó un regalo."
+      }
+    ],
+    "relatedRootIds": ["root_es_pater"]
+  },
+  {
+    "id": "root_es_noct",
+    "root": "noct-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "night",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "nokt"
+      }
+    ],
+    "examples": [
+      {
+        "word": "noche",
+        "meaning": "night",
+        "sentence": "La noche es tranquila."
+      },
+      {
+        "word": "nocturno",
+        "meaning": "nocturnal",
+        "sentence": "El búho es un ave nocturna."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_pater",
+    "root": "pater-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "father",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "paˈteɾ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "padre",
+        "meaning": "father",
+        "sentence": "Mi padre trabaja mucho."
+      },
+      {
+        "word": "padrino",
+        "meaning": "godfather",
+        "sentence": "El padrino trajo flores."
+      }
+    ],
+    "relatedRootIds": ["root_es_mater"]
+  },
+  {
+    "id": "root_es_paz",
+    "root": "paz",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "peace",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "paθ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "paz",
+        "meaning": "peace",
+        "sentence": "Deseo la paz mundial."
+      },
+      {
+        "word": "pacífico",
+        "meaning": "peaceful",
+        "sentence": "El mar estaba pacífico."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_terra",
+    "root": "terra-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "earth, land",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈteɾa"
+      }
+    ],
+    "examples": [
+      {
+        "word": "tierra",
+        "meaning": "earth, land",
+        "sentence": "La tierra es fértil."
+      },
+      {
+        "word": "terreno",
+        "meaning": "land",
+        "sentence": "Compraron un terreno."
+      }
+    ],
+    "relatedRootIds": []
+  }
+]

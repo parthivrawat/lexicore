@@ -1,0 +1,340 @@
+[
+  {
+    "id": "root_la_a_fem",
+    "root": "-a",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "feminine noun marker",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "a"
+      }
+    ],
+    "examples": [
+      {
+        "word": "puella",
+        "meaning": "girl",
+        "sentence": "Puella in hortō lūdit."
+      },
+      {
+        "word": "via",
+        "meaning": "road",
+        "sentence": "Via longa est."
+      }
+    ],
+    "relatedRootIds": ["root_la_us_masc"]
+  },
+  {
+    "id": "root_la_us_masc",
+    "root": "-us",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "masculine noun marker",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "us"
+      }
+    ],
+    "examples": [
+      {
+        "word": "puer",
+        "meaning": "boy",
+        "sentence": "Puer librum legit."
+      },
+      {
+        "word": "lupus",
+        "meaning": "wolf",
+        "sentence": "Lupus in silvā est."
+      }
+    ],
+    "relatedRootIds": ["root_la_a_fem"]
+  },
+  {
+    "id": "root_la_um",
+    "root": "-um",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "neuter noun marker",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "um"
+      }
+    ],
+    "examples": [
+      {
+        "word": "templum",
+        "meaning": "temple",
+        "sentence": "Templum in colle stat."
+      },
+      {
+        "word": "bellum",
+        "meaning": "war",
+        "sentence": "Bellum est malum."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_tor",
+    "root": "-tor",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "one who does",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "tor"
+      }
+    ],
+    "examples": [
+      {
+        "word": "victor",
+        "meaning": "victor",
+        "sentence": "Victor laetus est."
+      },
+      {
+        "word": "auctor",
+        "meaning": "author",
+        "sentence": "Auctor librum scrīpsit."
+      }
+    ],
+    "relatedRootIds": ["root_la_trix"]
+  },
+  {
+    "id": "root_la_trix",
+    "root": "-trix",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "female doer",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "triks"
+      }
+    ],
+    "examples": [
+      {
+        "word": "victrix",
+        "meaning": "female victor",
+        "sentence": "Victrix patrīam servat."
+      },
+      {
+        "word": "meretrīx",
+        "meaning": "prostitute",
+        "sentence": "Meretrīx in viā stat."
+      }
+    ],
+    "relatedRootIds": ["root_la_tor"]
+  },
+  {
+    "id": "root_la_bilis",
+    "root": "-bilis",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "able to be",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "bi.lis"
+      }
+    ],
+    "examples": [
+      {
+        "word": "amabilis",
+        "meaning": "lovable",
+        "sentence": "Puer amabilis est."
+      },
+      {
+        "word": "horribilis",
+        "meaning": "horrible",
+        "sentence": "Spectāculum horribile est."
+      }
+    ],
+    "relatedRootIds": ["root_la_ilis"]
+  },
+  {
+    "id": "root_la_ilis",
+    "root": "-ilis",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "able to be",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "i.lis"
+      }
+    ],
+    "examples": [
+      {
+        "word": "facilis",
+        "meaning": "easy",
+        "sentence": "Iter facile est."
+      },
+      {
+        "word": "difficilis",
+        "meaning": "difficult",
+        "sentence": "Quaestio difficilis est."
+      }
+    ],
+    "relatedRootIds": ["root_la_bilis"]
+  },
+  {
+    "id": "root_la_osus",
+    "root": "-ōsus",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "full of",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "oː.sus"
+      }
+    ],
+    "examples": [
+      {
+        "word": "formōsus",
+        "meaning": "beautiful",
+        "sentence": "Formōsa puella cantat."
+      },
+      {
+        "word": "periculōsus",
+        "meaning": "dangerous",
+        "sentence": "Mare periculōsum est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_mentum",
+    "root": "-mentum",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "result, means",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "men.tum"
+      }
+    ],
+    "examples": [
+      {
+        "word": "monumentum",
+        "meaning": "monument",
+        "sentence": "Monumentum in forō stat."
+      },
+      {
+        "word": "instrumentum",
+        "meaning": "tool",
+        "sentence": "Instrumentum rusticum est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_tio",
+    "root": "-tiō",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "action, state",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ti.oː"
+      }
+    ],
+    "examples": [
+      {
+        "word": "nātiō",
+        "meaning": "nation",
+        "sentence": "Nātiō Romāna est."
+      },
+      {
+        "word": "orātiō",
+        "meaning": "speech",
+        "sentence": "Orātiō senātōris clāra est."
+      }
+    ],
+    "relatedRootIds": ["root_la_ura"]
+  },
+  {
+    "id": "root_la_ura",
+    "root": "-ūra",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "result of action",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "uː.ra"
+      }
+    ],
+    "examples": [
+      {
+        "word": "scrīptūra",
+        "meaning": "writing",
+        "sentence": "Scrīptūra sacra est."
+      },
+      {
+        "word": "nātūra",
+        "meaning": "nature",
+        "sentence": "Nātūra mira est."
+      }
+    ],
+    "relatedRootIds": ["root_la_tio"]
+  },
+  {
+    "id": "root_la_ivus",
+    "root": "-īvus",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "tending to",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "iː.wus"
+      }
+    ],
+    "examples": [
+      {
+        "word": "captīvus",
+        "meaning": "captive",
+        "sentence": "Captīvus in carcere est."
+      },
+      {
+        "word": "natīvus",
+        "meaning": "native",
+        "sentence": "Natīvus huius terrae est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_arius",
+    "root": "-ārius",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "relating to",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "aː.ri.us"
+      }
+    ],
+    "examples": [
+      {
+        "word": "mīlitāris",
+        "meaning": "military",
+        "sentence": "Res mīlitāris gravis est."
+      },
+      {
+        "word": "vulgāris",
+        "meaning": "common",
+        "sentence": "Opiniō vulgāris est."
+      }
+    ],
+    "relatedRootIds": []
+  }
+]

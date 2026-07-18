@@ -2,6 +2,7 @@
 
 import { createContext, useContext, useState, ReactNode } from 'react';
 import { AppSettings, LearningLanguage } from '@/types/settings';
+import { LEARNING_LANGUAGES } from '@/constants/languages';
 import { PAGINATION, TTS_CONFIG } from '@/constants';
 
 interface SettingsContextType {
@@ -30,7 +31,7 @@ export function useSettings() {
 }
 
 const isValidLearningLanguage = (value: unknown): value is LearningLanguage =>
-  ['english', 'french', 'spanish', 'latin', 'greek'].includes(value as string);
+  LEARNING_LANGUAGES.some(lang => lang.id === value);
 
 export function SettingsProvider({ children }: { children: ReactNode }) {
   const [settings, setSettings] = useState<AppSettings>(() => {

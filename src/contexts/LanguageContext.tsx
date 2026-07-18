@@ -1,10 +1,10 @@
 import { createContext, useContext, ReactNode } from 'react';
 import { useSettings } from '@/contexts/SettingsContext';
 import { interpolate } from '@/utils/interpolate';
-import type { LearningLanguage } from '@/types/settings';
+import { LEARNING_LANGUAGES } from '@/constants/languages';
+import type { LearningLanguage, UILanguage } from '@/types/settings';
 
-export type UILanguage = 'en' | 'fr';
-export type { LearningLanguage };
+export type { LearningLanguage, UILanguage };
 
 export type TranslationVariables = Record<string, string | number>;
 
@@ -19,99 +19,95 @@ interface LanguageContextType {
 
 const LanguageContext = createContext<LanguageContextType | undefined>(undefined);
 
-const translations = {
+const baseTranslationsEn: Record<string, string> = {
+  'app.title': 'LexiCore',
+  'app.description': 'A multilingual platform for word roots and core vocabulary learning',
+  'vocabulary.title': 'Core Vocabulary',
+  'vocabulary.description':
+    'Master {{count}} essential words organized by categories with IPA pronunciation.',
+  'roots.title': 'Root Explorer',
+  'roots.description': 'Browse {{count}} word roots including prefixes, suffixes, and base forms.',
+  'search.title': 'Search',
+  'search.placeholder': 'Search for words or roots...',
+  'search.noResults': 'No results found',
+  'search.filters.all': 'All',
+  'search.filters.roots': 'Roots',
+  'search.filters.words': 'Words',
+  'pagination.previous': 'Previous',
+  'pagination.next': 'Next',
+  'pagination.page': 'Page {{current}} of {{total}}',
+  'categories.greetings': 'Greetings',
+  'categories.numbers': 'Numbers',
+  'categories.verbs': 'Verbs',
+  'categories.daily-use-nouns': 'Daily Use Nouns',
+  'categories.function-words': 'Function Words',
+  'rootTypes.prefix': 'Prefix',
+  'rootTypes.suffix': 'Suffix',
+  'rootTypes.base': 'Base',
+  'words.count': '{{count}} words',
+  loading: 'Loading...',
+  'ui.language': 'Interface Language',
+  'learning.language': 'Learning Language',
+  'theme.light': 'Light',
+  'theme.dark': 'Dark',
+  'theme.system': 'System',
+};
+
+const baseTranslationsFr: Record<string, string> = {
+  'app.title': 'LexiCore',
+  'app.description':
+    'Une plateforme multilingue pour les racines de mots et le vocabulaire essentiel',
+  'vocabulary.title': 'Vocabulaire Essentiel',
+  'vocabulary.description':
+    'Maîtrisez {{count}} mots essentiels organisés par catégories avec prononciation API.',
+  'roots.title': 'Explorateur de Racines',
+  'roots.description':
+    'Parcourez {{count}} racines de mots including préfixes, suffixes et formes de base.',
+  'search.title': 'Recherche',
+  'search.placeholder': 'Rechercher des mots ou racines...',
+  'search.noResults': 'Aucun résultat trouvé',
+  'search.filters.all': 'Tout',
+  'search.filters.roots': 'Racines',
+  'search.filters.words': 'Mots',
+  'pagination.previous': 'Précédent',
+  'pagination.next': 'Suivant',
+  'pagination.page': 'Page {{current}} de {{total}}',
+  'categories.greetings': 'Salutations',
+  'categories.numbers': 'Nombres',
+  'categories.verbs': 'Verbes',
+  'categories.daily-use-nouns': "Noms d'usage quotidien",
+  'categories.function-words': 'Mots fonctionnels',
+  'rootTypes.prefix': 'Préfixe',
+  'rootTypes.suffix': 'Suffixe',
+  'rootTypes.base': 'Base',
+  'words.count': '{{count}} mots',
+  loading: 'Chargement...',
+  'ui.language': "Langue de l'interface",
+  'learning.language': "Langue d'apprentissage",
+  'theme.light': 'Clair',
+  'theme.dark': 'Sombre',
+  'theme.system': 'Système',
+};
+
+const translations: Record<UILanguage, Record<string, string>> = {
   en: {
-    'app.title': 'LexiCore',
-    'app.description': 'A multilingual platform for word roots and core vocabulary learning',
-    'vocabulary.title': 'Core Vocabulary',
-    'vocabulary.description':
-      'Master {{count}} essential words organized by categories with IPA pronunciation.',
-    'roots.title': 'Root Explorer',
-    'roots.description':
-      'Browse {{count}} word roots including prefixes, suffixes, and base forms.',
-    'search.title': 'Search',
-    'search.placeholder': 'Search for words or roots...',
-    'search.noResults': 'No results found',
-    'search.filters.all': 'All',
-    'search.filters.roots': 'Roots',
-    'search.filters.words': 'Words',
-    'pagination.previous': 'Previous',
-    'pagination.next': 'Next',
-    'pagination.page': 'Page {{current}} of {{total}}',
-    'categories.greetings': 'Greetings',
-    'categories.numbers': 'Numbers',
-    'categories.verbs': 'Verbs',
-    'categories.daily-use-nouns': 'Daily Use Nouns',
-    'categories.function-words': 'Function Words',
-    'rootTypes.prefix': 'Prefix',
-    'rootTypes.suffix': 'Suffix',
-    'rootTypes.base': 'Base',
-    'words.count': '{{count}} words',
-    loading: 'Loading...',
-    'ui.language': 'Interface Language',
-    'learning.language': 'Learning Language',
-    'languages.english': 'English',
-    'languages.french': 'French',
-    'languages.spanish': 'Spanish',
-    'languages.latin': 'Latin',
-    'languages.greek': 'Greek',
-    'theme.light': 'Light',
-    'theme.dark': 'Dark',
-    'theme.system': 'System',
+    ...baseTranslationsEn,
+    ...Object.fromEntries(LEARNING_LANGUAGES.map(lang => [`languages.${lang.id}`, lang.nameEn])),
   },
   fr: {
-    'app.title': 'LexiCore',
-    'app.description':
-      'Une plateforme multilingue pour les racines de mots et le vocabulaire essentiel',
-    'vocabulary.title': 'Vocabulaire Essentiel',
-    'vocabulary.description':
-      'Maîtrisez {{count}} mots essentiels organisés par catégories avec prononciation API.',
-    'roots.title': 'Explorateur de Racines',
-    'roots.description':
-      'Parcourez {{count}} racines de mots including préfixes, suffixes et formes de base.',
-    'search.title': 'Recherche',
-    'search.placeholder': 'Rechercher des mots ou racines...',
-    'search.noResults': 'Aucun résultat trouvé',
-    'search.filters.all': 'Tout',
-    'search.filters.roots': 'Racines',
-    'search.filters.words': 'Mots',
-    'pagination.previous': 'Précédent',
-    'pagination.next': 'Suivant',
-    'pagination.page': 'Page {{current}} de {{total}}',
-    'categories.greetings': 'Salutations',
-    'categories.numbers': 'Nombres',
-    'categories.verbs': 'Verbes',
-    'categories.daily-use-nouns': "Noms d'usage quotidien",
-    'categories.function-words': 'Mots fonctionnels',
-    'rootTypes.prefix': 'Préfixe',
-    'rootTypes.suffix': 'Suffixe',
-    'rootTypes.base': 'Base',
-    'words.count': '{{count}} mots',
-    loading: 'Chargement...',
-    'ui.language': "Langue de l'interface",
-    'learning.language': "Langue d'apprentissage",
-    'languages.english': 'Anglais',
-    'languages.french': 'Français',
-    'languages.spanish': 'Espagnol',
-    'languages.latin': 'Latin',
-    'languages.greek': 'Grec',
-    'theme.light': 'Clair',
-    'theme.dark': 'Sombre',
-    'theme.system': 'Système',
+    ...baseTranslationsFr,
+    ...Object.fromEntries(LEARNING_LANGUAGES.map(lang => [`languages.${lang.id}`, lang.nameFr])),
   },
 };
 
-const learningLanguageNames = {
-  english: { en: 'English', fr: 'Anglais' },
-  french: { en: 'French', fr: 'Français' },
-  spanish: { en: 'Spanish', fr: 'Espagnol' },
-  latin: { en: 'Latin', fr: 'Latin' },
-  greek: { en: 'Greek', fr: 'Grec' },
-};
+const learningLanguageNames: Record<LearningLanguage, { en: string; fr: string }> =
+  Object.fromEntries(
+    LEARNING_LANGUAGES.map(lang => [lang.id, { en: lang.nameEn, fr: lang.nameFr }])
+  ) as Record<LearningLanguage, { en: string; fr: string }>;
 
 function createTranslationFunction(uiLanguage: UILanguage) {
   return (key: string, params?: string | TranslationVariables, fallback?: string): string => {
-    const value = translations[uiLanguage]?.[key as keyof (typeof translations)[typeof uiLanguage]];
+    const value = translations[uiLanguage]?.[key];
 
     if (typeof params === 'string') {
       return value || params || key;

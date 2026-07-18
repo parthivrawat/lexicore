@@ -8,7 +8,7 @@ vi.mock('@/utils/data', () => ({
   getVocabularyData: vi.fn(),
 }));
 
-const vocabularyByLanguage: Record<LearningLanguage, VocabWord[]> = {
+const vocabularyByLanguage: Partial<Record<LearningLanguage, VocabWord[]>> = {
   english: [
     {
       id: 'word_hello',

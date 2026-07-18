@@ -1,19 +1,11 @@
 import { VocabWord, WordRoot, Etymology } from '@/types';
 import type { LearningLanguage } from '@/types/settings';
+import { LEARNING_LANGUAGES } from '@/constants/languages';
 
-type RootsModule = {
-  rootsEn: WordRoot[];
-  rootsFr: WordRoot[];
-  rootsEs: WordRoot[];
-  rootsLa: WordRoot[];
-  rootsEl: WordRoot[];
-};
-type VocabularyModule = {
-  vocabularyEn: VocabWord[];
-  vocabularyFr: VocabWord[];
-  vocabularyEs: VocabWord[];
-  vocabularyLa: VocabWord[];
-  vocabularyEl: VocabWord[];
+type RootsModule = Record<string, WordRoot[]>;
+type VocabularyModule = Record<string, VocabWord[]>;
+type EtymologyModule = {
+  etymologyData: Record<string, Etymology>;
 };
 
 const resultCache: {
@@ -28,49 +20,25 @@ const promiseCache: {
   etymology?: Partial<Record<LearningLanguage, Promise<Record<string, Etymology>>>>;
 } = {};
 
-const rootsModuleMap: Record<LearningLanguage, keyof RootsModule> = {
-  english: 'rootsEn',
-  french: 'rootsFr',
-  spanish: 'rootsEs',
-  latin: 'rootsLa',
-  greek: 'rootsEl',
-};
+const rootsModuleMap: Record<LearningLanguage, string> = Object.fromEntries(
+  LEARNING_LANGUAGES.map(lang => [lang.id, `roots${lang.exportSuffix}`])
+) as Record<LearningLanguage, string>;
 
-const rootsImportMap: Record<LearningLanguage, () => Promise<unknown>> = {
-  english: () => import('@/data/roots/english'),
-  french: () => import('@/data/roots/french'),
-  spanish: () => import('@/data/roots/spanish'),
-  latin: () => import('@/data/roots/latin'),
-  greek: () => import('@/data/roots/greek'),
-};
+const rootsImportMap: Record<LearningLanguage, () => Promise<unknown>> = Object.fromEntries(
+  LEARNING_LANGUAGES.map(lang => [lang.id, () => import(`@/data/roots/${lang.id}/index.ts`)])
+) as Record<LearningLanguage, () => Promise<unknown>>;
 
-const vocabularyModuleMap: Record<LearningLanguage, keyof VocabularyModule> = {
-  english: 'vocabularyEn',
-  french: 'vocabularyFr',
-  spanish: 'vocabularyEs',
-  latin: 'vocabularyLa',
-  greek: 'vocabularyEl',
-};
+const vocabularyModuleMap: Record<LearningLanguage, string> = Object.fromEntries(
+  LEARNING_LANGUAGES.map(lang => [lang.id, `vocabulary${lang.exportSuffix}`])
+) as Record<LearningLanguage, string>;
 
-const vocabularyImportMap: Record<LearningLanguage, () => Promise<unknown>> = {
-  english: () => import('@/data/vocabulary/english'),
-  french: () => import('@/data/vocabulary/french'),
-  spanish: () => import('@/data/vocabulary/spanish'),
-  latin: () => import('@/data/vocabulary/latin'),
-  greek: () => import('@/data/vocabulary/greek'),
-};
+const vocabularyImportMap: Record<LearningLanguage, () => Promise<unknown>> = Object.fromEntries(
+  LEARNING_LANGUAGES.map(lang => [lang.id, () => import(`@/data/vocabulary/${lang.id}/index.ts`)])
+) as Record<LearningLanguage, () => Promise<unknown>>;
 
-type EtymologyModule = {
-  etymologyData: Record<string, Etymology>;
-};
-
-const etymologyImportMap: Record<LearningLanguage, () => Promise<unknown>> = {
-  english: () => import('@/data/etymology/english'),
-  french: () => import('@/data/etymology/french'),
-  spanish: () => import('@/data/etymology/spanish'),
-  latin: () => import('@/data/etymology/latin'),
-  greek: () => import('@/data/etymology/greek'),
-};
+const etymologyImportMap: Record<LearningLanguage, () => Promise<unknown>> = Object.fromEntries(
+  LEARNING_LANGUAGES.map(lang => [lang.id, () => import(`@/data/etymology/${lang.id}/index.ts`)])
+) as Record<LearningLanguage, () => Promise<unknown>>;
 
 export async function loadRootsData(language: LearningLanguage): Promise<WordRoot[]> {
   if (resultCache.roots?.[language]) {
@@ -117,12 +85,12 @@ export async function loadEtymologyData(
     return resultCache.etymology[language]!;
   }
 
-  const load = etymologyImportMap[language];
-
   if (!promiseCache.etymology?.[language]) {
     promiseCache.etymology = {
       ...promiseCache.etymology,
-      [language]: load().then(module => (module as EtymologyModule).etymologyData),
+      [language]: etymologyImportMap[language]().then(
+        module => (module as EtymologyModule).etymologyData
+      ),
     };
   }
 

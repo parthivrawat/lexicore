@@ -362,5 +362,530 @@
       }
     ],
     "relatedRootIds": []
+  },
+  {
+    "id": "root_es_port",
+    "root": "port-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "carry",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "poɾt"
+      }
+    ],
+    "examples": [
+      {
+        "word": "portar",
+        "meaning": "to carry; to bear",
+        "sentence": "Porto un libro pesado."
+      },
+      {
+        "word": "transportar",
+        "meaning": "to transport",
+        "sentence": "El camión transporta mercancías."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_ven",
+    "root": "ven-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "come",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ben"
+      }
+    ],
+    "examples": [
+      {
+        "word": "venir",
+        "meaning": "to come",
+        "sentence": "Voy a venir mañana."
+      },
+      {
+        "word": "avenir",
+        "meaning": "to come to terms",
+        "sentence": "Las partes lograron avenirse."
+      }
+    ],
+    "relatedRootIds": ["root_es_ad"]
+  },
+  {
+    "id": "root_es_fac",
+    "root": "fac-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "do; make",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "fak"
+      }
+    ],
+    "examples": [
+      {
+        "word": "hacer",
+        "meaning": "to do; to make",
+        "sentence": "Voy a hacer la cena."
+      },
+      {
+        "word": "factor",
+        "meaning": "factor",
+        "sentence": "El factor decisivo fue el tiempo."
+      }
+    ],
+    "relatedRootIds": ["root_es_ador"]
+  },
+  {
+    "id": "root_es_bib",
+    "root": "bib-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "drink",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "bib"
+      }
+    ],
+    "examples": [
+      {
+        "word": "beber",
+        "meaning": "to drink",
+        "sentence": "Voy a beber agua."
+      },
+      {
+        "word": "bebida",
+        "meaning": "drink; beverage",
+        "sentence": "La bebida está fría."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_ed",
+    "root": "ed-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "eat",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ed"
+      }
+    ],
+    "examples": [
+      {
+        "word": "comer",
+        "meaning": "to eat",
+        "sentence": "Voy a comer la manzana."
+      },
+      {
+        "word": "comedor",
+        "meaning": "dining room",
+        "sentence": "El comedor es amplio."
+      }
+    ],
+    "relatedRootIds": ["root_es_ador", "root_es_ible"]
+  },
+  {
+    "id": "root_es_don",
+    "root": "don-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "give",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "don"
+      }
+    ],
+    "examples": [
+      {
+        "word": "donar",
+        "meaning": "to donate; to give",
+        "sentence": "Voy a donar libros."
+      },
+      {
+        "word": "perdonar",
+        "meaning": "to forgive; pardon",
+        "sentence": "Te pido que me perdones."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_ire",
+    "root": "ire-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "go",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "i.ɾe"
+      }
+    ],
+    "examples": [
+      {
+        "word": "ir",
+        "meaning": "to go",
+        "sentence": "Voy a ir a la escuela."
+      },
+      {
+        "word": "ida",
+        "meaning": "going; departure",
+        "sentence": "La ida fue rápida."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_audi",
+    "root": "audi-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "hear; listen",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "au.di"
+      }
+    ],
+    "examples": [
+      {
+        "word": "oír",
+        "meaning": "to hear",
+        "sentence": "Oigo música."
+      },
+      {
+        "word": "audición",
+        "meaning": "hearing; audition",
+        "sentence": "La audición fue clara."
+      }
+    ],
+    "relatedRootIds": ["root_es_cion", "root_es_ible"]
+  },
+  {
+    "id": "root_es_ten",
+    "root": "ten-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "hold",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ten"
+      }
+    ],
+    "examples": [
+      {
+        "word": "tener",
+        "meaning": "to have; to hold",
+        "sentence": "Tengo un libro."
+      },
+      {
+        "word": "retener",
+        "meaning": "to retain",
+        "sentence": "Retengo la información."
+      }
+    ],
+    "relatedRootIds": ["root_es_re"]
+  },
+  {
+    "id": "root_es_sci",
+    "root": "sci-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "know",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "si"
+      }
+    ],
+    "examples": [
+      {
+        "word": "saber",
+        "meaning": "to know",
+        "sentence": "Sé la respuesta."
+      },
+      {
+        "word": "ciencia",
+        "meaning": "science",
+        "sentence": "La ciencia avanza."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_disc",
+    "root": "disc-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "learn",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "disk"
+      }
+    ],
+    "examples": [
+      {
+        "word": "aprender",
+        "meaning": "to learn",
+        "sentence": "Voy a aprender español."
+      },
+      {
+        "word": "discípulo",
+        "meaning": "disciple",
+        "sentence": "El discípulo estudia."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_leg",
+    "root": "leg-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "read; gather",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "leg"
+      }
+    ],
+    "examples": [
+      {
+        "word": "leer",
+        "meaning": "to read",
+        "sentence": "Me gusta leer libros."
+      },
+      {
+        "word": "lector",
+        "meaning": "reader",
+        "sentence": "El lector es atento."
+      }
+    ],
+    "relatedRootIds": ["root_es_ador"]
+  },
+  {
+    "id": "root_es_dic",
+    "root": "dic-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "say; tell",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "dik"
+      }
+    ],
+    "examples": [
+      {
+        "word": "decir",
+        "meaning": "to say",
+        "sentence": "Quiero decir la verdad."
+      },
+      {
+        "word": "dicho",
+        "meaning": "said",
+        "sentence": "El dicho es antiguo."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_vid",
+    "root": "vid-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "see",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "bið"
+      }
+    ],
+    "examples": [
+      {
+        "word": "ver",
+        "meaning": "to see",
+        "sentence": "Veo la montaña."
+      },
+      {
+        "word": "visible",
+        "meaning": "visible",
+        "sentence": "El avión es visible."
+      }
+    ],
+    "relatedRootIds": ["root_es_ible"]
+  },
+  {
+    "id": "root_es_loqu",
+    "root": "loqu-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "speak",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "lo.kw"
+      }
+    ],
+    "examples": [
+      {
+        "word": "locuaz",
+        "meaning": "loquacious",
+        "sentence": "Es persona muy locuaz."
+      },
+      {
+        "word": "elocuente",
+        "meaning": "eloquent",
+        "sentence": "Su discurso fue elocuente."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_stud",
+    "root": "stud-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "study",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "stud"
+      }
+    ],
+    "examples": [
+      {
+        "word": "estudiar",
+        "meaning": "to study",
+        "sentence": "Voy a estudiar medicina."
+      },
+      {
+        "word": "estudiante",
+        "meaning": "student",
+        "sentence": "La estudiante es dedicada."
+      }
+    ],
+    "relatedRootIds": ["root_es_ista"]
+  },
+  {
+    "id": "root_es_cap",
+    "root": "cap-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "take; seize",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "kap"
+      }
+    ],
+    "examples": [
+      {
+        "word": "capturar",
+        "meaning": "to capture",
+        "sentence": "La policía capturó al ladrón."
+      },
+      {
+        "word": "capaz",
+        "meaning": "capable",
+        "sentence": "Es capaz de hacerlo."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_cogit",
+    "root": "cogit-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "think",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ko.xit"
+      }
+    ],
+    "examples": [
+      {
+        "word": "pensar",
+        "meaning": "to think",
+        "sentence": "Voy a pensar en ello."
+      },
+      {
+        "word": "cogitación",
+        "meaning": "thought",
+        "sentence": "La cogitación es profunda."
+      }
+    ],
+    "relatedRootIds": ["root_es_cion"]
+  },
+  {
+    "id": "root_es_labor",
+    "root": "labor-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "work",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "la.βoɾ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "laborar",
+        "meaning": "to work",
+        "sentence": "Voy a laborar mucho hoy."
+      },
+      {
+        "word": "laborioso",
+        "meaning": "laborious",
+        "sentence": "El trabajo es laborioso."
+      }
+    ],
+    "relatedRootIds": ["root_es_oso"]
+  },
+  {
+    "id": "root_es_scrib",
+    "root": "scrib-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "write",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "skɾib"
+      }
+    ],
+    "examples": [
+      {
+        "word": "escribir",
+        "meaning": "to write",
+        "sentence": "Voy a escribir una carta."
+      },
+      {
+        "word": "escrito",
+        "meaning": "written",
+        "sentence": "El texto está escrito."
+      },
+      {
+        "word": "escritor",
+        "meaning": "writer",
+        "sentence": "El escritor es famoso."
+      }
+    ],
+    "relatedRootIds": ["root_es_ador"]
   }
 ]

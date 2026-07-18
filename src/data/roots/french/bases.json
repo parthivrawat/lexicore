@@ -3196,5 +3196,161 @@
       }
     ],
     "relatedRootIds": ["root_re_fr"]
+  },
+  {
+    "id": "root_aller_fr",
+    "root": "aller",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "aller (to go)",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "ale"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "ale"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "ale"
+      }
+    ],
+    "examples": [
+      {
+        "word": "aller",
+        "meaning": "to go",
+        "sentence": "Je vais à l'école."
+      },
+      {
+        "word": "aller-retour",
+        "meaning": "round trip",
+        "sentence": "Un billet aller-retour, s'il vous plaît."
+      },
+      {
+        "word": "aller-simple",
+        "meaning": "one way",
+        "sentence": "Je prends un aller-simple."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_entendre_fr",
+    "root": "entendre",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "hear; listen",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "ɑ̃tɑ̃dʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "ɑ̃tɑ̃dʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "ɑ̃tɑ̃dʁ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "entendre",
+        "meaning": "to hear",
+        "sentence": "J'entends la musique."
+      },
+      {
+        "word": "entendu",
+        "meaning": "heard; understood",
+        "sentence": "C'est entendu."
+      },
+      {
+        "word": "malentendu",
+        "meaning": "misunderstanding",
+        "sentence": "C'est un malentendu."
+      }
+    ],
+    "relatedRootIds": ["root_mal_fr"]
+  },
+  {
+    "id": "root_eclairer_fr",
+    "root": "éclairer",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "éclairer (to light; to illuminate)",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "eklɛʁe"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "eklɛʁe"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "eklɛʁe"
+      }
+    ],
+    "examples": [
+      {
+        "word": "éclairer",
+        "meaning": "to light",
+        "sentence": "La lampe éclaire la pièce."
+      },
+      {
+        "word": "éclairage",
+        "meaning": "lighting",
+        "sentence": "L'éclairage est doux."
+      },
+      {
+        "word": "éclaircie",
+        "meaning": "bright spell",
+        "sentence": "Une éclaircie dans la journée."
+      }
+    ],
+    "relatedRootIds": ["root_age_fr"]
+  },
+  {
+    "id": "root_aqua_fr",
+    "root": "aqua",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "aqua (water)",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "akwa"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "akwa"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "akwa"
+      }
+    ],
+    "examples": [
+      {
+        "word": "aquatique",
+        "meaning": "aquatic",
+        "sentence": "Le sport aquatique est populaire."
+      },
+      {
+        "word": "aquarium",
+        "meaning": "aquarium",
+        "sentence": "Les poissons sont dans l'aquarium."
+      },
+      {
+        "word": "aquarelle",
+        "meaning": "watercolor",
+        "sentence": "Elle peint à l'aquarelle."
+      }
+    ],
+    "relatedRootIds": ["root_ique_fr"]
   }
 ]

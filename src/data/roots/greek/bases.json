@@ -466,5 +466,527 @@
       }
     ],
     "relatedRootIds": ["root_el_bio"]
+  },
+  {
+    "id": "root_el_poi",
+    "root": "poi-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "do; make",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "pi"
+      }
+    ],
+    "examples": [
+      {
+        "word": "ποιώ",
+        "meaning": "I do/make",
+        "sentence": "Ποιώ το καθήκον μου."
+      },
+      {
+        "word": "ποίηση",
+        "meaning": "poetry",
+        "sentence": "Η ποίηση είναι τέχνη."
+      }
+    ],
+    "relatedRootIds": ["root_el_ic"]
+  },
+  {
+    "id": "root_el_bain",
+    "root": "bain-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "go; step",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ven"
+      }
+    ],
+    "examples": [
+      {
+        "word": "βαίνω",
+        "meaning": "I go/step",
+        "sentence": "Βαίνω προς τα εμπρός."
+      },
+      {
+        "word": "διαβαίνω",
+        "meaning": "I cross/go through",
+        "sentence": "Διαβαίνω τον δρόμο."
+      },
+      {
+        "word": "συμβαίνω",
+        "meaning": "I happen/come together",
+        "sentence": "Συμβαίνει κάθε μέρα."
+      }
+    ],
+    "relatedRootIds": ["root_el_dia", "root_el_syn"]
+  },
+  {
+    "id": "root_el_erk",
+    "root": "erch-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "come",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "erx"
+      }
+    ],
+    "examples": [
+      {
+        "word": "έρχομαι",
+        "meaning": "I come",
+        "sentence": "Έρχομαι αύριο."
+      },
+      {
+        "word": "εισέρχομαι",
+        "meaning": "I enter/come in",
+        "sentence": "Εισέρχομαι στο σπίτι."
+      },
+      {
+        "word": "εξέρχομαι",
+        "meaning": "I exit/come out",
+        "sentence": "Εξέρχομαι από την πόρτα."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_lab",
+    "root": "lab-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "take",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "lav"
+      }
+    ],
+    "examples": [
+      {
+        "word": "λαμβάνω",
+        "meaning": "I take",
+        "sentence": "Λαμβάνω το γράμμα."
+      },
+      {
+        "word": "παραλαμβάνω",
+        "meaning": "I receive",
+        "sentence": "Παραλαμβάνω το δέμα."
+      },
+      {
+        "word": "συλλαμβάνω",
+        "meaning": "I arrest/seize",
+        "sentence": "Η αστυνομία συλλαμβάνει τον κλέφτη."
+      }
+    ],
+    "relatedRootIds": ["root_el_syn"]
+  },
+  {
+    "id": "root_el_did",
+    "root": "did-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "give",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ðið"
+      }
+    ],
+    "examples": [
+      {
+        "word": "δίνω",
+        "meaning": "I give",
+        "sentence": "Δίνω το βιβλίο."
+      },
+      {
+        "word": "δώρο",
+        "meaning": "gift",
+        "sentence": "Το δώρο είναι ωραίο."
+      },
+      {
+        "word": "αντίδοτο",
+        "meaning": "antidote",
+        "sentence": "Το αντίδοτο είναι αποτελεσματικό."
+      }
+    ],
+    "relatedRootIds": ["root_el_anti"]
+  },
+  {
+    "id": "root_el_phag",
+    "root": "phag-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "eat",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "faɣ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "φαγητό",
+        "meaning": "food",
+        "sentence": "Το φαγητό είναι νόστιμο."
+      },
+      {
+        "word": "σαρκοφάγος",
+        "meaning": "carnivorous/sarcophagus",
+        "sentence": "Ο σαρκοφάγος είναι επικίνδυνος."
+      },
+      {
+        "word": "φαγοκύτταρο",
+        "meaning": "phagocyte",
+        "sentence": "Το φαγοκύτταρο καταπολεμά μικρόβια."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_pin",
+    "root": "pin-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "drink",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "pin"
+      }
+    ],
+    "examples": [
+      {
+        "word": "πίνω",
+        "meaning": "I drink",
+        "sentence": "Πίνω νερό."
+      },
+      {
+        "word": "ποτό",
+        "meaning": "drink",
+        "sentence": "Το ποτό είναι δροσερό."
+      },
+      {
+        "word": "ποτήρι",
+        "meaning": "glass",
+        "sentence": "Το ποτήρι είναι γεμάτο."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_akou",
+    "root": "akou-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "hear; listen",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "aku"
+      }
+    ],
+    "examples": [
+      {
+        "word": "ακούω",
+        "meaning": "I hear",
+        "sentence": "Ακούω μουσική."
+      },
+      {
+        "word": "ακουστικός",
+        "meaning": "acoustic",
+        "sentence": "Το ακουστικό σύστημα είναι καλό."
+      },
+      {
+        "word": "ακρόαση",
+        "meaning": "audition; listening",
+        "sentence": "Η ακρόαση ξεκινά στις έξι."
+      }
+    ],
+    "relatedRootIds": ["root_el_ic"]
+  },
+  {
+    "id": "root_el_ech",
+    "root": "ech-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "hold; have",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ex"
+      }
+    ],
+    "examples": [
+      {
+        "word": "έχω",
+        "meaning": "I have/hold",
+        "sentence": "Έχω ένα βιβλίο."
+      },
+      {
+        "word": "κατέχω",
+        "meaning": "I possess/hold",
+        "sentence": "Κατέχω την αλήθεια."
+      },
+      {
+        "word": "επέχω",
+        "meaning": "I hold over",
+        "sentence": "Επέχω τη θέση του."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_gnos",
+    "root": "gnos-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "know",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ɡnos"
+      }
+    ],
+    "examples": [
+      {
+        "word": "γνωρίζω",
+        "meaning": "I know",
+        "sentence": "Γνωρίζω την απάντηση."
+      },
+      {
+        "word": "γνώση",
+        "meaning": "knowledge",
+        "sentence": "Η γνώση είναι δύναμη."
+      },
+      {
+        "word": "άγνοια",
+        "meaning": "ignorance",
+        "sentence": "Η άγνοια δεν είναι ευτυχία."
+      }
+    ],
+    "relatedRootIds": ["root_el_ic"]
+  },
+  {
+    "id": "root_el_math",
+    "root": "math-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "learn",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "maθ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "μανθάνω",
+        "meaning": "I learn",
+        "sentence": "Μανθάνω καινούργια πράγματα."
+      },
+      {
+        "word": "μαθητής",
+        "meaning": "student/pupil",
+        "sentence": "Ο μαθητής διαβάζει."
+      },
+      {
+        "word": "μαθηματικά",
+        "meaning": "mathematics",
+        "sentence": "Τα μαθηματικά είναι ωραία."
+      }
+    ],
+    "relatedRootIds": ["root_el_ic", "root_el_ist"]
+  },
+  {
+    "id": "root_el_anagno",
+    "root": "anagno-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "read",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "anaɡno"
+      }
+    ],
+    "examples": [
+      {
+        "word": "αναγιγνώσκω",
+        "meaning": "I read",
+        "sentence": "Αναγιγνώσκω ένα βιβλίο."
+      },
+      {
+        "word": "ανάγνωση",
+        "meaning": "reading",
+        "sentence": "Η ανάγνωση είναι σημαντική."
+      },
+      {
+        "word": "αναγνώστης",
+        "meaning": "reader",
+        "sentence": "Ο αναγνώστης είναι προσεκτικός."
+      }
+    ],
+    "relatedRootIds": ["root_el_ist"]
+  },
+  {
+    "id": "root_el_phem",
+    "root": "phem-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "say; speak",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "fem"
+      }
+    ],
+    "examples": [
+      {
+        "word": "φημί",
+        "meaning": "I say",
+        "sentence": "Φημί την αλήθεια."
+      },
+      {
+        "word": "ευφημισμός",
+        "meaning": "euphemism",
+        "sentence": "Ο ευφημισμός είναι ευγενικός."
+      },
+      {
+        "word": "προφήτης",
+        "meaning": "prophet",
+        "sentence": "Ο προφήτης μιλάει."
+      }
+    ],
+    "relatedRootIds": ["root_el_eu", "root_el_ist"]
+  },
+  {
+    "id": "root_el_schol",
+    "root": "schol-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "study; school",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "sxol"
+      }
+    ],
+    "examples": [
+      {
+        "word": "σχολείο",
+        "meaning": "school",
+        "sentence": "Το σχολείο είναι μεγάλο."
+      },
+      {
+        "word": "σχολάζω",
+        "meaning": "I study/have leisure",
+        "sentence": "Σχολάζω το απόγευμα."
+      },
+      {
+        "word": "σχολαστικός",
+        "meaning": "scholastic",
+        "sentence": "Ο σχολαστικός είναι προσεκτικός."
+      }
+    ],
+    "relatedRootIds": ["root_el_ic"]
+  },
+  {
+    "id": "root_el_noe",
+    "root": "noe-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "think; mind",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "noi"
+      }
+    ],
+    "examples": [
+      {
+        "word": "νοώ",
+        "meaning": "I think/understand",
+        "sentence": "Νοώ το νόημα."
+      },
+      {
+        "word": "νοητικός",
+        "meaning": "noetic/intellectual",
+        "sentence": "Η νοητική ικανότητα είναι σημαντική."
+      },
+      {
+        "word": "παράνοια",
+        "meaning": "paranoia",
+        "sentence": "Η παράνοια είναι ασθένεια."
+      }
+    ],
+    "relatedRootIds": ["root_el_ic"]
+  },
+  {
+    "id": "root_el_erg",
+    "root": "erg-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "work",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "erɣ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "έργο",
+        "meaning": "work",
+        "sentence": "Το έργο είναι δύσκολο."
+      },
+      {
+        "word": "ενέργεια",
+        "meaning": "energy",
+        "sentence": "Η ενέργεια είναι απαραίτητη."
+      },
+      {
+        "word": "εργονομία",
+        "meaning": "ergonomics",
+        "sentence": "Η εργονομία βοηθάει."
+      }
+    ],
+    "relatedRootIds": ["root_el_ic"]
+  },
+  {
+    "id": "root_el_pher",
+    "root": "pher-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "carry",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "fer"
+      }
+    ],
+    "examples": [
+      {
+        "word": "φέρω",
+        "meaning": "I carry",
+        "sentence": "Φέρω το βάρος."
+      },
+      {
+        "word": "διαφέρω",
+        "meaning": "I differ/carry apart",
+        "sentence": "Διαφέρω από εσένα."
+      },
+      {
+        "word": "συμφέρω",
+        "meaning": "I carry together/profit",
+        "sentence": "Συμφέρει να πάω."
+      }
+    ],
+    "relatedRootIds": ["root_el_dia", "root_el_syn"]
   }
 ]

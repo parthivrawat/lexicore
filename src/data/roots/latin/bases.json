@@ -466,5 +466,447 @@
       }
     ],
     "relatedRootIds": ["root_la_bi"]
+  },
+  {
+    "id": "root_la_fact",
+    "root": "fact-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "do; make",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "fakt"
+      }
+    ],
+    "examples": [
+      {
+        "word": "facere",
+        "meaning": "to do; to make",
+        "sentence": "Magister hoc facit."
+      },
+      {
+        "word": "factum",
+        "meaning": "deed; fact",
+        "sentence": "Factum bonum est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_bib",
+    "root": "bib-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "drink",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "bib"
+      }
+    ],
+    "examples": [
+      {
+        "word": "bibere",
+        "meaning": "to drink",
+        "sentence": "Puer aquam bibit."
+      },
+      {
+        "word": "pōtiō",
+        "meaning": "drink",
+        "sentence": "Pōtiō frīgida est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_ed",
+    "root": "ed-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "eat",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ed"
+      }
+    ],
+    "examples": [
+      {
+        "word": "edere",
+        "meaning": "to eat",
+        "sentence": "Homō panem edit."
+      },
+      {
+        "word": "edulis",
+        "meaning": "edible",
+        "sentence": "Frūctus edulis est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_don",
+    "root": "don-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "give",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "don"
+      }
+    ],
+    "examples": [
+      {
+        "word": "donāre",
+        "meaning": "to give",
+        "sentence": "Amīcus librum mihi donat."
+      },
+      {
+        "word": "dōnum",
+        "meaning": "gift",
+        "sentence": "Dōnum grātum est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_ced",
+    "root": "ced-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "go; yield",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ked"
+      }
+    ],
+    "examples": [
+      {
+        "word": "cedere",
+        "meaning": "to go; to yield",
+        "sentence": "Turba cedit."
+      },
+      {
+        "word": "prōcedere",
+        "meaning": "to proceed",
+        "sentence": "Iter prōcedit."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_audi",
+    "root": "audi-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "hear; listen",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "au.di"
+      }
+    ],
+    "examples": [
+      {
+        "word": "audīre",
+        "meaning": "to hear",
+        "sentence": "Agricola cantum audit."
+      },
+      {
+        "word": "audītiō",
+        "meaning": "hearing",
+        "sentence": "Audītiō difficilis est."
+      }
+    ],
+    "relatedRootIds": ["root_la_tio"]
+  },
+  {
+    "id": "root_la_ten",
+    "root": "ten-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "hold",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ten"
+      }
+    ],
+    "examples": [
+      {
+        "word": "tenēre",
+        "meaning": "to hold",
+        "sentence": "Puer lībrum tenet."
+      },
+      {
+        "word": "retinēre",
+        "meaning": "to retain",
+        "sentence": "Memoriam retinēmus."
+      }
+    ],
+    "relatedRootIds": ["root_la_re"]
+  },
+  {
+    "id": "root_la_sci",
+    "root": "sci-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "know",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ski"
+      }
+    ],
+    "examples": [
+      {
+        "word": "scīre",
+        "meaning": "to know",
+        "sentence": "Omnia scīre volō."
+      },
+      {
+        "word": "sciēns",
+        "meaning": "knowing",
+        "sentence": "Vir sciēns est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_disc",
+    "root": "disc-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "learn",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "disk"
+      }
+    ],
+    "examples": [
+      {
+        "word": "discere",
+        "meaning": "to learn",
+        "sentence": "Discipulus Graecē discit."
+      },
+      {
+        "word": "discipulus",
+        "meaning": "pupil",
+        "sentence": "Discipulus studiōsus est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_luc",
+    "root": "luc-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "light",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "luk"
+      }
+    ],
+    "examples": [
+      {
+        "word": "lūx",
+        "meaning": "light",
+        "sentence": "Lūx in tenebrīs lucet."
+      },
+      {
+        "word": "lūcēre",
+        "meaning": "to shine",
+        "sentence": "Sōl lūcet."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_am",
+    "root": "am-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "love",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "am"
+      }
+    ],
+    "examples": [
+      {
+        "word": "amāre",
+        "meaning": "to love",
+        "sentence": "Māter līberōs amat."
+      },
+      {
+        "word": "amīcus",
+        "meaning": "friend",
+        "sentence": "Amīcus meus est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_leg",
+    "root": "leg-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "read; gather",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "leg"
+      }
+    ],
+    "examples": [
+      {
+        "word": "legere",
+        "meaning": "to read",
+        "sentence": "Puer librum legit."
+      },
+      {
+        "word": "lēctiō",
+        "meaning": "reading",
+        "sentence": "Lēctiō placuit."
+      }
+    ],
+    "relatedRootIds": ["root_la_tio"]
+  },
+  {
+    "id": "root_la_loqu",
+    "root": "loqu-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "speak",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "lo.kw"
+      }
+    ],
+    "examples": [
+      {
+        "word": "loqui",
+        "meaning": "to speak",
+        "sentence": "Rōmānī Latīnē loquuntur."
+      },
+      {
+        "word": "loquentia",
+        "meaning": "speech",
+        "sentence": "Loquentia eius clāra est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_stud",
+    "root": "stud-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "study",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "stud"
+      }
+    ],
+    "examples": [
+      {
+        "word": "studēre",
+        "meaning": "to study",
+        "sentence": "Discipulus Graecē studet."
+      },
+      {
+        "word": "studium",
+        "meaning": "study; zeal",
+        "sentence": "Studium eius laudābile est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_cap",
+    "root": "cap-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "take; seize",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "kap"
+      }
+    ],
+    "examples": [
+      {
+        "word": "capere",
+        "meaning": "to take",
+        "sentence": "Mīles urbem capit."
+      },
+      {
+        "word": "captīvus",
+        "meaning": "captive",
+        "sentence": "Captīvus fugit."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_cogit",
+    "root": "cogit-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "think",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ko.git"
+      }
+    ],
+    "examples": [
+      {
+        "word": "cogitāre",
+        "meaning": "to think",
+        "sentence": "Philosophus diū cogitat."
+      },
+      {
+        "word": "cogitātiō",
+        "meaning": "thought",
+        "sentence": "Cogitātiō clāra est."
+      }
+    ],
+    "relatedRootIds": ["root_la_tio"]
+  },
+  {
+    "id": "root_la_labor",
+    "root": "labor-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "work",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "la.bor"
+      }
+    ],
+    "examples": [
+      {
+        "word": "laborāre",
+        "meaning": "to work",
+        "sentence": "Agricola in agrīs laborat."
+      },
+      {
+        "word": "labor",
+        "meaning": "work; toil",
+        "sentence": "Labor dulcis est."
+      }
+    ],
+    "relatedRootIds": []
   }
 ]

@@ -38,7 +38,7 @@
     "root": "audi",
     "type": "base",
     "languageOrigin": "Latin",
-    "meaning": "hear",
+    "meaning": "hear; listen",
     "pronunciationVariants": [
       {
         "accent": "american",
@@ -2888,5 +2888,311 @@
       }
     ],
     "relatedRootIds": []
+  },
+  {
+    "id": "root_ed",
+    "root": "ed",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "eat",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɛd"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɛd"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɛd"
+      }
+    ],
+    "examples": [
+      {
+        "word": "edible",
+        "meaning": "able to be eaten",
+        "sentence": "The berries are edible."
+      },
+      {
+        "word": "inedible",
+        "meaning": "not able to be eaten",
+        "sentence": "The fruit was inedible."
+      }
+    ],
+    "relatedRootIds": ["root_ible", "root_in"]
+  },
+  {
+    "id": "root_bib",
+    "root": "bib",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "drink",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "bɪb"
+      },
+      {
+        "accent": "british",
+        "ipa": "bɪb"
+      },
+      {
+        "accent": "australian",
+        "ipa": "bɪb"
+      }
+    ],
+    "examples": [
+      {
+        "word": "imbibe",
+        "meaning": "drink in",
+        "sentence": "They imbibe knowledge."
+      },
+      {
+        "word": "beverage",
+        "meaning": "drink",
+        "sentence": "The beverage was cold."
+      }
+    ],
+    "relatedRootIds": ["root_im", "root_age"]
+  },
+  {
+    "id": "root_leg",
+    "root": "leg",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "read; gather",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "lɛɡ"
+      },
+      {
+        "accent": "british",
+        "ipa": "lɛɡ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "lɛɡ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "legible",
+        "meaning": "readable",
+        "sentence": "Her handwriting is legible."
+      },
+      {
+        "word": "lecture",
+        "meaning": "reading; discourse",
+        "sentence": "The lecture was interesting."
+      }
+    ],
+    "relatedRootIds": ["root_ible", "root_ion"]
+  },
+  {
+    "id": "root_don",
+    "root": "don",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "give",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "doʊn"
+      },
+      {
+        "accent": "british",
+        "ipa": "doʊn"
+      },
+      {
+        "accent": "australian",
+        "ipa": "doʊn"
+      }
+    ],
+    "examples": [
+      {
+        "word": "donate",
+        "meaning": "give",
+        "sentence": "They donate to charity."
+      },
+      {
+        "word": "donor",
+        "meaning": "giver",
+        "sentence": "The donor was generous."
+      }
+    ],
+    "relatedRootIds": ["root_or", "root_ate"]
+  },
+  {
+    "id": "root_sci",
+    "root": "sci",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "know",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "saɪ"
+      },
+      {
+        "accent": "british",
+        "ipa": "saɪ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "saɪ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "science",
+        "meaning": "knowledge",
+        "sentence": "Science explains the world."
+      },
+      {
+        "word": "conscientious",
+        "meaning": "knowing right from wrong",
+        "sentence": "She is conscientious."
+      }
+    ],
+    "relatedRootIds": ["root_ence", "root_ious"]
+  },
+  {
+    "id": "root_cogit",
+    "root": "cogit",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "think",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈkɒdʒɪt"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈkɒdʒɪt"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈkɒdʒɪt"
+      }
+    ],
+    "examples": [
+      {
+        "word": "cogitate",
+        "meaning": "think carefully",
+        "sentence": "He cogitates before acting."
+      },
+      {
+        "word": "cogitation",
+        "meaning": "thinking",
+        "sentence": "Cogitation leads to clarity."
+      }
+    ],
+    "relatedRootIds": ["root_ate", "root_ation"]
+  },
+  {
+    "id": "root_cap",
+    "root": "cap",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "take; seize",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "kæp"
+      },
+      {
+        "accent": "british",
+        "ipa": "kæp"
+      },
+      {
+        "accent": "australian",
+        "ipa": "kæp"
+      }
+    ],
+    "examples": [
+      {
+        "word": "capture",
+        "meaning": "take; seize",
+        "sentence": "The police capture the thief."
+      },
+      {
+        "word": "capable",
+        "meaning": "able to take; able",
+        "sentence": "She is capable."
+      }
+    ],
+    "relatedRootIds": ["root_able", "root_ity", "root_ive"]
+  },
+  {
+    "id": "root_labor",
+    "root": "labor",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "work",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈleɪbər"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈleɪbər"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈleɪbər"
+      }
+    ],
+    "examples": [
+      {
+        "word": "laboratory",
+        "meaning": "place of work",
+        "sentence": "The laboratory is well equipped."
+      },
+      {
+        "word": "laborious",
+        "meaning": "hard-working; difficult",
+        "sentence": "The task was laborious."
+      }
+    ],
+    "relatedRootIds": ["root_ory", "root_ious"]
+  },
+  {
+    "id": "root_stud",
+    "root": "stud",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "study; learn",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "stʌd"
+      },
+      {
+        "accent": "british",
+        "ipa": "stʌd"
+      },
+      {
+        "accent": "australian",
+        "ipa": "stʌd"
+      }
+    ],
+    "examples": [
+      {
+        "word": "study",
+        "meaning": "learn",
+        "sentence": "They study every day."
+      },
+      {
+        "word": "studious",
+        "meaning": "fond of study",
+        "sentence": "He is a studious student."
+      }
+    ],
+    "relatedRootIds": ["root_ious", "root_y"]
   }
 ]

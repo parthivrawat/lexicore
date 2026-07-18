@@ -1,0 +1,258 @@
+[
+  {
+    "id": "tr_suffix_lik",
+    "root": "-lık",
+    "type": "suffix",
+    "languageOrigin": "Turkic",
+    "meaning": "state; place; -ness",
+    "examples": [
+      {
+        "word": "mutluluk",
+        "meaning": "happiness",
+        "sentence": "Mutluluk önemli."
+      },
+      {
+        "word": "güzellik",
+        "meaning": "beauty",
+        "sentence": "Güzellik dikkat çekti."
+      },
+      {
+        "word": "büyüklük",
+        "meaning": "size",
+        "sentence": "Büyüklük şaşırtıcı."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ɫɯk/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "lik"
+      }
+    ]
+  },
+  {
+    "id": "tr_suffix_ci",
+    "root": "-cı",
+    "type": "suffix",
+    "languageOrigin": "Turkic",
+    "meaning": "agent; maker; professional",
+    "examples": [
+      {
+        "word": "yazıcı",
+        "meaning": "printer; writer",
+        "sentence": "Yazıcı çalışmıyor."
+      },
+      {
+        "word": "okuyucu",
+        "meaning": "reader",
+        "sentence": "Sadık bir okuyucu."
+      },
+      {
+        "word": "satıcı",
+        "meaning": "seller",
+        "sentence": "Satıcı çok yardımcıydı."
+      }
+    ],
+    "relatedRootIds": ["tr_base_yaz", "tr_base_oku"],
+    "pronunciationIpa": "/dʒɯ/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ci"
+      }
+    ]
+  },
+  {
+    "id": "tr_suffix_siz",
+    "root": "-sız",
+    "type": "suffix",
+    "languageOrigin": "Turkic",
+    "meaning": "without; -less",
+    "examples": [
+      {
+        "word": "mutsuz",
+        "meaning": "unhappy",
+        "sentence": "Mutsuz görünüyor."
+      },
+      {
+        "word": "suçsuz",
+        "meaning": "innocent",
+        "sentence": "Suçsuz olduğu anlaşıldı."
+      },
+      {
+        "word": "parasız",
+        "meaning": "without money",
+        "sentence": "Parasız kaldım."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/sɯz/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "siz"
+      }
+    ]
+  },
+  {
+    "id": "tr_suffix_li",
+    "root": "-li",
+    "type": "suffix",
+    "languageOrigin": "Turkic",
+    "meaning": "with; possessing",
+    "examples": [
+      {
+        "word": "mutlu",
+        "meaning": "happy",
+        "sentence": "Mutlu bir gün."
+      },
+      {
+        "word": "paralı",
+        "meaning": "paid; with money",
+        "sentence": "Paralı yol."
+      },
+      {
+        "word": "hızlı",
+        "meaning": "fast",
+        "sentence": "Tren çok hızlı."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/li/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "li"
+      }
+    ]
+  },
+  {
+    "id": "tr_suffix_mek",
+    "root": "-mek",
+    "type": "suffix",
+    "languageOrigin": "Turkic",
+    "meaning": "infinitive",
+    "examples": [
+      {
+        "word": "yapmak",
+        "meaning": "to do",
+        "sentence": "Her gün spor yapıyorum."
+      },
+      {
+        "word": "okumak",
+        "meaning": "to read",
+        "sentence": "Kitap okuyorum."
+      },
+      {
+        "word": "gelmek",
+        "meaning": "to come",
+        "sentence": "Yarın geliyorum."
+      }
+    ],
+    "relatedRootIds": ["tr_base_yap", "tr_base_oku", "tr_base_gel"],
+    "pronunciationIpa": "/mec/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "mek"
+      }
+    ]
+  },
+  {
+    "id": "tr_suffix_ma",
+    "root": "-ma",
+    "type": "suffix",
+    "languageOrigin": "Turkic",
+    "meaning": "gerund; verbal noun",
+    "examples": [
+      {
+        "word": "yapma",
+        "meaning": "doing; do not",
+        "sentence": "Yapma, lütfen."
+      },
+      {
+        "word": "okuma",
+        "meaning": "reading; do not read",
+        "sentence": "Okuma çok önemli."
+      },
+      {
+        "word": "gelme",
+        "meaning": "coming; do not come",
+        "sentence": "Gelme zamanı değil."
+      }
+    ],
+    "relatedRootIds": ["tr_base_yap", "tr_base_oku", "tr_base_gel"],
+    "pronunciationIpa": "/ma/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ma"
+      }
+    ]
+  },
+  {
+    "id": "tr_suffix_en",
+    "root": "-en",
+    "type": "suffix",
+    "languageOrigin": "Turkic",
+    "meaning": "present participle",
+    "examples": [
+      {
+        "word": "yapan",
+        "meaning": "one who does",
+        "sentence": "İşi yapan kim?"
+      },
+      {
+        "word": "okuyan",
+        "meaning": "reader; one who reads",
+        "sentence": "Okuyan kazanır."
+      },
+      {
+        "word": "gelen",
+        "meaning": "coming",
+        "sentence": "Gelen haber sevindirici."
+      }
+    ],
+    "relatedRootIds": ["tr_base_yap", "tr_base_oku", "tr_base_gel"],
+    "pronunciationIpa": "/en/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "en"
+      }
+    ]
+  },
+  {
+    "id": "tr_suffix_ecek",
+    "root": "-ecek",
+    "type": "suffix",
+    "languageOrigin": "Turkic",
+    "meaning": "future participle",
+    "examples": [
+      {
+        "word": "yapacak",
+        "meaning": "will do",
+        "sentence": "Yarın yapacak."
+      },
+      {
+        "word": "okuyacak",
+        "meaning": "will read",
+        "sentence": "Kitabı okuyacak."
+      },
+      {
+        "word": "gelecek",
+        "meaning": "future; will come",
+        "sentence": "Gelecek parlak."
+      }
+    ],
+    "relatedRootIds": ["tr_base_yap", "tr_base_oku", "tr_base_gel"],
+    "pronunciationIpa": "/edʒek/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ecek"
+      }
+    ]
+  }
+]

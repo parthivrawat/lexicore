@@ -1,0 +1,290 @@
+[
+  {
+    "id": "id_prefix_me",
+    "root": "me-",
+    "type": "prefix",
+    "languageOrigin": "Indonesian",
+    "meaning": "active/transitive verb marker",
+    "examples": [
+      {
+        "word": "menulis",
+        "meaning": "to write",
+        "sentence": "Saya sedang menulis surat."
+      },
+      {
+        "word": "membaca",
+        "meaning": "to read",
+        "sentence": "Dia membaca buku."
+      },
+      {
+        "word": "melihat",
+        "meaning": "to see",
+        "sentence": "Kami melihat pelangi."
+      }
+    ],
+    "relatedRootIds": ["id_base_tulis", "id_base_baca", "id_base_lihat"],
+    "pronunciationIpa": "/mə/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "me"
+      }
+    ]
+  },
+  {
+    "id": "id_prefix_ber",
+    "root": "ber-",
+    "type": "prefix",
+    "languageOrigin": "Indonesian",
+    "meaning": "intransitive; state; having",
+    "examples": [
+      {
+        "word": "berjalan",
+        "meaning": "to walk",
+        "sentence": "Anak itu berjalan ke sekolah."
+      },
+      {
+        "word": "bermain",
+        "meaning": "to play",
+        "sentence": "Mereka bermain di taman."
+      },
+      {
+        "word": "bekerja",
+        "meaning": "to work",
+        "sentence": "Dia bekerja di kantor."
+      }
+    ],
+    "relatedRootIds": ["id_base_jalan", "id_base_main", "id_base_kerja"],
+    "pronunciationIpa": "/bər/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "ber"
+      }
+    ]
+  },
+  {
+    "id": "id_prefix_di",
+    "root": "di-",
+    "type": "prefix",
+    "languageOrigin": "Indonesian",
+    "meaning": "passive voice marker",
+    "examples": [
+      {
+        "word": "dibaca",
+        "meaning": "read (passive)",
+        "sentence": "Buku itu dibaca oleh siswa."
+      },
+      {
+        "word": "ditulis",
+        "meaning": "written",
+        "sentence": "Surat itu ditulis dengan tangan."
+      },
+      {
+        "word": "dilihat",
+        "meaning": "seen",
+        "sentence": "Mobil itu dilihat semua orang."
+      }
+    ],
+    "relatedRootIds": ["id_base_baca", "id_base_tulis", "id_base_lihat"],
+    "pronunciationIpa": "/di/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "di"
+      }
+    ]
+  },
+  {
+    "id": "id_prefix_ter",
+    "root": "ter-",
+    "type": "prefix",
+    "languageOrigin": "Indonesian",
+    "meaning": "accidental; superlative; stative",
+    "examples": [
+      {
+        "word": "terbaca",
+        "meaning": "readable; accidentally read",
+        "sentence": "Surat itu terbaca dengan jelas."
+      },
+      {
+        "word": "tertulis",
+        "meaning": "written; inscribed",
+        "sentence": "Nama itu tertulis di dinding."
+      },
+      {
+        "word": "terlihat",
+        "meaning": "visible",
+        "sentence": "Dia terlihat bahagia."
+      }
+    ],
+    "relatedRootIds": ["id_base_baca", "id_base_tulis", "id_base_lihat"],
+    "pronunciationIpa": "/tər/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "ter"
+      }
+    ]
+  },
+  {
+    "id": "id_prefix_pe",
+    "root": "pe-",
+    "type": "prefix",
+    "languageOrigin": "Indonesian",
+    "meaning": "agent; person/thing that does X",
+    "examples": [
+      {
+        "word": "penulis",
+        "meaning": "writer",
+        "sentence": "Penulis itu terkenal."
+      },
+      {
+        "word": "pembaca",
+        "meaning": "reader",
+        "sentence": "Pembaca teladan mendapat hadiah."
+      },
+      {
+        "word": "pemain",
+        "meaning": "player",
+        "sentence": "Pemain itu hebat."
+      }
+    ],
+    "relatedRootIds": ["id_base_tulis", "id_base_baca", "id_base_main"],
+    "pronunciationIpa": "/pə/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "pe"
+      }
+    ]
+  },
+  {
+    "id": "id_prefix_per",
+    "root": "per-",
+    "type": "prefix",
+    "languageOrigin": "Indonesian",
+    "meaning": "intensify; causative",
+    "examples": [
+      {
+        "word": "perbaiki",
+        "meaning": "to repair",
+        "sentence": "Dia perbaiki kerusakan ini."
+      },
+      {
+        "word": "perbesar",
+        "meaning": "to enlarge",
+        "sentence": "Silakan perbesar gambar itu."
+      },
+      {
+        "word": "perkecil",
+        "meaning": "to reduce",
+        "sentence": "Kita perkecil suaranya."
+      }
+    ],
+    "relatedRootIds": ["id_base_baik", "id_base_besar", "id_base_kecil", "id_prefix_memper"],
+    "pronunciationIpa": "/pər/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "per"
+      }
+    ]
+  },
+  {
+    "id": "id_prefix_memper",
+    "root": "memper-",
+    "type": "prefix",
+    "languageOrigin": "Indonesian",
+    "meaning": "intensify; causative (with me-)",
+    "examples": [
+      {
+        "word": "memperbaiki",
+        "meaning": "to repair thoroughly",
+        "sentence": "Dia memperbaiki mesin itu."
+      },
+      {
+        "word": "memperlihatkan",
+        "meaning": "to show",
+        "sentence": "Saya memperlihatkan buku baru."
+      },
+      {
+        "word": "memperbanyak",
+        "meaning": "to increase",
+        "sentence": "Kita memperbanyak latihan."
+      }
+    ],
+    "relatedRootIds": ["id_base_baik", "id_base_lihat", "id_base_banyak", "id_prefix_per"],
+    "pronunciationIpa": "/məmˈpər/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "mem-per"
+      }
+    ]
+  },
+  {
+    "id": "id_prefix_se",
+    "root": "se-",
+    "type": "prefix",
+    "languageOrigin": "Indonesian",
+    "meaning": "one; as X as; equal",
+    "examples": [
+      {
+        "word": "sebesar",
+        "meaning": "as big as",
+        "sentence": "Ukuran ini sebesar itu."
+      },
+      {
+        "word": "sekecil",
+        "meaning": "as small as",
+        "sentence": "Kotak sekecil telapak tangan."
+      },
+      {
+        "word": "sebanyak",
+        "meaning": "as many as",
+        "sentence": "Ada sebanyak itu orang."
+      }
+    ],
+    "relatedRootIds": ["id_base_besar", "id_base_kecil", "id_base_banyak"],
+    "pronunciationIpa": "/sə/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "se"
+      }
+    ]
+  },
+  {
+    "id": "id_prefix_pra",
+    "root": "pra-",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "pre-; before",
+    "examples": [
+      {
+        "word": "prasejarah",
+        "meaning": "prehistoric",
+        "sentence": "Zaman prasejarah sangat menarik."
+      },
+      {
+        "word": "prasekolah",
+        "meaning": "preschool",
+        "sentence": "Anak itu masih prasekolah."
+      },
+      {
+        "word": "pramuka",
+        "meaning": "scout",
+        "sentence": "Pramuka berkemah setiap tahun."
+      }
+    ],
+    "relatedRootIds": ["id_base_sejarah", "id_base_sekolah", "id_base_muka"],
+    "pronunciationIpa": "/pra/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "pra"
+      }
+    ]
+  }
+]

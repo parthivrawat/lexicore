@@ -1,0 +1,683 @@
+[
+  {
+    "id": "yue_base_sik6",
+    "root": "食",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "eat",
+    "examples": [
+      {
+        "word": "食飯",
+        "meaning": "eat rice/meal",
+        "sentence": "我食飯。"
+      },
+      {
+        "word": "食物",
+        "meaning": "food",
+        "sentence": "呢啲食物好食。"
+      },
+      {
+        "word": "食嘢",
+        "meaning": "eat things",
+        "sentence": "佢喺度食嘢。"
+      }
+    ],
+    "relatedRootIds": [
+      "yue_prefix_m4",
+      "yue_prefix_hou2",
+      "yue_prefix_zoi3",
+      "yue_suffix_zo2",
+      "yue_suffix_gan2",
+      "yue_suffix_gwo3",
+      "yue_suffix_dak1",
+      "yue_suffix_saai3"
+    ],
+    "pronunciationIpa": "/sik/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "sik6"
+      }
+    ]
+  },
+  {
+    "id": "yue_base_jam2",
+    "root": "飲",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "drink",
+    "examples": [
+      {
+        "word": "飲水",
+        "meaning": "drink water",
+        "sentence": "我飲水。"
+      },
+      {
+        "word": "飲茶",
+        "meaning": "drink tea",
+        "sentence": "我飲茶。"
+      },
+      {
+        "word": "飲品",
+        "meaning": "beverage",
+        "sentence": "呢啲飲品凍。"
+      }
+    ],
+    "relatedRootIds": ["yue_prefix_m4", "yue_suffix_saai3"],
+    "pronunciationIpa": "/jam/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "jam2"
+      }
+    ]
+  },
+  {
+    "id": "yue_base_heoi3",
+    "root": "去",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "go",
+    "examples": [
+      {
+        "word": "去街",
+        "meaning": "go out",
+        "sentence": "我去街。"
+      },
+      {
+        "word": "去學校",
+        "meaning": "go to school",
+        "sentence": "佢去學校。"
+      },
+      {
+        "word": "過去",
+        "meaning": "go over; past",
+        "sentence": "過去嗰邊。"
+      }
+    ],
+    "relatedRootIds": ["yue_prefix_m4", "yue_suffix_zo2", "yue_suffix_gwo3"],
+    "pronunciationIpa": "/heoi/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "heoi3"
+      }
+    ]
+  },
+  {
+    "id": "yue_base_lai4",
+    "root": "嚟",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "come",
+    "examples": [
+      {
+        "word": "嚟呢度",
+        "meaning": "come here",
+        "sentence": "你嚟呢度。"
+      },
+      {
+        "word": "過嚟",
+        "meaning": "come over",
+        "sentence": "過嚟啦。"
+      },
+      {
+        "word": "嚟緊",
+        "meaning": "coming",
+        "sentence": "佢嚟緊。"
+      }
+    ],
+    "relatedRootIds": ["yue_prefix_zoi3", "yue_suffix_gan2"],
+    "pronunciationIpa": "/lai/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "lai4"
+      }
+    ]
+  },
+  {
+    "id": "yue_base_zou6",
+    "root": "做",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "do; make",
+    "examples": [
+      {
+        "word": "做嘢",
+        "meaning": "work",
+        "sentence": "我做多嘢。"
+      },
+      {
+        "word": "做飯",
+        "meaning": "cook",
+        "sentence": "佢做飯。"
+      },
+      {
+        "word": "做戲",
+        "meaning": "act",
+        "sentence": "佢做戲好勁。"
+      }
+    ],
+    "relatedRootIds": ["yue_suffix_zo2", "yue_suffix_gan2", "yue_suffix_dak1", "yue_suffix_saai3"],
+    "pronunciationIpa": "/zou/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "zou6"
+      }
+    ]
+  },
+  {
+    "id": "yue_base_se2",
+    "root": "寫",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "write",
+    "examples": [
+      {
+        "word": "寫字",
+        "meaning": "write characters",
+        "sentence": "我寫字。"
+      },
+      {
+        "word": "寫信",
+        "meaning": "write letter",
+        "sentence": "佢寫信畀我。"
+      },
+      {
+        "word": "寫作",
+        "meaning": "writing",
+        "sentence": "寫作好難。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/se/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "se2"
+      }
+    ]
+  },
+  {
+    "id": "yue_base_duk6",
+    "root": "讀",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "read",
+    "examples": [
+      {
+        "word": "讀書",
+        "meaning": "study; read",
+        "sentence": "我讀書。"
+      },
+      {
+        "word": "讀報",
+        "meaning": "read newspaper",
+        "sentence": "佢讀報。"
+      },
+      {
+        "word": "朗讀",
+        "meaning": "read aloud",
+        "sentence": "佢朗讀得好。"
+      }
+    ],
+    "relatedRootIds": ["yue_prefix_m4"],
+    "pronunciationIpa": "/duk/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "duk6"
+      }
+    ]
+  },
+  {
+    "id": "yue_base_tai2",
+    "root": "睇",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "see; watch",
+    "examples": [
+      {
+        "word": "睇戲",
+        "meaning": "watch movie",
+        "sentence": "我睇戲。"
+      },
+      {
+        "word": "睇書",
+        "meaning": "read",
+        "sentence": "佢睇書。"
+      },
+      {
+        "word": "睇到",
+        "meaning": "see",
+        "sentence": "我睇到你。"
+      }
+    ],
+    "relatedRootIds": ["yue_prefix_hou2", "yue_suffix_gan2"],
+    "pronunciationIpa": "/tai/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "tai2"
+      }
+    ]
+  },
+  {
+    "id": "yue_base_teng1",
+    "root": "聽",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "hear; listen",
+    "examples": [
+      {
+        "word": "聽歌",
+        "meaning": "listen to song",
+        "sentence": "我聽歌。"
+      },
+      {
+        "word": "聽講",
+        "meaning": "hear that",
+        "sentence": "聽講佢嚟緊。"
+      },
+      {
+        "word": "聽到",
+        "meaning": "hear",
+        "sentence": "我聽到聲。"
+      }
+    ],
+    "relatedRootIds": ["yue_prefix_hou2"],
+    "pronunciationIpa": "/teng/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "teng1"
+      }
+    ]
+  },
+  {
+    "id": "yue_base_gong2",
+    "root": "講",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "speak; say",
+    "examples": [
+      {
+        "word": "講嘢",
+        "meaning": "speak",
+        "sentence": "我講嘢。"
+      },
+      {
+        "word": "講廣東話",
+        "meaning": "speak Cantonese",
+        "sentence": "我講廣東話。"
+      },
+      {
+        "word": "講故事",
+        "meaning": "tell story",
+        "sentence": "佢講故事畀我聽。"
+      }
+    ],
+    "relatedRootIds": ["yue_suffix_dak1"],
+    "pronunciationIpa": "/gong/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "gong2"
+      }
+    ]
+  },
+  {
+    "id": "yue_base_nam2",
+    "root": "諗",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "think",
+    "examples": [
+      {
+        "word": "諗嘢",
+        "meaning": "think",
+        "sentence": "我諗緊嘢。"
+      },
+      {
+        "word": "諗住",
+        "meaning": "intend",
+        "sentence": "我諗住去旅行。"
+      },
+      {
+        "word": "諗法",
+        "meaning": "idea",
+        "sentence": "呢個諗法唔錯。"
+      }
+    ],
+    "relatedRootIds": ["yue_suffix_zyu6"],
+    "pronunciationIpa": "/nam/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "nam2"
+      }
+    ]
+  },
+  {
+    "id": "yue_base_lo2",
+    "root": "攞",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "take",
+    "examples": [
+      {
+        "word": "攞錢",
+        "meaning": "take money",
+        "sentence": "我攞錢。"
+      },
+      {
+        "word": "攞走",
+        "meaning": "take away",
+        "sentence": "佢攞走咗。"
+      },
+      {
+        "word": "攞嚟",
+        "meaning": "bring",
+        "sentence": "攞嚟呢度。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/lo/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "lo2"
+      }
+    ]
+  },
+  {
+    "id": "yue_base_bei2",
+    "root": "俾",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "give",
+    "examples": [
+      {
+        "word": "俾錢",
+        "meaning": "give money",
+        "sentence": "我俾錢。"
+      },
+      {
+        "word": "俾我",
+        "meaning": "give me",
+        "sentence": "俾我啦。"
+      },
+      {
+        "word": "俾晒",
+        "meaning": "give all",
+        "sentence": "我俾晒喇。"
+      }
+    ],
+    "relatedRootIds": ["yue_suffix_saai3"],
+    "pronunciationIpa": "/bei/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "bei2"
+      }
+    ]
+  },
+  {
+    "id": "yue_base_zaa1",
+    "root": "揸",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "hold; grasp",
+    "examples": [
+      {
+        "word": "揸住",
+        "meaning": "holding",
+        "sentence": "我揸住把遮。"
+      },
+      {
+        "word": "揸車",
+        "meaning": "drive; hold the wheel",
+        "sentence": "佢揸車。"
+      },
+      {
+        "word": "揸遮",
+        "meaning": "hold an umbrella",
+        "sentence": "我揸遮。"
+      }
+    ],
+    "relatedRootIds": ["yue_suffix_zyu6"],
+    "pronunciationIpa": "/zaa/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "zaa1"
+      }
+    ]
+  },
+  {
+    "id": "yue_base_sik1",
+    "root": "識",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "know",
+    "examples": [
+      {
+        "word": "識字",
+        "meaning": "literate; know characters",
+        "sentence": "佢識字。"
+      },
+      {
+        "word": "識得",
+        "meaning": "know how",
+        "sentence": "我識得做。"
+      },
+      {
+        "word": "識做",
+        "meaning": "know how to behave",
+        "sentence": "佢好識做。"
+      }
+    ],
+    "relatedRootIds": ["yue_suffix_dak1"],
+    "pronunciationIpa": "/sik/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "sik1"
+      }
+    ]
+  },
+  {
+    "id": "yue_base_gwong1",
+    "root": "光",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "light",
+    "examples": [
+      {
+        "word": "光線",
+        "meaning": "light ray",
+        "sentence": "光線充足。"
+      },
+      {
+        "word": "光明",
+        "meaning": "bright",
+        "sentence": "前途光明。"
+      },
+      {
+        "word": "光管",
+        "meaning": "fluorescent tube",
+        "sentence": "光管壞咗。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/gwong/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "gwong1"
+      }
+    ]
+  },
+  {
+    "id": "yue_base_oi3",
+    "root": "愛",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "love",
+    "examples": [
+      {
+        "word": "愛人",
+        "meaning": "lover",
+        "sentence": "我愛人。"
+      },
+      {
+        "word": "愛心",
+        "meaning": "love; kindness",
+        "sentence": "佢有愛心。"
+      },
+      {
+        "word": "愛戴",
+        "meaning": "love and respect",
+        "sentence": "人人愛戴佢。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/oi/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "oi3"
+      }
+    ]
+  },
+  {
+    "id": "yue_base_hok6",
+    "root": "學",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "study; learn",
+    "examples": [
+      {
+        "word": "學校",
+        "meaning": "school",
+        "sentence": "我去學校。"
+      },
+      {
+        "word": "學生",
+        "meaning": "student",
+        "sentence": "佢係學生。"
+      },
+      {
+        "word": "學嘢",
+        "meaning": "learn things",
+        "sentence": "我學緊嘢。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/hok/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "hok6"
+      }
+    ]
+  },
+  {
+    "id": "yue_base_seoi2",
+    "root": "水",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "water",
+    "examples": [
+      {
+        "word": "水果",
+        "meaning": "fruit",
+        "sentence": "我食水果。"
+      },
+      {
+        "word": "水平",
+        "meaning": "level",
+        "sentence": "水平高。"
+      },
+      {
+        "word": "水浸",
+        "meaning": "flooded",
+        "sentence": "街水浸。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/seoi/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "seoi2"
+      }
+    ]
+  },
+  {
+    "id": "yue_base_gung1",
+    "root": "工",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "work",
+    "examples": [
+      {
+        "word": "工作",
+        "meaning": "work",
+        "sentence": "我要工作。"
+      },
+      {
+        "word": "工人",
+        "meaning": "worker",
+        "sentence": "工人勤力。"
+      },
+      {
+        "word": "工廠",
+        "meaning": "factory",
+        "sentence": "工廠大。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/gung/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "gung1"
+      }
+    ]
+  },
+  {
+    "id": "yue_base_bun1",
+    "root": "搬",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "carry; move",
+    "examples": [
+      {
+        "word": "搬屋",
+        "meaning": "move house",
+        "sentence": "我哋搬屋。"
+      },
+      {
+        "word": "搬運",
+        "meaning": "transport; carry",
+        "sentence": "搬運貨物。"
+      },
+      {
+        "word": "搬行李",
+        "meaning": "carry luggage",
+        "sentence": "我幫你搬行李。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/bun/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "bun1"
+      }
+    ]
+  }
+]

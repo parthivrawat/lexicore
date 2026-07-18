@@ -1,0 +1,258 @@
+[
+  {
+    "id": "vi_suffix_a",
+    "root": "ạ",
+    "type": "suffix",
+    "languageOrigin": "Vietnamese",
+    "meaning": "polite final particle",
+    "examples": [
+      {
+        "word": "vâng ạ",
+        "meaning": "yes (polite)",
+        "sentence": "Vâng ạ."
+      },
+      {
+        "word": "có phải không ạ",
+        "meaning": "is it, ma’am/sir?",
+        "sentence": "Có phải không ạ?"
+      },
+      {
+        "word": "cảm ơn ạ",
+        "meaning": "thank you (polite)",
+        "sentence": "Cảm ơn ạ."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/a/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "a"
+      }
+    ]
+  },
+  {
+    "id": "vi_suffix_nhe",
+    "root": "nhé",
+    "type": "suffix",
+    "languageOrigin": "Vietnamese",
+    "meaning": "softener; request",
+    "examples": [
+      {
+        "word": "đi nhé",
+        "meaning": "let’s go",
+        "sentence": "Đi nhé."
+      },
+      {
+        "word": "nghe nhé",
+        "meaning": "listen",
+        "sentence": "Nghe nhé."
+      },
+      {
+        "word": "nhớ nhé",
+        "meaning": "remember",
+        "sentence": "Nhớ nhé."
+      }
+    ],
+    "relatedRootIds": ["vi_base_di", "vi_base_nghe"],
+    "pronunciationIpa": "/ɲe/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "nhe"
+      }
+    ]
+  },
+  {
+    "id": "vi_suffix_nhi",
+    "root": "nhỉ",
+    "type": "suffix",
+    "languageOrigin": "Vietnamese",
+    "meaning": "tag question",
+    "examples": [
+      {
+        "word": "đúng nhỉ",
+        "meaning": "right?",
+        "sentence": "Đúng nhỉ."
+      },
+      {
+        "word": "hay nhỉ",
+        "meaning": "interesting, right?",
+        "sentence": "Hay nhỉ."
+      },
+      {
+        "word": "đẹp nhỉ",
+        "meaning": "pretty, right?",
+        "sentence": "Đẹp nhỉ."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ɲi/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "nhi"
+      }
+    ]
+  },
+  {
+    "id": "vi_suffix_ma",
+    "root": "mà",
+    "type": "suffix",
+    "languageOrigin": "Vietnamese",
+    "meaning": "but; and",
+    "examples": [
+      {
+        "word": "đi mà",
+        "meaning": "go, but",
+        "sentence": "Đi mà."
+      },
+      {
+        "word": "nói mà",
+        "meaning": "speak but",
+        "sentence": "Nói mà không nghe."
+      },
+      {
+        "word": "làm mà",
+        "meaning": "do but",
+        "sentence": "Làm mà không xong."
+      }
+    ],
+    "relatedRootIds": ["vi_base_di", "vi_base_noi", "vi_base_lam"],
+    "pronunciationIpa": "/ma/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ma"
+      }
+    ]
+  },
+  {
+    "id": "vi_suffix_di",
+    "root": "đi",
+    "type": "suffix",
+    "languageOrigin": "Vietnamese",
+    "meaning": "imperative; away",
+    "examples": [
+      {
+        "word": "đi đi",
+        "meaning": "go!",
+        "sentence": "Đi đi!"
+      },
+      {
+        "word": "ăn đi",
+        "meaning": "eat!",
+        "sentence": "Ăn đi!"
+      },
+      {
+        "word": "nói đi",
+        "meaning": "speak!",
+        "sentence": "Nói đi!"
+      }
+    ],
+    "relatedRootIds": ["vi_base_di", "vi_base_an", "vi_base_noi"],
+    "pronunciationIpa": "/ɗi/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "di"
+      }
+    ]
+  },
+  {
+    "id": "vi_suffix_duoc2",
+    "root": "được",
+    "type": "suffix",
+    "languageOrigin": "Vietnamese",
+    "meaning": "can; potential",
+    "examples": [
+      {
+        "word": "ăn được",
+        "meaning": "can eat",
+        "sentence": "Tôi ăn được."
+      },
+      {
+        "word": "làm được",
+        "meaning": "can do",
+        "sentence": "Tôi làm được."
+      },
+      {
+        "word": "nói được",
+        "meaning": "can speak",
+        "sentence": "Anh ấy nói được."
+      }
+    ],
+    "relatedRootIds": ["vi_base_an", "vi_base_lam", "vi_base_noi"],
+    "pronunciationIpa": "/ɗɨək/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "duoc"
+      }
+    ]
+  },
+  {
+    "id": "vi_suffix_ra",
+    "root": "ra",
+    "type": "suffix",
+    "languageOrigin": "Vietnamese",
+    "meaning": "out",
+    "examples": [
+      {
+        "word": "đi ra",
+        "meaning": "go out",
+        "sentence": "Đi ra!"
+      },
+      {
+        "word": "nhìn ra",
+        "meaning": "look out",
+        "sentence": "Nhìn ra cửa sổ."
+      },
+      {
+        "word": "lấy ra",
+        "meaning": "take out",
+        "sentence": "Lấy ra đi."
+      }
+    ],
+    "relatedRootIds": ["vi_base_di", "vi_base_nhin", "vi_base_lay"],
+    "pronunciationIpa": "/za/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ra"
+      }
+    ]
+  },
+  {
+    "id": "vi_suffix_vao",
+    "root": "vào",
+    "type": "suffix",
+    "languageOrigin": "Vietnamese",
+    "meaning": "in",
+    "examples": [
+      {
+        "word": "đi vào",
+        "meaning": "go in",
+        "sentence": "Đi vào!"
+      },
+      {
+        "word": "nhìn vào",
+        "meaning": "look into",
+        "sentence": "Nhìn vào gương."
+      },
+      {
+        "word": "cho vào",
+        "meaning": "put in",
+        "sentence": "Cho vào hộp."
+      }
+    ],
+    "relatedRootIds": ["vi_base_di", "vi_base_nhin"],
+    "pronunciationIpa": "/vaw/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "vao"
+      }
+    ]
+  }
+]

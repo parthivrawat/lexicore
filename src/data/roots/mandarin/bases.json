@@ -1,0 +1,1058 @@
+[
+  {
+    "id": "zh_base_ren",
+    "root": "人",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "person; human",
+    "examples": [
+      {
+        "word": "人们",
+        "meaning": "people",
+        "sentence": "人们在广场上跳舞。"
+      },
+      {
+        "word": "中国人",
+        "meaning": "Chinese person",
+        "sentence": "他是一个中国人。"
+      },
+      {
+        "word": "男人",
+        "meaning": "man",
+        "sentence": "那个男人是我的爸爸。"
+      }
+    ],
+    "relatedRootIds": ["zh_suffix_men", "zh_suffix_jia"],
+    "pronunciationIpa": "/ʐən³⁵/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ren2"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_shui",
+    "root": "水",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "water",
+    "examples": [
+      {
+        "word": "水果",
+        "meaning": "fruit",
+        "sentence": "我喜欢吃水果。"
+      },
+      {
+        "word": "水平",
+        "meaning": "level; standard",
+        "sentence": "他的水平很高。"
+      },
+      {
+        "word": "喝水",
+        "meaning": "drink water",
+        "sentence": "请多喝水。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_tu"],
+    "pronunciationIpa": "/ʂweɪ̯²¹⁴/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "shui3"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_huo",
+    "root": "火",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "fire",
+    "examples": [
+      {
+        "word": "火车",
+        "meaning": "train",
+        "sentence": "火车来了。"
+      },
+      {
+        "word": "火山",
+        "meaning": "volcano",
+        "sentence": "那座火山是活的。"
+      },
+      {
+        "word": "着火",
+        "meaning": "catch fire",
+        "sentence": "房子着火了。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_shui"],
+    "pronunciationIpa": "/xuo²¹⁴/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "huo3"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_dian",
+    "root": "电",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "electricity",
+    "examples": [
+      {
+        "word": "电脑",
+        "meaning": "computer",
+        "sentence": "我在用电脑工作。"
+      },
+      {
+        "word": "电话",
+        "meaning": "telephone",
+        "sentence": "请给我打电话。"
+      },
+      {
+        "word": "电影",
+        "meaning": "movie",
+        "sentence": "我们去看电影吧。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_nao", "zh_base_hua"],
+    "pronunciationIpa": "/tɛn⁵¹/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "dian4"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_xin",
+    "root": "心",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "heart; mind",
+    "examples": [
+      {
+        "word": "心情",
+        "meaning": "mood",
+        "sentence": "我今天心情很好。"
+      },
+      {
+        "word": "小心",
+        "meaning": "careful",
+        "sentence": "请小心走路。"
+      },
+      {
+        "word": "中心",
+        "meaning": "center",
+        "sentence": "城市中心很热闹。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_shou"],
+    "pronunciationIpa": "/ɕin⁵⁵/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "xin1"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_shou",
+    "root": "手",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "hand",
+    "examples": [
+      {
+        "word": "手机",
+        "meaning": "cellphone",
+        "sentence": "我的手机在哪里？"
+      },
+      {
+        "word": "手套",
+        "meaning": "gloves",
+        "sentence": "冬天要戴手套。"
+      },
+      {
+        "word": "歌手",
+        "meaning": "singer",
+        "sentence": "这位歌手很有名。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_kou"],
+    "pronunciationIpa": "/ʂoʊ̯²¹⁴/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "shou3"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_kou",
+    "root": "口",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "mouth; opening",
+    "examples": [
+      {
+        "word": "门口",
+        "meaning": "doorway",
+        "sentence": "他在门口等我。"
+      },
+      {
+        "word": "出口",
+        "meaning": "export; exit",
+        "sentence": "出口在这边。"
+      },
+      {
+        "word": "入口",
+        "meaning": "entrance",
+        "sentence": "请从入口进入。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_shou"],
+    "pronunciationIpa": "/kʰoʊ̯²¹⁴/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "kou3"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_mu_eye",
+    "root": "目",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "eye",
+    "examples": [
+      {
+        "word": "目光",
+        "meaning": "gaze; sight",
+        "sentence": "他的目光很坚定。"
+      },
+      {
+        "word": "节目",
+        "meaning": "program",
+        "sentence": "今天的节目很好看。"
+      },
+      {
+        "word": "目标",
+        "meaning": "target; goal",
+        "sentence": "我们的目标是胜利。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_shou"],
+    "pronunciationIpa": "/mu⁵¹/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "mu4"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_mu_wood",
+    "root": "木",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "wood; tree",
+    "examples": [
+      {
+        "word": "木头",
+        "meaning": "wood",
+        "sentence": "桌子是木头做的。"
+      },
+      {
+        "word": "树木",
+        "meaning": "tree",
+        "sentence": "公园里有很多树木。"
+      },
+      {
+        "word": "森林",
+        "meaning": "forest",
+        "sentence": "森林里有很多动物。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_tu"],
+    "pronunciationIpa": "/mu⁵¹/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "mu4"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_tu",
+    "root": "土",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "earth; soil",
+    "examples": [
+      {
+        "word": "土地",
+        "meaning": "land",
+        "sentence": "这片土地很肥沃。"
+      },
+      {
+        "word": "泥土",
+        "meaning": "mud",
+        "sentence": "鞋子上有泥土。"
+      },
+      {
+        "word": "地图",
+        "meaning": "map",
+        "sentence": "请看一下地图。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_shui"],
+    "pronunciationIpa": "/tʰu²¹⁴/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tu3"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_jin",
+    "root": "金",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "metal; gold",
+    "examples": [
+      {
+        "word": "金钱",
+        "meaning": "money",
+        "sentence": "金钱不是最重要的。"
+      },
+      {
+        "word": "金属",
+        "meaning": "metal",
+        "sentence": "铁是一种金属。"
+      },
+      {
+        "word": "金色",
+        "meaning": "golden color",
+        "sentence": "她穿着金色的裙子。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_tu"],
+    "pronunciationIpa": "/tɕin⁵⁵/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "jin1"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_da",
+    "root": "大",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "big; great",
+    "examples": [
+      {
+        "word": "大学",
+        "meaning": "university",
+        "sentence": "我在大学学习。"
+      },
+      {
+        "word": "大家",
+        "meaning": "everyone",
+        "sentence": "大家都到了吗？"
+      },
+      {
+        "word": "大小",
+        "meaning": "size",
+        "sentence": "这个箱子的大小正好。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_xiao"],
+    "pronunciationIpa": "/ta⁵¹/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "da4"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_xiao",
+    "root": "小",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "small; little",
+    "examples": [
+      {
+        "word": "小学",
+        "meaning": "elementary school",
+        "sentence": "我的弟弟在小学。"
+      },
+      {
+        "word": "小时",
+        "meaning": "hour",
+        "sentence": "我等了一个小时。"
+      },
+      {
+        "word": "小孩",
+        "meaning": "child",
+        "sentence": "那个小孩在玩耍。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_da"],
+    "pronunciationIpa": "/ɕiɑʊ̯²¹⁴/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "xiao3"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_xue",
+    "root": "学",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "study; learn",
+    "examples": [
+      {
+        "word": "学校",
+        "meaning": "school",
+        "sentence": "学校在哪里？"
+      },
+      {
+        "word": "学习",
+        "meaning": "study",
+        "sentence": "我每天学习汉语。"
+      },
+      {
+        "word": "学生",
+        "meaning": "student",
+        "sentence": "学生们都很努力。"
+      }
+    ],
+    "relatedRootIds": ["zh_suffix_xue", "zh_base_ren"],
+    "pronunciationIpa": "/ɕɥɛ³⁵/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "xue2"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_nao",
+    "root": "脑",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "brain",
+    "examples": [
+      {
+        "word": "电脑",
+        "meaning": "computer",
+        "sentence": "我在用电脑工作。"
+      },
+      {
+        "word": "头脑",
+        "meaning": "mind; brains",
+        "sentence": "他的头脑很聪明。"
+      },
+      {
+        "word": "脑筋",
+        "meaning": "brains; mind",
+        "sentence": "这道题要动脑筋。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_dian"],
+    "pronunciationIpa": "/nɑʊ̯²¹⁴/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "nao3"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_hua",
+    "root": "话",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "speech; words; language",
+    "examples": [
+      {
+        "word": "电话",
+        "meaning": "telephone",
+        "sentence": "请给我打电话。"
+      },
+      {
+        "word": "说话",
+        "meaning": "speak; talk",
+        "sentence": "请大声说话。"
+      },
+      {
+        "word": "听话",
+        "meaning": "obedient",
+        "sentence": "这个孩子很听话。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_dian"],
+    "pronunciationIpa": "/xuä⁵¹/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "hua4"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_shu",
+    "root": "数",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "number; to count",
+    "examples": [
+      {
+        "word": "数学",
+        "meaning": "mathematics",
+        "sentence": "我喜欢数学。"
+      },
+      {
+        "word": "数字",
+        "meaning": "number; digit",
+        "sentence": "这些数字很重要。"
+      },
+      {
+        "word": "数数",
+        "meaning": "to count",
+        "sentence": "孩子们在数数。"
+      }
+    ],
+    "relatedRootIds": ["zh_prefix_di", "zh_suffix_xue"],
+    "pronunciationIpa": "/ʂu⁵¹/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "shu4"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_zuo",
+    "root": "做",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "do; make; work",
+    "examples": [
+      {
+        "word": "工作",
+        "meaning": "work",
+        "sentence": "我在工作。"
+      },
+      {
+        "word": "做事",
+        "meaning": "do things",
+        "sentence": "他喜欢做事。"
+      },
+      {
+        "word": "作业",
+        "meaning": "homework",
+        "sentence": "作业很多。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/tsuɔ⁵¹/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "zuo4"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_chi",
+    "root": "吃",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "eat",
+    "examples": [
+      {
+        "word": "吃饭",
+        "meaning": "eat rice; have a meal",
+        "sentence": "我们一起吃饭。"
+      },
+      {
+        "word": "好吃",
+        "meaning": "delicious",
+        "sentence": "这个菜很好吃。"
+      },
+      {
+        "word": "吃惊",
+        "meaning": "surprised",
+        "sentence": "他很吃惊。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ʈʂʰɨ⁵⁵/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "chi1"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_he",
+    "root": "喝",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "drink",
+    "examples": [
+      {
+        "word": "喝水",
+        "meaning": "drink water",
+        "sentence": "我喝水。"
+      },
+      {
+        "word": "喝茶",
+        "meaning": "drink tea",
+        "sentence": "爸爸喝茶。"
+      },
+      {
+        "word": "喝酒",
+        "meaning": "drink alcohol",
+        "sentence": "他不喝酒。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_shui"],
+    "pronunciationIpa": "/xɤ⁵⁵/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "he1"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_gei",
+    "root": "给",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "give",
+    "examples": [
+      {
+        "word": "给我",
+        "meaning": "give me",
+        "sentence": "请给我。"
+      },
+      {
+        "word": "给你",
+        "meaning": "give you",
+        "sentence": "这个给你。"
+      },
+      {
+        "word": "送给",
+        "meaning": "give to; present",
+        "sentence": "我送给他一本书。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/keɪ̯²¹⁴/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "gei3"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_na",
+    "root": "拿",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "take; hold; carry",
+    "examples": [
+      {
+        "word": "拿着",
+        "meaning": "holding",
+        "sentence": "他拿着书。"
+      },
+      {
+        "word": "拿来",
+        "meaning": "bring",
+        "sentence": "请拿来。"
+      },
+      {
+        "word": "拿走",
+        "meaning": "take away",
+        "sentence": "不要拿走。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/na³⁵/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "na2"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_qu",
+    "root": "去",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "go",
+    "examples": [
+      {
+        "word": "去学校",
+        "meaning": "go to school",
+        "sentence": "我去学校。"
+      },
+      {
+        "word": "过去",
+        "meaning": "go over; past",
+        "sentence": "他过去了。"
+      },
+      {
+        "word": "出去",
+        "meaning": "go out",
+        "sentence": "请出去。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/tɕʰy⁵¹/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "qu4"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_lai",
+    "root": "来",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "come",
+    "examples": [
+      {
+        "word": "来学校",
+        "meaning": "come to school",
+        "sentence": "你来学校吗？"
+      },
+      {
+        "word": "过来",
+        "meaning": "come over",
+        "sentence": "请过来。"
+      },
+      {
+        "word": "回来",
+        "meaning": "come back",
+        "sentence": "他回来了。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/laɪ̯³⁵/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "lai2"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_ting",
+    "root": "听",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "hear; listen",
+    "examples": [
+      {
+        "word": "听见",
+        "meaning": "hear",
+        "sentence": "我听见你。"
+      },
+      {
+        "word": "听音乐",
+        "meaning": "listen to music",
+        "sentence": "我听音乐。"
+      },
+      {
+        "word": "听话",
+        "meaning": "obedient",
+        "sentence": "这个孩子很听话。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/tʰiŋ⁵⁵/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ting1"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_zhi",
+    "root": "知",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "know",
+    "examples": [
+      {
+        "word": "知道",
+        "meaning": "know",
+        "sentence": "我知道。"
+      },
+      {
+        "word": "知识",
+        "meaning": "knowledge",
+        "sentence": "知识就是力量。"
+      },
+      {
+        "word": "通知",
+        "meaning": "notice",
+        "sentence": "请通知我。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ʈʂɨ⁵⁵/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "zhi1"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_guang",
+    "root": "光",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "light",
+    "examples": [
+      {
+        "word": "光明",
+        "meaning": "brightness; light",
+        "sentence": "光明在前。"
+      },
+      {
+        "word": "阳光",
+        "meaning": "sunshine",
+        "sentence": "阳光很好。"
+      },
+      {
+        "word": "灯光",
+        "meaning": "lamplight",
+        "sentence": "灯光很暗。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ku̯aŋ⁵⁵/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "guang1"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_ai",
+    "root": "爱",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "love",
+    "examples": [
+      {
+        "word": "爱情",
+        "meaning": "love (romantic)",
+        "sentence": "爱情很美好。"
+      },
+      {
+        "word": "可爱",
+        "meaning": "lovely; cute",
+        "sentence": "这个孩子很可爱。"
+      },
+      {
+        "word": "爱好",
+        "meaning": "hobby; interest",
+        "sentence": "我的爱好是读书。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/aɪ̯⁵¹/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ai4"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_du",
+    "root": "读",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "read",
+    "examples": [
+      {
+        "word": "读书",
+        "meaning": "read; study",
+        "sentence": "我喜欢读书。"
+      },
+      {
+        "word": "阅读",
+        "meaning": "read",
+        "sentence": "阅读很重要。"
+      },
+      {
+        "word": "读音",
+        "meaning": "pronunciation",
+        "sentence": "请注意读音。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_shu"],
+    "pronunciationIpa": "/tu³⁵/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "du2"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_shuo",
+    "root": "说",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "say; speak",
+    "examples": [
+      {
+        "word": "说话",
+        "meaning": "speak; talk",
+        "sentence": "请大声说话。"
+      },
+      {
+        "word": "说明",
+        "meaning": "explain",
+        "sentence": "请说明一下。"
+      },
+      {
+        "word": "小说",
+        "meaning": "novel",
+        "sentence": "这本小说很好看。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_hua"],
+    "pronunciationIpa": "/ʂu̯o⁵⁵/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "shuo1"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_xiang",
+    "root": "想",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "think",
+    "examples": [
+      {
+        "word": "想家",
+        "meaning": "miss home; think of home",
+        "sentence": "我很想家。"
+      },
+      {
+        "word": "想法",
+        "meaning": "idea; thought",
+        "sentence": "这个想法很好。"
+      },
+      {
+        "word": "思想",
+        "meaning": "thought; ideology",
+        "sentence": "他的思想很开放。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_xin"],
+    "pronunciationIpa": "/ɕi̯aŋ²¹⁴/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "xiang3"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_kan",
+    "root": "看",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "see; look",
+    "examples": [
+      {
+        "word": "看见",
+        "meaning": "see",
+        "sentence": "我看见一只鸟。"
+      },
+      {
+        "word": "看病",
+        "meaning": "see a doctor",
+        "sentence": "我去看病。"
+      },
+      {
+        "word": "看书",
+        "meaning": "read a book",
+        "sentence": "我喜欢看书。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/kʰan⁵¹/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "kan4"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_xie",
+    "root": "写",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "write",
+    "examples": [
+      {
+        "word": "写字",
+        "meaning": "write characters",
+        "sentence": "我在写字。"
+      },
+      {
+        "word": "写作",
+        "meaning": "writing; composition",
+        "sentence": "他喜欢写作。"
+      },
+      {
+        "word": "写信",
+        "meaning": "write a letter",
+        "sentence": "我写信给朋友。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ɕi̯ɛ²¹⁴/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "xie3"
+      }
+    ]
+  }
+]

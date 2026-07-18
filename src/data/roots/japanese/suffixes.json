@@ -1,0 +1,322 @@
+[
+  {
+    "id": "ja_suffix_teki",
+    "root": "的",
+    "type": "suffix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "-al; -ic; -like",
+    "examples": [
+      {
+        "word": "日本的",
+        "meaning": "Japanese-style",
+        "sentence": "日本的な家だ。"
+      },
+      {
+        "word": "具体的",
+        "meaning": "concrete",
+        "sentence": "具体的に説明する。"
+      },
+      {
+        "word": "科学的",
+        "meaning": "scientific",
+        "sentence": "科学的根拠がある。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/teki/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "teki"
+      }
+    ]
+  },
+  {
+    "id": "ja_suffix_sei",
+    "root": "性",
+    "type": "suffix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "-ness; -ity",
+    "examples": [
+      {
+        "word": "可能性",
+        "meaning": "possibility",
+        "sentence": "可能性を探る。"
+      },
+      {
+        "word": "重要性",
+        "meaning": "importance",
+        "sentence": "その重要性を理解する。"
+      },
+      {
+        "word": "危険性",
+        "meaning": "risk",
+        "sentence": "危険性がある。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/sei/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "sei"
+      }
+    ]
+  },
+  {
+    "id": "ja_suffix_ka",
+    "root": "化",
+    "type": "suffix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "-ize; -ization",
+    "examples": [
+      {
+        "word": "現代化",
+        "meaning": "modernization",
+        "sentence": "社会が現代化した。"
+      },
+      {
+        "word": "電子化",
+        "meaning": "digitization",
+        "sentence": "書類を電子化する。"
+      },
+      {
+        "word": "強化",
+        "meaning": "strengthening",
+        "sentence": "筋肉を強化する。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ka/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ka"
+      }
+    ]
+  },
+  {
+    "id": "ja_suffix_sha",
+    "root": "者",
+    "type": "suffix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "person; -er",
+    "examples": [
+      {
+        "word": "読者",
+        "meaning": "reader",
+        "sentence": "読者から手紙が来た。"
+      },
+      {
+        "word": "研究者",
+        "meaning": "researcher",
+        "sentence": "研究者が発表する。"
+      },
+      {
+        "word": "旅行者",
+        "meaning": "traveler",
+        "sentence": "旅行者が多い。"
+      }
+    ],
+    "relatedRootIds": ["ja_base_doku"],
+    "pronunciationIpa": "/ʃa/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "sha"
+      }
+    ]
+  },
+  {
+    "id": "ja_suffix_ke",
+    "root": "家",
+    "type": "suffix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "-ist; -er; professional",
+    "examples": [
+      {
+        "word": "作家",
+        "meaning": "writer",
+        "sentence": "作家が新刊を出した。"
+      },
+      {
+        "word": "画家",
+        "meaning": "painter",
+        "sentence": "画家が絵を描く。"
+      },
+      {
+        "word": "音楽家",
+        "meaning": "musician",
+        "sentence": "音楽家が演奏する。"
+      }
+    ],
+    "relatedRootIds": ["ja_base_saku"],
+    "pronunciationIpa": "/ke/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ke"
+      }
+    ]
+  },
+  {
+    "id": "ja_suffix_jin",
+    "root": "人",
+    "type": "suffix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "person; people",
+    "examples": [
+      {
+        "word": "日本人",
+        "meaning": "Japanese person",
+        "sentence": "彼は日本人だ。"
+      },
+      {
+        "word": "外国人",
+        "meaning": "foreigner",
+        "sentence": "外国人の友達がいる。"
+      },
+      {
+        "word": "村人",
+        "meaning": "villager",
+        "sentence": "村人が集まる。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/dʑiɴ/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "jin"
+      }
+    ]
+  },
+  {
+    "id": "ja_suffix_go",
+    "root": "語",
+    "type": "suffix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "language; word",
+    "examples": [
+      {
+        "word": "日本語",
+        "meaning": "Japanese language",
+        "sentence": "日本語を勉強する。"
+      },
+      {
+        "word": "英語",
+        "meaning": "English",
+        "sentence": "英語が話せる。"
+      },
+      {
+        "word": "中国語",
+        "meaning": "Chinese",
+        "sentence": "中国語は難しい。"
+      }
+    ],
+    "relatedRootIds": ["ja_base_gen"],
+    "pronunciationIpa": "/go/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "go"
+      }
+    ]
+  },
+  {
+    "id": "ja_suffix_koku",
+    "root": "国",
+    "type": "suffix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "country",
+    "examples": [
+      {
+        "word": "中国",
+        "meaning": "China",
+        "sentence": "中国は大きい国だ。"
+      },
+      {
+        "word": "外国",
+        "meaning": "foreign country",
+        "sentence": "外国へ旅行する。"
+      },
+      {
+        "word": "隣国",
+        "meaning": "neighboring country",
+        "sentence": "隣国と友好だ。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/koku/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "koku"
+      }
+    ]
+  },
+  {
+    "id": "ja_suffix_gaku",
+    "root": "学",
+    "type": "suffix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "study; -ology",
+    "examples": [
+      {
+        "word": "科学",
+        "meaning": "science",
+        "sentence": "科学は面白い。"
+      },
+      {
+        "word": "数学",
+        "meaning": "mathematics",
+        "sentence": "数学が得意だ。"
+      },
+      {
+        "word": "心理学",
+        "meaning": "psychology",
+        "sentence": "心理学を専攻する。"
+      }
+    ],
+    "relatedRootIds": ["ja_base_gaku"],
+    "pronunciationIpa": "/gaku/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "gaku"
+      }
+    ]
+  },
+  {
+    "id": "ja_suffix_ya",
+    "root": "屋",
+    "type": "suffix",
+    "languageOrigin": "Japanese",
+    "meaning": "shop; store",
+    "examples": [
+      {
+        "word": "本屋",
+        "meaning": "bookstore",
+        "sentence": "本屋で本を買う。"
+      },
+      {
+        "word": "花屋",
+        "meaning": "florist",
+        "sentence": "花屋に立ち寄る。"
+      },
+      {
+        "word": "肉屋",
+        "meaning": "butcher",
+        "sentence": "肉屋で肉を買う。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ja/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ya"
+      }
+    ]
+  }
+]

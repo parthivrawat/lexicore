@@ -1,0 +1,866 @@
+[
+  {
+    "id": "pt_base_fac",
+    "root": "fac-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "do; make",
+    "examples": [
+      {
+        "word": "fazer",
+        "meaning": "to do; make",
+        "sentence": "Vou fazer o bolo."
+      },
+      {
+        "word": "fábrica",
+        "meaning": "factory",
+        "sentence": "A fábrica é grande."
+      },
+      {
+        "word": "fácil",
+        "meaning": "easy",
+        "sentence": "O exercício é fácil."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_dor", "pt_suffix_ar", "pt_suffix_avel"],
+    "pronunciationIpa": "/fak/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "fac"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_scrib",
+    "root": "scrib-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "write",
+    "examples": [
+      {
+        "word": "escrever",
+        "meaning": "to write",
+        "sentence": "Vou escrever uma carta."
+      },
+      {
+        "word": "escrito",
+        "meaning": "written",
+        "sentence": "O texto está escrito."
+      },
+      {
+        "word": "escritor",
+        "meaning": "writer",
+        "sentence": "O escritor é famoso."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_cao", "pt_suffix_mento"],
+    "pronunciationIpa": "/skɾib/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "scrib"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_leg",
+    "root": "leg-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "read; gather",
+    "examples": [
+      {
+        "word": "ler",
+        "meaning": "to read",
+        "sentence": "Gosto de ler livros."
+      },
+      {
+        "word": "leitura",
+        "meaning": "reading",
+        "sentence": "A leitura é prazerosa."
+      },
+      {
+        "word": "leitor",
+        "meaning": "reader",
+        "sentence": "O leitor é atento."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_cao", "pt_suffix_mento"],
+    "pronunciationIpa": "/lɛg/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "leg"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_dic",
+    "root": "dic-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "say; tell; speak",
+    "examples": [
+      {
+        "word": "dizer",
+        "meaning": "to say",
+        "sentence": "Ele quer dizer a verdade."
+      },
+      {
+        "word": "dito",
+        "meaning": "said",
+        "sentence": "O ditado é antigo."
+      },
+      {
+        "word": "ditado",
+        "meaning": "saying",
+        "sentence": "Isso é dito e feito."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_cao", "pt_suffix_mento"],
+    "pronunciationIpa": "/dik/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "dic"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_vid",
+    "root": "vid-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "see",
+    "examples": [
+      {
+        "word": "ver",
+        "meaning": "to see",
+        "sentence": "Eu quero ver o mar."
+      },
+      {
+        "word": "visão",
+        "meaning": "vision",
+        "sentence": "A visão é linda."
+      },
+      {
+        "word": "visível",
+        "meaning": "visible",
+        "sentence": "O objeto é visível."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_avel", "pt_suffix_al"],
+    "pronunciationIpa": "/vid/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "vid"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_aud",
+    "root": "aud-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "hear; listen",
+    "examples": [
+      {
+        "word": "ouvir",
+        "meaning": "to hear",
+        "sentence": "Gosto de ouvir música."
+      },
+      {
+        "word": "audição",
+        "meaning": "hearing",
+        "sentence": "A audição é importante."
+      },
+      {
+        "word": "audível",
+        "meaning": "audible",
+        "sentence": "O som é audível."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_cao", "pt_suffix_avel"],
+    "pronunciationIpa": "/awd/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "aud"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_port",
+    "root": "port-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "carry",
+    "examples": [
+      {
+        "word": "portar",
+        "meaning": "to carry; behave",
+        "sentence": "Ele sabe se portar."
+      },
+      {
+        "word": "transporte",
+        "meaning": "transport",
+        "sentence": "O transporte é público."
+      },
+      {
+        "word": "exportação",
+        "meaning": "export",
+        "sentence": "A exportação cresceu."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_dor", "pt_suffix_cao"],
+    "pronunciationIpa": "/pɔɾt/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "port"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_mand",
+    "root": "mand-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "command",
+    "examples": [
+      {
+        "word": "mandar",
+        "meaning": "to command; send",
+        "sentence": "Vou mandar uma mensagem."
+      },
+      {
+        "word": "mandato",
+        "meaning": "mandate",
+        "sentence": "O mandato presidencial dura anos."
+      },
+      {
+        "word": "comandar",
+        "meaning": "to command",
+        "sentence": "Ele sabe comandar."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_dor", "pt_suffix_ar"],
+    "pronunciationIpa": "/mɐ̃d/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "mand"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_terr",
+    "root": "terr-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "earth; land",
+    "examples": [
+      {
+        "word": "terra",
+        "meaning": "earth; land",
+        "sentence": "A terra é fértil."
+      },
+      {
+        "word": "terreno",
+        "meaning": "terrain",
+        "sentence": "O terreno é plano."
+      },
+      {
+        "word": "território",
+        "meaning": "territory",
+        "sentence": "O território é vasto."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_al", "pt_suffix_avel"],
+    "pronunciationIpa": "/tɛʁ/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "terr"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_aqua",
+    "root": "aqua-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "water",
+    "examples": [
+      {
+        "word": "água",
+        "meaning": "water",
+        "sentence": "A água é cristalina."
+      },
+      {
+        "word": "aquático",
+        "meaning": "aquatic",
+        "sentence": "O peixe é aquático."
+      },
+      {
+        "word": "aquário",
+        "meaning": "aquarium",
+        "sentence": "O aquário tem peixes."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_al", "pt_suffix_ista"],
+    "pronunciationIpa": "/ˈakwa/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "aqua"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_am",
+    "root": "am-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "love",
+    "examples": [
+      {
+        "word": "amar",
+        "meaning": "to love",
+        "sentence": "Amar é bom."
+      },
+      {
+        "word": "amor",
+        "meaning": "love",
+        "sentence": "O amor é forte."
+      },
+      {
+        "word": "amável",
+        "meaning": "lovable",
+        "sentence": "Ela é amável."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_ar", "pt_suffix_avel", "pt_suffix_oso"],
+    "pronunciationIpa": "/ɐ̃/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "am"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_mort",
+    "root": "mort-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "death",
+    "examples": [
+      {
+        "word": "morte",
+        "meaning": "death",
+        "sentence": "A morte é inevitável."
+      },
+      {
+        "word": "mortal",
+        "meaning": "mortal",
+        "sentence": "O herói é mortal."
+      },
+      {
+        "word": "morto",
+        "meaning": "dead",
+        "sentence": "O cachorro está morto."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_al"],
+    "pronunciationIpa": "/mɔɾt/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "mort"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_viv",
+    "root": "viv-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "live",
+    "examples": [
+      {
+        "word": "viver",
+        "meaning": "to live",
+        "sentence": "Viver bem é importante."
+      },
+      {
+        "word": "vida",
+        "meaning": "life",
+        "sentence": "A vida é bela."
+      },
+      {
+        "word": "vivo",
+        "meaning": "alive",
+        "sentence": "O peixe está vivo."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_al", "pt_suffix_oso"],
+    "pronunciationIpa": "/viv/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "viv"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_noct",
+    "root": "noct-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "night",
+    "examples": [
+      {
+        "word": "noite",
+        "meaning": "night",
+        "sentence": "A noite é tranquila."
+      },
+      {
+        "word": "noturno",
+        "meaning": "nocturnal",
+        "sentence": "O animal é noturno."
+      },
+      {
+        "word": "notívago",
+        "meaning": "night wanderer",
+        "sentence": "O notívago passeia à noite."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_al"],
+    "pronunciationIpa": "/nɔkt/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "noct"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_luc",
+    "root": "luc-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "light",
+    "examples": [
+      {
+        "word": "luz",
+        "meaning": "light",
+        "sentence": "A luz é brilhante."
+      },
+      {
+        "word": "lúcido",
+        "meaning": "lucid",
+        "sentence": "Ele está lúcido."
+      },
+      {
+        "word": "iluminar",
+        "meaning": "to illuminate",
+        "sentence": "Vamos iluminar a sala."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_al"],
+    "pronunciationIpa": "/luk/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "luc"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_ven",
+    "root": "ven-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "come",
+    "examples": [
+      {
+        "word": "vir",
+        "meaning": "to come",
+        "sentence": "Vou vir amanhã."
+      },
+      {
+        "word": "vinda",
+        "meaning": "arrival",
+        "sentence": "A vinda foi surpreendente."
+      },
+      {
+        "word": "advir",
+        "meaning": "to come from; to result",
+        "sentence": "Pode advir disso."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/vɛn/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ven"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_bib",
+    "root": "bib-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "drink",
+    "examples": [
+      {
+        "word": "beber",
+        "meaning": "to drink",
+        "sentence": "Vou beber água."
+      },
+      {
+        "word": "bebida",
+        "meaning": "drink; beverage",
+        "sentence": "A bebida é gelada."
+      },
+      {
+        "word": "imbuir",
+        "meaning": "to imbue; absorb",
+        "sentence": "Ele imbuído de ideias."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/bib/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "bib"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_ed",
+    "root": "ed-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "eat",
+    "examples": [
+      {
+        "word": "comer",
+        "meaning": "to eat",
+        "sentence": "Vou comer a maçã."
+      },
+      {
+        "word": "edível",
+        "meaning": "edible",
+        "sentence": "A fruta é edível."
+      },
+      {
+        "word": "comedor",
+        "meaning": "eater; dining room",
+        "sentence": "O comedor é grande."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_avel", "pt_suffix_dor"],
+    "pronunciationIpa": "/ɛd/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ed"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_don",
+    "root": "don-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "give",
+    "examples": [
+      {
+        "word": "doar",
+        "meaning": "to donate; give",
+        "sentence": "Vou doar livros."
+      },
+      {
+        "word": "doação",
+        "meaning": "donation",
+        "sentence": "A doação ajudou muito."
+      },
+      {
+        "word": "perdoar",
+        "meaning": "to forgive; pardon",
+        "sentence": "Eu te perdoo."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_cao"],
+    "pronunciationIpa": "/don/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "don"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_ire",
+    "root": "ire-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "go",
+    "examples": [
+      {
+        "word": "ir",
+        "meaning": "to go",
+        "sentence": "Vou ir à escola."
+      },
+      {
+        "word": "ida",
+        "meaning": "going; departure",
+        "sentence": "A ida foi rápida."
+      },
+      {
+        "word": "partir",
+        "meaning": "to leave; to go",
+        "sentence": "Vou partir cedo."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/i.ɾe/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ire"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_ten",
+    "root": "ten-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "hold",
+    "examples": [
+      {
+        "word": "ter",
+        "meaning": "to have; hold",
+        "sentence": "Tenho um livro."
+      },
+      {
+        "word": "reter",
+        "meaning": "to retain; hold back",
+        "sentence": "Retenho a informação."
+      },
+      {
+        "word": "sustentar",
+        "meaning": "to sustain; hold",
+        "sentence": "Sustento a família."
+      }
+    ],
+    "relatedRootIds": ["pt_prefix_re"],
+    "pronunciationIpa": "/ten/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ten"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_sci",
+    "root": "sci-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "know",
+    "examples": [
+      {
+        "word": "saber",
+        "meaning": "to know",
+        "sentence": "Eu sei a resposta."
+      },
+      {
+        "word": "ciência",
+        "meaning": "science",
+        "sentence": "A ciência avança."
+      },
+      {
+        "word": "consciência",
+        "meaning": "consciousness",
+        "sentence": "Tenho consciência disso."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/si/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "sci"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_disc",
+    "root": "disc-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "learn",
+    "examples": [
+      {
+        "word": "aprender",
+        "meaning": "to learn",
+        "sentence": "Vou aprender português."
+      },
+      {
+        "word": "discípulo",
+        "meaning": "disciple",
+        "sentence": "O discípulo estuda."
+      },
+      {
+        "word": "disciplina",
+        "meaning": "discipline",
+        "sentence": "A disciplina é importante."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/disk/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "disc"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_stud",
+    "root": "stud-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "study",
+    "examples": [
+      {
+        "word": "estudar",
+        "meaning": "to study",
+        "sentence": "Vou estudar à noite."
+      },
+      {
+        "word": "estudante",
+        "meaning": "student",
+        "sentence": "O estudante é dedicado."
+      },
+      {
+        "word": "estúdio",
+        "meaning": "studio",
+        "sentence": "O estúdio é pequeno."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/stud/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "stud"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_cap",
+    "root": "cap-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "take; seize",
+    "examples": [
+      {
+        "word": "capturar",
+        "meaning": "to capture",
+        "sentence": "A polícia vai capturar o ladrão."
+      },
+      {
+        "word": "capaz",
+        "meaning": "capable",
+        "sentence": "Ele é capaz de fazer isso."
+      },
+      {
+        "word": "receber",
+        "meaning": "to receive; take",
+        "sentence": "Vou receber a carta."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/kap/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "cap"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_cogit",
+    "root": "cogit-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "think",
+    "examples": [
+      {
+        "word": "pensar",
+        "meaning": "to think",
+        "sentence": "Vou pensar sobre isso."
+      },
+      {
+        "word": "cogitar",
+        "meaning": "to cogitate",
+        "sentence": "Ele cogita muito."
+      },
+      {
+        "word": "cogitação",
+        "meaning": "thought",
+        "sentence": "A cogitação é profunda."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_cao"],
+    "pronunciationIpa": "/ko.ʒit/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "cogit"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_labor",
+    "root": "labor-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "work",
+    "examples": [
+      {
+        "word": "laborar",
+        "meaning": "to work",
+        "sentence": "Vou laborar muito hoje."
+      },
+      {
+        "word": "laboratório",
+        "meaning": "laboratory",
+        "sentence": "O laboratório é moderno."
+      },
+      {
+        "word": "laborioso",
+        "meaning": "laborious",
+        "sentence": "O trabalho é laborioso."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_oso"],
+    "pronunciationIpa": "/la.bor/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "labor"
+      }
+    ]
+  }
+]

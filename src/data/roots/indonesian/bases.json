@@ -1,0 +1,1058 @@
+[
+  {
+    "id": "id_base_ajar",
+    "root": "ajar",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "teach; learn; study",
+    "examples": [
+      {
+        "word": "mengajar",
+        "meaning": "to teach",
+        "sentence": "Guru mengajar di kelas."
+      },
+      {
+        "word": "belajar",
+        "meaning": "to learn",
+        "sentence": "Saya belajar setiap hari."
+      },
+      {
+        "word": "ajaran",
+        "meaning": "teaching",
+        "sentence": "Ajaran ini penting."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_me", "id_prefix_ber", "id_suffix_an"],
+    "pronunciationIpa": "/aˈdʒar/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "a-jar"
+      }
+    ]
+  },
+  {
+    "id": "id_base_baca",
+    "root": "baca",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "read",
+    "examples": [
+      {
+        "word": "membaca",
+        "meaning": "to read",
+        "sentence": "Saya membaca novel."
+      },
+      {
+        "word": "dibaca",
+        "meaning": "read (passive)",
+        "sentence": "Buku itu dibaca semua orang."
+      },
+      {
+        "word": "bacaan",
+        "meaning": "reading",
+        "sentence": "Bacaan ini menarik."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_me", "id_prefix_di", "id_suffix_an"],
+    "pronunciationIpa": "/baˈtʃa/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "ba-ca"
+      }
+    ]
+  },
+  {
+    "id": "id_base_tulis",
+    "root": "tulis",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "write",
+    "examples": [
+      {
+        "word": "menulis",
+        "meaning": "to write",
+        "sentence": "Dia menulis surat."
+      },
+      {
+        "word": "ditulis",
+        "meaning": "written",
+        "sentence": "Surat itu ditulis kemarin."
+      },
+      {
+        "word": "tulisan",
+        "meaning": "writing",
+        "sentence": "Tulisan ini bagus."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_me", "id_prefix_di", "id_suffix_an"],
+    "pronunciationIpa": "/tuˈlis/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "tu-lis"
+      }
+    ]
+  },
+  {
+    "id": "id_base_lihat",
+    "root": "lihat",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "see",
+    "examples": [
+      {
+        "word": "melihat",
+        "meaning": "to see",
+        "sentence": "Saya melihat pesawat."
+      },
+      {
+        "word": "dilihat",
+        "meaning": "seen",
+        "sentence": "Pemandangan itu dilihat dari jauh."
+      },
+      {
+        "word": "terlihat",
+        "meaning": "visible",
+        "sentence": "Dia terlihat lelah."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_me", "id_prefix_di", "id_prefix_ter"],
+    "pronunciationIpa": "/liˈhat/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "li-hat"
+      }
+    ]
+  },
+  {
+    "id": "id_base_jalan",
+    "root": "jalan",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "walk; road",
+    "examples": [
+      {
+        "word": "berjalan",
+        "meaning": "to walk",
+        "sentence": "Kami berjalan kaki."
+      },
+      {
+        "word": "jalanan",
+        "meaning": "road surface",
+        "sentence": "Jalanan ini ramai."
+      },
+      {
+        "word": "perjalanan",
+        "meaning": "journey",
+        "sentence": "Perjalanan itu panjang."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_ber", "id_prefix_per", "id_suffix_an"],
+    "pronunciationIpa": "/dʒaˈlan/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "ja-lan"
+      }
+    ]
+  },
+  {
+    "id": "id_base_makan",
+    "root": "makan",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "eat",
+    "examples": [
+      {
+        "word": "makan",
+        "meaning": "to eat",
+        "sentence": "Anak itu makan nasi."
+      },
+      {
+        "word": "makanan",
+        "meaning": "food",
+        "sentence": "Makanan ini enak."
+      },
+      {
+        "word": "memakan",
+        "meaning": "to eat (transitive)",
+        "sentence": "Kucing itu memakan ikan."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_me", "id_suffix_an"],
+    "pronunciationIpa": "/maˈkan/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "ma-kan"
+      }
+    ]
+  },
+  {
+    "id": "id_base_minum",
+    "root": "minum",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "drink",
+    "examples": [
+      {
+        "word": "minum",
+        "meaning": "to drink",
+        "sentence": "Dia minum air."
+      },
+      {
+        "word": "minuman",
+        "meaning": "drink",
+        "sentence": "Minuman itu segar."
+      },
+      {
+        "word": "meminum",
+        "meaning": "to drink (transitive)",
+        "sentence": "Dia meminum jus itu."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_me", "id_suffix_an"],
+    "pronunciationIpa": "/miˈnum/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "mi-num"
+      }
+    ]
+  },
+  {
+    "id": "id_base_buat",
+    "root": "buat",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "make; do",
+    "examples": [
+      {
+        "word": "membuat",
+        "meaning": "to make",
+        "sentence": "Saya membuat kue."
+      },
+      {
+        "word": "pembuat",
+        "meaning": "maker",
+        "sentence": "Pembuat roti itu rajin."
+      },
+      {
+        "word": "pembuatan",
+        "meaning": "manufacture",
+        "sentence": "Pembuatan film memakan waktu."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_me", "id_prefix_pe", "id_suffix_an"],
+    "pronunciationIpa": "/buˈat/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "bu-at"
+      }
+    ]
+  },
+  {
+    "id": "id_base_cari",
+    "root": "cari",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "search; look for",
+    "examples": [
+      {
+        "word": "mencari",
+        "meaning": "to search",
+        "sentence": "Dia mencari kunci."
+      },
+      {
+        "word": "pencari",
+        "meaning": "searcher",
+        "sentence": "Pencari emas beruntung."
+      },
+      {
+        "word": "pencarian",
+        "meaning": "search",
+        "sentence": "Pencarian kerja sulit."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_me", "id_prefix_pe", "id_suffix_an"],
+    "pronunciationIpa": "/tʃaˈri/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "ca-ri"
+      }
+    ]
+  },
+  {
+    "id": "id_base_main",
+    "root": "main",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "play",
+    "examples": [
+      {
+        "word": "bermain",
+        "meaning": "to play",
+        "sentence": "Anak-anak bermain bola."
+      },
+      {
+        "word": "permainan",
+        "meaning": "game",
+        "sentence": "Permainan ini seru."
+      },
+      {
+        "word": "pemain",
+        "meaning": "player",
+        "sentence": "Pemain itu hebat."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_ber", "id_prefix_per", "id_prefix_pe"],
+    "pronunciationIpa": "/maˈin/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "ma-in"
+      }
+    ]
+  },
+  {
+    "id": "id_base_kerja",
+    "root": "kerja",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "work",
+    "examples": [
+      {
+        "word": "bekerja",
+        "meaning": "to work",
+        "sentence": "Dia bekerja di kantor."
+      },
+      {
+        "word": "pekerjaan",
+        "meaning": "work; job",
+        "sentence": "Pekerjaan itu berat."
+      },
+      {
+        "word": "pekerja",
+        "meaning": "worker",
+        "sentence": "Pekerja itu rajin."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_ber", "id_prefix_pe", "id_suffix_an"],
+    "pronunciationIpa": "/kərˈdʒa/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "ker-ja"
+      }
+    ]
+  },
+  {
+    "id": "id_base_baik",
+    "root": "baik",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "good",
+    "examples": [
+      {
+        "word": "baik",
+        "meaning": "good",
+        "sentence": "Dia orang baik."
+      },
+      {
+        "word": "perbaiki",
+        "meaning": "to repair",
+        "sentence": "Kita perbaiki rumah itu."
+      },
+      {
+        "word": "kebaikan",
+        "meaning": "goodness",
+        "sentence": "Kebaikan harus dibalas."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_per", "id_suffix_an"],
+    "pronunciationIpa": "/baˈik/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "ba-ik"
+      }
+    ]
+  },
+  {
+    "id": "id_base_besar",
+    "root": "besar",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "big",
+    "examples": [
+      {
+        "word": "besar",
+        "meaning": "big",
+        "sentence": "Rumah itu besar."
+      },
+      {
+        "word": "perbesar",
+        "meaning": "to enlarge",
+        "sentence": "Silakan perbesar gambar."
+      },
+      {
+        "word": "sebesar",
+        "meaning": "as big as",
+        "sentence": "Ikan sebesar itu."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_per", "id_prefix_se"],
+    "pronunciationIpa": "/bəˈsar/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "be-sar"
+      }
+    ]
+  },
+  {
+    "id": "id_base_kecil",
+    "root": "kecil",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "small",
+    "examples": [
+      {
+        "word": "kecil",
+        "meaning": "small",
+        "sentence": "Anak itu masih kecil."
+      },
+      {
+        "word": "perkecil",
+        "meaning": "to reduce",
+        "sentence": "Perkecil ukurannya."
+      },
+      {
+        "word": "sekecil",
+        "meaning": "as small as",
+        "sentence": "Kotak sekecil telapak tangan."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_per", "id_prefix_se"],
+    "pronunciationIpa": "/kəˈtʃil/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "ke-cil"
+      }
+    ]
+  },
+  {
+    "id": "id_base_banyak",
+    "root": "banyak",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "many; much",
+    "examples": [
+      {
+        "word": "banyak",
+        "meaning": "many",
+        "sentence": "Ada banyak orang di sini."
+      },
+      {
+        "word": "memperbanyak",
+        "meaning": "to increase",
+        "sentence": "Kita memperbanyak latihan."
+      },
+      {
+        "word": "sebanyak",
+        "meaning": "as many as",
+        "sentence": "Dia memiliki sebanyak itu."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_se", "id_prefix_memper"],
+    "pronunciationIpa": "/baˈɲaʔ/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "ba-nyak"
+      }
+    ]
+  },
+  {
+    "id": "id_base_sejarah",
+    "root": "sejarah",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "history",
+    "examples": [
+      {
+        "word": "sejarah",
+        "meaning": "history",
+        "sentence": "Sejarah negara ini panjang."
+      },
+      {
+        "word": "prasejarah",
+        "meaning": "prehistoric",
+        "sentence": "Zaman prasejarah menarik."
+      },
+      {
+        "word": "bersejarah",
+        "meaning": "historic",
+        "sentence": "Kota ini bersejarah."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_pra", "id_prefix_ber"],
+    "pronunciationIpa": "/səˈdʒaˈrah/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "se-ja-rah"
+      }
+    ]
+  },
+  {
+    "id": "id_base_sekolah",
+    "root": "sekolah",
+    "type": "base",
+    "languageOrigin": "Portuguese",
+    "meaning": "school",
+    "examples": [
+      {
+        "word": "sekolah",
+        "meaning": "school",
+        "sentence": "Sekolah itu besar."
+      },
+      {
+        "word": "prasekolah",
+        "meaning": "preschool",
+        "sentence": "Anak itu masih prasekolah."
+      },
+      {
+        "word": "bersekolah",
+        "meaning": "to go to school",
+        "sentence": "Anak-anak bersekolah setiap hari."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_pra", "id_prefix_ber"],
+    "pronunciationIpa": "/səˈkoˈlah/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "se-ko-lah"
+      }
+    ]
+  },
+  {
+    "id": "id_base_muka",
+    "root": "muka",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "face; front",
+    "examples": [
+      {
+        "word": "muka",
+        "meaning": "face",
+        "sentence": "Mukanya bersih."
+      },
+      {
+        "word": "pramuka",
+        "meaning": "scout",
+        "sentence": "Pramuka berkemah setiap tahun."
+      },
+      {
+        "word": "bemuka",
+        "meaning": "faced",
+        "sentence": "Dia bermuka masam."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_pra", "id_prefix_ber"],
+    "pronunciationIpa": "/muˈka/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "mu-ka"
+      }
+    ]
+  },
+  {
+    "id": "id_base_kirim",
+    "root": "kirim",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "send",
+    "examples": [
+      {
+        "word": "mengirim",
+        "meaning": "to send",
+        "sentence": "Saya mengirim paket."
+      },
+      {
+        "word": "kirimkan",
+        "meaning": "send for someone",
+        "sentence": "Kirimkan surat ini."
+      },
+      {
+        "word": "kirimi",
+        "meaning": "send to",
+        "sentence": "Kirimi dia kabar baik."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_me", "id_suffix_kan", "id_suffix_i"],
+    "pronunciationIpa": "/kiˈrim/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "ki-rim"
+      }
+    ]
+  },
+  {
+    "id": "id_base_bawa",
+    "root": "bawa",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "bring; carry",
+    "examples": [
+      {
+        "word": "membawa",
+        "meaning": "to bring",
+        "sentence": "Dia membawa payung."
+      },
+      {
+        "word": "bawakan",
+        "meaning": "bring for someone",
+        "sentence": "Bawakan saya air."
+      },
+      {
+        "word": "bawahi",
+        "meaning": "to supervise",
+        "sentence": "Bawahi anak-anak itu."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_me", "id_suffix_kan", "id_suffix_i"],
+    "pronunciationIpa": "/baˈwa/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "ba-wa"
+      }
+    ]
+  },
+  {
+    "id": "id_base_datang",
+    "root": "datang",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "come",
+    "examples": [
+      {
+        "word": "datang",
+        "meaning": "to come",
+        "sentence": "Dia datang besok."
+      },
+      {
+        "word": "kedatangan",
+        "meaning": "arrival",
+        "sentence": "Kedatangannya disambut hangat."
+      },
+      {
+        "word": "mendatangkan",
+        "meaning": "to bring; to summon",
+        "sentence": "Dia mendatangkan pengacara."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_me", "id_suffix_an", "id_suffix_kan"],
+    "pronunciationIpa": "/daˈtaŋ/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "da-tang"
+      }
+    ]
+  },
+  {
+    "id": "id_base_beri",
+    "root": "beri",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "give",
+    "examples": [
+      {
+        "word": "memberi",
+        "meaning": "to give",
+        "sentence": "Saya memberi dia buku."
+      },
+      {
+        "word": "berikan",
+        "meaning": "give (imperative)",
+        "sentence": "Berikan saya air."
+      },
+      {
+        "word": "pemberian",
+        "meaning": "giving; grant",
+        "sentence": "Pemberian hadiah itu baik."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_me", "id_prefix_pe", "id_suffix_an", "id_suffix_kan"],
+    "pronunciationIpa": "/bəˈri/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "be-ri"
+      }
+    ]
+  },
+  {
+    "id": "id_base_pergi",
+    "root": "pergi",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "go",
+    "examples": [
+      {
+        "word": "pergi",
+        "meaning": "to go",
+        "sentence": "Saya pergi ke sekolah."
+      },
+      {
+        "word": "kepergian",
+        "meaning": "departure",
+        "sentence": "Kepergiannya mengejutkan."
+      },
+      {
+        "word": "berpergian",
+        "meaning": "to go on a journey",
+        "sentence": "Mereka berpergian ke Bali."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_ber", "id_suffix_an"],
+    "pronunciationIpa": "/pərˈɡi/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "per-gi"
+      }
+    ]
+  },
+  {
+    "id": "id_base_dengar",
+    "root": "dengar",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "hear; listen",
+    "examples": [
+      {
+        "word": "mendengar",
+        "meaning": "to hear",
+        "sentence": "Saya mendengar musik."
+      },
+      {
+        "word": "dengaran",
+        "meaning": "audible",
+        "sentence": "Suaranya dengaran."
+      },
+      {
+        "word": "pendengar",
+        "meaning": "listener",
+        "sentence": "Pendengar setia radio ini."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_me", "id_prefix_pe", "id_suffix_an"],
+    "pronunciationIpa": "/dəˈŋar/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "de-ngar"
+      }
+    ]
+  },
+  {
+    "id": "id_base_pegang",
+    "root": "pegang",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "hold; grasp",
+    "examples": [
+      {
+        "word": "memegang",
+        "meaning": "to hold",
+        "sentence": "Dia memegang buku."
+      },
+      {
+        "word": "pegangan",
+        "meaning": "handle; grip",
+        "sentence": "Pegangan tangga ini kuat."
+      },
+      {
+        "word": "pemegang",
+        "meaning": "holder",
+        "sentence": "Pemegang saham hadir."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_me", "id_prefix_pe", "id_suffix_an"],
+    "pronunciationIpa": "/pəˈɡaŋ/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "pe-gang"
+      }
+    ]
+  },
+  {
+    "id": "id_base_tahu",
+    "root": "tahu",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "know",
+    "examples": [
+      {
+        "word": "tahu",
+        "meaning": "to know",
+        "sentence": "Saya tahu jawabannya."
+      },
+      {
+        "word": "ketahuan",
+        "meaning": "known; caught",
+        "sentence": "Rahasiasudah ketahuan."
+      },
+      {
+        "word": "pengetahuan",
+        "meaning": "knowledge",
+        "sentence": "Pengetahuan adalah kekuatan."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_pe", "id_suffix_an"],
+    "pronunciationIpa": "/taˈhu/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "ta-hu"
+      }
+    ]
+  },
+  {
+    "id": "id_base_cahaya",
+    "root": "cahaya",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "light",
+    "examples": [
+      {
+        "word": "cahaya",
+        "meaning": "light",
+        "sentence": "Cahaya matahari terang."
+      },
+      {
+        "word": "bercahaya",
+        "meaning": "shining",
+        "sentence": "Batu itu bercahaya."
+      },
+      {
+        "word": "pencahayaan",
+        "meaning": "lighting",
+        "sentence": "Pencahayaan ruangan baik."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_ber", "id_prefix_pe", "id_suffix_an"],
+    "pronunciationIpa": "/tʃaˈhaˈja/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "ca-ha-ya"
+      }
+    ]
+  },
+  {
+    "id": "id_base_cinta",
+    "root": "cinta",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "love",
+    "examples": [
+      {
+        "word": "cinta",
+        "meaning": "love",
+        "sentence": "Cinta itu indah."
+      },
+      {
+        "word": "mencintai",
+        "meaning": "to love",
+        "sentence": "Saya mencintai keluarga."
+      },
+      {
+        "word": "kecintaan",
+        "meaning": "affection",
+        "sentence": "Kecintaan pada alam besar."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_me", "id_suffix_i", "id_suffix_an"],
+    "pronunciationIpa": "/ˈtʃinta/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "cin-ta"
+      }
+    ]
+  },
+  {
+    "id": "id_base_kata",
+    "root": "kata",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "say; word",
+    "examples": [
+      {
+        "word": "berkata",
+        "meaning": "to say",
+        "sentence": "Dia berkata benar."
+      },
+      {
+        "word": "katakan",
+        "meaning": "say it",
+        "sentence": "Katakan padanya."
+      },
+      {
+        "word": "perkataan",
+        "meaning": "words; speech",
+        "sentence": "Perkataannya lembut."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_ber", "id_prefix_per", "id_suffix_an", "id_suffix_kan"],
+    "pronunciationIpa": "/ˈkata/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "ka-ta"
+      }
+    ]
+  },
+  {
+    "id": "id_base_bicara",
+    "root": "bicara",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "speak; talk",
+    "examples": [
+      {
+        "word": "berbicara",
+        "meaning": "to speak",
+        "sentence": "Saya berbicara dengan guru."
+      },
+      {
+        "word": "pembicara",
+        "meaning": "speaker",
+        "sentence": "Pembicara itu terkenal."
+      },
+      {
+        "word": "bicarakan",
+        "meaning": "discuss",
+        "sentence": "Mari bicarakan masalah ini."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_ber", "id_prefix_pe", "id_suffix_kan"],
+    "pronunciationIpa": "/biˈtʃara/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "bi-ca-ra"
+      }
+    ]
+  },
+  {
+    "id": "id_base_ambil",
+    "root": "ambil",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "take",
+    "examples": [
+      {
+        "word": "mengambil",
+        "meaning": "to take",
+        "sentence": "Saya mengambil buku."
+      },
+      {
+        "word": "ambilan",
+        "meaning": "taking; installment",
+        "sentence": "Ambilan pertama sudah dibayar."
+      },
+      {
+        "word": "pengambil",
+        "meaning": "taker",
+        "sentence": "Pengambil keputusan adalah dia."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_me", "id_prefix_pe", "id_suffix_an"],
+    "pronunciationIpa": "/ˈambil/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "am-bil"
+      }
+    ]
+  },
+  {
+    "id": "id_base_pikir",
+    "root": "pikir",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "think",
+    "examples": [
+      {
+        "word": "berpikir",
+        "meaning": "to think",
+        "sentence": "Dia berpikir keras."
+      },
+      {
+        "word": "pemikiran",
+        "meaning": "thought; idea",
+        "sentence": "Pemikirannya menarik."
+      },
+      {
+        "word": "pikirkan",
+        "meaning": "think about",
+        "sentence": "Pikirkan baik-baik."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_ber", "id_prefix_pe", "id_suffix_an", "id_suffix_kan"],
+    "pronunciationIpa": "/ˈpikir/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "pi-kir"
+      }
+    ]
+  },
+  {
+    "id": "id_base_air",
+    "root": "air",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "water",
+    "examples": [
+      {
+        "word": "air",
+        "meaning": "water",
+        "sentence": "Saya minum air."
+      },
+      {
+        "word": "berair",
+        "meaning": "watery; juicy",
+        "sentence": "Buah itu berair."
+      },
+      {
+        "word": "pegair",
+        "meaning": "watershed",
+        "sentence": "Pegair di dekat desa."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_ber", "id_prefix_pe"],
+    "pronunciationIpa": "/ˈa.ir/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "a-ir"
+      }
+    ]
+  }
+]

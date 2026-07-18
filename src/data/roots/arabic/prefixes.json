@@ -1,0 +1,322 @@
+[
+  {
+    "id": "ar_prefix_al",
+    "root": "ال",
+    "type": "prefix",
+    "languageOrigin": "Arabic",
+    "meaning": "the (definite article)",
+    "examples": [
+      {
+        "word": "الكتاب",
+        "meaning": "the book",
+        "sentence": "الكتاب على الطاولة."
+      },
+      {
+        "word": "البيت",
+        "meaning": "the house",
+        "sentence": "البيت كبير."
+      },
+      {
+        "word": "المدرسة",
+        "meaning": "the school",
+        "sentence": "المدرسة قريبة."
+      }
+    ],
+    "relatedRootIds": ["ar_base_ktb"],
+    "pronunciationIpa": "/al/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "al"
+      }
+    ]
+  },
+  {
+    "id": "ar_prefix_m",
+    "root": "م",
+    "type": "prefix",
+    "languageOrigin": "Arabic",
+    "meaning": "place of or doer (ma-)",
+    "examples": [
+      {
+        "word": "مكتب",
+        "meaning": "office; desk",
+        "sentence": "المكتب نظيف."
+      },
+      {
+        "word": "مدرسة",
+        "meaning": "school",
+        "sentence": "المدرسة ممتازة."
+      },
+      {
+        "word": "مسجد",
+        "meaning": "mosque",
+        "sentence": "المسجد جميل."
+      }
+    ],
+    "relatedRootIds": ["ar_base_ktb", "ar_base_drs"],
+    "pronunciationIpa": "/ma/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ma"
+      }
+    ]
+  },
+  {
+    "id": "ar_prefix_a",
+    "root": "أ",
+    "type": "prefix",
+    "languageOrigin": "Arabic",
+    "meaning": "causative/doer (Form IV)",
+    "examples": [
+      {
+        "word": "أكمل",
+        "meaning": "he completed",
+        "sentence": "أكمل الطالب الواجب."
+      },
+      {
+        "word": "أخرج",
+        "meaning": "he brought out",
+        "sentence": "أخرج الكتاب من الحقيبة."
+      },
+      {
+        "word": "أسلم",
+        "meaning": "he submitted",
+        "sentence": "أسلم الرجل نفسه."
+      }
+    ],
+    "relatedRootIds": ["ar_base_khrj", "ar_base_slm"],
+    "pronunciationIpa": "/ʔa/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "a"
+      }
+    ]
+  },
+  {
+    "id": "ar_prefix_t",
+    "root": "ت",
+    "type": "prefix",
+    "languageOrigin": "Arabic",
+    "meaning": "reflexive/reciprocal (Form V/VI)",
+    "examples": [
+      {
+        "word": "تكلم",
+        "meaning": "he spoke",
+        "sentence": "تكلم الأستاذ بوضوح."
+      },
+      {
+        "word": "تعلم",
+        "meaning": "he learned",
+        "sentence": "تعلم الطالب الدرس."
+      },
+      {
+        "word": "تنزل",
+        "meaning": "it descended",
+        "sentence": "تنزل المطر من السماء."
+      }
+    ],
+    "relatedRootIds": ["ar_base_lm", "ar_base_nzl"],
+    "pronunciationIpa": "/ta/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ta"
+      }
+    ]
+  },
+  {
+    "id": "ar_prefix_ista",
+    "root": "است",
+    "type": "prefix",
+    "languageOrigin": "Arabic",
+    "meaning": "seek to do X (Form X)",
+    "examples": [
+      {
+        "word": "استخدم",
+        "meaning": "he used",
+        "sentence": "استخدم القلم للكتابة."
+      },
+      {
+        "word": "استمتع",
+        "meaning": "he enjoyed",
+        "sentence": "استمتع بالرحلة."
+      },
+      {
+        "word": "استمع",
+        "meaning": "he listened",
+        "sentence": "استمع إلى الموسيقى."
+      }
+    ],
+    "relatedRootIds": ["ar_base_ktb"],
+    "pronunciationIpa": "/ista/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ista"
+      }
+    ]
+  },
+  {
+    "id": "ar_prefix_in",
+    "root": "ان",
+    "type": "prefix",
+    "languageOrigin": "Arabic",
+    "meaning": "become; passive/reflexive (Form VII)",
+    "examples": [
+      {
+        "word": "انفتح",
+        "meaning": "it opened",
+        "sentence": "انفتح الباب فجأة."
+      },
+      {
+        "word": "انكسر",
+        "meaning": "it broke",
+        "sentence": "انكسر الزجاج."
+      },
+      {
+        "word": "انزل",
+        "meaning": "it descended",
+        "sentence": "انزل المطر بغزارة."
+      }
+    ],
+    "relatedRootIds": ["ar_base_nzl"],
+    "pronunciationIpa": "/in/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "in"
+      }
+    ]
+  },
+  {
+    "id": "ar_prefix_sa",
+    "root": "س",
+    "type": "prefix",
+    "languageOrigin": "Arabic",
+    "meaning": "will; future particle",
+    "examples": [
+      {
+        "word": "سأكتب",
+        "meaning": "I will write",
+        "sentence": "سأكتب الرسالة غداً."
+      },
+      {
+        "word": "سأذهب",
+        "meaning": "I will go",
+        "sentence": "سأذهب إلى المدرسة."
+      },
+      {
+        "word": "سأقرأ",
+        "meaning": "I will read",
+        "sentence": "سأقرأ الكتاب."
+      }
+    ],
+    "relatedRootIds": ["ar_base_ktb", "ar_base_qra"],
+    "pronunciationIpa": "/sa/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "sa"
+      }
+    ]
+  },
+  {
+    "id": "ar_prefix_ya",
+    "root": "ي",
+    "type": "prefix",
+    "languageOrigin": "Arabic",
+    "meaning": "he (present tense prefix)",
+    "examples": [
+      {
+        "word": "يكتب",
+        "meaning": "he writes",
+        "sentence": "يكتب الطالب الدرس."
+      },
+      {
+        "word": "يدرس",
+        "meaning": "he studies",
+        "sentence": "يدرس كل يوم."
+      },
+      {
+        "word": "يقرأ",
+        "meaning": "he reads",
+        "sentence": "يقرأ الكتاب بانتباه."
+      }
+    ],
+    "relatedRootIds": ["ar_base_ktb", "ar_base_drs", "ar_base_qra"],
+    "pronunciationIpa": "/ja/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ya"
+      }
+    ]
+  },
+  {
+    "id": "ar_prefix_na",
+    "root": "ن",
+    "type": "prefix",
+    "languageOrigin": "Arabic",
+    "meaning": "we (present tense prefix)",
+    "examples": [
+      {
+        "word": "نكتب",
+        "meaning": "we write",
+        "sentence": "نكتب الواجب معاً."
+      },
+      {
+        "word": "ندرس",
+        "meaning": "we study",
+        "sentence": "ندرس في المكتبة."
+      },
+      {
+        "word": "نقرأ",
+        "meaning": "we read",
+        "sentence": "نقرأ القصة بصوت عالٍ."
+      }
+    ],
+    "relatedRootIds": ["ar_base_ktb", "ar_base_drs", "ar_base_qra"],
+    "pronunciationIpa": "/na/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "na"
+      }
+    ]
+  },
+  {
+    "id": "ar_prefix_lam",
+    "root": "لم",
+    "type": "prefix",
+    "languageOrigin": "Arabic",
+    "meaning": "did not (negative past)",
+    "examples": [
+      {
+        "word": "لم يكتب",
+        "meaning": "he did not write",
+        "sentence": "لم يكتب الطالب الواجب."
+      },
+      {
+        "word": "لم أدرس",
+        "meaning": "I did not study",
+        "sentence": "لم أدرس الليلة."
+      },
+      {
+        "word": "لم تقرأ",
+        "meaning": "she did not read",
+        "sentence": "لم تقرأ البنت القصة."
+      }
+    ],
+    "relatedRootIds": ["ar_base_ktb", "ar_base_drs", "ar_base_qra"],
+    "pronunciationIpa": "/lam/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "lam"
+      }
+    ]
+  }
+]

@@ -1,0 +1,738 @@
+[
+  {
+    "id": "de_base_mach",
+    "root": "mach",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "do; make",
+    "examples": [
+      {
+        "word": "machen",
+        "meaning": "to make",
+        "sentence": "Ich mache Kaffee."
+      },
+      {
+        "word": "machbar",
+        "meaning": "feasible",
+        "sentence": "Das ist machbar."
+      },
+      {
+        "word": "Macher",
+        "meaning": "doer",
+        "sentence": "Er ist ein Macher."
+      }
+    ],
+    "relatedRootIds": ["de_prefix_ver", "de_prefix_be", "de_prefix_mit", "de_suffix_bar"],
+    "pronunciationIpa": "/max/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "mach"
+      }
+    ]
+  },
+  {
+    "id": "de_base_schreib",
+    "root": "schreib",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "write",
+    "examples": [
+      {
+        "word": "schreiben",
+        "meaning": "to write",
+        "sentence": "Ich schreibe einen Brief."
+      },
+      {
+        "word": "Schreiber",
+        "meaning": "writer",
+        "sentence": "Der Schreiber arbeitet."
+      },
+      {
+        "word": "verschreiben",
+        "meaning": "to prescribe",
+        "sentence": "Der Arzt verschreibt Medikamente."
+      }
+    ],
+    "relatedRootIds": ["de_prefix_ver", "de_prefix_unter", "de_suffix_er"],
+    "pronunciationIpa": "/ʃʁaɪ̯p/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "schreib"
+      }
+    ]
+  },
+  {
+    "id": "de_base_les",
+    "root": "les",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "read",
+    "examples": [
+      {
+        "word": "lesen",
+        "meaning": "to read",
+        "sentence": "Ich lese ein Buch."
+      },
+      {
+        "word": "Leser",
+        "meaning": "reader",
+        "sentence": "Der Leser fragt sich."
+      },
+      {
+        "word": "lesbar",
+        "meaning": "readable",
+        "sentence": "Der Text ist lesbar."
+      }
+    ],
+    "relatedRootIds": ["de_suffix_er", "de_suffix_bar"],
+    "pronunciationIpa": "/leːs/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "les"
+      }
+    ]
+  },
+  {
+    "id": "de_base_seh",
+    "root": "seh",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "see",
+    "examples": [
+      {
+        "word": "sehen",
+        "meaning": "to see",
+        "sentence": "Ich sehe den Vogel."
+      },
+      {
+        "word": "sichtbar",
+        "meaning": "visible",
+        "sentence": "Das Ziel ist sichtbar."
+      },
+      {
+        "word": "übersehen",
+        "meaning": "to overlook",
+        "sentence": "Ich habe das übersehen."
+      }
+    ],
+    "relatedRootIds": ["de_prefix_uber", "de_prefix_wieder", "de_suffix_bar"],
+    "pronunciationIpa": "/zeː/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "seh"
+      }
+    ]
+  },
+  {
+    "id": "de_base_hor",
+    "root": "hör",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "hear; listen",
+    "examples": [
+      {
+        "word": "hören",
+        "meaning": "to hear",
+        "sentence": "Ich höre Musik."
+      },
+      {
+        "word": "Hörer",
+        "meaning": "listener",
+        "sentence": "Die Hörer lauschen."
+      },
+      {
+        "word": "gehören",
+        "meaning": "to belong",
+        "sentence": "Das gehört mir."
+      }
+    ],
+    "relatedRootIds": ["de_suffix_er"],
+    "pronunciationIpa": "/høːɐ̯/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "hoer"
+      }
+    ]
+  },
+  {
+    "id": "de_base_sprech",
+    "root": "sprech",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "speak",
+    "examples": [
+      {
+        "word": "sprechen",
+        "meaning": "to speak",
+        "sentence": "Ich spreche Deutsch."
+      },
+      {
+        "word": "Sprecher",
+        "meaning": "speaker",
+        "sentence": "Der Sprecher redet."
+      },
+      {
+        "word": "versprechen",
+        "meaning": "to promise",
+        "sentence": "Ich verspreche es."
+      }
+    ],
+    "relatedRootIds": ["de_prefix_ver", "de_prefix_ent", "de_prefix_mit", "de_suffix_er"],
+    "pronunciationIpa": "/ʃpʁɛç/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "sprech"
+      }
+    ]
+  },
+  {
+    "id": "de_base_denk",
+    "root": "denk",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "think",
+    "examples": [
+      {
+        "word": "denken",
+        "meaning": "to think",
+        "sentence": "Ich denke nach."
+      },
+      {
+        "word": "Denker",
+        "meaning": "thinker",
+        "sentence": "Der Denker schweigt."
+      },
+      {
+        "word": "Gedanke",
+        "meaning": "thought",
+        "sentence": "Das ist ein guter Gedanke."
+      }
+    ],
+    "relatedRootIds": ["de_prefix_be", "de_suffix_er"],
+    "pronunciationIpa": "/dɛŋk/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "denk"
+      }
+    ]
+  },
+  {
+    "id": "de_base_geh",
+    "root": "geh",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "go",
+    "examples": [
+      {
+        "word": "gehen",
+        "meaning": "to go",
+        "sentence": "Ich gehe nach Hause."
+      },
+      {
+        "word": "Gang",
+        "meaning": "walk; aisle",
+        "sentence": "Der Gang ist lang."
+      },
+      {
+        "word": "untergehen",
+        "meaning": "to sink",
+        "sentence": "Die Sonne geht unter."
+      }
+    ],
+    "relatedRootIds": ["de_prefix_unter"],
+    "pronunciationIpa": "/geː/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "geh"
+      }
+    ]
+  },
+  {
+    "id": "de_base_komm",
+    "root": "komm",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "come",
+    "examples": [
+      {
+        "word": "kommen",
+        "meaning": "to come",
+        "sentence": "Ich komme morgen."
+      },
+      {
+        "word": "Kommen",
+        "meaning": "coming",
+        "sentence": "Das Kommen ist schwer."
+      },
+      {
+        "word": "ankommen",
+        "meaning": "to arrive",
+        "sentence": "Wann kommst du an?"
+      }
+    ],
+    "relatedRootIds": ["de_prefix_ent", "de_prefix_wieder", "de_prefix_mit"],
+    "pronunciationIpa": "/kɔm/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "komm"
+      }
+    ]
+  },
+  {
+    "id": "de_base_nehm",
+    "root": "nehm",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "take",
+    "examples": [
+      {
+        "word": "nehmen",
+        "meaning": "to take",
+        "sentence": "Ich nehme das Buch."
+      },
+      {
+        "word": "Nehmer",
+        "meaning": "taker",
+        "sentence": "Der Nehmer freut sich."
+      },
+      {
+        "word": "entnehmen",
+        "meaning": "to take from",
+        "sentence": "Ich entnehme das der Quelle."
+      }
+    ],
+    "relatedRootIds": ["de_prefix_ent", "de_suffix_er"],
+    "pronunciationIpa": "/neːm/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "nehm"
+      }
+    ]
+  },
+  {
+    "id": "de_base_geb",
+    "root": "geb",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "give",
+    "examples": [
+      {
+        "word": "geben",
+        "meaning": "to give",
+        "sentence": "Ich gebe dir das."
+      },
+      {
+        "word": "Gabe",
+        "meaning": "gift",
+        "sentence": "Die Gabe ist wertvoll."
+      },
+      {
+        "word": "abgeben",
+        "meaning": "to hand in",
+        "sentence": "Wir geben die Hausaufgabe ab."
+      }
+    ],
+    "relatedRootIds": ["de_suffix_er"],
+    "pronunciationIpa": "/geːp/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "geb"
+      }
+    ]
+  },
+  {
+    "id": "de_base_ess",
+    "root": "ess",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "eat",
+    "examples": [
+      {
+        "word": "essen",
+        "meaning": "to eat",
+        "sentence": "Ich esse Brot."
+      },
+      {
+        "word": "Essen",
+        "meaning": "food",
+        "sentence": "Das Essen schmeckt."
+      },
+      {
+        "word": "essbar",
+        "meaning": "edible",
+        "sentence": "Die Frucht ist essbar."
+      }
+    ],
+    "relatedRootIds": ["de_suffix_bar"],
+    "pronunciationIpa": "/ɛs/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ess"
+      }
+    ]
+  },
+  {
+    "id": "de_base_trink",
+    "root": "trink",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "drink",
+    "examples": [
+      {
+        "word": "trinken",
+        "meaning": "to drink",
+        "sentence": "Ich trinke Wasser."
+      },
+      {
+        "word": "Getränk",
+        "meaning": "beverage",
+        "sentence": "Das Getränk ist kalt."
+      },
+      {
+        "word": "trinkbar",
+        "meaning": "drinkable",
+        "sentence": "Das Wasser ist trinkbar."
+      }
+    ],
+    "relatedRootIds": ["de_suffix_bar"],
+    "pronunciationIpa": "/tʁɪŋk/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "trink"
+      }
+    ]
+  },
+  {
+    "id": "de_base_halt",
+    "root": "halt",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "hold; keep",
+    "examples": [
+      {
+        "word": "halten",
+        "meaning": "to hold",
+        "sentence": "Ich halte das Glas."
+      },
+      {
+        "word": "Halter",
+        "meaning": "holder",
+        "sentence": "Der Halter ist stark."
+      },
+      {
+        "word": "behalten",
+        "meaning": "to keep",
+        "sentence": "Behalte das Geld!"
+      }
+    ],
+    "relatedRootIds": ["de_prefix_be", "de_suffix_er"],
+    "pronunciationIpa": "/halt/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "halt"
+      }
+    ]
+  },
+  {
+    "id": "de_base_fahr",
+    "root": "fahr",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "drive; go",
+    "examples": [
+      {
+        "word": "fahren",
+        "meaning": "to drive",
+        "sentence": "Ich fahre mit dem Bus."
+      },
+      {
+        "word": "Fahrt",
+        "meaning": "trip",
+        "sentence": "Die Fahrt ist kurz."
+      },
+      {
+        "word": "überfahren",
+        "meaning": "to run over",
+        "sentence": "Er fährt das Tier fast über."
+      }
+    ],
+    "relatedRootIds": ["de_prefix_er", "de_prefix_uber", "de_suffix_er"],
+    "pronunciationIpa": "/faːɐ̯/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "fahr"
+      }
+    ]
+  },
+  {
+    "id": "de_base_arbeit",
+    "root": "arbeit",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "work",
+    "examples": [
+      {
+        "word": "arbeiten",
+        "meaning": "to work",
+        "sentence": "Ich arbeite viel."
+      },
+      {
+        "word": "Arbeiter",
+        "meaning": "worker",
+        "sentence": "Der Arbeiter ist fleißig."
+      },
+      {
+        "word": "erarbeiten",
+        "meaning": "to work out",
+        "sentence": "Wir erarbeiten die Lösung."
+      }
+    ],
+    "relatedRootIds": ["de_prefix_be", "de_prefix_er", "de_suffix_er", "de_suffix_los"],
+    "pronunciationIpa": "/ˈaɐ̯baɪ̯t/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "arbeit"
+      }
+    ]
+  },
+  {
+    "id": "de_base_kenn",
+    "root": "kenn",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "know",
+    "examples": [
+      {
+        "word": "kennen",
+        "meaning": "to know",
+        "sentence": "Ich kenne ihn."
+      },
+      {
+        "word": "kennenlernen",
+        "meaning": "to get to know",
+        "sentence": "Ich lerne ihn kennen."
+      },
+      {
+        "word": "erkennen",
+        "meaning": "to recognize",
+        "sentence": "Ich erkenne ihn."
+      }
+    ],
+    "relatedRootIds": ["de_prefix_er"],
+    "pronunciationIpa": "/kɛn/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "kenn"
+      }
+    ]
+  },
+  {
+    "id": "de_base_sag",
+    "root": "sag",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "say",
+    "examples": [
+      {
+        "word": "sagen",
+        "meaning": "to say",
+        "sentence": "Ich sage die Wahrheit."
+      },
+      {
+        "word": "sagbar",
+        "meaning": "sayable",
+        "sentence": "Das ist sagbar."
+      },
+      {
+        "word": "versagen",
+        "meaning": "to fail; to refuse",
+        "sentence": "Er versagt den Dienst."
+      }
+    ],
+    "relatedRootIds": ["de_prefix_ver", "de_suffix_bar"],
+    "pronunciationIpa": "/zaːk/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "sag"
+      }
+    ]
+  },
+  {
+    "id": "de_base_lieb",
+    "root": "lieb",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "love",
+    "examples": [
+      {
+        "word": "lieben",
+        "meaning": "to love",
+        "sentence": "Ich liebe dich."
+      },
+      {
+        "word": "Liebe",
+        "meaning": "love",
+        "sentence": "Die Liebe ist stark."
+      },
+      {
+        "word": "lieblich",
+        "meaning": "lovely",
+        "sentence": "Eine liebliche Melodie."
+      }
+    ],
+    "relatedRootIds": ["de_suffix_lich"],
+    "pronunciationIpa": "/liːp/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "lieb"
+      }
+    ]
+  },
+  {
+    "id": "de_base_lern",
+    "root": "lern",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "learn; study",
+    "examples": [
+      {
+        "word": "lernen",
+        "meaning": "to learn; to study",
+        "sentence": "Ich lerne Deutsch."
+      },
+      {
+        "word": "Lerner",
+        "meaning": "learner",
+        "sentence": "Der Lerner ist fleißig."
+      },
+      {
+        "word": "lernbar",
+        "meaning": "learnable",
+        "sentence": "Das ist lernbar."
+      }
+    ],
+    "relatedRootIds": ["de_suffix_er", "de_suffix_bar"],
+    "pronunciationIpa": "/lɛʁn/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "lern"
+      }
+    ]
+  },
+  {
+    "id": "de_base_leucht",
+    "root": "leucht",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "light; shine",
+    "examples": [
+      {
+        "word": "leuchten",
+        "meaning": "to shine; to light",
+        "sentence": "Die Sonne leuchtet."
+      },
+      {
+        "word": "Leuchte",
+        "meaning": "light; luminary",
+        "sentence": "Die Leuchte ist hell."
+      },
+      {
+        "word": "erleuchten",
+        "meaning": "to illuminate",
+        "sentence": "Der Kerzen erleuchtet den Raum."
+      }
+    ],
+    "relatedRootIds": ["de_prefix_er"],
+    "pronunciationIpa": "/lɔɪ̯çt/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "leucht"
+      }
+    ]
+  },
+  {
+    "id": "de_base_wasser",
+    "root": "wasser",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "water",
+    "examples": [
+      {
+        "word": "Wasser",
+        "meaning": "water",
+        "sentence": "Ich trinke Wasser."
+      },
+      {
+        "word": "wässrig",
+        "meaning": "watery",
+        "sentence": "Der Kaffee ist wässrig."
+      },
+      {
+        "word": "Wasserkocher",
+        "meaning": "kettle",
+        "sentence": "Der Wasserkocher kocht."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ˈvasɐ/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "wasser"
+      }
+    ]
+  },
+  {
+    "id": "de_base_trag",
+    "root": "trag",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "carry",
+    "examples": [
+      {
+        "word": "tragen",
+        "meaning": "to carry; to wear",
+        "sentence": "Ich trage die Tasche."
+      },
+      {
+        "word": "Träger",
+        "meaning": "carrier; bearer",
+        "sentence": "Der Träger hilft."
+      },
+      {
+        "word": "vertragen",
+        "meaning": "to tolerate; to bear",
+        "sentence": "Ich vertrage das gut."
+      }
+    ],
+    "relatedRootIds": ["de_prefix_ver", "de_suffix_er"],
+    "pronunciationIpa": "/tʁaːk/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "trag"
+      }
+    ]
+  }
+]

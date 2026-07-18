@@ -1,0 +1,674 @@
+[
+  {
+    "id": "ta_base_cey",
+    "root": "செய்",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "do; make",
+    "examples": [
+      {
+        "word": "செய்கிறான்",
+        "meaning": "does",
+        "sentence": "அவன் பணி செய்கிறான்."
+      },
+      {
+        "word": "செயல்",
+        "meaning": "action",
+        "sentence": "செயல் வெற்றி."
+      },
+      {
+        "word": "செய்பவன்",
+        "meaning": "doer",
+        "sentence": "அவன் நல்ல செய்பவன்."
+      }
+    ],
+    "relatedRootIds": ["ta_suffix_pavan", "ta_suffix_al"],
+    "pronunciationIpa": "/tɕej/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "cey"
+      }
+    ]
+  },
+  {
+    "id": "ta_base_elutu",
+    "root": "எழுது",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "write",
+    "examples": [
+      {
+        "word": "எழுதுகிறான்",
+        "meaning": "writes",
+        "sentence": "அவன் கடிதம் எழுதுகிறான்."
+      },
+      {
+        "word": "எழுத்தாளர்",
+        "meaning": "writer",
+        "sentence": "அவர் எழுத்தாளர்."
+      },
+      {
+        "word": "எழுத்து",
+        "meaning": "writing",
+        "sentence": "எழுத்து அழகானது."
+      }
+    ],
+    "relatedRootIds": ["ta_suffix_karar", "ta_suffix_pavan"],
+    "pronunciationIpa": "/eɻutu/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "eluthu"
+      }
+    ]
+  },
+  {
+    "id": "ta_base_padi",
+    "root": "படி",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "read; study; learn",
+    "examples": [
+      {
+        "word": "படிக்கிறான்",
+        "meaning": "reads",
+        "sentence": "அவன் புத்தகம் படிக்கிறான்."
+      },
+      {
+        "word": "படிப்பவன்",
+        "meaning": "reader",
+        "sentence": "அவன் படிப்பவன்."
+      },
+      {
+        "word": "படிப்பு",
+        "meaning": "education",
+        "sentence": "படிப்பு முக்கியம்."
+      }
+    ],
+    "relatedRootIds": ["ta_suffix_pavan", "ta_suffix_al"],
+    "pronunciationIpa": "/paɖi/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "padi"
+      }
+    ]
+  },
+  {
+    "id": "ta_base_paar",
+    "root": "பார்",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "see",
+    "examples": [
+      {
+        "word": "பார்க்கிறான்",
+        "meaning": "sees",
+        "sentence": "அவன் படத்தை பார்க்கிறான்."
+      },
+      {
+        "word": "பார்வை",
+        "meaning": "sight",
+        "sentence": "பார்வை தெளிவானது."
+      },
+      {
+        "word": "பார்ப்பவன்",
+        "meaning": "one who sees",
+        "sentence": "அவன் நல்லதை பார்ப்பவன்."
+      }
+    ],
+    "relatedRootIds": ["ta_suffix_pavan"],
+    "pronunciationIpa": "/paːɾ/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "paar"
+      }
+    ]
+  },
+  {
+    "id": "ta_base_kel",
+    "root": "கேள்",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "hear; listen",
+    "examples": [
+      {
+        "word": "கேட்கிறான்",
+        "meaning": "hears",
+        "sentence": "அவன் பாட்டு கேட்கிறான்."
+      },
+      {
+        "word": "கேள்வி",
+        "meaning": "question",
+        "sentence": "கேள்வி நல்லது."
+      },
+      {
+        "word": "கேட்பவன்",
+        "meaning": "listener",
+        "sentence": "அவன் கவனமாக கேட்பவன்."
+      }
+    ],
+    "relatedRootIds": ["ta_suffix_pavan"],
+    "pronunciationIpa": "/keːɭ/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "kel"
+      }
+    ]
+  },
+  {
+    "id": "ta_base_col",
+    "root": "சொல்",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "say; word",
+    "examples": [
+      {
+        "word": "சொல்கிறான்",
+        "meaning": "says",
+        "sentence": "அவன் உண்மையை சொல்கிறான்."
+      },
+      {
+        "word": "சொல்",
+        "meaning": "word",
+        "sentence": "சொல் மதிப்பானது."
+      },
+      {
+        "word": "சொல்பவன்",
+        "meaning": "speaker",
+        "sentence": "அவன் நல்ல சொல்பவன்."
+      }
+    ],
+    "relatedRootIds": ["ta_suffix_pavan"],
+    "pronunciationIpa": "/tɕol/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "sol"
+      }
+    ]
+  },
+  {
+    "id": "ta_base_ninai",
+    "root": "நினை",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "think",
+    "examples": [
+      {
+        "word": "நினைக்கிறான்",
+        "meaning": "thinks",
+        "sentence": "அவன் நிறைய நினைக்கிறான்."
+      },
+      {
+        "word": "நினைவு",
+        "meaning": "memory; thought",
+        "sentence": "நினைவு இனிமையானது."
+      },
+      {
+        "word": "நினைப்பவன்",
+        "meaning": "thinker",
+        "sentence": "அவன் ஆழமாக நினைப்பவன்."
+      }
+    ],
+    "relatedRootIds": ["ta_suffix_pavan"],
+    "pronunciationIpa": "/ɳiɳai/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "ninai"
+      }
+    ]
+  },
+  {
+    "id": "ta_base_poo",
+    "root": "போ",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "go",
+    "examples": [
+      {
+        "word": "போகிறான்",
+        "meaning": "goes",
+        "sentence": "அவன் பள்ளிக்கு போகிறான்."
+      },
+      {
+        "word": "போக்கு",
+        "meaning": "going; tendency",
+        "sentence": "போக்கு நல்லது."
+      },
+      {
+        "word": "போவான்",
+        "meaning": "will go",
+        "sentence": "அவன் நாளை போவான்."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/poː/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "poo"
+      }
+    ]
+  },
+  {
+    "id": "ta_base_vaa",
+    "root": "வா",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "come",
+    "examples": [
+      {
+        "word": "வருகிறான்",
+        "meaning": "comes",
+        "sentence": "அவன் நாளை வருகிறான்."
+      },
+      {
+        "word": "வருகை",
+        "meaning": "arrival",
+        "sentence": "அவனது வருகை மகிழ்ச்சி."
+      },
+      {
+        "word": "வருபவன்",
+        "meaning": "one who comes",
+        "sentence": "வருபவன் யார்?"
+      }
+    ],
+    "relatedRootIds": ["ta_suffix_al"],
+    "pronunciationIpa": "/ʋaː/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "vaa"
+      }
+    ]
+  },
+  {
+    "id": "ta_base_etu",
+    "root": "எடு",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "take",
+    "examples": [
+      {
+        "word": "எடுக்கிறான்",
+        "meaning": "takes",
+        "sentence": "அவன் புத்தகத்தை எடுக்கிறான்."
+      },
+      {
+        "word": "எடுப்பவன்",
+        "meaning": "taker",
+        "sentence": "அவன் எடுப்பவன்."
+      },
+      {
+        "word": "எடுத்தல்",
+        "meaning": "taking",
+        "sentence": "எடுத்தல் அவசியம்."
+      }
+    ],
+    "relatedRootIds": ["ta_suffix_pavan"],
+    "pronunciationIpa": "/eɖu/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "etu"
+      }
+    ]
+  },
+  {
+    "id": "ta_base_kotu",
+    "root": "கொடு",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "give",
+    "examples": [
+      {
+        "word": "கொடுக்கிறான்",
+        "meaning": "gives",
+        "sentence": "அவன் தானம் கொடுக்கிறான்."
+      },
+      {
+        "word": "கொடுப்பவன்",
+        "meaning": "giver",
+        "sentence": "அவன் தாராள கொடுப்பவன்."
+      },
+      {
+        "word": "கொடை",
+        "meaning": "gift",
+        "sentence": "கொடை மகிழ்ச்சி."
+      }
+    ],
+    "relatedRootIds": ["ta_suffix_pavan"],
+    "pronunciationIpa": "/koɖu/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "kotu"
+      }
+    ]
+  },
+  {
+    "id": "ta_base_capitu",
+    "root": "சாப்பிடு",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "eat",
+    "examples": [
+      {
+        "word": "சாப்பிடுகிறான்",
+        "meaning": "eats",
+        "sentence": "அவன் அரிசி சாப்பிடுகிறான்."
+      },
+      {
+        "word": "சாப்பிடுபவன்",
+        "meaning": "eater",
+        "sentence": "அவன் சாப்பிடுபவன்."
+      },
+      {
+        "word": "உணவு",
+        "meaning": "food",
+        "sentence": "உணவு புனிதமானது."
+      }
+    ],
+    "relatedRootIds": ["ta_suffix_pavan"],
+    "pronunciationIpa": "/tɕaːpːiɖu/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "cappitu"
+      }
+    ]
+  },
+  {
+    "id": "ta_base_kondu",
+    "root": "கொண்டு",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "carry",
+    "examples": [
+      {
+        "word": "கொண்டு செல்",
+        "meaning": "carry; take",
+        "sentence": "அவன் பையை கொண்டு செல்கிறான்."
+      },
+      {
+        "word": "கொண்டு வா",
+        "meaning": "bring",
+        "sentence": "நீர் கொண்டு வா."
+      },
+      {
+        "word": "தாங்கி",
+        "meaning": "support; carry",
+        "sentence": "அவன் சுமையை தாங்குகிறான்."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/koɳɖu/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "kondu"
+      }
+    ]
+  },
+  {
+    "id": "ta_base_kudi",
+    "root": "குடி",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "drink",
+    "examples": [
+      {
+        "word": "குடிக்கிறான்",
+        "meaning": "drinks",
+        "sentence": "அவன் நீர் குடிக்கிறான்."
+      },
+      {
+        "word": "குடிப்பவன்",
+        "meaning": "drinker",
+        "sentence": "அவன் குடிப்பவன்."
+      },
+      {
+        "word": "பானம்",
+        "meaning": "beverage",
+        "sentence": "பானம் குளிர்ச்சியானது."
+      }
+    ],
+    "relatedRootIds": ["ta_suffix_pavan"],
+    "pronunciationIpa": "/kuɖi/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "kudi"
+      }
+    ]
+  },
+  {
+    "id": "ta_base_pidi",
+    "root": "பிடி",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "hold",
+    "examples": [
+      {
+        "word": "பிடிக்கிறான்",
+        "meaning": "holds",
+        "sentence": "அவன் கையை பிடிக்கிறான்."
+      },
+      {
+        "word": "பிடிப்பு",
+        "meaning": "grip",
+        "sentence": "பிடிப்பு வலுவானது."
+      },
+      {
+        "word": "பிடிப்பவன்",
+        "meaning": "holder",
+        "sentence": "அவன் பிடிப்பவன்."
+      }
+    ],
+    "relatedRootIds": ["ta_suffix_pavan"],
+    "pronunciationIpa": "/piɖi/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "pidi"
+      }
+    ]
+  },
+  {
+    "id": "ta_base_ari",
+    "root": "அறி",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "know",
+    "examples": [
+      {
+        "word": "அறிகிறான்",
+        "meaning": "knows",
+        "sentence": "அவன் விடையை அறிகிறான்."
+      },
+      {
+        "word": "அறிவு",
+        "meaning": "knowledge",
+        "sentence": "அறிவு சக்தி."
+      },
+      {
+        "word": "அறிஞன்",
+        "meaning": "scholar",
+        "sentence": "அவன் அறிஞன்."
+      }
+    ],
+    "relatedRootIds": ["ta_suffix_pavan"],
+    "pronunciationIpa": "/aɾi/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "ari"
+      }
+    ]
+  },
+  {
+    "id": "ta_base_oli",
+    "root": "ஒளி",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "light",
+    "examples": [
+      {
+        "word": "ஒளி",
+        "meaning": "light",
+        "sentence": "ஒளி பிரகாசமானது."
+      },
+      {
+        "word": "ஒளிரும்",
+        "meaning": "shining",
+        "sentence": "சூரியன் ஒளிரும்."
+      },
+      {
+        "word": "விளக்கு",
+        "meaning": "lamp",
+        "sentence": "விளக்கு எரிகிறது."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/oɭi/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "oli"
+      }
+    ]
+  },
+  {
+    "id": "ta_base_anbu",
+    "root": "அன்பு",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "love",
+    "examples": [
+      {
+        "word": "அன்பு",
+        "meaning": "love",
+        "sentence": "அன்பு பெரியது."
+      },
+      {
+        "word": "அன்புள்ள",
+        "meaning": "loving",
+        "sentence": "அவள் அன்புள்ளவள்."
+      },
+      {
+        "word": "காதல்",
+        "meaning": "romantic love",
+        "sentence": "காதல் இனிமையானது."
+      }
+    ],
+    "relatedRootIds": ["ta_suffix_ulla"],
+    "pronunciationIpa": "/anbu/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "anbu"
+      }
+    ]
+  },
+  {
+    "id": "ta_base_pesu",
+    "root": "பேசு",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "speak; talk",
+    "examples": [
+      {
+        "word": "பேசுகிறான்",
+        "meaning": "speaks",
+        "sentence": "அவன் தமிழ் பேசுகிறான்."
+      },
+      {
+        "word": "பேச்சு",
+        "meaning": "speech",
+        "sentence": "பேச்சு நல்லது."
+      },
+      {
+        "word": "பேசுபவன்",
+        "meaning": "speaker",
+        "sentence": "அவன் நல்ல பேசுபவன்."
+      }
+    ],
+    "relatedRootIds": ["ta_suffix_pavan"],
+    "pronunciationIpa": "/peːsu/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "pesu"
+      }
+    ]
+  },
+  {
+    "id": "ta_base_nir",
+    "root": "நீர்",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "water",
+    "examples": [
+      {
+        "word": "நீர்",
+        "meaning": "water",
+        "sentence": "நீர் தூய்மையானது."
+      },
+      {
+        "word": "நீர்நிலை",
+        "meaning": "water body",
+        "sentence": "நீர்நிலை அழகானது."
+      },
+      {
+        "word": "தண்ணீர்",
+        "meaning": "cool water",
+        "sentence": "தண்ணீர் குடிக்க வேண்டும்."
+      }
+    ],
+    "relatedRootIds": ["ta_suffix_ulla"],
+    "pronunciationIpa": "/niːɾ/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "nir"
+      }
+    ]
+  },
+  {
+    "id": "ta_base_velai",
+    "root": "வேலை",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "work",
+    "examples": [
+      {
+        "word": "வேலை",
+        "meaning": "work",
+        "sentence": "வேலை முடிந்தது."
+      },
+      {
+        "word": "வேலையாள்",
+        "meaning": "worker",
+        "sentence": "வேலையாள் வருகிறார்."
+      },
+      {
+        "word": "வேலை செய்",
+        "meaning": "do work",
+        "sentence": "வேலை செய்."
+      }
+    ],
+    "relatedRootIds": ["ta_suffix_karar"],
+    "pronunciationIpa": "/ʋeːlai/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "velai"
+      }
+    ]
+  }
+]

@@ -1,0 +1,962 @@
+[
+  {
+    "id": "ar_base_ktb",
+    "root": "ك ت ب",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "write; writing (k-t-b)",
+    "examples": [
+      {
+        "word": "كتاب",
+        "meaning": "book",
+        "sentence": "هذا كتاب جيد."
+      },
+      {
+        "word": "كاتب",
+        "meaning": "writer",
+        "sentence": "الكاتب يكتب رواية."
+      },
+      {
+        "word": "مكتبة",
+        "meaning": "library",
+        "sentence": "المكتبة مفتوحة اليوم."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_m", "ar_suffix_ta"],
+    "pronunciationIpa": "/kaˈtaba/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "kataba"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_drs",
+    "root": "د ر س",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "study; learn (d-r-s)",
+    "examples": [
+      {
+        "word": "درس",
+        "meaning": "lesson",
+        "sentence": "الدرس سهل."
+      },
+      {
+        "word": "مدرسة",
+        "meaning": "school",
+        "sentence": "المدرسة كبيرة."
+      },
+      {
+        "word": "دراسة",
+        "meaning": "study",
+        "sentence": "الدراسة مهمة."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_m", "ar_suffix_at"],
+    "pronunciationIpa": "/daˈrasa/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "darasa"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_lm",
+    "root": "ع ل م",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "know; knowledge (ʿ-l-m)",
+    "examples": [
+      {
+        "word": "علم",
+        "meaning": "knowledge",
+        "sentence": "العلم نور."
+      },
+      {
+        "word": "عالم",
+        "meaning": "scholar",
+        "sentence": "العالم مشهور."
+      },
+      {
+        "word": "تعليم",
+        "meaning": "education",
+        "sentence": "التعليم حق للجميع."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_t"],
+    "pronunciationIpa": "/ʕaˈlima/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "alima"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_qra",
+    "root": "ق ر أ",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "read; recite (q-r-ʾ)",
+    "examples": [
+      {
+        "word": "قرأ",
+        "meaning": "he read",
+        "sentence": "قرأ الطالب الدرس."
+      },
+      {
+        "word": "قارئ",
+        "meaning": "reader",
+        "sentence": "القارئ يقرأ كل يوم."
+      },
+      {
+        "word": "قراءة",
+        "meaning": "reading",
+        "sentence": "القراءة مفيدة."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_ya", "ar_suffix_ta"],
+    "pronunciationIpa": "/qaˈraʔa/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "qaraa"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_slm",
+    "root": "س ل م",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "peace; safety (s-l-m)",
+    "examples": [
+      {
+        "word": "سلام",
+        "meaning": "peace",
+        "sentence": "السلام عليكم."
+      },
+      {
+        "word": "مسلم",
+        "meaning": "Muslim",
+        "sentence": "المسلم يصلي."
+      },
+      {
+        "word": "تسليم",
+        "meaning": "delivery",
+        "sentence": "تسليم الطلب اليوم."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_t", "ar_suffix_un"],
+    "pronunciationIpa": "/saˈlima/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "salima"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_khrj",
+    "root": "خ ر ج",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "go out; exit (kh-r-j)",
+    "examples": [
+      {
+        "word": "خرج",
+        "meaning": "he went out",
+        "sentence": "خرج الطفل إلى الحديقة."
+      },
+      {
+        "word": "خروج",
+        "meaning": "exit",
+        "sentence": "خروج الطلاب بعد الدرس."
+      },
+      {
+        "word": "مخرج",
+        "meaning": "exit; director",
+        "sentence": "المخرج السينمائي موهوب."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_m"],
+    "pronunciationIpa": "/xaˈradʒa/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "kharaja"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_dkhl",
+    "root": "د خ ل",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "enter (d-kh-l)",
+    "examples": [
+      {
+        "word": "دخل",
+        "meaning": "he entered",
+        "sentence": "دخل الرجل المسجد."
+      },
+      {
+        "word": "مدخل",
+        "meaning": "entrance",
+        "sentence": "مدخل المبنى واسع."
+      },
+      {
+        "word": "دخول",
+        "meaning": "entry",
+        "sentence": "الدخول ممنوع."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_m"],
+    "pronunciationIpa": "/daˈxala/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "dakhala"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_jls",
+    "root": "ج ل س",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "sit (j-l-s)",
+    "examples": [
+      {
+        "word": "جلس",
+        "meaning": "he sat",
+        "sentence": "جلس الطالب على الكرسي."
+      },
+      {
+        "word": "مجلس",
+        "meaning": "council",
+        "sentence": "المجلس يجتمع غداً."
+      },
+      {
+        "word": "جلوس",
+        "meaning": "sitting",
+        "sentence": "الجلوس طويل مضر."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_m"],
+    "pronunciationIpa": "/dʒaˈlasa/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "jalasa"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_shrb",
+    "root": "ش ر ب",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "drink (sh-r-b)",
+    "examples": [
+      {
+        "word": "شرب",
+        "meaning": "he drank",
+        "sentence": "شرب الماء البارد."
+      },
+      {
+        "word": "مشروب",
+        "meaning": "drink",
+        "sentence": "المشروب لذيذ."
+      },
+      {
+        "word": "شراب",
+        "meaning": "syrup",
+        "sentence": "الشراب حلو."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_m"],
+    "pronunciationIpa": "/ʃaˈraba/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "sharaba"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_akl",
+    "root": "أ ك ل",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "eat (ʾ-k-l)",
+    "examples": [
+      {
+        "word": "أكل",
+        "meaning": "he ate",
+        "sentence": "أكل الطفل التفاحة."
+      },
+      {
+        "word": "أكل",
+        "meaning": "food",
+        "sentence": "الأكل جاهز."
+      },
+      {
+        "word": "مأكول",
+        "meaning": "edible",
+        "sentence": "هذا النبات مأكول."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_m"],
+    "pronunciationIpa": "/ʔaˈkala/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "akala"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_fhm",
+    "root": "ف ه م",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "understand (f-h-m)",
+    "examples": [
+      {
+        "word": "فهم",
+        "meaning": "he understood",
+        "sentence": "فهم الطالب الدرس."
+      },
+      {
+        "word": "فاهم",
+        "meaning": "understanding",
+        "sentence": "هو فاهم جداً."
+      },
+      {
+        "word": "تفاهم",
+        "meaning": "mutual understanding",
+        "sentence": "التفاهم بينهما جيد."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_t"],
+    "pronunciationIpa": "/faˈhima/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "fahima"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_sfr",
+    "root": "س ف ر",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "travel (s-f-r)",
+    "examples": [
+      {
+        "word": "سفر",
+        "meaning": "travel",
+        "sentence": "السفر ممتع."
+      },
+      {
+        "word": "مسافر",
+        "meaning": "traveler",
+        "sentence": "المسافر متعب."
+      },
+      {
+        "word": "سفارة",
+        "meaning": "embassy",
+        "sentence": "السفارة مغلقة."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_m", "ar_suffix_ta"],
+    "pronunciationIpa": "/saˈfara/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "safara"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_rkb",
+    "root": "ر ك ب",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "ride (r-k-b)",
+    "examples": [
+      {
+        "word": "ركب",
+        "meaning": "he rode",
+        "sentence": "ركب الحصان."
+      },
+      {
+        "word": "مركبة",
+        "meaning": "vehicle",
+        "sentence": "المركبة سريعة."
+      },
+      {
+        "word": "راكب",
+        "meaning": "passenger",
+        "sentence": "الراكب نائم."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_m"],
+    "pronunciationIpa": "/raˈkiba/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "rakiba"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_hmd",
+    "root": "ح م د",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "praise (ḥ-m-d)",
+    "examples": [
+      {
+        "word": "حمد",
+        "meaning": "he praised",
+        "sentence": "حمد الله."
+      },
+      {
+        "word": "محمود",
+        "meaning": "praised",
+        "sentence": "اسمه محمود."
+      },
+      {
+        "word": "حميد",
+        "meaning": "praiseworthy",
+        "sentence": "هو شخص حميد."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ħaˈmida/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "hamida"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_nzl",
+    "root": "ن ز ل",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "descend (n-z-l)",
+    "examples": [
+      {
+        "word": "نزل",
+        "meaning": "he descended",
+        "sentence": "نزل المطر."
+      },
+      {
+        "word": "منزل",
+        "meaning": "house",
+        "sentence": "المنزل جميل."
+      },
+      {
+        "word": "نزول",
+        "meaning": "descent",
+        "sentence": "نزول المطر مفيد."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_m", "ar_prefix_in"],
+    "pronunciationIpa": "/naˈzala/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "nazala"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_fel",
+    "root": "ف ع ل",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "do; make (f-ʿ-l)",
+    "examples": [
+      {
+        "word": "فعل",
+        "meaning": "he did",
+        "sentence": "فعل الطالب الواجب."
+      },
+      {
+        "word": "فعل",
+        "meaning": "action; deed",
+        "sentence": "الفعل مهم في الجملة."
+      },
+      {
+        "word": "فاعل",
+        "meaning": "doer",
+        "sentence": "الفاعل مجتهد."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_ya"],
+    "pronunciationIpa": "/faʕala/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "faala"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_dhb",
+    "root": "ذ ه ب",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "go (dh-h-b)",
+    "examples": [
+      {
+        "word": "ذهب",
+        "meaning": "he went",
+        "sentence": "ذهب الطالب إلى المدرسة."
+      },
+      {
+        "word": "يذهب",
+        "meaning": "he goes",
+        "sentence": "يذهب الرجل إلى العمل."
+      },
+      {
+        "word": "مذهب",
+        "meaning": "way; school of thought",
+        "sentence": "المذهب واضح."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_ya", "ar_prefix_m"],
+    "pronunciationIpa": "/ðaˈhaba/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "dhahaba"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_jya",
+    "root": "ج ي ء",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "come (j-y-ʾ)",
+    "examples": [
+      {
+        "word": "جاء",
+        "meaning": "he came",
+        "sentence": "جاء الطالب باكراً."
+      },
+      {
+        "word": "يجيء",
+        "meaning": "he comes",
+        "sentence": "يجيء الطالب كل يوم."
+      },
+      {
+        "word": "مجيء",
+        "meaning": "coming",
+        "sentence": "مجيء الخريف جميل."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_ya", "ar_prefix_m"],
+    "pronunciationIpa": "/dʒaːʔa/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "jaaa"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_ray",
+    "root": "ر أ ي",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "see (r-ʾ-y)",
+    "examples": [
+      {
+        "word": "رأى",
+        "meaning": "he saw",
+        "sentence": "رأى الطالب الطائرة."
+      },
+      {
+        "word": "رأي",
+        "meaning": "opinion; view",
+        "sentence": "رأيه صائب."
+      },
+      {
+        "word": "مرأى",
+        "meaning": "scene; place of seeing",
+        "sentence": "المرأى جميل."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_m"],
+    "pronunciationIpa": "/raʔaː/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "raaa"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_sme",
+    "root": "س م ع",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "hear; listen (s-m-ʿ)",
+    "examples": [
+      {
+        "word": "سمع",
+        "meaning": "he heard",
+        "sentence": "سمع الطالب الموسيقى."
+      },
+      {
+        "word": "استمع",
+        "meaning": "he listened",
+        "sentence": "استمع إلى المعلم."
+      },
+      {
+        "word": "مسموع",
+        "meaning": "audible; heard",
+        "sentence": "الصوت مسموع."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_m", "ar_prefix_ista"],
+    "pronunciationIpa": "/saˈmiʕa/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "samia"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_qwl",
+    "root": "ق و ل",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "say; speak (q-w-l)",
+    "examples": [
+      {
+        "word": "قال",
+        "meaning": "he said",
+        "sentence": "قال الطالب الحقيقة."
+      },
+      {
+        "word": "قول",
+        "meaning": "saying; word",
+        "sentence": "القول مسموع."
+      },
+      {
+        "word": "مقال",
+        "meaning": "article; essay",
+        "sentence": "المقال طويل."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_m"],
+    "pronunciationIpa": "/qaːla/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "qala"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_fkr",
+    "root": "ف ك ر",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "think (f-k-r)",
+    "examples": [
+      {
+        "word": "فكر",
+        "meaning": "he thought",
+        "sentence": "فكر الطالب كثيراً."
+      },
+      {
+        "word": "تفكير",
+        "meaning": "thinking",
+        "sentence": "التفكير مهم."
+      },
+      {
+        "word": "مفكر",
+        "meaning": "thinker",
+        "sentence": "المفكر مشهور."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_t", "ar_prefix_m"],
+    "pronunciationIpa": "/faˈkːara/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "fakkara"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_akh",
+    "root": "أ خ ذ",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "take (ʾ-kh-dh)",
+    "examples": [
+      {
+        "word": "أخذ",
+        "meaning": "he took",
+        "sentence": "أخذ الطالب الكتاب."
+      },
+      {
+        "word": "أخذ",
+        "meaning": "taking",
+        "sentence": "الأخذ سريع."
+      },
+      {
+        "word": "مأخوذ",
+        "meaning": "taken",
+        "sentence": "الكتاب مأخوذ."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_m"],
+    "pronunciationIpa": "/ʔaˈxadha/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "akhadha"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_ety",
+    "root": "ع ط ي",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "give (ʿ-ṭ-y)",
+    "examples": [
+      {
+        "word": "أعطى",
+        "meaning": "he gave",
+        "sentence": "أعطى الرجل المال."
+      },
+      {
+        "word": "عطاء",
+        "meaning": "giving; gift",
+        "sentence": "العطاء كريم."
+      },
+      {
+        "word": "عطية",
+        "meaning": "gift",
+        "sentence": "العطية جميلة."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_a", "ar_suffix_ta"],
+    "pronunciationIpa": "/ʔaʕˈtˤaː/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ataa"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_aml",
+    "root": "ع م ل",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "work (ʿ-m-l)",
+    "examples": [
+      {
+        "word": "عمل",
+        "meaning": "he worked",
+        "sentence": "عمل الرجل بجد."
+      },
+      {
+        "word": "عمل",
+        "meaning": "work",
+        "sentence": "العمل مهم."
+      },
+      {
+        "word": "معمل",
+        "meaning": "factory; lab",
+        "sentence": "المعمل نظيف."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_m"],
+    "pronunciationIpa": "/ʕaˈmila/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "amila"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_hbb",
+    "root": "ح ب ب",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "love (ḥ-b-b)",
+    "examples": [
+      {
+        "word": "حب",
+        "meaning": "love",
+        "sentence": "الحب جميل."
+      },
+      {
+        "word": "محبوب",
+        "meaning": "beloved",
+        "sentence": "المحبوب حاضر."
+      },
+      {
+        "word": "محبة",
+        "meaning": "affection; love",
+        "sentence": "المحبة تربطنا."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_m", "ar_suffix_ta"],
+    "pronunciationIpa": "/ħaˈbiba/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "habiba"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_nwr",
+    "root": "ن و ر",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "light (n-w-r)",
+    "examples": [
+      {
+        "word": "نور",
+        "meaning": "light",
+        "sentence": "النور ساطع."
+      },
+      {
+        "word": "منارة",
+        "meaning": "lighthouse; minaret",
+        "sentence": "المنارة عالية."
+      },
+      {
+        "word": "منير",
+        "meaning": "luminous",
+        "sentence": "الوجه منير."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_m", "ar_suffix_ta"],
+    "pronunciationIpa": "/naˈwara/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "nawara"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_mya",
+    "root": "م ا ء",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "water (m-ʾ-y)",
+    "examples": [
+      {
+        "word": "ماء",
+        "meaning": "water",
+        "sentence": "الماء صافٍ."
+      },
+      {
+        "word": "مياه",
+        "meaning": "waters",
+        "sentence": "المياه عميقة."
+      },
+      {
+        "word": "مائي",
+        "meaning": "aqueous; watery",
+        "sentence": "الإنسان بحاجة إلى الغذاء المائي."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/maːʔ/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "maa"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_msk",
+    "root": "م س ك",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "hold; grasp (m-s-k)",
+    "examples": [
+      {
+        "word": "أمسك",
+        "meaning": "he held; he grasped",
+        "sentence": "أمسك الطالب القلم."
+      },
+      {
+        "word": "مسك",
+        "meaning": "hold; grasp",
+        "sentence": "المسك قوي."
+      },
+      {
+        "word": "ممسك",
+        "meaning": "holder",
+        "sentence": "الممسك مفيد."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_a", "ar_prefix_m"],
+    "pronunciationIpa": "/ʔaˈmasaka/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "amasaka"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_hml",
+    "root": "ح م ل",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "carry (ḥ-m-l)",
+    "examples": [
+      {
+        "word": "حمل",
+        "meaning": "he carried",
+        "sentence": "حمل الطالب الكتب."
+      },
+      {
+        "word": "محمول",
+        "meaning": "carried",
+        "sentence": "الحمل محمول على الظهر."
+      },
+      {
+        "word": "حمال",
+        "meaning": "carrier; porter",
+        "sentence": "الحمال يحمل الأمتعة."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_a", "ar_prefix_m"],
+    "pronunciationIpa": "/ħaˈmala/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "hamala"
+      }
+    ]
+  }
+]

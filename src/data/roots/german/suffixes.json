@@ -1,0 +1,322 @@
+[
+  {
+    "id": "de_suffix_ung",
+    "root": "-ung",
+    "type": "suffix",
+    "languageOrigin": "Germanic",
+    "meaning": "action; process; result",
+    "examples": [
+      {
+        "word": "Ordnung",
+        "meaning": "order",
+        "sentence": "Die Ordnung ist wichtig."
+      },
+      {
+        "word": "Wohnung",
+        "meaning": "apartment",
+        "sentence": "Die Wohnung ist klein."
+      },
+      {
+        "word": "Übung",
+        "meaning": "exercise",
+        "sentence": "Übung macht den Meister."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ʊŋ/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ung"
+      }
+    ]
+  },
+  {
+    "id": "de_suffix_heit",
+    "root": "-heit",
+    "type": "suffix",
+    "languageOrigin": "Germanic",
+    "meaning": "abstract quality (-ness)",
+    "examples": [
+      {
+        "word": "Freiheit",
+        "meaning": "freedom",
+        "sentence": "Freiheit ist wichtig."
+      },
+      {
+        "word": "Gesundheit",
+        "meaning": "health",
+        "sentence": "Gesundheit ist besser als Reichtum."
+      },
+      {
+        "word": "Sicherheit",
+        "meaning": "safety",
+        "sentence": "Sicherheit geht vor."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/haɪ̯t/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "heit"
+      }
+    ]
+  },
+  {
+    "id": "de_suffix_schaft",
+    "root": "-schaft",
+    "type": "suffix",
+    "languageOrigin": "Germanic",
+    "meaning": "collective; state; -ship",
+    "examples": [
+      {
+        "word": "Freundschaft",
+        "meaning": "friendship",
+        "sentence": "Unsere Freundschaft ist stark."
+      },
+      {
+        "word": "Wissenschaft",
+        "meaning": "science",
+        "sentence": "Wissenschaft erklärt die Welt."
+      },
+      {
+        "word": "Mannschaft",
+        "meaning": "team",
+        "sentence": "Die Mannschaft gewinnt."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ʃaft/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "schaft"
+      }
+    ]
+  },
+  {
+    "id": "de_suffix_er",
+    "root": "-er",
+    "type": "suffix",
+    "languageOrigin": "Germanic",
+    "meaning": "agent; doer",
+    "examples": [
+      {
+        "word": "Leser",
+        "meaning": "reader",
+        "sentence": "Der Leser fragt sich."
+      },
+      {
+        "word": "Fahrer",
+        "meaning": "driver",
+        "sentence": "Der Fahrer hält."
+      },
+      {
+        "word": "Arbeiter",
+        "meaning": "worker",
+        "sentence": "Der Arbeiter ist fleißig."
+      }
+    ],
+    "relatedRootIds": ["de_base_les", "de_base_fahr", "de_base_arbeit"],
+    "pronunciationIpa": "/ɐ/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "er"
+      }
+    ]
+  },
+  {
+    "id": "de_suffix_chen",
+    "root": "-chen",
+    "type": "suffix",
+    "languageOrigin": "Germanic",
+    "meaning": "diminutive",
+    "examples": [
+      {
+        "word": "Mädchen",
+        "meaning": "girl",
+        "sentence": "Das Mädchen spielt."
+      },
+      {
+        "word": "Häuschen",
+        "meaning": "little house",
+        "sentence": "Das Häuschen ist gemütlich."
+      },
+      {
+        "word": "Büchlein",
+        "meaning": "little book",
+        "sentence": "Das Büchlein ist alt."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/çən/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "chen"
+      }
+    ]
+  },
+  {
+    "id": "de_suffix_bar",
+    "root": "-bar",
+    "type": "suffix",
+    "languageOrigin": "Germanic",
+    "meaning": "able; -able",
+    "examples": [
+      {
+        "word": "machbar",
+        "meaning": "feasible",
+        "sentence": "Das ist machbar."
+      },
+      {
+        "word": "lesbar",
+        "meaning": "readable",
+        "sentence": "Der Text ist gut lesbar."
+      },
+      {
+        "word": "trinkbar",
+        "meaning": "drinkable",
+        "sentence": "Das Wasser ist trinkbar."
+      }
+    ],
+    "relatedRootIds": ["de_base_mach", "de_base_les", "de_base_trink"],
+    "pronunciationIpa": "/baːɐ̯/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "bar"
+      }
+    ]
+  },
+  {
+    "id": "de_suffix_lich",
+    "root": "-lich",
+    "type": "suffix",
+    "languageOrigin": "Germanic",
+    "meaning": "like; -ly; adjective",
+    "examples": [
+      {
+        "word": "freundlich",
+        "meaning": "friendly",
+        "sentence": "Sie ist freundlich."
+      },
+      {
+        "word": "kindlich",
+        "meaning": "childlike",
+        "sentence": "Sein Verhalten ist kindlich."
+      },
+      {
+        "word": "täglich",
+        "meaning": "daily",
+        "sentence": "Ich trinke täglich Tee."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/lɪç/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "lich"
+      }
+    ]
+  },
+  {
+    "id": "de_suffix_los",
+    "root": "-los",
+    "type": "suffix",
+    "languageOrigin": "Germanic",
+    "meaning": "without; -less",
+    "examples": [
+      {
+        "word": "arbeitslos",
+        "meaning": "unemployed",
+        "sentence": "Er ist arbeitslos."
+      },
+      {
+        "word": "endlos",
+        "meaning": "endless",
+        "sentence": "Die Straße scheint endlos."
+      },
+      {
+        "word": "hoffnungslos",
+        "meaning": "hopeless",
+        "sentence": "Die Lage ist hoffnungslos."
+      }
+    ],
+    "relatedRootIds": ["de_base_arbeit"],
+    "pronunciationIpa": "/loːs/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "los"
+      }
+    ]
+  },
+  {
+    "id": "de_suffix_weise",
+    "root": "-weise",
+    "type": "suffix",
+    "languageOrigin": "Germanic",
+    "meaning": "in a … way; -wise",
+    "examples": [
+      {
+        "word": "möglicherweise",
+        "meaning": "possibly",
+        "sentence": "Es regnet möglicherweise."
+      },
+      {
+        "word": "beispielsweise",
+        "meaning": "for example",
+        "sentence": "Beispielsweise rote Rosen."
+      },
+      {
+        "word": "teilweise",
+        "meaning": "partly",
+        "sentence": "Das ist teilweise richtig."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/vaɪ̯zə/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "weise"
+      }
+    ]
+  },
+  {
+    "id": "de_suffix_tum",
+    "root": "-tum",
+    "type": "suffix",
+    "languageOrigin": "Germanic",
+    "meaning": "domain; -dom; -hood",
+    "examples": [
+      {
+        "word": "Königtum",
+        "meaning": "kingship",
+        "sentence": "Das Königtum wurde abgeschafft."
+      },
+      {
+        "word": "Bürgertum",
+        "meaning": "bourgeoisie",
+        "sentence": "Das Bürgertum wuchs."
+      },
+      {
+        "word": "Christentum",
+        "meaning": "Christianity",
+        "sentence": "Das Christentum verbreitete sich."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/tuːm/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "tum"
+      }
+    ]
+  }
+]

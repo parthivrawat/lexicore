@@ -1,0 +1,663 @@
+[
+  {
+    "id": "vi_base_an",
+    "root": "ăn",
+    "type": "base",
+    "languageOrigin": "Vietnamese",
+    "meaning": "eat",
+    "examples": [
+      {
+        "word": "ăn cơm",
+        "meaning": "eat rice",
+        "sentence": "Tôi ăn cơm."
+      },
+      {
+        "word": "ăn sáng",
+        "meaning": "breakfast",
+        "sentence": "Tôi ăn sáng."
+      },
+      {
+        "word": "ăn uống",
+        "meaning": "food and drink",
+        "sentence": "Ăn uống no nê."
+      }
+    ],
+    "relatedRootIds": [
+      "vi_prefix_khong",
+      "vi_prefix_da",
+      "vi_prefix_dang",
+      "vi_suffix_di",
+      "vi_suffix_duoc2"
+    ],
+    "pronunciationIpa": "/an/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "an"
+      }
+    ]
+  },
+  {
+    "id": "vi_base_uong",
+    "root": "uống",
+    "type": "base",
+    "languageOrigin": "Vietnamese",
+    "meaning": "drink",
+    "examples": [
+      {
+        "word": "uống nước",
+        "meaning": "drink water",
+        "sentence": "Tôi uống nước."
+      },
+      {
+        "word": "uống trà",
+        "meaning": "drink tea",
+        "sentence": "Tôi uống trà."
+      },
+      {
+        "word": "uống rượu",
+        "meaning": "drink alcohol",
+        "sentence": "Anh ấy uống rượu."
+      }
+    ],
+    "relatedRootIds": ["vi_prefix_khong", "vi_suffix_di"],
+    "pronunciationIpa": "/uəŋ/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "uong"
+      }
+    ]
+  },
+  {
+    "id": "vi_base_di",
+    "root": "đi",
+    "type": "base",
+    "languageOrigin": "Vietnamese",
+    "meaning": "go",
+    "examples": [
+      {
+        "word": "đi học",
+        "meaning": "go to school",
+        "sentence": "Tôi đi học."
+      },
+      {
+        "word": "đi làm",
+        "meaning": "go to work",
+        "sentence": "Anh ấy đi làm."
+      },
+      {
+        "word": "đi chơi",
+        "meaning": "go out for fun",
+        "sentence": "Chúng tôi đi chơi."
+      }
+    ],
+    "relatedRootIds": [
+      "vi_prefix_khong",
+      "vi_prefix_da",
+      "vi_prefix_se",
+      "vi_prefix_dang",
+      "vi_suffix_di",
+      "vi_suffix_ra",
+      "vi_suffix_vao"
+    ],
+    "pronunciationIpa": "/ɗi/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "di"
+      }
+    ]
+  },
+  {
+    "id": "vi_base_den",
+    "root": "đến",
+    "type": "base",
+    "languageOrigin": "Vietnamese",
+    "meaning": "come",
+    "examples": [
+      {
+        "word": "đến nhà",
+        "meaning": "come home",
+        "sentence": "Cô ấy đến nhà."
+      },
+      {
+        "word": "đến trường",
+        "meaning": "come to school",
+        "sentence": "Đến trường sớm."
+      },
+      {
+        "word": "đến đây",
+        "meaning": "come here",
+        "sentence": "Đến đây!"
+      }
+    ],
+    "relatedRootIds": ["vi_prefix_se", "vi_suffix_di"],
+    "pronunciationIpa": "/ɗen/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "den"
+      }
+    ]
+  },
+  {
+    "id": "vi_base_lam",
+    "root": "làm",
+    "type": "base",
+    "languageOrigin": "Vietnamese",
+    "meaning": "do; make; work",
+    "examples": [
+      {
+        "word": "làm việc",
+        "meaning": "work",
+        "sentence": "Tôi làm việc."
+      },
+      {
+        "word": "làm bài",
+        "meaning": "do homework",
+        "sentence": "Tôi làm bài."
+      },
+      {
+        "word": "làm người",
+        "meaning": "be a person",
+        "sentence": "Làm người tốt."
+      }
+    ],
+    "relatedRootIds": [
+      "vi_prefix_da",
+      "vi_prefix_se",
+      "vi_prefix_dang",
+      "vi_suffix_di",
+      "vi_suffix_duoc2",
+      "vi_suffix_ma"
+    ],
+    "pronunciationIpa": "/lam/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "lam"
+      }
+    ]
+  },
+  {
+    "id": "vi_base_viet",
+    "root": "viết",
+    "type": "base",
+    "languageOrigin": "Vietnamese",
+    "meaning": "write",
+    "examples": [
+      {
+        "word": "viết thư",
+        "meaning": "write letter",
+        "sentence": "Tôi viết thư."
+      },
+      {
+        "word": "viết bài",
+        "meaning": "write article",
+        "sentence": "Anh ấy viết bài."
+      },
+      {
+        "word": "viết sách",
+        "meaning": "write book",
+        "sentence": "Cô ấy viết sách."
+      }
+    ],
+    "relatedRootIds": ["vi_suffix_duoc2"],
+    "pronunciationIpa": "/viet/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "viet"
+      }
+    ]
+  },
+  {
+    "id": "vi_base_doc",
+    "root": "đọc",
+    "type": "base",
+    "languageOrigin": "Vietnamese",
+    "meaning": "read",
+    "examples": [
+      {
+        "word": "đọc sách",
+        "meaning": "read book",
+        "sentence": "Tôi đọc sách."
+      },
+      {
+        "word": "đọc báo",
+        "meaning": "read newspaper",
+        "sentence": "Ông ấy đọc báo."
+      },
+      {
+        "word": "đọc to",
+        "meaning": "read aloud",
+        "sentence": "Đọc to lên."
+      }
+    ],
+    "relatedRootIds": ["vi_prefix_dang"],
+    "pronunciationIpa": "/ɗɔk/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "doc"
+      }
+    ]
+  },
+  {
+    "id": "vi_base_nhin",
+    "root": "nhìn",
+    "type": "base",
+    "languageOrigin": "Vietnamese",
+    "meaning": "see; look",
+    "examples": [
+      {
+        "word": "nhìn thấy",
+        "meaning": "see",
+        "sentence": "Tôi nhìn thấy cô ấy."
+      },
+      {
+        "word": "nhìn vào",
+        "meaning": "look at",
+        "sentence": "Nhìn vào bảng."
+      },
+      {
+        "word": "nhìn ra",
+        "meaning": "look out",
+        "sentence": "Nhìn ra ngoài."
+      }
+    ],
+    "relatedRootIds": ["vi_suffix_ra", "vi_suffix_vao"],
+    "pronunciationIpa": "/ɲiɲ/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "nhin"
+      }
+    ]
+  },
+  {
+    "id": "vi_base_nghe",
+    "root": "nghe",
+    "type": "base",
+    "languageOrigin": "Vietnamese",
+    "meaning": "hear; listen",
+    "examples": [
+      {
+        "word": "nghe nhạc",
+        "meaning": "listen to music",
+        "sentence": "Tôi nghe nhạc."
+      },
+      {
+        "word": "nghe nói",
+        "meaning": "hear that",
+        "sentence": "Nghe nói anh ấy đi."
+      },
+      {
+        "word": "nghe theo",
+        "meaning": "obey",
+        "sentence": "Nghe theo lời khuyên."
+      }
+    ],
+    "relatedRootIds": ["vi_suffix_nhe"],
+    "pronunciationIpa": "/ŋe/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "nghe"
+      }
+    ]
+  },
+  {
+    "id": "vi_base_noi",
+    "root": "nói",
+    "type": "base",
+    "languageOrigin": "Vietnamese",
+    "meaning": "speak; say",
+    "examples": [
+      {
+        "word": "nói chuyện",
+        "meaning": "talk",
+        "sentence": "Tôi nói chuyện."
+      },
+      {
+        "word": "nói tiếng Việt",
+        "meaning": "speak Vietnamese",
+        "sentence": "Tôi nói tiếng Việt."
+      },
+      {
+        "word": "nói thật",
+        "meaning": "tell truth",
+        "sentence": "Nói thật đi."
+      }
+    ],
+    "relatedRootIds": ["vi_suffix_di", "vi_suffix_duoc2", "vi_suffix_ma"],
+    "pronunciationIpa": "/nɔi/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "noi"
+      }
+    ]
+  },
+  {
+    "id": "vi_base_nghi",
+    "root": "nghĩ",
+    "type": "base",
+    "languageOrigin": "Vietnamese",
+    "meaning": "think",
+    "examples": [
+      {
+        "word": "nghĩ về",
+        "meaning": "think about",
+        "sentence": "Tôi nghĩ về cô ấy."
+      },
+      {
+        "word": "nghĩ ra",
+        "meaning": "think of",
+        "sentence": "Anh ấy nghĩ ra ý tưởng."
+      },
+      {
+        "word": "nghĩ lại",
+        "meaning": "reconsider",
+        "sentence": "Hãy nghĩ lại."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ŋi/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "nghi"
+      }
+    ]
+  },
+  {
+    "id": "vi_base_lay",
+    "root": "lấy",
+    "type": "base",
+    "languageOrigin": "Vietnamese",
+    "meaning": "take",
+    "examples": [
+      {
+        "word": "lấy sách",
+        "meaning": "take book",
+        "sentence": "Tôi lấy sách."
+      },
+      {
+        "word": "lấy tiền",
+        "meaning": "take money",
+        "sentence": "Anh ấy lấy tiền."
+      },
+      {
+        "word": "lấy ra",
+        "meaning": "take out",
+        "sentence": "Lấy ra đi."
+      }
+    ],
+    "relatedRootIds": ["vi_suffix_ra"],
+    "pronunciationIpa": "/lɛi/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "lay"
+      }
+    ]
+  },
+  {
+    "id": "vi_base_cho",
+    "root": "cho",
+    "type": "base",
+    "languageOrigin": "Vietnamese",
+    "meaning": "give",
+    "examples": [
+      {
+        "word": "cho tôi",
+        "meaning": "give me",
+        "sentence": "Cho tôi nước."
+      },
+      {
+        "word": "cho bạn",
+        "meaning": "give you",
+        "sentence": "Tôi cho bạn quyển sách."
+      },
+      {
+        "word": "cho phép",
+        "meaning": "allow",
+        "sentence": "Cho phép tôi đi."
+      }
+    ],
+    "relatedRootIds": ["vi_suffix_vao"],
+    "pronunciationIpa": "/cɔ/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "cho"
+      }
+    ]
+  },
+  {
+    "id": "vi_base_cam",
+    "root": "cầm",
+    "type": "base",
+    "languageOrigin": "Vietnamese",
+    "meaning": "hold",
+    "examples": [
+      {
+        "word": "cầm sách",
+        "meaning": "hold book",
+        "sentence": "Tôi cầm sách."
+      },
+      {
+        "word": "cầm tay",
+        "meaning": "hold hand",
+        "sentence": "Cô ấy cầm tay tôi."
+      },
+      {
+        "word": "cầm lấy",
+        "meaning": "take hold",
+        "sentence": "Cầm lấy đi."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/kəːm/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "cam"
+      }
+    ]
+  },
+  {
+    "id": "vi_base_biet",
+    "root": "biết",
+    "type": "base",
+    "languageOrigin": "Vietnamese",
+    "meaning": "know",
+    "examples": [
+      {
+        "word": "biết",
+        "meaning": "to know",
+        "sentence": "Tôi biết điều đó."
+      },
+      {
+        "word": "biết ơn",
+        "meaning": "grateful",
+        "sentence": "Tôi biết ơn bạn."
+      },
+      {
+        "word": "không biết",
+        "meaning": "do not know",
+        "sentence": "Tôi không biết."
+      }
+    ],
+    "relatedRootIds": ["vi_prefix_khong"],
+    "pronunciationIpa": "/biət/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "biet"
+      }
+    ]
+  },
+  {
+    "id": "vi_base_mang",
+    "root": "mang",
+    "type": "base",
+    "languageOrigin": "Vietnamese",
+    "meaning": "carry; bring",
+    "examples": [
+      {
+        "word": "mang theo",
+        "meaning": "carry along",
+        "sentence": "Tôi mang theo sách."
+      },
+      {
+        "word": "mang đến",
+        "meaning": "bring to",
+        "sentence": "Anh ấy mang đến nước."
+      },
+      {
+        "word": "mang đi",
+        "meaning": "take away",
+        "sentence": "Mang đi đi."
+      }
+    ],
+    "relatedRootIds": ["vi_prefix_da", "vi_suffix_di"],
+    "pronunciationIpa": "/maːŋ/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "mang"
+      }
+    ]
+  },
+  {
+    "id": "vi_base_sang",
+    "root": "sáng",
+    "type": "base",
+    "languageOrigin": "Vietnamese",
+    "meaning": "light",
+    "examples": [
+      {
+        "word": "sáng",
+        "meaning": "bright; morning",
+        "sentence": "Trời sáng."
+      },
+      {
+        "word": "ánh sáng",
+        "meaning": "light",
+        "sentence": "Ánh sáng đẹp."
+      },
+      {
+        "word": "bật đèn",
+        "meaning": "turn on light",
+        "sentence": "Bật đèn lên."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/saːŋ/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "sang"
+      }
+    ]
+  },
+  {
+    "id": "vi_base_yeu",
+    "root": "yêu",
+    "type": "base",
+    "languageOrigin": "Vietnamese",
+    "meaning": "love",
+    "examples": [
+      {
+        "word": "yêu",
+        "meaning": "to love",
+        "sentence": "Tôi yêu bạn."
+      },
+      {
+        "word": "yêu thương",
+        "meaning": "affection; love",
+        "sentence": "Tình yêu thương lớn."
+      },
+      {
+        "word": "yêu thích",
+        "meaning": "to like; to love",
+        "sentence": "Tôi yêu thích sách."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/iə/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "yeu"
+      }
+    ]
+  },
+  {
+    "id": "vi_base_nuoc",
+    "root": "nước",
+    "type": "base",
+    "languageOrigin": "Vietnamese",
+    "meaning": "water",
+    "examples": [
+      {
+        "word": "nước",
+        "meaning": "water",
+        "sentence": "Tôi uống nước."
+      },
+      {
+        "word": "nước sạch",
+        "meaning": "clean water",
+        "sentence": "Nước sạch quan trọng."
+      },
+      {
+        "word": "nước biển",
+        "meaning": "sea water",
+        "sentence": "Nước biển mặn."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/nɨək/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "nuoc"
+      }
+    ]
+  },
+  {
+    "id": "vi_base_hoc",
+    "root": "học",
+    "type": "base",
+    "languageOrigin": "Vietnamese",
+    "meaning": "learn; study",
+    "examples": [
+      {
+        "word": "học",
+        "meaning": "to study; to learn",
+        "sentence": "Tôi học tiếng Việt."
+      },
+      {
+        "word": "học sinh",
+        "meaning": "student",
+        "sentence": "Học sinh chăm chỉ."
+      },
+      {
+        "word": "học bài",
+        "meaning": "study lesson",
+        "sentence": "Tôi học bài."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/hɔk/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "hoc"
+      }
+    ]
+  }
+]

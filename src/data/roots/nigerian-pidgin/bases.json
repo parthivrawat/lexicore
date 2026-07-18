@@ -1,0 +1,706 @@
+[
+  {
+    "id": "pcm_base_chop",
+    "root": "chop",
+    "type": "base",
+    "languageOrigin": "Nigerian Pidgin",
+    "meaning": "eat; food",
+    "examples": [
+      {
+        "word": "chop",
+        "meaning": "to eat",
+        "sentence": "I wan chop now now."
+      },
+      {
+        "word": "chop food",
+        "meaning": "eat food",
+        "sentence": "Chop dis food before e spoil."
+      },
+      {
+        "word": "chop-chop",
+        "meaning": "quickly",
+        "sentence": "Do am chop-chop."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/tʃɔp/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "chop"
+      }
+    ]
+  },
+  {
+    "id": "pcm_base_go",
+    "root": "go",
+    "type": "base",
+    "languageOrigin": "English",
+    "meaning": "go",
+    "examples": [
+      {
+        "word": "go",
+        "meaning": "to go",
+        "sentence": "I dey go market."
+      },
+      {
+        "word": "go slow",
+        "meaning": "traffic jam",
+        "sentence": "Go slow catch us for road."
+      },
+      {
+        "word": "go away",
+        "meaning": "leave",
+        "sentence": "Wetin make you go away?"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/go/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "go"
+      }
+    ]
+  },
+  {
+    "id": "pcm_base_come",
+    "root": "come",
+    "type": "base",
+    "languageOrigin": "English",
+    "meaning": "come",
+    "examples": [
+      {
+        "word": "come",
+        "meaning": "to come",
+        "sentence": "Come here now."
+      },
+      {
+        "word": "come back",
+        "meaning": "return",
+        "sentence": "E go come back tomorrow."
+      },
+      {
+        "word": "come out",
+        "meaning": "exit; appear",
+        "sentence": "Come make we waka."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/kɔm/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "come"
+      }
+    ]
+  },
+  {
+    "id": "pcm_base_tok",
+    "root": "tok",
+    "type": "base",
+    "languageOrigin": "Nigerian Pidgin",
+    "meaning": "talk; speak",
+    "examples": [
+      {
+        "word": "tok",
+        "meaning": "to talk",
+        "sentence": "No tok nonsense."
+      },
+      {
+        "word": "tok truth",
+        "meaning": "tell the truth",
+        "sentence": "Abeg tok truth."
+      },
+      {
+        "word": "we dey tok",
+        "meaning": "we are talking",
+        "sentence": "We dey tok about di matter."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/tɔk/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "tok"
+      }
+    ]
+  },
+  {
+    "id": "pcm_base_see",
+    "root": "see",
+    "type": "base",
+    "languageOrigin": "English",
+    "meaning": "see",
+    "examples": [
+      {
+        "word": "see",
+        "meaning": "to see",
+        "sentence": "I see am for road."
+      },
+      {
+        "word": "see dis",
+        "meaning": "look at this",
+        "sentence": "See dis one wey I buy."
+      },
+      {
+        "word": "no see",
+        "meaning": "not see",
+        "sentence": "E no see me come."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/si/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "see"
+      }
+    ]
+  },
+  {
+    "id": "pcm_base_hear",
+    "root": "hear",
+    "type": "base",
+    "languageOrigin": "English",
+    "meaning": "hear; listen",
+    "examples": [
+      {
+        "word": "hear",
+        "meaning": "to hear",
+        "sentence": "I hear you well well."
+      },
+      {
+        "word": "you hear me?",
+        "meaning": "do you hear me?",
+        "sentence": "You hear me so?"
+      },
+      {
+        "word": "no hear word",
+        "meaning": "disobedient",
+        "sentence": "E no hear word at all."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/hiə/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "hear"
+      }
+    ]
+  },
+  {
+    "id": "pcm_base_sabi",
+    "root": "sabi",
+    "type": "base",
+    "languageOrigin": "Portuguese",
+    "meaning": "know",
+    "examples": [
+      {
+        "word": "sabi",
+        "meaning": "to know",
+        "sentence": "I sabi am well."
+      },
+      {
+        "word": "you sabi?",
+        "meaning": "do you know?",
+        "sentence": "You sabi di way?"
+      },
+      {
+        "word": "sabi person",
+        "meaning": "knowledgeable person",
+        "sentence": "Na sabi person."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/sabi/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "sabi"
+      }
+    ]
+  },
+  {
+    "id": "pcm_base_tek",
+    "root": "tek",
+    "type": "base",
+    "languageOrigin": "English",
+    "meaning": "take",
+    "examples": [
+      {
+        "word": "tek",
+        "meaning": "to take",
+        "sentence": "Tek am for here."
+      },
+      {
+        "word": "tek bus",
+        "meaning": "take a bus",
+        "sentence": "I tek bus come."
+      },
+      {
+        "word": "tek care",
+        "meaning": "take care",
+        "sentence": "Tek care of yourself."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/tɛk/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "tek"
+      }
+    ]
+  },
+  {
+    "id": "pcm_base_gi",
+    "root": "gi",
+    "type": "base",
+    "languageOrigin": "Nigerian Pidgin",
+    "meaning": "give",
+    "examples": [
+      {
+        "word": "gi",
+        "meaning": "to give",
+        "sentence": "Gi me small money."
+      },
+      {
+        "word": "gi me",
+        "meaning": "give me",
+        "sentence": "E gi me di book."
+      },
+      {
+        "word": "gi thanks",
+        "meaning": "give thanks",
+        "sentence": "We gi thanks for life."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/gi/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "gi"
+      }
+    ]
+  },
+  {
+    "id": "pcm_base_work",
+    "root": "work",
+    "type": "base",
+    "languageOrigin": "English",
+    "meaning": "work",
+    "examples": [
+      {
+        "word": "work",
+        "meaning": "to work",
+        "sentence": "I dey work for bank."
+      },
+      {
+        "word": "work hard",
+        "meaning": "work hard",
+        "sentence": "Work hard make you fit chop."
+      },
+      {
+        "word": "no work",
+        "meaning": "no work",
+        "sentence": "Today na no work day."
+      }
+    ],
+    "relatedRootIds": ["pcm_suffix_er"],
+    "pronunciationIpa": "/wɜːk/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "work"
+      }
+    ]
+  },
+  {
+    "id": "pcm_base_do",
+    "root": "do",
+    "type": "base",
+    "languageOrigin": "English",
+    "meaning": "do; make",
+    "examples": [
+      {
+        "word": "do",
+        "meaning": "to do",
+        "sentence": "Wetin you wan do?"
+      },
+      {
+        "word": "make",
+        "meaning": "to make",
+        "sentence": "Make we go."
+      },
+      {
+        "word": "do well",
+        "meaning": "do well",
+        "sentence": "You do well."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/du/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "do"
+      }
+    ]
+  },
+  {
+    "id": "pcm_base_kari",
+    "root": "kari",
+    "type": "base",
+    "languageOrigin": "Nigerian Pidgin",
+    "meaning": "carry",
+    "examples": [
+      {
+        "word": "kari",
+        "meaning": "to carry",
+        "sentence": "Kari dis bag for me."
+      },
+      {
+        "word": "kari go",
+        "meaning": "take away",
+        "sentence": "Kari am go house."
+      },
+      {
+        "word": "kari come",
+        "meaning": "bring",
+        "sentence": "Kari water come."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/kaɾi/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "kari"
+      }
+    ]
+  },
+  {
+    "id": "pcm_base_drink",
+    "root": "drink",
+    "type": "base",
+    "languageOrigin": "English",
+    "meaning": "drink",
+    "examples": [
+      {
+        "word": "drink",
+        "meaning": "to drink",
+        "sentence": "I wan drink water."
+      },
+      {
+        "word": "drink up",
+        "meaning": "drink completely",
+        "sentence": "Drink am up."
+      },
+      {
+        "word": "soft drink",
+        "meaning": "soft drink",
+        "sentence": "Buy me soft drink."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/dɹiŋk/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "drink"
+      }
+    ]
+  },
+  {
+    "id": "pcm_base_hold",
+    "root": "hold",
+    "type": "base",
+    "languageOrigin": "English",
+    "meaning": "hold",
+    "examples": [
+      {
+        "word": "hold",
+        "meaning": "to hold",
+        "sentence": "Hold dis tin well."
+      },
+      {
+        "word": "hold on",
+        "meaning": "wait",
+        "sentence": "Hold on, I dey come."
+      },
+      {
+        "word": "hold am",
+        "meaning": "hold it",
+        "sentence": "Hold am tight."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/hoʊld/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "hold"
+      }
+    ]
+  },
+  {
+    "id": "pcm_base_lern",
+    "root": "lern",
+    "type": "base",
+    "languageOrigin": "English",
+    "meaning": "learn; study",
+    "examples": [
+      {
+        "word": "lern",
+        "meaning": "to learn",
+        "sentence": "I dey lern new ting."
+      },
+      {
+        "word": "study",
+        "meaning": "to study",
+        "sentence": "Make you study well."
+      },
+      {
+        "word": "lern book",
+        "meaning": "study",
+        "sentence": "E dey lern book every day."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/lɜːn/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "lern"
+      }
+    ]
+  },
+  {
+    "id": "pcm_base_lait",
+    "root": "lait",
+    "type": "base",
+    "languageOrigin": "English",
+    "meaning": "light",
+    "examples": [
+      {
+        "word": "lait",
+        "meaning": "light",
+        "sentence": "Put on the lait."
+      },
+      {
+        "word": "lait on",
+        "meaning": "switch on light",
+        "sentence": "Lait on the room."
+      },
+      {
+        "word": "sun lait",
+        "meaning": "sunlight",
+        "sentence": "Sun lait dey hot."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/laɪt/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "lait"
+      }
+    ]
+  },
+  {
+    "id": "pcm_base_lov",
+    "root": "lov",
+    "type": "base",
+    "languageOrigin": "English",
+    "meaning": "love",
+    "examples": [
+      {
+        "word": "lov",
+        "meaning": "love",
+        "sentence": "I lov you well well."
+      },
+      {
+        "word": "fall in lov",
+        "meaning": "fall in love",
+        "sentence": "Dem fall in lov."
+      },
+      {
+        "word": "lov potion",
+        "meaning": "love potion",
+        "sentence": "Lov potion no dey work."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/lʌv/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "lov"
+      }
+    ]
+  },
+  {
+    "id": "pcm_base_rid",
+    "root": "rid",
+    "type": "base",
+    "languageOrigin": "English",
+    "meaning": "read",
+    "examples": [
+      {
+        "word": "rid",
+        "meaning": "to read",
+        "sentence": "I dey rid book."
+      },
+      {
+        "word": "rid am",
+        "meaning": "read it",
+        "sentence": "Rid am well."
+      },
+      {
+        "word": "rida",
+        "meaning": "reader",
+        "sentence": "E be good rida."
+      }
+    ],
+    "relatedRootIds": ["pcm_suffix_er"],
+    "pronunciationIpa": "/ɹiːd/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "rid"
+      }
+    ]
+  },
+  {
+    "id": "pcm_base_say",
+    "root": "say",
+    "type": "base",
+    "languageOrigin": "English",
+    "meaning": "say; tell",
+    "examples": [
+      {
+        "word": "say",
+        "meaning": "to say",
+        "sentence": "Wetin you wan say?"
+      },
+      {
+        "word": "tell",
+        "meaning": "to tell",
+        "sentence": "Tell me the truth."
+      },
+      {
+        "word": "say so",
+        "meaning": "say so",
+        "sentence": "No be me say so."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/seɪ/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "say"
+      }
+    ]
+  },
+  {
+    "id": "pcm_base_tink",
+    "root": "tink",
+    "type": "base",
+    "languageOrigin": "English",
+    "meaning": "think",
+    "examples": [
+      {
+        "word": "tink",
+        "meaning": "to think",
+        "sentence": "I tink say e good."
+      },
+      {
+        "word": "tink well",
+        "meaning": "think carefully",
+        "sentence": "Tink well before you act."
+      },
+      {
+        "word": "over tink",
+        "meaning": "overthink",
+        "sentence": "No over tink am."
+      }
+    ],
+    "relatedRootIds": ["pcm_prefix_over"],
+    "pronunciationIpa": "/tɪŋk/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "tink"
+      }
+    ]
+  },
+  {
+    "id": "pcm_base_wata",
+    "root": "wata",
+    "type": "base",
+    "languageOrigin": "English",
+    "meaning": "water",
+    "examples": [
+      {
+        "word": "wata",
+        "meaning": "water",
+        "sentence": "Give me wata."
+      },
+      {
+        "word": "pure wata",
+        "meaning": "clean water",
+        "sentence": "Pure wata dey scarce."
+      },
+      {
+        "word": "wata well",
+        "meaning": "water well",
+        "sentence": "Wata well dry."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ˈwɔːtə/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "wata"
+      }
+    ]
+  },
+  {
+    "id": "pcm_base_rayt",
+    "root": "rayt",
+    "type": "base",
+    "languageOrigin": "English",
+    "meaning": "write",
+    "examples": [
+      {
+        "word": "rayt",
+        "meaning": "to write",
+        "sentence": "I wan rayt letter."
+      },
+      {
+        "word": "rayt down",
+        "meaning": "write down",
+        "sentence": "Rayt am down."
+      },
+      {
+        "word": "rayta",
+        "meaning": "writer",
+        "sentence": "E be good rayta."
+      }
+    ],
+    "relatedRootIds": ["pcm_suffix_er"],
+    "pronunciationIpa": "/ɹaɪt/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "rayt"
+      }
+    ]
+  }
+]

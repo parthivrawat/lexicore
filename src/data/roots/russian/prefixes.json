@@ -1,0 +1,386 @@
+[
+  {
+    "id": "ru_prefix_ne",
+    "root": "не",
+    "type": "prefix",
+    "languageOrigin": "Russian",
+    "meaning": "not",
+    "examples": [
+      {
+        "word": "неправда",
+        "meaning": "untruth",
+        "sentence": "Это неправда."
+      },
+      {
+        "word": "недруг",
+        "meaning": "enemy",
+        "sentence": "Он оказался недругом."
+      },
+      {
+        "word": "неспособный",
+        "meaning": "unable",
+        "sentence": "Он неспособен лгать."
+      }
+    ],
+    "relatedRootIds": ["ru_base_pis"],
+    "pronunciationIpa": "/nʲe/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "nye"
+      }
+    ]
+  },
+  {
+    "id": "ru_prefix_bez",
+    "root": "без",
+    "type": "prefix",
+    "languageOrigin": "Russian",
+    "meaning": "without",
+    "examples": [
+      {
+        "word": "безопасный",
+        "meaning": "safe",
+        "sentence": "Это безопасное место."
+      },
+      {
+        "word": "бездомный",
+        "meaning": "homeless",
+        "sentence": "Бездомный кот искал тепло."
+      },
+      {
+        "word": "беспокойный",
+        "meaning": "restless",
+        "sentence": "Ребёнок беспокойный."
+      }
+    ],
+    "relatedRootIds": ["ru_prefix_ne"],
+    "pronunciationIpa": "/bʲez/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "byez"
+      }
+    ]
+  },
+  {
+    "id": "ru_prefix_v",
+    "root": "в",
+    "type": "prefix",
+    "languageOrigin": "Russian",
+    "meaning": "in; into",
+    "examples": [
+      {
+        "word": "войти",
+        "meaning": "to enter",
+        "sentence": "Я войду в дом."
+      },
+      {
+        "word": "везти",
+        "meaning": "to bring in",
+        "sentence": "Он вёз груз в город."
+      },
+      {
+        "word": "вбежать",
+        "meaning": "to run in",
+        "sentence": "Собака вбежала в комнату."
+      }
+    ],
+    "relatedRootIds": ["ru_base_khod"],
+    "pronunciationIpa": "/f/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "v"
+      }
+    ]
+  },
+  {
+    "id": "ru_prefix_vy",
+    "root": "вы",
+    "type": "prefix",
+    "languageOrigin": "Russian",
+    "meaning": "out",
+    "examples": [
+      {
+        "word": "выйти",
+        "meaning": "to exit",
+        "sentence": "Он вышел из комнаты."
+      },
+      {
+        "word": "выучить",
+        "meaning": "to learn (by heart)",
+        "sentence": "Я выучил стихотворение."
+      },
+      {
+        "word": "выписать",
+        "meaning": "to write out",
+        "sentence": "Врач выписал рецепт."
+      }
+    ],
+    "relatedRootIds": ["ru_base_khod", "ru_base_uch"],
+    "pronunciationIpa": "/vɨ/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "vy"
+      }
+    ]
+  },
+  {
+    "id": "ru_prefix_pod",
+    "root": "под",
+    "type": "prefix",
+    "languageOrigin": "Russian",
+    "meaning": "under; up to",
+    "examples": [
+      {
+        "word": "подойти",
+        "meaning": "to approach",
+        "sentence": "Он подошёл к окну."
+      },
+      {
+        "word": "подпись",
+        "meaning": "signature",
+        "sentence": "Поставьте подпись здесь."
+      },
+      {
+        "word": "подводный",
+        "meaning": "underwater",
+        "sentence": "Подводный мир красив."
+      }
+    ],
+    "relatedRootIds": ["ru_base_vod"],
+    "pronunciationIpa": "/pot/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "pod"
+      }
+    ]
+  },
+  {
+    "id": "ru_prefix_ot",
+    "root": "от",
+    "type": "prefix",
+    "languageOrigin": "Russian",
+    "meaning": "away from",
+    "examples": [
+      {
+        "word": "отойти",
+        "meaning": "to move away",
+        "sentence": "Поезд отошёл от платформы."
+      },
+      {
+        "word": "ответить",
+        "meaning": "to answer",
+        "sentence": "Он ответил на вопрос."
+      },
+      {
+        "word": "отдать",
+        "meaning": "to give back",
+        "sentence": "Я отдал книгу в библиотеку."
+      }
+    ],
+    "relatedRootIds": ["ru_prefix_v"],
+    "pronunciationIpa": "/ɐt/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ot"
+      }
+    ]
+  },
+  {
+    "id": "ru_prefix_pere",
+    "root": "пере",
+    "type": "prefix",
+    "languageOrigin": "Russian",
+    "meaning": "across; over; re-",
+    "examples": [
+      {
+        "word": "перейти",
+        "meaning": "to cross",
+        "sentence": "Он перешёл дорогу."
+      },
+      {
+        "word": "переписать",
+        "meaning": "to rewrite",
+        "sentence": "Я переписал текст."
+      },
+      {
+        "word": "переход",
+        "meaning": "crossing",
+        "sentence": "Переход здесь безопасен."
+      }
+    ],
+    "relatedRootIds": ["ru_base_khod", "ru_base_pis"],
+    "pronunciationIpa": "/pʲeˈrʲe/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "pere"
+      }
+    ]
+  },
+  {
+    "id": "ru_prefix_pro",
+    "root": "про",
+    "type": "prefix",
+    "languageOrigin": "Russian",
+    "meaning": "through; past",
+    "examples": [
+      {
+        "word": "прочитать",
+        "meaning": "to read through",
+        "sentence": "Я прочитал книгу."
+      },
+      {
+        "word": "пройти",
+        "meaning": "to pass through",
+        "sentence": "Он прошёл через парк."
+      },
+      {
+        "word": "просмотреть",
+        "meaning": "to look through",
+        "sentence": "Просмотрите документы."
+      }
+    ],
+    "relatedRootIds": ["ru_base_chit", "ru_base_khod"],
+    "pronunciationIpa": "/prɐ/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "pro"
+      }
+    ]
+  },
+  {
+    "id": "ru_prefix_za",
+    "root": "за",
+    "type": "prefix",
+    "languageOrigin": "Russian",
+    "meaning": "behind; start; down",
+    "examples": [
+      {
+        "word": "записать",
+        "meaning": "to write down",
+        "sentence": "Я записал номер."
+      },
+      {
+        "word": "заговорить",
+        "meaning": "to start speaking",
+        "sentence": "Он заговорил громко."
+      },
+      {
+        "word": "зайти",
+        "meaning": "to drop in",
+        "sentence": "Я зайду к тебе вечером."
+      }
+    ],
+    "relatedRootIds": ["ru_base_pis", "ru_base_govor"],
+    "pronunciationIpa": "/za/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "za"
+      }
+    ]
+  },
+  {
+    "id": "ru_prefix_na",
+    "root": "на",
+    "type": "prefix",
+    "languageOrigin": "Russian",
+    "meaning": "onto; finish",
+    "examples": [
+      {
+        "word": "написать",
+        "meaning": "to write (finish)",
+        "sentence": "Я написал письмо."
+      },
+      {
+        "word": "нарисовать",
+        "meaning": "to draw",
+        "sentence": "Художник нарисовал портрет."
+      },
+      {
+        "word": "накрыть",
+        "meaning": "to cover",
+        "sentence": "Мама накрыла на стол."
+      }
+    ],
+    "relatedRootIds": ["ru_base_pis"],
+    "pronunciationIpa": "/na/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "na"
+      }
+    ]
+  },
+  {
+    "id": "ru_prefix_po",
+    "root": "по",
+    "type": "prefix",
+    "languageOrigin": "Russian",
+    "meaning": "start; duration; a little",
+    "examples": [
+      {
+        "word": "побежать",
+        "meaning": "to start running",
+        "sentence": "Он побежал к двери."
+      },
+      {
+        "word": "поговорить",
+        "meaning": "to talk (a while)",
+        "sentence": "Мы поговорили по душам."
+      },
+      {
+        "word": "показать",
+        "meaning": "to show",
+        "sentence": "Покажите мне дорогу."
+      }
+    ],
+    "relatedRootIds": ["ru_base_beg", "ru_base_govor", "ru_base_kaz"],
+    "pronunciationIpa": "/pɔ/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "po"
+      }
+    ]
+  },
+  {
+    "id": "ru_prefix_s",
+    "root": "с",
+    "type": "prefix",
+    "languageOrigin": "Russian",
+    "meaning": "together; down; off",
+    "examples": [
+      {
+        "word": "сделать",
+        "meaning": "to make; do",
+        "sentence": "Я сделал домашнее задание."
+      },
+      {
+        "word": "списать",
+        "meaning": "to copy; write off",
+        "sentence": "Он списал с доски."
+      },
+      {
+        "word": "сойти",
+        "meaning": "to come down",
+        "sentence": "Он сошёл с лестницы."
+      }
+    ],
+    "relatedRootIds": ["ru_base_del", "ru_base_pis"],
+    "pronunciationIpa": "/s/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "s"
+      }
+    ]
+  }
+]

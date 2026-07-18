@@ -1,0 +1,322 @@
+[
+  {
+    "id": "zh_prefix_bu",
+    "root": "不",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "not; negative prefix",
+    "examples": [
+      {
+        "word": "不好",
+        "meaning": "not good",
+        "sentence": "这个不好。"
+      },
+      {
+        "word": "不知道",
+        "meaning": "do not know",
+        "sentence": "我不知道答案。"
+      },
+      {
+        "word": "不能",
+        "meaning": "cannot",
+        "sentence": "我现在不能去。"
+      }
+    ],
+    "relatedRootIds": ["zh_suffix_xing"],
+    "pronunciationIpa": "/pu⁵¹/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "bu4"
+      }
+    ]
+  },
+  {
+    "id": "zh_prefix_di",
+    "root": "第",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "ordinal number marker",
+    "examples": [
+      {
+        "word": "第一",
+        "meaning": "first",
+        "sentence": "他是第一名。"
+      },
+      {
+        "word": "第二",
+        "meaning": "second",
+        "sentence": "请读第二课。"
+      },
+      {
+        "word": "第三",
+        "meaning": "third",
+        "sentence": "第三个答案是对的。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_shu"],
+    "pronunciationIpa": "/ti⁵¹/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "di4"
+      }
+    ]
+  },
+  {
+    "id": "zh_prefix_lao",
+    "root": "老",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "old; familiar/respected prefix",
+    "examples": [
+      {
+        "word": "老师",
+        "meaning": "teacher",
+        "sentence": "我的老师很好。"
+      },
+      {
+        "word": "老虎",
+        "meaning": "tiger",
+        "sentence": "动物园里有老虎。"
+      },
+      {
+        "word": "老朋友",
+        "meaning": "old friend",
+        "sentence": "他是我的老朋友。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_ren"],
+    "pronunciationIpa": "/lɑʊ̯²¹⁴/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "lao3"
+      }
+    ]
+  },
+  {
+    "id": "zh_prefix_xiao",
+    "root": "小",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "small; young; familiar prefix",
+    "examples": [
+      {
+        "word": "小狗",
+        "meaning": "puppy",
+        "sentence": "这只小狗很可爱。"
+      },
+      {
+        "word": "小王",
+        "meaning": "Little Wang",
+        "sentence": "小王今天没来。"
+      },
+      {
+        "word": "小学",
+        "meaning": "elementary school",
+        "sentence": "孩子们在小学上学。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_da", "zh_base_xue"],
+    "pronunciationIpa": "/ɕiɑʊ̯²¹⁴/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "xiao3"
+      }
+    ]
+  },
+  {
+    "id": "zh_prefix_ke",
+    "root": "可",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "can; may; -able",
+    "examples": [
+      {
+        "word": "可爱",
+        "meaning": "lovable; cute",
+        "sentence": "这个孩子很可爱。"
+      },
+      {
+        "word": "可能",
+        "meaning": "possible",
+        "sentence": "明天可能会下雨。"
+      },
+      {
+        "word": "可怕",
+        "meaning": "scary",
+        "sentence": "那个故事很可怕。"
+      }
+    ],
+    "relatedRootIds": ["zh_suffix_xing"],
+    "pronunciationIpa": "/kʰɤ²¹⁴/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ke3"
+      }
+    ]
+  },
+  {
+    "id": "zh_prefix_chong",
+    "root": "重",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "again; re-",
+    "examples": [
+      {
+        "word": "重新",
+        "meaning": "again; anew",
+        "sentence": "我们重新开始吧。"
+      },
+      {
+        "word": "重复",
+        "meaning": "repeat",
+        "sentence": "请重复一下。"
+      },
+      {
+        "word": "重建",
+        "meaning": "rebuild",
+        "sentence": "他们正在重建房子。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_xin"],
+    "pronunciationIpa": "/ʈʂʰʊŋ³⁵/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "chong2"
+      }
+    ]
+  },
+  {
+    "id": "zh_prefix_fei",
+    "root": "非",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "non-; un-; not",
+    "examples": [
+      {
+        "word": "非法",
+        "meaning": "illegal",
+        "sentence": "这是非法的。"
+      },
+      {
+        "word": "非正式",
+        "meaning": "informal",
+        "sentence": "这是一个非正式会议。"
+      },
+      {
+        "word": "非常",
+        "meaning": "extremely; unusual",
+        "sentence": "这部电影非常好看。"
+      }
+    ],
+    "relatedRootIds": ["zh_prefix_bu"],
+    "pronunciationIpa": "/feɪ̯⁵⁵/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "fei1"
+      }
+    ]
+  },
+  {
+    "id": "zh_prefix_fu",
+    "root": "副",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "vice-; deputy; copy",
+    "examples": [
+      {
+        "word": "副总统",
+        "meaning": "vice president",
+        "sentence": "副总统发表了讲话。"
+      },
+      {
+        "word": "副标题",
+        "meaning": "subtitle",
+        "sentence": "书的副标题很有意思。"
+      },
+      {
+        "word": "副本",
+        "meaning": "copy; duplicate",
+        "sentence": "请保存一个副本。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_shou"],
+    "pronunciationIpa": "/fu⁵¹/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "fu4"
+      }
+    ]
+  },
+  {
+    "id": "zh_prefix_chao",
+    "root": "超",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "super; ultra; exceed",
+    "examples": [
+      {
+        "word": "超市",
+        "meaning": "supermarket",
+        "sentence": "我去超市买东西。"
+      },
+      {
+        "word": "超级",
+        "meaning": "super; ultra",
+        "sentence": "他是一个超级英雄。"
+      },
+      {
+        "word": "超载",
+        "meaning": "overload",
+        "sentence": "这辆车超载了。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_da"],
+    "pronunciationIpa": "/ʈʂʰɑʊ̯⁵⁵/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "chao1"
+      }
+    ]
+  },
+  {
+    "id": "zh_prefix_chu",
+    "root": "初",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "early; first; beginning",
+    "examples": [
+      {
+        "word": "初一",
+        "meaning": "first day of the month",
+        "sentence": "今天是初一。"
+      },
+      {
+        "word": "初步",
+        "meaning": "preliminary",
+        "sentence": "我们已经完成了初步计划。"
+      },
+      {
+        "word": "初级",
+        "meaning": "elementary; primary",
+        "sentence": "这是初级课程。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_xue"],
+    "pronunciationIpa": "/ʈʂʰu⁵⁵/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "chu1"
+      }
+    ]
+  }
+]

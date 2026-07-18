@@ -1,0 +1,738 @@
+[
+  {
+    "id": "mr_base_kar",
+    "root": "कर",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "do; make",
+    "examples": [
+      {
+        "word": "करतो",
+        "meaning": "does",
+        "sentence": "तो काम करतो."
+      },
+      {
+        "word": "करणे",
+        "meaning": "to do",
+        "sentence": "हे करणे आवश्यक आहे."
+      },
+      {
+        "word": "कर्ता",
+        "meaning": "doer",
+        "sentence": "तो चांगला कर्ता आहे."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/kər/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kar"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_lih",
+    "root": "लिह",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "write",
+    "examples": [
+      {
+        "word": "लिहितो",
+        "meaning": "writes",
+        "sentence": "तो पत्र लिहितो."
+      },
+      {
+        "word": "लेखक",
+        "meaning": "writer",
+        "sentence": "तो लेखक आहे."
+      },
+      {
+        "word": "लिहिणे",
+        "meaning": "to write",
+        "sentence": "लिहिणे शिका."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/lih/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "lih"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_vac",
+    "root": "वाच",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "read",
+    "examples": [
+      {
+        "word": "वाचतो",
+        "meaning": "reads",
+        "sentence": "तो पुस्तक वाचतो."
+      },
+      {
+        "word": "वाचक",
+        "meaning": "reader",
+        "sentence": "तो चांगला वाचक आहे."
+      },
+      {
+        "word": "वाचन",
+        "meaning": "reading",
+        "sentence": "वाचनाची सवय लावा."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/vaːts/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "vach"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_pah",
+    "root": "पाह",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "see",
+    "examples": [
+      {
+        "word": "पाहतो",
+        "meaning": "sees",
+        "sentence": "तो चित्र पाहतो."
+      },
+      {
+        "word": "दृष्टी",
+        "meaning": "sight",
+        "sentence": "त्याची दृष्टी तेजस्वी आहे."
+      },
+      {
+        "word": "पाहाणे",
+        "meaning": "to see",
+        "sentence": "सूर्योदय पाहा."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/paːh/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "pah"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_aik",
+    "root": "ऐक",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "hear; listen",
+    "examples": [
+      {
+        "word": "ऐकतो",
+        "meaning": "hears",
+        "sentence": "तो गाणे ऐकतो."
+      },
+      {
+        "word": "ऐकणे",
+        "meaning": "to hear",
+        "sentence": "काळजीपूर्वक ऐका."
+      },
+      {
+        "word": "संगीत ऐकणे",
+        "meaning": "listening to music",
+        "sentence": "मला संगीत ऐकणे आवडते."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/aik/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "aik"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_bol",
+    "root": "बोल",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "speak",
+    "examples": [
+      {
+        "word": "बोलतो",
+        "meaning": "speaks",
+        "sentence": "तो मराठी बोलतो."
+      },
+      {
+        "word": "बोलणे",
+        "meaning": "speaking",
+        "sentence": "बोलणे सोपे नाही."
+      },
+      {
+        "word": "वक्ता",
+        "meaning": "speaker",
+        "sentence": "तो चांगला वक्ता आहे."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/boːl/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "bol"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_vichar",
+    "root": "विचार",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "think",
+    "examples": [
+      {
+        "word": "विचारतो",
+        "meaning": "thinks",
+        "sentence": "तो खूप विचारतो."
+      },
+      {
+        "word": "विचार",
+        "meaning": "thought",
+        "sentence": "चांगला विचार आहे."
+      },
+      {
+        "word": "विचारवंत",
+        "meaning": "thinker",
+        "sentence": "तो विचारवंत आहे."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ʋitɕaːr/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "vichar"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_ja",
+    "root": "जा",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "go",
+    "examples": [
+      {
+        "word": "जातो",
+        "meaning": "goes",
+        "sentence": "तो शाळेत जातो."
+      },
+      {
+        "word": "जाणे",
+        "meaning": "to go",
+        "sentence": "घरी जाणे आहे."
+      },
+      {
+        "word": "प्रवास",
+        "meaning": "journey",
+        "sentence": "प्रवास सुखद होता."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/dʒaː/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ja"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_ye",
+    "root": "ये",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "come",
+    "examples": [
+      {
+        "word": "येतो",
+        "meaning": "comes",
+        "sentence": "तो उद्या येतो."
+      },
+      {
+        "word": "येणे",
+        "meaning": "to come",
+        "sentence": "येण्यास उशीर झाला."
+      },
+      {
+        "word": "आगमन",
+        "meaning": "arrival",
+        "sentence": "त्याच्या आगमनाने आनंद झाला."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/je/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ye"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_ghe",
+    "root": "घे",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "take",
+    "examples": [
+      {
+        "word": "घेतो",
+        "meaning": "takes",
+        "sentence": "तो पुस्तक घेतो."
+      },
+      {
+        "word": "घेणे",
+        "meaning": "to take",
+        "sentence": "हे घेणे आवश्यक आहे."
+      },
+      {
+        "word": "स्वीकार",
+        "meaning": "acceptance",
+        "sentence": "त्याने माझा स्वीकार केला."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/gʱe/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ghe"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_de",
+    "root": "दे",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "give",
+    "examples": [
+      {
+        "word": "देतो",
+        "meaning": "gives",
+        "sentence": "तो भिक्षा देतो."
+      },
+      {
+        "word": "देणे",
+        "meaning": "to give",
+        "sentence": "प्रेमाने देणे."
+      },
+      {
+        "word": "दान",
+        "meaning": "donation",
+        "sentence": "दान पुण्याचे काम आहे."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/de/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "de"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_kha",
+    "root": "खा",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "eat",
+    "examples": [
+      {
+        "word": "खातो",
+        "meaning": "eats",
+        "sentence": "तो भात खातो."
+      },
+      {
+        "word": "खाणे",
+        "meaning": "to eat",
+        "sentence": "खाण्यापूर्वी हात धुवा."
+      },
+      {
+        "word": "अन्न",
+        "meaning": "food",
+        "sentence": "अन्न पवित्र आहे."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/kʰaː/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kha"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_vah",
+    "root": "वाह",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "carry",
+    "examples": [
+      {
+        "word": "वाहणे",
+        "meaning": "to carry",
+        "sentence": "तो पुस्तके वाहतो."
+      },
+      {
+        "word": "वाहतूक",
+        "meaning": "transport",
+        "sentence": "वाहतूक सुलभ आहे."
+      },
+      {
+        "word": "वाहक",
+        "meaning": "carrier",
+        "sentence": "वाहक काम करतो."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ʋaːh/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "vah"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_py",
+    "root": "प्य",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "drink",
+    "examples": [
+      {
+        "word": "पितो",
+        "meaning": "drinks",
+        "sentence": "तो पाणी पितो."
+      },
+      {
+        "word": "पिणे",
+        "meaning": "to drink",
+        "sentence": "पाणी प्या."
+      },
+      {
+        "word": "पेय",
+        "meaning": "drink; beverage",
+        "sentence": "पेय थंड आहे."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/pja/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "pya"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_dhar",
+    "root": "धर",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "hold",
+    "examples": [
+      {
+        "word": "धरतो",
+        "meaning": "holds",
+        "sentence": "तो कप धरतो."
+      },
+      {
+        "word": "धरणे",
+        "meaning": "to hold",
+        "sentence": "कप धरणे."
+      },
+      {
+        "word": "धारक",
+        "meaning": "holder",
+        "sentence": "धारक मजबूत आहे."
+      }
+    ],
+    "relatedRootIds": ["mr_suffix_dar"],
+    "pronunciationIpa": "/dʱər/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "dhar"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_jan",
+    "root": "जाण",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "know",
+    "examples": [
+      {
+        "word": "जाणतो",
+        "meaning": "knows",
+        "sentence": "तो खूप जाणतो."
+      },
+      {
+        "word": "जाणणे",
+        "meaning": "to know",
+        "sentence": "माहिती जाणून घ्या."
+      },
+      {
+        "word": "माहित",
+        "meaning": "known; information",
+        "sentence": "हे माहित आहे."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/dʒaːɳ/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "jan"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_shik",
+    "root": "शिक",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "learn",
+    "examples": [
+      {
+        "word": "शिकतो",
+        "meaning": "learns",
+        "sentence": "तो पाठ शिकतो."
+      },
+      {
+        "word": "शिकणे",
+        "meaning": "to learn",
+        "sentence": "शिकणे महत्त्वाचे आहे."
+      },
+      {
+        "word": "शिक्षक",
+        "meaning": "teacher",
+        "sentence": "शिक्षक येतात."
+      }
+    ],
+    "relatedRootIds": ["mr_suffix_wala"],
+    "pronunciationIpa": "/ʃik/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "shik"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_prakash",
+    "root": "प्रकाश",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "light",
+    "examples": [
+      {
+        "word": "प्रकाश",
+        "meaning": "light",
+        "sentence": "प्रकाश तेजस्वी आहे."
+      },
+      {
+        "word": "प्रकाशित",
+        "meaning": "illuminated",
+        "sentence": "खोली प्रकाशित आहे."
+      },
+      {
+        "word": "प्रकाशक",
+        "meaning": "lamp; illuminator",
+        "sentence": "प्रकाशक चालू आहे."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/pɾəkaːʃ/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "prakash"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_prem",
+    "root": "प्रेम",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "love",
+    "examples": [
+      {
+        "word": "प्रेम",
+        "meaning": "love",
+        "sentence": "प्रेम मोठे आहे."
+      },
+      {
+        "word": "प्रेमळ",
+        "meaning": "loving",
+        "sentence": "ती प्रेमळ आहे."
+      },
+      {
+        "word": "प्रेमिक",
+        "meaning": "lover",
+        "sentence": "प्रेमिक आला."
+      }
+    ],
+    "relatedRootIds": ["mr_suffix_van"],
+    "pronunciationIpa": "/pɾem/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "prem"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_sang",
+    "root": "सांग",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "say; tell",
+    "examples": [
+      {
+        "word": "सांगतो",
+        "meaning": "says; tells",
+        "sentence": "तो खरे सांगतो."
+      },
+      {
+        "word": "सांगणे",
+        "meaning": "to say; to tell",
+        "sentence": "मला सांगणे."
+      },
+      {
+        "word": "सांगणी",
+        "meaning": "saying; tale",
+        "sentence": "ही चांगली सांगणी आहे."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/saːŋg/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "sang"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_abhyas",
+    "root": "अभ्यास",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "study",
+    "examples": [
+      {
+        "word": "अभ्यास",
+        "meaning": "study",
+        "sentence": "अभ्यास महत्त्वाचा आहे."
+      },
+      {
+        "word": "अभ्यासणे",
+        "meaning": "to study",
+        "sentence": "तो अभ्यासतो."
+      },
+      {
+        "word": "अभ्यासू",
+        "meaning": "studious",
+        "sentence": "तो अभ्यासू विद्यार्थी आहे."
+      }
+    ],
+    "relatedRootIds": ["mr_suffix_wala"],
+    "pronunciationIpa": "/əbʰjaːs/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "abhyas"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_pani",
+    "root": "पाणी",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "water",
+    "examples": [
+      {
+        "word": "पाणी",
+        "meaning": "water",
+        "sentence": "पाणी स्वच्छ आहे."
+      },
+      {
+        "word": "पाणवठा",
+        "meaning": "water source",
+        "sentence": "पाणवठा जवळ आहे."
+      },
+      {
+        "word": "पाणलोण",
+        "meaning": "salt water",
+        "sentence": "समुद्राचे पाणी खारट."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/paːɳi/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "pani"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_kam",
+    "root": "काम",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "work",
+    "examples": [
+      {
+        "word": "काम",
+        "meaning": "work",
+        "sentence": "काम पूर्ण झाले."
+      },
+      {
+        "word": "कामगार",
+        "meaning": "worker",
+        "sentence": "कामगार मेहनती आहेत."
+      },
+      {
+        "word": "काम करणे",
+        "meaning": "to work",
+        "sentence": "तो काम करतो."
+      }
+    ],
+    "relatedRootIds": ["mr_suffix_wala", "mr_suffix_dar"],
+    "pronunciationIpa": "/kaːm/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kam"
+      }
+    ]
+  }
+]

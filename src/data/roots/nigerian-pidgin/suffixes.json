@@ -1,0 +1,194 @@
+[
+  {
+    "id": "pcm_suffix_ment",
+    "root": "-ment",
+    "type": "suffix",
+    "languageOrigin": "English",
+    "meaning": "action/result noun",
+    "examples": [
+      {
+        "word": "development",
+        "meaning": "development",
+        "sentence": "Di country need development."
+      },
+      {
+        "word": "government",
+        "meaning": "government",
+        "sentence": "Government dey rule us."
+      },
+      {
+        "word": "punishment",
+        "meaning": "punishment",
+        "sentence": "Punishment dey too much."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/mɛnt/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "ment"
+      }
+    ]
+  },
+  {
+    "id": "pcm_suffix_tion",
+    "root": "-tion",
+    "type": "suffix",
+    "languageOrigin": "English",
+    "meaning": "action/state noun (-tion)",
+    "examples": [
+      {
+        "word": "education",
+        "meaning": "education",
+        "sentence": "Education important pass everything."
+      },
+      {
+        "word": "information",
+        "meaning": "information",
+        "sentence": "I need correct information."
+      },
+      {
+        "word": "population",
+        "meaning": "population",
+        "sentence": "Population don increase well well."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ʃən/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "tion"
+      }
+    ]
+  },
+  {
+    "id": "pcm_suffix_ness",
+    "root": "-ness",
+    "type": "suffix",
+    "languageOrigin": "English",
+    "meaning": "abstract noun (-ness)",
+    "examples": [
+      {
+        "word": "happiness",
+        "meaning": "happiness",
+        "sentence": "Happiness dey important."
+      },
+      {
+        "word": "kindness",
+        "meaning": "kindness",
+        "sentence": "Kindness good pass money."
+      },
+      {
+        "word": "sickness",
+        "meaning": "sickness",
+        "sentence": "Sickness catch am since morning."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/nɛs/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "ness"
+      }
+    ]
+  },
+  {
+    "id": "pcm_suffix_ful",
+    "root": "-ful",
+    "type": "suffix",
+    "languageOrigin": "English",
+    "meaning": "full of",
+    "examples": [
+      {
+        "word": "beautiful",
+        "meaning": "beautiful",
+        "sentence": "She beautiful well well."
+      },
+      {
+        "word": "helpful",
+        "meaning": "helpful",
+        "sentence": "Dis tool helpful for work."
+      },
+      {
+        "word": "powerful",
+        "meaning": "powerful",
+        "sentence": "Di king powerful pass all."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/fʊl/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "ful"
+      }
+    ]
+  },
+  {
+    "id": "pcm_suffix_less",
+    "root": "-less",
+    "type": "suffix",
+    "languageOrigin": "English",
+    "meaning": "without",
+    "examples": [
+      {
+        "word": "homeless",
+        "meaning": "homeless",
+        "sentence": "Di man dey live homeless."
+      },
+      {
+        "word": "careless",
+        "meaning": "careless",
+        "sentence": "No careless with fire."
+      },
+      {
+        "word": "useless",
+        "meaning": "useless",
+        "sentence": "Dat thing useless for me."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/lɛs/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "less"
+      }
+    ]
+  },
+  {
+    "id": "pcm_suffix_er",
+    "root": "-er",
+    "type": "suffix",
+    "languageOrigin": "English",
+    "meaning": "agent; doer",
+    "examples": [
+      {
+        "word": "teacher",
+        "meaning": "teacher",
+        "sentence": "My teacher sabi book well."
+      },
+      {
+        "word": "worker",
+        "meaning": "worker",
+        "sentence": "Worker dey work for factory."
+      },
+      {
+        "word": "driver",
+        "meaning": "driver",
+        "sentence": "Driver drive well today."
+      }
+    ],
+    "relatedRootIds": ["pcm_base_work"],
+    "pronunciationIpa": "/ə/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "er"
+      }
+    ]
+  }
+]

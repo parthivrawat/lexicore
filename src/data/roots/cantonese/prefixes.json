@@ -1,0 +1,258 @@
+[
+  {
+    "id": "yue_prefix_m4",
+    "root": "唔",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "not",
+    "examples": [
+      {
+        "word": "唔食",
+        "meaning": "not eat",
+        "sentence": "我唔食牛肉。"
+      },
+      {
+        "word": "唔去",
+        "meaning": "not go",
+        "sentence": "我今日唔去。"
+      },
+      {
+        "word": "唔開心",
+        "meaning": "not happy",
+        "sentence": "佢唔開心。"
+      }
+    ],
+    "relatedRootIds": ["yue_base_sik6", "yue_base_heoi3"],
+    "pronunciationIpa": "/m/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "m4"
+      }
+    ]
+  },
+  {
+    "id": "yue_prefix_hou2",
+    "root": "好",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "very; good",
+    "examples": [
+      {
+        "word": "好食",
+        "meaning": "delicious",
+        "sentence": "呢個好食。"
+      },
+      {
+        "word": "好睇",
+        "meaning": "good-looking",
+        "sentence": "齣戲好睇。"
+      },
+      {
+        "word": "好聽",
+        "meaning": "pleasant to hear",
+        "sentence": "首歌好聽。"
+      }
+    ],
+    "relatedRootIds": ["yue_base_sik6", "yue_base_tai2", "yue_base_teng1"],
+    "pronunciationIpa": "/hou/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "hou2"
+      }
+    ]
+  },
+  {
+    "id": "yue_prefix_dai6",
+    "root": "第",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "ordinal marker",
+    "examples": [
+      {
+        "word": "第一",
+        "meaning": "first",
+        "sentence": "我第一個到。"
+      },
+      {
+        "word": "第二",
+        "meaning": "second",
+        "sentence": "佢第二名。"
+      },
+      {
+        "word": "第十",
+        "meaning": "tenth",
+        "sentence": "第十個。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/dai/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "dai6"
+      }
+    ]
+  },
+  {
+    "id": "yue_prefix_zoi3",
+    "root": "再",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "again",
+    "examples": [
+      {
+        "word": "再見",
+        "meaning": "goodbye",
+        "sentence": "再見！"
+      },
+      {
+        "word": "再嚟",
+        "meaning": "come again",
+        "sentence": "聽日再嚟。"
+      },
+      {
+        "word": "再食",
+        "meaning": "eat again",
+        "sentence": "我仲想再食。"
+      }
+    ],
+    "relatedRootIds": ["yue_base_lai4", "yue_base_sik6"],
+    "pronunciationIpa": "/zoi/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "zoi3"
+      }
+    ]
+  },
+  {
+    "id": "yue_prefix_bun3",
+    "root": "半",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "half",
+    "examples": [
+      {
+        "word": "半個",
+        "meaning": "half a",
+        "sentence": "畀我半個。"
+      },
+      {
+        "word": "半天",
+        "meaning": "half day",
+        "sentence": "等咗半天。"
+      },
+      {
+        "word": "半杯",
+        "meaning": "half cup",
+        "sentence": "半杯水。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/bun/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "bun3"
+      }
+    ]
+  },
+  {
+    "id": "yue_prefix_ciu1",
+    "root": "超",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "super",
+    "examples": [
+      {
+        "word": "超級",
+        "meaning": "super",
+        "sentence": "佢超級勁。"
+      },
+      {
+        "word": "超人",
+        "meaning": "superman",
+        "sentence": "佢係超人。"
+      },
+      {
+        "word": "超勁",
+        "meaning": "super strong",
+        "sentence": "佢超勁。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ciu/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "ciu1"
+      }
+    ]
+  },
+  {
+    "id": "yue_prefix_faan2",
+    "root": "反",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "anti; opposite",
+    "examples": [
+      {
+        "word": "反對",
+        "meaning": "oppose",
+        "sentence": "我反對呢個提議。"
+      },
+      {
+        "word": "反抗",
+        "meaning": "resist",
+        "sentence": "佢敢反抗。"
+      },
+      {
+        "word": "反轉",
+        "meaning": "reverse",
+        "sentence": "反轉嚟用。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/faan/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "faan2"
+      }
+    ]
+  },
+  {
+    "id": "yue_prefix_zi6",
+    "root": "自",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "self",
+    "examples": [
+      {
+        "word": "自己",
+        "meaning": "self",
+        "sentence": "我自己做。"
+      },
+      {
+        "word": "自動",
+        "meaning": "automatic",
+        "sentence": "呢部車自動波。"
+      },
+      {
+        "word": "自私",
+        "meaning": "selfish",
+        "sentence": "唔好咁自私。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/zi/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "zi6"
+      }
+    ]
+  }
+]

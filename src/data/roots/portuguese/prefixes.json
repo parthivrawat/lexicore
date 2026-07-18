@@ -1,0 +1,322 @@
+[
+  {
+    "id": "pt_prefix_des",
+    "root": "des-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "undo; reverse; not",
+    "examples": [
+      {
+        "word": "desfazer",
+        "meaning": "to undo",
+        "sentence": "Vou desfazer o erro."
+      },
+      {
+        "word": "desligar",
+        "meaning": "to turn off",
+        "sentence": "Desliga o computador."
+      },
+      {
+        "word": "desordem",
+        "meaning": "disorder",
+        "sentence": "A desordem na sala é grande."
+      }
+    ],
+    "relatedRootIds": ["pt_base_fac"],
+    "pronunciationIpa": "/dɛʃ/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "desh"
+      }
+    ]
+  },
+  {
+    "id": "pt_prefix_re",
+    "root": "re-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "again; back",
+    "examples": [
+      {
+        "word": "refazer",
+        "meaning": "to redo",
+        "sentence": "Vou refazer o relatório."
+      },
+      {
+        "word": "retornar",
+        "meaning": "to return",
+        "sentence": "Ele retornou cedo."
+      },
+      {
+        "word": "revisar",
+        "meaning": "to review",
+        "sentence": "Preciso revisar o texto."
+      }
+    ],
+    "relatedRootIds": ["pt_base_fac", "pt_base_scrib"],
+    "pronunciationIpa": "/ʁɛ/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "re"
+      }
+    ]
+  },
+  {
+    "id": "pt_prefix_in",
+    "root": "in-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "not",
+    "examples": [
+      {
+        "word": "impossível",
+        "meaning": "impossible",
+        "sentence": "É impossível esquecer."
+      },
+      {
+        "word": "incerto",
+        "meaning": "uncertain",
+        "sentence": "O resultado é incerto."
+      },
+      {
+        "word": "ilegal",
+        "meaning": "illegal",
+        "sentence": "Isso é ilegal."
+      }
+    ],
+    "relatedRootIds": ["pt_prefix_des"],
+    "pronunciationIpa": "/ĩ/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "in"
+      }
+    ]
+  },
+  {
+    "id": "pt_prefix_pre",
+    "root": "pre-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "before",
+    "examples": [
+      {
+        "word": "prever",
+        "meaning": "to foresee",
+        "sentence": "É difícil prever o futuro."
+      },
+      {
+        "word": "preparar",
+        "meaning": "to prepare",
+        "sentence": "Vou preparar o jantar."
+      },
+      {
+        "word": "preocupar",
+        "meaning": "to worry",
+        "sentence": "Não se preocupe."
+      }
+    ],
+    "relatedRootIds": ["pt_base_vid"],
+    "pronunciationIpa": "/pɾɛ/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "pre"
+      }
+    ]
+  },
+  {
+    "id": "pt_prefix_pos",
+    "root": "pós-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "after",
+    "examples": [
+      {
+        "word": "pós-guerra",
+        "meaning": "post-war",
+        "sentence": "A pós-guerra foi difícil."
+      },
+      {
+        "word": "posterior",
+        "meaning": "posterior",
+        "sentence": "O evento posterior foi melhor."
+      },
+      {
+        "word": "pospor",
+        "meaning": "to postpone",
+        "sentence": "Vou pospor a reunião."
+      }
+    ],
+    "relatedRootIds": ["pt_prefix_pre"],
+    "pronunciationIpa": "/pɔs/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "pos"
+      }
+    ]
+  },
+  {
+    "id": "pt_prefix_sub",
+    "root": "sub-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "under; below",
+    "examples": [
+      {
+        "word": "submarino",
+        "meaning": "submarine",
+        "sentence": "O submarino é rápido."
+      },
+      {
+        "word": "subterrâneo",
+        "meaning": "underground",
+        "sentence": "A caverna é subterrânea."
+      },
+      {
+        "word": "subestimar",
+        "meaning": "to underestimate",
+        "sentence": "Não subestime ele."
+      }
+    ],
+    "relatedRootIds": ["pt_prefix_super"],
+    "pronunciationIpa": "/sub/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "sub"
+      }
+    ]
+  },
+  {
+    "id": "pt_prefix_inter",
+    "root": "inter-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "between; among",
+    "examples": [
+      {
+        "word": "internacional",
+        "meaning": "international",
+        "sentence": "A empresa é internacional."
+      },
+      {
+        "word": "interromper",
+        "meaning": "to interrupt",
+        "sentence": "Não me interrompa."
+      },
+      {
+        "word": "interior",
+        "meaning": "interior",
+        "sentence": "O interior da casa é bonito."
+      }
+    ],
+    "relatedRootIds": ["pt_prefix_super"],
+    "pronunciationIpa": "/ĩtɛɾ/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "inter"
+      }
+    ]
+  },
+  {
+    "id": "pt_prefix_super",
+    "root": "super-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "above; over; extra",
+    "examples": [
+      {
+        "word": "supermercado",
+        "meaning": "supermarket",
+        "sentence": "Vou ao supermercado."
+      },
+      {
+        "word": "supernatural",
+        "meaning": "supernatural",
+        "sentence": "O evento foi supernatural."
+      },
+      {
+        "word": "superior",
+        "meaning": "superior",
+        "sentence": "Ela é superior a mim."
+      }
+    ],
+    "relatedRootIds": ["pt_prefix_sub"],
+    "pronunciationIpa": "/supɛɾ/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "super"
+      }
+    ]
+  },
+  {
+    "id": "pt_prefix_anti",
+    "root": "anti-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "against",
+    "examples": [
+      {
+        "word": "antibiótico",
+        "meaning": "antibiotic",
+        "sentence": "O antibiótico funcionou."
+      },
+      {
+        "word": "antifascista",
+        "meaning": "antifascist",
+        "sentence": "Ele é antifascista."
+      },
+      {
+        "word": "antirracista",
+        "meaning": "antiracist",
+        "sentence": "Sou antirracista."
+      }
+    ],
+    "relatedRootIds": ["pt_prefix_in"],
+    "pronunciationIpa": "/ɐ̃ti/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "anti"
+      }
+    ]
+  },
+  {
+    "id": "pt_prefix_co",
+    "root": "co-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "together; with",
+    "examples": [
+      {
+        "word": "colega",
+        "meaning": "colleague",
+        "sentence": "Meu colega é simpático."
+      },
+      {
+        "word": "cooperar",
+        "meaning": "to cooperate",
+        "sentence": "Vamos cooperar."
+      },
+      {
+        "word": "coordenar",
+        "meaning": "to coordinate",
+        "sentence": "Precisamos coordenar os horários."
+      }
+    ],
+    "relatedRootIds": ["pt_prefix_inter"],
+    "pronunciationIpa": "/kɔ/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "co"
+      }
+    ]
+  }
+]

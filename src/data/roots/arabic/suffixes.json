@@ -1,0 +1,322 @@
+[
+  {
+    "id": "ar_suffix_ta",
+    "root": "ة",
+    "type": "suffix",
+    "languageOrigin": "Arabic",
+    "meaning": "feminine/abstract noun (tāʾ marbūṭa)",
+    "examples": [
+      {
+        "word": "مكتبة",
+        "meaning": "library",
+        "sentence": "المكتبة مفتوحة اليوم."
+      },
+      {
+        "word": "مدينة",
+        "meaning": "city",
+        "sentence": "المدينة جميلة."
+      },
+      {
+        "word": "سعادة",
+        "meaning": "happiness",
+        "sentence": "السعادة مهمة."
+      }
+    ],
+    "relatedRootIds": ["ar_base_ktb"],
+    "pronunciationIpa": "/a/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "a"
+      }
+    ]
+  },
+  {
+    "id": "ar_suffix_un",
+    "root": "ون",
+    "type": "suffix",
+    "languageOrigin": "Arabic",
+    "meaning": "masculine plural nominative (-ūn)",
+    "examples": [
+      {
+        "word": "كاتبون",
+        "meaning": "writers",
+        "sentence": "الكاتبون مجتهدون."
+      },
+      {
+        "word": "مسلمون",
+        "meaning": "Muslims",
+        "sentence": "المسلمون يصلون."
+      },
+      {
+        "word": "معلمون",
+        "meaning": "teachers",
+        "sentence": "المعلمون مخلصون."
+      }
+    ],
+    "relatedRootIds": ["ar_base_ktb", "ar_base_slm"],
+    "pronunciationIpa": "/uːn/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "un"
+      }
+    ]
+  },
+  {
+    "id": "ar_suffix_in",
+    "root": "ين",
+    "type": "suffix",
+    "languageOrigin": "Arabic",
+    "meaning": "masculine plural oblique (-īn) / dual",
+    "examples": [
+      {
+        "word": "مسلمين",
+        "meaning": "Muslims (oblique)",
+        "sentence": "رأيت المسلمين في المسجد."
+      },
+      {
+        "word": "كاتبين",
+        "meaning": "writers (oblique)",
+        "sentence": "الكاتبين مجتهدين."
+      },
+      {
+        "word": "طالبين",
+        "meaning": "two students",
+        "sentence": "الطالبين يدرسان."
+      }
+    ],
+    "relatedRootIds": ["ar_base_slm", "ar_base_drs"],
+    "pronunciationIpa": "/iːn/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "in"
+      }
+    ]
+  },
+  {
+    "id": "ar_suffix_at",
+    "root": "ات",
+    "type": "suffix",
+    "languageOrigin": "Arabic",
+    "meaning": "feminine plural (-āt)",
+    "examples": [
+      {
+        "word": "مكتبات",
+        "meaning": "libraries",
+        "sentence": "المكتبات كثيرة في المدينة."
+      },
+      {
+        "word": "مدارس",
+        "meaning": "schools",
+        "sentence": "المدارس مفتوحة."
+      },
+      {
+        "word": "بنايات",
+        "meaning": "buildings",
+        "sentence": "البنايات عالية."
+      }
+    ],
+    "relatedRootIds": ["ar_base_ktb", "ar_base_drs"],
+    "pronunciationIpa": "/aːt/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "at"
+      }
+    ]
+  },
+  {
+    "id": "ar_suffix_an",
+    "root": "ان",
+    "type": "suffix",
+    "languageOrigin": "Arabic",
+    "meaning": "dual (-ān)",
+    "examples": [
+      {
+        "word": "كتابان",
+        "meaning": "two books",
+        "sentence": "كتابان على الطاولة."
+      },
+      {
+        "word": "ولدان",
+        "meaning": "two boys",
+        "sentence": "ولدان يلعبان."
+      },
+      {
+        "word": "بيتان",
+        "meaning": "two houses",
+        "sentence": "بيتان كبيران."
+      }
+    ],
+    "relatedRootIds": ["ar_base_ktb"],
+    "pronunciationIpa": "/aːn/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "an"
+      }
+    ]
+  },
+  {
+    "id": "ar_suffix_i",
+    "root": "ي",
+    "type": "suffix",
+    "languageOrigin": "Arabic",
+    "meaning": "my / adjectival (-ī)",
+    "examples": [
+      {
+        "word": "كتابي",
+        "meaning": "my book",
+        "sentence": "هذا كتابي."
+      },
+      {
+        "word": "عربي",
+        "meaning": "Arabic",
+        "sentence": "أنا عربي."
+      },
+      {
+        "word": "صديقي",
+        "meaning": "my friend",
+        "sentence": "هذا صديقي."
+      }
+    ],
+    "relatedRootIds": ["ar_base_ktb"],
+    "pronunciationIpa": "/iː/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "i"
+      }
+    ]
+  },
+  {
+    "id": "ar_suffix_ka",
+    "root": "ك",
+    "type": "suffix",
+    "languageOrigin": "Arabic",
+    "meaning": "your (-ka)",
+    "examples": [
+      {
+        "word": "كتابك",
+        "meaning": "your book",
+        "sentence": "أين كتابك؟"
+      },
+      {
+        "word": "بيتك",
+        "meaning": "your house",
+        "sentence": "بيتك جميل."
+      },
+      {
+        "word": "اسمك",
+        "meaning": "your name",
+        "sentence": "ما اسمك؟"
+      }
+    ],
+    "relatedRootIds": ["ar_base_ktb"],
+    "pronunciationIpa": "/ka/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ka"
+      }
+    ]
+  },
+  {
+    "id": "ar_suffix_hu",
+    "root": "ه",
+    "type": "suffix",
+    "languageOrigin": "Arabic",
+    "meaning": "his (-hu)",
+    "examples": [
+      {
+        "word": "كتابه",
+        "meaning": "his book",
+        "sentence": "كتابه ممتع."
+      },
+      {
+        "word": "بيته",
+        "meaning": "his house",
+        "sentence": "بيته قريب."
+      },
+      {
+        "word": "اسمه",
+        "meaning": "his name",
+        "sentence": "اسمه أحمد."
+      }
+    ],
+    "relatedRootIds": ["ar_base_ktb"],
+    "pronunciationIpa": "/hu/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "hu"
+      }
+    ]
+  },
+  {
+    "id": "ar_suffix_hum",
+    "root": "هم",
+    "type": "suffix",
+    "languageOrigin": "Arabic",
+    "meaning": "their (-hum)",
+    "examples": [
+      {
+        "word": "كتابهم",
+        "meaning": "their book",
+        "sentence": "كتابهم مفقود."
+      },
+      {
+        "word": "بيتهم",
+        "meaning": "their house",
+        "sentence": "بيتهم كبير."
+      },
+      {
+        "word": "اسمهم",
+        "meaning": "their name",
+        "sentence": "اسمهم معروف."
+      }
+    ],
+    "relatedRootIds": ["ar_base_ktb"],
+    "pronunciationIpa": "/hum/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "hum"
+      }
+    ]
+  },
+  {
+    "id": "ar_suffix_tanwin",
+    "root": "اً",
+    "type": "suffix",
+    "languageOrigin": "Arabic",
+    "meaning": "indefinite accusative (-an)",
+    "examples": [
+      {
+        "word": "كتاباً",
+        "meaning": "a book (accusative)",
+        "sentence": "قرأت كتاباً ممتعاً."
+      },
+      {
+        "word": "بيتاً",
+        "meaning": "a house (accusative)",
+        "sentence": "رأيت بيتاً جميلاً."
+      },
+      {
+        "word": "ولداً",
+        "meaning": "a boy (accusative)",
+        "sentence": "لدي ولداً نشيطاً."
+      }
+    ],
+    "relatedRootIds": ["ar_base_ktb"],
+    "pronunciationIpa": "/an/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "an"
+      }
+    ]
+  }
+]

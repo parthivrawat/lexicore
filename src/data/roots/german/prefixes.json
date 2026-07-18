@@ -1,0 +1,322 @@
+[
+  {
+    "id": "de_prefix_ver",
+    "root": "ver-",
+    "type": "prefix",
+    "languageOrigin": "Germanic",
+    "meaning": "change; mistake; intensify",
+    "examples": [
+      {
+        "word": "vermachen",
+        "meaning": "to bequeath",
+        "sentence": "Er vermachte das Haus seinen Kindern."
+      },
+      {
+        "word": "verschreiben",
+        "meaning": "to prescribe",
+        "sentence": "Der Arzt verschreibt Medikamente."
+      },
+      {
+        "word": "versprechen",
+        "meaning": "to promise",
+        "sentence": "Ich verspreche dir zu kommen."
+      }
+    ],
+    "relatedRootIds": ["de_base_mach", "de_base_schreib", "de_base_sprech"],
+    "pronunciationIpa": "/fɛɐ̯/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ver"
+      }
+    ]
+  },
+  {
+    "id": "de_prefix_be",
+    "root": "be-",
+    "type": "prefix",
+    "languageOrigin": "Germanic",
+    "meaning": "make transitive; affect",
+    "examples": [
+      {
+        "word": "bearbeiten",
+        "meaning": "to edit; process",
+        "sentence": "Ich bearbeite den Text."
+      },
+      {
+        "word": "bedenken",
+        "meaning": "to consider",
+        "sentence": "Bitte bedenke die Folgen."
+      },
+      {
+        "word": "behalten",
+        "meaning": "to keep",
+        "sentence": "Behalte das Geld!"
+      }
+    ],
+    "relatedRootIds": ["de_base_arbeit", "de_base_denk", "de_base_halt"],
+    "pronunciationIpa": "/bə/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "be"
+      }
+    ]
+  },
+  {
+    "id": "de_prefix_ent",
+    "root": "ent-",
+    "type": "prefix",
+    "languageOrigin": "Germanic",
+    "meaning": "remove; begin; opposite",
+    "examples": [
+      {
+        "word": "entkommen",
+        "meaning": "to escape",
+        "sentence": "Der Häftling entkommt."
+      },
+      {
+        "word": "entnehmen",
+        "meaning": "to take from",
+        "sentence": "Ich entnehme das Buch der Bibliothek."
+      },
+      {
+        "word": "entsprechen",
+        "meaning": "to correspond",
+        "sentence": "Das entspricht der Wahrheit."
+      }
+    ],
+    "relatedRootIds": ["de_base_komm", "de_base_nehm", "de_base_sprech"],
+    "pronunciationIpa": "/ɛnt/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ent"
+      }
+    ]
+  },
+  {
+    "id": "de_prefix_er",
+    "root": "er-",
+    "type": "prefix",
+    "languageOrigin": "Germanic",
+    "meaning": "achieve; result; intensify",
+    "examples": [
+      {
+        "word": "erfahren",
+        "meaning": "to experience; find out",
+        "sentence": "Ich habe viel erfahren."
+      },
+      {
+        "word": "erarbeiten",
+        "meaning": "to work out",
+        "sentence": "Wir erarbeiten die Lösung."
+      },
+      {
+        "word": "erkennen",
+        "meaning": "to recognize",
+        "sentence": "Ich erkenne ihn."
+      }
+    ],
+    "relatedRootIds": ["de_base_fahr", "de_base_arbeit", "de_base_kenn"],
+    "pronunciationIpa": "/ɛɐ̯/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "er"
+      }
+    ]
+  },
+  {
+    "id": "de_prefix_zer",
+    "root": "zer-",
+    "type": "prefix",
+    "languageOrigin": "Germanic",
+    "meaning": "destroy; apart",
+    "examples": [
+      {
+        "word": "zerbrechen",
+        "meaning": "to break apart",
+        "sentence": "Das Glas ist zerbrochen."
+      },
+      {
+        "word": "zerstören",
+        "meaning": "to destroy",
+        "sentence": "Der Sturm zerstörte das Haus."
+      },
+      {
+        "word": "zerschneiden",
+        "meaning": "to cut up",
+        "sentence": "Sie zerschneidet das Papier."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/tsɛɐ̯/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "zer"
+      }
+    ]
+  },
+  {
+    "id": "de_prefix_miss",
+    "root": "miss-",
+    "type": "prefix",
+    "languageOrigin": "Germanic",
+    "meaning": "wrong; fail",
+    "examples": [
+      {
+        "word": "missverstehen",
+        "meaning": "to misunderstand",
+        "sentence": "Man missversteht mich oft."
+      },
+      {
+        "word": "missbrauchen",
+        "meaning": "to misuse",
+        "sentence": "Er missbraucht das Vertrauen."
+      },
+      {
+        "word": "missachten",
+        "meaning": "to disrespect",
+        "sentence": "Wir sollten niemanden missachten."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/mɪs/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "miss"
+      }
+    ]
+  },
+  {
+    "id": "de_prefix_uber",
+    "root": "über-",
+    "type": "prefix",
+    "languageOrigin": "Germanic",
+    "meaning": "over; across; excess",
+    "examples": [
+      {
+        "word": "übersehen",
+        "meaning": "to overlook",
+        "sentence": "Ich habe das übersehen."
+      },
+      {
+        "word": "überfahren",
+        "meaning": "to run over",
+        "sentence": "Er fährt das Tier fast über."
+      },
+      {
+        "word": "übersetzen",
+        "meaning": "to translate",
+        "sentence": "Kannst du das übersetzen?"
+      }
+    ],
+    "relatedRootIds": ["de_base_seh", "de_base_fahr"],
+    "pronunciationIpa": "/ˈyːbɐ/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ueber"
+      }
+    ]
+  },
+  {
+    "id": "de_prefix_unter",
+    "root": "unter-",
+    "type": "prefix",
+    "languageOrigin": "Germanic",
+    "meaning": "under; below; interrupt",
+    "examples": [
+      {
+        "word": "unterbrechen",
+        "meaning": "to interrupt",
+        "sentence": "Bitte unterbrich mich nicht."
+      },
+      {
+        "word": "untergehen",
+        "meaning": "to sink",
+        "sentence": "Die Sonne geht unter."
+      },
+      {
+        "word": "unterschreiben",
+        "meaning": "to sign",
+        "sentence": "Unterschreib hier, bitte."
+      }
+    ],
+    "relatedRootIds": ["de_base_geh", "de_base_schreib"],
+    "pronunciationIpa": "/ˈʊntɐ/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "unter"
+      }
+    ]
+  },
+  {
+    "id": "de_prefix_wieder",
+    "root": "wieder-",
+    "type": "prefix",
+    "languageOrigin": "Germanic",
+    "meaning": "again",
+    "examples": [
+      {
+        "word": "wiedersehen",
+        "meaning": "to see again",
+        "sentence": "Wir sehen uns wieder."
+      },
+      {
+        "word": "wiederkommen",
+        "meaning": "to come again",
+        "sentence": "Komm bald wieder!"
+      },
+      {
+        "word": "wiederholen",
+        "meaning": "to repeat",
+        "sentence": "Kannst du das wiederholen?"
+      }
+    ],
+    "relatedRootIds": ["de_base_seh", "de_base_komm"],
+    "pronunciationIpa": "/ˈviːdɐ/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "wieder"
+      }
+    ]
+  },
+  {
+    "id": "de_prefix_mit",
+    "root": "mit-",
+    "type": "prefix",
+    "languageOrigin": "Germanic",
+    "meaning": "with; along",
+    "examples": [
+      {
+        "word": "mitkommen",
+        "meaning": "to come along",
+        "sentence": "Kommst du mit?"
+      },
+      {
+        "word": "mitmachen",
+        "meaning": "to join in",
+        "sentence": "Ich mache gerne mit."
+      },
+      {
+        "word": "mitsprechen",
+        "meaning": "to join in speaking",
+        "sentence": "Ich spreche da nicht mit."
+      }
+    ],
+    "relatedRootIds": ["de_base_komm", "de_base_mach", "de_base_sprech"],
+    "pronunciationIpa": "/mɪt/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "mit"
+      }
+    ]
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "id": "bn_base_kri",
+    "root": "কৃ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "do; make",
+    "examples": [
+      {
+        "word": "করা",
+        "meaning": "to do",
+        "sentence": "আমি কাজ করি।"
+      },
+      {
+        "word": "কর্তব্য",
+        "meaning": "duty",
+        "sentence": "এটা আমার কর্তব্য।"
+      },
+      {
+        "word": "ক্রিয়া",
+        "meaning": "action",
+        "sentence": "ক্রিয়া শব্দ বলে।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_ko", "bn_suffix_kari"],
+    "pronunciationIpa": "/kri/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kri"
+      }
+    ]
+  },
+  {
+    "id": "bn_base_gom",
+    "root": "গম",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "go; come",
+    "examples": [
+      {
+        "word": "যাওয়া",
+        "meaning": "to go",
+        "sentence": "আমি বাড়ি যাচ্ছি।"
+      },
+      {
+        "word": "গমন",
+        "meaning": "departure",
+        "sentence": "তার গমনের সময় হয়েছে।"
+      },
+      {
+        "word": "আগমন",
+        "meaning": "arrival",
+        "sentence": "অতিথিদের আগমনের প্রস্তুতি চলছে।"
+      }
+    ],
+    "relatedRootIds": ["bn_prefix_onu", "bn_suffix_ta"],
+    "pronunciationIpa": "/gɔm/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "gom"
+      }
+    ]
+  },
+  {
+    "id": "bn_base_gya",
+    "root": "জ্ঞা",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "know",
+    "examples": [
+      {
+        "word": "জ্ঞান",
+        "meaning": "knowledge",
+        "sentence": "জ্ঞানই শক্তি।"
+      },
+      {
+        "word": "জ্ঞাতা",
+        "meaning": "knower",
+        "sentence": "তিনি একজন জ্ঞাতা।"
+      },
+      {
+        "word": "অজ্ঞান",
+        "meaning": "ignorance",
+        "sentence": "অজ্ঞান দূর করো।"
+      }
+    ],
+    "relatedRootIds": ["bn_prefix_a", "bn_prefix_bi"],
+    "pronunciationIpa": "/ɡɡa/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "gya"
+      }
+    ]
+  },
+  {
+    "id": "bn_base_poth",
+    "root": "পঠ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "read; study; learn",
+    "examples": [
+      {
+        "word": "পড়া",
+        "meaning": "to read",
+        "sentence": "আমি প্রতিদিন বই পড়ি।"
+      },
+      {
+        "word": "পাঠ",
+        "meaning": "lesson",
+        "sentence": "পাঠটি সহজ।"
+      },
+      {
+        "word": "পাঠক",
+        "meaning": "reader",
+        "sentence": "পাঠক মনোযোগ দিয়ে পড়েন।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_ko", "bn_suffix_ta"],
+    "pronunciationIpa": "/pɔʈʰ/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "poth"
+      }
+    ]
+  },
+  {
+    "id": "bn_base_drish",
+    "root": "দৃশ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "see",
+    "examples": [
+      {
+        "word": "দেখা",
+        "meaning": "to see",
+        "sentence": "আমি সূর্যোদয় দেখলাম।"
+      },
+      {
+        "word": "দর্শন",
+        "meaning": "sight",
+        "sentence": "দর্শন সুন্দর ছিল।"
+      },
+      {
+        "word": "দৃশ্য",
+        "meaning": "scene",
+        "sentence": "দৃশ্যটি অপূর্ব।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_ta"],
+    "pronunciationIpa": "/dr̩ʃ/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "drish"
+      }
+    ]
+  },
+  {
+    "id": "bn_base_da",
+    "root": "দা",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "give",
+    "examples": [
+      {
+        "word": "দেওয়া",
+        "meaning": "to give",
+        "sentence": "আমি তাকে কলম দেব।"
+      },
+      {
+        "word": "দান",
+        "meaning": "donation",
+        "sentence": "দান মহৎ কাজ।"
+      },
+      {
+        "word": "দাতা",
+        "meaning": "giver",
+        "sentence": "তিনি একজন দাতা।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_ta"],
+    "pronunciationIpa": "/da/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "da"
+      }
+    ]
+  },
+  {
+    "id": "bn_base_pa",
+    "root": "পা",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "drink; water; protect",
+    "examples": [
+      {
+        "word": "পান করা",
+        "meaning": "to drink",
+        "sentence": "পানি পান করো।"
+      },
+      {
+        "word": "পানীয়",
+        "meaning": "drink",
+        "sentence": "পানীয়টি ঠান্ডা।"
+      },
+      {
+        "word": "পানি",
+        "meaning": "water",
+        "sentence": "পানি জীবন।"
+      }
+    ],
+    "relatedRootIds": ["bn_base_da"],
+    "pronunciationIpa": "/pa/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "pa"
+      }
+    ]
+  },
+  {
+    "id": "bn_base_likh",
+    "root": "লিখ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "write",
+    "examples": [
+      {
+        "word": "লেখা",
+        "meaning": "to write; writing",
+        "sentence": "আমি চিঠি লিখছি।"
+      },
+      {
+        "word": "লেখক",
+        "meaning": "writer",
+        "sentence": "লেখক উপন্যাস লিখলেন।"
+      },
+      {
+        "word": "লিখন",
+        "meaning": "writing",
+        "sentence": "লিখন শিল্প।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_ko"],
+    "pronunciationIpa": "/likʰ/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "likh"
+      }
+    ]
+  },
+  {
+    "id": "bn_base_stha",
+    "root": "স্থা",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "stand; remain",
+    "examples": [
+      {
+        "word": "থাকা",
+        "meaning": "to stay",
+        "sentence": "আমি এখানে থাকি।"
+      },
+      {
+        "word": "স্থান",
+        "meaning": "place",
+        "sentence": "এটি পবিত্র স্থান।"
+      },
+      {
+        "word": "স্থিতি",
+        "meaning": "condition",
+        "sentence": "স্থিতি স্বাভাবিক।"
+      }
+    ],
+    "relatedRootIds": ["bn_prefix_pro"],
+    "pronunciationIpa": "/stʰa/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "stha"
+      }
+    ]
+  },
+  {
+    "id": "bn_base_bod",
+    "root": "বদ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "speak; say",
+    "examples": [
+      {
+        "word": "বলা",
+        "meaning": "to say",
+        "sentence": "তিনি সত্য বলেন।"
+      },
+      {
+        "word": "বচন",
+        "meaning": "speech",
+        "sentence": "বচনে শক্তি আছে।"
+      },
+      {
+        "word": "বাক্য",
+        "meaning": "sentence",
+        "sentence": "বাক্যটি সুন্দর।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_kari"],
+    "pronunciationIpa": "/bɔd/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "bod"
+      }
+    ]
+  },
+  {
+    "id": "bn_base_bhu",
+    "root": "ভূ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "become; exist",
+    "examples": [
+      {
+        "word": "হওয়া",
+        "meaning": "to become",
+        "sentence": "তিনি চিকিত্সক হলেন।"
+      },
+      {
+        "word": "ভবন",
+        "meaning": "building",
+        "sentence": "ভবনটি পুরনো।"
+      },
+      {
+        "word": "ভাব",
+        "meaning": "feeling",
+        "sentence": "ভাব বুঝতে হবে।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_ta"],
+    "pronunciationIpa": "/bhu/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "bhu"
+      }
+    ]
+  },
+  {
+    "id": "bn_base_khad",
+    "root": "খাদ্",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "eat",
+    "examples": [
+      {
+        "word": "খাওয়া",
+        "meaning": "to eat",
+        "sentence": "বাচ্চা আপেল খাচ্ছে।"
+      },
+      {
+        "word": "খাদ্য",
+        "meaning": "food",
+        "sentence": "খাদ্য মানবের প্রয়োজন।"
+      },
+      {
+        "word": "খাদক",
+        "meaning": "eater",
+        "sentence": "খাদক সুস্থ থাকুক।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_ko"],
+    "pronunciationIpa": "/kʰad/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "khad"
+      }
+    ]
+  },
+  {
+    "id": "bn_base_sru",
+    "root": "শ্রু",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "hear; listen",
+    "examples": [
+      {
+        "word": "শুনা",
+        "meaning": "to hear",
+        "sentence": "আমি গান শুনি।"
+      },
+      {
+        "word": "শ্রবণ",
+        "meaning": "hearing",
+        "sentence": "শ্রবণ ভালো।"
+      },
+      {
+        "word": "শ্রোতা",
+        "meaning": "listener",
+        "sentence": "শ্রোতা মনোযোগ দেন।"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ʃru/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "sru"
+      }
+    ]
+  },
+  {
+    "id": "bn_base_dhr",
+    "root": "ধৃ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "hold; grasp",
+    "examples": [
+      {
+        "word": "ধরা",
+        "meaning": "to hold",
+        "sentence": "আমি কলম ধরি।"
+      },
+      {
+        "word": "ধারণ",
+        "meaning": "holding",
+        "sentence": "ধারণ শক্ত।"
+      },
+      {
+        "word": "ধারক",
+        "meaning": "holder",
+        "sentence": "ধারক সাবধান।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_ko"],
+    "pronunciationIpa": "/dʰri/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dhri"
+      }
+    ]
+  },
+  {
+    "id": "bn_base_dip",
+    "root": "দীপ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "light; shine",
+    "examples": [
+      {
+        "word": "দীপ",
+        "meaning": "lamp; light",
+        "sentence": "দীপ জ্বলছে।"
+      },
+      {
+        "word": "দীপ্ত",
+        "meaning": "shining",
+        "sentence": "দীপ্ত আলো।"
+      },
+      {
+        "word": "দীপন",
+        "meaning": "illumination",
+        "sentence": "দীপন সুন্দর।"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/dip/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dip"
+      }
+    ]
+  },
+  {
+    "id": "bn_base_snih",
+    "root": "স্নিহ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "love; affection",
+    "examples": [
+      {
+        "word": "স্নেহ",
+        "meaning": "affection; love",
+        "sentence": "স্নেহ বড় গুণ।"
+      },
+      {
+        "word": "স্নেহী",
+        "meaning": "affectionate",
+        "sentence": "তিনি স্নেহী।"
+      },
+      {
+        "word": "স্নেহশীল",
+        "meaning": "loving",
+        "sentence": "স্নেহশীল মন।"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/sniɦ/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "snih"
+      }
+    ]
+  },
+  {
+    "id": "bn_base_grah",
+    "root": "গ্রহ্",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "take; receive",
+    "examples": [
+      {
+        "word": "গ্রহণ",
+        "meaning": "taking; acceptance",
+        "sentence": "গ্রহণ করা উচিত।"
+      },
+      {
+        "word": "গ্রহণ করা",
+        "meaning": "to take",
+        "sentence": "আমি উপহার গ্রহণ করি।"
+      },
+      {
+        "word": "গ্রাহক",
+        "meaning": "taker; customer",
+        "sentence": "গ্রাহক আসছে।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_ko"],
+    "pronunciationIpa": "/ɡroh/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "groh"
+      }
+    ]
+  },
+  {
+    "id": "bn_base_cint",
+    "root": "চিন্ত",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "think",
+    "examples": [
+      {
+        "word": "চিন্তা",
+        "meaning": "thought",
+        "sentence": "চিন্তা ভাবনা।"
+      },
+      {
+        "word": "চিন্তন",
+        "meaning": "thinking",
+        "sentence": "চিন্তন করো।"
+      },
+      {
+        "word": "চিন্তক",
+        "meaning": "thinker",
+        "sentence": "চিন্তক বিখ্যাত।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_ko"],
+    "pronunciationIpa": "/tʃintɔ/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "chint"
+      }
+    ]
+  },
+  {
+    "id": "bn_base_karm",
+    "root": "কর্ম",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "work; deed",
+    "examples": [
+      {
+        "word": "কর্ম",
+        "meaning": "work; deed",
+        "sentence": "কর্ম মহৎ।"
+      },
+      {
+        "word": "কর্মী",
+        "meaning": "worker",
+        "sentence": "কর্মী পরিশ্রমী।"
+      },
+      {
+        "word": "কর্মকারী",
+        "meaning": "worker",
+        "sentence": "কর্মকারী কঠোর পরিশ্রম করেন।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_kari"],
+    "pronunciationIpa": "/kɔrmɔ/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "karm"
+      }
+    ]
+  },
+  {
+    "id": "bn_base_bah",
+    "root": "বহ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "carry",
+    "examples": [
+      {
+        "word": "বহন",
+        "meaning": "to carry",
+        "sentence": "আমি ব্যাগ বহন করি।"
+      },
+      {
+        "word": "বাহক",
+        "meaning": "carrier",
+        "sentence": "বাহক পণ্য নিয়ে গেল।"
+      },
+      {
+        "word": "বহনকারী",
+        "meaning": "carrier",
+        "sentence": "বহনকারী শ্রমিক।"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/bɔh/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "bah"
+      }
+    ]
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "id": "ur_base_kar",
+    "root": "کر",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "do; make",
+    "examples": [
+      {
+        "word": "کرتا",
+        "meaning": "does",
+        "sentence": "وہ کام کرتا ہے۔"
+      },
+      {
+        "word": "کرنا",
+        "meaning": "to do",
+        "sentence": "مجھے یہ کرنا ہے۔"
+      },
+      {
+        "word": "کروانا",
+        "meaning": "to get done",
+        "sentence": "میں نے کام کروایا۔"
+      }
+    ],
+    "relatedRootIds": ["ur_suffix_a"],
+    "pronunciationIpa": "/kər/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "kar"
+      }
+    ]
+  },
+  {
+    "id": "ur_base_likh",
+    "root": "لکھ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "write",
+    "examples": [
+      {
+        "word": "لکھا",
+        "meaning": "written",
+        "sentence": "خط لکھا گیا۔"
+      },
+      {
+        "word": "لکھنا",
+        "meaning": "to write",
+        "sentence": "مجھے خط لکھنا ہے۔"
+      },
+      {
+        "word": "لکھائی",
+        "meaning": "writing",
+        "sentence": "اس کی لکھائی اچھی ہے۔"
+      }
+    ],
+    "relatedRootIds": ["ur_suffix_a", "ur_suffix_ai"],
+    "pronunciationIpa": "/lɪkh/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "likh"
+      }
+    ]
+  },
+  {
+    "id": "ur_base_parh",
+    "root": "پڑھ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "read; study; learn",
+    "examples": [
+      {
+        "word": "پڑھا",
+        "meaning": "read",
+        "sentence": "سبق پڑھا گیا۔"
+      },
+      {
+        "word": "پڑھنا",
+        "meaning": "to read",
+        "sentence": "بچہ کتاب پڑھتا ہے۔"
+      },
+      {
+        "word": "پڑھائی",
+        "meaning": "studies",
+        "sentence": "پڑھائی ضروری ہے۔"
+      }
+    ],
+    "relatedRootIds": ["ur_suffix_a", "ur_suffix_ai", "ur_prefix_an"],
+    "pronunciationIpa": "/pəɽh/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "parh"
+      }
+    ]
+  },
+  {
+    "id": "ur_base_dekh",
+    "root": "دیکھ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "see",
+    "examples": [
+      {
+        "word": "دیکھا",
+        "meaning": "seen",
+        "sentence": "میں نے اسے دیکھا۔"
+      },
+      {
+        "word": "دیکھنا",
+        "meaning": "to see",
+        "sentence": "وہ ٹی وی دیکھ رہا ہے۔"
+      },
+      {
+        "word": "اندیکھا",
+        "meaning": "unseen",
+        "sentence": "اندیکھا خزانہ تھا۔"
+      }
+    ],
+    "relatedRootIds": ["ur_suffix_a", "ur_prefix_an"],
+    "pronunciationIpa": "/deːkh/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "dekh"
+      }
+    ]
+  },
+  {
+    "id": "ur_base_sun",
+    "root": "سن",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "hear; listen",
+    "examples": [
+      {
+        "word": "سنا",
+        "meaning": "heard",
+        "sentence": "میں نے یہ سنا۔"
+      },
+      {
+        "word": "سننا",
+        "meaning": "to hear",
+        "sentence": "میری بات سننا۔"
+      },
+      {
+        "word": "سنائی",
+        "meaning": "hearing",
+        "sentence": "اس کی سنائی اچھی ہے۔"
+      }
+    ],
+    "relatedRootIds": ["ur_suffix_a", "ur_suffix_ai"],
+    "pronunciationIpa": "/sʊn/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "sun"
+      }
+    ]
+  },
+  {
+    "id": "ur_base_bol",
+    "root": "بول",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "speak",
+    "examples": [
+      {
+        "word": "بولا",
+        "meaning": "said",
+        "sentence": "اس نے بات بولی۔"
+      },
+      {
+        "word": "بولنا",
+        "meaning": "to speak",
+        "sentence": "وہ اردو بولتا ہے۔"
+      },
+      {
+        "word": "بولی",
+        "meaning": "dialect",
+        "sentence": "یہ اچھی بولی ہے۔"
+      }
+    ],
+    "relatedRootIds": ["ur_suffix_a", "ur_suffix_i"],
+    "pronunciationIpa": "/boːl/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "bol"
+      }
+    ]
+  },
+  {
+    "id": "ur_base_soch",
+    "root": "سوچ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "think",
+    "examples": [
+      {
+        "word": "سوچا",
+        "meaning": "thought",
+        "sentence": "میں نے سوچا۔"
+      },
+      {
+        "word": "سوچنا",
+        "meaning": "to think",
+        "sentence": "پہلے سوچو، پھر بولو۔"
+      },
+      {
+        "word": "سوچ",
+        "meaning": "thought",
+        "sentence": "یہ اچھی سوچ ہے۔"
+      }
+    ],
+    "relatedRootIds": ["ur_suffix_a"],
+    "pronunciationIpa": "/soːtʃ/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "soch"
+      }
+    ]
+  },
+  {
+    "id": "ur_base_jaa",
+    "root": "جا",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "go",
+    "examples": [
+      {
+        "word": "گیا",
+        "meaning": "went",
+        "sentence": "وہ سکول گیا۔"
+      },
+      {
+        "word": "جانا",
+        "meaning": "to go",
+        "sentence": "مجھے گھر جانا ہے۔"
+      },
+      {
+        "word": "جانے",
+        "meaning": "going",
+        "sentence": "جانے کا وقت ہے۔"
+      }
+    ],
+    "relatedRootIds": ["ur_suffix_a"],
+    "pronunciationIpa": "/dʒaː/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ja"
+      }
+    ]
+  },
+  {
+    "id": "ur_base_aa",
+    "root": "آ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "come",
+    "examples": [
+      {
+        "word": "آیا",
+        "meaning": "came",
+        "sentence": "وہ گھر آیا۔"
+      },
+      {
+        "word": "آنا",
+        "meaning": "to come",
+        "sentence": "وہ کل آئے گا۔"
+      },
+      {
+        "word": "آنے",
+        "meaning": "coming",
+        "sentence": "آنے کا شکریہ۔"
+      }
+    ],
+    "relatedRootIds": ["ur_suffix_a"],
+    "pronunciationIpa": "/aː/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "aa"
+      }
+    ]
+  },
+  {
+    "id": "ur_base_le",
+    "root": "لے",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "take",
+    "examples": [
+      {
+        "word": "لیا",
+        "meaning": "took",
+        "sentence": "اس نے کتاب لی۔"
+      },
+      {
+        "word": "لینا",
+        "meaning": "to take",
+        "sentence": "مجھے پانی لینا ہے۔"
+      },
+      {
+        "word": "لےجانا",
+        "meaning": "to take away",
+        "sentence": "اسے گھر لےجانا۔"
+      }
+    ],
+    "relatedRootIds": ["ur_suffix_a"],
+    "pronunciationIpa": "/leː/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "le"
+      }
+    ]
+  },
+  {
+    "id": "ur_base_de",
+    "root": "دے",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "give",
+    "examples": [
+      {
+        "word": "دیا",
+        "meaning": "gave",
+        "sentence": "اس نے مجھے دیا۔"
+      },
+      {
+        "word": "دینا",
+        "meaning": "to give",
+        "sentence": "مجھے یہ دینا ہے۔"
+      },
+      {
+        "word": "ادا",
+        "meaning": "payment",
+        "sentence": "میں نے قرض ادا کیا۔"
+      }
+    ],
+    "relatedRootIds": ["ur_suffix_a"],
+    "pronunciationIpa": "/deː/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "de"
+      }
+    ]
+  },
+  {
+    "id": "ur_base_kha",
+    "root": "کھا",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "eat",
+    "examples": [
+      {
+        "word": "کھایا",
+        "meaning": "ate",
+        "sentence": "اس نے روٹی کھائی۔"
+      },
+      {
+        "word": "کھانا",
+        "meaning": "to eat; food",
+        "sentence": "کھانا تیار ہے۔"
+      },
+      {
+        "word": "کھانے",
+        "meaning": "eating",
+        "sentence": "کھانے کا وقت ہے۔"
+      }
+    ],
+    "relatedRootIds": ["ur_suffix_a"],
+    "pronunciationIpa": "/kʰaː/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "kha"
+      }
+    ]
+  },
+  {
+    "id": "ur_base_uth",
+    "root": "اٹھ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "carry; lift",
+    "examples": [
+      {
+        "word": "اٹھایا",
+        "meaning": "lifted; carried",
+        "sentence": "اس نے باکس اٹھایا۔"
+      },
+      {
+        "word": "اٹھانا",
+        "meaning": "to lift; carry",
+        "sentence": "براہ کرم باکس اٹھائیں۔"
+      },
+      {
+        "word": "اٹھانےوالا",
+        "meaning": "carrier",
+        "sentence": "وہ اٹھانےوالا آدمی ہے۔"
+      }
+    ],
+    "relatedRootIds": ["ur_suffix_wala", "ur_suffix_a"],
+    "pronunciationIpa": "/ʊʈʰ/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "uth"
+      }
+    ]
+  },
+  {
+    "id": "ur_base_pi",
+    "root": "پی",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "drink",
+    "examples": [
+      {
+        "word": "پیا",
+        "meaning": "drank",
+        "sentence": "اس نے پانی پیا۔"
+      },
+      {
+        "word": "پینا",
+        "meaning": "to drink",
+        "sentence": "مجھے پانی پینا ہے۔"
+      },
+      {
+        "word": "پینےوالا",
+        "meaning": "drinker",
+        "sentence": "وہ پینےوالا ہے۔"
+      }
+    ],
+    "relatedRootIds": ["ur_suffix_wala", "ur_suffix_a"],
+    "pronunciationIpa": "/piː/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "pi"
+      }
+    ]
+  },
+  {
+    "id": "ur_base_pakad",
+    "root": "پکڑ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "hold; catch",
+    "examples": [
+      {
+        "word": "پکڑا",
+        "meaning": "held; caught",
+        "sentence": "اس نے گیند پکڑی۔"
+      },
+      {
+        "word": "پکڑنا",
+        "meaning": "to hold; to catch",
+        "sentence": "کپ پکڑو۔"
+      },
+      {
+        "word": "پکڑنےوالا",
+        "meaning": "holder; catcher",
+        "sentence": "وہ گیند پکڑنےوالا ہے۔"
+      }
+    ],
+    "relatedRootIds": ["ur_suffix_wala", "ur_suffix_a"],
+    "pronunciationIpa": "/pəkəɽ/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "pakad"
+      }
+    ]
+  },
+  {
+    "id": "ur_base_jan",
+    "root": "جان",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "know",
+    "examples": [
+      {
+        "word": "جانتاہے",
+        "meaning": "knows",
+        "sentence": "وہ اچھی طرح جانتا ہے۔"
+      },
+      {
+        "word": "جاننا",
+        "meaning": "to know",
+        "sentence": "مجھے یہ جاننا ہے۔"
+      },
+      {
+        "word": "جانکار",
+        "meaning": "knowledgeable",
+        "sentence": "وہ بہت جانکار ہے۔"
+      }
+    ],
+    "relatedRootIds": ["ur_suffix_kar", "ur_suffix_a"],
+    "pronunciationIpa": "/dʒaːn/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "jan"
+      }
+    ]
+  },
+  {
+    "id": "ur_base_roshni",
+    "root": "روشنی",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "light",
+    "examples": [
+      {
+        "word": "روشنی",
+        "meaning": "light",
+        "sentence": "کمرے میں روشنی ہے۔"
+      },
+      {
+        "word": "روشن",
+        "meaning": "bright; lit",
+        "sentence": "سورج روشن ہے۔"
+      },
+      {
+        "word": "روشندان",
+        "meaning": "window; skylight",
+        "sentence": "روشندان کھلا ہے۔"
+      }
+    ],
+    "relatedRootIds": ["ur_prefix_be"],
+    "pronunciationIpa": "/ɾoːʃni/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "roshni"
+      }
+    ]
+  },
+  {
+    "id": "ur_base_pyar",
+    "root": "پیار",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "love",
+    "examples": [
+      {
+        "word": "پیار",
+        "meaning": "love",
+        "sentence": "پیار بڑی چیز ہے۔"
+      },
+      {
+        "word": "پیار کرنا",
+        "meaning": "to love",
+        "sentence": "وہ اس سے پیار کرتا ہے۔"
+      },
+      {
+        "word": "پیارا",
+        "meaning": "lovely; beloved",
+        "sentence": "یہ بچہ بہت پیارا ہے۔"
+      }
+    ],
+    "relatedRootIds": ["ur_suffix_a"],
+    "pronunciationIpa": "/pjaːɾ/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "pyar"
+      }
+    ]
+  },
+  {
+    "id": "ur_base_kah",
+    "root": "کہ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "say; tell",
+    "examples": [
+      {
+        "word": "کہا",
+        "meaning": "said",
+        "sentence": "اس نے سچ کہا۔"
+      },
+      {
+        "word": "کہنا",
+        "meaning": "to say; to tell",
+        "sentence": "مجھے کچھ کہنا ہے۔"
+      },
+      {
+        "word": "کہنےوالا",
+        "meaning": "speaker; sayer",
+        "sentence": "وہ اچھا کہنےوالا ہے۔"
+      }
+    ],
+    "relatedRootIds": ["ur_suffix_wala", "ur_suffix_a"],
+    "pronunciationIpa": "/kɛh/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "kah"
+      }
+    ]
+  },
+  {
+    "id": "ur_base_pani",
+    "root": "پانی",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "water",
+    "examples": [
+      {
+        "word": "پانی",
+        "meaning": "water",
+        "sentence": "پانی صاف ہے۔"
+      },
+      {
+        "word": "پانیوالا",
+        "meaning": "water carrier; water seller",
+        "sentence": "پانیوالا آ گیا۔"
+      },
+      {
+        "word": "پینے کا پانی",
+        "meaning": "drinking water",
+        "sentence": "پینے کا پانی کم ہے۔"
+      }
+    ],
+    "relatedRootIds": ["ur_suffix_wala"],
+    "pronunciationIpa": "/paːni/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "pani"
+      }
+    ]
+  },
+  {
+    "id": "ur_base_kaam",
+    "root": "کام",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "work",
+    "examples": [
+      {
+        "word": "کام",
+        "meaning": "work",
+        "sentence": "کام ختم ہو گیا۔"
+      },
+      {
+        "word": "کام کرنا",
+        "meaning": "to work",
+        "sentence": "وہ محنت سے کام کرتا ہے۔"
+      },
+      {
+        "word": "کارکن",
+        "meaning": "worker",
+        "sentence": "کارکن آ گئے۔"
+      }
+    ],
+    "relatedRootIds": ["ur_suffix_kar", "ur_suffix_a"],
+    "pronunciationIpa": "/kaːm/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "kaam"
+      }
+    ]
+  }
+]

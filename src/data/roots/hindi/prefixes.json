@@ -1,0 +1,482 @@
+[
+  {
+    "id": "hi_prefix_a",
+    "root": "अ",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "not; without",
+    "examples": [
+      {
+        "word": "अज्ञान",
+        "meaning": "ignorance",
+        "sentence": "अज्ञान अँधेरे की तरह है।"
+      },
+      {
+        "word": "अनपढ़",
+        "meaning": "illiterate",
+        "sentence": "वह अनपढ़ है।"
+      },
+      {
+        "word": "अधर्म",
+        "meaning": "unrighteousness",
+        "sentence": "अधर्म से बचना चाहिए।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_ta"],
+    "pronunciationIpa": "/ə/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "a"
+      }
+    ]
+  },
+  {
+    "id": "hi_prefix_ati",
+    "root": "अति",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "excessive; over",
+    "examples": [
+      {
+        "word": "अत्यधिक",
+        "meaning": "excessive",
+        "sentence": "अत्यधिक मेहनत से सफलता मिलती है।"
+      },
+      {
+        "word": "अतिवृष्टि",
+        "meaning": "excessive rain",
+        "sentence": "अतिवृष्टि से बाढ़ आ गई।"
+      },
+      {
+        "word": "अत्याचार",
+        "meaning": "atrocity",
+        "sentence": "अत्याचार कभी बर्दाश्त नहीं किया जाना चाहिए।"
+      }
+    ],
+    "relatedRootIds": ["hi_prefix_a"],
+    "pronunciationIpa": "/əti/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ati"
+      }
+    ]
+  },
+  {
+    "id": "hi_prefix_anu",
+    "root": "अनु",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "after; along; following",
+    "examples": [
+      {
+        "word": "अनुसरण",
+        "meaning": "following",
+        "sentence": "उसने गुरु का अनुसरण किया।"
+      },
+      {
+        "word": "अनुवाद",
+        "meaning": "translation",
+        "sentence": "किताब का अनुवाद किया जा रहा है।"
+      },
+      {
+        "word": "अनुज",
+        "meaning": "younger brother",
+        "sentence": "मेरा अनुज छोटा है।"
+      }
+    ],
+    "relatedRootIds": ["hi_base_gam"],
+    "pronunciationIpa": "/ənu/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "anu"
+      }
+    ]
+  },
+  {
+    "id": "hi_prefix_apa",
+    "root": "अप",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "away; bad; down",
+    "examples": [
+      {
+        "word": "अपमान",
+        "meaning": "insult",
+        "sentence": "अपमान सहना मुश्किल है।"
+      },
+      {
+        "word": "अपयश",
+        "meaning": "disrepute",
+        "sentence": "अपयश से बचें।"
+      },
+      {
+        "word": "अपकार",
+        "meaning": "harm",
+        "sentence": "अपकार न करें।"
+      }
+    ],
+    "relatedRootIds": ["hi_prefix_a"],
+    "pronunciationIpa": "/əpə/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "apa"
+      }
+    ]
+  },
+  {
+    "id": "hi_prefix_abhi",
+    "root": "अभि",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "towards; over",
+    "examples": [
+      {
+        "word": "अभिमुख",
+        "meaning": "facing",
+        "sentence": "वह दरवाज़े को अभिमुख खड़ा था।"
+      },
+      {
+        "word": "अभिनय",
+        "meaning": "acting",
+        "sentence": "उसका अभिनय शानदार था।"
+      },
+      {
+        "word": "अभियान",
+        "meaning": "campaign",
+        "sentence": "स्वच्छता अभियान चला रहे हैं।"
+      }
+    ],
+    "relatedRootIds": ["hi_prefix_pra"],
+    "pronunciationIpa": "/əbʰi/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "abhi"
+      }
+    ]
+  },
+  {
+    "id": "hi_prefix_ava",
+    "root": "अव",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "down; off; bad",
+    "examples": [
+      {
+        "word": "अवनति",
+        "meaning": "decline",
+        "sentence": "अर्थव्यवस्था में अवनति आई।"
+      },
+      {
+        "word": "अवतार",
+        "meaning": "incarnation",
+        "sentence": "भगवान का अवतार हुआ।"
+      },
+      {
+        "word": "अवगुण",
+        "meaning": "demerit",
+        "sentence": "हर व्यक्ति में कुछ अवगुण होते हैं।"
+      }
+    ],
+    "relatedRootIds": ["hi_prefix_a"],
+    "pronunciationIpa": "/əʋə/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ava"
+      }
+    ]
+  },
+  {
+    "id": "hi_prefix_upa",
+    "root": "उप",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "near; sub-; accessory",
+    "examples": [
+      {
+        "word": "उपकार",
+        "meaning": "favor",
+        "sentence": "मैं तुम्हारे उपकार का ऋणी हूँ।"
+      },
+      {
+        "word": "उपवन",
+        "meaning": "grove",
+        "sentence": "उपवन में फूल खिले हैं।"
+      },
+      {
+        "word": "उपमंत्री",
+        "meaning": "deputy minister",
+        "sentence": "उपमंत्री ने भाषण दिया।"
+      }
+    ],
+    "relatedRootIds": ["hi_prefix_pra"],
+    "pronunciationIpa": "/upə/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "upa"
+      }
+    ]
+  },
+  {
+    "id": "hi_prefix_ut",
+    "root": "उत्",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "up; upwards",
+    "examples": [
+      {
+        "word": "उत्थान",
+        "meaning": "rise",
+        "sentence": "उत्थान के लिए मेहनत ज़रूरी है।"
+      },
+      {
+        "word": "उद्गम",
+        "meaning": "origin",
+        "sentence": "गंगा का उद्गम हिमालय से है।"
+      },
+      {
+        "word": "उन्नति",
+        "meaning": "progress",
+        "sentence": "उन्नति के नए रास्ते बन रहे हैं।"
+      }
+    ],
+    "relatedRootIds": ["hi_base_stha"],
+    "pronunciationIpa": "/ut/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ut"
+      }
+    ]
+  },
+  {
+    "id": "hi_prefix_pra",
+    "root": "प्र",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "forward; forth; very",
+    "examples": [
+      {
+        "word": "प्रगति",
+        "meaning": "progress",
+        "sentence": "देश तेज़ी से प्रगति कर रहा है।"
+      },
+      {
+        "word": "प्रहार",
+        "meaning": "attack",
+        "sentence": "उसने तेज़ प्रहार किया।"
+      },
+      {
+        "word": "प्रबल",
+        "meaning": "strong",
+        "sentence": "प्रबल आंधी चल रही थी।"
+      }
+    ],
+    "relatedRootIds": ["hi_base_kr"],
+    "pronunciationIpa": "/prə/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "pra"
+      }
+    ]
+  },
+  {
+    "id": "hi_prefix_prati",
+    "root": "प्रति",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "against; every; towards",
+    "examples": [
+      {
+        "word": "प्रतिदिन",
+        "meaning": "daily",
+        "sentence": "मैं प्रतिदिन योग करता हूँ।"
+      },
+      {
+        "word": "प्रतिकूल",
+        "meaning": "adverse",
+        "sentence": "प्रतिकूल परिस्थितियों में भी हिम्मत न हारें।"
+      },
+      {
+        "word": "प्रत्युत्तर",
+        "meaning": "reply",
+        "sentence": "उसने जवाब के रूप में प्रत्युत्तर दिया।"
+      }
+    ],
+    "relatedRootIds": ["hi_prefix_pra"],
+    "pronunciationIpa": "/prəti/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "prati"
+      }
+    ]
+  },
+  {
+    "id": "hi_prefix_vi",
+    "root": "वि",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "apart; special; without",
+    "examples": [
+      {
+        "word": "विज्ञान",
+        "meaning": "science",
+        "sentence": "विज्ञान ने जीवन को आसान बना दिया।"
+      },
+      {
+        "word": "विदेश",
+        "meaning": "foreign country",
+        "sentence": "उसने विदेश में पढ़ाई की।"
+      },
+      {
+        "word": "विकास",
+        "meaning": "development",
+        "sentence": "शहर का विकास हो रहा है।"
+      }
+    ],
+    "relatedRootIds": ["hi_base_jna"],
+    "pronunciationIpa": "/ʋi/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "vi"
+      }
+    ]
+  },
+  {
+    "id": "hi_prefix_sam",
+    "root": "सम्",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "together; complete; with",
+    "examples": [
+      {
+        "word": "संस्कार",
+        "meaning": "culture; rite",
+        "sentence": "संस्कार व्यक्ति को समृद्ध बनाते हैं।"
+      },
+      {
+        "word": "संगम",
+        "meaning": "confluence",
+        "sentence": "गंगा-यमुना का संगम प्रयाग में है।"
+      },
+      {
+        "word": "संतोष",
+        "meaning": "satisfaction",
+        "sentence": "संतोष बड़ा धन है।"
+      }
+    ],
+    "relatedRootIds": ["hi_base_gam"],
+    "pronunciationIpa": "/səm/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "sam"
+      }
+    ]
+  },
+  {
+    "id": "hi_prefix_su",
+    "root": "सु",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "good; easy; well",
+    "examples": [
+      {
+        "word": "सुगम",
+        "meaning": "easy",
+        "sentence": "यह रास्ता सुगम है।"
+      },
+      {
+        "word": "सुपुत्र",
+        "meaning": "good son",
+        "sentence": "सुपुत्र ने माता-पिता की सेवा की।"
+      },
+      {
+        "word": "स्वागत",
+        "meaning": "welcome",
+        "sentence": "मेहमानों का स्वागत किया।"
+      }
+    ],
+    "relatedRootIds": ["hi_prefix_pra"],
+    "pronunciationIpa": "/su/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "su"
+      }
+    ]
+  },
+  {
+    "id": "hi_prefix_dur",
+    "root": "दुर्",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "bad; difficult; hard",
+    "examples": [
+      {
+        "word": "दुराचार",
+        "meaning": "misconduct",
+        "sentence": "दुराचार समाज को नुकसान पहुँचाता है।"
+      },
+      {
+        "word": "दुर्बल",
+        "meaning": "weak",
+        "sentence": "दुर्बल व्यक्ति को आराम चाहिए।"
+      },
+      {
+        "word": "दुष्कर्म",
+        "meaning": "misdeed",
+        "sentence": "दुष्कर्म का परिणाम भयानक होता है।"
+      }
+    ],
+    "relatedRootIds": ["hi_prefix_a"],
+    "pronunciationIpa": "/dur/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "dur"
+      }
+    ]
+  },
+  {
+    "id": "hi_prefix_nir",
+    "root": "निर्",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "without; out; free from",
+    "examples": [
+      {
+        "word": "निराहार",
+        "meaning": "without food",
+        "sentence": "वह निराहार रहा।"
+      },
+      {
+        "word": "निर्जल",
+        "meaning": "waterless",
+        "sentence": "मरुस्थल निर्जल होता है।"
+      },
+      {
+        "word": "निष्फल",
+        "meaning": "fruitless",
+        "sentence": "उसकी मेहनत निष्फल नहीं गई।"
+      }
+    ],
+    "relatedRootIds": ["hi_prefix_a"],
+    "pronunciationIpa": "/nir/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "nir"
+      }
+    ]
+  }
+]

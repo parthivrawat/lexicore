@@ -1,0 +1,258 @@
+[
+  {
+    "id": "tr_prefix_ust",
+    "root": "üst-",
+    "type": "prefix",
+    "languageOrigin": "Turkic",
+    "meaning": "upper; super",
+    "examples": [
+      {
+        "word": "üst katta",
+        "meaning": "upper floor",
+        "sentence": "Üst katta oturuyor."
+      },
+      {
+        "word": "üstün",
+        "meaning": "superior",
+        "sentence": "O üstün bir insan."
+      },
+      {
+        "word": "üstünlük",
+        "meaning": "superiority",
+        "sentence": "Üstünlük kabul edildi."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_lik"],
+    "pronunciationIpa": "/yst/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "uest"
+      }
+    ]
+  },
+  {
+    "id": "tr_prefix_alt",
+    "root": "alt-",
+    "type": "prefix",
+    "languageOrigin": "Turkic",
+    "meaning": "lower; sub",
+    "examples": [
+      {
+        "word": "alt katta",
+        "meaning": "lower floor",
+        "sentence": "Alt katta yaşıyor."
+      },
+      {
+        "word": "altyapı",
+        "meaning": "infrastructure",
+        "sentence": "Altyapı güçlü."
+      },
+      {
+        "word": "altlık",
+        "meaning": "underlayer",
+        "sentence": "Altlık değiştirildi."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_lik"],
+    "pronunciationIpa": "/alt/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "alt"
+      }
+    ]
+  },
+  {
+    "id": "tr_prefix_yan",
+    "root": "yan-",
+    "type": "prefix",
+    "languageOrigin": "Turkic",
+    "meaning": "side",
+    "examples": [
+      {
+        "word": "yan yana",
+        "meaning": "side by side",
+        "sentence": "Yan yana oturuyorlar."
+      },
+      {
+        "word": "yanlış",
+        "meaning": "wrong",
+        "sentence": "Bu yanlış."
+      },
+      {
+        "word": "yansıma",
+        "meaning": "reflection",
+        "sentence": "Aynada yansıma var."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/jan/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "yan"
+      }
+    ]
+  },
+  {
+    "id": "tr_prefix_bas",
+    "root": "baş-",
+    "type": "prefix",
+    "languageOrigin": "Turkic",
+    "meaning": "head; main",
+    "examples": [
+      {
+        "word": "başkan",
+        "meaning": "president",
+        "sentence": "Başkan konuştu."
+      },
+      {
+        "word": "başlık",
+        "meaning": "title",
+        "sentence": "Başlık dikkat çekici."
+      },
+      {
+        "word": "başlangıç",
+        "meaning": "beginning",
+        "sentence": "Başlangıç güzeldi."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_lik"],
+    "pronunciationIpa": "/baʃ/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "bash"
+      }
+    ]
+  },
+  {
+    "id": "tr_prefix_karsi",
+    "root": "karşı-",
+    "type": "prefix",
+    "languageOrigin": "Turkic",
+    "meaning": "opposite; anti",
+    "examples": [
+      {
+        "word": "karşılık",
+        "meaning": "response; equivalent",
+        "sentence": "Karşılık vermedi."
+      },
+      {
+        "word": "karşı taraf",
+        "meaning": "opposite side",
+        "sentence": "Karşı taraf bekliyor."
+      },
+      {
+        "word": "karşılaştırma",
+        "meaning": "comparison",
+        "sentence": "Karşılaştırma yapacağız."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_lik"],
+    "pronunciationIpa": "/kaɾʃɯ/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "karsi"
+      }
+    ]
+  },
+  {
+    "id": "tr_prefix_ara",
+    "root": "ara-",
+    "type": "prefix",
+    "languageOrigin": "Turkic",
+    "meaning": "between; inter",
+    "examples": [
+      {
+        "word": "aralık",
+        "meaning": "interval",
+        "sentence": "Aralık çok kısa."
+      },
+      {
+        "word": "ara sıra",
+        "meaning": "from time to time",
+        "sentence": "Ara sıra gelir."
+      },
+      {
+        "word": "araştırma",
+        "meaning": "research",
+        "sentence": "Araştırma devam ediyor."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_lik"],
+    "pronunciationIpa": "/aɾa/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ara"
+      }
+    ]
+  },
+  {
+    "id": "tr_prefix_on",
+    "root": "ön-",
+    "type": "prefix",
+    "languageOrigin": "Turkic",
+    "meaning": "front; pre",
+    "examples": [
+      {
+        "word": "ön kapı",
+        "meaning": "front door",
+        "sentence": "Ön kapı açık."
+      },
+      {
+        "word": "önem",
+        "meaning": "importance",
+        "sentence": "Önem büyük."
+      },
+      {
+        "word": "önemsiz",
+        "meaning": "unimportant",
+        "sentence": "Bu önemsiz."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_siz"],
+    "pronunciationIpa": "/œn/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "oen"
+      }
+    ]
+  },
+  {
+    "id": "tr_prefix_arka",
+    "root": "arka-",
+    "type": "prefix",
+    "languageOrigin": "Turkic",
+    "meaning": "back; post",
+    "examples": [
+      {
+        "word": "arka kapı",
+        "meaning": "back door",
+        "sentence": "Arka kapıdan gir."
+      },
+      {
+        "word": "arkadaş",
+        "meaning": "friend",
+        "sentence": "Arkadaş çok değerli."
+      },
+      {
+        "word": "arka plan",
+        "meaning": "background",
+        "sentence": "Arka plan net değil."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/aɾka/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "arka"
+      }
+    ]
+  }
+]

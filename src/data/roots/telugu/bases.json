@@ -1,0 +1,642 @@
+[
+  {
+    "id": "te_base_cheyi",
+    "root": "చేయి",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "do; make",
+    "examples": [
+      {
+        "word": "చేస్తాడు",
+        "meaning": "does",
+        "sentence": "అతను పని చేస్తాడు."
+      },
+      {
+        "word": "చేయించు",
+        "meaning": "to make/cause",
+        "sentence": "అతను పని చేయించాడు."
+      },
+      {
+        "word": "చేసేవాడు",
+        "meaning": "doer",
+        "sentence": "అతను మంచి చేసేవాడు."
+      }
+    ],
+    "relatedRootIds": ["te_suffix_vadu"],
+    "pronunciationIpa": "/tɕeːji/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ceyi"
+      }
+    ]
+  },
+  {
+    "id": "te_base_raayi",
+    "root": "రాయి",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "write",
+    "examples": [
+      {
+        "word": "రాస్తాడు",
+        "meaning": "writes",
+        "sentence": "అతను పత్రం రాస్తాడు."
+      },
+      {
+        "word": "రచయిత",
+        "meaning": "writer",
+        "sentence": "అతను రచయిత."
+      },
+      {
+        "word": "రాయడం",
+        "meaning": "writing",
+        "sentence": "రాయడం నేర్చుకో."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/raːji/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "raayi"
+      }
+    ]
+  },
+  {
+    "id": "te_base_caduvu",
+    "root": "చదువు",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "read; study; learn",
+    "examples": [
+      {
+        "word": "చదువుతాడు",
+        "meaning": "reads",
+        "sentence": "అతను పుస్తకం చదువుతాడు."
+      },
+      {
+        "word": "చదువుకున్నవాడు",
+        "meaning": "educated person",
+        "sentence": "అతను చదువుకున్నవాడు."
+      },
+      {
+        "word": "చదవడం",
+        "meaning": "reading",
+        "sentence": "చదవడం అలవాటు చేసుకో."
+      }
+    ],
+    "relatedRootIds": ["te_suffix_vadu"],
+    "pronunciationIpa": "/tɕaduvu/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "caduvu"
+      }
+    ]
+  },
+  {
+    "id": "te_base_cudu",
+    "root": "చూడు",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "see",
+    "examples": [
+      {
+        "word": "చూస్తాడు",
+        "meaning": "sees",
+        "sentence": "అతను చిత్రం చూస్తాడు."
+      },
+      {
+        "word": "చూపు",
+        "meaning": "sight",
+        "sentence": "అతని చూపు తేటగా ఉంది."
+      },
+      {
+        "word": "చూసేవాడు",
+        "meaning": "one who sees",
+        "sentence": "అతను నిజాన్ని చూసేవాడు."
+      }
+    ],
+    "relatedRootIds": ["te_suffix_vadu"],
+    "pronunciationIpa": "/tɕuːɖu/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "cuudu"
+      }
+    ]
+  },
+  {
+    "id": "te_base_vinu",
+    "root": "విను",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "hear; listen",
+    "examples": [
+      {
+        "word": "విన్తాడు",
+        "meaning": "hears",
+        "sentence": "అతను పాట విన్తాడు."
+      },
+      {
+        "word": "వినడం",
+        "meaning": "hearing",
+        "sentence": "జాగ్రత్తగా వినడం నేర్చుకో."
+      },
+      {
+        "word": "వినేవాడు",
+        "meaning": "one who listens",
+        "sentence": "అతను మంచి వినేవాడు."
+      }
+    ],
+    "relatedRootIds": ["te_suffix_vadu"],
+    "pronunciationIpa": "/ʋinu/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "vinu"
+      }
+    ]
+  },
+  {
+    "id": "te_base_anu",
+    "root": "అను",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "say; speak",
+    "examples": [
+      {
+        "word": "అంటాడు",
+        "meaning": "says",
+        "sentence": "అతను నిజం అంటాడు."
+      },
+      {
+        "word": "అనడం",
+        "meaning": "saying",
+        "sentence": "అనడం కంటే చేయడం మిన్న."
+      },
+      {
+        "word": "అనేవాడు",
+        "meaning": "one who says",
+        "sentence": "అతను మంచి మాటలు అనేవాడు."
+      }
+    ],
+    "relatedRootIds": ["te_suffix_vadu"],
+    "pronunciationIpa": "/anu/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "anu"
+      }
+    ]
+  },
+  {
+    "id": "te_base_alocincu",
+    "root": "ఆలోచించు",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "think",
+    "examples": [
+      {
+        "word": "ఆలోచిస్తాడు",
+        "meaning": "thinks",
+        "sentence": "అతను ఎక్కువ ఆలోచిస్తాడు."
+      },
+      {
+        "word": "ఆలోచన",
+        "meaning": "thought",
+        "sentence": "మంచి ఆలోచన."
+      },
+      {
+        "word": "ఆలోచించేవాడు",
+        "meaning": "thinker",
+        "sentence": "అతను ఆలోచించేవాడు."
+      }
+    ],
+    "relatedRootIds": ["te_suffix_vadu"],
+    "pronunciationIpa": "/aːloːtɕintɕu/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "aalocincu"
+      }
+    ]
+  },
+  {
+    "id": "te_base_vellu",
+    "root": "వెళ్ళు",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "go",
+    "examples": [
+      {
+        "word": "వెళ్తాడు",
+        "meaning": "goes",
+        "sentence": "అతను పాఠశాలకు వెళ్తాడు."
+      },
+      {
+        "word": "వెళ్ళడం",
+        "meaning": "going",
+        "sentence": "ఇంటికి వెళ్ళడం ఉంది."
+      },
+      {
+        "word": "ప్రయాణం",
+        "meaning": "journey",
+        "sentence": "ప్రయాణం సుఖంగా ఉంది."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ʋeɭɭu/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "vellu"
+      }
+    ]
+  },
+  {
+    "id": "te_base_raa",
+    "root": "రా",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "come",
+    "examples": [
+      {
+        "word": "వస్తాడు",
+        "meaning": "comes",
+        "sentence": "అతను రేపు వస్తాడు."
+      },
+      {
+        "word": "రావడం",
+        "meaning": "coming",
+        "sentence": "రావడం ఆలస్యమైంది."
+      },
+      {
+        "word": "ఆగమనం",
+        "meaning": "arrival",
+        "sentence": "అతని ఆగమనంతో సంతోషం."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/raː/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "raa"
+      }
+    ]
+  },
+  {
+    "id": "te_base_tiisukoo",
+    "root": "తీసుకో",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "take",
+    "examples": [
+      {
+        "word": "తీసుకుంటాడు",
+        "meaning": "takes",
+        "sentence": "అతను పుస్తకం తీసుకుంటాడు."
+      },
+      {
+        "word": "తీసుకోవడం",
+        "meaning": "taking",
+        "sentence": "ఇది తీసుకోవడం అవసరం."
+      },
+      {
+        "word": "స్వీకరించు",
+        "meaning": "accept",
+        "sentence": "అతను నా స్వీకరణ చేశాడు."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/tiːsukoː/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "tiisukoo"
+      }
+    ]
+  },
+  {
+    "id": "te_base_ivvu",
+    "root": "ఇవ్వు",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "give",
+    "examples": [
+      {
+        "word": "ఇస్తాడు",
+        "meaning": "gives",
+        "sentence": "అతను దానం ఇస్తాడు."
+      },
+      {
+        "word": "ఇవ్వడం",
+        "meaning": "giving",
+        "sentence": "ప్రేమతో ఇవ్వడం."
+      },
+      {
+        "word": "దానం",
+        "meaning": "donation",
+        "sentence": "దానం పుణ్యకార్యం."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/iʋʋu/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ivvu"
+      }
+    ]
+  },
+  {
+    "id": "te_base_tinu",
+    "root": "తిను",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "eat",
+    "examples": [
+      {
+        "word": "తింటాడు",
+        "meaning": "eats",
+        "sentence": "అతను అన్నం తింటాడు."
+      },
+      {
+        "word": "తినడం",
+        "meaning": "eating",
+        "sentence": "తినడానికి ముందు చేతులు కడుగు."
+      },
+      {
+        "word": "ఆహారం",
+        "meaning": "food",
+        "sentence": "ఆహారం పవిత్రం."
+      }
+    ],
+    "relatedRootIds": ["te_suffix_vadu"],
+    "pronunciationIpa": "/tinu/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "tinu"
+      }
+    ]
+  },
+  {
+    "id": "te_base_moyu",
+    "root": "మోయు",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "carry",
+    "examples": [
+      {
+        "word": "మోస్తాడు",
+        "meaning": "carries",
+        "sentence": "అతను సంచిని మోస్తాడు."
+      },
+      {
+        "word": "మోయడం",
+        "meaning": "carrying",
+        "sentence": "భారం మోయడం కష్టం."
+      },
+      {
+        "word": "భారం",
+        "meaning": "burden",
+        "sentence": "భారం లేదు."
+      }
+    ],
+    "relatedRootIds": ["te_suffix_vadu"],
+    "pronunciationIpa": "/moːju/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "moyu"
+      }
+    ]
+  },
+  {
+    "id": "te_base_taagu",
+    "root": "తాగు",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "drink",
+    "examples": [
+      {
+        "word": "తాగుతాడు",
+        "meaning": "drinks",
+        "sentence": "అతను నీరు తాగుతాడు."
+      },
+      {
+        "word": "తాగడం",
+        "meaning": "drinking",
+        "sentence": "నీరు తాగడం మంచిది."
+      },
+      {
+        "word": "పానీయం",
+        "meaning": "beverage",
+        "sentence": "పానీయం చల్లగా ఉంది."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/taːgu/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "taagu"
+      }
+    ]
+  },
+  {
+    "id": "te_base_pattu",
+    "root": "పట్టు",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "hold",
+    "examples": [
+      {
+        "word": "పట్టుకుంటాడు",
+        "meaning": "holds",
+        "sentence": "అతను కప్పును పట్టుకుంటాడు."
+      },
+      {
+        "word": "పట్టు",
+        "meaning": "grip",
+        "sentence": "పట్టు బలంగా ఉంది."
+      },
+      {
+        "word": "పట్టుకోవడం",
+        "meaning": "holding",
+        "sentence": "చేతిని పట్టుకోవడం."
+      }
+    ],
+    "relatedRootIds": ["te_suffix_vadu"],
+    "pronunciationIpa": "/paʈʈu/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "pattu"
+      }
+    ]
+  },
+  {
+    "id": "te_base_telusu",
+    "root": "తెలుసు",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "know",
+    "examples": [
+      {
+        "word": "తెలుసు",
+        "meaning": "knows",
+        "sentence": "అతనికి సమాధానం తెలుసు."
+      },
+      {
+        "word": "తెలుసుకోవడం",
+        "meaning": "learning; knowing",
+        "sentence": "తెలుసుకోవడం మంచిది."
+      },
+      {
+        "word": "తెలివి",
+        "meaning": "knowledge; intelligence",
+        "sentence": "అతనికి చాలా తెలివి."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/telusu/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "telusu"
+      }
+    ]
+  },
+  {
+    "id": "te_base_velugu",
+    "root": "వెలుగు",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "light",
+    "examples": [
+      {
+        "word": "వెలుగు",
+        "meaning": "light",
+        "sentence": "వెలుగు ప్రకాశవంతం."
+      },
+      {
+        "word": "వెలిగించు",
+        "meaning": "to light up",
+        "sentence": "దీపాన్ని వెలిగించు."
+      },
+      {
+        "word": "దీపం",
+        "meaning": "lamp",
+        "sentence": "దీపం వెలుగుతోంది."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ʋelugu/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "velugu"
+      }
+    ]
+  },
+  {
+    "id": "te_base_prema",
+    "root": "ప్రేమ",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "love",
+    "examples": [
+      {
+        "word": "ప్రేమ",
+        "meaning": "love",
+        "sentence": "ప్రేమ గొప్పది."
+      },
+      {
+        "word": "ప్రేమించు",
+        "meaning": "to love",
+        "sentence": "అతను ఆమెను ప్రేమించాడు."
+      },
+      {
+        "word": "ప్రేమికుడు",
+        "meaning": "lover",
+        "sentence": "అతను ప్రేమికుడు."
+      }
+    ],
+    "relatedRootIds": ["te_suffix_vadu"],
+    "pronunciationIpa": "/pɾema/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "prema"
+      }
+    ]
+  },
+  {
+    "id": "te_base_neeru",
+    "root": "నీరు",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "water",
+    "examples": [
+      {
+        "word": "నీరు",
+        "meaning": "water",
+        "sentence": "నీరు శుద్ధంగా ఉంది."
+      },
+      {
+        "word": "నీటి",
+        "meaning": "of water",
+        "sentence": "నీటి సమస్య పరిష్కారించు."
+      },
+      {
+        "word": "నీరు తాగు",
+        "meaning": "drink water",
+        "sentence": "నీరు తాగు."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/niːɾu/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "neeru"
+      }
+    ]
+  },
+  {
+    "id": "te_base_pani",
+    "root": "పని",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "work",
+    "examples": [
+      {
+        "word": "పని",
+        "meaning": "work",
+        "sentence": "పని పూర్తయింది."
+      },
+      {
+        "word": "పని చేయి",
+        "meaning": "do work",
+        "sentence": "పని చేయి."
+      },
+      {
+        "word": "పనివాడు",
+        "meaning": "worker",
+        "sentence": "పనివాడు వచ్చాడు."
+      }
+    ],
+    "relatedRootIds": ["te_suffix_vadu"],
+    "pronunciationIpa": "/pani/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "pani"
+      }
+    ]
+  }
+]

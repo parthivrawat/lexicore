@@ -1,0 +1,738 @@
+[
+  {
+    "id": "ru_base_pis",
+    "root": "пис",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "write",
+    "examples": [
+      {
+        "word": "писать",
+        "meaning": "to write",
+        "sentence": "Я пишу письмо."
+      },
+      {
+        "word": "написать",
+        "meaning": "to write (finish)",
+        "sentence": "Я написал статью."
+      },
+      {
+        "word": "письмо",
+        "meaning": "letter",
+        "sentence": "Письмо пришло утром."
+      }
+    ],
+    "relatedRootIds": ["ru_suffix_tel", "ru_suffix_nie", "ru_suffix_n"],
+    "pronunciationIpa": "/pʲis/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "pis"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_chit",
+    "root": "чит",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "read",
+    "examples": [
+      {
+        "word": "читать",
+        "meaning": "to read",
+        "sentence": "Он читает книгу."
+      },
+      {
+        "word": "прочитать",
+        "meaning": "to read through",
+        "sentence": "Я прочитал роман."
+      },
+      {
+        "word": "чтение",
+        "meaning": "reading",
+        "sentence": "Чтение развивает ум."
+      }
+    ],
+    "relatedRootIds": ["ru_suffix_tel", "ru_suffix_nie"],
+    "pronunciationIpa": "/tɕit/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "chit"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_uch",
+    "root": "уч",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "learn; teach; study",
+    "examples": [
+      {
+        "word": "учить",
+        "meaning": "to teach; study",
+        "sentence": "Она учит детей."
+      },
+      {
+        "word": "учитель",
+        "meaning": "teacher",
+        "sentence": "Учитель добрый."
+      },
+      {
+        "word": "наука",
+        "meaning": "science",
+        "sentence": "Наука развивается."
+      }
+    ],
+    "relatedRootIds": ["ru_suffix_tel", "ru_suffix_nik", "ru_suffix_n"],
+    "pronunciationIpa": "/utɕ/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "uch"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_vod",
+    "root": "вод",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "water; lead",
+    "examples": [
+      {
+        "word": "вода",
+        "meaning": "water",
+        "sentence": "Вода в реке чистая."
+      },
+      {
+        "word": "водить",
+        "meaning": "to lead; drive",
+        "sentence": "Он водит машину."
+      },
+      {
+        "word": "подводный",
+        "meaning": "underwater",
+        "sentence": "Подводный мир таинственен."
+      }
+    ],
+    "relatedRootIds": ["ru_suffix_n", "ru_prefix_pod"],
+    "pronunciationIpa": "/vot/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "vod"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_del",
+    "root": "дел",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "do; make; matter",
+    "examples": [
+      {
+        "word": "делать",
+        "meaning": "to do",
+        "sentence": "Я делаю зарядку."
+      },
+      {
+        "word": "дело",
+        "meaning": "matter; business",
+        "sentence": "Дело серьёзное."
+      },
+      {
+        "word": "сделать",
+        "meaning": "to make; do",
+        "sentence": "Он сделал подарок."
+      }
+    ],
+    "relatedRootIds": ["ru_prefix_s", "ru_suffix_at"],
+    "pronunciationIpa": "/dʲel/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "dyel"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_khod",
+    "root": "ход",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "go; walk; move; come",
+    "examples": [
+      {
+        "word": "ход",
+        "meaning": "walk; move",
+        "sentence": "Ход игры интересен."
+      },
+      {
+        "word": "вход",
+        "meaning": "entrance",
+        "sentence": "Вход свободный."
+      },
+      {
+        "word": "приход",
+        "meaning": "coming; arrival",
+        "sentence": "Приход гостей радостен."
+      }
+    ],
+    "relatedRootIds": ["ru_prefix_v", "ru_prefix_pere"],
+    "pronunciationIpa": "/xot/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "khod"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_govor",
+    "root": "говор",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "speak; talk",
+    "examples": [
+      {
+        "word": "говорить",
+        "meaning": "to speak",
+        "sentence": "Он говорит тихо."
+      },
+      {
+        "word": "разговор",
+        "meaning": "conversation",
+        "sentence": "Разговор был долгим."
+      },
+      {
+        "word": "заговорить",
+        "meaning": "to start speaking",
+        "sentence": "Ребёнок заговорил рано."
+      }
+    ],
+    "relatedRootIds": ["ru_prefix_za", "ru_prefix_po"],
+    "pronunciationIpa": "/gəˈvor/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "govor"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_vid",
+    "root": "вид",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "see; view",
+    "examples": [
+      {
+        "word": "видеть",
+        "meaning": "to see",
+        "sentence": "Я вижу дом."
+      },
+      {
+        "word": "вид",
+        "meaning": "view; kind",
+        "sentence": "Вид из окна прекрасен."
+      },
+      {
+        "word": "увидеть",
+        "meaning": "to see (pf.)",
+        "sentence": "Я увидел друга."
+      }
+    ],
+    "relatedRootIds": ["ru_prefix_vy"],
+    "pronunciationIpa": "/vʲit/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "vid"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_rab",
+    "root": "раб",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "work",
+    "examples": [
+      {
+        "word": "работа",
+        "meaning": "work",
+        "sentence": "Работа важна."
+      },
+      {
+        "word": "работать",
+        "meaning": "to work",
+        "sentence": "Он работает в офисе."
+      },
+      {
+        "word": "работник",
+        "meaning": "worker",
+        "sentence": "Работник добросовестен."
+      }
+    ],
+    "relatedRootIds": ["ru_suffix_nik"],
+    "pronunciationIpa": "/rap/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "rab"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_dum",
+    "root": "дум",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "think",
+    "examples": [
+      {
+        "word": "думать",
+        "meaning": "to think",
+        "sentence": "Я думаю о будущем."
+      },
+      {
+        "word": "думка",
+        "meaning": "thought",
+        "sentence": "Думка мелькнула."
+      },
+      {
+        "word": "подумать",
+        "meaning": "to think (pf.)",
+        "sentence": "Подумай хорошенько."
+      }
+    ],
+    "relatedRootIds": ["ru_prefix_pod"],
+    "pronunciationIpa": "/dum/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "dum"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_beg",
+    "root": "бег",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "run",
+    "examples": [
+      {
+        "word": "бежать",
+        "meaning": "to run",
+        "sentence": "Собака бежит быстро."
+      },
+      {
+        "word": "бегать",
+        "meaning": "to run (repeated)",
+        "sentence": "Дети бегают во дворе."
+      },
+      {
+        "word": "побежать",
+        "meaning": "to start running",
+        "sentence": "Он побежал к двери."
+      }
+    ],
+    "relatedRootIds": ["ru_prefix_po"],
+    "pronunciationIpa": "/bʲek/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "beg"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_zna",
+    "root": "зна",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "know",
+    "examples": [
+      {
+        "word": "знать",
+        "meaning": "to know",
+        "sentence": "Я знаю ответ."
+      },
+      {
+        "word": "знание",
+        "meaning": "knowledge",
+        "sentence": "Знание сила."
+      },
+      {
+        "word": "знакомый",
+        "meaning": "familiar; acquaintance",
+        "sentence": "Он мне знаком."
+      }
+    ],
+    "relatedRootIds": ["ru_suffix_nie"],
+    "pronunciationIpa": "/zna/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "zna"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_igra",
+    "root": "игра",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "play; game",
+    "examples": [
+      {
+        "word": "играть",
+        "meaning": "to play",
+        "sentence": "Дети играют в парке."
+      },
+      {
+        "word": "игра",
+        "meaning": "game",
+        "sentence": "Игра была интересной."
+      },
+      {
+        "word": "игрок",
+        "meaning": "player",
+        "sentence": "Игрок забил гол."
+      }
+    ],
+    "relatedRootIds": ["ru_suffix_ok"],
+    "pronunciationIpa": "/ɪˈgra/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "igra"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_lyub",
+    "root": "люб",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "love",
+    "examples": [
+      {
+        "word": "любить",
+        "meaning": "to love",
+        "sentence": "Я люблю музыку."
+      },
+      {
+        "word": "любовь",
+        "meaning": "love",
+        "sentence": "Любовь сильна."
+      },
+      {
+        "word": "любитель",
+        "meaning": "amateur; lover",
+        "sentence": "Он любитель шахмат."
+      }
+    ],
+    "relatedRootIds": ["ru_suffix_tel"],
+    "pronunciationIpa": "/lʲup/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "lyub"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_kaz",
+    "root": "каз",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "show; seem; say",
+    "examples": [
+      {
+        "word": "казаться",
+        "meaning": "to seem",
+        "sentence": "Он кажется усталым."
+      },
+      {
+        "word": "показать",
+        "meaning": "to show",
+        "sentence": "Покажите документы."
+      },
+      {
+        "word": "сказать",
+        "meaning": "to say; to tell",
+        "sentence": "Я скажу правду."
+      }
+    ],
+    "relatedRootIds": ["ru_prefix_po"],
+    "pronunciationIpa": "/kas/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "kaz"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_nes",
+    "root": "нес",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "carry",
+    "examples": [
+      {
+        "word": "нести",
+        "meaning": "to carry",
+        "sentence": "Он несёт сумку."
+      },
+      {
+        "word": "принести",
+        "meaning": "to bring",
+        "sentence": "Принеси воду."
+      },
+      {
+        "word": "перенести",
+        "meaning": "to carry over; transfer",
+        "sentence": "Перенеси стол сюда."
+      }
+    ],
+    "relatedRootIds": ["ru_prefix_pere"],
+    "pronunciationIpa": "/nʲes/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "nes"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_pi",
+    "root": "пи",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "drink",
+    "examples": [
+      {
+        "word": "пить",
+        "meaning": "to drink",
+        "sentence": "Я пью воду."
+      },
+      {
+        "word": "напиток",
+        "meaning": "beverage",
+        "sentence": "Напиток холодный."
+      },
+      {
+        "word": "выпить",
+        "meaning": "to drink up",
+        "sentence": "Выпей чай."
+      }
+    ],
+    "relatedRootIds": ["ru_prefix_vy"],
+    "pronunciationIpa": "/pʲi/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "pi"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_ed",
+    "root": "ед",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "eat",
+    "examples": [
+      {
+        "word": "есть",
+        "meaning": "to eat",
+        "sentence": "Я ем яблоко."
+      },
+      {
+        "word": "еда",
+        "meaning": "food",
+        "sentence": "Еда вкусная."
+      },
+      {
+        "word": "съесть",
+        "meaning": "to eat up",
+        "sentence": "Он съел весь пирог."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/jɛt/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "yed"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_dav",
+    "root": "дав",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "give",
+    "examples": [
+      {
+        "word": "давать",
+        "meaning": "to give",
+        "sentence": "Я даю книгу."
+      },
+      {
+        "word": "отдать",
+        "meaning": "to give away",
+        "sentence": "Он отдал деньги."
+      },
+      {
+        "word": "подарить",
+        "meaning": "to give as a gift",
+        "sentence": "Я подарил цветы."
+      }
+    ],
+    "relatedRootIds": ["ru_prefix_ot"],
+    "pronunciationIpa": "/dav/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "dav"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_slysh",
+    "root": "слыш",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "hear; listen",
+    "examples": [
+      {
+        "word": "слышать",
+        "meaning": "to hear",
+        "sentence": "Я слышу музыку."
+      },
+      {
+        "word": "услышать",
+        "meaning": "to hear (perfective)",
+        "sentence": "Я услышал шум."
+      },
+      {
+        "word": "слышимый",
+        "meaning": "audible",
+        "sentence": "Звук слышимый."
+      }
+    ],
+    "relatedRootIds": ["ru_prefix_ot", "ru_suffix_n"],
+    "pronunciationIpa": "/ˈslɨʂ/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "slysh"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_derzh",
+    "root": "держ",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "hold",
+    "examples": [
+      {
+        "word": "держать",
+        "meaning": "to hold",
+        "sentence": "Он держит книгу."
+      },
+      {
+        "word": "удержать",
+        "meaning": "to retain",
+        "sentence": "Удержи дверь."
+      },
+      {
+        "word": "поддержать",
+        "meaning": "to support; hold up",
+        "sentence": "Я поддержал его."
+      }
+    ],
+    "relatedRootIds": ["ru_prefix_pod"],
+    "pronunciationIpa": "/dʲerʐ/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "derzh"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_svet",
+    "root": "свет",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "light",
+    "examples": [
+      {
+        "word": "свет",
+        "meaning": "light",
+        "sentence": "Свет яркий."
+      },
+      {
+        "word": "светить",
+        "meaning": "to shine",
+        "sentence": "Солнце светит."
+      },
+      {
+        "word": "просвет",
+        "meaning": "bright interval; gap",
+        "sentence": "Просвет в тучах."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/svʲet/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "svet"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_br",
+    "root": "бр",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "take",
+    "examples": [
+      {
+        "word": "брать",
+        "meaning": "to take",
+        "sentence": "Я беру книгу."
+      },
+      {
+        "word": "взять",
+        "meaning": "to take (perfective)",
+        "sentence": "Он взял деньги."
+      },
+      {
+        "word": "принимать",
+        "meaning": "to receive; accept",
+        "sentence": "Я принимаю подарок."
+      }
+    ],
+    "relatedRootIds": ["ru_prefix_v"],
+    "pronunciationIpa": "/br/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "br"
+      }
+    ]
+  }
+]

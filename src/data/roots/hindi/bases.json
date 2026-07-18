@@ -1,0 +1,706 @@
+[
+  {
+    "id": "hi_base_kr",
+    "root": "कृ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "do; make; work",
+    "examples": [
+      {
+        "word": "करना",
+        "meaning": "to do",
+        "sentence": "मैं काम करता हूँ।"
+      },
+      {
+        "word": "कार्य",
+        "meaning": "work; task",
+        "sentence": "यह मेरा कार्य है।"
+      },
+      {
+        "word": "क्रिया",
+        "meaning": "action; verb",
+        "sentence": "क्रिया शब्द बताता है।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_kar"],
+    "pronunciationIpa": "/kṛ/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "kri"
+      }
+    ]
+  },
+  {
+    "id": "hi_base_gam",
+    "root": "गम्",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "go; come",
+    "examples": [
+      {
+        "word": "जाना",
+        "meaning": "to go",
+        "sentence": "मैं घर जा रहा हूँ।"
+      },
+      {
+        "word": "गमन",
+        "meaning": "going; departure",
+        "sentence": "उसके गमन का समय आ गया।"
+      },
+      {
+        "word": "आगमन",
+        "meaning": "arrival",
+        "sentence": "मेहमानों के आगमन की तैयारी है।"
+      }
+    ],
+    "relatedRootIds": ["hi_prefix_anu", "hi_suffix_an"],
+    "pronunciationIpa": "/gəm/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "gam"
+      }
+    ]
+  },
+  {
+    "id": "hi_base_bhu",
+    "root": "भू",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "become; exist",
+    "examples": [
+      {
+        "word": "भवन",
+        "meaning": "building",
+        "sentence": "यह एक पुराना भवन है।"
+      },
+      {
+        "word": "भाव",
+        "meaning": "feeling",
+        "sentence": "भाव समझना ज़रूरी है।"
+      },
+      {
+        "word": "भूत",
+        "meaning": "past; ghost",
+        "sentence": "भूत काल में ऐसा हुआ।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_ta"],
+    "pronunciationIpa": "/bʰuː/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "bhu"
+      }
+    ]
+  },
+  {
+    "id": "hi_base_jna",
+    "root": "ज्ञा",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "know",
+    "examples": [
+      {
+        "word": "ज्ञान",
+        "meaning": "knowledge",
+        "sentence": "ज्ञान ही शक्ति है।"
+      },
+      {
+        "word": "ज्ञाता",
+        "meaning": "knower",
+        "sentence": "वह ज्ञाता व्यक्ति है।"
+      },
+      {
+        "word": "अज्ञान",
+        "meaning": "ignorance",
+        "sentence": "अज्ञान दूर करो।"
+      }
+    ],
+    "relatedRootIds": ["hi_prefix_a", "hi_suffix_ta"],
+    "pronunciationIpa": "/ɡɲaː/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "gya"
+      }
+    ]
+  },
+  {
+    "id": "hi_base_path",
+    "root": "पठ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "read; study; learn",
+    "examples": [
+      {
+        "word": "पढ़ना",
+        "meaning": "to read",
+        "sentence": "मैं रोज़ पुस्तक पढ़ता हूँ।"
+      },
+      {
+        "word": "पाठ",
+        "meaning": "lesson",
+        "sentence": "यह पाठ आसान है।"
+      },
+      {
+        "word": "पाठक",
+        "meaning": "reader",
+        "sentence": "पाठक ध्यान से पढ़े।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_niya", "hi_suffix_kar"],
+    "pronunciationIpa": "/pəʈʰ/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "path"
+      }
+    ]
+  },
+  {
+    "id": "hi_base_dris",
+    "root": "दृश्",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "see",
+    "examples": [
+      {
+        "word": "देखना",
+        "meaning": "to see",
+        "sentence": "मैं सूर्यास्त देख रहा हूँ।"
+      },
+      {
+        "word": "दर्शन",
+        "meaning": "sight; vision",
+        "sentence": "दर्शन सुखद थे।"
+      },
+      {
+        "word": "दृश्य",
+        "meaning": "visible; scene",
+        "sentence": "यह दृश्य अद्भुत है।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_ta"],
+    "pronunciationIpa": "/dr̩ʂ/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "drish"
+      }
+    ]
+  },
+  {
+    "id": "hi_base_da",
+    "root": "दा",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "give",
+    "examples": [
+      {
+        "word": "देना",
+        "meaning": "to give",
+        "sentence": "मैं उसे किताब दूँगा।"
+      },
+      {
+        "word": "दान",
+        "meaning": "donation",
+        "sentence": "दान देना पुण्य है।"
+      },
+      {
+        "word": "दाता",
+        "meaning": "giver",
+        "sentence": "वह महान दाता है।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_an"],
+    "pronunciationIpa": "/daː/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "da"
+      }
+    ]
+  },
+  {
+    "id": "hi_base_pa",
+    "root": "पा",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "drink; protect",
+    "examples": [
+      {
+        "word": "पीना",
+        "meaning": "to drink",
+        "sentence": "मैं पानी पीता हूँ।"
+      },
+      {
+        "word": "पान",
+        "meaning": "drink",
+        "sentence": "गर्मी में ठंडा पान चाहिए।"
+      },
+      {
+        "word": "पात्र",
+        "meaning": "vessel; deserving",
+        "sentence": "यह पात्र साफ़ है।"
+      }
+    ],
+    "relatedRootIds": ["hi_base_da"],
+    "pronunciationIpa": "/paː/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "pa"
+      }
+    ]
+  },
+  {
+    "id": "hi_base_labha",
+    "root": "लभ्",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "take; obtain; gain",
+    "examples": [
+      {
+        "word": "लाभ",
+        "meaning": "profit; benefit",
+        "sentence": "लाभ और हानि जीवन का हिस्सा हैं।"
+      },
+      {
+        "word": "लाभार्थी",
+        "meaning": "beneficiary",
+        "sentence": "लाभार्थी खुश हैं।"
+      },
+      {
+        "word": "लब्ध",
+        "meaning": "obtained",
+        "sentence": "लब्ध ज्ञान साझा करो।"
+      }
+    ],
+    "relatedRootIds": ["hi_base_kr"],
+    "pronunciationIpa": "/ləbʰ/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "labh"
+      }
+    ]
+  },
+  {
+    "id": "hi_base_man",
+    "root": "मन्",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "think; mind",
+    "examples": [
+      {
+        "word": "मान",
+        "meaning": "respect; belief",
+        "sentence": "मान-सम्मान सबको चाहिए।"
+      },
+      {
+        "word": "मन",
+        "meaning": "mind",
+        "sentence": "मन शांत रखो।"
+      },
+      {
+        "word": "मानव",
+        "meaning": "human",
+        "sentence": "मानवता मानव की पहचान है।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_ta", "hi_base_bhu"],
+    "pronunciationIpa": "/mən/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "man"
+      }
+    ]
+  },
+  {
+    "id": "hi_base_ga",
+    "root": "गै",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "sing",
+    "examples": [
+      {
+        "word": "गाना",
+        "meaning": "song; to sing",
+        "sentence": "मैं गाना गाता हूँ।"
+      },
+      {
+        "word": "गायक",
+        "meaning": "singer",
+        "sentence": "गायक ने सुरीली आवाज़ सुनाई।"
+      },
+      {
+        "word": "गीत",
+        "meaning": "song",
+        "sentence": "यह गीत प्रसिद्ध है।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_kar"],
+    "pronunciationIpa": "/ɡaːi/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "gai"
+      }
+    ]
+  },
+  {
+    "id": "hi_base_likh",
+    "root": "लिख्",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "write",
+    "examples": [
+      {
+        "word": "लिखना",
+        "meaning": "to write",
+        "sentence": "मैं पत्र लिख रहा हूँ।"
+      },
+      {
+        "word": "लेख",
+        "meaning": "writing; article",
+        "sentence": "यह लेख रोचक है।"
+      },
+      {
+        "word": "लेखक",
+        "meaning": "writer",
+        "sentence": "लेखक ने उपन्यास लिखा।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_kar"],
+    "pronunciationIpa": "/lɪkʰ/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "likh"
+      }
+    ]
+  },
+  {
+    "id": "hi_base_stha",
+    "root": "स्था",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "stand; remain",
+    "examples": [
+      {
+        "word": "स्थान",
+        "meaning": "place",
+        "sentence": "यह पवित्र स्थान है।"
+      },
+      {
+        "word": "स्थिति",
+        "meaning": "condition; situation",
+        "sentence": "स्थिति सामान्य है।"
+      },
+      {
+        "word": "स्थिर",
+        "meaning": "steady",
+        "sentence": "मन स्थिर रखो।"
+      }
+    ],
+    "relatedRootIds": ["hi_prefix_ut"],
+    "pronunciationIpa": "/stʰaː/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "stha"
+      }
+    ]
+  },
+  {
+    "id": "hi_base_vad",
+    "root": "वद्",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "speak; say",
+    "examples": [
+      {
+        "word": "वाद",
+        "meaning": "debate",
+        "sentence": "यह वाद बेकार है।"
+      },
+      {
+        "word": "वक्ता",
+        "meaning": "speaker",
+        "sentence": "वक्ता ने भाषण दिया।"
+      },
+      {
+        "word": "वाद-विवाद",
+        "meaning": "discussion; debate",
+        "sentence": "वाद-विवाद हुआ।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_kar"],
+    "pronunciationIpa": "/ʋəd/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "vad"
+      }
+    ]
+  },
+  {
+    "id": "hi_base_pad",
+    "root": "पद्",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "foot; step; go",
+    "examples": [
+      {
+        "word": "पद",
+        "meaning": "foot; step",
+        "sentence": "उसके पद चुपचाप आए।"
+      },
+      {
+        "word": "पदार्थ",
+        "meaning": "matter; substance",
+        "sentence": "पदार्थ की स्थिति बदल रही है।"
+      },
+      {
+        "word": "पदयात्रा",
+        "meaning": "foot journey",
+        "sentence": "पदयात्रा में लोग शामिल हुए।"
+      }
+    ],
+    "relatedRootIds": ["hi_base_gam"],
+    "pronunciationIpa": "/pəd/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "pad"
+      }
+    ]
+  },
+  {
+    "id": "hi_base_vah",
+    "root": "वह्",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "carry",
+    "examples": [
+      {
+        "word": "वाहन",
+        "meaning": "vehicle",
+        "sentence": "वाहन तेज़ चल रहा है।"
+      },
+      {
+        "word": "वहन",
+        "meaning": "carrying",
+        "sentence": "भार का वहन मुश्किल है।"
+      },
+      {
+        "word": "उद्वह",
+        "meaning": "carrier; bearer",
+        "sentence": "वह उद्वह है।"
+      }
+    ],
+    "relatedRootIds": ["hi_prefix_ut", "hi_suffix_an"],
+    "pronunciationIpa": "/ʋəɦ/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "vah"
+      }
+    ]
+  },
+  {
+    "id": "hi_base_khad",
+    "root": "खाद्",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "eat",
+    "examples": [
+      {
+        "word": "खाना",
+        "meaning": "to eat; food",
+        "sentence": "मैं खाना खाता हूँ।"
+      },
+      {
+        "word": "भोजन",
+        "meaning": "meal; food",
+        "sentence": "भोजन स्वादिष्ट है।"
+      },
+      {
+        "word": "खाद्य",
+        "meaning": "edible",
+        "sentence": "यह खाद्य है।"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/kʰaːd/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "khad"
+      }
+    ]
+  },
+  {
+    "id": "hi_base_shru",
+    "root": "श्रु",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "hear; listen",
+    "examples": [
+      {
+        "word": "सुनना",
+        "meaning": "to hear",
+        "sentence": "मैं संगीत सुन रहा हूँ।"
+      },
+      {
+        "word": "श्रवण",
+        "meaning": "hearing",
+        "sentence": "श्रवण कला है।"
+      },
+      {
+        "word": "श्रोता",
+        "meaning": "listener",
+        "sentence": "श्रोता ध्यान से सुनें।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_an", "hi_suffix_ta"],
+    "pronunciationIpa": "/ʃru/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "shru"
+      }
+    ]
+  },
+  {
+    "id": "hi_base_dhri",
+    "root": "धृ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "hold",
+    "examples": [
+      {
+        "word": "धारण",
+        "meaning": "holding",
+        "sentence": "धारण मज़बूत है।"
+      },
+      {
+        "word": "धर्म",
+        "meaning": "dharma; support",
+        "sentence": "धर्म सबसे महत्वपूर्ण है।"
+      },
+      {
+        "word": "धर",
+        "meaning": "hold",
+        "sentence": "धर रखो।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_an"],
+    "pronunciationIpa": "/dʰr̩/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "dhr"
+      }
+    ]
+  },
+  {
+    "id": "hi_base_dip",
+    "root": "दीप्",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "light; shine",
+    "examples": [
+      {
+        "word": "दीप",
+        "meaning": "lamp",
+        "sentence": "दीप जल रहा है।"
+      },
+      {
+        "word": "दीपक",
+        "meaning": "lamp",
+        "sentence": "दीपक रोशनी देता है।"
+      },
+      {
+        "word": "दीप्त",
+        "meaning": "shining",
+        "sentence": "दीप्त सूर्य चमक रहा है।"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/diːp/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "dip"
+      }
+    ]
+  },
+  {
+    "id": "hi_base_pri",
+    "root": "प्री",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "love",
+    "examples": [
+      {
+        "word": "प्रेम",
+        "meaning": "love",
+        "sentence": "प्रेम सबसे बड़ा है।"
+      },
+      {
+        "word": "प्रिय",
+        "meaning": "dear; beloved",
+        "sentence": "वह मेरा प्रिय है।"
+      },
+      {
+        "word": "प्रीति",
+        "meaning": "love; affection",
+        "sentence": "प्रीति गहरी है।"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/priː/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "pri"
+      }
+    ]
+  },
+  {
+    "id": "hi_base_jal",
+    "root": "जल",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "water",
+    "examples": [
+      {
+        "word": "जल",
+        "meaning": "water",
+        "sentence": "जल जीवन है।"
+      },
+      {
+        "word": "जलाशय",
+        "meaning": "reservoir",
+        "sentence": "जलाशय भरा है।"
+      },
+      {
+        "word": "जलप्रपात",
+        "meaning": "waterfall",
+        "sentence": "जलप्रपात सुंदर है।"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/dʒəl/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "jal"
+      }
+    ]
+  }
+]

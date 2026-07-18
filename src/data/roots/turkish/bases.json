@@ -1,0 +1,744 @@
+[
+  {
+    "id": "tr_base_yap",
+    "root": "yap",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "do; make",
+    "examples": [
+      {
+        "word": "yapmak",
+        "meaning": "to do",
+        "sentence": "Her gün spor yapıyorum."
+      },
+      {
+        "word": "yapı",
+        "meaning": "structure",
+        "sentence": "Yapı sağlam."
+      },
+      {
+        "word": "yapıcı",
+        "meaning": "constructive; maker",
+        "sentence": "O yapıcı bir insan."
+      }
+    ],
+    "relatedRootIds": [
+      "tr_suffix_mek",
+      "tr_suffix_ma",
+      "tr_suffix_en",
+      "tr_suffix_ecek",
+      "tr_suffix_ci"
+    ],
+    "pronunciationIpa": "/jap/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "yap"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_yaz",
+    "root": "yaz",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "write",
+    "examples": [
+      {
+        "word": "yazmak",
+        "meaning": "to write",
+        "sentence": "Mektup yazıyorum."
+      },
+      {
+        "word": "yazar",
+        "meaning": "writer",
+        "sentence": "Ünlü bir yazar."
+      },
+      {
+        "word": "yazı",
+        "meaning": "writing",
+        "sentence": "Yazı güzel."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_ci", "tr_suffix_en"],
+    "pronunciationIpa": "/jaz/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "yaz"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_oku",
+    "root": "oku",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "read; study",
+    "examples": [
+      {
+        "word": "okumak",
+        "meaning": "to read",
+        "sentence": "Kitap okuyorum."
+      },
+      {
+        "word": "okuyucu",
+        "meaning": "reader",
+        "sentence": "Sadık bir okuyucu."
+      },
+      {
+        "word": "okul",
+        "meaning": "school",
+        "sentence": "Okul yakın."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_ci", "tr_suffix_en", "tr_suffix_ecek"],
+    "pronunciationIpa": "/oku/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "oku"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_gor",
+    "root": "gör",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "see",
+    "examples": [
+      {
+        "word": "görmek",
+        "meaning": "to see",
+        "sentence": "Denizi görüyorum."
+      },
+      {
+        "word": "görüş",
+        "meaning": "view",
+        "sentence": "Görüş açık."
+      },
+      {
+        "word": "görüntü",
+        "meaning": "image",
+        "sentence": "Görüntü net."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_en"],
+    "pronunciationIpa": "/ɟœɾ/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "goer"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_duy",
+    "root": "duy",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "hear; feel",
+    "examples": [
+      {
+        "word": "duymak",
+        "meaning": "to hear",
+        "sentence": "Ses duyuyorum."
+      },
+      {
+        "word": "duygu",
+        "meaning": "feeling",
+        "sentence": "Duygu yoğun."
+      },
+      {
+        "word": "duyuru",
+        "meaning": "announcement",
+        "sentence": "Duyuru yapıldı."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_en"],
+    "pronunciationIpa": "/duj/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "duy"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_soyle",
+    "root": "söyle",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "say; tell",
+    "examples": [
+      {
+        "word": "söylemek",
+        "meaning": "to say",
+        "sentence": "Gerçeği söyle."
+      },
+      {
+        "word": "söz",
+        "meaning": "word",
+        "sentence": "Söz dinle."
+      },
+      {
+        "word": "söylenti",
+        "meaning": "rumor",
+        "sentence": "Söylenti yayıldı."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_en"],
+    "pronunciationIpa": "/sœjle/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "soeyle"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_dusun",
+    "root": "düşün",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "think",
+    "examples": [
+      {
+        "word": "düşünmek",
+        "meaning": "to think",
+        "sentence": "Çok düşünüyorum."
+      },
+      {
+        "word": "düşünce",
+        "meaning": "thought",
+        "sentence": "Düşünce derin."
+      },
+      {
+        "word": "düşünür",
+        "meaning": "thinker",
+        "sentence": "Ünlü düşünür."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_en"],
+    "pronunciationIpa": "/dyʃyn/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "duezuen"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_git",
+    "root": "git",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "go",
+    "examples": [
+      {
+        "word": "gitmek",
+        "meaning": "to go",
+        "sentence": "Okula gidiyorum."
+      },
+      {
+        "word": "gidiş",
+        "meaning": "going",
+        "sentence": "Gidiş iyi."
+      },
+      {
+        "word": "gidecek",
+        "meaning": "will go",
+        "sentence": "Yarın gidecek."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_en", "tr_suffix_ecek"],
+    "pronunciationIpa": "/ɟit/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "git"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_gel",
+    "root": "gel",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "come",
+    "examples": [
+      {
+        "word": "gelmek",
+        "meaning": "to come",
+        "sentence": "Yarın geliyorum."
+      },
+      {
+        "word": "geliş",
+        "meaning": "development",
+        "sentence": "Geliş hızlı."
+      },
+      {
+        "word": "gelecek",
+        "meaning": "future",
+        "sentence": "Gelecek parlak."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_ma", "tr_suffix_en", "tr_suffix_ecek"],
+    "pronunciationIpa": "/ɟel/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "gel"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_al",
+    "root": "al",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "take; buy",
+    "examples": [
+      {
+        "word": "almak",
+        "meaning": "to take",
+        "sentence": "Kitabı aldım."
+      },
+      {
+        "word": "alıcı",
+        "meaning": "buyer",
+        "sentence": "Alıcı çok."
+      },
+      {
+        "word": "alışveriş",
+        "meaning": "shopping",
+        "sentence": "Alışveriş yaptım."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_ci", "tr_suffix_en"],
+    "pronunciationIpa": "/aɫ/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "al"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_ver",
+    "root": "ver",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "give",
+    "examples": [
+      {
+        "word": "vermek",
+        "meaning": "to give",
+        "sentence": "Hediye verdim."
+      },
+      {
+        "word": "vergi",
+        "meaning": "tax",
+        "sentence": "Vergi yüksek."
+      },
+      {
+        "word": "verici",
+        "meaning": "giver; transmitter",
+        "sentence": "Verici güçlü."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_ci", "tr_suffix_en"],
+    "pronunciationIpa": "/veɾ/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ver"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_ye",
+    "root": "ye",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "eat",
+    "examples": [
+      {
+        "word": "yemek",
+        "meaning": "to eat; meal",
+        "sentence": "Yemek yiyorum."
+      },
+      {
+        "word": "yiyecek",
+        "meaning": "food",
+        "sentence": "Yiyecek hazır."
+      },
+      {
+        "word": "yiyen",
+        "meaning": "one who eats",
+        "sentence": "Yiyen var mı?"
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_en"],
+    "pronunciationIpa": "/je/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ye"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_ic",
+    "root": "iç",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "drink",
+    "examples": [
+      {
+        "word": "içmek",
+        "meaning": "to drink",
+        "sentence": "Su içiyorum."
+      },
+      {
+        "word": "içecek",
+        "meaning": "beverage",
+        "sentence": "İçecek soğuk."
+      },
+      {
+        "word": "içki",
+        "meaning": "alcoholic drink",
+        "sentence": "İçki içmiyorum."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_en"],
+    "pronunciationIpa": "/itʃ/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ic"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_tut",
+    "root": "tut",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "hold",
+    "examples": [
+      {
+        "word": "tutmak",
+        "meaning": "to hold",
+        "sentence": "Elinde tutuyor."
+      },
+      {
+        "word": "tutucu",
+        "meaning": "conservative",
+        "sentence": "O tutucu biri."
+      },
+      {
+        "word": "tutum",
+        "meaning": "attitude",
+        "sentence": "Tutum olumlu."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_ci", "tr_suffix_en"],
+    "pronunciationIpa": "/tut/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "tut"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_calis",
+    "root": "çalış",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "work",
+    "examples": [
+      {
+        "word": "çalışmak",
+        "meaning": "to work",
+        "sentence": "Her gün çalışıyorum."
+      },
+      {
+        "word": "çalışan",
+        "meaning": "worker",
+        "sentence": "Çalışan çok."
+      },
+      {
+        "word": "çalışma",
+        "meaning": "work; study",
+        "sentence": "Çalışma devam ediyor."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_ma", "tr_suffix_en"],
+    "pronunciationIpa": "/tʃaɫɯʃ/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "calis"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_tasi",
+    "root": "taşı",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "carry",
+    "examples": [
+      {
+        "word": "taşımak",
+        "meaning": "to carry",
+        "sentence": "Kutuyu taşıyorum."
+      },
+      {
+        "word": "taşıyıcı",
+        "meaning": "carrier",
+        "sentence": "Taşıyıcı geldi."
+      },
+      {
+        "word": "taşın",
+        "meaning": "carried (passive participle)",
+        "sentence": "Eşyalar taşınmış."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_ci", "tr_suffix_en"],
+    "pronunciationIpa": "/taʃɯ/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "tasi"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_bil",
+    "root": "bil",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "know",
+    "examples": [
+      {
+        "word": "bilmek",
+        "meaning": "to know",
+        "sentence": "Ben biliyorum."
+      },
+      {
+        "word": "bilgi",
+        "meaning": "knowledge; information",
+        "sentence": "Bilgi güçtür."
+      },
+      {
+        "word": "bilgili",
+        "meaning": "knowledgeable",
+        "sentence": "O bilgili biri."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_li"],
+    "pronunciationIpa": "/bil/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "bil"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_ogren",
+    "root": "öğren",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "learn",
+    "examples": [
+      {
+        "word": "öğrenmek",
+        "meaning": "to learn",
+        "sentence": "Türkçe öğreniyorum."
+      },
+      {
+        "word": "öğrenci",
+        "meaning": "student",
+        "sentence": "Öğrenci çalışkan."
+      },
+      {
+        "word": "öğretmen",
+        "meaning": "teacher",
+        "sentence": "Öğretmen geldi."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_ci"],
+    "pronunciationIpa": "/œɾæn/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ogren"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_isik",
+    "root": "ışık",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "light",
+    "examples": [
+      {
+        "word": "ışık",
+        "meaning": "light",
+        "sentence": "Işık parlak."
+      },
+      {
+        "word": "ışıldamak",
+        "meaning": "to shine",
+        "sentence": "Yıldızlar ışıldıyor."
+      },
+      {
+        "word": "aydınlık",
+        "meaning": "brightness",
+        "sentence": "Oda aydınlık."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_lik"],
+    "pronunciationIpa": "/ɯʃɯk/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "isik"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_sev",
+    "root": "sev",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "love",
+    "examples": [
+      {
+        "word": "sevmek",
+        "meaning": "to love",
+        "sentence": "Seni seviyorum."
+      },
+      {
+        "word": "sevgi",
+        "meaning": "love; affection",
+        "sentence": "Sevgi güçlü."
+      },
+      {
+        "word": "sevgili",
+        "meaning": "beloved; lover",
+        "sentence": "Sevgilim geldi."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_li"],
+    "pronunciationIpa": "/sev/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "sev"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_konus",
+    "root": "konuş",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "speak; talk",
+    "examples": [
+      {
+        "word": "konuşmak",
+        "meaning": "to speak",
+        "sentence": "Türkçe konuşuyorum."
+      },
+      {
+        "word": "konuşma",
+        "meaning": "conversation; speech",
+        "sentence": "Konuşma güzeldi."
+      },
+      {
+        "word": "konuşmacı",
+        "meaning": "speaker",
+        "sentence": "Konuşmacı başarılı."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_ma", "tr_suffix_ci"],
+    "pronunciationIpa": "/konuʃ/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "konus"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_su",
+    "root": "su",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "water",
+    "examples": [
+      {
+        "word": "su",
+        "meaning": "water",
+        "sentence": "Su içiyorum."
+      },
+      {
+        "word": "suyu",
+        "meaning": "its water",
+        "sentence": "Çayın suyu sıcak."
+      },
+      {
+        "word": "sulamak",
+        "meaning": "to water; irrigate",
+        "sentence": "Bahçeyi suluyorum."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek"],
+    "pronunciationIpa": "/su/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "su"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_dinle",
+    "root": "dinle",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "listen",
+    "examples": [
+      {
+        "word": "dinlemek",
+        "meaning": "to listen",
+        "sentence": "Müzik dinliyorum."
+      },
+      {
+        "word": "dinleyici",
+        "meaning": "listener",
+        "sentence": "Radyo dinleyicisi."
+      },
+      {
+        "word": "dinleme",
+        "meaning": "listening",
+        "sentence": "Dinleme çalışması."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_ci", "tr_suffix_ma"],
+    "pronunciationIpa": "/dinle/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "dinle"
+      }
+    ]
+  }
+]

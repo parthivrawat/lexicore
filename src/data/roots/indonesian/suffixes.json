@@ -1,0 +1,226 @@
+[
+  {
+    "id": "id_suffix_an",
+    "root": "-an",
+    "type": "suffix",
+    "languageOrigin": "Indonesian",
+    "meaning": "nominalizer; result/state",
+    "examples": [
+      {
+        "word": "makanan",
+        "meaning": "food",
+        "sentence": "Makanan ini enak."
+      },
+      {
+        "word": "minuman",
+        "meaning": "drink",
+        "sentence": "Minuman itu dingin."
+      },
+      {
+        "word": "bacaan",
+        "meaning": "reading material",
+        "sentence": "Bacaan ini sulit."
+      }
+    ],
+    "relatedRootIds": ["id_base_makan", "id_base_minum", "id_base_baca"],
+    "pronunciationIpa": "/an/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "an"
+      }
+    ]
+  },
+  {
+    "id": "id_suffix_kan",
+    "root": "-kan",
+    "type": "suffix",
+    "languageOrigin": "Indonesian",
+    "meaning": "causative; benefactive",
+    "examples": [
+      {
+        "word": "buatkan",
+        "meaning": "make for someone",
+        "sentence": "Buatkan saya kopi."
+      },
+      {
+        "word": "carikan",
+        "meaning": "find for someone",
+        "sentence": "Carikan saya kunci itu."
+      },
+      {
+        "word": "kirimkan",
+        "meaning": "send for someone",
+        "sentence": "Kirimkan surat ini."
+      }
+    ],
+    "relatedRootIds": ["id_base_buat", "id_base_cari", "id_base_kirim"],
+    "pronunciationIpa": "/kan/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "kan"
+      }
+    ]
+  },
+  {
+    "id": "id_suffix_i",
+    "root": "-i",
+    "type": "suffix",
+    "languageOrigin": "Indonesian",
+    "meaning": "locative; repetitive; directed at",
+    "examples": [
+      {
+        "word": "tulisi",
+        "meaning": "write on",
+        "sentence": "Tulisi nama di kertas ini."
+      },
+      {
+        "word": "kirimi",
+        "meaning": "send to",
+        "sentence": "Kirimi dia kabar baik."
+      },
+      {
+        "word": "bawahi",
+        "meaning": "supervise",
+        "sentence": "Bawahi anak-anak itu."
+      }
+    ],
+    "relatedRootIds": ["id_base_tulis", "id_base_kirim", "id_base_bawa"],
+    "pronunciationIpa": "/i/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "i"
+      }
+    ]
+  },
+  {
+    "id": "id_suffix_nya",
+    "root": "-nya",
+    "type": "suffix",
+    "languageOrigin": "Indonesian",
+    "meaning": "definite; possessive; nominalizer",
+    "examples": [
+      {
+        "word": "bacanya",
+        "meaning": "his/her reading",
+        "sentence": "Saya suka bacanya."
+      },
+      {
+        "word": "tulisannya",
+        "meaning": "his/her writing",
+        "sentence": "Tulisannya bagus."
+      },
+      {
+        "word": "makanannya",
+        "meaning": "his/her food",
+        "sentence": "Makanannya enak."
+      }
+    ],
+    "relatedRootIds": ["id_suffix_an"],
+    "pronunciationIpa": "/ɲa/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "nya"
+      }
+    ]
+  },
+  {
+    "id": "id_suffix_ku",
+    "root": "-ku",
+    "type": "suffix",
+    "languageOrigin": "Indonesian",
+    "meaning": "my",
+    "examples": [
+      {
+        "word": "bacaku",
+        "meaning": "my reading",
+        "sentence": "Ini bacaku."
+      },
+      {
+        "word": "tulisanku",
+        "meaning": "my writing",
+        "sentence": "Tulisanku masih berantakan."
+      },
+      {
+        "word": "makananku",
+        "meaning": "my food",
+        "sentence": "Makananku hangat."
+      }
+    ],
+    "relatedRootIds": ["id_suffix_nya"],
+    "pronunciationIpa": "/ku/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "ku"
+      }
+    ]
+  },
+  {
+    "id": "id_suffix_mu",
+    "root": "-mu",
+    "type": "suffix",
+    "languageOrigin": "Indonesian",
+    "meaning": "your",
+    "examples": [
+      {
+        "word": "bacamu",
+        "meaning": "your reading",
+        "sentence": "Itu bacamu."
+      },
+      {
+        "word": "tulisanmu",
+        "meaning": "your writing",
+        "sentence": "Tulisanmu rapi."
+      },
+      {
+        "word": "makananmu",
+        "meaning": "your food",
+        "sentence": "Makananmu dingin."
+      }
+    ],
+    "relatedRootIds": ["id_suffix_nya"],
+    "pronunciationIpa": "/mu/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "mu"
+      }
+    ]
+  },
+  {
+    "id": "id_suffix_lah",
+    "root": "-lah",
+    "type": "suffix",
+    "languageOrigin": "Indonesian",
+    "meaning": "imperative/emphatic particle",
+    "examples": [
+      {
+        "word": "bacalah",
+        "meaning": "read!",
+        "sentence": "Bacalah buku itu!"
+      },
+      {
+        "word": "tulislah",
+        "meaning": "write!",
+        "sentence": "Tulislah dengan benar!"
+      },
+      {
+        "word": "makanlah",
+        "meaning": "eat!",
+        "sentence": "Makanlah yang banyak!"
+      }
+    ],
+    "relatedRootIds": ["id_base_baca", "id_base_tulis", "id_base_makan"],
+    "pronunciationIpa": "/lah/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "lah"
+      }
+    ]
+  }
+]

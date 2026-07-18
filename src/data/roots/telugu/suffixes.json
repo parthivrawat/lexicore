@@ -1,0 +1,226 @@
+[
+  {
+    "id": "te_suffix_tanam",
+    "root": "తనం",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "-ness; quality",
+    "examples": [
+      {
+        "word": "మానుతనం",
+        "meaning": "humanity",
+        "sentence": "మానుతనం ముఖ్యం."
+      },
+      {
+        "word": "మంచితనం",
+        "meaning": "goodness",
+        "sentence": "అతని మంచితనం ప్రశంసనీయం."
+      },
+      {
+        "word": "బాలుతనం",
+        "meaning": "childishness",
+        "sentence": "బాలుతనం వదులుకో."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/tanam/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "tanam"
+      }
+    ]
+  },
+  {
+    "id": "te_suffix_garu",
+    "root": "గారు",
+    "type": "suffix",
+    "languageOrigin": "Dravidian",
+    "meaning": "honorific",
+    "examples": [
+      {
+        "word": "రాముగారు",
+        "meaning": "Mr. Ramu",
+        "sentence": "రాముగారు వచ్చారు."
+      },
+      {
+        "word": "రాజుగారు",
+        "meaning": "Mr. Raju",
+        "sentence": "రాజుగారు బాగున్నారు."
+      },
+      {
+        "word": "టీచరుగారు",
+        "meaning": "teacher (respectful)",
+        "sentence": "టీచరుగారు పాఠం చెప్పారు."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/gaːru/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "gaaru"
+      }
+    ]
+  },
+  {
+    "id": "te_suffix_vadu",
+    "root": "వాడు",
+    "type": "suffix",
+    "languageOrigin": "Dravidian",
+    "meaning": "male person; doer",
+    "examples": [
+      {
+        "word": "రైతువాడు",
+        "meaning": "farmer",
+        "sentence": "రైతువాడు పొలంలో పనిచేస్తున్నాడు."
+      },
+      {
+        "word": "చదువుకున్నవాడు",
+        "meaning": "educated person",
+        "sentence": "అతను చదువుకున్నవాడు."
+      },
+      {
+        "word": "చేసేవాడు",
+        "meaning": "doer",
+        "sentence": "అతను మంచి చేసేవాడు."
+      }
+    ],
+    "relatedRootIds": ["te_base_cheyi"],
+    "pronunciationIpa": "/vaːɖu/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "vaadu"
+      }
+    ]
+  },
+  {
+    "id": "te_suffix_gaa",
+    "root": "గా",
+    "type": "suffix",
+    "languageOrigin": "Dravidian",
+    "meaning": "adverbial",
+    "examples": [
+      {
+        "word": "మంచిగా",
+        "meaning": "well",
+        "sentence": "మంచిగా చదువు."
+      },
+      {
+        "word": "త్వరగా",
+        "meaning": "quickly",
+        "sentence": "త్వరగా రా."
+      },
+      {
+        "word": "నిజంగా",
+        "meaning": "truly",
+        "sentence": "అది నిజంగా జరిగింది."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/gaː/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "gaa"
+      }
+    ]
+  },
+  {
+    "id": "te_suffix_lo",
+    "root": "లో",
+    "type": "suffix",
+    "languageOrigin": "Dravidian",
+    "meaning": "in; inside",
+    "examples": [
+      {
+        "word": "ఇంట్లో",
+        "meaning": "in the house",
+        "sentence": "ఇంట్లో ఉండు."
+      },
+      {
+        "word": "పాఠశాలలో",
+        "meaning": "in school",
+        "sentence": "పాఠశాలలో చదువు."
+      },
+      {
+        "word": "నగరంలో",
+        "meaning": "in the city",
+        "sentence": "నగరంలో జనం ఎక్కువ."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/loː/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "lo"
+      }
+    ]
+  },
+  {
+    "id": "te_suffix_to",
+    "root": "తో",
+    "type": "suffix",
+    "languageOrigin": "Dravidian",
+    "meaning": "with; by",
+    "examples": [
+      {
+        "word": "అతనితో",
+        "meaning": "with him",
+        "sentence": "నేను అతనితో మాట్లాడాను."
+      },
+      {
+        "word": "పుస్తకంతో",
+        "meaning": "with the book",
+        "sentence": "పుస్తకంతో వచ్చాడు."
+      },
+      {
+        "word": "కర్రతో",
+        "meaning": "with a stick",
+        "sentence": "కర్రతో కొట్టాడు."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/toː/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "to"
+      }
+    ]
+  },
+  {
+    "id": "te_suffix_ki",
+    "root": "కి",
+    "type": "suffix",
+    "languageOrigin": "Dravidian",
+    "meaning": "to; for",
+    "examples": [
+      {
+        "word": "అతనికి",
+        "meaning": "to him",
+        "sentence": "అతనికి ఇవ్వు."
+      },
+      {
+        "word": "ఇంటికి",
+        "meaning": "to the house",
+        "sentence": "ఇంటికి వెళ్ళు."
+      },
+      {
+        "word": "పాఠశాలకి",
+        "meaning": "to school",
+        "sentence": "పాఠశాలకి పో."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ki/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ki"
+      }
+    ]
+  }
+]

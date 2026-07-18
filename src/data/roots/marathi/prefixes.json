@@ -1,0 +1,258 @@
+[
+  {
+    "id": "mr_prefix_a",
+    "root": "अ",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "not; without",
+    "examples": [
+      {
+        "word": "असुरक्षित",
+        "meaning": "unsafe",
+        "sentence": "हे ठिकाण असुरक्षित आहे."
+      },
+      {
+        "word": "अज्ञान",
+        "meaning": "ignorance",
+        "sentence": "अज्ञान म्हणजे अंधकार."
+      },
+      {
+        "word": "अशक्त",
+        "meaning": "weak",
+        "sentence": "तो अशक्त आहे."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ə/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "a"
+      }
+    ]
+  },
+  {
+    "id": "mr_prefix_an",
+    "root": "अन",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "not; un-",
+    "examples": [
+      {
+        "word": "अनावश्यक",
+        "meaning": "unnecessary",
+        "sentence": "हे अनावश्यक आहे."
+      },
+      {
+        "word": "अनिष्ट",
+        "meaning": "bad",
+        "sentence": "अनिष्ट सवय सोड."
+      },
+      {
+        "word": "अनियमित",
+        "meaning": "irregular",
+        "sentence": "त्याची जीवनशैली अनियमित आहे."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ən/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "an"
+      }
+    ]
+  },
+  {
+    "id": "mr_prefix_du",
+    "root": "दु",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "bad; difficult",
+    "examples": [
+      {
+        "word": "दुःख",
+        "meaning": "sorrow",
+        "sentence": "दुःख सर्वांनाच येते."
+      },
+      {
+        "word": "दुर्भाग्य",
+        "meaning": "bad luck",
+        "sentence": "दुर्भाग्याने तो अपयशी ठरला."
+      },
+      {
+        "word": "दुर्व्यसन",
+        "meaning": "addiction",
+        "sentence": "दुर्व्यसन सोडणे कठीण आहे."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/du/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "du"
+      }
+    ]
+  },
+  {
+    "id": "mr_prefix_su",
+    "root": "सु",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "good; well",
+    "examples": [
+      {
+        "word": "सुख",
+        "meaning": "happiness",
+        "sentence": "सुख हे आयुष्यात महत्त्वाचे आहे."
+      },
+      {
+        "word": "सुलभ",
+        "meaning": "easy",
+        "sentence": "हे पुस्तक सुलभ आहे."
+      },
+      {
+        "word": "सुंदर",
+        "meaning": "beautiful",
+        "sentence": "फुल अतिशय सुंदर आहे."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/su/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "su"
+      }
+    ]
+  },
+  {
+    "id": "mr_prefix_pra",
+    "root": "प्र",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "forth; forward; very",
+    "examples": [
+      {
+        "word": "प्रगति",
+        "meaning": "progress",
+        "sentence": "देश प्रगती करत आहे."
+      },
+      {
+        "word": "प्रचंड",
+        "meaning": "intense",
+        "sentence": "त्याची उत्सुकता प्रचंड आहे."
+      },
+      {
+        "word": "प्रकाश",
+        "meaning": "light",
+        "sentence": "सूर्यप्रकाश आरोग्यदायी आहे."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/prə/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "pra"
+      }
+    ]
+  },
+  {
+    "id": "mr_prefix_pari",
+    "root": "परि",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "around; completely",
+    "examples": [
+      {
+        "word": "परिवर्तन",
+        "meaning": "change",
+        "sentence": "जीवनात परिवर्तन आवश्यक आहे."
+      },
+      {
+        "word": "परिमाण",
+        "meaning": "quantity",
+        "sentence": "परिमाण जास्त आहे."
+      },
+      {
+        "word": "परिसर",
+        "meaning": "surroundings",
+        "sentence": "परिसर स्वच्छ ठेवा."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/pəri/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "pari"
+      }
+    ]
+  },
+  {
+    "id": "mr_prefix_ati",
+    "root": "अति",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "excess; too much",
+    "examples": [
+      {
+        "word": "अत्यंत",
+        "meaning": "very much",
+        "sentence": "हा प्रसंग अत्यंत महत्त्वाचा आहे."
+      },
+      {
+        "word": "अतिथी",
+        "meaning": "guest",
+        "sentence": "अतिथी देवो भवः."
+      },
+      {
+        "word": "अतिशयोक्ती",
+        "meaning": "exaggeration",
+        "sentence": "त्याची अतिशयोक्ती ऐकू नका."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/əti/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ati"
+      }
+    ]
+  },
+  {
+    "id": "mr_prefix_vi",
+    "root": "वि",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "apart; opposite",
+    "examples": [
+      {
+        "word": "विदेश",
+        "meaning": "foreign country",
+        "sentence": "तो विदेशात राहतो."
+      },
+      {
+        "word": "विज्ञान",
+        "meaning": "science",
+        "sentence": "विज्ञान जग बदलते."
+      },
+      {
+        "word": "विफल",
+        "meaning": "unsuccessful",
+        "sentence": "त्याचा प्रयत्न विफल ठरला."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ʋi/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "vi"
+      }
+    ]
+  }
+]

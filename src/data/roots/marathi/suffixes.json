@@ -1,0 +1,258 @@
+[
+  {
+    "id": "mr_suffix_pana",
+    "root": "पण",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "-ness; quality",
+    "examples": [
+      {
+        "word": "माणुसपण",
+        "meaning": "humanity",
+        "sentence": "माणुसपण महत्त्वाचे आहे."
+      },
+      {
+        "word": "चांगुलपण",
+        "meaning": "goodness",
+        "sentence": "त्याच्या चांगुलपणाची प्रशंसा करा."
+      },
+      {
+        "word": "मुलगेपण",
+        "meaning": "childishness",
+        "sentence": "मुलगेपण सोड."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/pəɳ/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "pan"
+      }
+    ]
+  },
+  {
+    "id": "mr_suffix_wala",
+    "root": "वाला",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "doer; owner",
+    "examples": [
+      {
+        "word": "दुकानवाला",
+        "meaning": "shopkeeper",
+        "sentence": "दुकानवाला भाग्यवान आहे."
+      },
+      {
+        "word": "गाडीवाला",
+        "meaning": "driver",
+        "sentence": "गाडीवाला आला."
+      },
+      {
+        "word": "भाजीवाला",
+        "meaning": "vegetable seller",
+        "sentence": "भाजीवाल्याकडे जा."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ʋaːlaː/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "wala"
+      }
+    ]
+  },
+  {
+    "id": "mr_suffix_khor",
+    "root": "खोर",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "one who eats/does excessively",
+    "examples": [
+      {
+        "word": "मांसखोर",
+        "meaning": "carnivore",
+        "sentence": "सिंह मांसखोर आहे."
+      },
+      {
+        "word": "पैसेखोर",
+        "meaning": "miser",
+        "sentence": "तो पैसेखोर आहे."
+      },
+      {
+        "word": "रक्तखोर",
+        "meaning": "bloodthirsty",
+        "sentence": "त्याचा रक्तखोरपणा दिसतो."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/kʰoːr/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "khor"
+      }
+    ]
+  },
+  {
+    "id": "mr_suffix_dar",
+    "root": "दार",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "holder; possessor",
+    "examples": [
+      {
+        "word": "जमिनदार",
+        "meaning": "landowner",
+        "sentence": "तो मोठा जमिनदार आहे."
+      },
+      {
+        "word": "इमानदार",
+        "meaning": "honest",
+        "sentence": "तो इमानदार माणूस आहे."
+      },
+      {
+        "word": "कर्जदार",
+        "meaning": "debtor",
+        "sentence": "कर्जदाराने पैसे परत दिले."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/daːr/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "dar"
+      }
+    ]
+  },
+  {
+    "id": "mr_suffix_van",
+    "root": "वान",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "possessing; full of",
+    "examples": [
+      {
+        "word": "बलवान",
+        "meaning": "strong",
+        "sentence": "तो खूप बलवान आहे."
+      },
+      {
+        "word": "धनवान",
+        "meaning": "rich",
+        "sentence": "धनवान माणूस तो."
+      },
+      {
+        "word": "भाग्यवान",
+        "meaning": "lucky",
+        "sentence": "तो भाग्यवान आहे."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ʋaːn/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "van"
+      }
+    ]
+  },
+  {
+    "id": "mr_suffix_maya",
+    "root": "मय",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "made of; full of",
+    "examples": [
+      {
+        "word": "सोनमय",
+        "meaning": "golden",
+        "sentence": "सोनमय मूर्ती."
+      },
+      {
+        "word": "लोखंडमय",
+        "meaning": "made of iron",
+        "sentence": "लोखंडमय दरवाजा."
+      },
+      {
+        "word": "रजतमय",
+        "meaning": "silvery",
+        "sentence": "रजतमय चमक."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/məj/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "maya"
+      }
+    ]
+  },
+  {
+    "id": "mr_suffix_shil",
+    "root": "शील",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "inclined to; habitually",
+    "examples": [
+      {
+        "word": "कष्टशील",
+        "meaning": "hardworking",
+        "sentence": "तो कष्टशील आहे."
+      },
+      {
+        "word": "सत्यशील",
+        "meaning": "truthful",
+        "sentence": "सत्यशील माणूस."
+      },
+      {
+        "word": "ध्यानशील",
+        "meaning": "attentive",
+        "sentence": "ध्यानशील राहा."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ʃiːl/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "shil"
+      }
+    ]
+  },
+  {
+    "id": "mr_suffix_yukta",
+    "root": "युक्त",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "endowed with; possessing",
+    "examples": [
+      {
+        "word": "सामर्थ्ययुक्त",
+        "meaning": "powerful",
+        "sentence": "सामर्थ्ययुक्त भाषण."
+      },
+      {
+        "word": "अर्थयुक्त",
+        "meaning": "meaningful",
+        "sentence": "त्याचे बोलणे अर्थयुक्त आहे."
+      },
+      {
+        "word": "शक्तियुक्त",
+        "meaning": "powerful",
+        "sentence": "शक्तियुक्त देव."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/jukt/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "yukta"
+      }
+    ]
+  }
+]

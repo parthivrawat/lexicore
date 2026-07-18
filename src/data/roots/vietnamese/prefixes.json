@@ -1,0 +1,258 @@
+[
+  {
+    "id": "vi_prefix_khong",
+    "root": "không",
+    "type": "prefix",
+    "languageOrigin": "Vietnamese",
+    "meaning": "not",
+    "examples": [
+      {
+        "word": "không ăn",
+        "meaning": "not eat",
+        "sentence": "Tôi không ăn thịt."
+      },
+      {
+        "word": "không đi",
+        "meaning": "not go",
+        "sentence": "Hôm nay tôi không đi."
+      },
+      {
+        "word": "không biết",
+        "meaning": "not know",
+        "sentence": "Tôi không biết."
+      }
+    ],
+    "relatedRootIds": ["vi_base_an", "vi_base_di"],
+    "pronunciationIpa": "/kɔŋ/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "khong"
+      }
+    ]
+  },
+  {
+    "id": "vi_prefix_rat",
+    "root": "rất",
+    "type": "prefix",
+    "languageOrigin": "Vietnamese",
+    "meaning": "very",
+    "examples": [
+      {
+        "word": "rất đẹp",
+        "meaning": "very beautiful",
+        "sentence": "Cô ấy rất đẹp."
+      },
+      {
+        "word": "rất ngon",
+        "meaning": "very delicious",
+        "sentence": "Món này rất ngon."
+      },
+      {
+        "word": "rất vui",
+        "meaning": "very happy",
+        "sentence": "Tôi rất vui."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/zat/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "rat"
+      }
+    ]
+  },
+  {
+    "id": "vi_prefix_da",
+    "root": "đã",
+    "type": "prefix",
+    "languageOrigin": "Vietnamese",
+    "meaning": "past marker",
+    "examples": [
+      {
+        "word": "đã ăn",
+        "meaning": "ate",
+        "sentence": "Tôi đã ăn cơm."
+      },
+      {
+        "word": "đã đi",
+        "meaning": "went",
+        "sentence": "Anh ấy đã đi."
+      },
+      {
+        "word": "đã làm",
+        "meaning": "did",
+        "sentence": "Tôi đã làm xong."
+      }
+    ],
+    "relatedRootIds": ["vi_base_an", "vi_base_di", "vi_base_lam"],
+    "pronunciationIpa": "/ɗa/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "da"
+      }
+    ]
+  },
+  {
+    "id": "vi_prefix_se",
+    "root": "sẽ",
+    "type": "prefix",
+    "languageOrigin": "Vietnamese",
+    "meaning": "future marker",
+    "examples": [
+      {
+        "word": "sẽ đi",
+        "meaning": "will go",
+        "sentence": "Tôi sẽ đi học."
+      },
+      {
+        "word": "sẽ đến",
+        "meaning": "will come",
+        "sentence": "Cô ấy sẽ đến."
+      },
+      {
+        "word": "sẽ làm",
+        "meaning": "will do",
+        "sentence": "Tôi sẽ làm."
+      }
+    ],
+    "relatedRootIds": ["vi_base_di", "vi_base_den", "vi_base_lam"],
+    "pronunciationIpa": "/se/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "se"
+      }
+    ]
+  },
+  {
+    "id": "vi_prefix_dang",
+    "root": "đang",
+    "type": "prefix",
+    "languageOrigin": "Vietnamese",
+    "meaning": "continuous marker",
+    "examples": [
+      {
+        "word": "đang ăn",
+        "meaning": "eating",
+        "sentence": "Tôi đang ăn."
+      },
+      {
+        "word": "đang làm",
+        "meaning": "doing",
+        "sentence": "Anh ấy đang làm."
+      },
+      {
+        "word": "đang đọc",
+        "meaning": "reading",
+        "sentence": "Cô ấy đang đọc sách."
+      }
+    ],
+    "relatedRootIds": ["vi_base_an", "vi_base_lam", "vi_base_doc"],
+    "pronunciationIpa": "/ɗaŋ/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "dang"
+      }
+    ]
+  },
+  {
+    "id": "vi_prefix_bi",
+    "root": "bị",
+    "type": "prefix",
+    "languageOrigin": "Vietnamese",
+    "meaning": "passive (negative)",
+    "examples": [
+      {
+        "word": "bị đánh",
+        "meaning": "be beaten",
+        "sentence": "Anh ấy bị đánh."
+      },
+      {
+        "word": "bị mất",
+        "meaning": "be lost",
+        "sentence": "Tôi bị mất ví."
+      },
+      {
+        "word": "bị bắt",
+        "meaning": "be caught",
+        "sentence": "Kẻ cắp bị bắt."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/bi/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "bi"
+      }
+    ]
+  },
+  {
+    "id": "vi_prefix_duoc",
+    "root": "được",
+    "type": "prefix",
+    "languageOrigin": "Vietnamese",
+    "meaning": "passive (positive)",
+    "examples": [
+      {
+        "word": "được khen",
+        "meaning": "be praised",
+        "sentence": "Cô ấy được khen."
+      },
+      {
+        "word": "được tặng",
+        "meaning": "be given",
+        "sentence": "Tôi được tặng quà."
+      },
+      {
+        "word": "được chọn",
+        "meaning": "be chosen",
+        "sentence": "Anh ấy được chọn."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ɗɨək/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "duoc"
+      }
+    ]
+  },
+  {
+    "id": "vi_prefix_qua",
+    "root": "quá",
+    "type": "prefix",
+    "languageOrigin": "Vietnamese",
+    "meaning": "too; excessive",
+    "examples": [
+      {
+        "word": "quá đẹp",
+        "meaning": "too beautiful",
+        "sentence": "Cô ấy quá đẹp."
+      },
+      {
+        "word": "quá nóng",
+        "meaning": "too hot",
+        "sentence": "Trời quá nóng."
+      },
+      {
+        "word": "quá nhiều",
+        "meaning": "too much",
+        "sentence": "Có quá nhiều người."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/kwa/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "qua"
+      }
+    ]
+  }
+]

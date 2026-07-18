@@ -1,0 +1,226 @@
+[
+  {
+    "id": "yue_suffix_ge3",
+    "root": "嘅",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "possessive",
+    "examples": [
+      {
+        "word": "我嘅",
+        "meaning": "my",
+        "sentence": "呢個係我嘅書。"
+      },
+      {
+        "word": "佢嘅",
+        "meaning": "his/her",
+        "sentence": "呢個係佢嘅電話。"
+      },
+      {
+        "word": "學校嘅",
+        "meaning": "school's",
+        "sentence": "呢個係學校嘅門。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ge/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "ge3"
+      }
+    ]
+  },
+  {
+    "id": "yue_suffix_zo2",
+    "root": "咗",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "completed action",
+    "examples": [
+      {
+        "word": "食咗",
+        "meaning": "ate",
+        "sentence": "我食咗飯。"
+      },
+      {
+        "word": "去咗",
+        "meaning": "went",
+        "sentence": "佢去咗香港。"
+      },
+      {
+        "word": "做咗",
+        "meaning": "did",
+        "sentence": "我做咗喇。"
+      }
+    ],
+    "relatedRootIds": ["yue_base_sik6", "yue_base_heoi3", "yue_base_zou6"],
+    "pronunciationIpa": "/zo/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "zo2"
+      }
+    ]
+  },
+  {
+    "id": "yue_suffix_gan2",
+    "root": "緊",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "continuous action",
+    "examples": [
+      {
+        "word": "食緊",
+        "meaning": "eating",
+        "sentence": "我食緊嘢。"
+      },
+      {
+        "word": "做緊",
+        "meaning": "doing",
+        "sentence": "佢做緊嘢。"
+      },
+      {
+        "word": "睇緊",
+        "meaning": "watching",
+        "sentence": "我睇緊電視。"
+      }
+    ],
+    "relatedRootIds": ["yue_base_sik6", "yue_base_zou6", "yue_base_tai2"],
+    "pronunciationIpa": "/gan/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "gan2"
+      }
+    ]
+  },
+  {
+    "id": "yue_suffix_gwo3",
+    "root": "過",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "experiential",
+    "examples": [
+      {
+        "word": "食過",
+        "meaning": "have eaten",
+        "sentence": "我食過魚生。"
+      },
+      {
+        "word": "去過",
+        "meaning": "have been",
+        "sentence": "我去過日本。"
+      },
+      {
+        "word": "見過",
+        "meaning": "have seen",
+        "sentence": "我見過佢。"
+      }
+    ],
+    "relatedRootIds": ["yue_base_sik6", "yue_base_heoi3"],
+    "pronunciationIpa": "/gwo/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "gwo3"
+      }
+    ]
+  },
+  {
+    "id": "yue_suffix_dak1",
+    "root": "得",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "able; potential",
+    "examples": [
+      {
+        "word": "食得",
+        "meaning": "can eat; edible",
+        "sentence": "呢個食得。"
+      },
+      {
+        "word": "做得好",
+        "meaning": "well done",
+        "sentence": "佢做得好。"
+      },
+      {
+        "word": "講得",
+        "meaning": "can speak",
+        "sentence": "佢廣東話講得。"
+      }
+    ],
+    "relatedRootIds": ["yue_base_sik6", "yue_base_zou6", "yue_base_gong2"],
+    "pronunciationIpa": "/dak/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "dak1"
+      }
+    ]
+  },
+  {
+    "id": "yue_suffix_saai3",
+    "root": "晒",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "completely; all",
+    "examples": [
+      {
+        "word": "食晒",
+        "meaning": "ate all",
+        "sentence": "我食晒喇。"
+      },
+      {
+        "word": "飲晒",
+        "meaning": "drank all",
+        "sentence": "佢飲晒杯水。"
+      },
+      {
+        "word": "做晒",
+        "meaning": "done all",
+        "sentence": "我哋做晒喇。"
+      }
+    ],
+    "relatedRootIds": ["yue_base_sik6", "yue_base_jam2", "yue_base_zou6"],
+    "pronunciationIpa": "/saai/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "saai3"
+      }
+    ]
+  },
+  {
+    "id": "yue_suffix_zyu6",
+    "root": "住",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "durative; keep",
+    "examples": [
+      {
+        "word": "揸住",
+        "meaning": "holding",
+        "sentence": "我揸住把遮。"
+      },
+      {
+        "word": "記住",
+        "meaning": "remember",
+        "sentence": "你要記住。"
+      },
+      {
+        "word": "跟住",
+        "meaning": "follow; continue",
+        "sentence": "跟住落嚟。"
+      }
+    ],
+    "relatedRootIds": ["yue_base_nam2"],
+    "pronunciationIpa": "/zyu/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "zyu6"
+      }
+    ]
+  }
+]

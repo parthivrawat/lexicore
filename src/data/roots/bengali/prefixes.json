@@ -1,0 +1,354 @@
+[
+  {
+    "id": "bn_prefix_a",
+    "root": "অ",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "not; without",
+    "examples": [
+      {
+        "word": "অজ্ঞান",
+        "meaning": "ignorance",
+        "sentence": "অজ্ঞান অন্ধকারের মতো।"
+      },
+      {
+        "word": "অপরিচিত",
+        "meaning": "unknown",
+        "sentence": "সে আমার অপরিচিত।"
+      },
+      {
+        "word": "অসম্পূর্ণ",
+        "meaning": "incomplete",
+        "sentence": "কাজটি এখনো অসম্পূর্ণ।"
+      }
+    ],
+    "relatedRootIds": ["bn_base_gya"],
+    "pronunciationIpa": "/ɔ/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "a"
+      }
+    ]
+  },
+  {
+    "id": "bn_prefix_apo",
+    "root": "অপ",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "away; bad",
+    "examples": [
+      {
+        "word": "অপমান",
+        "meaning": "insult",
+        "sentence": "অপমান সহ্য করা কঠিন।"
+      },
+      {
+        "word": "অপকার",
+        "meaning": "harm",
+        "sentence": "অপকার কখনো করো না।"
+      },
+      {
+        "word": "অপরাধ",
+        "meaning": "crime",
+        "sentence": "অপরাধের শাস্তি পাওয়া উচিত।"
+      }
+    ],
+    "relatedRootIds": ["bn_prefix_a"],
+    "pronunciationIpa": "/ɔpɔ/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "apo"
+      }
+    ]
+  },
+  {
+    "id": "bn_prefix_onu",
+    "root": "অনু",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "after; along; following",
+    "examples": [
+      {
+        "word": "অনুকরণ",
+        "meaning": "imitation",
+        "sentence": "শিশুরা অনুকরণ করে।"
+      },
+      {
+        "word": "অনুবাদ",
+        "meaning": "translation",
+        "sentence": "বইয়ের অনুবাদ হচ্ছে।"
+      },
+      {
+        "word": "অনুগত",
+        "meaning": "obedient",
+        "sentence": "সে অনুগত ছাত্র।"
+      }
+    ],
+    "relatedRootIds": ["bn_base_gom"],
+    "pronunciationIpa": "/ɔnu/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "onu"
+      }
+    ]
+  },
+  {
+    "id": "bn_prefix_obhi",
+    "root": "অভি",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "towards; over",
+    "examples": [
+      {
+        "word": "অভিমান",
+        "meaning": "hurt pride",
+        "sentence": "তার অভিমান কমছে না।"
+      },
+      {
+        "word": "অভিযান",
+        "meaning": "campaign",
+        "sentence": "স্বচ্ছতা অভিযান চলছে।"
+      },
+      {
+        "word": "অভিধান",
+        "meaning": "dictionary",
+        "sentence": "অভিধানে শব্দ খুঁজি।"
+      }
+    ],
+    "relatedRootIds": ["bn_prefix_pro"],
+    "pronunciationIpa": "/ɔbʰi/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "obhi"
+      }
+    ]
+  },
+  {
+    "id": "bn_prefix_upo",
+    "root": "উপ",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "near; sub-; accessory",
+    "examples": [
+      {
+        "word": "উপগ্রহ",
+        "meaning": "satellite",
+        "sentence": "উপগ্রহ পৃথিবীকে ঘুরছে।"
+      },
+      {
+        "word": "উপকার",
+        "meaning": "favor",
+        "sentence": "তোমার উপকার মনে রাখব।"
+      },
+      {
+        "word": "উপন্যাস",
+        "meaning": "novel",
+        "sentence": "উপন্যাসটি রোমাঞ্চকর।"
+      }
+    ],
+    "relatedRootIds": ["bn_prefix_pro"],
+    "pronunciationIpa": "/upɔ/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "upo"
+      }
+    ]
+  },
+  {
+    "id": "bn_prefix_pro",
+    "root": "প্র",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "forth; forward; very",
+    "examples": [
+      {
+        "word": "প্রগতি",
+        "meaning": "progress",
+        "sentence": "দেশ দ্রুত প্রগতি করছে।"
+      },
+      {
+        "word": "প্রস্তাব",
+        "meaning": "proposal",
+        "sentence": "প্রস্তাবটি গৃহীত হলো।"
+      },
+      {
+        "word": "প্রবল",
+        "meaning": "strong",
+        "sentence": "ঝড়টি প্রবল ছিল।"
+      }
+    ],
+    "relatedRootIds": ["bn_base_kri"],
+    "pronunciationIpa": "/prɔ/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "pro"
+      }
+    ]
+  },
+  {
+    "id": "bn_prefix_pora",
+    "root": "পরা",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "against; defeat",
+    "examples": [
+      {
+        "word": "পরাজয়",
+        "meaning": "defeat",
+        "sentence": "পরাজয় থেকে শিক্ষা নাও।"
+      },
+      {
+        "word": "পরাভূত",
+        "meaning": "defeated",
+        "sentence": "শত্রু পরাভূত হলো।"
+      },
+      {
+        "word": "পরাধীন",
+        "meaning": "dependent",
+        "sentence": "তিনি অন্যের পরাধীন।"
+      }
+    ],
+    "relatedRootIds": ["bn_prefix_pro"],
+    "pronunciationIpa": "/pɔra/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "pora"
+      }
+    ]
+  },
+  {
+    "id": "bn_prefix_bi",
+    "root": "বি",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "apart; special; without",
+    "examples": [
+      {
+        "word": "বিজ্ঞান",
+        "meaning": "science",
+        "sentence": "বিজ্ঞান জীবন সহজ করে।"
+      },
+      {
+        "word": "বিদেশ",
+        "meaning": "foreign country",
+        "sentence": "তিনি বিদেশে পড়াশোনা করেন।"
+      },
+      {
+        "word": "বিকাশ",
+        "meaning": "development",
+        "sentence": "শহরের বিকাশ হচ্ছে।"
+      }
+    ],
+    "relatedRootIds": ["bn_base_gya"],
+    "pronunciationIpa": "/bi/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "bi"
+      }
+    ]
+  },
+  {
+    "id": "bn_prefix_som",
+    "root": "সম",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "together; complete; with",
+    "examples": [
+      {
+        "word": "সম্পূর্ণ",
+        "meaning": "complete",
+        "sentence": "কাজটি সম্পূর্ণ হয়েছে।"
+      },
+      {
+        "word": "সম্মান",
+        "meaning": "respect",
+        "sentence": "সম্মান সবাই চায়।"
+      },
+      {
+        "word": "সমাজ",
+        "meaning": "society",
+        "sentence": "সমাজে শান্তি রাখুন।"
+      }
+    ],
+    "relatedRootIds": ["bn_base_gom"],
+    "pronunciationIpa": "/sɔm/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "som"
+      }
+    ]
+  },
+  {
+    "id": "bn_prefix_ni",
+    "root": "নি",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "down; without",
+    "examples": [
+      {
+        "word": "নিপাত",
+        "meaning": "fall",
+        "sentence": "পাতা নিপাত হলো।"
+      },
+      {
+        "word": "নিবন্ধ",
+        "meaning": "article",
+        "sentence": "নিবন্ধটি পড়লাম।"
+      },
+      {
+        "word": "নিরাময়",
+        "meaning": "cure",
+        "sentence": "রোগের নিরাময় হলো।"
+      }
+    ],
+    "relatedRootIds": ["bn_prefix_a"],
+    "pronunciationIpa": "/ni/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ni"
+      }
+    ]
+  },
+  {
+    "id": "bn_prefix_dur",
+    "root": "দুর্",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "bad; difficult",
+    "examples": [
+      {
+        "word": "দুর্ভাগ্য",
+        "meaning": "bad luck",
+        "sentence": "দুর্ভাগ্য তার পিছু ছাড়ছে না।"
+      },
+      {
+        "word": "দুর্বল",
+        "meaning": "weak",
+        "sentence": "দুর্বল ব্যক্তি বিশ্রাম পান।"
+      },
+      {
+        "word": "দুষ্কর্ম",
+        "meaning": "misdeed",
+        "sentence": "দুষ্কর্মের পরিণতি ভয়াবহ।"
+      }
+    ],
+    "relatedRootIds": ["bn_prefix_a"],
+    "pronunciationIpa": "/dur/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dur"
+      }
+    ]
+  }
+]

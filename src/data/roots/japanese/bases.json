@@ -1,0 +1,802 @@
+[
+  {
+    "id": "ja_base_shoku",
+    "root": "食",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "eat; food",
+    "examples": [
+      {
+        "word": "食べる",
+        "meaning": "to eat",
+        "sentence": "りんごを食べる。"
+      },
+      {
+        "word": "食事",
+        "meaning": "meal",
+        "sentence": "食事の時間だ。"
+      },
+      {
+        "word": "食堂",
+        "meaning": "dining hall",
+        "sentence": "食堂でご飯を食べる。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ʃoku/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "shoku"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_ken",
+    "root": "見",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "see",
+    "examples": [
+      {
+        "word": "見る",
+        "meaning": "to see",
+        "sentence": "映画を見る。"
+      },
+      {
+        "word": "見物",
+        "meaning": "sightseeing",
+        "sentence": "見物客が多い。"
+      },
+      {
+        "word": "意見",
+        "meaning": "opinion",
+        "sentence": "意見を言う。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/keɴ/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ken"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_bun",
+    "root": "聞",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "hear; listen; ask; news",
+    "examples": [
+      {
+        "word": "聞く",
+        "meaning": "to hear",
+        "sentence": "音楽を聞く。"
+      },
+      {
+        "word": "新聞",
+        "meaning": "newspaper",
+        "sentence": "新聞を読む。"
+      },
+      {
+        "word": "見聞",
+        "meaning": "experience",
+        "sentence": "見聞を広げる。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/buɴ/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "bun"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_gen",
+    "root": "言",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "say; speech",
+    "examples": [
+      {
+        "word": "言う",
+        "meaning": "to say",
+        "sentence": "本当のことを言う。"
+      },
+      {
+        "word": "言葉",
+        "meaning": "word",
+        "sentence": "言葉が分からない。"
+      },
+      {
+        "word": "方言",
+        "meaning": "dialect",
+        "sentence": "方言が面白い。"
+      }
+    ],
+    "relatedRootIds": ["ja_suffix_go"],
+    "pronunciationIpa": "/geɴ/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "gen"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_sho",
+    "root": "書",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "write",
+    "examples": [
+      {
+        "word": "書く",
+        "meaning": "to write",
+        "sentence": "手紙を書く。"
+      },
+      {
+        "word": "書物",
+        "meaning": "book",
+        "sentence": "古い書物だ。"
+      },
+      {
+        "word": "図書館",
+        "meaning": "library",
+        "sentence": "図書館で勉強する。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ʃo/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "sho"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_doku",
+    "root": "読",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "read",
+    "examples": [
+      {
+        "word": "読む",
+        "meaning": "to read",
+        "sentence": "本を読む。"
+      },
+      {
+        "word": "読者",
+        "meaning": "reader",
+        "sentence": "読者が増えた。"
+      },
+      {
+        "word": "読書",
+        "meaning": "reading",
+        "sentence": "読書が好きだ。"
+      }
+    ],
+    "relatedRootIds": ["ja_suffix_sha"],
+    "pronunciationIpa": "/doku/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "doku"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_ko",
+    "root": "行",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "go; act",
+    "examples": [
+      {
+        "word": "行く",
+        "meaning": "to go",
+        "sentence": "学校に行く。"
+      },
+      {
+        "word": "銀行",
+        "meaning": "bank",
+        "sentence": "銀行でお金をおろす。"
+      },
+      {
+        "word": "旅行",
+        "meaning": "trip",
+        "sentence": "旅行に行きたい。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/koː/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "kou"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_rai",
+    "root": "来",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "come; next",
+    "examples": [
+      {
+        "word": "来る",
+        "meaning": "to come",
+        "sentence": "友達が来る。"
+      },
+      {
+        "word": "未来",
+        "meaning": "future",
+        "sentence": "未来を考える。"
+      },
+      {
+        "word": "再来月",
+        "meaning": "month after next",
+        "sentence": "再来月は忙しい。"
+      }
+    ],
+    "relatedRootIds": ["ja_prefix_mi", "ja_prefix_sai"],
+    "pronunciationIpa": "/rai/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "rai"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_saku",
+    "root": "作",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "make; create",
+    "examples": [
+      {
+        "word": "作る",
+        "meaning": "to make",
+        "sentence": "料理を作る。"
+      },
+      {
+        "word": "作家",
+        "meaning": "writer",
+        "sentence": "作家が新刊を出した。"
+      },
+      {
+        "word": "超大作",
+        "meaning": "blockbuster",
+        "sentence": "この映画は超大作だ。"
+      }
+    ],
+    "relatedRootIds": ["ja_prefix_cho", "ja_suffix_ke"],
+    "pronunciationIpa": "/saku/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "saku"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_kau",
+    "root": "買",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "buy",
+    "examples": [
+      {
+        "word": "買う",
+        "meaning": "to buy",
+        "sentence": "本を買う。"
+      },
+      {
+        "word": "買物",
+        "meaning": "shopping",
+        "sentence": "買物に行く。"
+      },
+      {
+        "word": "売買",
+        "meaning": "trade",
+        "sentence": "売買が成立した。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/bai/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "bai"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_uru",
+    "root": "売",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "sell",
+    "examples": [
+      {
+        "word": "売る",
+        "meaning": "to sell",
+        "sentence": "車を売る。"
+      },
+      {
+        "word": "売店",
+        "meaning": "shop",
+        "sentence": "売店で飲み物を買う。"
+      },
+      {
+        "word": "販売",
+        "meaning": "sales",
+        "sentence": "新製品の販売が始まる。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/bai/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "bai"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_in",
+    "root": "飲",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "drink",
+    "examples": [
+      {
+        "word": "飲む",
+        "meaning": "to drink",
+        "sentence": "水を飲む。"
+      },
+      {
+        "word": "飲物",
+        "meaning": "drink",
+        "sentence": "冷たい飲物が欲しい。"
+      },
+      {
+        "word": "飲酒",
+        "meaning": "drinking alcohol",
+        "sentence": "飲酒は控える。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/iɴ/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "in"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_do",
+    "root": "働",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "work",
+    "examples": [
+      {
+        "word": "働く",
+        "meaning": "to work",
+        "sentence": "会社で働く。"
+      },
+      {
+        "word": "労働",
+        "meaning": "labor",
+        "sentence": "労働環境が改善した。"
+      },
+      {
+        "word": "働き",
+        "meaning": "work; effort",
+        "sentence": "働きが認められた。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/doː/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "dou"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_gaku",
+    "root": "学",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "learn; study",
+    "examples": [
+      {
+        "word": "学ぶ",
+        "meaning": "to learn",
+        "sentence": "歴史を学ぶ。"
+      },
+      {
+        "word": "学校",
+        "meaning": "school",
+        "sentence": "学校に通う。"
+      },
+      {
+        "word": "学生",
+        "meaning": "student",
+        "sentence": "学生が多い。"
+      }
+    ],
+    "relatedRootIds": ["ja_suffix_gaku"],
+    "pronunciationIpa": "/gaku/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "gaku"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_wa",
+    "root": "話",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "speak; talk",
+    "examples": [
+      {
+        "word": "話す",
+        "meaning": "to speak",
+        "sentence": "友達と話す。"
+      },
+      {
+        "word": "会話",
+        "meaning": "conversation",
+        "sentence": "会話を楽しむ。"
+      },
+      {
+        "word": "電話",
+        "meaning": "telephone",
+        "sentence": "電話をかける。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/wa/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "wa"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_chi",
+    "root": "知",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "know",
+    "examples": [
+      {
+        "word": "知る",
+        "meaning": "to know",
+        "sentence": "真実を知る。"
+      },
+      {
+        "word": "知識",
+        "meaning": "knowledge",
+        "sentence": "知識が増える。"
+      },
+      {
+        "word": "通知",
+        "meaning": "notice",
+        "sentence": "通知が来た。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/tɕi/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "chi"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_suru",
+    "root": "為",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "do",
+    "examples": [
+      {
+        "word": "為る",
+        "meaning": "to do",
+        "sentence": "何を為るのか。"
+      },
+      {
+        "word": "行為",
+        "meaning": "act; deed",
+        "sentence": "その行為は正しい。"
+      },
+      {
+        "word": "作為",
+        "meaning": "agency; act",
+        "sentence": "作為がない。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/suɾu/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "suru"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_yo",
+    "root": "与",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "give",
+    "examples": [
+      {
+        "word": "与える",
+        "meaning": "to give",
+        "sentence": "プレゼントを与える。"
+      },
+      {
+        "word": "付与",
+        "meaning": "grant; confer",
+        "sentence": "資格を付与する。"
+      },
+      {
+        "word": "与信",
+        "meaning": "credit",
+        "sentence": "与信を調べる。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/jo/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "yo"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_ji",
+    "root": "持",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "hold",
+    "examples": [
+      {
+        "word": "持つ",
+        "meaning": "to hold",
+        "sentence": "かばんを持つ。"
+      },
+      {
+        "word": "所持",
+        "meaning": "possession",
+        "sentence": "品物を所持している。"
+      },
+      {
+        "word": "維持",
+        "meaning": "maintenance",
+        "sentence": "平和を維持する。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/dʑi/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ji"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_shu",
+    "root": "取",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "take",
+    "examples": [
+      {
+        "word": "取る",
+        "meaning": "to take",
+        "sentence": "本を取る。"
+      },
+      {
+        "word": "取得",
+        "meaning": "acquisition",
+        "sentence": "免許を取得する。"
+      },
+      {
+        "word": "受取",
+        "meaning": "receipt",
+        "sentence": "受取を確認する。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ɕɯ/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "shu"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_omo",
+    "root": "思",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "think",
+    "examples": [
+      {
+        "word": "思う",
+        "meaning": "to think",
+        "sentence": "そう思う。"
+      },
+      {
+        "word": "思想",
+        "meaning": "thought; ideology",
+        "sentence": "思想が深い。"
+      },
+      {
+        "word": "思い出",
+        "meaning": "memory",
+        "sentence": "思い出が残る。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/omo/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "omo"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_kou",
+    "root": "光",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "light",
+    "examples": [
+      {
+        "word": "光",
+        "meaning": "light",
+        "sentence": "光が差し込む。"
+      },
+      {
+        "word": "光る",
+        "meaning": "to shine",
+        "sentence": "星が光る。"
+      },
+      {
+        "word": "電光",
+        "meaning": "flash of lightning",
+        "sentence": "電光石火だ。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/koː/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "kou"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_ai",
+    "root": "愛",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "love",
+    "examples": [
+      {
+        "word": "愛",
+        "meaning": "love",
+        "sentence": "愛は永遠だ。"
+      },
+      {
+        "word": "愛する",
+        "meaning": "to love",
+        "sentence": "家族を愛する。"
+      },
+      {
+        "word": "愛情",
+        "meaning": "affection",
+        "sentence": "愛情を持つ。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ai/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ai"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_sui",
+    "root": "水",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "water",
+    "examples": [
+      {
+        "word": "水",
+        "meaning": "water",
+        "sentence": "水を飲む。"
+      },
+      {
+        "word": "水泳",
+        "meaning": "swimming",
+        "sentence": "水泳が上手だ。"
+      },
+      {
+        "word": "水曜日",
+        "meaning": "Wednesday",
+        "sentence": "水曜日に会う。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/sui/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "sui"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_un",
+    "root": "運",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "carry; transport",
+    "examples": [
+      {
+        "word": "運ぶ",
+        "meaning": "to carry",
+        "sentence": "荷物を運ぶ。"
+      },
+      {
+        "word": "運転",
+        "meaning": "driving",
+        "sentence": "車を運転する。"
+      },
+      {
+        "word": "運送",
+        "meaning": "transport",
+        "sentence": "荷物を運送する。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/uɴ/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "un"
+      }
+    ]
+  }
+]

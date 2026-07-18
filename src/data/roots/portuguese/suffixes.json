@@ -1,0 +1,482 @@
+[
+  {
+    "id": "pt_suffix_cao",
+    "root": "-ção",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "action/result noun (-tion)",
+    "examples": [
+      {
+        "word": "criação",
+        "meaning": "creation",
+        "sentence": "A criação é linda."
+      },
+      {
+        "word": "informação",
+        "meaning": "information",
+        "sentence": "A informação é útil."
+      },
+      {
+        "word": "nação",
+        "meaning": "nation",
+        "sentence": "A nação é forte."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_mento"],
+    "pronunciationIpa": "/ˈsɐ̃w̃/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "cao"
+      }
+    ]
+  },
+  {
+    "id": "pt_suffix_mento",
+    "root": "-mento",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "action/result noun (-ment)",
+    "examples": [
+      {
+        "word": "pagamento",
+        "meaning": "payment",
+        "sentence": "O pagamento foi feito."
+      },
+      {
+        "word": "movimento",
+        "meaning": "movement",
+        "sentence": "O movimento é lento."
+      },
+      {
+        "word": "desenvolvimento",
+        "meaning": "development",
+        "sentence": "O desenvolvimento continua."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_cao"],
+    "pronunciationIpa": "/ˈmẽtu/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "mento"
+      }
+    ]
+  },
+  {
+    "id": "pt_suffix_dade",
+    "root": "-dade",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "abstract noun (-ty)",
+    "examples": [
+      {
+        "word": "realidade",
+        "meaning": "reality",
+        "sentence": "A realidade é complexa."
+      },
+      {
+        "word": "felicidade",
+        "meaning": "happiness",
+        "sentence": "A felicidade é importante."
+      },
+      {
+        "word": "igualdade",
+        "meaning": "equality",
+        "sentence": "A igualdade é essencial."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_eza"],
+    "pronunciationIpa": "/ˈdadɨ/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "dade"
+      }
+    ]
+  },
+  {
+    "id": "pt_suffix_eza",
+    "root": "-eza",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "abstract noun (-ness)",
+    "examples": [
+      {
+        "word": "tristeza",
+        "meaning": "sadness",
+        "sentence": "A tristeza passou."
+      },
+      {
+        "word": "fortaleza",
+        "meaning": "fortress; strength",
+        "sentence": "A fortaleza é antiga."
+      },
+      {
+        "word": "beleza",
+        "meaning": "beauty",
+        "sentence": "A beleza está na simplicidade."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_dade"],
+    "pronunciationIpa": "/ˈezɐ/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "eza"
+      }
+    ]
+  },
+  {
+    "id": "pt_suffix_dor",
+    "root": "-dor",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "agent (-er/-or)",
+    "examples": [
+      {
+        "word": "jogador",
+        "meaning": "player",
+        "sentence": "O jogador é talentoso."
+      },
+      {
+        "word": "trabalhador",
+        "meaning": "worker",
+        "sentence": "O trabalhador é honesto."
+      },
+      {
+        "word": "condutor",
+        "meaning": "driver",
+        "sentence": "O condutor dirige bem."
+      }
+    ],
+    "relatedRootIds": ["pt_base_fac"],
+    "pronunciationIpa": "/ˈdoɾ/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "dor"
+      }
+    ]
+  },
+  {
+    "id": "pt_suffix_oso",
+    "root": "-oso",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "full of (-ous)",
+    "examples": [
+      {
+        "word": "famoso",
+        "meaning": "famous",
+        "sentence": "Ela é famosa."
+      },
+      {
+        "word": "medroso",
+        "meaning": "fearful",
+        "sentence": "O cachorro é medoso."
+      },
+      {
+        "word": "gostoso",
+        "meaning": "tasty",
+        "sentence": "A comida é gostosa."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_avel"],
+    "pronunciationIpa": "/ˈozu/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "oso"
+      }
+    ]
+  },
+  {
+    "id": "pt_suffix_avel",
+    "root": "-ável",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "able/ible (-able)",
+    "examples": [
+      {
+        "word": "amável",
+        "meaning": "lovable",
+        "sentence": "Ela é amável."
+      },
+      {
+        "word": "lavável",
+        "meaning": "washable",
+        "sentence": "A roupa é lavável."
+      },
+      {
+        "word": "visível",
+        "meaning": "visible",
+        "sentence": "O plano é viável."
+      }
+    ],
+    "relatedRootIds": ["pt_base_vid"],
+    "pronunciationIpa": "/ˈavɛl/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "avel"
+      }
+    ]
+  },
+  {
+    "id": "pt_suffix_mente",
+    "root": "-mente",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "adverb (-ly)",
+    "examples": [
+      {
+        "word": "rapidamente",
+        "meaning": "quickly",
+        "sentence": "Ele fala rapidamente."
+      },
+      {
+        "word": "calmamente",
+        "meaning": "calmly",
+        "sentence": "Ela agiu calmamente."
+      },
+      {
+        "word": "facilmente",
+        "meaning": "easily",
+        "sentence": "Isso é feito facilmente."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_mente"],
+    "pronunciationIpa": "/ˈmẽtɨ/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "mente"
+      }
+    ]
+  },
+  {
+    "id": "pt_suffix_inho",
+    "root": "-inho",
+    "type": "suffix",
+    "languageOrigin": "Portuguese",
+    "meaning": "diminutive; affectionate",
+    "examples": [
+      {
+        "word": "cachorrinho",
+        "meaning": "little dog",
+        "sentence": "O cachorrinho é fofo."
+      },
+      {
+        "word": "mesinha",
+        "meaning": "little table",
+        "sentence": "A mesinha é pequena."
+      },
+      {
+        "word": "florzinha",
+        "meaning": "little flower",
+        "sentence": "A florzinha é delicada."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_ao"],
+    "pronunciationIpa": "/ˈiɲu/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "inho"
+      }
+    ]
+  },
+  {
+    "id": "pt_suffix_ao",
+    "root": "-ão",
+    "type": "suffix",
+    "languageOrigin": "Portuguese",
+    "meaning": "augmentative; large",
+    "examples": [
+      {
+        "word": "carrão",
+        "meaning": "big car",
+        "sentence": "Ele comprou um carrão."
+      },
+      {
+        "word": "homemão",
+        "meaning": "big man",
+        "sentence": "O homemão é forte."
+      },
+      {
+        "word": "portão",
+        "meaning": "big gate",
+        "sentence": "O portão é alto."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_inho"],
+    "pronunciationIpa": "/ˈɐ̃w̃/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ao"
+      }
+    ]
+  },
+  {
+    "id": "pt_suffix_al",
+    "root": "-al",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "relating to (-al)",
+    "examples": [
+      {
+        "word": "nacional",
+        "meaning": "national",
+        "sentence": "É nacional."
+      },
+      {
+        "word": "cultural",
+        "meaning": "cultural",
+        "sentence": "O evento é cultural."
+      },
+      {
+        "word": "natural",
+        "meaning": "natural",
+        "sentence": "A paisagem é natural."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_avel"],
+    "pronunciationIpa": "/ˈaw/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "al"
+      }
+    ]
+  },
+  {
+    "id": "pt_suffix_ista",
+    "root": "-ista",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "specialist; adherent",
+    "examples": [
+      {
+        "word": "pianista",
+        "meaning": "pianist",
+        "sentence": "Ele é pianista."
+      },
+      {
+        "word": "dentista",
+        "meaning": "dentist",
+        "sentence": "A dentista é gentil."
+      },
+      {
+        "word": "artista",
+        "meaning": "artist",
+        "sentence": "Ela é artista."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_dor"],
+    "pronunciationIpa": "/ˈiʃtɐ/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ista"
+      }
+    ]
+  },
+  {
+    "id": "pt_suffix_ar",
+    "root": "-ar",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "verb infinitive",
+    "examples": [
+      {
+        "word": "falar",
+        "meaning": "to speak",
+        "sentence": "Vou falar com ele."
+      },
+      {
+        "word": "cantar",
+        "meaning": "to sing",
+        "sentence": "Ela canta bem."
+      },
+      {
+        "word": "amar",
+        "meaning": "to love",
+        "sentence": "Amar é bom."
+      }
+    ],
+    "relatedRootIds": ["pt_base_am", "pt_base_fac"],
+    "pronunciationIpa": "/ˈaɾ/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ar"
+      }
+    ]
+  },
+  {
+    "id": "pt_suffix_izar",
+    "root": "-izar",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "to make; to become (-ize)",
+    "examples": [
+      {
+        "word": "organizar",
+        "meaning": "to organize",
+        "sentence": "Vou organizar a festa."
+      },
+      {
+        "word": "realizar",
+        "meaning": "to realize; accomplish",
+        "sentence": "Quero realizar meu sonho."
+      },
+      {
+        "word": "modernizar",
+        "meaning": "to modernize",
+        "sentence": "Precisamos modernizar o sistema."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_ar"],
+    "pronunciationIpa": "/iˈzaɾ/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "izar"
+      }
+    ]
+  },
+  {
+    "id": "pt_suffix_agemo",
+    "root": "-agem",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "collective/result noun (-age)",
+    "examples": [
+      {
+        "word": "viagem",
+        "meaning": "trip",
+        "sentence": "A viagem foi longa."
+      },
+      {
+        "word": "paisagem",
+        "meaning": "landscape",
+        "sentence": "A paisagem é linda."
+      },
+      {
+        "word": "bagagem",
+        "meaning": "baggage",
+        "sentence": "Levei muita bagagem."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_mento"],
+    "pronunciationIpa": "/ˈaʒɐ̃j/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "agem"
+      }
+    ]
+  }
+]

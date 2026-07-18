@@ -1,0 +1,258 @@
+[
+  {
+    "id": "ja_prefix_fu",
+    "root": "不",
+    "type": "prefix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "not; un-",
+    "examples": [
+      {
+        "word": "不便",
+        "meaning": "inconvenient",
+        "sentence": "駅から遠くて不便だ。"
+      },
+      {
+        "word": "不可能",
+        "meaning": "impossible",
+        "sentence": "それは不可能だ。"
+      },
+      {
+        "word": "不自由",
+        "meaning": "discomfort; disabled",
+        "sentence": "足が不自由だ。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/fu/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "fu"
+      }
+    ]
+  },
+  {
+    "id": "ja_prefix_hi",
+    "root": "非",
+    "type": "prefix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "non-",
+    "examples": [
+      {
+        "word": "非常",
+        "meaning": "emergency; abnormal",
+        "sentence": "非常口はあちらだ。"
+      },
+      {
+        "word": "非公開",
+        "meaning": "non-public",
+        "sentence": "この資料は非公開だ。"
+      },
+      {
+        "word": "非公式",
+        "meaning": "unofficial",
+        "sentence": "それは非公式の発表だ。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/hi/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "hi"
+      }
+    ]
+  },
+  {
+    "id": "ja_prefix_mu",
+    "root": "無",
+    "type": "prefix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "without; -less",
+    "examples": [
+      {
+        "word": "無料",
+        "meaning": "free of charge",
+        "sentence": "入場は無料だ。"
+      },
+      {
+        "word": "無数",
+        "meaning": "countless",
+        "sentence": "無数の星が見える。"
+      },
+      {
+        "word": "無関心",
+        "meaning": "indifferent",
+        "sentence": "彼は無関心だ。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/mu/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "mu"
+      }
+    ]
+  },
+  {
+    "id": "ja_prefix_mi",
+    "root": "未",
+    "type": "prefix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "not yet",
+    "examples": [
+      {
+        "word": "未来",
+        "meaning": "future",
+        "sentence": "未来を信じる。"
+      },
+      {
+        "word": "未成年",
+        "meaning": "minor",
+        "sentence": "彼は未成年だ。"
+      },
+      {
+        "word": "未使用",
+        "meaning": "unused",
+        "sentence": "この切符は未使用だ。"
+      }
+    ],
+    "relatedRootIds": ["ja_base_rai"],
+    "pronunciationIpa": "/mi/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "mi"
+      }
+    ]
+  },
+  {
+    "id": "ja_prefix_sai",
+    "root": "再",
+    "type": "prefix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "re-; again",
+    "examples": [
+      {
+        "word": "再開",
+        "meaning": "reopening",
+        "sentence": "学校は来月再開する。"
+      },
+      {
+        "word": "再利用",
+        "meaning": "reuse",
+        "sentence": "紙を再利用する。"
+      },
+      {
+        "word": "再会",
+        "meaning": "reunion",
+        "sentence": "旧友と再会した。"
+      }
+    ],
+    "relatedRootIds": ["ja_base_rai"],
+    "pronunciationIpa": "/sai/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "sai"
+      }
+    ]
+  },
+  {
+    "id": "ja_prefix_cho",
+    "root": "超",
+    "type": "prefix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "super; hyper",
+    "examples": [
+      {
+        "word": "超音速",
+        "meaning": "supersonic",
+        "sentence": "飛行機は超音速で飛ぶ。"
+      },
+      {
+        "word": "超大作",
+        "meaning": "blockbuster",
+        "sentence": "この映画は超大作だ。"
+      },
+      {
+        "word": "超自然",
+        "meaning": "supernatural",
+        "sentence": "超自然な現象だ。"
+      }
+    ],
+    "relatedRootIds": ["ja_base_saku"],
+    "pronunciationIpa": "/tɕoː/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "chou"
+      }
+    ]
+  },
+  {
+    "id": "ja_prefix_han",
+    "root": "反",
+    "type": "prefix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "anti; counter",
+    "examples": [
+      {
+        "word": "反対",
+        "meaning": "opposition",
+        "sentence": "私は反対だ。"
+      },
+      {
+        "word": "反応",
+        "meaning": "reaction",
+        "sentence": "反応が遅い。"
+      },
+      {
+        "word": "反抗",
+        "meaning": "resistance",
+        "sentence": "子供が反抗期だ。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/haɴ/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "han"
+      }
+    ]
+  },
+  {
+    "id": "ja_prefix_o",
+    "root": "お",
+    "type": "prefix",
+    "languageOrigin": "Japanese",
+    "meaning": "honorific",
+    "examples": [
+      {
+        "word": "お茶",
+        "meaning": "tea",
+        "sentence": "お茶をどうぞ。"
+      },
+      {
+        "word": "お金",
+        "meaning": "money",
+        "sentence": "お金を忘れた。"
+      },
+      {
+        "word": "お仕事",
+        "meaning": "work (polite)",
+        "sentence": "お仕事お疲れ様。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/o/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "o"
+      }
+    ]
+  }
+]

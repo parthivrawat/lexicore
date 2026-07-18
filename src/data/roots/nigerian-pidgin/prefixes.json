@@ -1,0 +1,194 @@
+[
+  {
+    "id": "pcm_prefix_un",
+    "root": "un-",
+    "type": "prefix",
+    "languageOrigin": "English",
+    "meaning": "not",
+    "examples": [
+      {
+        "word": "unhappy",
+        "meaning": "not happy",
+        "sentence": "E dey unhappy today."
+      },
+      {
+        "word": "unkind",
+        "meaning": "not kind",
+        "sentence": "No be unkind person."
+      },
+      {
+        "word": "unfair",
+        "meaning": "not fair",
+        "sentence": "Dat one no fair at all."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ʌn/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "un"
+      }
+    ]
+  },
+  {
+    "id": "pcm_prefix_re",
+    "root": "re-",
+    "type": "prefix",
+    "languageOrigin": "English",
+    "meaning": "again",
+    "examples": [
+      {
+        "word": "replay",
+        "meaning": "play again",
+        "sentence": "Make we replay di song."
+      },
+      {
+        "word": "return",
+        "meaning": "come back",
+        "sentence": "E go return tomorrow."
+      },
+      {
+        "word": "repeat",
+        "meaning": "say/do again",
+        "sentence": "Abeg repeat am."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ɹi/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "re"
+      }
+    ]
+  },
+  {
+    "id": "pcm_prefix_dis",
+    "root": "dis-",
+    "type": "prefix",
+    "languageOrigin": "English",
+    "meaning": "not; opposite",
+    "examples": [
+      {
+        "word": "dislike",
+        "meaning": "not like",
+        "sentence": "I dislike dat kind food."
+      },
+      {
+        "word": "disagree",
+        "meaning": "not agree",
+        "sentence": "We disagree on dat matter."
+      },
+      {
+        "word": "disappear",
+        "meaning": "vanish",
+        "sentence": "Di money just disappear."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/dɪs/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "dis"
+      }
+    ]
+  },
+  {
+    "id": "pcm_prefix_over",
+    "root": "over-",
+    "type": "prefix",
+    "languageOrigin": "English",
+    "meaning": "too much; above",
+    "examples": [
+      {
+        "word": "overdo",
+        "meaning": "do too much",
+        "sentence": "No overdo am."
+      },
+      {
+        "word": "overtake",
+        "meaning": "pass by vehicle",
+        "sentence": "Motor overtake us for road."
+      },
+      {
+        "word": "overlook",
+        "meaning": "miss; ignore",
+        "sentence": "I overlook dat part."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ˈoʊvə/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "over"
+      }
+    ]
+  },
+  {
+    "id": "pcm_prefix_under",
+    "root": "under-",
+    "type": "prefix",
+    "languageOrigin": "English",
+    "meaning": "below; undergo",
+    "examples": [
+      {
+        "word": "understand",
+        "meaning": "comprehend",
+        "sentence": "I no understand am."
+      },
+      {
+        "word": "undergo",
+        "meaning": "experience",
+        "sentence": "E undergo surgery last week."
+      },
+      {
+        "word": "undertake",
+        "meaning": "take on",
+        "sentence": "We undertake di work together."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ˈʊndə/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "under"
+      }
+    ]
+  },
+  {
+    "id": "pcm_prefix_mis",
+    "root": "mis-",
+    "type": "prefix",
+    "languageOrigin": "English",
+    "meaning": "wrong; badly",
+    "examples": [
+      {
+        "word": "misunderstand",
+        "meaning": "understand wrongly",
+        "sentence": "No misunderstand me."
+      },
+      {
+        "word": "misplace",
+        "meaning": "lose temporarily",
+        "sentence": "I misplace my key."
+      },
+      {
+        "word": "misuse",
+        "meaning": "use wrongly",
+        "sentence": "Dem misuse power well well."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/mɪs/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "mis"
+      }
+    ]
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "id": "zh_suffix_zi",
+    "root": "子",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "noun suffix; rhythmic suffix",
+    "examples": [
+      {
+        "word": "桌子",
+        "meaning": "table",
+        "sentence": "桌子上有书。"
+      },
+      {
+        "word": "椅子",
+        "meaning": "chair",
+        "sentence": "请坐这把椅子。"
+      },
+      {
+        "word": "孩子",
+        "meaning": "child",
+        "sentence": "孩子们在公园玩。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_mu_wood"],
+    "pronunciationIpa": "/tsɹ̩/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "zi"
+      }
+    ]
+  },
+  {
+    "id": "zh_suffix_men",
+    "root": "们",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "plural marker for people",
+    "examples": [
+      {
+        "word": "我们",
+        "meaning": "we",
+        "sentence": "我们一起去。"
+      },
+      {
+        "word": "学生们",
+        "meaning": "students",
+        "sentence": "学生们很聪明。"
+      },
+      {
+        "word": "朋友们",
+        "meaning": "friends",
+        "sentence": "朋友们都来了。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_ren"],
+    "pronunciationIpa": "/mən/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "men"
+      }
+    ]
+  },
+  {
+    "id": "zh_suffix_jia",
+    "root": "家",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "specialist; expert; -ist",
+    "examples": [
+      {
+        "word": "科学家",
+        "meaning": "scientist",
+        "sentence": "他是一位科学家。"
+      },
+      {
+        "word": "艺术家",
+        "meaning": "artist",
+        "sentence": "这位艺术家很有名。"
+      },
+      {
+        "word": "作家",
+        "meaning": "writer",
+        "sentence": "她是一位著名作家。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_xue"],
+    "pronunciationIpa": "/tɕiä⁵⁵/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "jia1"
+      }
+    ]
+  },
+  {
+    "id": "zh_suffix_zhe",
+    "root": "者",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "person who does; -er/-ist",
+    "examples": [
+      {
+        "word": "作者",
+        "meaning": "author",
+        "sentence": "这本书的作者是谁？"
+      },
+      {
+        "word": "读者",
+        "meaning": "reader",
+        "sentence": "读者很喜欢这个故事。"
+      },
+      {
+        "word": "记者",
+        "meaning": "reporter",
+        "sentence": "记者问了很多问题。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_ren"],
+    "pronunciationIpa": "/ʈʂɤ²¹⁴/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "zhe3"
+      }
+    ]
+  },
+  {
+    "id": "zh_suffix_xing",
+    "root": "性",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "-ness; -ity; abstract quality",
+    "examples": [
+      {
+        "word": "可能性",
+        "meaning": "possibility",
+        "sentence": "这是有可能性的。"
+      },
+      {
+        "word": "安全性",
+        "meaning": "safety",
+        "sentence": "安全性很重要。"
+      },
+      {
+        "word": "重要性",
+        "meaning": "importance",
+        "sentence": "这个问题的重要性不容忽视。"
+      }
+    ],
+    "relatedRootIds": ["zh_suffix_hua"],
+    "pronunciationIpa": "/ɕiŋ⁵¹/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "xing4"
+      }
+    ]
+  },
+  {
+    "id": "zh_suffix_hua",
+    "root": "化",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "-ize; -ify; to transform",
+    "examples": [
+      {
+        "word": "现代化",
+        "meaning": "modernization",
+        "sentence": "城市正在现代化。"
+      },
+      {
+        "word": "数字化",
+        "meaning": "digitization",
+        "sentence": "资料已经数字化了。"
+      },
+      {
+        "word": "变化",
+        "meaning": "change",
+        "sentence": "天气有很大的变化。"
+      }
+    ],
+    "relatedRootIds": ["zh_suffix_xing"],
+    "pronunciationIpa": "/xuä⁵¹/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "hua4"
+      }
+    ]
+  },
+  {
+    "id": "zh_suffix_tou",
+    "root": "头",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "noun suffix",
+    "examples": [
+      {
+        "word": "木头",
+        "meaning": "wood",
+        "sentence": "这是木头做的。"
+      },
+      {
+        "word": "舌头",
+        "meaning": "tongue",
+        "sentence": "我咬到了舌头。"
+      },
+      {
+        "word": "石头",
+        "meaning": "stone",
+        "sentence": "路上有一块石头。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_mu_wood"],
+    "pronunciationIpa": "/tʰoʊ̯/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tou"
+      }
+    ]
+  },
+  {
+    "id": "zh_suffix_yuan",
+    "root": "员",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "member; staff; personnel",
+    "examples": [
+      {
+        "word": "运动员",
+        "meaning": "athlete",
+        "sentence": "他是一名优秀的运动员。"
+      },
+      {
+        "word": "服务员",
+        "meaning": "waiter/waitress",
+        "sentence": "服务员来了。"
+      },
+      {
+        "word": "店员",
+        "meaning": "shop assistant",
+        "sentence": "店员帮我找到了书。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_ren"],
+    "pronunciationIpa": "/ɥɛn³⁵/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "yuan2"
+      }
+    ]
+  },
+  {
+    "id": "zh_suffix_du",
+    "root": "度",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "degree; extent; -ness",
+    "examples": [
+      {
+        "word": "高度",
+        "meaning": "height",
+        "sentence": "这座山的高度是三千米。"
+      },
+      {
+        "word": "速度",
+        "meaning": "speed",
+        "sentence": "车的速度太快了。"
+      },
+      {
+        "word": "难度",
+        "meaning": "difficulty",
+        "sentence": "这个问题的难度很高。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_da"],
+    "pronunciationIpa": "/tu⁵¹/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "du4"
+      }
+    ]
+  },
+  {
+    "id": "zh_suffix_xue",
+    "root": "学",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "study; -ology; learning",
+    "examples": [
+      {
+        "word": "数学",
+        "meaning": "mathematics",
+        "sentence": "我喜欢数学。"
+      },
+      {
+        "word": "化学",
+        "meaning": "chemistry",
+        "sentence": "化学是一门有趣的学科。"
+      },
+      {
+        "word": "生物学",
+        "meaning": "biology",
+        "sentence": "生物学研究生命。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_xue"],
+    "pronunciationIpa": "/ɕɥɛ³⁵/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "xue2"
+      }
+    ]
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "id": "hi_suffix_ta",
+    "root": "ता",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "-ness; -ity; state of being",
+    "examples": [
+      {
+        "word": "मानवता",
+        "meaning": "humanity",
+        "sentence": "मानवता सबसे बड़ा धर्म है।"
+      },
+      {
+        "word": "लघुता",
+        "meaning": "smallness",
+        "sentence": "लघुता में भी गरिमा होती है।"
+      },
+      {
+        "word": "गुरुता",
+        "meaning": "heaviness; importance",
+        "sentence": "इस मुद्दे की गुरुता है।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_tva"],
+    "pronunciationIpa": "/taː/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ta"
+      }
+    ]
+  },
+  {
+    "id": "hi_suffix_tva",
+    "root": "त्व",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "-ness; -ity",
+    "examples": [
+      {
+        "word": "महत्व",
+        "meaning": "importance",
+        "sentence": "समय का महत्व समझें।"
+      },
+      {
+        "word": "लघुत्व",
+        "meaning": "smallness",
+        "sentence": "लघुत्व को महत्व दें।"
+      },
+      {
+        "word": "आत्मत्व",
+        "meaning": "selfhood",
+        "sentence": "आत्मत्व की अनुभूति हुई।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_ta"],
+    "pronunciationIpa": "/tʋə/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "tva"
+      }
+    ]
+  },
+  {
+    "id": "hi_suffix_pan",
+    "root": "पन",
+    "type": "suffix",
+    "languageOrigin": "Hindi",
+    "meaning": "-ness; -hood; state",
+    "examples": [
+      {
+        "word": "बचपन",
+        "meaning": "childhood",
+        "sentence": "बचपन के दिन याद आते हैं।"
+      },
+      {
+        "word": "बुरापन",
+        "meaning": "badness",
+        "sentence": "उसके व्यवहार में बुरापन है।"
+      },
+      {
+        "word": "अच्छापन",
+        "meaning": "goodness",
+        "sentence": "उसमें असली अच्छापन है।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_ta"],
+    "pronunciationIpa": "/pən/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "pan"
+      }
+    ]
+  },
+  {
+    "id": "hi_suffix_wala",
+    "root": "वाला",
+    "type": "suffix",
+    "languageOrigin": "Hindi",
+    "meaning": "one who does/possesses; -er",
+    "examples": [
+      {
+        "word": "सब्जीवाला",
+        "meaning": "vegetable seller",
+        "sentence": "सब्जीवाला आ गया।"
+      },
+      {
+        "word": "घरवाला",
+        "meaning": "house owner",
+        "sentence": "घरवाला कौन है?"
+      },
+      {
+        "word": "फलवाला",
+        "meaning": "fruit seller",
+        "sentence": "फलवाले से सेब खरीदे।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_kar"],
+    "pronunciationIpa": "/ʋaːlaː/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "wala"
+      }
+    ]
+  },
+  {
+    "id": "hi_suffix_kar",
+    "root": "कार",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "doer; maker; -er",
+    "examples": [
+      {
+        "word": "कलाकार",
+        "meaning": "artist",
+        "sentence": "कलाकार ने सुंदर चित्र बनाया।"
+      },
+      {
+        "word": "कथाकार",
+        "meaning": "story writer",
+        "sentence": "वह प्रसिद्ध कथाकार हैं।"
+      },
+      {
+        "word": "पत्रकार",
+        "meaning": "journalist",
+        "sentence": "पत्रकार सच्चाई दिखाता है।"
+      }
+    ],
+    "relatedRootIds": ["hi_base_kr"],
+    "pronunciationIpa": "/kaːr/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "kar"
+      }
+    ]
+  },
+  {
+    "id": "hi_suffix_dar",
+    "root": "दार",
+    "type": "suffix",
+    "languageOrigin": "Hindi",
+    "meaning": "possessor; holder; -ful",
+    "examples": [
+      {
+        "word": "समझदार",
+        "meaning": "sensible",
+        "sentence": "वह बहुत समझदार है।"
+      },
+      {
+        "word": "मालदार",
+        "meaning": "wealthy",
+        "sentence": "वह मालदार व्यक्ति है।"
+      },
+      {
+        "word": "कर्जदार",
+        "meaning": "debtor",
+        "sentence": "कर्जदार परेशान है।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_wala"],
+    "pronunciationIpa": "/daːr/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "dar"
+      }
+    ]
+  },
+  {
+    "id": "hi_suffix_har",
+    "root": "हार",
+    "type": "suffix",
+    "languageOrigin": "Hindi",
+    "meaning": "doer; one who",
+    "examples": [
+      {
+        "word": "होनहार",
+        "meaning": "promising",
+        "sentence": "वह होनहार छात्र है।"
+      },
+      {
+        "word": "रखनहार",
+        "meaning": "keeper",
+        "sentence": "रखनहार ज़िम्मेदार है।"
+      },
+      {
+        "word": "लिखनहार",
+        "meaning": "writer",
+        "sentence": "लिखनहार ने कहानी लिखी।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_wala"],
+    "pronunciationIpa": "/haːr/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "har"
+      }
+    ]
+  },
+  {
+    "id": "hi_suffix_ik",
+    "root": "इक",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "relating to; -ic; -al",
+    "examples": [
+      {
+        "word": "भारतीय",
+        "meaning": "Indian",
+        "sentence": "भारतीय संस्कृति प्राचीन है।"
+      },
+      {
+        "word": "वैज्ञानिक",
+        "meaning": "scientific; scientist",
+        "sentence": "वह वैज्ञानिक है।"
+      },
+      {
+        "word": "धार्मिक",
+        "meaning": "religious",
+        "sentence": "वह धार्मिक व्यक्ति है।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_ta"],
+    "pronunciationIpa": "/ik/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ik"
+      }
+    ]
+  },
+  {
+    "id": "hi_suffix_niya",
+    "root": "नीय",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "-able; worthy of",
+    "examples": [
+      {
+        "word": "पठनीय",
+        "meaning": "readable",
+        "sentence": "यह पुस्तक पठनीय है।"
+      },
+      {
+        "word": "स्मरणीय",
+        "meaning": "memorable",
+        "sentence": "वह पल स्मरणीय रहेगा।"
+      },
+      {
+        "word": "निंदनीय",
+        "meaning": "blameworthy",
+        "sentence": "उसका काम निंदनीय था।"
+      }
+    ],
+    "relatedRootIds": ["hi_base_path"],
+    "pronunciationIpa": "/niːjə/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "niya"
+      }
+    ]
+  },
+  {
+    "id": "hi_suffix_an",
+    "root": "अन",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "action noun; -tion",
+    "examples": [
+      {
+        "word": "दान",
+        "meaning": "donation",
+        "sentence": "दान महान पुण्य है।"
+      },
+      {
+        "word": "गमन",
+        "meaning": "departure",
+        "sentence": "उसके गमन को कोई नहीं रोक सका।"
+      },
+      {
+        "word": "बंधन",
+        "meaning": "bond",
+        "sentence": "बंधन मुक्ति की पहचान है।"
+      }
+    ],
+    "relatedRootIds": ["hi_base_da", "hi_base_gam"],
+    "pronunciationIpa": "/ən/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "an"
+      }
+    ]
+  },
+  {
+    "id": "hi_suffix_ai",
+    "root": "आई",
+    "type": "suffix",
+    "languageOrigin": "Hindi",
+    "meaning": "-ness; state",
+    "examples": [
+      {
+        "word": "चतुराई",
+        "meaning": "cleverness",
+        "sentence": "उसकी चतुराई ने काम बना दिया।"
+      },
+      {
+        "word": "बुराई",
+        "meaning": "badness",
+        "sentence": "बुराई से दूर रहो।"
+      },
+      {
+        "word": "भलाई",
+        "meaning": "goodness",
+        "sentence": "भलाई का रास्ता अपनाओ।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_pan"],
+    "pronunciationIpa": "/aːi/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ai"
+      }
+    ]
+  },
+  {
+    "id": "hi_suffix_apa",
+    "root": "आपा",
+    "type": "suffix",
+    "languageOrigin": "Hindi",
+    "meaning": "state of being; -ness",
+    "examples": [
+      {
+        "word": "बुढ़ापा",
+        "meaning": "old age",
+        "sentence": "बुढ़ापा जीवन का एक चरण है।"
+      },
+      {
+        "word": "मोटापा",
+        "meaning": "fatness",
+        "sentence": "मोटापा सेहत के लिए हानिकारक हो सकता है।"
+      },
+      {
+        "word": "लड़कपन",
+        "meaning": "boyhood",
+        "sentence": "लड़कपन में सब कुछ खेल लगता है।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_pan"],
+    "pronunciationIpa": "/aːpaː/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "apa"
+      }
+    ]
+  },
+  {
+    "id": "hi_suffix_alu",
+    "root": "आलु",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "full of; prone to",
+    "examples": [
+      {
+        "word": "दयालु",
+        "meaning": "kind",
+        "sentence": "वह दयालु इंसान है।"
+      },
+      {
+        "word": "झगड़ालु",
+        "meaning": "quarrelsome",
+        "sentence": "झगड़ालु लोगों से बचें।"
+      },
+      {
+        "word": "कृपालु",
+        "meaning": "merciful",
+        "sentence": "भगवान कृपालु हैं।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_ik"],
+    "pronunciationIpa": "/aːlu/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "alu"
+      }
+    ]
+  },
+  {
+    "id": "hi_suffix_i",
+    "root": "ई",
+    "type": "suffix",
+    "languageOrigin": "Hindi",
+    "meaning": "having; relating to",
+    "examples": [
+      {
+        "word": "धनी",
+        "meaning": "rich",
+        "sentence": "वह धनी आदमी है।"
+      },
+      {
+        "word": "लोभी",
+        "meaning": "greedy",
+        "sentence": "लोभी व्यक्ति कभी संतुष्ट नहीं होता।"
+      },
+      {
+        "word": "जंगली",
+        "meaning": "wild",
+        "sentence": "जंगली जानवर जंगल में रहते हैं।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_ik"],
+    "pronunciationIpa": "/iː/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "i"
+      }
+    ]
+  }
+]

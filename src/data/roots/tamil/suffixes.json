@@ -1,0 +1,226 @@
+[
+  {
+    "id": "ta_suffix_tanam",
+    "root": "தனம்",
+    "type": "suffix",
+    "languageOrigin": "Dravidian",
+    "meaning": "-ness; quality",
+    "examples": [
+      {
+        "word": "மானுடத்தனம்",
+        "meaning": "humanity",
+        "sentence": "மானுடத்தனம் முக்கியம்."
+      },
+      {
+        "word": "நல்லத்தனம்",
+        "meaning": "goodness",
+        "sentence": "அவனது நல்லத்தனம் பாராட்டப்படுகிறது."
+      },
+      {
+        "word": "குழந்தைத்தனம்",
+        "meaning": "childishness",
+        "sentence": "குழந்தைத்தனத்தை விடு."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/tanam/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "tanam"
+      }
+    ]
+  },
+  {
+    "id": "ta_suffix_karar",
+    "root": "காரர்",
+    "type": "suffix",
+    "languageOrigin": "Dravidian",
+    "meaning": "doer; person; honorific",
+    "examples": [
+      {
+        "word": "எழுத்தாளர்",
+        "meaning": "writer",
+        "sentence": "அவர் பிரபல எழுத்தாளர்."
+      },
+      {
+        "word": "ஆசிரியர்",
+        "meaning": "teacher",
+        "sentence": "ஆசிரியர் வந்தார்."
+      },
+      {
+        "word": "வாசகர்",
+        "meaning": "reader",
+        "sentence": "வாசகர் கடிதம் எழுதினார்."
+      }
+    ],
+    "relatedRootIds": ["ta_base_elutu"],
+    "pronunciationIpa": "/kaːɾaɾ/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "kaarar"
+      }
+    ]
+  },
+  {
+    "id": "ta_suffix_pavan",
+    "root": "பவன்",
+    "type": "suffix",
+    "languageOrigin": "Dravidian",
+    "meaning": "one who does (male)",
+    "examples": [
+      {
+        "word": "செய்பவன்",
+        "meaning": "doer",
+        "sentence": "அவன் நல்ல செய்பவன்."
+      },
+      {
+        "word": "படிப்பவன்",
+        "meaning": "reader",
+        "sentence": "அவன் படிப்பவன்."
+      },
+      {
+        "word": "பேசுபவன்",
+        "meaning": "speaker",
+        "sentence": "அவன் நல்ல பேசுபவன்."
+      }
+    ],
+    "relatedRootIds": ["ta_base_cey", "ta_base_padi", "ta_base_col"],
+    "pronunciationIpa": "/paʋan/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "pavan"
+      }
+    ]
+  },
+  {
+    "id": "ta_suffix_illata",
+    "root": "இல்லாத",
+    "type": "suffix",
+    "languageOrigin": "Dravidian",
+    "meaning": "without; -less",
+    "examples": [
+      {
+        "word": "இன்பமில்லாத",
+        "meaning": "without happiness",
+        "sentence": "இன்பமில்லாத வாழ்க்கை."
+      },
+      {
+        "word": "பணமில்லாத",
+        "meaning": "without money",
+        "sentence": "பணமில்லாதவன்."
+      },
+      {
+        "word": "அறிவில்லாத",
+        "meaning": "without knowledge",
+        "sentence": "அறிவில்லாத செயல்."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/iɭɭaːta/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "illata"
+      }
+    ]
+  },
+  {
+    "id": "ta_suffix_ulla",
+    "root": "உள்ள",
+    "type": "suffix",
+    "languageOrigin": "Dravidian",
+    "meaning": "having; with",
+    "examples": [
+      {
+        "word": "அறிவுள்ள",
+        "meaning": "knowledgeable",
+        "sentence": "அறிவுள்ள மனிதன்."
+      },
+      {
+        "word": "பணமுள்ள",
+        "meaning": "having money",
+        "sentence": "பணமுள்ளவன்."
+      },
+      {
+        "word": "பலமுள்ள",
+        "meaning": "strong",
+        "sentence": "பலமுள்ள கை."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/uɭɭa/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "ulla"
+      }
+    ]
+  },
+  {
+    "id": "ta_suffix_al",
+    "root": "அல்",
+    "type": "suffix",
+    "languageOrigin": "Dravidian",
+    "meaning": "negative",
+    "examples": [
+      {
+        "word": "செய்யாதே",
+        "meaning": "do not",
+        "sentence": "செய்யாதே, தயவு செய்து."
+      },
+      {
+        "word": "படிக்காதே",
+        "meaning": "do not read",
+        "sentence": "இப்போது படிக்காதே."
+      },
+      {
+        "word": "வராதே",
+        "meaning": "do not come",
+        "sentence": "அங்கே வராதே."
+      }
+    ],
+    "relatedRootIds": ["ta_base_cey", "ta_base_padi", "ta_base_vaa"],
+    "pronunciationIpa": "/al/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "al"
+      }
+    ]
+  },
+  {
+    "id": "ta_suffix_um",
+    "root": "உம்",
+    "type": "suffix",
+    "languageOrigin": "Dravidian",
+    "meaning": "also; and",
+    "examples": [
+      {
+        "word": "நானும்",
+        "meaning": "I too",
+        "sentence": "நானும் வருகிறேன்."
+      },
+      {
+        "word": "அவனும்",
+        "meaning": "he too",
+        "sentence": "அவனும் படிக்கிறான்."
+      },
+      {
+        "word": "இதுவும்",
+        "meaning": "this too",
+        "sentence": "இதுவும் சரி."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/um/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "um"
+      }
+    ]
+  }
+]

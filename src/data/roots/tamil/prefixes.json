@@ -1,0 +1,258 @@
+[
+  {
+    "id": "ta_prefix_a",
+    "root": "அ",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "not; without",
+    "examples": [
+      {
+        "word": "அசுரக்ஷித",
+        "meaning": "unsafe",
+        "sentence": "இந்த இடம் அசுரக்ஷிதம்."
+      },
+      {
+        "word": "அஞ்ஞானம்",
+        "meaning": "ignorance",
+        "sentence": "அஞ்ஞானம் இருள்."
+      },
+      {
+        "word": "அசக்த",
+        "meaning": "weak",
+        "sentence": "அவன் அசக்தன்."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/a/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "a"
+      }
+    ]
+  },
+  {
+    "id": "ta_prefix_ana",
+    "root": "அன",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "not; un-",
+    "examples": [
+      {
+        "word": "அனாவசிய",
+        "meaning": "unnecessary",
+        "sentence": "இது அனாவசியம்."
+      },
+      {
+        "word": "அனிஷ்ட",
+        "meaning": "bad",
+        "sentence": "அனிஷ்ட பழக்கத்தை விடு."
+      },
+      {
+        "word": "அனியமித",
+        "meaning": "irregular",
+        "sentence": "அவனது வாழ்க்கை அனியமிதம்."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ana/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "ana"
+      }
+    ]
+  },
+  {
+    "id": "ta_prefix_dura",
+    "root": "துர",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "bad; difficult",
+    "examples": [
+      {
+        "word": "துஃக்கம்",
+        "meaning": "sorrow",
+        "sentence": "துஃக்கம் எல்லோருக்கும் வரும்."
+      },
+      {
+        "word": "துர்பாக்கியம்",
+        "meaning": "bad luck",
+        "sentence": "துர்பாக்கியத்தால் அவன் தோல்வியடைந்தான்."
+      },
+      {
+        "word": "துர்வியசனம்",
+        "meaning": "addiction",
+        "sentence": "துர்வியசனத்தை விடுவது கடினம்."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/duɾa/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "dura"
+      }
+    ]
+  },
+  {
+    "id": "ta_prefix_su",
+    "root": "சு",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "good; well",
+    "examples": [
+      {
+        "word": "சுகம்",
+        "meaning": "happiness",
+        "sentence": "சுகம் வாழ்க்கையில் முக்கியம்."
+      },
+      {
+        "word": "சுலபம்",
+        "meaning": "easy",
+        "sentence": "இந்த புத்தகம் சுலபம்."
+      },
+      {
+        "word": "சுந்தர",
+        "meaning": "beautiful",
+        "sentence": "மலர் மிக சுந்தரமாக உள்ளது."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/su/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "su"
+      }
+    ]
+  },
+  {
+    "id": "ta_prefix_pra",
+    "root": "ப்ர",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "forth; very",
+    "examples": [
+      {
+        "word": "ப்ரகதி",
+        "meaning": "progress",
+        "sentence": "நாடு ப்ரகதி அடைகிறது."
+      },
+      {
+        "word": "ப்ரகாசம்",
+        "meaning": "light",
+        "sentence": "சூரிய ப்ரகாசம் ஆரோக்கியமானது."
+      },
+      {
+        "word": "ப்ரசண்ட",
+        "meaning": "intense",
+        "sentence": "அவனது ஆர்வம் ப்ரசண்டமானது."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/pɾa/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "pra"
+      }
+    ]
+  },
+  {
+    "id": "ta_prefix_pari",
+    "root": "பரி",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "around; completely",
+    "examples": [
+      {
+        "word": "பரிவர்த்தனை",
+        "meaning": "change",
+        "sentence": "வாழ்க்கையில் பரிவர்த்தனை அவசியம்."
+      },
+      {
+        "word": "பரிமாணம்",
+        "meaning": "quantity",
+        "sentence": "பரிமாணம் அதிகம்."
+      },
+      {
+        "word": "பரிசரம்",
+        "meaning": "surroundings",
+        "sentence": "பரிசரத்தை சுத்தமாக வைத்திரு."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/paɾi/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "pari"
+      }
+    ]
+  },
+  {
+    "id": "ta_prefix_ati",
+    "root": "அதி",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "excess; too much",
+    "examples": [
+      {
+        "word": "அத்யந்த",
+        "meaning": "very much",
+        "sentence": "இந்த நிகழ்வு அத்யந்த முக்கியமானது."
+      },
+      {
+        "word": "அதிதி",
+        "meaning": "guest",
+        "sentence": "அதிதி தேவோ பவ."
+      },
+      {
+        "word": "அதிசயோக்தி",
+        "meaning": "exaggeration",
+        "sentence": "அவனது அதிசயோக்தியை கேட்காதே."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ati/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "ati"
+      }
+    ]
+  },
+  {
+    "id": "ta_prefix_vi",
+    "root": "வி",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "apart; opposite",
+    "examples": [
+      {
+        "word": "விதேசம்",
+        "meaning": "foreign country",
+        "sentence": "அவன் விதேசத்தில் வசிக்கிறான்."
+      },
+      {
+        "word": "விஞ்ஞானம்",
+        "meaning": "science",
+        "sentence": "விஞ்ஞானம் உலகை மாற்றுகிறது."
+      },
+      {
+        "word": "விபல",
+        "meaning": "failed",
+        "sentence": "அவனது முயற்சி விபலமானது."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ʋi/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "vi"
+      }
+    ]
+  }
+]

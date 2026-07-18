@@ -1,0 +1,354 @@
+[
+  {
+    "id": "ur_suffix_dar",
+    "root": "دار",
+    "type": "suffix",
+    "languageOrigin": "Persian",
+    "meaning": "holder; possessor",
+    "examples": [
+      {
+        "word": "زمیندار",
+        "meaning": "landowner",
+        "sentence": "وہ زمیندار ہے۔"
+      },
+      {
+        "word": "دکاندار",
+        "meaning": "shopkeeper",
+        "sentence": "دکاندار اچھا آدمی ہے۔"
+      },
+      {
+        "word": "ایماندار",
+        "meaning": "honest",
+        "sentence": "وہ ایماندار ہے۔"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/daːr/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "dar"
+      }
+    ]
+  },
+  {
+    "id": "ur_suffix_nak",
+    "root": "ناک",
+    "type": "suffix",
+    "languageOrigin": "Persian",
+    "meaning": "full of",
+    "examples": [
+      {
+        "word": "خطرناک",
+        "meaning": "dangerous",
+        "sentence": "یہ کام خطرناک ہے۔"
+      },
+      {
+        "word": "دردناک",
+        "meaning": "painful",
+        "sentence": "یہ زخم دردناک ہے۔"
+      },
+      {
+        "word": "خوفناک",
+        "meaning": "frightful",
+        "sentence": "یہ خوفناک منظر ہے۔"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/naːk/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "nak"
+      }
+    ]
+  },
+  {
+    "id": "ur_suffix_gah",
+    "root": "گاہ",
+    "type": "suffix",
+    "languageOrigin": "Persian",
+    "meaning": "place",
+    "examples": [
+      {
+        "word": "عبادتگاہ",
+        "meaning": "place of worship",
+        "sentence": "عبادتگاہ صاف ہے۔"
+      },
+      {
+        "word": "آرامگاہ",
+        "meaning": "resting place",
+        "sentence": "آرامگاہ خوشگوار ہے۔"
+      },
+      {
+        "word": "درگاہ",
+        "meaning": "shrine",
+        "sentence": "یہ درگاہ مشہور ہے۔"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/gaːh/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "gah"
+      }
+    ]
+  },
+  {
+    "id": "ur_suffix_gar",
+    "root": "گر",
+    "type": "suffix",
+    "languageOrigin": "Persian",
+    "meaning": "doer",
+    "examples": [
+      {
+        "word": "جادوگر",
+        "meaning": "magician",
+        "sentence": "جادوگر نے کرشمہ دکھایا۔"
+      },
+      {
+        "word": "ہنرگر",
+        "meaning": "artisan",
+        "sentence": "یہ ہنرگر ماہر ہے۔"
+      },
+      {
+        "word": "کارگر",
+        "meaning": "effective; worker",
+        "sentence": "یہ دوا کارگر ہے۔"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/gar/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "gar"
+      }
+    ]
+  },
+  {
+    "id": "ur_suffix_i",
+    "root": "ی",
+    "type": "suffix",
+    "languageOrigin": "Persian",
+    "meaning": "abstract noun; adjective",
+    "examples": [
+      {
+        "word": "خوبصورتی",
+        "meaning": "beauty",
+        "sentence": "اس کی خوبصورتی عظیم ہے۔"
+      },
+      {
+        "word": "زندگی",
+        "meaning": "life",
+        "sentence": "زندگی پیاری ہے۔"
+      },
+      {
+        "word": "عربی",
+        "meaning": "Arabic",
+        "sentence": "وہ عربی بولتا ہے۔"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/iː/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "i"
+      }
+    ]
+  },
+  {
+    "id": "ur_suffix_ana",
+    "root": "انہ",
+    "type": "suffix",
+    "languageOrigin": "Persian",
+    "meaning": "like; manner",
+    "examples": [
+      {
+        "word": "عالمانہ",
+        "meaning": "scholarly",
+        "sentence": "یہ رویہ عالمانہ ہے۔"
+      },
+      {
+        "word": "بچگانہ",
+        "meaning": "childish",
+        "sentence": "یہ بچگانہ حرکت ہے۔"
+      },
+      {
+        "word": "طفلانہ",
+        "meaning": "childlike",
+        "sentence": "یہ طفلانہ مسکراہٹ ہے۔"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/aːna/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ana"
+      }
+    ]
+  },
+  {
+    "id": "ur_suffix_wala",
+    "root": "والا",
+    "type": "suffix",
+    "languageOrigin": "Persian",
+    "meaning": "possessor; doer",
+    "examples": [
+      {
+        "word": "گھروالا",
+        "meaning": "house owner",
+        "sentence": "گھروالا اچھا آدمی ہے۔"
+      },
+      {
+        "word": "دلوالا",
+        "meaning": "kind-hearted",
+        "sentence": "وہ دلوالا ہے۔"
+      },
+      {
+        "word": "باہروالا",
+        "meaning": "outsider",
+        "sentence": "باہروالا آدمی آیا۔"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ʋaːlaː/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "wala"
+      }
+    ]
+  },
+  {
+    "id": "ur_suffix_pan",
+    "root": "پن",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "-ness",
+    "examples": [
+      {
+        "word": "بچپن",
+        "meaning": "childhood",
+        "sentence": "بچپن یادگار ہے۔"
+      },
+      {
+        "word": "اچھاپن",
+        "meaning": "goodness",
+        "sentence": "اس کا اچھاپن پسندیدہ ہے۔"
+      },
+      {
+        "word": "سچاپن",
+        "meaning": "truthfulness",
+        "sentence": "سچاپن اچھی صفت ہے۔"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/pən/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "pan"
+      }
+    ]
+  },
+  {
+    "id": "ur_suffix_kar",
+    "root": "کار",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "maker; doer",
+    "examples": [
+      {
+        "word": "پتکار",
+        "meaning": "journalist",
+        "sentence": "پتکار لکھ رہا ہے۔"
+      },
+      {
+        "word": "کلاکار",
+        "meaning": "artist",
+        "sentence": "کلاکار نے تصویر بنائی۔"
+      },
+      {
+        "word": "چترکار",
+        "meaning": "painter",
+        "sentence": "چترکار ماہر ہے۔"
+      }
+    ],
+    "relatedRootIds": ["ur_base_kar"],
+    "pronunciationIpa": "/kaːr/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "kar"
+      }
+    ]
+  },
+  {
+    "id": "ur_suffix_a",
+    "root": "ا",
+    "type": "suffix",
+    "languageOrigin": "Indo-Aryan",
+    "meaning": "perfective masculine participle",
+    "examples": [
+      {
+        "word": "لکھا",
+        "meaning": "written",
+        "sentence": "خط لکھا گیا۔"
+      },
+      {
+        "word": "دیکھا",
+        "meaning": "seen",
+        "sentence": "میں نے اسے دیکھا۔"
+      },
+      {
+        "word": "سنا",
+        "meaning": "heard",
+        "sentence": "میں نے یہ سنا۔"
+      }
+    ],
+    "relatedRootIds": ["ur_base_likh", "ur_base_dekh", "ur_base_sun"],
+    "pronunciationIpa": "/aː/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "a"
+      }
+    ]
+  },
+  {
+    "id": "ur_suffix_ai",
+    "root": "ائی",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "abstract noun from verb",
+    "examples": [
+      {
+        "word": "لکھائی",
+        "meaning": "writing",
+        "sentence": "اس کی لکھائی اچھی ہے۔"
+      },
+      {
+        "word": "پڑھائی",
+        "meaning": "studies",
+        "sentence": "پڑھائی ضروری ہے۔"
+      },
+      {
+        "word": "سنائی",
+        "meaning": "hearing; fame",
+        "sentence": "اس کی سنائی اچھی ہے۔"
+      }
+    ],
+    "relatedRootIds": ["ur_base_likh", "ur_base_parh", "ur_base_sun"],
+    "pronunciationIpa": "/aːiː/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ai"
+      }
+    ]
+  }
+]

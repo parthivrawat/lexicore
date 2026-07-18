@@ -1,0 +1,322 @@
+[
+  {
+    "id": "ru_suffix_tel",
+    "root": "тель",
+    "type": "suffix",
+    "languageOrigin": "Russian",
+    "meaning": "doer; agent",
+    "examples": [
+      {
+        "word": "учитель",
+        "meaning": "teacher",
+        "sentence": "Учитель объясняет урок."
+      },
+      {
+        "word": "писатель",
+        "meaning": "writer",
+        "sentence": "Писатель написал роман."
+      },
+      {
+        "word": "читатель",
+        "meaning": "reader",
+        "sentence": "Читатель внимателен."
+      }
+    ],
+    "relatedRootIds": ["ru_base_uch", "ru_base_pis", "ru_base_chit"],
+    "pronunciationIpa": "/tʲelʲ/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "tyel"
+      }
+    ]
+  },
+  {
+    "id": "ru_suffix_nik",
+    "root": "ник",
+    "type": "suffix",
+    "languageOrigin": "Russian",
+    "meaning": "person; object tied to",
+    "examples": [
+      {
+        "word": "работник",
+        "meaning": "worker",
+        "sentence": "Работник трудится усердно."
+      },
+      {
+        "word": "ученик",
+        "meaning": "pupil",
+        "sentence": "Ученик ответил правильно."
+      },
+      {
+        "word": "каменщик",
+        "meaning": "stonemason",
+        "sentence": "Каменщик строит стену."
+      }
+    ],
+    "relatedRootIds": ["ru_base_rab", "ru_base_uch"],
+    "pronunciationIpa": "/nʲik/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "nik"
+      }
+    ]
+  },
+  {
+    "id": "ru_suffix_ost",
+    "root": "ость",
+    "type": "suffix",
+    "languageOrigin": "Russian",
+    "meaning": "-ness; abstract quality",
+    "examples": [
+      {
+        "word": "радость",
+        "meaning": "joy",
+        "sentence": "Радость сияла в его глазах."
+      },
+      {
+        "word": "свежесть",
+        "meaning": "freshness",
+        "sentence": "Свежесть утра приятна."
+      },
+      {
+        "word": "новость",
+        "meaning": "news; newness",
+        "sentence": "Услышал хорошую новость."
+      }
+    ],
+    "relatedRootIds": ["ru_suffix_stvo"],
+    "pronunciationIpa": "/əsʲtʲ/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ost"
+      }
+    ]
+  },
+  {
+    "id": "ru_suffix_nie",
+    "root": "ние",
+    "type": "suffix",
+    "languageOrigin": "Russian",
+    "meaning": "action noun; -tion",
+    "examples": [
+      {
+        "word": "чтение",
+        "meaning": "reading",
+        "sentence": "Чтение полезно."
+      },
+      {
+        "word": "учение",
+        "meaning": "teaching; doctrine",
+        "sentence": "Учение важно для жизни."
+      },
+      {
+        "word": "писание",
+        "meaning": "writing",
+        "sentence": "Писание требует терпения."
+      }
+    ],
+    "relatedRootIds": ["ru_suffix_tel"],
+    "pronunciationIpa": "/nʲijə/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "niye"
+      }
+    ]
+  },
+  {
+    "id": "ru_suffix_ik",
+    "root": "ик",
+    "type": "suffix",
+    "languageOrigin": "Russian",
+    "meaning": "diminutive; small",
+    "examples": [
+      {
+        "word": "столик",
+        "meaning": "small table",
+        "sentence": "Столик у окна свободен."
+      },
+      {
+        "word": "домик",
+        "meaning": "little house",
+        "sentence": "Домик у реки мил."
+      },
+      {
+        "word": "сынок",
+        "meaning": "little son",
+        "sentence": "Сынок помог отцу."
+      }
+    ],
+    "relatedRootIds": ["ru_suffix_ok"],
+    "pronunciationIpa": "/ik/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ik"
+      }
+    ]
+  },
+  {
+    "id": "ru_suffix_ok",
+    "root": "ок",
+    "type": "suffix",
+    "languageOrigin": "Russian",
+    "meaning": "diminutive; small",
+    "examples": [
+      {
+        "word": "городок",
+        "meaning": "small town",
+        "sentence": "Городок мал, но уютен."
+      },
+      {
+        "word": "кружок",
+        "meaning": "small circle",
+        "sentence": "Кружок по интересам открылся."
+      },
+      {
+        "word": "конёк",
+        "meaning": "little horse; skates",
+        "sentence": "Коньки острые."
+      }
+    ],
+    "relatedRootIds": ["ru_suffix_ik"],
+    "pronunciationIpa": "/ok/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ok"
+      }
+    ]
+  },
+  {
+    "id": "ru_suffix_n",
+    "root": "н",
+    "type": "suffix",
+    "languageOrigin": "Russian",
+    "meaning": "adjectival",
+    "examples": [
+      {
+        "word": "водный",
+        "meaning": "water-related",
+        "sentence": "Водный транспорт удобен."
+      },
+      {
+        "word": "письменный",
+        "meaning": "written",
+        "sentence": "Дайте письменное согласие."
+      },
+      {
+        "word": "научный",
+        "meaning": "scientific",
+        "sentence": "Это научная статья."
+      }
+    ],
+    "relatedRootIds": ["ru_base_vod", "ru_base_pis", "ru_base_uch"],
+    "pronunciationIpa": "/n/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "n"
+      }
+    ]
+  },
+  {
+    "id": "ru_suffix_sk",
+    "root": "ск",
+    "type": "suffix",
+    "languageOrigin": "Russian",
+    "meaning": "relating to; -ish/-ian",
+    "examples": [
+      {
+        "word": "русский",
+        "meaning": "Russian",
+        "sentence": "Он говорит по-русски."
+      },
+      {
+        "word": "детский",
+        "meaning": "children’s",
+        "sentence": "Детский сад рядом."
+      },
+      {
+        "word": "городской",
+        "meaning": "urban",
+        "sentence": "Городской транспорт переполнен."
+      }
+    ],
+    "relatedRootIds": ["ru_suffix_n"],
+    "pronunciationIpa": "/sk/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "sk"
+      }
+    ]
+  },
+  {
+    "id": "ru_suffix_stvo",
+    "root": "ство",
+    "type": "suffix",
+    "languageOrigin": "Russian",
+    "meaning": "-ship; -dom; state",
+    "examples": [
+      {
+        "word": "богатство",
+        "meaning": "wealth",
+        "sentence": "Богатство не главное."
+      },
+      {
+        "word": "детство",
+        "meaning": "childhood",
+        "sentence": "Детство — прекрасное время."
+      },
+      {
+        "word": "государство",
+        "meaning": "state",
+        "sentence": "Государство защищает права."
+      }
+    ],
+    "relatedRootIds": ["ru_suffix_ost"],
+    "pronunciationIpa": "/stvə/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "stvo"
+      }
+    ]
+  },
+  {
+    "id": "ru_suffix_at",
+    "root": "ать",
+    "type": "suffix",
+    "languageOrigin": "Russian",
+    "meaning": "verb infinitive suffix",
+    "examples": [
+      {
+        "word": "делать",
+        "meaning": "to do",
+        "sentence": "Я делаю уроки."
+      },
+      {
+        "word": "читать",
+        "meaning": "to read",
+        "sentence": "Он читает газету."
+      },
+      {
+        "word": "писать",
+        "meaning": "to write",
+        "sentence": "Я пишу письмо."
+      }
+    ],
+    "relatedRootIds": ["ru_base_del", "ru_base_chit", "ru_base_pis"],
+    "pronunciationIpa": "/atʲ/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "at"
+      }
+    ]
+  }
+]

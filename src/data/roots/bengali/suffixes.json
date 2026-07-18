@@ -1,0 +1,322 @@
+[
+  {
+    "id": "bn_suffix_ta",
+    "root": "তা",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "-ness; state",
+    "examples": [
+      {
+        "word": "মিষ্টতা",
+        "meaning": "sweetness",
+        "sentence": "মিষ্টতা স্বাদে আছে।"
+      },
+      {
+        "word": "মানবতা",
+        "meaning": "humanity",
+        "sentence": "মানবতা সবচেয়ে বড় ধর্ম।"
+      },
+      {
+        "word": "গুরুতা",
+        "meaning": "importance",
+        "sentence": "এ বিষয়ের গুরুতা আছে।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_twa"],
+    "pronunciationIpa": "/ta/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ta"
+      }
+    ]
+  },
+  {
+    "id": "bn_suffix_twa",
+    "root": "ত্ব",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "-ness; -ity",
+    "examples": [
+      {
+        "word": "পাণ্ডিত্ব",
+        "meaning": "scholarship",
+        "sentence": "তার পাণ্ডিত্ব প্রশংসনীয়।"
+      },
+      {
+        "word": "মহত্ব",
+        "meaning": "greatness",
+        "sentence": "মহত্ব বোঝা দরকার।"
+      },
+      {
+        "word": "লঘুত্ব",
+        "meaning": "lightness",
+        "sentence": "লঘুত্বে কাজ সহজ হয়।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_ta"],
+    "pronunciationIpa": "/ṯɔ/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "twa"
+      }
+    ]
+  },
+  {
+    "id": "bn_suffix_jyo",
+    "root": "য",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "-ness (with vowel shift)",
+    "examples": [
+      {
+        "word": "সৌন্দর্য",
+        "meaning": "beauty",
+        "sentence": "প্রকৃতির সৌন্দর্য অপূর্ব।"
+      },
+      {
+        "word": "গাম্ভীর্য",
+        "meaning": "seriousness",
+        "sentence": "তার গাম্ভীর্য প্রশংসনীয়।"
+      },
+      {
+        "word": "ধৈর্য",
+        "meaning": "patience",
+        "sentence": "ধৈর্য বড় গুণ।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_ta"],
+    "pronunciationIpa": "/dʒɔ/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "jyo"
+      }
+    ]
+  },
+  {
+    "id": "bn_suffix_ik",
+    "root": "ইক",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "-ic; relating to",
+    "examples": [
+      {
+        "word": "ইতিহাসিক",
+        "meaning": "historical",
+        "sentence": "একটি ইতিহাসিক স্থান।"
+      },
+      {
+        "word": "সামাজিক",
+        "meaning": "social",
+        "sentence": "সামাজিক কাজ করো।"
+      },
+      {
+        "word": "ভাষিক",
+        "meaning": "linguistic",
+        "sentence": "ভাষিক দক্ষতা গুরুত্বপূর্ণ।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_iya"],
+    "pronunciationIpa": "/ik/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ik"
+      }
+    ]
+  },
+  {
+    "id": "bn_suffix_iya",
+    "root": "ীয়",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "-ian; relating to",
+    "examples": [
+      {
+        "word": "ভারতীয়",
+        "meaning": "Indian",
+        "sentence": "সে একজন ভারতীয়।"
+      },
+      {
+        "word": "রাজনৈতিক",
+        "meaning": "political",
+        "sentence": "রাজনৈতিক পরিস্থিতি জটিল।"
+      },
+      {
+        "word": "ভাষীয়",
+        "meaning": "linguistic",
+        "sentence": "ভাষীয় বৈচিত্র্য মনোরম।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_ik"],
+    "pronunciationIpa": "/ija/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "iya"
+      }
+    ]
+  },
+  {
+    "id": "bn_suffix_kari",
+    "root": "কারী",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "doer; agent",
+    "examples": [
+      {
+        "word": "কর্মকারী",
+        "meaning": "worker",
+        "sentence": "কর্মকারী কঠোর পরিশ্রম করেন।"
+      },
+      {
+        "word": "পরিচালক",
+        "meaning": "director",
+        "sentence": "পরিচালক ছবি তৈরি করেন।"
+      },
+      {
+        "word": "গায়ক",
+        "meaning": "singer",
+        "sentence": "গায়ক সুরে গাইলেন।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_ko"],
+    "pronunciationIpa": "/kari/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kari"
+      }
+    ]
+  },
+  {
+    "id": "bn_suffix_moy",
+    "root": "ময়",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "full of",
+    "examples": [
+      {
+        "word": "আশ্চর্যময়",
+        "meaning": "wonderful",
+        "sentence": "দৃশ্যটি আশ্চর্যময়।"
+      },
+      {
+        "word": "সুখময়",
+        "meaning": "happy",
+        "sentence": "জীবন সুখময় হোক।"
+      },
+      {
+        "word": "শক্তিময়",
+        "meaning": "powerful",
+        "sentence": "তিনি শক্তিময় ব্যক্তি।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_ta"],
+    "pronunciationIpa": "/mɔj/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "moy"
+      }
+    ]
+  },
+  {
+    "id": "bn_suffix_ko",
+    "root": "ক",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "doer; agent",
+    "examples": [
+      {
+        "word": "লেখক",
+        "meaning": "writer",
+        "sentence": "লেখক উপন্যাস লিখলেন।"
+      },
+      {
+        "word": "পাঠক",
+        "meaning": "reader",
+        "sentence": "পাঠক মনোযোগ দিয়ে পড়লেন।"
+      },
+      {
+        "word": "শ্রমিক",
+        "meaning": "worker",
+        "sentence": "শ্রমিক পরিশ্রমী।"
+      }
+    ],
+    "relatedRootIds": ["bn_base_likh", "bn_base_poth"],
+    "pronunciationIpa": "/kɔ/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ko"
+      }
+    ]
+  },
+  {
+    "id": "bn_suffix_gulo",
+    "root": "গুলো",
+    "type": "suffix",
+    "languageOrigin": "Bengali",
+    "meaning": "inanimate plural/definite",
+    "examples": [
+      {
+        "word": "বইগুলো",
+        "meaning": "the books",
+        "sentence": "বইগুলো টেবিলে আছে।"
+      },
+      {
+        "word": "গাছগুলো",
+        "meaning": "the trees",
+        "sentence": "গাছগুলো সবুজ।"
+      },
+      {
+        "word": "ঘরগুলো",
+        "meaning": "the houses",
+        "sentence": "ঘরগুলো বড়।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_ra"],
+    "pronunciationIpa": "/gulo/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "gulo"
+      }
+    ]
+  },
+  {
+    "id": "bn_suffix_ra",
+    "root": "রা",
+    "type": "suffix",
+    "languageOrigin": "Bengali",
+    "meaning": "animate plural",
+    "examples": [
+      {
+        "word": "ছেলেরা",
+        "meaning": "the boys",
+        "sentence": "ছেলেরা খেলতে গেল।"
+      },
+      {
+        "word": "মেয়েরা",
+        "meaning": "the girls",
+        "sentence": "মেয়েরা গান গাইল।"
+      },
+      {
+        "word": "লোকেরা",
+        "meaning": "the people",
+        "sentence": "লোকেরা সাহায্য করল।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_gulo"],
+    "pronunciationIpa": "/ra/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ra"
+      }
+    ]
+  }
+]

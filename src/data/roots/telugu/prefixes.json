@@ -1,0 +1,258 @@
+[
+  {
+    "id": "te_prefix_pra",
+    "root": "ప్ర",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "forth; very",
+    "examples": [
+      {
+        "word": "ప్రగతి",
+        "meaning": "progress",
+        "sentence": "దేశం ప్రగతి చెందుతోంది."
+      },
+      {
+        "word": "ప్రకాశం",
+        "meaning": "light",
+        "sentence": "సూర్య ప్రకాశం ఆరోగ్యకరం."
+      },
+      {
+        "word": "ప్రచండ",
+        "meaning": "intense",
+        "sentence": "ఆ ప్రచండ గాలి వీచింది."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/pra/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "pra"
+      }
+    ]
+  },
+  {
+    "id": "te_prefix_vi",
+    "root": "వి",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "apart; opposite",
+    "examples": [
+      {
+        "word": "విదేశం",
+        "meaning": "foreign country",
+        "sentence": "అతను విదేశంలో ఉన్నాడు."
+      },
+      {
+        "word": "విజ్ఞానం",
+        "meaning": "science",
+        "sentence": "విజ్ఞానం ప్రపంచాన్ని మారుస్తుంది."
+      },
+      {
+        "word": "విఫల",
+        "meaning": "failed",
+        "sentence": "అతని ప్రయత్నం విఫలమైంది."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ʋi/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "vi"
+      }
+    ]
+  },
+  {
+    "id": "te_prefix_a",
+    "root": "అ",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "not; without",
+    "examples": [
+      {
+        "word": "అసురక్షిత",
+        "meaning": "unsafe",
+        "sentence": "ఈ ప్రదేశం అసురక్షితం."
+      },
+      {
+        "word": "అజ్ఞానం",
+        "meaning": "ignorance",
+        "sentence": "అజ్ఞానం అంధకారం."
+      },
+      {
+        "word": "అశక్త",
+        "meaning": "weak",
+        "sentence": "అతను అశక్తుడు."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/a/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "a"
+      }
+    ]
+  },
+  {
+    "id": "te_prefix_ana",
+    "root": "అన",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "not; un-",
+    "examples": [
+      {
+        "word": "అనావశ్యక",
+        "meaning": "unnecessary",
+        "sentence": "ఇది అనావశ్యకం."
+      },
+      {
+        "word": "అనిష్ట",
+        "meaning": "bad",
+        "sentence": "అనిష్ట అలవాటు వదులుకో."
+      },
+      {
+        "word": "అనియమిత",
+        "meaning": "irregular",
+        "sentence": "అతని జీవన విధానం అనియమితం."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ana/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ana"
+      }
+    ]
+  },
+  {
+    "id": "te_prefix_dur",
+    "root": "దుర్",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "bad; difficult",
+    "examples": [
+      {
+        "word": "దుఃఖం",
+        "meaning": "sorrow",
+        "sentence": "దుఃఖం అందరికీ వస్తుంది."
+      },
+      {
+        "word": "దుర్భాగ్యం",
+        "meaning": "bad luck",
+        "sentence": "దుర్భాగ్యవశాత్తు అతను ఓడిపోయాడు."
+      },
+      {
+        "word": "దుర్వ్యసనం",
+        "meaning": "addiction",
+        "sentence": "దుర్వ్యసనం వదులుకోవడం కష్టం."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/dur/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "dur"
+      }
+    ]
+  },
+  {
+    "id": "te_prefix_su",
+    "root": "సు",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "good; well",
+    "examples": [
+      {
+        "word": "సుఖం",
+        "meaning": "happiness",
+        "sentence": "సుఖం జీవితంలో ముఖ్యం."
+      },
+      {
+        "word": "సులభం",
+        "meaning": "easy",
+        "sentence": "ఈ పుస్తకం సులభం."
+      },
+      {
+        "word": "సుందర",
+        "meaning": "beautiful",
+        "sentence": "పువ్వు చాలా సుందరంగా ఉంది."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/su/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "su"
+      }
+    ]
+  },
+  {
+    "id": "te_prefix_pari",
+    "root": "పరి",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "around; completely",
+    "examples": [
+      {
+        "word": "పరివర్తన",
+        "meaning": "change",
+        "sentence": "జీవితంలో పరివర్తన అవసరం."
+      },
+      {
+        "word": "పరిమాణం",
+        "meaning": "quantity",
+        "sentence": "పరిమాణం ఎక్కువగా ఉంది."
+      },
+      {
+        "word": "పరిసరాలు",
+        "meaning": "surroundings",
+        "sentence": "పరిసరాలను శుభ్రంగా ఉంచండి."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/pari/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "pari"
+      }
+    ]
+  },
+  {
+    "id": "te_prefix_ati",
+    "root": "అతి",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "excess; too much",
+    "examples": [
+      {
+        "word": "అత్యంత",
+        "meaning": "very much",
+        "sentence": "ఈ సంఘటన అత్యంత ముఖ్యమైనది."
+      },
+      {
+        "word": "అతిథి",
+        "meaning": "guest",
+        "sentence": "అతిథి దేవో భవ."
+      },
+      {
+        "word": "అతిశయోక్తి",
+        "meaning": "exaggeration",
+        "sentence": "అతని అతిశయోక్తి వినవద్దు."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ati/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ati"
+      }
+    ]
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "id": "ur_prefix_be",
+    "root": "بے",
+    "type": "prefix",
+    "languageOrigin": "Persian",
+    "meaning": "without",
+    "examples": [
+      {
+        "word": "بےکار",
+        "meaning": "useless",
+        "sentence": "یہ آدمی بےکار ہے۔"
+      },
+      {
+        "word": "بےآواز",
+        "meaning": "silent",
+        "sentence": "کمرہ بےآواز تھا۔"
+      },
+      {
+        "word": "بےایمان",
+        "meaning": "dishonest",
+        "sentence": "وہ بےایمان آدمی ہے۔"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/be/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "be"
+      }
+    ]
+  },
+  {
+    "id": "ur_prefix_la",
+    "root": "لا",
+    "type": "prefix",
+    "languageOrigin": "Persian",
+    "meaning": "without; not",
+    "examples": [
+      {
+        "word": "لاحاصل",
+        "meaning": "fruitless",
+        "sentence": "یہ کام لاحاصل ہے۔"
+      },
+      {
+        "word": "لاعلاج",
+        "meaning": "incurable",
+        "sentence": "یہ بیماری لاعلاج ہے۔"
+      },
+      {
+        "word": "لافائدہ",
+        "meaning": "profitless",
+        "sentence": "یہ لافائدہ ہے۔"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/laː/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "la"
+      }
+    ]
+  },
+  {
+    "id": "ur_prefix_bad",
+    "root": "بد",
+    "type": "prefix",
+    "languageOrigin": "Persian",
+    "meaning": "bad; ill",
+    "examples": [
+      {
+        "word": "بدقسمت",
+        "meaning": "unlucky",
+        "sentence": "وہ بدقسمت ہے۔"
+      },
+      {
+        "word": "بدنیت",
+        "meaning": "malicious",
+        "sentence": "اس کی بدنیت ظاہر ہے۔"
+      },
+      {
+        "word": "بدنام",
+        "meaning": "infamous",
+        "sentence": "وہ بدنام ہے۔"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/bəd/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "bad"
+      }
+    ]
+  },
+  {
+    "id": "ur_prefix_khush",
+    "root": "خوش",
+    "type": "prefix",
+    "languageOrigin": "Persian",
+    "meaning": "good; happy",
+    "examples": [
+      {
+        "word": "خوشبو",
+        "meaning": "fragrance",
+        "sentence": "پھول کی خوشبو اچھی ہے۔"
+      },
+      {
+        "word": "خوشقسمت",
+        "meaning": "lucky",
+        "sentence": "وہ خوشقسمت ہے۔"
+      },
+      {
+        "word": "خوشحال",
+        "meaning": "prosperous",
+        "sentence": "وہ خوشحال ہے۔"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/kʰuʃ/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "khush"
+      }
+    ]
+  },
+  {
+    "id": "ur_prefix_ham",
+    "root": "ہم",
+    "type": "prefix",
+    "languageOrigin": "Persian",
+    "meaning": "together; fellow",
+    "examples": [
+      {
+        "word": "ہمسایہ",
+        "meaning": "neighbor",
+        "sentence": "میرا ہمسایہ اچھا ہے۔"
+      },
+      {
+        "word": "ہمدرد",
+        "meaning": "sympathizer",
+        "sentence": "وہ ہمدرد انسان ہے۔"
+      },
+      {
+        "word": "ہمسفر",
+        "meaning": "fellow traveler",
+        "sentence": "ہمسفر اچھا ہو تو سفر آسان ہے۔"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/həm/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ham"
+      }
+    ]
+  },
+  {
+    "id": "ur_prefix_bar",
+    "root": "بر",
+    "type": "prefix",
+    "languageOrigin": "Persian",
+    "meaning": "upon; over",
+    "examples": [
+      {
+        "word": "برداشت",
+        "meaning": "tolerance",
+        "sentence": "برداشت ضروری ہے۔"
+      },
+      {
+        "word": "برحق",
+        "meaning": "rightful",
+        "sentence": "وہ برحق ہے۔"
+      },
+      {
+        "word": "برآمد",
+        "meaning": "export",
+        "sentence": "یہ چیز برآمد ہوتی ہے۔"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/bər/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "bar"
+      }
+    ]
+  },
+  {
+    "id": "ur_prefix_na",
+    "root": "نا",
+    "type": "prefix",
+    "languageOrigin": "Persian",
+    "meaning": "not; un-",
+    "examples": [
+      {
+        "word": "نالائق",
+        "meaning": "incompetent",
+        "sentence": "وہ نالائق ہے۔"
+      },
+      {
+        "word": "ناپسند",
+        "meaning": "dislike",
+        "sentence": "یہ ناپسند ہے۔"
+      },
+      {
+        "word": "ناسمجھ",
+        "meaning": "ignorant",
+        "sentence": "وہ ناسمجھ ہے۔"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/naː/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "na"
+      }
+    ]
+  },
+  {
+    "id": "ur_prefix_an",
+    "root": "ان",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "not; without",
+    "examples": [
+      {
+        "word": "انجان",
+        "meaning": "unknown",
+        "sentence": "یہ مجھے انجان ہے۔"
+      },
+      {
+        "word": "انپڑھ",
+        "meaning": "illiterate",
+        "sentence": "وہ انپڑھ ہے۔"
+      },
+      {
+        "word": "اندیکھا",
+        "meaning": "unseen",
+        "sentence": "اندیکھا خزانہ تھا۔"
+      }
+    ],
+    "relatedRootIds": ["ur_base_parh", "ur_base_dekh"],
+    "pronunciationIpa": "/ən/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "an"
+      }
+    ]
+  }
+]

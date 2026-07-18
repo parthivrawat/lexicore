@@ -49,9 +49,10 @@ We welcome contributions to LexiCore! This guide will help you get started.
 4. **Make your changes and test**
 
    ```bash
-   npm run build
+   npm run test
    npm run lint
-   npm run type-check
+   npm run format:check
+   npm run build
    ```
 
 5. **Submit a pull request**
@@ -60,11 +61,10 @@ We welcome contributions to LexiCore! This guide will help you get started.
 
 ### Environment Configuration
 
-```bash
-# Copy environment template
-cp .env.example .env.local
+No environment variables are required for the MVP. You may create a `.env.local` file for optional Vite configuration if needed.
 
-# Add your configuration
+```bash
+# Example (optional)
 VITE_APP_URL=http://localhost:3000
 ```
 

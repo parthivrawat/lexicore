@@ -31,8 +31,9 @@ A versatile button component with multiple variants and sizes.
 import { Button } from '@/components/ui/Button';
 
 interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
-  variant?: 'primary' | 'secondary' | 'outline' | 'ghost';
-  size?: 'sm' | 'md' | 'lg';
+  variant?: 'primary' | 'secondary' | 'outline' | 'ghost' | 'accent';
+  size?: 'sm' | 'md' | 'lg' | 'xl';
+  loading?: boolean;
   children: React.ReactNode;
 }
 ```
@@ -45,9 +46,9 @@ A component for playing audio pronunciations of words.
 import { PronunciationPlayer } from '@/components/ui/PronunciationPlayer';
 
 interface PronunciationPlayerProps {
-  word: string;
-  pronunciation?: string;
-  language?: string;
+  variants: PronunciationVariant[];
+  word?: string;
+  className?: string;
 }
 ```
 
@@ -59,8 +60,11 @@ A toggle component for switching between light and dark themes.
 import { ThemeToggle } from '@/components/ui/ThemeToggle';
 
 interface ThemeToggleProps {
-  className?: string;
+  // ThemeToggle uses ThemeContext; no props required
 }
+
+export function ThemeToggle(): JSX.Element;
+export function SimpleThemeToggle(): JSX.Element;
 ```
 
 #### Usage Examples
@@ -84,16 +88,18 @@ interface ThemeToggleProps {
 
 #### Variants
 
-- **Primary**: Main action buttons (blue background)
+- **Primary**: Main action buttons (gradient primary background)
 - **Secondary**: Secondary actions (gray background)
-- **Outline**: Bordered buttons (white background with border)
+- **Outline**: Bordered buttons (white/dark background with border)
 - **Ghost**: Minimal buttons (no background, hover state)
+- **Accent**: Accent action buttons (gradient accent background)
 
 #### Sizes
 
 - **sm**: Small buttons (compact)
 - **md**: Medium buttons (default)
 - **lg**: Large buttons (prominent)
+- **xl**: Extra-large buttons (hero CTA)
 
 ## 🏗️ Shared Components
 
@@ -117,9 +123,7 @@ A component for selecting between two languages.
 import { DualLanguageSelector } from '@/components/shared/DualLanguageSelector';
 
 interface DualLanguageSelectorProps {
-  primaryLanguage: string;
-  secondaryLanguage: string;
-  onLanguageChange: (language: string) => void;
+  // DualLanguageSelector uses LanguageContext; no props required
 }
 ```
 
@@ -178,7 +182,7 @@ interface PaginationProps {
 
 ```typescript
 function MyListPage() {
-  const pagination = usePagination(totalItems, 20);
+  const pagination = usePagination(totalItems);
 
   return (
     <div>
@@ -210,8 +214,15 @@ A base card component used as a foundation for other card components.
 import { BaseCard } from '@/components/features/BaseCard';
 
 interface BaseCardProps {
-  children: React.ReactNode;
-  className?: string;
+  title: string;
+  meaning: string;
+  badge: string;
+  badgeColor: 'primary' | 'success';
+  examplesCount: number;
+  pronunciationVariants?: PronunciationVariant[];
+  pronunciationIpa?: string;
+  subtitle?: string;
+  to: string;
 }
 ```
 
@@ -306,89 +317,16 @@ function VocabularyPage() {
 └─────────────────────────────────┘
 ```
 
-### SearchResultItem
+### SearchFilters
 
-A component for displaying search results.
-
-```typescript
-import { SearchResultItem } from '@/components/features/SearchResultItem';
-
-interface SearchResultItemProps {
-  item: SearchItem;
-}
-```
-
-#### Usage
+Filter component for search scope (All, Roots, Words).
 
 ```typescript
-function SearchResults() {
-  return (
-    <div className="space-y-4">
-      {results.map((item) => (
-        <SearchResultItem key={`${item.kind}:${item.id}`} item={item} />
-      ))}
-    </div>
-  );
-}
-```
+import { SearchFilters } from '@/components/features/SearchFilters';
 
-#### Features
-
-- **Type Indicators**: Visual kind badges (root/word)
-- **Highlighting**: Search term highlighting (future)
-- **Consistent Styling**: Matches other card components
-- **Accessibility**: Proper link semantics
-
-### CategoryFilter
-
-Filter component for vocabulary categories.
-
-```typescript
-import { CategoryFilter } from '@/components/features/CategoryFilter';
-
-interface CategoryFilterProps {
-  activeCategory: string;
-  onCategoryChange: (category: string) => void;
-  categories: string[];
-}
-```
-
-### RootTypeFilter
-
-Filter component for root types (prefix, suffix, base).
-
-```typescript
-import { RootTypeFilter } from '@/components/features/RootTypeFilter';
-
-interface RootTypeFilterProps {
-  activeType: RootType;
-  onTypeChange: (type: RootType) => void;
-}
-```
-
-### LearningTips
-
-Component for displaying learning tips and educational content.
-
-```typescript
-import { LearningTips } from '@/components/features/LearningTips';
-
-interface LearningTipsProps {
-  tips: string[];
-}
-```
-
-### SettingsTabs
-
-Tab component for settings page navigation.
-
-```typescript
-import { SettingsTabs } from '@/components/features/SettingsTabs';
-
-interface SettingsTabsProps {
-  activeTab: string;
-  onTabChange: (tab: string) => void;
-  tabs: string[];
+interface SearchFiltersProps {
+  activeFilter: SearchFilter;
+  onFilterChange: (filter: SearchFilter) => void;
 }
 ```
 
@@ -413,6 +351,81 @@ function SearchPage() {
 - **Visual Feedback**: Active filter highlighting
 - **Keyboard Navigation**: Tab and Enter support
 - **Responsive**: Works on mobile devices
+
+### CategoryFilter
+
+Filter component for vocabulary categories.
+
+```typescript
+import { CategoryFilter } from '@/components/features/CategoryFilter';
+
+interface CategoryFilterProps {
+  selectedCategory: VocabCategory | 'all';
+  onCategoryChange: (category: VocabCategory | 'all') => void;
+}
+```
+
+### RootTypeFilter
+
+Filter component for root types (prefix, suffix, base).
+
+```typescript
+import { RootTypeFilter } from '@/components/features/RootTypeFilter';
+
+interface RootTypeFilterProps {
+  selectedType: RootType | 'all';
+  onTypeChange: (type: RootType | 'all') => void;
+}
+```
+
+### LearningTips
+
+Component for displaying learning tips and educational content.
+
+```typescript
+import { LearningTips } from '@/components/features/LearningTips';
+
+interface LearningTip {
+  title: string;
+  content: string;
+  icon: string;
+}
+
+interface LearningTipsProps {
+  tips: LearningTip[];
+  theme?: 'amber' | 'blue';
+  className?: string;
+}
+```
+
+### SettingsTabs
+
+Tab component for settings page navigation.
+
+```typescript
+import { SettingsTabs } from '@/components/features/SettingsTabs';
+
+interface SettingsTabsProps {
+  // SettingsTabs manages its own tab state internally
+}
+```
+
+#### Usage
+
+```typescript
+function SettingsPage() {
+  return (
+    <SettingsTabs />
+  );
+}
+```
+
+#### Features
+
+- **Built-in Tabs**: Language, Pagination, Search, UI
+- **Description Text**: Contextual help for each tab
+- **Accessibility**: ARIA tab navigation
+- **Responsive**: Horizontal scroll on small screens
 
 ## 🔄 Usage Patterns
 

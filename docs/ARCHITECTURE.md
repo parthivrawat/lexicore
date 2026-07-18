@@ -33,10 +33,11 @@ The platform is built as a **frontend-only MVP** using Vite 6 and React 19 with 
 ```
 ├── src/                         # All source code
 │   ├── components/              # React components
-│   │   ├── ui/                 # Basic UI components
-│   │   ├── shared/             # Layout components
-│   │   ├── features/           # Feature-specific components
-│   │   └── Layout.tsx          # Main layout
+│   │   ├── ui/                  # Basic UI components
+│   │   ├── shared/              # Layout components
+│   │   ├── features/            # Feature-specific components
+│   │   │   └── HomePage/        # Home page sections
+│   │   └── Layout.tsx           # Main layout wrapper
 │   ├── pages/                   # Route-based page components
 │   │   ├── HomePage.tsx
 │   │   ├── RootsPage.tsx
@@ -44,7 +45,8 @@ The platform is built as a **frontend-only MVP** using Vite 6 and React 19 with 
 │   │   ├── VocabularyPage.tsx
 │   │   ├── VocabularyDetailPage.tsx
 │   │   ├── SearchPage.tsx
-│   │   └── SettingsPage.tsx
+│   │   ├── SettingsPage.tsx
+│   │   └── NotFoundPage.tsx
 │   ├── contexts/                # React context providers
 │   │   ├── LanguageContext.tsx
 │   │   ├── SettingsContext.tsx
@@ -53,23 +55,31 @@ The platform is built as a **frontend-only MVP** using Vite 6 and React 19 with 
 │   │   ├── usePagination.ts
 │   │   ├── useSearch.ts
 │   │   ├── useRootSearch.ts
-│   │   └── useVocabularySearch.ts
+│   │   ├── useVocabularySearch.ts
+│   │   └── useLanguageData.ts
 │   ├── utils/                   # Utility functions
 │   │   ├── format.ts
 │   │   ├── data.ts
 │   │   ├── search.ts
+│   │   ├── dataLoader.ts
+│   │   ├── audio.ts
 │   │   ├── interpolate.ts
 │   │   └── wordOfTheDay.ts
 │   ├── constants/               # App configuration
 │   ├── types/                   # TypeScript definitions
-│   ├── data/                    # Static datasets
-│   │   ├── roots/              # Word roots datasets
-│   │   ├── vocabulary/         # Vocabulary datasets
-│   │   └── etymology/          # Etymology data
+│   │   ├── index.ts
+│   │   └── settings.ts
+│   ├── data/                    # Static datasets (JSON + barrel index.ts)
+│   │   ├── roots/               # Word roots datasets per language
+│   │   ├── vocabulary/          # Vocabulary datasets per language
+│   │   └── etymology/           # Etymology data per language
+│   ├── test/                    # Test setup
+│   ├── lib/                     # Shared library utilities
+│   ├── index.ts                 # Source barrel exports
 │   ├── App.tsx                  # Main app component
 │   └── main.tsx                 # Application entry point
 ├── index.html                   # Vite entry point
-└── vite.config.ts               # Vite configuration
+└── vite.config.ts               # Vite configuration (includes PWA, compression, visualizer)
 ```
 
 ## 🧩 Component Architecture
@@ -116,7 +126,7 @@ export function RootCard({ root }: RootCardProps) {
 1. **Composition over Inheritance**: Components are composed together
 2. **Props Interface**: Clear TypeScript interfaces for all props
 3. **Default Props**: Sensible defaults for optional properties
-4. **Error Boundaries**: Graceful error handling
+4. **Error Boundaries**: Graceful error handling (404 page for unknown routes)
 5. **Accessibility**: ARIA attributes and semantic HTML
 
 ## 🔄 State Management
@@ -127,15 +137,19 @@ State management is handled through custom hooks that encapsulate business logic
 
 ```typescript
 // usePagination Hook
-export function usePagination(totalItems: number, itemsPerPage: number) {
-  // Pagination state and logic
-  return { currentPage, totalPages, setPage, ... };
+export function usePagination(totalItems: number) {
+  // Pagination state and logic (itemsPerPage read from SettingsContext)
+  return { currentPage, totalPages, itemsPerPage, startIndex, endIndex, setPage, ... };
 }
 
-// useSearch Hook
-export function useSearch() {
-  // Search state and filtering logic
-  return { query, filter, results, handleQueryChange, ... };
+// useSearch Hook (generic)
+export function useSearch<T, S extends Searchable<T>>({
+  data,
+  normalize,
+  relevanceCalculator,
+}: UseSearchOptions<T, S>) {
+  // Debounced search with useTransition
+  return { query, results, resultCount, isPending, handleQueryChange, clearSearch, hasQuery };
 }
 ```
 
@@ -152,32 +166,34 @@ export function useSearch() {
 ### Data Sources
 
 ```
-Static Data Files (src/data/)
-    ↓ imports
-Pages (src/pages/)
-    ↓ props
-Components (src/components/)
-    ↓ utilities
-Hooks (src/hooks/)
+Static Data Files (src/data/[language]/*.json)
+    ↓ async dynamic imports (dataLoader.ts)
+Utility Layer (src/utils/data.ts, dataLoader.ts)
+    ↓ async loading + in-memory caching
+Hook Layer (src/hooks/useRootSearch.ts, useVocabularySearch.ts, useLanguageData.ts)
+    ↓ props/context
+Components / Pages (src/components/, src/pages/)
 ```
 
 ### Data Layers
 
-1. **Static Layer**: TypeScript files with datasets
-2. **Utility Layer**: Data transformation and formatting
-3. **Hook Layer**: State management and business logic
-4. **Context Layer**: Global state (language, settings, theme)
-5. **Component Layer**: UI rendering and interactions
-6. **Page Layer**: Route-specific logic and data fetching
+1. **Static Layer**: JSON datasets with TypeScript barrel exports
+2. **DataLoader Layer**: Async dynamic imports with per-language caching
+3. **Utility Layer**: Data transformation and formatting
+4. **Hook Layer**: State management and business logic
+5. **Context Layer**: Global state (language, settings, theme)
+6. **Component Layer**: UI rendering and interactions
+7. **Page Layer**: Route-specific logic and async data loading
 
 ### Example Data Flow
 
 ```typescript
-// Static data
-import { rootsEn } from '@/data/roots/english';
+// Async data loading via hook
+const { roots, vocabulary, isLoading } = useLanguageData();
 
 // Hook management
-const pagination = usePagination(rootsEn.length, 20);
+const pagination = usePagination(roots.length);
+const paginatedRoots = paginateItems(roots, pagination.currentPage, pagination.itemsPerPage);
 
 // Component rendering
 <Pagination {...pagination} />
@@ -207,11 +223,26 @@ export type SearchItem = {/* ... */};
 ```typescript
 // Discriminated unions
 export type SearchItem =
-  { kind: 'root'; id: string /* ... */ } | { kind: 'word'; id: string /* ... */ };
+  | { kind: 'root'; id: string; title: string; subtitle: string; href: string }
+  | { kind: 'word'; id: string; title: string; subtitle: string; href: string };
 
-// Generic components
-export function Card<T extends { id: string }>({ item }: CardProps<T>) {
-  // Type-safe card component
+// Etymology types
+export type Etymology = {
+  languageOrigin: string;
+  yearOfOrigin?: string;
+  rootComposition?: WordRootComposition[];
+  timeline: EtymologyStage[];
+  cognates?: CognateWord[];
+  notes?: string;
+};
+
+// Generic search hook
+export function useSearch<T, S extends Searchable<T>>({
+  data,
+  normalize,
+  relevanceCalculator,
+}: UseSearchOptions<T, S>) {
+  // Type-safe search logic
 }
 ```
 
@@ -358,4 +389,4 @@ export function useRoots(language: string) {
 - **Component Props**: < 10 properties
 - **Hook Dependencies**: Minimal and explicit
 
-This architecture provides a solid foundation for both the current MVP and future full-stack expansion, following modern React and Next.js best practices.
+This architecture provides a solid foundation for both the current MVP and future full-stack expansion, following modern React and Vite best practices.

@@ -56,13 +56,7 @@ npm install
 
 ### 3. Environment Setup
 
-Create a `.env.local` file (optional for MVP):
-
-```bash
-# .env.local
-VITE_APP_URL=http://localhost:3000
-VITE_APP_NAME="LexiCore"
-```
+No environment variables are required for the MVP. Vite environment files (`.env.local`, `.env.production`, etc.) may be added for optional configuration, but none are provided in the repository.
 
 ### 4. Start Development Server
 
@@ -111,6 +105,7 @@ npm run build
    ```bash
    npm run test
    npm run lint
+   npm run format:check
    npm run build
    ```
 

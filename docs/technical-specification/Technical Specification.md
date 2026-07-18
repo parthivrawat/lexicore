@@ -43,13 +43,17 @@ Develop an application that:
 
 ### 2.2 Core Vocabulary Module
 
-- Top N most common words per language (default: 100)
+- Expanded core vocabulary per language (2,500+ words for English; other languages populated progressively)
 - Categorization:
 
   - Greetings
   - Numbers
   - Verbs
   - Daily-use nouns
+  - Adjectives
+  - Adverbs
+  - Prepositions
+  - Function words
 
 - Features:
 
@@ -61,10 +65,13 @@ Develop an application that:
 
 ### 2.3 Multi-language Support
 
-Initial languages:
+Supported learning languages (20+):
 
-- English
-- French
+- English, French, Spanish, Latin, Greek, Mandarin, Hindi, Arabic, Bengali, Russian, Portuguese, Indonesian, Urdu, German, Japanese, Nigerian Pidgin, Marathi, Telugu, Turkish, Tamil, Cantonese, Vietnamese
+
+UI languages:
+
+- English, French
 
 Expandable via modular data structure.
 

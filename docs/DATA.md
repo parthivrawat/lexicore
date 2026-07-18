@@ -17,12 +17,12 @@ This document describes the data structures, models, and management patterns use
 
 ## 🎯 Overview
 
-The application uses a **frontend-only data architecture** with static TypeScript files serving as the data source. This approach provides:
+The application uses a **frontend-only data architecture** with static JSON files and TypeScript barrel exports as the data source. Data is loaded on demand via dynamic imports and cached in memory. This approach provides:
 
-- **Instant Loading**: No network requests for data
-- **Type Safety**: Compile-time type checking
+- **On-Demand Loading**: Data fetched only when needed
+- **Type Safety**: Compile-time type checking with imported JSON typed as datasets
 - **Version Control**: Data changes tracked in git
-- **Static Generation**: Optimized for Next.js export
+- **Static Generation**: Optimized for Vite static export
 - **Easy Migration**: Ready for backend integration
 
 ## 📋 Data Models
@@ -40,6 +40,8 @@ interface WordRoot {
   meaning: string; // Meaning of the root
   examples: RootExample[]; // Usage examples
   relatedRootIds: string[]; // Related root IDs
+  pronunciationIpa?: string; // Basic IPA pronunciation
+  pronunciationVariants?: PronunciationVariant[]; // Multi-accent pronunciation variants
 }
 ```
 
@@ -80,7 +82,14 @@ interface VocabWord {
 
 ```typescript
 type VocabCategory =
-  'greetings' | 'numbers' | 'verbs' | 'daily-use-nouns' | 'adjectives' | 'adverbs' | 'prepositions';
+  | 'greetings'
+  | 'numbers'
+  | 'verbs'
+  | 'daily-use-nouns'
+  | 'adjectives'
+  | 'adverbs'
+  | 'prepositions'
+  | 'function-words';
 ```
 
 ### Etymology Model
@@ -174,15 +183,25 @@ export type WordRoot = {
   relatedRootIds: string[];
 };
 
-export type VocabCategory = 'greetings' | 'numbers' | 'verbs' | 'daily-use-nouns';
+export type VocabCategory =
+  | 'greetings'
+  | 'numbers'
+  | 'verbs'
+  | 'daily-use-nouns'
+  | 'adjectives'
+  | 'adverbs'
+  | 'prepositions'
+  | 'function-words';
 
 export type VocabWord = {
   id: string;
   word: string;
   meaning: string;
   pronunciationIpa?: string;
+  pronunciationVariants?: PronunciationVariant[];
   category: VocabCategory;
   examples: string[];
+  etymology?: Etymology;
 };
 
 export type SearchItem =
@@ -218,64 +237,63 @@ export type PaginatedResult<T> = {
 ```
 src/data/
 ├── roots/
-│   ├── english.ts     # English word roots
-│   └── index.ts       # Roots barrel export
+│   ├── english/
+│   │   ├── index.ts        # Barrel export: rootsEn
+│   │   ├── prefixes.json
+│   │   ├── suffixes.json
+│   │   └── bases.json
+│   ├── french/
+│   │   └── ...
+│   └── index.ts            # Per-language barrel exports
 ├── vocabulary/
-│   ├── english.ts     # English vocabulary
-│   └── index.ts       # Vocabulary barrel export
+│   ├── english/
+│   │   ├── index.ts        # Barrel export: vocabularyEn
+│   │   ├── greetings.json
+│   │   ├── numbers.json
+│   │   ├── verbs.json
+│   │   ├── daily-use-nouns.json
+│   │   ├── adjectives.json
+│   │   ├── adverbs.json
+│   │   ├── prepositions.json
+│   │   └── function-words.json
+│   └── index.ts            # Per-language barrel exports
 ├── etymology/
-│   ├── english.ts     # English etymology data
-│   └── index.ts       # Etymology barrel export
-└── index.ts           # Data barrel export
+│   ├── english/
+│   │   ├── index.ts        # Barrel export: etymologyDataEn
+│   │   └── [category].json
+│   └── index.ts            # Per-language barrel exports
+└── index.ts                # Re-exports all modules
 ```
 
 ### Data Files
 
-#### English Roots (`src/data/roots/english.ts`)
+#### English Roots (`src/data/roots/english/index.ts`)
 
 ```typescript
 import { WordRoot } from '@/types';
+import prefixesJson from './prefixes.json';
+import suffixesJson from './suffixes.json';
+import basesJson from './bases.json';
 
-export const rootsEn: WordRoot[] = [
-  {
-    id: 'bio-life',
-    root: 'bio',
-    type: 'base',
-    languageOrigin: 'Greek',
-    meaning: 'life',
-    examples: [
-      {
-        word: 'biology',
-        meaning: 'study of living organisms',
-        sentence: 'Biology is the study of life and living organisms.',
-      },
-      // ... more examples
-    ],
-    relatedRootIds: ['logos-study', 'zoon-animal'],
-  },
-  // ... more roots
-];
+const prefixes = prefixesJson as WordRoot[];
+const suffixes = suffixesJson as WordRoot[];
+const bases = basesJson as WordRoot[];
+
+export const rootsEn: WordRoot[] = [...prefixes, ...suffixes, ...bases];
 ```
 
-#### English Vocabulary (`src/data/vocabulary/english.ts`)
+#### English Vocabulary (`src/data/vocabulary/english/index.ts`)
 
 ```typescript
 import { VocabWord } from '@/types';
+import greetingsJson from './greetings.json';
+import numbersJson from './numbers.json';
+// ... other category JSON imports
 
 export const vocabularyEn: VocabWord[] = [
-  {
-    id: 'hello-greeting',
-    word: 'hello',
-    meaning: 'A greeting used when meeting someone',
-    pronunciationIpa: 'həˈloʊ',
-    category: 'greetings',
-    examples: [
-      'Hello, how are you today?',
-      'She said hello to her neighbors.',
-      'Hello! Welcome to our store.',
-    ],
-  },
-  // ... more words
+  ...(greetingsJson as VocabWord[]),
+  ...(numbersJson as VocabWord[]),
+  // ... other categories
 ];
 ```
 
@@ -319,12 +337,18 @@ export const etymologyData: Record<string, Etymology> = {
 ```typescript
 // src/data/roots/index.ts
 export { rootsEn } from './english';
+export { rootsFr } from './french';
+// ... other languages
 
 // src/data/vocabulary/index.ts
 export { vocabularyEn } from './english';
+export { vocabularyFr } from './french';
+// ... other languages
 
 // src/data/etymology/index.ts
-export { etymologyData } from './english';
+export { etymologyData as etymologyDataEn } from './english';
+export { etymologyData as etymologyDataFr } from './french';
+// ... other languages
 
 // src/data/index.ts
 export * from './roots';
@@ -337,20 +361,26 @@ export * from './etymology';
 ### Import Patterns
 
 ```typescript
-// Direct import
-import { rootsEn } from '@/data/roots/english';
-import { vocabularyEn } from '@/data/vocabulary/english';
+// Async data utilities
+import { getRootsData, getVocabularyData } from '@/utils/data';
+import { useLanguage } from '@/contexts/LanguageContext';
 
-// Barrel import
-import { rootsEn, vocabularyEn } from '@/data';
+// In a component or hook
+const { learningLanguage } = useLanguage();
+const roots = await getRootsData(learningLanguage);
+const vocabulary = await getVocabularyData(learningLanguage);
 ```
 
 ### Usage in Components
 
 ```typescript
+import { useLanguageData } from '@/hooks/useLanguageData';
+
 function RootsPage() {
-  // Direct data access
-  const roots = rootsEn;
+  const { roots, vocabulary, isLoading, error } = useLanguageData();
+
+  if (isLoading) return <div>Loading...</div>;
+  if (error) return <div>Error: {error.message}</div>;
 
   return (
     <div>
@@ -387,32 +417,36 @@ export function findRelatedRoots(root: WordRoot, allRoots: WordRoot[]): WordRoot
     .filter(Boolean) as WordRoot[];
 }
 
+// Async loaders used by getRootsData / getVocabularyData
+export async function loadRootsData(language: LearningLanguage): Promise<WordRoot[]> {
+  /* dynamic import + cache */
+}
+export async function loadVocabularyData(language: LearningLanguage): Promise<VocabWord[]> {
+  /* dynamic import + cache */
+}
+export async function loadEtymologyData(
+  language: LearningLanguage
+): Promise<Record<string, Etymology>> {
+  /* dynamic import + cache */
+}
+
 // Etymology integration for vocabulary
-export function getVocabularyData(
-  learningLanguage: 'english' | 'french' | 'spanish' | 'latin' | 'greek'
-): VocabWord[] {
-  let vocabulary: VocabWord[];
-  switch (learningLanguage) {
-    case 'french':
-      vocabulary = vocabularyFr;
-      break;
-    case 'english':
-    case 'spanish':
-    case 'latin':
-    case 'greek':
-    default:
-      vocabulary = vocabularyEn;
-  }
+export async function getVocabularyData(language: LearningLanguage): Promise<VocabWord[]> {
+  const vocabulary = await loadVocabularyData(language);
+  const etymologyData = await loadEtymologyData(language);
 
-  // Merge etymology data for English vocabulary
-  if (learningLanguage === 'english') {
-    return vocabulary.map(word => ({
-      ...word,
-      etymology: etymologyData[word.id],
-    }));
-  }
+  const withAudioUrl = vocabulary.map(word => ({
+    ...word,
+    pronunciationVariants: word.pronunciationVariants?.map(variant => ({
+      ...variant,
+      audioUrl: variant.audioUrl ?? getTtsAudioUrl(word.word, variant.accent),
+    })),
+  }));
 
-  return vocabulary;
+  return withAudioUrl.map(word => ({
+    ...word,
+    etymology: etymologyData[word.id],
+  }));
 }
 ```
 
@@ -421,51 +455,50 @@ export function getVocabularyData(
 ### Search Algorithm
 
 ```typescript
-// src/lib/search.ts
+// src/utils/search.ts
 
-export function searchAll(queryRaw: string): SearchItem[] {
-  const query = queryRaw.trim().toLowerCase();
-  if (!query) return [];
+export function createSearchableRoot(root: WordRoot): SearchableRoot {
+  return {
+    original: root,
+    normalizedRoot: normalizeSearchText(root.root),
+    normalizedMeaning: normalizeSearchText(root.meaning),
+    normalizedLanguageOrigin: normalizeSearchText(root.languageOrigin),
+    normalizedExampleWords: root.examples.map(e => normalizeSearchText(e.word)).join(' '),
+    normalizedExampleMeanings: root.examples.map(e => normalizeSearchText(e.meaning)).join(' '),
+  };
+}
 
-  // Search roots
-  const rootMatches: SearchItem[] = rootsEn
-    .filter(r => {
-      const haystack = `${r.root} ${r.meaning} ${r.languageOrigin}`.toLowerCase();
-      return haystack.includes(query);
-    })
-    .map(r => ({
-      kind: 'root',
-      id: r.id,
-      title: r.root,
-      subtitle: `${r.type} · ${r.meaning}`,
-      href: `/roots/${encodeURIComponent(r.id)}`,
+export function calculateRootRelevance(
+  searchable: SearchableRoot,
+  searchTerm: string
+): RelevanceResult {
+  /* ... */
+}
+
+export function searchWithRelevance<S extends Searchable<unknown>>(
+  items: S[],
+  searchTerm: string,
+  relevanceCalculator: (item: S, term: string) => RelevanceResult
+): SearchResult<SearchableOriginal<S>>[] {
+  return items
+    .map(item => relevanceCalculator(item, searchTerm))
+    .filter(result => result.score > 1)
+    .sort((a, b) => b.score - a.score)
+    .map(result => ({
+      item: (result.searchable as S).original as SearchableOriginal<S>,
+      score: result.score,
+      matchFields: result.matchFields,
     }));
-
-  // Search vocabulary
-  const wordMatches: SearchItem[] = vocabularyEn
-    .filter(w => {
-      const haystack = `${w.word} ${w.meaning} ${w.category}`.toLowerCase();
-      return haystack.includes(query);
-    })
-    .map(w => ({
-      kind: 'word',
-      id: w.id,
-      title: w.word,
-      subtitle: `${w.category} · ${w.meaning}`,
-      href: `/vocabulary/${encodeURIComponent(w.id)}`,
-    }));
-
-  return [...rootMatches, ...wordMatches];
 }
 ```
 
 ### Search Features
 
-1. **Multi-field Search**: Searches across word, meaning, and metadata
+1. **Multi-field Search**: Searches across word, meaning, metadata, examples, and etymology
 2. **Case-insensitive**: Normalized search queries
-3. **Type Filtering**: Filter by root or word type
-4. **Relevance**: Simple relevance based on field matching
-5. **Performance**: Optimized for frontend search
+3. **Fuzzy Matching**: Uses Levenshtein distance for approximate matches
+4. **Relevance Scoring**: Ranked by field weights (word match > meaning match > example match)
+5. **Type Filtering**: Filter by root or word type via `SearchFilters`
 6. **Etymology Search**: Searches etymology fields including language origin, timeline stages, and cognates
 
 ### Search Hook
@@ -473,30 +506,36 @@ export function searchAll(queryRaw: string): SearchItem[] {
 ```typescript
 // src/hooks/useSearch.ts
 
-export function useSearch() {
+export function useSearch<T, S extends Searchable<T>>({
+  data,
+  normalize,
+  relevanceCalculator,
+}: UseSearchOptions<T, S>) {
   const [query, setQuery] = useState('');
-  const [filter, setFilter] = useState<SearchFilter>('all');
+  const [debouncedQuery, setDebouncedQuery] = useState(query);
+  const [isPending, startTransition] = useTransition();
 
   const results = useMemo(() => {
-    if (!query.trim()) return [];
+    if (!debouncedQuery.trim() || debouncedQuery.length < minQueryLength) return [];
 
-    const allResults = searchAll(query);
+    const searchableItems = data.map(normalize);
+    return searchWithRelevance(searchableItems, debouncedQuery, relevanceCalculator);
+  }, [debouncedQuery, data, normalize, relevanceCalculator]);
 
-    if (filter === 'all') return allResults;
-    return allResults.filter(item => item.kind === filter);
-  }, [query, filter]);
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      startTransition(() => setDebouncedQuery(query));
+    }, SEARCH_DEBOUNCE_MS);
+    return () => clearTimeout(timer);
+  }, [query]);
 
   return {
     query,
-    filter,
-    results,
+    results: results.map(r => r.item),
     resultCount: results.length,
+    isPending,
     handleQueryChange: setQuery,
-    handleFilterChange: setFilter,
-    clearSearch: () => {
-      setQuery('');
-      setFilter('all');
-    },
+    clearSearch: () => setQuery(''),
     hasQuery: query.trim().length > 0,
   };
 }
@@ -507,29 +546,43 @@ export function useSearch() {
 ### Type Guards
 
 ```typescript
-// src/utils/validation.ts
+// Data types are validated at compile time via TypeScript and JSON imports.
 
-export function isWordRoot(obj: any): obj is WordRoot {
+export function isWordRoot(obj: unknown): obj is WordRoot {
+  const root = obj as Partial<WordRoot>;
   return (
-    typeof obj === 'object' &&
-    typeof obj.id === 'string' &&
-    typeof obj.root === 'string' &&
-    ['prefix', 'suffix', 'base'].includes(obj.type) &&
-    typeof obj.languageOrigin === 'string' &&
-    typeof obj.meaning === 'string' &&
-    Array.isArray(obj.examples) &&
-    Array.isArray(obj.relatedRootIds)
+    typeof root === 'object' &&
+    root !== null &&
+    typeof root.id === 'string' &&
+    typeof root.root === 'string' &&
+    ['prefix', 'suffix', 'base'].includes(root.type ?? '') &&
+    typeof root.languageOrigin === 'string' &&
+    typeof root.meaning === 'string' &&
+    Array.isArray(root.examples) &&
+    Array.isArray(root.relatedRootIds)
   );
 }
 
-export function isVocabWord(obj: any): obj is VocabWord {
+export function isVocabWord(obj: unknown): obj is VocabWord {
+  const word = obj as Partial<VocabWord>;
+  const validCategories = [
+    'greetings',
+    'numbers',
+    'verbs',
+    'daily-use-nouns',
+    'adjectives',
+    'adverbs',
+    'prepositions',
+    'function-words',
+  ];
   return (
-    typeof obj === 'object' &&
-    typeof obj.id === 'string' &&
-    typeof obj.word === 'string' &&
-    typeof obj.meaning === 'string' &&
-    ['greetings', 'numbers', 'verbs', 'daily-use-nouns'].includes(obj.category) &&
-    Array.isArray(obj.examples)
+    typeof word === 'object' &&
+    word !== null &&
+    typeof word.id === 'string' &&
+    typeof word.word === 'string' &&
+    typeof word.meaning === 'string' &&
+    validCategories.includes(word.category ?? '') &&
+    Array.isArray(word.examples)
   );
 }
 ```
@@ -552,29 +605,35 @@ export function validateVocabulary(words: any[]): VocabWord[] {
 
 ### Current Dataset Size
 
-```typescript
-// src/data/stats.ts
+English is currently the most complete dataset. Example sizes:
 
+```typescript
 export const DATA_STATS = {
   roots: {
     english: {
-      total: 200,
-      prefixes: 80,
-      suffixes: 60,
-      bases: 60,
+      total: 273,
+      prefixes: ~80,
+      suffixes: ~60,
+      bases: ~130,
     },
   },
   vocabulary: {
     english: {
-      total: 200,
-      greetings: 30,
-      numbers: 40,
-      verbs: 70,
-      'daily-use-nouns': 60,
+      total: 2000,
+      greetings: ~100,
+      numbers: ~100,
+      verbs: ~1000,
+      'daily-use-nouns': ~700,
+      adjectives: ~300,
+      adverbs: ~150,
+      prepositions: ~90,
+      'function-words': ~110,
     },
   },
 } as const;
 ```
+
+Note: Statistics are approximate; run `npm run count-data` (or equivalent tooling) to get current values.
 
 ### Data Quality Metrics
 
@@ -597,6 +656,11 @@ export class DataAPI {
 
   static async getVocabulary(language: string): Promise<VocabWord[]> {
     const response = await fetch(`/api/vocabulary/${language}`);
+    return response.json();
+  }
+
+  static async getEtymology(language: string): Promise<Record<string, Etymology>> {
+    const response = await fetch(`/api/etymology/${language}`);
     return response.json();
   }
 }

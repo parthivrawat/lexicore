@@ -73,7 +73,7 @@ function MyListPage() {
 #### Parameters
 
 - `totalItems` (number): Total number of items
-- `itemsPerPage` (number): Number of items per page
+- `itemsPerPage` is read from `SettingsContext`
 
 #### Returns
 
@@ -89,18 +89,24 @@ function MyListPage() {
 
 ### useSearch
 
-Search hook for managing search state and filtering.
+Generic search hook for managing debounced search state and relevance-ranked filtering.
 
 ```typescript
 import { useSearch } from '@/hooks/useSearch';
+import { Searchable, RelevanceResult } from '@/utils/search';
 
-interface UseSearchReturn {
+interface UseSearchOptions<T, S extends Searchable<T>> {
+  data: T[];
+  normalize: (item: T) => S;
+  relevanceCalculator: (item: S, term: string) => RelevanceResult;
+}
+
+interface UseSearchReturn<T> {
   query: string;
-  filter: SearchFilter;
-  results: SearchItem[];
+  results: T[];
   resultCount: number;
+  isPending: boolean;
   handleQueryChange: (query: string) => void;
-  handleFilterChange: (filter: SearchFilter) => void;
   clearSearch: () => void;
   hasQuery: boolean;
 }
@@ -108,7 +114,7 @@ interface UseSearchReturn {
 
 ### useRootSearch
 
-Search hook specifically for word roots.
+Search hook specifically for word roots. Loads roots for the current learning language and exposes generic search state.
 
 ```typescript
 import { useRootSearch } from '@/hooks/useRootSearch';
@@ -117,6 +123,8 @@ interface UseRootSearchReturn {
   query: string;
   results: WordRoot[];
   resultCount: number;
+  isPending: boolean;
+  isLoading: boolean;
   handleQueryChange: (query: string) => void;
   clearSearch: () => void;
   hasQuery: boolean;
@@ -125,7 +133,7 @@ interface UseRootSearchReturn {
 
 ### useVocabularySearch
 
-Search hook specifically for vocabulary words.
+Search hook specifically for vocabulary words. Loads vocabulary and etymology for the current learning language and exposes generic search state.
 
 ```typescript
 import { useVocabularySearch } from '@/hooks/useVocabularySearch';
@@ -134,6 +142,8 @@ interface UseVocabularySearchReturn {
   query: string;
   results: VocabWord[];
   resultCount: number;
+  isPending: boolean;
+  isLoading: boolean;
   handleQueryChange: (query: string) => void;
   clearSearch: () => void;
   hasQuery: boolean;
@@ -143,18 +153,18 @@ interface UseVocabularySearchReturn {
 #### Usage
 
 ```typescript
-function SearchPage() {
-  const search = useSearch();
+function MyList({ items }: { items: Item[] }) {
+  const search = useSearch({
+    data: items,
+    normalize: (item) => ({ original: item, ... }),
+    relevanceCalculator: (item, term) => ({ score: ..., matchFields: [...] }),
+  });
 
   return (
     <div>
       <SearchInput
         value={search.query}
         onChange={search.handleQueryChange}
-      />
-      <SearchFilters
-        activeFilter={search.filter}
-        onChange={search.handleFilterChange}
       />
       <SearchResults results={search.results} />
     </div>
@@ -165,11 +175,10 @@ function SearchPage() {
 #### Returns
 
 - `query`: Current search query
-- `filter`: Current search filter ('all' | 'root' | 'word')
-- `results`: Array of search results
+- `results`: Array of filtered results (original item type)
 - `resultCount`: Number of results
+- `isPending`: Whether a debounced search transition is in progress
 - `handleQueryChange`: Function to update query
-- `handleFilterChange`: Function to update filter
 - `clearSearch`: Function to clear search
 - `hasQuery`: Whether query is not empty
 
@@ -184,13 +193,14 @@ Formats category names for display.
 ```typescript
 import { formatCategory } from '@/utils/format';
 
-function formatCategory(category: string): string;
+function formatCategory(category: string, language: 'en' | 'fr' = 'en'): string;
 ```
 
 **Example:**
 
 ```typescript
 formatCategory('greetings'); // Returns: 'Greetings'
+formatCategory('greetings', 'fr'); // Returns: 'Salutations'
 formatCategory('daily-use-nouns'); // Returns: 'Daily Use Nouns'
 ```
 
@@ -201,13 +211,14 @@ Formats root type names for display.
 ```typescript
 import { formatRootType } from '@/utils/format';
 
-function formatRootType(type: string): string;
+function formatRootType(type: string, language: 'en' | 'fr' = 'en'): string;
 ```
 
 **Example:**
 
 ```typescript
 formatRootType('prefix'); // Returns: 'Prefix'
+formatRootType('prefix', 'fr'); // Returns: 'Préfixe'
 formatRootType('base'); // Returns: 'Base'
 ```
 
@@ -226,6 +237,39 @@ function formatPronunciation(ipa?: string): string;
 ```typescript
 formatPronunciation('həˈloʊ'); // Returns: '/həˈloʊ/'
 formatPronunciation(undefined); // Returns: ''
+```
+
+#### formatAccentName
+
+Returns the localized display name for an accent.
+
+```typescript
+import { formatAccentName } from '@/utils/format';
+
+function formatAccentName(accent: AccentType, language: 'en' | 'fr' = 'en'): string;
+```
+
+**Example:**
+
+```typescript
+formatAccentName('american'); // Returns: 'American'
+formatAccentName('parisian', 'fr'); // Returns: 'Parisien'
+```
+
+#### getAccentFlag
+
+Returns the flag emoji for an accent.
+
+```typescript
+import { getAccentFlag } from '@/utils/format';
+
+function getAccentFlag(accent: AccentType): string;
+```
+
+**Example:**
+
+```typescript
+getAccentFlag('american'); // Returns: '🇺🇸'
 ```
 
 #### formatCategorySlug
@@ -299,6 +343,46 @@ import { findRelatedRoots } from '@/utils/data';
 function findRelatedRoots(root: WordRoot, allRoots: WordRoot[]): WordRoot[];
 ```
 
+#### getRootsData
+
+Loads roots for the given learning language (cached, async).
+
+```typescript
+import { getRootsData } from '@/utils/data';
+
+function getRootsData(language: LearningLanguage): Promise<WordRoot[]>;
+```
+
+#### getVocabularyData
+
+Loads vocabulary for the given learning language and merges etymology data (cached, async).
+
+```typescript
+import { getVocabularyData } from '@/utils/data';
+
+function getVocabularyData(language: LearningLanguage): Promise<VocabWord[]>;
+```
+
+#### getRootById
+
+Finds a root by ID for the given learning language (cached, async).
+
+```typescript
+import { getRootById } from '@/utils/data';
+
+function getRootById(language: LearningLanguage, id: string): Promise<WordRoot | undefined>;
+```
+
+#### getVocabularyById
+
+Finds a vocabulary word by ID for the given learning language (cached, async).
+
+```typescript
+import { getVocabularyById } from '@/utils/data';
+
+function getVocabularyById(language: LearningLanguage, id: string): Promise<VocabWord | undefined>;
+```
+
 #### paginateItems
 
 Paginates an array of items.
@@ -311,21 +395,51 @@ function paginateItems<T>(items: T[], page: number, itemsPerPage: number): T[];
 
 ### Search Utilities
 
-#### searchAll
+#### createSearchableRoot / createSearchableVocabWord
 
-Searches across roots and vocabulary.
+Normalizes a `WordRoot` or `VocabWord` for relevance scoring.
 
 ```typescript
-import { searchAll } from '@/utils/search';
+import { createSearchableRoot, createSearchableVocabWord } from '@/utils/search';
 
-function searchAll(query: string): SearchItem[];
+function createSearchableRoot(root: WordRoot): SearchableRoot;
+function createSearchableVocabWord(word: VocabWord): SearchableVocabWord;
+```
+
+#### calculateRootRelevance / calculateVocabularyRelevance
+
+Calculates a relevance score and matched fields for a searchable item.
+
+```typescript
+import { calculateRootRelevance, calculateVocabularyRelevance } from '@/utils/search';
+
+function calculateRootRelevance(searchable: SearchableRoot, searchTerm: string): RelevanceResult;
+function calculateVocabularyRelevance(
+  searchable: SearchableVocabWord,
+  searchTerm: string
+): RelevanceResult;
+```
+
+#### searchWithRelevance
+
+Searches and ranks items by relevance, returning the original item type.
+
+```typescript
+import { searchWithRelevance } from '@/utils/search';
+
+function searchWithRelevance<S extends Searchable<unknown>>(
+  items: S[],
+  searchTerm: string,
+  relevanceCalculator: (item: S, term: string) => RelevanceResult
+): SearchResult<SearchableOriginal<S>>[];
 ```
 
 **Example:**
 
 ```typescript
-const results = searchAll('bio');
-// Returns: Array of SearchItem objects
+const searchableRoots = roots.map(createSearchableRoot);
+const results = searchWithRelevance(searchableRoots, 'bio', calculateRootRelevance);
+// Returns: Array of SearchResult<WordRoot> objects
 ```
 
 #### getSearchResultId
@@ -336,6 +450,12 @@ Generates unique ID for search results.
 import { getSearchResultId } from '@/utils/format';
 
 function getSearchResultId(item: SearchItem): string;
+```
+
+**Example:**
+
+```typescript
+getSearchResultId({ kind: 'root', id: 'bio-life' }); // Returns: 'root:bio-life'
 ```
 
 #### interpolate
@@ -350,18 +470,24 @@ function interpolate(template: string, values: Record<string, string>): string;
 
 #### getWordOfTheDay
 
-Gets a random word for the word of the day feature.
+Gets the word of the day for a learning language (cached in `localStorage` per day).
 
 ```typescript
 import { getWordOfTheDay } from '@/utils/wordOfTheDay';
 
-function getWordOfTheDay(): VocabWord;
+function getWordOfTheDay(
+  language: LearningLanguage = 'english'
+): Promise<(VocabWord & { etymology?: Etymology }) | null>;
 ```
 
-**Example:**
+#### getTtsAudioUrl
+
+Builds a third-party TTS audio URL fallback for a word and accent.
 
 ```typescript
-getSearchResultId({ kind: 'root', id: 'bio-life' }); // Returns: 'root:bio-life'
+import { getTtsAudioUrl } from '@/utils/audio';
+
+function getTtsAudioUrl(word: string, accent: AccentType): string | undefined;
 ```
 
 ## 📊 Constants
@@ -369,7 +495,16 @@ getSearchResultId({ kind: 'root', id: 'bio-life' }); // Returns: 'root:bio-life'
 ### Application Configuration
 
 ```typescript
-import { APP_CONFIG, PAGINATION, SEARCH, CATEGORIES, ROOT_TYPES, ROUTES } from '@/constants';
+import {
+  APP_CONFIG,
+  PAGINATION,
+  CATEGORIES,
+  ROOT_TYPES,
+  ROUTES,
+  TTS_CONFIG,
+  PAGINATION_CONFIG,
+  CARD_CONFIG,
+} from '@/constants';
 ```
 
 #### APP_CONFIG
@@ -379,6 +514,7 @@ const APP_CONFIG = {
   name: 'LexiCore',
   description: 'A multilingual platform for word roots and core vocabulary learning',
   version: '1.0.0',
+  supportedLanguages: ['en', 'fr'],
 } as const;
 ```
 
@@ -390,33 +526,59 @@ const PAGINATION = {
 } as const;
 ```
 
-#### SEARCH
+#### TTS_CONFIG
 
 ```typescript
-const SEARCH = {
-  minQueryLength: 1,
-  debounceMs: 300,
+const TTS_CONFIG = {
+  rate: 0.8,
+  fallbackAccent: 'american',
+} as const;
+```
+
+#### PAGINATION_CONFIG
+
+```typescript
+const PAGINATION_CONFIG = {
+  showPages: 5,
+  pageButtonSize: 'h-9 w-9',
+} as const;
+```
+
+#### CARD_CONFIG
+
+```typescript
+const CARD_CONFIG = {
+  iconSize: 'h-10 w-10',
+  avatarCharLimit: 1,
 } as const;
 ```
 
 #### CATEGORIES
 
+Localized category labels (English/French):
+
 ```typescript
 const CATEGORIES = {
-  greetings: 'Greetings',
-  numbers: 'Numbers',
-  verbs: 'Verbs',
-  'daily-use-nouns': 'Daily Use Nouns',
+  greetings: { en: 'Greetings', fr: 'Salutations' },
+  numbers: { en: 'Numbers', fr: 'Nombres' },
+  verbs: { en: 'Verbs', fr: 'Verbes' },
+  'daily-use-nouns': { en: 'Daily Use Nouns', fr: "Noms d'usage quotidien" },
+  adjectives: { en: 'Adjectives', fr: 'Adjectifs' },
+  adverbs: { en: 'Adverbs', fr: 'Adverbes' },
+  prepositions: { en: 'Prepositions', fr: 'Prépositions' },
+  'function-words': { en: 'Function Words', fr: 'Mots fonctionnels' },
 } as const;
 ```
 
 #### ROOT_TYPES
 
+Localized root type labels (English/French):
+
 ```typescript
 const ROOT_TYPES = {
-  prefix: 'Prefix',
-  suffix: 'Suffix',
-  base: 'Base',
+  prefix: { en: 'Prefix', fr: 'Préfixe' },
+  suffix: { en: 'Suffix', fr: 'Suffixe' },
+  base: { en: 'Base', fr: 'Base' },
 } as const;
 ```
 
@@ -427,10 +589,11 @@ const ROUTES = {
   home: '/',
   roots: '/roots',
   vocabulary: '/vocabulary',
-  search: '/search',
   settings: '/settings',
 } as const;
 ```
+
+Note: `/search`, `/roots/:id`, `/vocabulary/:id`, `/404`, and `*` are also configured in `App.tsx` via React Router.
 
 ## 🔷 Types
 
@@ -461,6 +624,8 @@ interface WordRoot {
   meaning: string;
   examples: RootExample[];
   relatedRootIds: string[];
+  pronunciationIpa?: string;
+  pronunciationVariants?: PronunciationVariant[];
 }
 ```
 
@@ -472,8 +637,10 @@ interface VocabWord {
   word: string;
   meaning: string;
   pronunciationIpa?: string;
+  pronunciationVariants?: PronunciationVariant[];
   category: VocabCategory;
   examples: string[];
+  etymology?: Etymology;
 }
 ```
 
@@ -491,8 +658,9 @@ interface SearchItem =
 
 ```typescript
 interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
-  variant?: 'primary' | 'secondary' | 'outline' | 'ghost';
-  size?: 'sm' | 'md' | 'lg';
+  variant?: 'primary' | 'secondary' | 'outline' | 'ghost' | 'accent';
+  size?: 'sm' | 'md' | 'lg' | 'xl';
+  loading?: boolean;
   children: React.ReactNode;
 }
 ```
@@ -523,6 +691,8 @@ interface VocabCardProps {
   word: VocabWord;
 }
 ```
+
+Note: `SearchResultItem` is not a standalone component in the current codebase. Search results are rendered directly in `SearchPage` using `RootCard` and `VocabCard`.
 
 ## 🧩 Components
 
@@ -604,39 +774,49 @@ import { SearchFilters } from '@/components/features/SearchFilters';
 ### Root Data
 
 ```typescript
-import { rootsEn } from '@/data/roots/english';
+import { getRootsData, getRootById } from '@/utils/data';
+import { useLanguage } from '@/contexts/LanguageContext';
 
-// All English roots
-const allRoots = rootsEn;
+const { learningLanguage } = useLanguage();
+
+// All roots for the current learning language
+const allRoots = await getRootsData(learningLanguage);
+
+// Find a specific root by ID
+const root = await getRootById(learningLanguage, 'bio-life');
 
 // Filter by type
-const prefixes = rootsEn.filter(root => root.type === 'prefix');
-const suffixes = rootsEn.filter(root => root.type === 'suffix');
-const bases = rootsEn.filter(root => root.type === 'base');
+const prefixes = allRoots.filter(root => root.type === 'prefix');
 ```
 
 ### Vocabulary Data
 
 ```typescript
-import { vocabularyEn } from '@/data/vocabulary/english';
+import { getVocabularyData, getVocabularyById, groupWordsByCategory } from '@/utils/data';
+import { useLanguage } from '@/contexts/LanguageContext';
 
-// All English vocabulary
-const allWords = vocabularyEn;
+const { learningLanguage } = useLanguage();
+
+// All vocabulary for the current learning language
+const allWords = await getVocabularyData(learningLanguage);
+
+// Find a specific word by ID
+const word = await getVocabularyById(learningLanguage, 'hello-greeting');
 
 // Group by category
-const grouped = groupWordsByCategory(vocabularyEn);
+const grouped = groupWordsByCategory(allWords);
 const greetings = grouped.greetings;
-const numbers = grouped.numbers;
 ```
 
 ### Combined Data Access
 
 ```typescript
-import { rootsEn, vocabularyEn } from '@/data';
+import { useLanguageData } from '@/hooks/useLanguageData';
 
 // Combined statistics
-const totalRoots = rootsEn.length;
-const totalWords = vocabularyEn.length;
+const { roots, vocabulary, isLoading, error } = useLanguageData();
+const totalRoots = roots.length;
+const totalWords = vocabulary.length;
 const totalItems = totalRoots + totalWords;
 ```
 
@@ -645,14 +825,18 @@ const totalItems = totalRoots + totalWords;
 ### Custom Hook Composition
 
 ```typescript
-// Combine multiple hooks
-function useSearchWithPagination() {
-  const search = useSearch();
-  const pagination = usePagination(search.resultCount, 10);
+// Combine generic search with pagination
+function useSearchWithPagination<T, S extends Searchable<T>>(
+  data: T[],
+  normalize: (item: T) => S,
+  relevanceCalculator: (item: S, term: string) => RelevanceResult
+) {
+  const search = useSearch({ data, normalize, relevanceCalculator });
+  const pagination = usePagination(search.resultCount);
 
   const paginatedResults = useMemo(() => {
-    return paginateItems(search.results, pagination.currentPage, 10);
-  }, [search.results, pagination.currentPage]);
+    return paginateItems(search.results, pagination.currentPage, pagination.itemsPerPage);
+  }, [search.results, pagination.currentPage, pagination.itemsPerPage]);
 
   return {
     ...search,

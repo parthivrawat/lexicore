@@ -28,13 +28,13 @@ Welcome to the documentation for LexiCore - Word Roots & Core Vocabulary Platfor
    - TypeScript for type safety
 
 3. **Main Features**
-   - Root Explorer (200+ English word roots)
-   - Core Vocabulary (200+ essential words)
-   - Smart Search with filters
+   - Root Explorer (250+ word roots across 20+ learning languages)
+   - Core Vocabulary (2,500+ essential words across multiple categories)
+   - Smart Search with relevance ranking, fuzzy matching, and filters
    - Etymology support with historical data
-   - Multi-language context for future i18n
-   - Theme support (light/dark mode)
-   - Settings management
+   - Multilingual learning data and UI language switching (English/French)
+   - Theme support (light/dark/system mode)
+   - Settings management (pagination, search, TTS, accent, language)
    - Responsive design
    - PWA support with offline-ready service worker and installable web app manifest
 
@@ -47,19 +47,22 @@ Welcome to the documentation for LexiCore - Word Roots & Core Vocabulary Platfor
 - **Component Organization**: ui/shared/features separation
 - **Custom Hooks**: Reusable stateful logic
 - **Context API**: Language, Settings, and Theme contexts
+- **Async Data Loading**: Dynamic imports with caching via `dataLoader.ts`
 - **Type Safety**: Comprehensive TypeScript coverage
 
 ### Key Directories
 
 ```
 src/
-├── constants/     # App configuration
+├── constants/     # App configuration (languages, accents, categories)
 ├── types/        # TypeScript definitions
 ├── hooks/        # Custom React hooks
 ├── utils/        # Utility functions
 ├── contexts/     # React context providers
-├── data/         # Static datasets
+├── data/         # Static JSON datasets per language
 ├── pages/        # Route-based page components
+├── test/         # Test setup
+├── lib/          # Shared library utilities
 └── components/   # React components
 ```
 
@@ -77,10 +80,10 @@ Each documentation file covers specific aspects:
 
 ## 🎯 Development Philosophy
 
-1. **Frontend-First**: MVP approach with static data
+1. **Frontend-First**: MVP approach with static JSON data
 2. **Component-Based**: Reusable, composable components
 3. **Type-Safe**: Comprehensive TypeScript usage
-4. **Performance**: Optimized for static generation
+4. **Performance**: Optimized for static export and on-demand data loading
 5. **Accessibility**: Semantic HTML and ARIA support
 6. **Responsive**: Mobile-first design approach
 

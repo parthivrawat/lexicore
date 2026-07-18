@@ -11,10 +11,8 @@ This document outlines the performance optimizations implemented to address Ligh
 **Solutions Implemented**:
 
 - **Manual Chunk Splitting**: Configured Vite to split vendor code and data files into separate chunks
-  - `react-vendor`: React, React DOM, and React Router
-  - `data-roots`: All root word data files
-  - `data-vocabulary`: Vocabulary data files
-  - `data-etymology`: Etymology data files
+  - `vendor`: React, React DOM, and React Router
+  - `data`: Aggregated data bundle
 - **Tree Shaking**: Enabled through Vite's default configuration
 - **Named Exports**: Using named exports in component index files for better tree-shaking
 
@@ -35,9 +33,8 @@ This document outlines the performance optimizations implemented to address Ligh
 
 **Solutions Implemented**:
 
-- **Terser Minification**: Configured Vite to use Terser for aggressive minification
-- **Console Removal**: Automatically removes console.log statements in production
-- **Dead Code Elimination**: Removes debugger statements and unused code
+- **esbuild Minification**: Uses Vite's default esbuild minifier for fast, compact output
+- **Dead Code Elimination**: Removes unused code through tree-shaking and rollup
 
 ### 4. Reduce Unused JavaScript
 
@@ -48,11 +45,12 @@ This document outlines the performance optimizations implemented to address Ligh
 - **Route-based Code Splitting**: All page components lazy-loaded with React.lazy()
   - HomePage
   - RootsPage
-  - VocabularyPage
-  - SettingsPage
   - RootDetailPage
+  - VocabularyPage
   - VocabularyDetailPage
   - SearchPage
+  - SettingsPage
+  - NotFoundPage
 - **Dynamic Data Imports**: Large data files loaded only when needed
 - **Suspense Boundaries**: Loading states for lazy-loaded components
 
@@ -73,11 +71,11 @@ This document outlines the performance optimizations implemented to address Ligh
 
 ### `vite.config.ts`
 
-- Added Terser minification with aggressive settings
-- Configured manual chunk splitting
+- Configured esbuild minification
+- Configured manual chunk splitting (`vendor` and `data`)
 - Added compression plugins (gzip and brotli)
 - Added bundle visualizer for analysis
-- Disabled source maps in production
+- PWA plugin with service worker precaching
 
 ### `package.json`
 
@@ -135,7 +133,7 @@ This will:
 - Data loaded on-demand
 - Route-based code splitting
 - Gzip/Brotli compression enabled
-- Minified with Terser
+- Minified with esbuild
 
 ## Best Practices Going Forward
 

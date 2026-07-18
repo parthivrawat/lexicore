@@ -40,21 +40,53 @@ npm run preview
 
 The project uses Vite for building with the following configuration:
 
-```javascript
+```typescript
 // vite.config.ts
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
+import { VitePWA } from 'vite-plugin-pwa';
+import compression from 'vite-plugin-compression';
+import { visualizer } from 'rollup-plugin-visualizer';
 import path from 'path';
 
 export default defineConfig({
-  plugins: [react()],
+  plugins: [
+    react(),
+    VitePWA({
+      registerType: 'autoUpdate',
+      manifest: {
+        name: 'LexiCore',
+        short_name: 'LexiCore',
+        /* ... */
+      },
+      workbox: {
+        globPatterns: ['**/*.{js,css,html,ico,png,svg,json}'],
+      },
+    }),
+    compression({ algorithm: 'gzip' }),
+    compression({ algorithm: 'brotliCompress', filename: '[path][base].br' }),
+    visualizer({ open: true, filename: 'dist/stats.html' }),
+  ],
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
     },
   },
+  server: {
+    port: 3000,
+  },
   build: {
     outDir: 'dist',
+    minify: 'esbuild',
+    target: 'es2020',
+    rollupOptions: {
+      output: {
+        manualChunks: {
+          vendor: ['react', 'react-dom', 'react-router-dom'],
+          data: ['src/data'],
+        },
+      },
+    },
   },
 });
 ```
@@ -64,10 +96,16 @@ export default defineConfig({
 ```
 dist/
 ├── assets/
+│   ├── index-[hash].js
 │   ├── index-[hash].css
-│   └── index-[hash].js
+│   ├── vendor-[hash].js
+│   ├── data-[hash].js
+│   └── ...
 ├── index.html
-└── vite.svg
+├── manifest.webmanifest
+├── sw.js
+├── stats.html
+└── ...
 ```
 
 ### Build Commands
@@ -297,18 +335,22 @@ export const config = {
 
 ### Build Optimization
 
-```javascript
+```typescript
 // vite.config.ts
 export default defineConfig({
   build: {
     outDir: 'dist',
-    sourcemap: true,
+    minify: 'esbuild',
+    target: 'es2020',
     rollupOptions: {
       output: {
         manualChunks: {
-          vendor: ['react', 'react-dom'],
-          router: ['react-router-dom'],
+          vendor: ['react', 'react-dom', 'react-router-dom'],
+          data: ['src/data'],
         },
+        chunkFileNames: 'assets/[name]-[hash].js',
+        entryFileNames: 'assets/[name]-[hash].js',
+        assetFileNames: 'assets/[name]-[hash][extname]',
       },
     },
   },

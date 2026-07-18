@@ -1,7 +1,8 @@
 'use client';
 
 import { useSettings } from '@/contexts/SettingsContext';
-import type { LearningLanguage } from '@/types/settings';
+import { LEARNING_LANGUAGES, UI_LANGUAGES } from '@/constants/languages';
+import type { LearningLanguage, UILanguage } from '@/types/settings';
 
 export function LanguageSettings() {
   const { settings, updateSetting } = useSettings();
@@ -19,11 +20,14 @@ export function LanguageSettings() {
         </label>
         <select
           value={settings.uiLanguage}
-          onChange={e => updateSetting('uiLanguage', e.target.value as 'en' | 'fr')}
+          onChange={e => updateSetting('uiLanguage', e.target.value as UILanguage)}
           className="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-900 dark:text-white focus:border-accent-500 focus:ring-2 focus:ring-accent-500 focus:ring-offset-2"
         >
-          <option value="en">🇺🇸 English</option>
-          <option value="fr">🇫🇷 Français</option>
+          {UI_LANGUAGES.map(lang => (
+            <option key={lang.id} value={lang.id}>
+              {lang.flag} {lang.label}
+            </option>
+          ))}
         </select>
         <p className="text-xs text-gray-500 dark:text-gray-400">
           Choose the language for the user interface and navigation.
@@ -40,11 +44,11 @@ export function LanguageSettings() {
           onChange={e => updateSetting('learningLanguage', e.target.value as LearningLanguage)}
           className="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-900 dark:text-white focus:border-accent-500 focus:ring-2 focus:ring-accent-500 focus:ring-offset-2"
         >
-          <option value="english">🇬🇧 English</option>
-          <option value="french">🇫🇷 French</option>
-          <option value="spanish">🇪🇸 Spanish</option>
-          <option value="latin">🏛️ Latin</option>
-          <option value="greek">🇬🇷 Greek</option>
+          {LEARNING_LANGUAGES.map(lang => (
+            <option key={lang.id} value={lang.id}>
+              {lang.flag} {lang.nameEn}
+            </option>
+          ))}
         </select>
         <p className="text-xs text-gray-500 dark:text-gray-400">
           Select the language you want to learn. This affects the vocabulary and roots content.

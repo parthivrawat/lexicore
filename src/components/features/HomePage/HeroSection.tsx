@@ -1,7 +1,9 @@
 import { Link } from 'react-router-dom';
 import { Button } from '@/components/ui/Button';
 import { ROUTES } from '@/constants';
-import { useLanguage, type LearningLanguage } from '@/contexts/LanguageContext';
+import { useLanguage } from '@/contexts/LanguageContext';
+import { LEARNING_LANGUAGES } from '@/constants/languages';
+import type { LearningLanguage } from '@/types/settings';
 
 export function HeroSection() {
   const { t, learningLanguage, setLearningLanguage } = useLanguage();
@@ -41,11 +43,11 @@ export function HeroSection() {
             onChange={e => setLearningLanguage(e.target.value as LearningLanguage)}
             className="appearance-none w-full rounded-lg border border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-800 px-3 py-2 pr-8 text-sm font-semibold text-gray-700 dark:text-gray-300 shadow-soft transition-all duration-200 hover:border-gray-300 dark:hover:border-gray-500 hover:shadow-medium focus:border-primary-500 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 cursor-pointer text-left"
           >
-            <option value="english">🇬🇧 {t('languages.english')}</option>
-            <option value="french">🇫🇷 {t('languages.french')}</option>
-            <option value="spanish">🇪🇸 {t('languages.spanish')}</option>
-            <option value="latin">🏛️ {t('languages.latin')}</option>
-            <option value="greek">🇬🇷 {t('languages.greek')}</option>
+            {LEARNING_LANGUAGES.map(lang => (
+              <option key={lang.id} value={lang.id}>
+                {lang.flag} {t(`languages.${lang.id}`)}
+              </option>
+            ))}
           </select>
           <div className="pointer-events-none absolute inset-y-0 right-0 flex items-center pr-2">
             <svg

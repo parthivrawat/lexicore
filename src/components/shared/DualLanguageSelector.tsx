@@ -1,22 +1,23 @@
 'use client';
 
-import { useLanguage, type LearningLanguage } from '@/contexts/LanguageContext';
+import { useLanguage } from '@/contexts/LanguageContext';
+import { LEARNING_LANGUAGES, UI_LANGUAGES } from '@/constants/languages';
+import type { LearningLanguage, UILanguage } from '@/types/settings';
 
 export function DualLanguageSelector() {
   const { uiLanguage, setUILanguage, learningLanguage, setLearningLanguage, t } = useLanguage();
 
-  const learningLanguages = [
-    { value: 'english', flag: '🇬🇧', label: t('languages.english') },
-    { value: 'french', flag: '🇫🇷', label: t('languages.french') },
-    { value: 'spanish', flag: '🇪🇸', label: t('languages.spanish') },
-    { value: 'latin', flag: '🏛️', label: t('languages.latin') },
-    { value: 'greek', flag: '🇬🇷', label: t('languages.greek') },
-  ] as const;
+  const learningLanguages = LEARNING_LANGUAGES.map(lang => ({
+    value: lang.id,
+    flag: lang.flag,
+    label: t(`languages.${lang.id}`),
+  }));
 
-  const uiLanguages = [
-    { value: 'en', flag: '🇺🇸', label: 'English' },
-    { value: 'fr', flag: '🇫🇷', label: 'Français' },
-  ] as const;
+  const uiLanguages = UI_LANGUAGES.map(lang => ({
+    value: lang.id,
+    flag: lang.flag,
+    label: lang.label,
+  }));
 
   return (
     <div className="flex items-center gap-3">
@@ -28,7 +29,7 @@ export function DualLanguageSelector() {
         <div className="relative">
           <select
             value={uiLanguage}
-            onChange={e => setUILanguage(e.target.value as 'en' | 'fr')}
+            onChange={e => setUILanguage(e.target.value as UILanguage)}
             className="appearance-none rounded-lg border border-gray-200 dark:border-gray-600 bg-white dark:bg-gray-800 px-3 py-1.5 pr-8 text-sm font-semibold text-gray-700 dark:text-gray-300 shadow-soft transition-all duration-200 hover:border-gray-300 dark:hover:border-gray-500 hover:shadow-medium focus:border-primary-500 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 cursor-pointer"
           >
             {uiLanguages.map(lang => (

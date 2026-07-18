@@ -70,54 +70,6 @@ export const ROOT_TYPES = {
   },
 } as const;
 
-export const ACCENT_NAMES = {
-  american: { en: 'American', fr: 'Américain' },
-  british: { en: 'British', fr: 'Britannique' },
-  australian: { en: 'Australian', fr: 'Australien' },
-  canadian: { en: 'Canadian', fr: 'Canadien' },
-  irish: { en: 'Irish', fr: 'Irlandais' },
-  scottish: { en: 'Scottish', fr: 'Écossais' },
-  parisian: { en: 'Parisian', fr: 'Parisien' },
-  quebecois: { en: 'Québécois', fr: 'Québécois' },
-  belgian: { en: 'Belgian', fr: 'Belge' },
-  swiss: { en: 'Swiss', fr: 'Suisse' },
-  spanish: { en: 'Spanish', fr: 'Espagnol' },
-  latin: { en: 'Latin', fr: 'Latin' },
-  greek: { en: 'Greek', fr: 'Grec' },
-} as const;
-
-export const ACCENT_FLAGS = {
-  american: '🇺🇸',
-  british: '🇬🇧',
-  australian: '🇦🇺',
-  canadian: '🇨🇦',
-  irish: '🇮🇪',
-  scottish: '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
-  parisian: '🇫🇷',
-  quebecois: '🇨🇦',
-  belgian: '🇧🇪',
-  swiss: '🇨🇭',
-  spanish: '🇪🇸',
-  latin: '🏛️',
-  greek: '🇬🇷',
-} as const;
-
-export const ACCENT_LANGUAGE_CODES = {
-  american: 'en-US',
-  british: 'en-GB',
-  australian: 'en-AU',
-  canadian: 'en-CA',
-  irish: 'en-IE',
-  scottish: 'en-GB',
-  parisian: 'fr-FR',
-  quebecois: 'fr-CA',
-  belgian: 'fr-BE',
-  swiss: 'fr-CH',
-  spanish: 'es-ES',
-  latin: 'la',
-  greek: 'el-GR',
-} as const;
-
 export const TTS_CONFIG = {
   rate: 0.8,
   fallbackAccent: 'american' as const,
@@ -140,4 +92,6 @@ export const ROUTES = {
   settings: '/settings',
 } as const;
 
+export * from './accents';
+export * from './languages';
 export * from './learningTips';

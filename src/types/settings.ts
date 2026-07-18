@@ -1,4 +1,7 @@
-export type LearningLanguage = 'english' | 'french' | 'spanish' | 'latin' | 'greek';
+import { LEARNING_LANGUAGES, UI_LANGUAGES } from '@/constants/languages';
+
+export type LearningLanguage = (typeof LEARNING_LANGUAGES)[number]['id'];
+export type UILanguage = (typeof UI_LANGUAGES)[number]['id'];
 
 export interface AppSettings {
   // Essential Pagination Settings
@@ -12,7 +15,7 @@ export interface AppSettings {
   fallbackAccent: string;
 
   // Language Settings
-  uiLanguage: 'en' | 'fr';
+  uiLanguage: UILanguage;
   learningLanguage: LearningLanguage;
 }
 

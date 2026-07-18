@@ -1,3 +1,7 @@
+import type { AccentType } from '@/constants/accents';
+
+export type { AccentType };
+
 export type RootType = 'prefix' | 'suffix' | 'base';
 
 export type RootExample = {
@@ -5,21 +9,6 @@ export type RootExample = {
   meaning: string;
   sentence: string;
 };
-
-export type AccentType =
-  | 'american'
-  | 'british'
-  | 'australian'
-  | 'canadian'
-  | 'irish'
-  | 'scottish'
-  | 'parisian'
-  | 'quebecois'
-  | 'belgian'
-  | 'swiss'
-  | 'spanish'
-  | 'latin'
-  | 'greek';
 
 export type PronunciationVariant = {
   accent: AccentType;

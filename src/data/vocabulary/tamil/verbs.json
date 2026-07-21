@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_ta_irukka",
+    "word": "இருக்க",
+    "meaning": "to be",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "iɾukkə"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["நான் மாணவன்.", "அவர் ஆசிரியர்."]
+  },
+  {
+    "id": "word_ta_seiya",
+    "word": "செய்ய",
+    "meaning": "to do",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "sejjə"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["என்ன செய்கிறீர்கள்?", "வேலை செய்."]
+  },
+  {
+    "id": "word_ta_poga",
+    "word": "போக",
+    "meaning": "to go",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "poːɡə"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["பள்ளிக்கு போ.", "எங்கே போகிறீர்கள்?"]
+  },
+  {
+    "id": "word_ta_vara",
+    "word": "வர",
+    "meaning": "to come",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "ʋəɾə"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["இங்கே வா.", "அவர் நாளை வருவார்."]
+  },
+  {
+    "id": "word_ta_saapida",
+    "word": "சாப்பிட",
+    "meaning": "to eat",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "saːppiɖə"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["சாப்பாடு சாப்பிடு.", "என்ன சாப்பிட்டீர்கள்?"]
+  },
+  {
+    "id": "word_ta_kudikka",
+    "word": "குடிக்க",
+    "meaning": "to drink",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "kuɖikkə"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["தண்ணீர் குடி.", "டீ குடி."]
+  },
+  {
+    "id": "word_ta_paarkka",
+    "word": "பார்க்க",
+    "meaning": "to see",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "paːɾkkə"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["படம் பார்.", "இதை பார்."]
+  },
+  {
+    "id": "word_ta_ketkka",
+    "word": "கேட்க",
+    "meaning": "to hear",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "keːʈkə"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["பாட்டு கேள்.", "கேட்கிறீர்களா?"]
+  },
+  {
+    "id": "word_ta_peasa",
+    "word": "பேச",
+    "meaning": "to speak",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "peːsə"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["தமிழ் பேசு.", "சத்தமா பேசு."]
+  },
+  {
+    "id": "word_ta_padikka",
+    "word": "படிக்க",
+    "meaning": "to read",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "pəɖikkə"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["புத்தகம் படி.", "செய்தித்தாள் படி."]
+  },
+  {
+    "id": "word_ta_ezhutha",
+    "word": "எழுத",
+    "meaning": "to write",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "eɻud̪ə"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["கடிதம் எழுது.", "பெயர் எழுது."]
+  },
+  {
+    "id": "word_ta_kudukka",
+    "word": "குடுக்க",
+    "meaning": "to give",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "kuɖukkə"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["எனக்கு புத்தகம் குடு.", "தண்ணீர் குடு."]
+  },
+  {
+    "id": "word_ta_edukka",
+    "word": "எடுக்க",
+    "meaning": "to take",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "eɖukkə"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["இதை எடு.", "புத்தகம் எடு."]
+  },
+  {
+    "id": "word_ta_thoongu",
+    "word": "தூங்கு",
+    "meaning": "to sleep",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "t̪uːŋɡu"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["தூங்கு.", "நல்லா தூங்கு."]
+  },
+  {
+    "id": "word_ta_ezhundhu",
+    "word": "எழுந்து",
+    "meaning": "to wake up",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "eɻund̪u"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["காலையில் எழுந்திரு.", "சீக்கிரம் எழுந்திரு."]
+  },
+  {
+    "id": "word_ta_ukkara",
+    "word": "உக்கார",
+    "meaning": "to sit",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "ukkaːɾə"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["இங்கே உக்காரு.", "நாற்காலியில் உக்காரு."]
+  },
+  {
+    "id": "word_ta_nirkka",
+    "word": "நிற்க",
+    "meaning": "to stand",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "niɾkkə"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["இங்கே நில்லு.", "நேரா நில்லு."]
+  },
+  {
+    "id": "word_ta_nadakka",
+    "word": "நடக்க",
+    "meaning": "to walk",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "nəɖəkkə"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["மெதுவா நட.", "சாலையில் நட."]
+  },
+  {
+    "id": "word_ta_oda",
+    "word": "ஓட",
+    "meaning": "to run",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "oːɖə"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["வேகமா ஓடு.", "அவர் ஓடுகிறார்."]
+  },
+  {
+    "id": "word_ta_sirikka",
+    "word": "சிரிக்க",
+    "meaning": "to laugh",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "siɾikkə"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["அதிகமா சிரி.", "அவர் சிரிக்கிறார்."]
+  },
+  {
+    "id": "word_ta_azhuga",
+    "word": "அழுக",
+    "meaning": "to cry",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "əɻuɡə"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["அழாதே.", "குழந்தை அழுகிறது."]
+  },
+  {
+    "id": "word_ta_purindhu_kolla",
+    "word": "புரிந்து கொள்ள",
+    "meaning": "to understand",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "puɾind̪u koɭɭə"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["எனக்கு புரிந்தது.", "உங்களுக்கு புரிந்ததா?"]
+  },
+  {
+    "id": "word_ta_venum",
+    "word": "வேணும்",
+    "meaning": "to want",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "ʋeːɳum"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["எனக்கு வேணும்.", "என்ன வேணும்?"]
+  },
+  {
+    "id": "word_ta_kaadhal_seiya",
+    "word": "காதல் செய்ய",
+    "meaning": "to love",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "kaːd̪əl sejjə"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["நான் உன்னை காதலிக்கிறேன்.", "குடும்பத்தை நேசி."]
+  },
+  {
+    "id": "word_ta_velai_seiya",
+    "word": "வேலை செய்ய",
+    "meaning": "to work",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "ʋeːlɛ sejjə"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["கடினமா வேலை செய்.", "நான் அலுவலகத்தில் வேலை செய்கிறேன்."]
+  }
+]

@@ -89,5 +89,226 @@
     ],
     "category": "daily-use-nouns",
     "examples": ["Es mi mejor amigo.", "Tengo un amigo nuevo."]
+  },
+  {
+    "id": "word_es_libro",
+    "word": "libro",
+    "meaning": "book",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈli.βɾo"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Leo un libro.", "El libro es interesante."]
+  },
+  {
+    "id": "word_es_mesa",
+    "word": "mesa",
+    "meaning": "table",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈme.sa"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["La mesa está limpia.", "Pon el libro en la mesa."]
+  },
+  {
+    "id": "word_es_silla",
+    "word": "silla",
+    "meaning": "chair",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈsi.ʎa"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Siéntate en la silla.", "La silla es cómoda."]
+  },
+  {
+    "id": "word_es_puerta",
+    "word": "puerta",
+    "meaning": "door",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈpweɾ.ta"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Abre la puerta.", "La puerta está cerrada."]
+  },
+  {
+    "id": "word_es_ventana",
+    "word": "ventana",
+    "meaning": "window",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "benˈta.na"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Abre la ventana.", "La ventana da al jardín."]
+  },
+  {
+    "id": "word_es_coche",
+    "word": "coche",
+    "meaning": "car",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈko.tʃe"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Mi coche es rojo.", "Voy en coche."]
+  },
+  {
+    "id": "word_es_telefono",
+    "word": "teléfono",
+    "meaning": "phone",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "teˈle.fo.no"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["El teléfono suena.", "Llámame por teléfono."]
+  },
+  {
+    "id": "word_es_computadora",
+    "word": "computadora",
+    "meaning": "computer",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "kom.pu.taˈðo.ɾa"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Uso la computadora.", "La computadora es rápida."]
+  },
+  {
+    "id": "word_es_madre",
+    "word": "madre",
+    "meaning": "mother",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈma.ðɾe"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Mi madre cocina bien.", "Amo a mi madre."]
+  },
+  {
+    "id": "word_es_padre",
+    "word": "padre",
+    "meaning": "father",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈpa.ðɾe"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Mi padre trabaja.", "Respeto a mi padre."]
+  },
+  {
+    "id": "word_es_hermano",
+    "word": "hermano",
+    "meaning": "brother",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "eɾˈma.no"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Mi hermano mayor.", "Tengo dos hermanos."]
+  },
+  {
+    "id": "word_es_hermana",
+    "word": "hermana",
+    "meaning": "sister",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "eɾˈma.na"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Mi hermana pequeña.", "Tengo una hermana."]
+  },
+  {
+    "id": "word_es_dia",
+    "word": "día",
+    "meaning": "day",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈdi.a"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Buen día.", "El día es hermoso."]
+  },
+  {
+    "id": "word_es_noche",
+    "word": "noche",
+    "meaning": "night",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈno.tʃe"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Buenas noches.", "La noche es oscura."]
+  },
+  {
+    "id": "word_es_tiempo",
+    "word": "tiempo",
+    "meaning": "time/weather",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈtjem.po"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["No tengo tiempo.", "El tiempo está bueno."]
+  },
+  {
+    "id": "word_es_ciudad",
+    "word": "ciudad",
+    "meaning": "city",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "θjuˈðað"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Vivo en la ciudad.", "La ciudad es grande."]
+  },
+  {
+    "id": "word_es_calle",
+    "word": "calle",
+    "meaning": "street",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈka.ʎe"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Cruza la calle.", "Vivo en esta calle."]
   }
 ]

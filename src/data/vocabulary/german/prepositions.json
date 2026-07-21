@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_de_in",
+    "word": "in",
+    "meaning": "in/at",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ɪn"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Im Haus.", "In der Schule."]
+  },
+  {
+    "id": "word_de_auf",
+    "word": "auf",
+    "meaning": "on",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "aʊf"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Auf dem Tisch.", "Auf dem Stuhl."]
+  },
+  {
+    "id": "word_de_aus",
+    "word": "aus",
+    "meaning": "from/out of",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "aʊs"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Aus dem Haus.", "Woher?"]
+  },
+  {
+    "id": "word_de_zu",
+    "word": "zu",
+    "meaning": "to",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "tsuː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Zur Schule.", "Wohin?"]
+  },
+  {
+    "id": "word_de_fur",
+    "word": "für",
+    "meaning": "for",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "fyːɐ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Für dich.", "Für Kinder."]
+  },
+  {
+    "id": "word_de_mit",
+    "word": "mit",
+    "meaning": "with",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "mɪt"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Mit Freunden.", "Mit der Familie."]
+  },
+  {
+    "id": "word_de_ohne",
+    "word": "ohne",
+    "meaning": "without",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈoːnə"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Ohne Wasser.", "Ohne dich."]
+  },
+  {
+    "id": "word_de_bei",
+    "word": "bei",
+    "meaning": "near/at",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "baɪ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Bei dem Haus.", "Bei der Schule."]
+  },
+  {
+    "id": "word_de_nach",
+    "word": "nach",
+    "meaning": "after/to",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "naːx"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Nach dem Essen.", "Nach der Schule."]
+  },
+  {
+    "id": "word_de_vor",
+    "word": "vor",
+    "meaning": "before/in front of",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "foːɐ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Vor dem Schlafen.", "Vor dem Essen."]
+  },
+  {
+    "id": "word_de_uber",
+    "word": "über",
+    "meaning": "above/over",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈyːbɐ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Über dem Tisch.", "Über dem Berg."]
+  },
+  {
+    "id": "word_de_unter",
+    "word": "unter",
+    "meaning": "under",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈʊntɐ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Unter dem Bett.", "Unter dem Baum."]
+  },
+  {
+    "id": "word_de_zwischen",
+    "word": "zwischen",
+    "meaning": "between",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈtsvɪʃn̩"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Zwischen den Häusern.", "Zwischen uns."]
+  },
+  {
+    "id": "word_de_bis",
+    "word": "bis",
+    "meaning": "until",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "bɪs"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Bis zum Abend.", "Bis hierher."]
+  },
+  {
+    "id": "word_de_durch",
+    "word": "durch",
+    "meaning": "through",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "dʊʁç"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Durch die Straße.", "Durch eine Stunde."]
+  }
+]

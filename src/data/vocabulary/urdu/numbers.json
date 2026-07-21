@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_ur_sifar",
+    "word": "صفر",
+    "meaning": "zero",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "sɪfər"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["صفر ڈگری۔", "صفر سے شروع۔"]
+  },
+  {
+    "id": "word_ur_ek",
+    "word": "ایک",
+    "meaning": "one",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "eːk"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ایک شخص۔", "میرے پاس ایک ہے۔"]
+  },
+  {
+    "id": "word_ur_do",
+    "word": "دو",
+    "meaning": "two",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "doː"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["دو جمع تین۔", "میرے پاس دو ہیں۔"]
+  },
+  {
+    "id": "word_ur_teen",
+    "word": "تین",
+    "meaning": "three",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "tiːn"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["تین دن۔", "تین کتابیں۔"]
+  },
+  {
+    "id": "word_ur_char",
+    "word": "چار",
+    "meaning": "four",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "t͡ʃɑːr"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["چار لوگ۔", "چار موسم۔"]
+  },
+  {
+    "id": "word_ur_panch",
+    "word": "پانچ",
+    "meaning": "five",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "pɑ̃ːt͡ʃ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["پانچ روپے۔", "پانچ بجے۔"]
+  },
+  {
+    "id": "word_ur_chhe",
+    "word": "چھ",
+    "meaning": "six",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "t͡ʃʰeː"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["چھ مہینے۔", "چھ کتابیں۔"]
+  },
+  {
+    "id": "word_ur_saat",
+    "word": "سات",
+    "meaning": "seven",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "sɑːt"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["سات دن۔", "سات لوگ۔"]
+  },
+  {
+    "id": "word_ur_aath",
+    "word": "آٹھ",
+    "meaning": "eight",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ɑːʈʰ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["آٹھ کلو۔", "آٹھ گھنٹے۔"]
+  },
+  {
+    "id": "word_ur_nau",
+    "word": "نو",
+    "meaning": "nine",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "nəʊ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["نو مہینے۔", "نو کتابیں۔"]
+  },
+  {
+    "id": "word_ur_das",
+    "word": "دس",
+    "meaning": "ten",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "dəs"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["دس روپے۔", "دس سال۔"]
+  },
+  {
+    "id": "word_ur_bees",
+    "word": "بیس",
+    "meaning": "twenty",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "biːs"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["بیس لوگ۔", "بیس روپے۔"]
+  },
+  {
+    "id": "word_ur_pachas",
+    "word": "پچاس",
+    "meaning": "fifty",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "pət͡ʃɑːs"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["پچاس فیصد۔", "پچاس روپے۔"]
+  },
+  {
+    "id": "word_ur_sau",
+    "word": "سو",
+    "meaning": "hundred",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "səʊ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["سو روپے۔", "سو سال۔"]
+  },
+  {
+    "id": "word_ur_hazar",
+    "word": "ہزار",
+    "meaning": "thousand",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "həˈzɑːr"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ہزار روپے۔", "ہزار لوگ۔"]
+  }
+]

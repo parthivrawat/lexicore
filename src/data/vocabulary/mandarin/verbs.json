@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_zh_shi",
+    "word": "是",
+    "meaning": "to be",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ʂɿ˥˩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["我是学生。", "这是书。"]
+  },
+  {
+    "id": "word_zh_zuo",
+    "word": "做",
+    "meaning": "to do/make",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tswɔ˥˩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["我在做作业。", "做什么？"]
+  },
+  {
+    "id": "word_zh_qu",
+    "word": "去",
+    "meaning": "to go",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tɕʰy˥˩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["我去学校。", "你去哪儿？"]
+  },
+  {
+    "id": "word_zh_lai",
+    "word": "来",
+    "meaning": "to come",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "lai˨˩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["你来这里。", "他来了。"]
+  },
+  {
+    "id": "word_zh_chi",
+    "word": "吃",
+    "meaning": "to eat",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ʈʂʰɿ˥"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["我在吃饭。", "你吃了吗？"]
+  },
+  {
+    "id": "word_zh_he",
+    "word": "喝",
+    "meaning": "to drink",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "xɤ˥"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["喝水。", "你喝茶吗？"]
+  },
+  {
+    "id": "word_zh_kan",
+    "word": "看",
+    "meaning": "to see/watch",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "kʰan˥˩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["看电影。", "我在看你。"]
+  },
+  {
+    "id": "word_zh_ting",
+    "word": "听",
+    "meaning": "to hear/listen",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tʰiŋ˥"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["听音乐。", "听我说。"]
+  },
+  {
+    "id": "word_zh_shuo",
+    "word": "说",
+    "meaning": "to speak/say",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ʂwɔ˥"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["说中文。", "说实话。"]
+  },
+  {
+    "id": "word_zh_du",
+    "word": "读",
+    "meaning": "to read",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tu˨˩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["读书。", "我在读。"]
+  },
+  {
+    "id": "word_zh_xie",
+    "word": "写",
+    "meaning": "to write",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ɕjɛ˨˩˦"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["写信。", "写名字。"]
+  },
+  {
+    "id": "word_zh_gei",
+    "word": "给",
+    "meaning": "to give",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "kei˨˩˦"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["给他书。", "给我水。"]
+  },
+  {
+    "id": "word_zh_na",
+    "word": "拿",
+    "meaning": "to take",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "na˨˩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["拿书。", "我在拿。"]
+  },
+  {
+    "id": "word_zh_shui",
+    "word": "睡",
+    "meaning": "to sleep",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ʂwei˥˩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["早点睡。", "我在睡觉。"]
+  },
+  {
+    "id": "word_zh_qi",
+    "word": "起",
+    "meaning": "to get up",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tɕʰi˨˩˦"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["早点起。", "起床了。"]
+  },
+  {
+    "id": "word_zh_zuo_verb",
+    "word": "坐",
+    "meaning": "to sit",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tswɔ˥˩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["请坐。", "我坐着。"]
+  },
+  {
+    "id": "word_zh_zhan",
+    "word": "站",
+    "meaning": "to stand",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ʈʂan˥˩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["站起来。", "他站着。"]
+  },
+  {
+    "id": "word_zh_zou",
+    "word": "走",
+    "meaning": "to walk",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tsou˨˩˦"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["慢慢走。", "我们走吧。"]
+  },
+  {
+    "id": "word_zh_pao",
+    "word": "跑",
+    "meaning": "to run",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "pʰɑʊ˨˩˦"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["快跑。", "他在跑。"]
+  },
+  {
+    "id": "word_zh_xiao",
+    "word": "笑",
+    "meaning": "to laugh",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ɕjɑʊ˥˩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["大笑。", "他在笑。"]
+  },
+  {
+    "id": "word_zh_ku",
+    "word": "哭",
+    "meaning": "to cry",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "kʰu˥"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["别哭。", "孩子在哭。"]
+  },
+  {
+    "id": "word_zh_dong",
+    "word": "懂",
+    "meaning": "to understand",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tʊŋ˨˩˦"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["我懂了。", "你懂吗？"]
+  },
+  {
+    "id": "word_zh_yao",
+    "word": "要",
+    "meaning": "to want",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "jɑʊ˥˩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["我要去。", "你要什么？"]
+  },
+  {
+    "id": "word_zh_ai",
+    "word": "爱",
+    "meaning": "to love",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ai˥˩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["我爱你。", "爱家人。"]
+  },
+  {
+    "id": "word_zh_gongzuo",
+    "word": "工作",
+    "meaning": "to work",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "kʊŋ˥tswɔ˥˩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["努力工作。", "在办公室工作。"]
+  }
+]

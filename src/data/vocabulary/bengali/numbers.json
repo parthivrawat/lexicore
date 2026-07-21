@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_bn_shunno",
+    "word": "শূন্য",
+    "meaning": "zero",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃunːo"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["শূন্য ডিগ্রি।", "শূন্য থেকে শুরু।"]
+  },
+  {
+    "id": "word_bn_ek",
+    "word": "এক",
+    "meaning": "one",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ek"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["এক জন।", "আমার এক আছে।"]
+  },
+  {
+    "id": "word_bn_dui",
+    "word": "দুই",
+    "meaning": "two",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dui"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["দুই যোগ তিন।", "আমার দুই আছে।"]
+  },
+  {
+    "id": "word_bn_tin",
+    "word": "তিন",
+    "meaning": "three",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "tin"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["তিন দিন।", "তিনটি বই।"]
+  },
+  {
+    "id": "word_bn_char",
+    "word": "চার",
+    "meaning": "four",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "tʃaɾ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["চার জন।", "চার ঋতু।"]
+  },
+  {
+    "id": "word_bn_panch",
+    "word": "পাঁচ",
+    "meaning": "five",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "pãtʃ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["পাঁচ টাকা।", "পাঁচটা বাজে।"]
+  },
+  {
+    "id": "word_bn_choy",
+    "word": "ছয়",
+    "meaning": "six",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "tʃʰɔj"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ছয় মাস।", "ছয়টি বই।"]
+  },
+  {
+    "id": "word_bn_shat",
+    "word": "সাত",
+    "meaning": "seven",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃat"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["সাত দিন।", "সাত জন।"]
+  },
+  {
+    "id": "word_bn_aat",
+    "word": "আট",
+    "meaning": "eight",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "aʈ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["আট কিলোগ্রাম।", "আট ঘণ্টা।"]
+  },
+  {
+    "id": "word_bn_noy",
+    "word": "নয়",
+    "meaning": "nine",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "nɔj"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["নয় মাস।", "নয়টি বই।"]
+  },
+  {
+    "id": "word_bn_dosh",
+    "word": "দশ",
+    "meaning": "ten",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dɔʃ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["দশ টাকা।", "দশ বছর।"]
+  },
+  {
+    "id": "word_bn_bish",
+    "word": "বিশ",
+    "meaning": "twenty",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "biʃ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["বিশ জন।", "বিশ টাকা।"]
+  },
+  {
+    "id": "word_bn_ponchas",
+    "word": "পঞ্চাশ",
+    "meaning": "fifty",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "pɔntʃaʃ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["পঞ্চাশ শতাংশ।", "পঞ্চাশ টাকা।"]
+  },
+  {
+    "id": "word_bn_eksho",
+    "word": "একশ",
+    "meaning": "hundred",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ekʃo"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["একশ টাকা।", "একশ বছর।"]
+  },
+  {
+    "id": "word_bn_hajar",
+    "word": "হাজার",
+    "meaning": "thousand",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "hadʒaɾ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["হাজার টাকা।", "হাজার জন।"]
+  }
+]

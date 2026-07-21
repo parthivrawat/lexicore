@@ -1,0 +1,314 @@
+[
+  {
+    "id": "word_tr_ev",
+    "word": "ev",
+    "meaning": "home/house",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ev"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Eve gidiyorum.", "Bu benim evim."]
+  },
+  {
+    "id": "word_tr_su",
+    "word": "su",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "su"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Su iç.", "Su sıcak."]
+  },
+  {
+    "id": "word_tr_yemek_noun",
+    "word": "yemek",
+    "meaning": "food",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "jemec"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Yemek hazır.", "Yemek ye."]
+  },
+  {
+    "id": "word_tr_kitap",
+    "word": "kitap",
+    "meaning": "book",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "citɑp"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Kitap oku.", "Bu kitap iyi."]
+  },
+  {
+    "id": "word_tr_kalem",
+    "word": "kalem",
+    "meaning": "pen",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "cɑlem"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Bana kalemi ver.", "Kalemim kayboldu."]
+  },
+  {
+    "id": "word_tr_kagit",
+    "word": "kağıt",
+    "meaning": "paper",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "kɑːɯt"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Kağıda yaz.", "Kağıt lazım."]
+  },
+  {
+    "id": "word_tr_kapi",
+    "word": "kapı",
+    "meaning": "door",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "kɑpɯ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Kapıyı aç.", "Kapıyı kapat."]
+  },
+  {
+    "id": "word_tr_pencere",
+    "word": "pencere",
+    "meaning": "window",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "pend͡ʒeɾe"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Pencereyi aç.", "Pencere kırık."]
+  },
+  {
+    "id": "word_tr_sandalye",
+    "word": "sandalye",
+    "meaning": "chair",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "sɑndɑlje"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Sandalyeye otur.", "Sandalye rahat."]
+  },
+  {
+    "id": "word_tr_masa",
+    "word": "masa",
+    "meaning": "table",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "mɑsɑ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Masaya koy.", "Masa temiz."]
+  },
+  {
+    "id": "word_tr_yatak",
+    "word": "yatak",
+    "meaning": "bed",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "jɑtɑk"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Yatakta uyu.", "Yatak rahat."]
+  },
+  {
+    "id": "word_tr_giysi",
+    "word": "giysi",
+    "meaning": "clothes",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɟijsi"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Giysi giy.", "Giysileri yıka."]
+  },
+  {
+    "id": "word_tr_ayakkabi",
+    "word": "ayakkabı",
+    "meaning": "shoes",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɑjɑkːɑbɯ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Ayakkabı giy.", "Ayakkabıyı çıkar."]
+  },
+  {
+    "id": "word_tr_araba",
+    "word": "araba",
+    "meaning": "car",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɑɾɑbɑ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Arabayı sür.", "Araba geldi."]
+  },
+  {
+    "id": "word_tr_telefon",
+    "word": "telefon",
+    "meaning": "phone",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "telefon"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Telefonla ara.", "Telefon çalıyor."]
+  },
+  {
+    "id": "word_tr_bilgisayar",
+    "word": "bilgisayar",
+    "meaning": "computer",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "bilɡisɑjɑɾ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Bilgisayarı kullan.", "Bilgisayar hızlı."]
+  },
+  {
+    "id": "word_tr_okul",
+    "word": "okul",
+    "meaning": "school",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ocul"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Okula git.", "Okul yakın."]
+  },
+  {
+    "id": "word_tr_arkadas",
+    "word": "arkadaş",
+    "meaning": "friend",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɑɾkɑdɑʃ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["O benim arkadaşım.", "İyi arkadaş."]
+  },
+  {
+    "id": "word_tr_aile",
+    "word": "aile",
+    "meaning": "family",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɑile"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Ailem büyük.", "Aileyi sev."]
+  },
+  {
+    "id": "word_tr_anne",
+    "word": "anne",
+    "meaning": "mother",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɑnːe"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Anne evde.", "Anne sevgisi."]
+  },
+  {
+    "id": "word_tr_baba",
+    "word": "baba",
+    "meaning": "father",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "bɑbɑ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Baba işte.", "Babaya saygı göster."]
+  },
+  {
+    "id": "word_tr_kardes",
+    "word": "kardeş",
+    "meaning": "sibling",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "kɑɾdeʃ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Benim kardeşim.", "Bir kardeşim var."]
+  },
+  {
+    "id": "word_tr_gun",
+    "word": "gün",
+    "meaning": "day",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɟyn"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Bugün güzel gün.", "Yeni gün."]
+  },
+  {
+    "id": "word_tr_gece",
+    "word": "gece",
+    "meaning": "night",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɡed͡ʒe"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Gece oldu.", "Gece uyu."]
+  }
+]

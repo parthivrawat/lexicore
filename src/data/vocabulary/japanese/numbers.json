@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_ja_zero",
+    "word": "零/ゼロ",
+    "meaning": "zero",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "zeɾo"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["零度。", "ゼロから始める。"]
+  },
+  {
+    "id": "word_ja_ichi",
+    "word": "一",
+    "meaning": "one",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "it͡ɕi"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["一人。", "一つ持っている。"]
+  },
+  {
+    "id": "word_ja_ni",
+    "word": "二",
+    "meaning": "two",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ɲi"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["二足す三。", "二つ持っている。"]
+  },
+  {
+    "id": "word_ja_san",
+    "word": "三",
+    "meaning": "three",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "saɴ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["三日。", "三冊の本。"]
+  },
+  {
+    "id": "word_ja_yon",
+    "word": "四",
+    "meaning": "four",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "joɴ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["四人。", "四季。"]
+  },
+  {
+    "id": "word_ja_go",
+    "word": "五",
+    "meaning": "five",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ɡo"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["五円。", "五時。"]
+  },
+  {
+    "id": "word_ja_roku",
+    "word": "六",
+    "meaning": "six",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ɾokɯ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["六ヶ月。", "六冊の本。"]
+  },
+  {
+    "id": "word_ja_nana",
+    "word": "七",
+    "meaning": "seven",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "nana"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["七日。", "七人。"]
+  },
+  {
+    "id": "word_ja_hachi",
+    "word": "八",
+    "meaning": "eight",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "hat͡ɕi"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["八キロ。", "八時間。"]
+  },
+  {
+    "id": "word_ja_kyuu",
+    "word": "九",
+    "meaning": "nine",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "kjɯː"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["九ヶ月。", "九冊の本。"]
+  },
+  {
+    "id": "word_ja_juu",
+    "word": "十",
+    "meaning": "ten",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "d͡ʑɯː"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["十円。", "十年。"]
+  },
+  {
+    "id": "word_ja_nijuu",
+    "word": "二十",
+    "meaning": "twenty",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ɲid͡ʑɯː"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["二十人。", "二十円。"]
+  },
+  {
+    "id": "word_ja_gojuu",
+    "word": "五十",
+    "meaning": "fifty",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ɡod͡ʑɯː"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["五十パーセント。", "五十円。"]
+  },
+  {
+    "id": "word_ja_hyaku",
+    "word": "百",
+    "meaning": "hundred",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "çjakɯ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["百円。", "百年。"]
+  },
+  {
+    "id": "word_ja_sen",
+    "word": "千",
+    "meaning": "thousand",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "seɴ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["千円。", "千人。"]
+  }
+]

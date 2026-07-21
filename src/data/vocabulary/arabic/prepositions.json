@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_ar_fi",
+    "word": "في",
+    "meaning": "in",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "fiː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["في البيت.", "في المدرسة."]
+  },
+  {
+    "id": "word_ar_ala",
+    "word": "على",
+    "meaning": "on",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʕalaː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["على الطاولة.", "على الكرسي."]
+  },
+  {
+    "id": "word_ar_min",
+    "word": "من",
+    "meaning": "from",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "min"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["من البيت.", "من أين؟"]
+  },
+  {
+    "id": "word_ar_ila",
+    "word": "إلى",
+    "meaning": "to",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔilaː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["إلى المدرسة.", "إلى أين؟"]
+  },
+  {
+    "id": "word_ar_li",
+    "word": "لـ",
+    "meaning": "for",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "li"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["لك.", "للأطفال."]
+  },
+  {
+    "id": "word_ar_maa",
+    "word": "مع",
+    "meaning": "with",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "maʕa"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["مع الأصدقاء.", "مع العائلة."]
+  },
+  {
+    "id": "word_ar_bidun",
+    "word": "بدون",
+    "meaning": "without",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "biduːn"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["بدون ماء.", "بدونك."]
+  },
+  {
+    "id": "word_ar_qurb",
+    "word": "قرب",
+    "meaning": "near",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "qurb"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["قرب البيت.", "قرب المدرسة."]
+  },
+  {
+    "id": "word_ar_baad",
+    "word": "بعد",
+    "meaning": "after",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "baʕd"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["بعد الأكل.", "بعد المدرسة."]
+  },
+  {
+    "id": "word_ar_qabl",
+    "word": "قبل",
+    "meaning": "before",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "qabl"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["قبل النوم.", "قبل الأكل."]
+  },
+  {
+    "id": "word_ar_fawqa",
+    "word": "فوق",
+    "meaning": "above",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "fawqa"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["فوق الطاولة.", "فوق الجبل."]
+  },
+  {
+    "id": "word_ar_tahta",
+    "word": "تحت",
+    "meaning": "under",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "taħta"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["تحت السرير.", "تحت الشجرة."]
+  },
+  {
+    "id": "word_ar_bayna",
+    "word": "بين",
+    "meaning": "between",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "bajna"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["بين البيتين.", "بيننا."]
+  },
+  {
+    "id": "word_ar_hatta",
+    "word": "حتى",
+    "meaning": "until",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ħattaː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["حتى المساء.", "حتى هنا."]
+  },
+  {
+    "id": "word_ar_bi",
+    "word": "بـ",
+    "meaning": "by/with",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "bi"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["بالقلم.", "بالسيارة."]
+  }
+]

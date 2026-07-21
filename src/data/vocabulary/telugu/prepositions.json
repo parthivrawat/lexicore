@@ -1,0 +1,132 @@
+[
+  {
+    "id": "word_te_lo",
+    "word": "లో",
+    "meaning": "in/at",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "loː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["ఇంట్లో.", "ఇక్కడ."]
+  },
+  {
+    "id": "word_te_ki",
+    "word": "కి",
+    "meaning": "to",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ki"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["పాఠశాలకు.", "ఎక్కడికి?"]
+  },
+  {
+    "id": "word_te_nundi",
+    "word": "నుండి",
+    "meaning": "from",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "nunɖi"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["హైదరాబాద్ నుండి.", "ఎక్కడ నుండి?"]
+  },
+  {
+    "id": "word_te_tho",
+    "word": "తో",
+    "meaning": "with",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "t̪oː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["స్నేహితుడితో.", "ఎవరితో?"]
+  },
+  {
+    "id": "word_te_kosam",
+    "word": "కోసం",
+    "meaning": "for",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "koːsəm"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["నీ కోసం.", "దేని కోసం?"]
+  },
+  {
+    "id": "word_te_gurinchi",
+    "word": "గురించి",
+    "meaning": "about",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ɡuɾint͡ʃi"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["దీని గురించి?", "దాని గురించి మాట్లాడు."]
+  },
+  {
+    "id": "word_te_lekunda",
+    "word": "లేకుండా",
+    "meaning": "without",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "leːkunɖaː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["నువ్వు లేకుండా.", "కారణం లేకుండా."]
+  },
+  {
+    "id": "word_te_mundu",
+    "word": "ముందు",
+    "meaning": "before",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "mund̪u"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["తినడానికి ముందు.", "వెళ్ళడానికి ముందు."]
+  },
+  {
+    "id": "word_te_tarvata",
+    "word": "తర్వాత",
+    "meaning": "after",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "t̪ərʋaːt̪ə"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["తిన్న తర్వాత.", "దాని తర్వాత."]
+  },
+  {
+    "id": "word_te_paina",
+    "word": "పైన",
+    "meaning": "above/on",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "pəjnə"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["పైన.", "టేబుల్ పైన."]
+  }
+]

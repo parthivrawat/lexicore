@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_ru_v",
+    "word": "в",
+    "meaning": "in/at",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "v"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["В доме.", "В школе."]
+  },
+  {
+    "id": "word_ru_na",
+    "word": "на",
+    "meaning": "on",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "na"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["На столе.", "На стуле."]
+  },
+  {
+    "id": "word_ru_iz",
+    "word": "из",
+    "meaning": "from",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ɪs"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Из дома.", "Откуда?"]
+  },
+  {
+    "id": "word_ru_k",
+    "word": "к",
+    "meaning": "to/towards",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "k"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["К школе.", "Куда?"]
+  },
+  {
+    "id": "word_ru_dlya",
+    "word": "для",
+    "meaning": "for",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "dlʲa"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Для тебя.", "Для детей."]
+  },
+  {
+    "id": "word_ru_s",
+    "word": "с",
+    "meaning": "with",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "s"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["С друзьями.", "С семьёй."]
+  },
+  {
+    "id": "word_ru_bez",
+    "word": "без",
+    "meaning": "without",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "bʲes"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Без воды.", "Без тебя."]
+  },
+  {
+    "id": "word_ru_vozle",
+    "word": "возле",
+    "meaning": "near",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈvozlʲɪ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Возле дома.", "Возле школы."]
+  },
+  {
+    "id": "word_ru_posle",
+    "word": "после",
+    "meaning": "after",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈposlʲɪ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["После еды.", "После школы."]
+  },
+  {
+    "id": "word_ru_pered",
+    "word": "перед",
+    "meaning": "before/in front of",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈpʲerʲɪt"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Перед сном.", "Перед едой."]
+  },
+  {
+    "id": "word_ru_nad",
+    "word": "над",
+    "meaning": "above/over",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "nat"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Над столом.", "Над горой."]
+  },
+  {
+    "id": "word_ru_pod",
+    "word": "под",
+    "meaning": "under",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "pot"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Под кроватью.", "Под деревом."]
+  },
+  {
+    "id": "word_ru_mezhdu",
+    "word": "между",
+    "meaning": "between",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈmʲeʐdʊ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Между домами.", "Между нами."]
+  },
+  {
+    "id": "word_ru_do",
+    "word": "до",
+    "meaning": "until/before",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "do"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["До вечера.", "До сюда."]
+  },
+  {
+    "id": "word_ru_cherez",
+    "word": "через",
+    "meaning": "through/across",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈtɕerʲɪs"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Через дорогу.", "Через час."]
+  }
+]

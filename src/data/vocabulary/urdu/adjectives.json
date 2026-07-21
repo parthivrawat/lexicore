@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_ur_acha",
+    "word": "اچھا",
+    "meaning": "good",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ət͡ʃʰɑː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["اچھا دن۔", "اچھا آدمی۔"]
+  },
+  {
+    "id": "word_ur_bura",
+    "word": "برا",
+    "meaning": "bad",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "bʊrɑː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["برا دن۔", "برا موسم۔"]
+  },
+  {
+    "id": "word_ur_bara",
+    "word": "بڑا",
+    "meaning": "big/large",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "bəɽɑː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["بڑا گھر۔", "وہ بڑا ہے۔"]
+  },
+  {
+    "id": "word_ur_chhota",
+    "word": "چھوٹا",
+    "meaning": "small",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "t͡ʃʰoːʈɑː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["چھوٹا بچہ۔", "چھوٹا کمرہ۔"]
+  },
+  {
+    "id": "word_ur_khubsurat",
+    "word": "خوبصورت",
+    "meaning": "beautiful",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "xubˈsuːrət"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["خوبصورت منظر۔", "خوبصورت لڑکی۔"]
+  },
+  {
+    "id": "word_ur_ganda",
+    "word": "گندا",
+    "meaning": "dirty",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ɡəndɑː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["گندے کپڑے۔", "کمرہ گندا ہے۔"]
+  },
+  {
+    "id": "word_ur_saaf",
+    "word": "صاف",
+    "meaning": "clean",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "sɑːf"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["صاف گھر۔", "صاف پانی۔"]
+  },
+  {
+    "id": "word_ur_naya",
+    "word": "نیا",
+    "meaning": "new",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "nəjɑː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["نئی کتاب۔", "نئی گاڑی۔"]
+  },
+  {
+    "id": "word_ur_purana",
+    "word": "پرانا",
+    "meaning": "old",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "pʊrɑːnɑː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["پرانا گھر۔", "پرانی کتاب۔"]
+  },
+  {
+    "id": "word_ur_garam",
+    "word": "گرم",
+    "meaning": "hot",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ɡərəm"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["گرم پانی۔", "گرم موسم۔"]
+  },
+  {
+    "id": "word_ur_thanda",
+    "word": "ٹھنڈا",
+    "meaning": "cold",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ʈʰəndɑː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["ٹھنڈا پانی۔", "ٹھنڈا موسم۔"]
+  },
+  {
+    "id": "word_ur_khush",
+    "word": "خوش",
+    "meaning": "happy",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "xʊʃ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["میں خوش ہوں۔", "خوش رہو۔"]
+  },
+  {
+    "id": "word_ur_udas",
+    "word": "اداس",
+    "meaning": "sad",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ʊdɑːs"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["وہ اداس ہے۔", "اداس مت ہو۔"]
+  },
+  {
+    "id": "word_ur_lamba",
+    "word": "لمبا",
+    "meaning": "tall/long",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ləmbɑː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["لمبا آدمی۔", "لمبا پہاڑ۔"]
+  },
+  {
+    "id": "word_ur_chhota_height",
+    "word": "چھوٹا",
+    "meaning": "short",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "t͡ʃʰoːʈɑː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["چھوٹا آدمی۔", "کم قیمت۔"]
+  },
+  {
+    "id": "word_ur_mota",
+    "word": "موٹا",
+    "meaning": "fat/thick",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "moːʈɑː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["موٹا آدمی۔", "موٹی کتاب۔"]
+  },
+  {
+    "id": "word_ur_patla",
+    "word": "پتلا",
+    "meaning": "thin",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "pətlɑː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["پتلا آدمی۔", "پتلی رسی۔"]
+  },
+  {
+    "id": "word_ur_tez",
+    "word": "تیز",
+    "meaning": "fast",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "teːz"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["تیز گاڑی۔", "تیز دوڑ۔"]
+  },
+  {
+    "id": "word_ur_dheema",
+    "word": "دھیما",
+    "meaning": "slow",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "dʱiːmɑː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["آہستہ چلو۔", "دھیمی حرکت۔"]
+  },
+  {
+    "id": "word_ur_sahi",
+    "word": "صحیح",
+    "meaning": "correct/right",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "səhiː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["صحیح جواب۔", "یہ صحیح ہے۔"]
+  }
+]

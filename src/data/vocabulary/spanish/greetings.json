@@ -89,5 +89,109 @@
     ],
     "category": "greetings",
     "examples": ["Gracias. - De nada.", "De nada, es un placer."]
+  },
+  {
+    "id": "word_es_buenas_tardes",
+    "word": "buenas tardes",
+    "meaning": "good afternoon",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈbwe.nas ˈtaɾ.ðes"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Buenas tardes, señor.", "Buenas tardes a todos."]
+  },
+  {
+    "id": "word_es_perdon",
+    "word": "perdón",
+    "meaning": "sorry/excuse me",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "peɾˈðon"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Perdón, llegué tarde.", "Perdón, ¿puedo pasar?"]
+  },
+  {
+    "id": "word_es_disculpe",
+    "word": "disculpe",
+    "meaning": "excuse me (formal)",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "disˈkul.pe"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Disculpe, ¿dónde está el baño?", "Disculpe la molestia."]
+  },
+  {
+    "id": "word_es_como_estas",
+    "word": "¿cómo estás?",
+    "meaning": "how are you (informal)",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈko.mo esˈtas"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Hola, ¿cómo estás?", "¿Cómo estás hoy?"]
+  },
+  {
+    "id": "word_es_como_esta",
+    "word": "¿cómo está?",
+    "meaning": "how are you (formal)",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈko.mo esˈta"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Buenos días, ¿cómo está?", "¿Cómo está usted?"]
+  },
+  {
+    "id": "word_es_bienvenido",
+    "word": "bienvenido",
+    "meaning": "welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "bjem.beˈni.ðo"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Bienvenido a mi casa.", "Bienvenidos a todos."]
+  },
+  {
+    "id": "word_es_felicidades",
+    "word": "felicidades",
+    "meaning": "congratulations",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "fe.li.siˈða.ðes"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Felicidades por tu éxito!", "Felicidades en tu cumpleaños."]
+  },
+  {
+    "id": "word_es_hasta_luego",
+    "word": "hasta luego",
+    "meaning": "see you later",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈas.ta ˈlwe.ɣo"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Hasta luego, nos vemos.", "Hasta luego, amigo."]
   }
 ]

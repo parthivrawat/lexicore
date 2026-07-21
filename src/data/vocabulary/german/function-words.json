@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_de_ich",
+    "word": "ich",
+    "meaning": "I",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ɪç"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ich gehe.", "Ich bin gut."]
+  },
+  {
+    "id": "word_de_du",
+    "word": "du",
+    "meaning": "you (informal)",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "duː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Du bist hier.", "Wie geht's dir?"]
+  },
+  {
+    "id": "word_de_sie_formal",
+    "word": "Sie",
+    "meaning": "you (formal)",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ziː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Sie sind hier.", "Wie geht es Ihnen?"]
+  },
+  {
+    "id": "word_de_er",
+    "word": "er",
+    "meaning": "he",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "eːɐ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Er ist Student.", "Er ist hier."]
+  },
+  {
+    "id": "word_de_sie_she",
+    "word": "sie",
+    "meaning": "she",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ziː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Sie ist Lehrerin.", "Sie ist schön."]
+  },
+  {
+    "id": "word_de_wir",
+    "word": "wir",
+    "meaning": "we",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "viːɐ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Wir sind Studenten.", "Wir sind hier."]
+  },
+  {
+    "id": "word_de_ihr",
+    "word": "ihr",
+    "meaning": "you (plural)",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "iːɐ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ihr seid Studenten.", "Wie geht es euch?"]
+  },
+  {
+    "id": "word_de_sie_they",
+    "word": "sie",
+    "meaning": "they",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ziː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Sie sind Freunde.", "Sie sind hier."]
+  },
+  {
+    "id": "word_de_was",
+    "word": "was",
+    "meaning": "what",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "vas"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Was ist das?", "Was ist dein Name?"]
+  },
+  {
+    "id": "word_de_wer",
+    "word": "wer",
+    "meaning": "who",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "veːɐ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Wer ist das?", "Wer bist du?"]
+  },
+  {
+    "id": "word_de_wo",
+    "word": "wo",
+    "meaning": "where",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "voː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Wo bist du?", "Wo ist das Haus?"]
+  },
+  {
+    "id": "word_de_wann",
+    "word": "wann",
+    "meaning": "when",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "van"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Wann kommst du?", "Wann ist das passiert?"]
+  },
+  {
+    "id": "word_de_wie",
+    "word": "wie",
+    "meaning": "how",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "viː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Wie geht's?", "Wie macht man das?"]
+  },
+  {
+    "id": "word_de_warum",
+    "word": "warum",
+    "meaning": "why",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "vaˈʁʊm"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Warum gehst du?", "Warum nicht?"]
+  },
+  {
+    "id": "word_de_und",
+    "word": "und",
+    "meaning": "and",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ʊnt"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ich und du.", "Vater und Mutter."]
+  },
+  {
+    "id": "word_de_oder",
+    "word": "oder",
+    "meaning": "or",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈoːdɐ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Tee oder Kaffee?", "Dies oder das?"]
+  },
+  {
+    "id": "word_de_aber",
+    "word": "aber",
+    "meaning": "but",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈaːbɐ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Gut, aber teuer.", "Ich will, aber ich kann nicht."]
+  },
+  {
+    "id": "word_de_wenn",
+    "word": "wenn",
+    "meaning": "if",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "vɛn"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Wenn du kommst.", "Wenn möglich."]
+  },
+  {
+    "id": "word_de_nein",
+    "word": "nein",
+    "meaning": "no",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "naɪn"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Nein, danke.", "Ich gehe nicht."]
+  },
+  {
+    "id": "word_de_ja",
+    "word": "ja",
+    "meaning": "yes",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "jaː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ja, gut.", "Ja, ich gehe."]
+  }
+]

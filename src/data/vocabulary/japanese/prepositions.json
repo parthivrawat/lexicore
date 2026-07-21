@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_ja_ni",
+    "word": "に",
+    "meaning": "in/at/to",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ɲi"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["家に。", "学校に。"]
+  },
+  {
+    "id": "word_ja_de",
+    "word": "で",
+    "meaning": "at/in/by",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "de"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["机の上で。", "椅子で。"]
+  },
+  {
+    "id": "word_ja_kara",
+    "word": "から",
+    "meaning": "from",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "kaɾa"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["家から。", "どこから？"]
+  },
+  {
+    "id": "word_ja_made",
+    "word": "まで",
+    "meaning": "to/until",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "made"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["学校まで。", "どこまで？"]
+  },
+  {
+    "id": "word_ja_no",
+    "word": "の",
+    "meaning": "of/possessive",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "no"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["あなたの。", "子供の。"]
+  },
+  {
+    "id": "word_ja_to",
+    "word": "と",
+    "meaning": "with/and",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "to"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["友達と。", "家族と。"]
+  },
+  {
+    "id": "word_ja_nashi",
+    "word": "なし",
+    "meaning": "without",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "naɕi"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["水なし。", "あなたなし。"]
+  },
+  {
+    "id": "word_ja_chikaku",
+    "word": "近く",
+    "meaning": "near",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "t͡ɕikakɯ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["家の近く。", "学校の近く。"]
+  },
+  {
+    "id": "word_ja_ato",
+    "word": "後",
+    "meaning": "after",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ato"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["食事の後。", "学校の後。"]
+  },
+  {
+    "id": "word_ja_mae_prep",
+    "word": "前",
+    "meaning": "before",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "mae"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["寝る前。", "食事の前。"]
+  },
+  {
+    "id": "word_ja_ue_prep",
+    "word": "上",
+    "meaning": "above/on",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ɯe"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["机の上。", "山の上。"]
+  },
+  {
+    "id": "word_ja_shita_prep",
+    "word": "下",
+    "meaning": "under",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ɕita"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["ベッドの下。", "木の下。"]
+  },
+  {
+    "id": "word_ja_aida",
+    "word": "間",
+    "meaning": "between",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "aida"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["家の間。", "私たちの間。"]
+  },
+  {
+    "id": "word_ja_made_prep",
+    "word": "まで",
+    "meaning": "until",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "made"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["夕方まで。", "ここまで。"]
+  },
+  {
+    "id": "word_ja_wo",
+    "word": "を",
+    "meaning": "object marker",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "o"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["本を。", "水を。"]
+  }
+]

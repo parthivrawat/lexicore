@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_de_gut",
+    "word": "gut",
+    "meaning": "good",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ɡuːt"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Guter Tag.", "Guter Mensch."]
+  },
+  {
+    "id": "word_de_schlecht",
+    "word": "schlecht",
+    "meaning": "bad",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ʃlɛçt"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Schlechter Tag.", "Schlechtes Wetter."]
+  },
+  {
+    "id": "word_de_gross",
+    "word": "groß",
+    "meaning": "big/large",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ɡʁoːs"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Großes Haus.", "Er ist groß."]
+  },
+  {
+    "id": "word_de_klein",
+    "word": "klein",
+    "meaning": "small",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "klaɪn"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Kleines Kind.", "Kleines Zimmer."]
+  },
+  {
+    "id": "word_de_schon",
+    "word": "schön",
+    "meaning": "beautiful",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ʃøːn"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Schöne Aussicht.", "Schönes Mädchen."]
+  },
+  {
+    "id": "word_de_schmutzig",
+    "word": "schmutzig",
+    "meaning": "dirty",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈʃmʊtsɪç"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Schmutzige Kleidung.", "Das Zimmer ist schmutzig."]
+  },
+  {
+    "id": "word_de_sauber",
+    "word": "sauber",
+    "meaning": "clean",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈzaʊbɐ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Sauberes Haus.", "Sauberes Wasser."]
+  },
+  {
+    "id": "word_de_neu",
+    "word": "neu",
+    "meaning": "new",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "nɔʏ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Neues Buch.", "Neues Auto."]
+  },
+  {
+    "id": "word_de_alt",
+    "word": "alt",
+    "meaning": "old",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "alt"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Altes Haus.", "Altes Buch."]
+  },
+  {
+    "id": "word_de_heiss",
+    "word": "heiß",
+    "meaning": "hot",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "haɪs"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Heißes Wasser.", "Heißes Wetter."]
+  },
+  {
+    "id": "word_de_kalt",
+    "word": "kalt",
+    "meaning": "cold",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "kalt"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Kaltes Wasser.", "Kaltes Wetter."]
+  },
+  {
+    "id": "word_de_glucklich",
+    "word": "glücklich",
+    "meaning": "happy",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈɡlʏklɪç"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Ich bin glücklich.", "Sei glücklich."]
+  },
+  {
+    "id": "word_de_traurig",
+    "word": "traurig",
+    "meaning": "sad",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈtʁaʊʁɪç"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Er ist traurig.", "Sei nicht traurig."]
+  },
+  {
+    "id": "word_de_hoch",
+    "word": "hoch",
+    "meaning": "tall/high",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "hoːx"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Hoher Mensch.", "Hoher Berg."]
+  },
+  {
+    "id": "word_de_niedrig",
+    "word": "niedrig",
+    "meaning": "short/low",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈniːdʁɪç"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Niedriger Mensch.", "Niedriger Preis."]
+  },
+  {
+    "id": "word_de_dick",
+    "word": "dick",
+    "meaning": "fat/thick",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "dɪk"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Dicker Mensch.", "Dickes Buch."]
+  },
+  {
+    "id": "word_de_dunn",
+    "word": "dünn",
+    "meaning": "thin",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "dʏn"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Dünner Mensch.", "Dünnes Seil."]
+  },
+  {
+    "id": "word_de_schnell",
+    "word": "schnell",
+    "meaning": "fast",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ʃnɛl"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Schnelles Auto.", "Schneller Lauf."]
+  },
+  {
+    "id": "word_de_langsam",
+    "word": "langsam",
+    "meaning": "slow",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈlaŋzaːm"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Geh langsam.", "Langsame Bewegung."]
+  },
+  {
+    "id": "word_de_richtig",
+    "word": "richtig",
+    "meaning": "correct/right",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈʁɪçtɪç"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Richtige Antwort.", "Das ist richtig."]
+  }
+]

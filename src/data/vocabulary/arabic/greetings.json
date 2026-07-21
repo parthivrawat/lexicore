@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_ar_assalamu_alaikum",
+    "word": "السلام عليكم",
+    "meaning": "peace be upon you (hello)",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔassalaːmu ʕalajkum"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["السلام عليكم، كيف حالك؟", "قال السلام عليكم عند الدخول."]
+  },
+  {
+    "id": "word_ar_wa_alaikum_assalam",
+    "word": "وعليكم السلام",
+    "meaning": "and upon you peace (response)",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "waʕalajkumu ssalaːm"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["وعليكم السلام ورحمة الله.", "رد بقوله وعليكم السلام."]
+  },
+  {
+    "id": "word_ar_marhaba",
+    "word": "مرحبا",
+    "meaning": "hello/welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "marħaban"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["مرحبا، كيف حالك؟", "مرحبا بك في بيتنا."]
+  },
+  {
+    "id": "word_ar_ahlan",
+    "word": "أهلا",
+    "meaning": "hello (informal)",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔahlan"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["أهلا وسهلا.", "أهلا بك."]
+  },
+  {
+    "id": "word_ar_sabah_alkhayr",
+    "word": "صباح الخير",
+    "meaning": "good morning",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "sˤabaːħ alxajr"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["صباح الخير، كيف حالك؟", "قال صباح الخير للجميع."]
+  },
+  {
+    "id": "word_ar_masa_alkhayr",
+    "word": "مساء الخير",
+    "meaning": "good evening",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "masaːʔ alxajr"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["مساء الخير يا صديقي.", "مساء الخير للجميع."]
+  },
+  {
+    "id": "word_ar_tisbah_ala_khayr",
+    "word": "تصبح على خير",
+    "meaning": "good night",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "tusˤbiħ ʕalaː xajr"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["تصبح على خير، نم جيدا.", "قال تصبح على خير وذهب."]
+  },
+  {
+    "id": "word_ar_maassalama",
+    "word": "مع السلامة",
+    "meaning": "goodbye",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "maʕa ssalaːma"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["مع السلامة، إلى اللقاء.", "ودعته بقوله مع السلامة."]
+  },
+  {
+    "id": "word_ar_shukran",
+    "word": "شكرا",
+    "meaning": "thank you",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʃukran"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["شكرا جزيلا.", "شكرا لك على المساعدة."]
+  },
+  {
+    "id": "word_ar_afwan",
+    "word": "عفوا",
+    "meaning": "you're welcome/excuse me",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʕafwan"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["عفوا، لا شكر على واجب.", "عفوا، هل يمكنني المساعدة؟"]
+  },
+  {
+    "id": "word_ar_min_fadlak",
+    "word": "من فضلك",
+    "meaning": "please",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "min fad̪lak"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["من فضلك، ساعدني.", "اجلس من فضلك."]
+  },
+  {
+    "id": "word_ar_aasif",
+    "word": "آسف",
+    "meaning": "sorry",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔaːsif"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["آسف، أنا متأخر.", "آسف على الإزعاج."]
+  },
+  {
+    "id": "word_ar_kayfa_halak",
+    "word": "كيف حالك",
+    "meaning": "how are you",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "kajfa ħaːlak"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["كيف حالك اليوم؟", "السلام عليكم، كيف حالك؟"]
+  },
+  {
+    "id": "word_ar_alhamdulillah",
+    "word": "الحمد لله",
+    "meaning": "praise be to God (I'm fine)",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "alħamdu lillaːh"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["الحمد لله، أنا بخير.", "كيف حالك؟ - الحمد لله."]
+  },
+  {
+    "id": "word_ar_mabrouk",
+    "word": "مبروك",
+    "meaning": "congratulations",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "mabruːk"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["مبروك على النجاح!", "مبروك الزواج."]
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_tr_olmak",
+    "word": "olmak",
+    "meaning": "to be",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "olmɑk"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Doktor olmak istiyorum.", "Bu var."]
+  },
+  {
+    "id": "word_tr_yapmak",
+    "word": "yapmak",
+    "meaning": "to do/make",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "jɑpmɑk"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Ne yapacaksın?", "İş yapıyorum."]
+  },
+  {
+    "id": "word_tr_gitmek",
+    "word": "gitmek",
+    "meaning": "to go",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɡitmec"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Okula gidiyorum.", "Nereye gidiyorsun?"]
+  },
+  {
+    "id": "word_tr_gelmek",
+    "word": "gelmek",
+    "meaning": "to come",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɡelmec"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Buraya gel.", "Yarın gelecek."]
+  },
+  {
+    "id": "word_tr_yemek",
+    "word": "yemek",
+    "meaning": "to eat",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "jemec"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Yemek yiyorum.", "Yemek ister misin?"]
+  },
+  {
+    "id": "word_tr_icmek",
+    "word": "içmek",
+    "meaning": "to drink",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "it͡ʃmec"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Su iç.", "İçmek ister misin?"]
+  },
+  {
+    "id": "word_tr_gormek",
+    "word": "görmek",
+    "meaning": "to see",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɟøɾmec"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Seni görüyorum.", "Bunu görüyor musun?"]
+  },
+  {
+    "id": "word_tr_duymak",
+    "word": "duymak",
+    "meaning": "to hear",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "dujmɑk"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Ses duyuyorum.", "Duyuyor musun?"]
+  },
+  {
+    "id": "word_tr_konusmak",
+    "word": "konuşmak",
+    "meaning": "to speak",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "conuʃmɑk"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Türkçe konuş.", "Doğruyu konuş."]
+  },
+  {
+    "id": "word_tr_okumak",
+    "word": "okumak",
+    "meaning": "to read",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ocumɑk"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Kitap oku.", "Okuyorum."]
+  },
+  {
+    "id": "word_tr_yazmak",
+    "word": "yazmak",
+    "meaning": "to write",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "jɑzmɑk"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Mektup yaz.", "Adını yaz."]
+  },
+  {
+    "id": "word_tr_vermek",
+    "word": "vermek",
+    "meaning": "to give",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "veɾmec"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Bana kitabı ver.", "Su ver."]
+  },
+  {
+    "id": "word_tr_almak",
+    "word": "almak",
+    "meaning": "to take",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɑlmɑk"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Bunu al.", "Alıyorum."]
+  },
+  {
+    "id": "word_tr_uyumak",
+    "word": "uyumak",
+    "meaning": "to sleep",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ujumɑk"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["İyi uykular.", "Uyuyorum."]
+  },
+  {
+    "id": "word_tr_uyanmak",
+    "word": "uyanmak",
+    "meaning": "to wake up",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ujɑnmɑk"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Erken uyan.", "Uyanıyorum."]
+  },
+  {
+    "id": "word_tr_oturmak",
+    "word": "oturmak",
+    "meaning": "to sit",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "otuɾmɑk"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Buraya otur.", "Oturuyorum."]
+  },
+  {
+    "id": "word_tr_kalkmak",
+    "word": "kalkmak",
+    "meaning": "to stand up",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "kɑlkmɑk"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Kalk.", "Saat 6'da kalkıyorum."]
+  },
+  {
+    "id": "word_tr_yurmek",
+    "word": "yürümek",
+    "meaning": "to walk",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "jyɾymec"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Yavaş yürü.", "Yürüyorum."]
+  },
+  {
+    "id": "word_tr_kosmak",
+    "word": "koşmak",
+    "meaning": "to run",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "coʃmɑk"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Hızlı koş.", "Koşuyor."]
+  },
+  {
+    "id": "word_tr_gulmek",
+    "word": "gülmek",
+    "meaning": "to laugh",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɟylmec"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Daha çok gül.", "Gülüyor."]
+  },
+  {
+    "id": "word_tr_aglamak",
+    "word": "ağlamak",
+    "meaning": "to cry",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɑːlɑmɑk"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Ağlama.", "Bebek ağlıyor."]
+  },
+  {
+    "id": "word_tr_anlamak",
+    "word": "anlamak",
+    "meaning": "to understand",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɑnlɑmɑk"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Anlıyorum.", "Anlıyor musun?"]
+  },
+  {
+    "id": "word_tr_istemek",
+    "word": "istemek",
+    "meaning": "to want",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "istemec"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Gitmek istiyorum.", "Ne istiyorsun?"]
+  },
+  {
+    "id": "word_tr_sevmek",
+    "word": "sevmek",
+    "meaning": "to love",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "sevmec"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Seni seviyorum.", "Aileyi sev."]
+  },
+  {
+    "id": "word_tr_calismak",
+    "word": "çalışmak",
+    "meaning": "to work",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "t͡ʃɑlɯʃmɑk"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Sıkı çalış.", "Ofiste çalışıyorum."]
+  }
+]

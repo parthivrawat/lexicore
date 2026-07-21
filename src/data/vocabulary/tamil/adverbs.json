@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_ta_romba",
+    "word": "ரொம்ப",
+    "meaning": "very",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "ɾombə"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["ரொம்ப நல்லது.", "ரொம்ப வேகமா."]
+  },
+  {
+    "id": "word_ta_kooda",
+    "word": "கூட",
+    "meaning": "also",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "kuːɖə"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["நான் கூட.", "அவர் கூட போகிறார்."]
+  },
+  {
+    "id": "word_ta_mattum",
+    "word": "மட்டும்",
+    "meaning": "only",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "məʈʈum"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["மட்டும் ஒன்று.", "மட்டும் நீ."]
+  },
+  {
+    "id": "word_ta_eppozhuthum",
+    "word": "எப்போதும்",
+    "meaning": "always",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "eppoːd̪um"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["எப்போதும் நல்லது.", "எப்போதும் வருகிறார்."]
+  },
+  {
+    "id": "word_ta_eppozhudhum_illai",
+    "word": "எப்போதும் இல்லை",
+    "meaning": "never",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "eppoːd̪um illɛ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["எப்போதும் இல்லை தாமதம்.", "எப்போதும் இல்லை மறக்கிறேன்."]
+  },
+  {
+    "id": "word_ta_sila_samayam",
+    "word": "சில சமயம்",
+    "meaning": "sometimes",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "silə səməjəm"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["சில சமயம்.", "சில சமயம் போகிறேன்."]
+  },
+  {
+    "id": "word_ta_adikadi",
+    "word": "அடிக்கடி",
+    "meaning": "often",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "əɖikːəɖi"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["அடிக்கடி வருகிறார்.", "அடிக்கடி இங்கே."]
+  },
+  {
+    "id": "word_ta_ippo",
+    "word": "இப்போ",
+    "meaning": "now",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "ippoː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["இப்போ போ.", "இப்போதிருந்து."]
+  },
+  {
+    "id": "word_ta_pinbu",
+    "word": "பின்பு",
+    "meaning": "later",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "pinbu"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["பின்பு செய்.", "பின்பு பார்க்கலாம்."]
+  },
+  {
+    "id": "word_ta_netru",
+    "word": "நேற்று",
+    "meaning": "yesterday",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "neːʈɾu"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["நேற்று மாலை.", "நேற்றிலிருந்து."]
+  },
+  {
+    "id": "word_ta_naalai",
+    "word": "நாளை",
+    "meaning": "tomorrow",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "naːɭɛ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["நாளை காலை.", "நாளை பார்க்கலாம்."]
+  },
+  {
+    "id": "word_ta_aagividuthu",
+    "word": "ஆகிவிடுது",
+    "meaning": "already",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "aːɡiʋiɖud̪u"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["ஆகிவிட்டது.", "சாப்பிட்டுவிட்டேன்."]
+  },
+  {
+    "id": "word_ta_innum_illai",
+    "word": "இன்னும் இல்லை",
+    "meaning": "not yet",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "innum illɛ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["இன்னும் இல்லை செய்யவில்லை.", "இன்னும் இல்லை சாப்பிடவில்லை."]
+  },
+  {
+    "id": "word_ta_irukkalam",
+    "word": "இருக்கலாம்",
+    "meaning": "maybe",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "iɾukkəlaːm"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["இருக்கலாம் ஆம்.", "இருக்கலாம் இல்லை."]
+  },
+  {
+    "id": "word_ta_nischayam",
+    "word": "நிச்சயம்",
+    "meaning": "certainly",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "nit͡ʃt͡ʃəjəm"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["நிச்சயம்.", "நிச்சயம் இல்லை."]
+  }
+]

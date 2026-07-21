@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_ru_dom",
+    "word": "дом",
+    "meaning": "home/house",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "dom"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Я иду домой.", "Это мой дом."]
+  },
+  {
+    "id": "word_ru_voda",
+    "word": "вода",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "vɐˈda"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Пей воду.", "Вода горячая."]
+  },
+  {
+    "id": "word_ru_eda",
+    "word": "еда",
+    "meaning": "food",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "jɪˈda"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Еда готова.", "Ешь еду."]
+  },
+  {
+    "id": "word_ru_kniga",
+    "word": "книга",
+    "meaning": "book",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈknʲiɡə"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Читай книгу.", "Эта книга хорошая."]
+  },
+  {
+    "id": "word_ru_ruchka",
+    "word": "ручка",
+    "meaning": "pen",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈrutɕkə"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Дай ручку.", "Моя ручка потерялась."]
+  },
+  {
+    "id": "word_ru_bumaga",
+    "word": "бумага",
+    "meaning": "paper",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "bʊˈmaɡə"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Пиши на бумаге.", "Нужна бумага."]
+  },
+  {
+    "id": "word_ru_dver",
+    "word": "дверь",
+    "meaning": "door",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "dvʲerʲ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Открой дверь.", "Закрой дверь."]
+  },
+  {
+    "id": "word_ru_okno",
+    "word": "окно",
+    "meaning": "window",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ɐkˈno"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Открой окно.", "Окно разбито."]
+  },
+  {
+    "id": "word_ru_stul",
+    "word": "стул",
+    "meaning": "chair",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "stul"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Сядь на стул.", "Стул удобный."]
+  },
+  {
+    "id": "word_ru_stol",
+    "word": "стол",
+    "meaning": "table",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "stol"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Положи на стол.", "Стол чистый."]
+  },
+  {
+    "id": "word_ru_krovat",
+    "word": "кровать",
+    "meaning": "bed",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "krɐˈvatʲ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Спи на кровати.", "Кровать удобная."]
+  },
+  {
+    "id": "word_ru_odezhda",
+    "word": "одежда",
+    "meaning": "clothes",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ɐˈdʲeʐdə"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Надень одежду.", "Стирай одежду."]
+  },
+  {
+    "id": "word_ru_tufli",
+    "word": "туфли",
+    "meaning": "shoes",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈtuflʲɪ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Надень туфли.", "Сними туфли."]
+  },
+  {
+    "id": "word_ru_mashina",
+    "word": "машина",
+    "meaning": "car",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "mɐˈʂɨnə"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Веди машину.", "Машина приехала."]
+  },
+  {
+    "id": "word_ru_telefon",
+    "word": "телефон",
+    "meaning": "phone",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "tʲɪlʲɪˈfon"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Позвони по телефону.", "Телефон звонит."]
+  },
+  {
+    "id": "word_ru_kompyuter",
+    "word": "компьютер",
+    "meaning": "computer",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "kɐmˈpʲjutʲɪr"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Включи компьютер.", "Компьютер быстрый."]
+  },
+  {
+    "id": "word_ru_shkola",
+    "word": "школа",
+    "meaning": "school",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈʂkolə"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Иди в школу.", "Школа близко."]
+  },
+  {
+    "id": "word_ru_drug",
+    "word": "друг",
+    "meaning": "friend",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "druk"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Он мой друг.", "Хороший друг."]
+  },
+  {
+    "id": "word_ru_semya",
+    "word": "семья",
+    "meaning": "family",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "sʲɪˈmʲja"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Моя семья большая.", "Люблю семью."]
+  },
+  {
+    "id": "word_ru_mat",
+    "word": "мать",
+    "meaning": "mother",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "matʲ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Мать дома.", "Любовь матери."]
+  },
+  {
+    "id": "word_ru_otets",
+    "word": "отец",
+    "meaning": "father",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ɐˈtʲets"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Отец на работе.", "Уважай отца."]
+  },
+  {
+    "id": "word_ru_brat",
+    "word": "брат",
+    "meaning": "brother",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "brat"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Мой старший брат.", "У меня есть брат."]
+  },
+  {
+    "id": "word_ru_sestra",
+    "word": "сестра",
+    "meaning": "sister",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "sʲɪˈstra"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Моя младшая сестра.", "У меня есть сестра."]
+  },
+  {
+    "id": "word_ru_den",
+    "word": "день",
+    "meaning": "day",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "dʲenʲ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Сегодня хороший день.", "Новый день."]
+  },
+  {
+    "id": "word_ru_noch",
+    "word": "ночь",
+    "meaning": "night",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "notɕ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Ночь наступила.", "Ночью спи."]
+  }
+]

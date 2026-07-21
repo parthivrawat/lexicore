@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_vi_la",
+    "word": "là",
+    "meaning": "to be",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "laː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Tôi muốn là bác sĩ.", "Đây là."]
+  },
+  {
+    "id": "word_vi_lam",
+    "word": "làm",
+    "meaning": "to do/make",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "laːm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Làm gì?", "Tôi làm việc."]
+  },
+  {
+    "id": "word_vi_di",
+    "word": "đi",
+    "meaning": "to go",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɗi"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Tôi đi học.", "Bạn đi đâu?"]
+  },
+  {
+    "id": "word_vi_den",
+    "word": "đến",
+    "meaning": "to come",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɗen"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Đến đây.", "Anh ấy sẽ đến ngày mai."]
+  },
+  {
+    "id": "word_vi_an",
+    "word": "ăn",
+    "meaning": "to eat",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "an"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Tôi ăn cơm.", "Bạn muốn ăn không?"]
+  },
+  {
+    "id": "word_vi_uong",
+    "word": "uống",
+    "meaning": "to drink",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "uəŋ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Uống nước.", "Bạn muốn uống không?"]
+  },
+  {
+    "id": "word_vi_nhin",
+    "word": "nhìn",
+    "meaning": "to see",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɲin"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Tôi nhìn thấy bạn.", "Bạn nhìn thấy không?"]
+  },
+  {
+    "id": "word_vi_nghe",
+    "word": "nghe",
+    "meaning": "to hear",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ŋe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Tôi nghe tiếng.", "Bạn nghe không?"]
+  },
+  {
+    "id": "word_vi_noi",
+    "word": "nói",
+    "meaning": "to speak",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "noj"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Nói tiếng Việt.", "Nói sự thật."]
+  },
+  {
+    "id": "word_vi_doc",
+    "word": "đọc",
+    "meaning": "to read",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɗok"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Đọc sách.", "Tôi đang đọc."]
+  },
+  {
+    "id": "word_vi_viet",
+    "word": "viết",
+    "meaning": "to write",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "viət"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Viết thư.", "Viết tên."]
+  },
+  {
+    "id": "word_vi_cho",
+    "word": "cho",
+    "meaning": "to give",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "t͡ɕɔ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Cho tôi cuốn sách.", "Cho nước."]
+  },
+  {
+    "id": "word_vi_lay",
+    "word": "lấy",
+    "meaning": "to take",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "laj"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Lấy cái này.", "Tôi đang lấy."]
+  },
+  {
+    "id": "word_vi_ngu",
+    "word": "ngủ",
+    "meaning": "to sleep",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ŋu"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Ngủ ngon.", "Tôi đang ngủ."]
+  },
+  {
+    "id": "word_vi_thuc",
+    "word": "thức",
+    "meaning": "to wake up",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "tʰɨk"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Thức dậy sớm.", "Tôi đang thức."]
+  },
+  {
+    "id": "word_vi_ngoi",
+    "word": "ngồi",
+    "meaning": "to sit",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ŋoj"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Ngồi đây.", "Tôi đang ngồi."]
+  },
+  {
+    "id": "word_vi_dung",
+    "word": "đứng",
+    "meaning": "to stand",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɗɨŋ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Đứng đây.", "Anh ấy đang đứng."]
+  },
+  {
+    "id": "word_vi_di_bo",
+    "word": "đi bộ",
+    "meaning": "to walk",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɗi ɓo"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Đi bộ chậm.", "Tôi đang đi bộ."]
+  },
+  {
+    "id": "word_vi_chay",
+    "word": "chạy",
+    "meaning": "to run",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "t͡ɕaj"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Chạy nhanh.", "Anh ấy đang chạy."]
+  },
+  {
+    "id": "word_vi_cuoi",
+    "word": "cười",
+    "meaning": "to laugh",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "kuəj"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Cười nhiều hơn.", "Anh ấy đang cười."]
+  },
+  {
+    "id": "word_vi_khoc",
+    "word": "khóc",
+    "meaning": "to cry",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "xok"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Đừng khóc.", "Em bé đang khóc."]
+  },
+  {
+    "id": "word_vi_hieu",
+    "word": "hiểu",
+    "meaning": "to understand",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "hiəw"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Tôi hiểu.", "Bạn hiểu không?"]
+  },
+  {
+    "id": "word_vi_muon",
+    "word": "muốn",
+    "meaning": "to want",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "muən"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Tôi muốn đi.", "Bạn muốn gì?"]
+  },
+  {
+    "id": "word_vi_yeu",
+    "word": "yêu",
+    "meaning": "to love",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "iəw"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Tôi yêu bạn.", "Yêu gia đình."]
+  },
+  {
+    "id": "word_vi_lam_viec",
+    "word": "làm việc",
+    "meaning": "to work",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "laːm viək"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Làm việc chăm chỉ.", "Tôi làm việc ở văn phòng."]
+  }
+]

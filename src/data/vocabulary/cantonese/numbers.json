@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_yue_ling",
+    "word": "零",
+    "meaning": "zero",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "ling⁴"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["零分。", "零度。"]
+  },
+  {
+    "id": "word_yue_jat",
+    "word": "一",
+    "meaning": "one",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "jat¹"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["一個。", "第一。"]
+  },
+  {
+    "id": "word_yue_ji",
+    "word": "二",
+    "meaning": "two",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "ji⁶"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["二月。", "第二。"]
+  },
+  {
+    "id": "word_yue_saam",
+    "word": "三",
+    "meaning": "three",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "saam¹"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["三個。", "第三。"]
+  },
+  {
+    "id": "word_yue_sei",
+    "word": "四",
+    "meaning": "four",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "sei³"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["四個。", "第四。"]
+  },
+  {
+    "id": "word_yue_ng",
+    "word": "五",
+    "meaning": "five",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "ŋ⁵"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["五個。", "第五。"]
+  },
+  {
+    "id": "word_yue_luk",
+    "word": "六",
+    "meaning": "six",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "luk⁶"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["六個。", "第六。"]
+  },
+  {
+    "id": "word_yue_cat",
+    "word": "七",
+    "meaning": "seven",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "cat¹"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["七個。", "第七。"]
+  },
+  {
+    "id": "word_yue_baat",
+    "word": "八",
+    "meaning": "eight",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "baat³"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["八個。", "第八。"]
+  },
+  {
+    "id": "word_yue_gau",
+    "word": "九",
+    "meaning": "nine",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "gau²"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["九個。", "第九。"]
+  },
+  {
+    "id": "word_yue_sap",
+    "word": "十",
+    "meaning": "ten",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "sap⁶"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["十個。", "第十。"]
+  },
+  {
+    "id": "word_yue_baak",
+    "word": "百",
+    "meaning": "hundred",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "baak³"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["一百。", "百分之一。"]
+  },
+  {
+    "id": "word_yue_cin",
+    "word": "千",
+    "meaning": "thousand",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "cin¹"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["一千。", "千分之一。"]
+  },
+  {
+    "id": "word_yue_maan",
+    "word": "萬",
+    "meaning": "ten thousand",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "maan⁶"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["一萬。", "十萬。"]
+  },
+  {
+    "id": "word_yue_jat_bun",
+    "word": "一半",
+    "meaning": "half",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "jat¹ bun³"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["一半。", "半個。"]
+  }
+]

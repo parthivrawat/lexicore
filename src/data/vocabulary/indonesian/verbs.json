@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_id_adalah",
+    "word": "adalah",
+    "meaning": "to be",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "adalah"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Saya ingin menjadi dokter.", "Ini adalah."]
+  },
+  {
+    "id": "word_id_melakukan",
+    "word": "melakukan",
+    "meaning": "to do",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "məlakukan"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Apa yang harus dilakukan?", "Saya bekerja."]
+  },
+  {
+    "id": "word_id_pergi",
+    "word": "pergi",
+    "meaning": "to go",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "pərɡi"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Saya pergi ke sekolah.", "Kamu pergi ke mana?"]
+  },
+  {
+    "id": "word_id_datang",
+    "word": "datang",
+    "meaning": "to come",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "dataŋ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Datang ke sini.", "Dia akan datang besok."]
+  },
+  {
+    "id": "word_id_makan",
+    "word": "makan",
+    "meaning": "to eat",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "makan"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Saya makan nasi.", "Mau makan?"]
+  },
+  {
+    "id": "word_id_minum",
+    "word": "minum",
+    "meaning": "to drink",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "minum"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Minum air.", "Mau minum?"]
+  },
+  {
+    "id": "word_id_melihat",
+    "word": "melihat",
+    "meaning": "to see",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "məlihat"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Saya melihat kamu.", "Kamu melihat ini?"]
+  },
+  {
+    "id": "word_id_mendengar",
+    "word": "mendengar",
+    "meaning": "to hear",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "məndəŋar"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Saya mendengar suara.", "Kamu mendengar?"]
+  },
+  {
+    "id": "word_id_berbicara",
+    "word": "berbicara",
+    "meaning": "to speak",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "bərbicara"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Bicara bahasa Indonesia.", "Bicara yang benar."]
+  },
+  {
+    "id": "word_id_membaca",
+    "word": "membaca",
+    "meaning": "to read",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "məmbaca"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Baca buku.", "Saya sedang membaca."]
+  },
+  {
+    "id": "word_id_menulis",
+    "word": "menulis",
+    "meaning": "to write",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "mənulis"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Tulis surat.", "Tulis nama."]
+  },
+  {
+    "id": "word_id_memberi",
+    "word": "memberi",
+    "meaning": "to give",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "məmbəri"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Beri saya buku.", "Beri air."]
+  },
+  {
+    "id": "word_id_mengambil",
+    "word": "mengambil",
+    "meaning": "to take",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "məŋambil"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Ambil ini.", "Saya mengambil."]
+  },
+  {
+    "id": "word_id_tidur",
+    "word": "tidur",
+    "meaning": "to sleep",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "tidur"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Tidur nyenyak.", "Saya tidur."]
+  },
+  {
+    "id": "word_id_bangun",
+    "word": "bangun",
+    "meaning": "to wake up",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "baŋun"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Bangun pagi.", "Saya bangun."]
+  },
+  {
+    "id": "word_id_duduk",
+    "word": "duduk",
+    "meaning": "to sit",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "duduk"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Duduk di sini.", "Saya duduk."]
+  },
+  {
+    "id": "word_id_berdiri",
+    "word": "berdiri",
+    "meaning": "to stand",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "bərdiri"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Berdiri di sini.", "Dia berdiri."]
+  },
+  {
+    "id": "word_id_berjalan",
+    "word": "berjalan",
+    "meaning": "to walk",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "bərdʒalan"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Jalan pelan.", "Saya berjalan."]
+  },
+  {
+    "id": "word_id_berlari",
+    "word": "berlari",
+    "meaning": "to run",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "bərlari"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Lari cepat.", "Dia berlari."]
+  },
+  {
+    "id": "word_id_tertawa",
+    "word": "tertawa",
+    "meaning": "to laugh",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "tərtawa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Tertawa lebih banyak.", "Dia tertawa."]
+  },
+  {
+    "id": "word_id_menangis",
+    "word": "menangis",
+    "meaning": "to cry",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "mənaŋis"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Jangan menangis.", "Bayi menangis."]
+  },
+  {
+    "id": "word_id_mengerti",
+    "word": "mengerti",
+    "meaning": "to understand",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "məŋərti"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Saya mengerti.", "Kamu mengerti?"]
+  },
+  {
+    "id": "word_id_ingin",
+    "word": "ingin",
+    "meaning": "to want",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "iŋin"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Saya ingin pergi.", "Kamu ingin apa?"]
+  },
+  {
+    "id": "word_id_mencintai",
+    "word": "mencintai",
+    "meaning": "to love",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "məncintai"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Saya mencintaimu.", "Cintai keluarga."]
+  },
+  {
+    "id": "word_id_bekerja",
+    "word": "bekerja",
+    "meaning": "to work",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "bəkərdʒa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Bekerja keras.", "Saya bekerja di kantor."]
+  }
+]

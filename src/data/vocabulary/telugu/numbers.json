@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_te_sunna",
+    "word": "సున్న",
+    "meaning": "zero",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "sunnə"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["సున్న మార్కులు.", "సున్న డిగ్రీలు."]
+  },
+  {
+    "id": "word_te_okati",
+    "word": "ఒకటి",
+    "meaning": "one",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "okəʈi"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ఒక ఆపిల్.", "మొదటి."]
+  },
+  {
+    "id": "word_te_rendu",
+    "word": "రెండు",
+    "meaning": "two",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ɾenɖu"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["రెండు పుస్తకాలు.", "రెండవది."]
+  },
+  {
+    "id": "word_te_muudu",
+    "word": "మూడు",
+    "meaning": "three",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "muːɖu"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["మూడు మంది.", "మూడవది."]
+  },
+  {
+    "id": "word_te_naalugu",
+    "word": "నాలుగు",
+    "meaning": "four",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "naːluɡu"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["నాలుగు రోజులు.", "నాలుగవది."]
+  },
+  {
+    "id": "word_te_aidu",
+    "word": "ఐదు",
+    "meaning": "five",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "əjd̪u"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ఐదు రూపాయలు.", "ఐదవది."]
+  },
+  {
+    "id": "word_te_aaru",
+    "word": "ఆరు",
+    "meaning": "six",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "aːɾu"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ఆరు నెలలు.", "ఆరవది."]
+  },
+  {
+    "id": "word_te_eedu",
+    "word": "ఏడు",
+    "meaning": "seven",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "eːɖu"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ఏడు రోజులు.", "ఏడవది."]
+  },
+  {
+    "id": "word_te_enimidi",
+    "word": "ఎనిమిది",
+    "meaning": "eight",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "enimid̪i"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ఎనిమిది గంటలకు.", "ఎనిమిదవది."]
+  },
+  {
+    "id": "word_te_tommidi",
+    "word": "తొమ్మిది",
+    "meaning": "nine",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "t̪ommid̪i"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["తొమ్మిది మంది.", "తొమ్మిదవది."]
+  },
+  {
+    "id": "word_te_padi",
+    "word": "పది",
+    "meaning": "ten",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "pəd̪i"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["పది రూపాయలు.", "పదవది."]
+  },
+  {
+    "id": "word_te_vanda",
+    "word": "వంద",
+    "meaning": "hundred",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ʋənɖə"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["వంద రూపాయలు.", "ఒక వంద."]
+  },
+  {
+    "id": "word_te_veyyi",
+    "word": "వేయి",
+    "meaning": "thousand",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ʋeːji"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ఒక వేయి.", "రెండు వేలు."]
+  },
+  {
+    "id": "word_te_laksha",
+    "word": "లక్ష",
+    "meaning": "hundred thousand",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ləkʂə"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ఒక లక్ష.", "రెండు లక్షలు."]
+  },
+  {
+    "id": "word_te_aravai",
+    "word": "అరవై",
+    "meaning": "half",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ərəʋəj"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["అరగంట.", "సగం భాగం."]
+  }
+]

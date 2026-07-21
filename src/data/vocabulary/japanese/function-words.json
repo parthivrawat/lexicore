@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_ja_watashi",
+    "word": "私",
+    "meaning": "I",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "wataɕi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["私は行く。", "私は元気。"]
+  },
+  {
+    "id": "word_ja_anata",
+    "word": "あなた",
+    "meaning": "you",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "anata"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["あなたはここ。", "元気ですか？"]
+  },
+  {
+    "id": "word_ja_kare",
+    "word": "彼",
+    "meaning": "he",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "kaɾe"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["彼は学生。", "彼はここ。"]
+  },
+  {
+    "id": "word_ja_kanojo",
+    "word": "彼女",
+    "meaning": "she",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "kanod͡ʑo"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["彼女は先生。", "彼女は美しい。"]
+  },
+  {
+    "id": "word_ja_watashitachi",
+    "word": "私たち",
+    "meaning": "we",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "wataɕitat͡ɕi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["私たちは学生。", "私たちはここ。"]
+  },
+  {
+    "id": "word_ja_anatatachi",
+    "word": "あなたたち",
+    "meaning": "you (plural)",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "anatatat͡ɕi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["あなたたちは学生。", "元気ですか？"]
+  },
+  {
+    "id": "word_ja_karera",
+    "word": "彼ら",
+    "meaning": "they",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "kaɾeɾa"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["彼らは友達。", "彼らはここ。"]
+  },
+  {
+    "id": "word_ja_nani",
+    "word": "何",
+    "meaning": "what",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "naɲi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["これは何？", "あなたの名前は何？"]
+  },
+  {
+    "id": "word_ja_dare",
+    "word": "誰",
+    "meaning": "who",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "daɾe"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["これは誰？", "あなたは誰？"]
+  },
+  {
+    "id": "word_ja_doko",
+    "word": "どこ",
+    "meaning": "where",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "doko"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["あなたはどこ？", "家はどこ？"]
+  },
+  {
+    "id": "word_ja_itsu",
+    "word": "いつ",
+    "meaning": "when",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "itsɯ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["いつ来る？", "いつ起こった？"]
+  },
+  {
+    "id": "word_ja_dou",
+    "word": "どう",
+    "meaning": "how",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "doː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["元気？", "どうやって？"]
+  },
+  {
+    "id": "word_ja_naze",
+    "word": "なぜ",
+    "meaning": "why",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "naze"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["なぜ行く？", "なぜだめ？"]
+  },
+  {
+    "id": "word_ja_soshite",
+    "word": "そして",
+    "meaning": "and",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "soɕite"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["私とあなた。", "父と母。"]
+  },
+  {
+    "id": "word_ja_matawa",
+    "word": "または",
+    "meaning": "or",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "matawa"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["お茶またはコーヒー？", "これまたはあれ？"]
+  },
+  {
+    "id": "word_ja_demo",
+    "word": "でも",
+    "meaning": "but",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "demo"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["良いでも高い。", "したいでもできない。"]
+  },
+  {
+    "id": "word_ja_moshi",
+    "word": "もし",
+    "meaning": "if",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "moɕi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["もし来たら。", "もし可能なら。"]
+  },
+  {
+    "id": "word_ja_iie",
+    "word": "いいえ",
+    "meaning": "no",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "iːe"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["いいえ、ありがとう。", "行かない。"]
+  },
+  {
+    "id": "word_ja_hai",
+    "word": "はい",
+    "meaning": "yes",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "hai"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["はい、良い。", "はい、行く。"]
+  },
+  {
+    "id": "word_ja_ka",
+    "word": "か",
+    "meaning": "question marker",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ka"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["元気ですか？", "行きますか？"]
+  }
+]

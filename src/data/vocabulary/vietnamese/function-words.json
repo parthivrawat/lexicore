@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_vi_toi",
+    "word": "tôi",
+    "meaning": "I",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "toj"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Tôi đi.", "Tôi khỏe."]
+  },
+  {
+    "id": "word_vi_ban_pron",
+    "word": "bạn",
+    "meaning": "you",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɓaːn"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Bạn ở đây.", "Bạn khỏe không?"]
+  },
+  {
+    "id": "word_vi_anh_ay",
+    "word": "anh ấy",
+    "meaning": "he",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "aɲ aj"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Anh ấy là học sinh.", "Anh ấy ở đây."]
+  },
+  {
+    "id": "word_vi_co_ay",
+    "word": "cô ấy",
+    "meaning": "she",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ko aj"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Cô ấy là giáo viên.", "Cô ấy đẹp."]
+  },
+  {
+    "id": "word_vi_chung_toi",
+    "word": "chúng tôi",
+    "meaning": "we",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "t͡ɕuŋ toj"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Chúng tôi là học sinh.", "Chúng tôi ở đây."]
+  },
+  {
+    "id": "word_vi_cac_ban",
+    "word": "các bạn",
+    "meaning": "you (plural)",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "kak ɓaːn"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Các bạn là học sinh.", "Các bạn khỏe không?"]
+  },
+  {
+    "id": "word_vi_ho",
+    "word": "họ",
+    "meaning": "they",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ho"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Họ là bạn.", "Họ ở đây."]
+  },
+  {
+    "id": "word_vi_cai_gi",
+    "word": "cái gì",
+    "meaning": "what",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "kaj zi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Đây là cái gì?", "Tên bạn là gì?"]
+  },
+  {
+    "id": "word_vi_ai",
+    "word": "ai",
+    "meaning": "who",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "aːj"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Đây là ai?", "Bạn là ai?"]
+  },
+  {
+    "id": "word_vi_dau",
+    "word": "đâu",
+    "meaning": "where",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɗaw"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Bạn ở đâu?", "Nhà ở đâu?"]
+  },
+  {
+    "id": "word_vi_khi_nao",
+    "word": "khi nào",
+    "meaning": "when",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "xi naːw"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Bạn đến khi nào?", "Khi nào xảy ra?"]
+  },
+  {
+    "id": "word_vi_nhu_the_nao",
+    "word": "như thế nào",
+    "meaning": "how",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɲɨ tʰe naːw"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Bạn khỏe không?", "Làm như thế nào?"]
+  },
+  {
+    "id": "word_vi_tai_sao",
+    "word": "tại sao",
+    "meaning": "why",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "taːj ʂaːw"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Tại sao bạn đi?", "Tại sao không?"]
+  },
+  {
+    "id": "word_vi_va",
+    "word": "và",
+    "meaning": "and",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "vaː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Tôi và bạn.", "Cha và mẹ."]
+  },
+  {
+    "id": "word_vi_hoac",
+    "word": "hoặc",
+    "meaning": "or",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "hwak"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Trà hoặc cà phê?", "Cái này hoặc cái kia?"]
+  },
+  {
+    "id": "word_vi_nhung",
+    "word": "nhưng",
+    "meaning": "but",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɲɨŋ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Tốt, nhưng đắt.", "Tôi muốn, nhưng không thể."]
+  },
+  {
+    "id": "word_vi_neu",
+    "word": "nếu",
+    "meaning": "if",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "new"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Nếu bạn đến.", "Nếu có thể."]
+  },
+  {
+    "id": "word_vi_khong_pron",
+    "word": "không",
+    "meaning": "no/not",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "xoŋ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Không, cảm ơn.", "Tôi không đi."]
+  },
+  {
+    "id": "word_vi_co_pron",
+    "word": "có",
+    "meaning": "yes",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ko"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Có, tốt.", "Có, tôi đi."]
+  },
+  {
+    "id": "word_vi_la_pron",
+    "word": "là",
+    "meaning": "is/are",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "laː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Đây là sách.", "Anh ấy là học sinh."]
+  }
+]

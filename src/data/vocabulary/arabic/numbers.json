@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_ar_sifr",
+    "word": "صفر",
+    "meaning": "zero",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "sˤifr"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["الرقم صفر.", "درجة الحرارة صفر."]
+  },
+  {
+    "id": "word_ar_wahid",
+    "word": "واحد",
+    "meaning": "one",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "waːħid"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["واحد فقط.", "لدي واحد."]
+  },
+  {
+    "id": "word_ar_ithnan",
+    "word": "اثنان",
+    "meaning": "two",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "iθnaːn"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["اثنان وثلاثة.", "لدي اثنان."]
+  },
+  {
+    "id": "word_ar_thalatha",
+    "word": "ثلاثة",
+    "meaning": "three",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "θalaːθa"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ثلاثة أيام.", "ثلاثة كتب."]
+  },
+  {
+    "id": "word_ar_arbaa",
+    "word": "أربعة",
+    "meaning": "four",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔarbaʕa"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["أربعة أشخاص.", "أربعة فصول."]
+  },
+  {
+    "id": "word_ar_khamsa",
+    "word": "خمسة",
+    "meaning": "five",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "xamsa"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["خمسة دولارات.", "خمسة أيام."]
+  },
+  {
+    "id": "word_ar_sitta",
+    "word": "ستة",
+    "meaning": "six",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "sitta"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ستة أشهر.", "ستة كتب."]
+  },
+  {
+    "id": "word_ar_sabaa",
+    "word": "سبعة",
+    "meaning": "seven",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "sabʕa"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["سبعة أيام.", "سبعة أشخاص."]
+  },
+  {
+    "id": "word_ar_thamaniya",
+    "word": "ثمانية",
+    "meaning": "eight",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "θamaːnija"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ثمانية كيلو.", "ثمانية ساعات."]
+  },
+  {
+    "id": "word_ar_tisaa",
+    "word": "تسعة",
+    "meaning": "nine",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "tisʕa"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["تسعة أشهر.", "تسعة كتب."]
+  },
+  {
+    "id": "word_ar_ashara",
+    "word": "عشرة",
+    "meaning": "ten",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʕaʃara"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["عشرة دولارات.", "عشرة سنوات."]
+  },
+  {
+    "id": "word_ar_ishrun",
+    "word": "عشرون",
+    "meaning": "twenty",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʕiʃruːn"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["عشرون شخصا.", "عشرون دولارا."]
+  },
+  {
+    "id": "word_ar_khamsun",
+    "word": "خمسون",
+    "meaning": "fifty",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "xamsuːn"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["خمسون بالمئة.", "خمسون دولارا."]
+  },
+  {
+    "id": "word_ar_mia",
+    "word": "مئة",
+    "meaning": "hundred",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "miʔa"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["مئة دولار.", "مئة سنة."]
+  },
+  {
+    "id": "word_ar_alf",
+    "word": "ألف",
+    "meaning": "thousand",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔalf"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ألف دولار.", "ألف شخص."]
+  }
+]

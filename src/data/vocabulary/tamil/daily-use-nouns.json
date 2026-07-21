@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_ta_manithan",
+    "word": "மனிதன்",
+    "meaning": "person",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "mənid̪ən"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["அவர் நல்ல மனிதர்.", "நிறைய மனிதர்கள்."]
+  },
+  {
+    "id": "word_ta_kuzhandhai",
+    "word": "குழந்தை",
+    "meaning": "child",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "kuɻənd̪ɛ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["என் குழந்தை.", "சிறிய குழந்தை."]
+  },
+  {
+    "id": "word_ta_veedu",
+    "word": "வீடு",
+    "meaning": "house",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "ʋiːɖu"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["பெரிய வீடு.", "வீட்டில்."]
+  },
+  {
+    "id": "word_ta_thanneer",
+    "word": "தண்ணீர்",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "t̪əɳɳiːɾ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["தண்ணீர் குடி.", "சுத்தமான தண்ணீர்."]
+  },
+  {
+    "id": "word_ta_saappadu",
+    "word": "சாப்பாடு",
+    "meaning": "food",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "saːppaːɖu"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["சுவையான சாப்பாடு.", "சாப்பாடு சாப்பிடு."]
+  },
+  {
+    "id": "word_ta_neram",
+    "word": "நேரம்",
+    "meaning": "time",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "neːɾəm"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["ஓய்வு நேரம்.", "நேரம் இல்லை."]
+  },
+  {
+    "id": "word_ta_naal",
+    "word": "நாள்",
+    "meaning": "day",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "naːɭ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["இன்று.", "தினமும்."]
+  },
+  {
+    "id": "word_ta_varudam",
+    "word": "வருடம்",
+    "meaning": "year",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "ʋəɾuɖəm"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["புதிய வருடம்.", "இரண்டு வருடங்கள்."]
+  },
+  {
+    "id": "word_ta_kai",
+    "word": "கை",
+    "meaning": "hand",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "kɛ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["கை கழுவு.", "வலது கை."]
+  },
+  {
+    "id": "word_ta_kan",
+    "word": "கண்",
+    "meaning": "eye",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "kəɳ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["அழகான கண்கள்.", "கண்களை மூடு."]
+  },
+  {
+    "id": "word_ta_thalai",
+    "word": "தலை",
+    "meaning": "head",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "t̪əlɛ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["தலைவலி.", "தலையை உயர்த்து."]
+  },
+  {
+    "id": "word_ta_puthagam",
+    "word": "புத்தகம்",
+    "meaning": "book",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "put̪t̪əɡəm"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["புத்தகம் படி.", "நல்ல புத்தகம்."]
+  },
+  {
+    "id": "word_ta_kathavu",
+    "word": "கதவு",
+    "meaning": "door",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "kəd̪əʋu"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["கதவை மூடு.", "கதவு திறந்திருக்கிறது."]
+  },
+  {
+    "id": "word_ta_salai",
+    "word": "சாலை",
+    "meaning": "road",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "saːlɛ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["பிரதான சாலை.", "சாலையில்."]
+  },
+  {
+    "id": "word_ta_nagaram",
+    "word": "நகரம்",
+    "meaning": "city",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "nəɡəɾəm"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["பெரிய நகரம்.", "நகரத்தில்."]
+  },
+  {
+    "id": "word_ta_naadu",
+    "word": "நாடு",
+    "meaning": "country",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "naːɖu"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["இந்தியா நாடு.", "நாட்டை நேசி."]
+  },
+  {
+    "id": "word_ta_palli",
+    "word": "பள்ளி",
+    "meaning": "school",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "pəɭɭi"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["பள்ளிக்கு போ.", "ஆரம்ப பள்ளி."]
+  },
+  {
+    "id": "word_ta_nanban",
+    "word": "நண்பன்",
+    "meaning": "friend",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "nəɳbən"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["நல்ல நண்பன்.", "என் நண்பன்."]
+  },
+  {
+    "id": "word_ta_kudumbam",
+    "word": "குடும்பம்",
+    "meaning": "family",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "kuɖumbəm"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["பெரிய குடும்பம்.", "குடும்பத்தை நேசி."]
+  },
+  {
+    "id": "word_ta_peyar",
+    "word": "பெயர்",
+    "meaning": "name",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "pejəɾ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["என் பெயர்.", "பெயர் எழுது."]
+  }
+]

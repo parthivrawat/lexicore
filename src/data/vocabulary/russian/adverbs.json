@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_ru_bystro",
+    "word": "быстро",
+    "meaning": "quickly",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈbɨstrə"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Приходи быстро.", "Беги быстро."]
+  },
+  {
+    "id": "word_ru_medlenno",
+    "word": "медленно",
+    "meaning": "slowly",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈmʲedlʲɪnːə"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Иди медленно.", "Говори медленно."]
+  },
+  {
+    "id": "word_ru_ochen",
+    "word": "очень",
+    "meaning": "very",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈotɕɪnʲ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Очень хорошо.", "Очень много."]
+  },
+  {
+    "id": "word_ru_nemnogo",
+    "word": "немного",
+    "meaning": "a little",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "nʲɪˈmnoɡə"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Подожди немного.", "Дай немного."]
+  },
+  {
+    "id": "word_ru_vsegda",
+    "word": "всегда",
+    "meaning": "always",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "fsʲɪɡˈda"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Всегда счастлив.", "Он всегда приходит."]
+  },
+  {
+    "id": "word_ru_inogda",
+    "word": "иногда",
+    "meaning": "sometimes",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ɪnɐɡˈda"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Иногда иду.", "Иногда дождь."]
+  },
+  {
+    "id": "word_ru_nikogda",
+    "word": "никогда",
+    "meaning": "never",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "nʲɪkɐɡˈda"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Никогда не пойду.", "Никогда нет."]
+  },
+  {
+    "id": "word_ru_segodnya",
+    "word": "сегодня",
+    "meaning": "today",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "sʲɪˈvodnʲə"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Сегодня хорошо.", "Пойду сегодня."]
+  },
+  {
+    "id": "word_ru_zavtra",
+    "word": "завтра",
+    "meaning": "tomorrow",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈzaftrə"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Увидимся завтра.", "Пойду завтра."]
+  },
+  {
+    "id": "word_ru_vchera",
+    "word": "вчера",
+    "meaning": "yesterday",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ftɕɪˈra"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Вчера было хорошо.", "Видел вчера."]
+  },
+  {
+    "id": "word_ru_seychas",
+    "word": "сейчас",
+    "meaning": "now",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "sʲɪjˈtɕas"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Приходи сейчас.", "Сейчас понял."]
+  },
+  {
+    "id": "word_ru_zdes",
+    "word": "здесь",
+    "meaning": "here",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "zdʲesʲ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Приходи сюда.", "Сиди здесь."]
+  },
+  {
+    "id": "word_ru_tam",
+    "word": "там",
+    "meaning": "there",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "tam"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Иди туда.", "Там есть."]
+  },
+  {
+    "id": "word_ru_vnutri",
+    "word": "внутри",
+    "meaning": "inside",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "vnʊˈtrʲi"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Войди внутрь.", "Внутри дома."]
+  },
+  {
+    "id": "word_ru_snaruzhi",
+    "word": "снаружи",
+    "meaning": "outside",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "snɐˈruʐɨ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Выйди наружу.", "Снаружи дома."]
+  },
+  {
+    "id": "word_ru_vverkh",
+    "word": "вверх",
+    "meaning": "up/above",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "vʲerx"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Смотри вверх.", "Наверху."]
+  },
+  {
+    "id": "word_ru_vniz",
+    "word": "вниз",
+    "meaning": "down/below",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "vnʲis"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Смотри вниз.", "Внизу."]
+  },
+  {
+    "id": "word_ru_vperedi",
+    "word": "впереди",
+    "meaning": "in front",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "fpʲɪrʲɪˈdʲi"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Стой впереди.", "Впереди дома."]
+  },
+  {
+    "id": "word_ru_szadi",
+    "word": "сзади",
+    "meaning": "behind",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈzːadʲɪ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Смотри сзади.", "Сзади двери."]
+  },
+  {
+    "id": "word_ru_vmeste",
+    "word": "вместе",
+    "meaning": "together",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈvmʲesʲtʲɪ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Идём вместе.", "Работаем вместе."]
+  }
+]

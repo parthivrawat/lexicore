@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_zh_nihao",
+    "word": "你好",
+    "meaning": "hello",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ni˨˩xɑʊ˨˩˦"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["你好，你好吗？", "她向他说你好。"]
+  },
+  {
+    "id": "word_zh_nin_hao",
+    "word": "您好",
+    "meaning": "hello (formal)",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "nin˨˩xɑʊ˨˩˦"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["您好，老师。", "您好，先生。"]
+  },
+  {
+    "id": "word_zh_zaoshang_hao",
+    "word": "早上好",
+    "meaning": "good morning",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tsɑʊ˨˩˦ʂɑŋ˥xɑʊ˨˩˦"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["早上好，大家。", "早上好，妈妈。"]
+  },
+  {
+    "id": "word_zh_wanshang_hao",
+    "word": "晚上好",
+    "meaning": "good evening",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "wan˨˩˦ʂɑŋ˥xɑʊ˨˩˦"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["晚上好，朋友们。", "晚上好，先生。"]
+  },
+  {
+    "id": "word_zh_zaijian",
+    "word": "再见",
+    "meaning": "goodbye",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tsai˥˩tɕjɛn˥˩"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["再见，明天见。", "她挥手再见。"]
+  },
+  {
+    "id": "word_zh_xiexie",
+    "word": "谢谢",
+    "meaning": "thank you",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ɕjɛ˥˩ɕjɛ˥"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["谢谢你的帮助。", "非常谢谢。"]
+  },
+  {
+    "id": "word_zh_bukeqi",
+    "word": "不客气",
+    "meaning": "you're welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "pu˥kʰɤ˥˩tɕʰi˥˩"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["不客气，不用谢。", "谢谢。- 不客气。"]
+  },
+  {
+    "id": "word_zh_qing",
+    "word": "请",
+    "meaning": "please",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tɕʰiŋ˨˩˦"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["请坐。", "请帮我。"]
+  },
+  {
+    "id": "word_zh_duibuqi",
+    "word": "对不起",
+    "meaning": "sorry",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "twei˥˩pu˥tɕʰi˨˩˦"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["对不起，我迟到了。", "对不起，打扰了。"]
+  },
+  {
+    "id": "word_zh_meiguanxi",
+    "word": "没关系",
+    "meaning": "it's okay/no problem",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "mei˨˩kwan˥ɕi˥"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["没关系，不要紧。", "对不起。- 没关系。"]
+  },
+  {
+    "id": "word_zh_wanan",
+    "word": "晚安",
+    "meaning": "good night",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "wan˨˩˦an˥"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["晚安，睡个好觉。", "晚安，明天见。"]
+  },
+  {
+    "id": "word_zh_ni_hao_ma",
+    "word": "你好吗",
+    "meaning": "how are you",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ni˨˩xɑʊ˨˩˦mɑ˥"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["你好吗？最近怎么样？", "你好吗？我很好。"]
+  },
+  {
+    "id": "word_zh_wo_hen_hao",
+    "word": "我很好",
+    "meaning": "I'm fine",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "wɔ˨˩xən˨˩˦xɑʊ˨˩˦"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["我很好，谢谢。", "你好吗？- 我很好。"]
+  },
+  {
+    "id": "word_zh_huanying",
+    "word": "欢迎",
+    "meaning": "welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "xwan˥jiŋ˨˩"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["欢迎来到我家。", "欢迎你。"]
+  },
+  {
+    "id": "word_zh_gongxi",
+    "word": "恭喜",
+    "meaning": "congratulations",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "kʊŋ˥ɕi˨˩˦"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["恭喜你成功了！", "恭喜恭喜。"]
+  }
+]

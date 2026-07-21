@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_pcm_person",
+    "word": "Person",
+    "meaning": "person",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "pɜːsən"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["He be good person.", "Plenty people."]
+  },
+  {
+    "id": "word_pcm_pikin",
+    "word": "Pikin",
+    "meaning": "child",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "pɪkɪn"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["My pikin.", "Small pikin."]
+  },
+  {
+    "id": "word_pcm_house",
+    "word": "House",
+    "meaning": "house",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "haʊs"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Big house.", "For house."]
+  },
+  {
+    "id": "word_pcm_water",
+    "word": "Water",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "wɔːtə"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Drink water.", "Clean water."]
+  },
+  {
+    "id": "word_pcm_food",
+    "word": "Food",
+    "meaning": "food",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "fuːd"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Sweet food.", "Chop food."]
+  },
+  {
+    "id": "word_pcm_time",
+    "word": "Time",
+    "meaning": "time",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "taɪm"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Free time.", "No time."]
+  },
+  {
+    "id": "word_pcm_day",
+    "word": "Day",
+    "meaning": "day",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "deɪ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Today.", "Every day."]
+  },
+  {
+    "id": "word_pcm_year",
+    "word": "Year",
+    "meaning": "year",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "jɪə"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["New year.", "Two years."]
+  },
+  {
+    "id": "word_pcm_hand",
+    "word": "Hand",
+    "meaning": "hand",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "hænd"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Wash hand.", "Right hand."]
+  },
+  {
+    "id": "word_pcm_eye",
+    "word": "Eye",
+    "meaning": "eye",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "aɪ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Fine eye.", "Close eye."]
+  },
+  {
+    "id": "word_pcm_head",
+    "word": "Head",
+    "meaning": "head",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "hɛd"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Head pain.", "Raise head."]
+  },
+  {
+    "id": "word_pcm_book",
+    "word": "Book",
+    "meaning": "book",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "bʊk"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Read book.", "Good book."]
+  },
+  {
+    "id": "word_pcm_door",
+    "word": "Door",
+    "meaning": "door",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "dɔː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Close door.", "Door open."]
+  },
+  {
+    "id": "word_pcm_road",
+    "word": "Road",
+    "meaning": "road",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "roːd"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Main road.", "For road."]
+  },
+  {
+    "id": "word_pcm_town",
+    "word": "Town",
+    "meaning": "city",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "taʊn"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Big town.", "For town."]
+  },
+  {
+    "id": "word_pcm_country",
+    "word": "Country",
+    "meaning": "country",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "kʌntri"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Nigeria country.", "Like country."]
+  },
+  {
+    "id": "word_pcm_school",
+    "word": "School",
+    "meaning": "school",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "skuːl"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Go school.", "Primary school."]
+  },
+  {
+    "id": "word_pcm_friend",
+    "word": "Friend",
+    "meaning": "friend",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "frɛnd"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Good friend.", "My friend."]
+  },
+  {
+    "id": "word_pcm_family",
+    "word": "Family",
+    "meaning": "family",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "fæmɪli"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Big family.", "Like family."]
+  },
+  {
+    "id": "word_pcm_name",
+    "word": "Name",
+    "meaning": "name",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "neɪm"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["My name.", "Write name."]
+  }
+]

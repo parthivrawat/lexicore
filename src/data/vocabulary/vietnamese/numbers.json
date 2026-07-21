@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_vi_khong",
+    "word": "không",
+    "meaning": "zero",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "xoŋ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Không độ.", "Bắt đầu từ không."]
+  },
+  {
+    "id": "word_vi_mot",
+    "word": "một",
+    "meaning": "one",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "mot"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Một người.", "Tôi có một."]
+  },
+  {
+    "id": "word_vi_hai",
+    "word": "hai",
+    "meaning": "two",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "haːj"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Hai cộng ba.", "Tôi có hai."]
+  },
+  {
+    "id": "word_vi_ba",
+    "word": "ba",
+    "meaning": "three",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɓaː"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Ba ngày.", "Ba cuốn sách."]
+  },
+  {
+    "id": "word_vi_bon",
+    "word": "bốn",
+    "meaning": "four",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɓon"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Bốn người.", "Bốn mùa."]
+  },
+  {
+    "id": "word_vi_nam",
+    "word": "năm",
+    "meaning": "five",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "naːm"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Năm đồng.", "Năm giờ."]
+  },
+  {
+    "id": "word_vi_sau",
+    "word": "sáu",
+    "meaning": "six",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ʂaːw"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Sáu tháng.", "Sáu cuốn sách."]
+  },
+  {
+    "id": "word_vi_bay",
+    "word": "bảy",
+    "meaning": "seven",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɓaːj"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Bảy ngày.", "Bảy người."]
+  },
+  {
+    "id": "word_vi_tam",
+    "word": "tám",
+    "meaning": "eight",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "taːm"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Tám kg.", "Tám giờ."]
+  },
+  {
+    "id": "word_vi_chin",
+    "word": "chín",
+    "meaning": "nine",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "t͡ɕin"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Chín tháng.", "Chín cuốn sách."]
+  },
+  {
+    "id": "word_vi_muoi",
+    "word": "mười",
+    "meaning": "ten",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "muəj"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Mười đồng.", "Mười năm."]
+  },
+  {
+    "id": "word_vi_hai_muoi",
+    "word": "hai mươi",
+    "meaning": "twenty",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "haːj muəj"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Hai mươi người.", "Hai mươi đồng."]
+  },
+  {
+    "id": "word_vi_nam_muoi",
+    "word": "năm mươi",
+    "meaning": "fifty",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "naːm muəj"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Năm mươi phần trăm.", "Năm mươi đồng."]
+  },
+  {
+    "id": "word_vi_mot_tram",
+    "word": "một trăm",
+    "meaning": "hundred",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "mot t͡ɕam"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Một trăm đồng.", "Một trăm năm."]
+  },
+  {
+    "id": "word_vi_mot_ngan",
+    "word": "một nghìn",
+    "meaning": "thousand",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "mot ŋin"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Một nghìn đồng.", "Một nghìn người."]
+  }
+]

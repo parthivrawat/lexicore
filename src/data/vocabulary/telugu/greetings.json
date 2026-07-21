@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_te_namaskaram",
+    "word": "నమస్కారం",
+    "meaning": "hello",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "nəməskaːɾəm"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["నమస్కారం!", "నమస్కారం, ఎలా ఉన్నారు?"]
+  },
+  {
+    "id": "word_te_subhodayam",
+    "word": "శుభోదయం",
+    "meaning": "good morning",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ʃubʱoːd̪əjəm"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["శుభోదయం!", "శుభోదయం, మిత్రమా."]
+  },
+  {
+    "id": "word_te_dhanyavadalu",
+    "word": "ధన్యవాదాలు",
+    "meaning": "thank you",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "d̪ʱənjaʋaːd̪aːlu"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["ధన్యవాదాలు!", "చాలా ధన్యవాదాలు."]
+  },
+  {
+    "id": "word_te_dayachesi",
+    "word": "దయచేసి",
+    "meaning": "please",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "d̪əjət͡ʃeːsi"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["దయచేసి ఇక్కడకు రండి.", "దయచేసి సహాయం చేయండి."]
+  },
+  {
+    "id": "word_te_parledu",
+    "word": "పర్లేదు",
+    "meaning": "you're welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "pərleːd̪u"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["పర్లేదు!", "పర్లేదు, మిత్రమా."]
+  },
+  {
+    "id": "word_te_kshaminchandi",
+    "word": "క్షమించండి",
+    "meaning": "sorry",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "kʂəmint͡ʃənɖi"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["క్షమించండి!", "క్షమించండి, నేను ఆలస్యం అయ్యాను."]
+  },
+  {
+    "id": "word_te_problem_ledu",
+    "word": "ప్రాబ్లెం లేదు",
+    "meaning": "no problem",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "pɾaːblem leːd̪u"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["ప్రాబ్లెం లేదు!", "ప్రాబ్లెం లేదు, చింతించకండి."]
+  },
+  {
+    "id": "word_te_veltu",
+    "word": "వెళ్తు",
+    "meaning": "goodbye",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ʋeɭt̪u"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["వెళ్తు!", "వెళ్తు, రేపు కలుద్దాం."]
+  },
+  {
+    "id": "word_te_taruvata_kaluddam",
+    "word": "తర్వాత కలుద్దాం",
+    "meaning": "see you later",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "t̪ərʋaːt̪ə kəlud̪d̪aːm"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["తర్వాత కలుద్దాం!", "తర్వాత కలుద్దాం, మిత్రమా."]
+  },
+  {
+    "id": "word_te_ela_unnaru",
+    "word": "ఎలా ఉన్నారు",
+    "meaning": "how are you",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "elaː unnaːɾu"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["ఎలా ఉన్నారు?", "మీరు ఎలా ఉన్నారు?"]
+  },
+  {
+    "id": "word_te_nenu_baagunnanu",
+    "word": "నేను బాగున్నాను",
+    "meaning": "I am fine",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "neːnu baːɡunnaːnu"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["నేను బాగున్నాను.", "నేను బాగున్నాను, ధన్యవాదాలు."]
+  },
+  {
+    "id": "word_te_shubha_ratri",
+    "word": "శుభ రాత్రి",
+    "meaning": "good night",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ʃubʱə ɾaːt̪ɾi"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["శుభ రాత్రి!", "శుభ రాత్రి, రేపు కలుద్దాం."]
+  },
+  {
+    "id": "word_te_swagatam",
+    "word": "స్వాగతం",
+    "meaning": "welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "sʋaːɡət̪əm"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["స్వాగతం!", "మీకు స్వాగతం."]
+  },
+  {
+    "id": "word_te_adigite",
+    "word": "అడిగితే",
+    "meaning": "may I ask",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "əɖiɡit̪eː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["అడిగితే...", "అడిగితే, మీ పేరు ఏమిటి?"]
+  },
+  {
+    "id": "word_te_chala_rojulu_ayyindi",
+    "word": "చాలా రోజులు అయ్యింది",
+    "meaning": "long time no see",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "t͡ʃaːlaː ɾoːd͡ʒulu əjjinɖi"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["చాలా రోజులు అయ్యింది!", "చాలా రోజులు అయ్యింది, ఎలా ఉన్నారు?"]
+  }
+]

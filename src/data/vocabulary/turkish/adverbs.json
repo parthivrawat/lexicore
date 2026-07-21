@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_tr_hizla",
+    "word": "hızla",
+    "meaning": "quickly",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "hɯzlɑ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Hızla gel.", "Hızla koş."]
+  },
+  {
+    "id": "word_tr_yavasce",
+    "word": "yavaşça",
+    "meaning": "slowly",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "jɑvɑʃt͡ʃɑ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Yavaşça yürü.", "Yavaşça konuş."]
+  },
+  {
+    "id": "word_tr_cok",
+    "word": "çok",
+    "meaning": "very",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "t͡ʃoc"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Çok iyi.", "Çok fazla."]
+  },
+  {
+    "id": "word_tr_biraz",
+    "word": "biraz",
+    "meaning": "a little",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "biɾɑz"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Biraz bekle.", "Biraz ver."]
+  },
+  {
+    "id": "word_tr_her_zaman",
+    "word": "her zaman",
+    "meaning": "always",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "heɾ zɑmɑn"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Her zaman mutlu.", "Her zaman gelir."]
+  },
+  {
+    "id": "word_tr_bazen",
+    "word": "bazen",
+    "meaning": "sometimes",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "bɑzen"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Bazen giderim.", "Bazen yağmur yağar."]
+  },
+  {
+    "id": "word_tr_asla",
+    "word": "asla",
+    "meaning": "never",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɑslɑ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Asla gitmem.", "Asla değil."]
+  },
+  {
+    "id": "word_tr_bugun",
+    "word": "bugün",
+    "meaning": "today",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "buɟyn"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Bugün iyi.", "Bugün gidiyorum."]
+  },
+  {
+    "id": "word_tr_yarin",
+    "word": "yarın",
+    "meaning": "tomorrow",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "jɑɾɯn"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Yarın görüşürüz.", "Yarın gideceğim."]
+  },
+  {
+    "id": "word_tr_dun",
+    "word": "dün",
+    "meaning": "yesterday",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "dyn"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Dün iyiydi.", "Dün gördüm."]
+  },
+  {
+    "id": "word_tr_simdi",
+    "word": "şimdi",
+    "meaning": "now",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ʃimdi"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Şimdi gel.", "Şimdi anladım."]
+  },
+  {
+    "id": "word_tr_burada",
+    "word": "burada",
+    "meaning": "here",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "buɾɑdɑ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Buraya gel.", "Buraya otur."]
+  },
+  {
+    "id": "word_tr_orada",
+    "word": "orada",
+    "meaning": "there",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "oɾɑdɑ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Oraya git.", "Orada var."]
+  },
+  {
+    "id": "word_tr_icerde",
+    "word": "içerde",
+    "meaning": "inside",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "it͡ʃeɾde"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["İçeri gir.", "Evin içinde."]
+  },
+  {
+    "id": "word_tr_disarda",
+    "word": "dışarıda",
+    "meaning": "outside",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "dɯʃɑɾɯdɑ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Dışarı çık.", "Evin dışında."]
+  },
+  {
+    "id": "word_tr_yukarda",
+    "word": "yukarıda",
+    "meaning": "up/above",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "jukɑɾɯdɑ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Yukarı bak.", "Yukarıda."]
+  },
+  {
+    "id": "word_tr_asagida",
+    "word": "aşağıda",
+    "meaning": "down/below",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɑʃɑːɯdɑ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Aşağı bak.", "Aşağıda."]
+  },
+  {
+    "id": "word_tr_onde",
+    "word": "önde",
+    "meaning": "in front",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ønde"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Önde dur.", "Evin önünde."]
+  },
+  {
+    "id": "word_tr_arkada",
+    "word": "arkada",
+    "meaning": "behind",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɑɾkɑdɑ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Arkaya bak.", "Kapının arkasında."]
+  },
+  {
+    "id": "word_tr_birlikte",
+    "word": "birlikte",
+    "meaning": "together",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "biɾlicte"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Birlikte gidelim.", "Birlikte çalışırız."]
+  }
+]

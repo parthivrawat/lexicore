@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_fr_je",
+    "word": "je",
+    "meaning": "I",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "ʒə"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Je vais.", "Je suis bien."]
+  },
+  {
+    "id": "word_fr_tu",
+    "word": "tu",
+    "meaning": "you (informal)",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "ty"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Tu es ici.", "Comment vas-tu?"]
+  },
+  {
+    "id": "word_fr_vous",
+    "word": "vous",
+    "meaning": "you (formal/plural)",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "vu"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Vous êtes ici.", "Comment allez-vous?"]
+  },
+  {
+    "id": "word_fr_il",
+    "word": "il",
+    "meaning": "he",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "il"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Il est étudiant.", "Il est ici."]
+  },
+  {
+    "id": "word_fr_elle",
+    "word": "elle",
+    "meaning": "she",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "ɛl"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Elle est professeur.", "Elle est belle."]
+  },
+  {
+    "id": "word_fr_nous",
+    "word": "nous",
+    "meaning": "we",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "nu"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Nous sommes étudiants.", "Nous sommes ici."]
+  },
+  {
+    "id": "word_fr_ils",
+    "word": "ils/elles",
+    "meaning": "they",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "il"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ils sont amis.", "Ils sont ici."]
+  },
+  {
+    "id": "word_fr_quoi",
+    "word": "quoi",
+    "meaning": "what",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "kwa"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["C'est quoi?", "Quel est ton nom?"]
+  },
+  {
+    "id": "word_fr_qui",
+    "word": "qui",
+    "meaning": "who",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "ki"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["C'est qui?", "Qui es-tu?"]
+  },
+  {
+    "id": "word_fr_ou",
+    "word": "où",
+    "meaning": "where",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "u"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Où es-tu?", "Où est la maison?"]
+  },
+  {
+    "id": "word_fr_quand",
+    "word": "quand",
+    "meaning": "when",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "kɑ̃"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Quand viens-tu?", "Quand est-ce arrivé?"]
+  },
+  {
+    "id": "word_fr_comment",
+    "word": "comment",
+    "meaning": "how",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "kɔmɑ̃"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Comment vas-tu?", "Comment faire?"]
+  },
+  {
+    "id": "word_fr_pourquoi",
+    "word": "pourquoi",
+    "meaning": "why",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "puʁkwa"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Pourquoi tu vas?", "Pourquoi pas?"]
+  },
+  {
+    "id": "word_fr_et",
+    "word": "et",
+    "meaning": "and",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "e"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Toi et moi.", "Papa et maman."]
+  },
+  {
+    "id": "word_fr_ou_conj",
+    "word": "ou",
+    "meaning": "or",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "u"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Thé ou café?", "Ceci ou cela?"]
+  },
+  {
+    "id": "word_fr_mais",
+    "word": "mais",
+    "meaning": "but",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "mɛ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Bon, mais cher.", "Je veux, mais je ne peux pas."]
+  },
+  {
+    "id": "word_fr_si",
+    "word": "si",
+    "meaning": "if",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "si"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Si tu viens.", "Si possible."]
+  },
+  {
+    "id": "word_fr_non",
+    "word": "non",
+    "meaning": "no",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "nɔ̃"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Non, merci.", "Je ne vais pas."]
+  },
+  {
+    "id": "word_fr_oui",
+    "word": "oui",
+    "meaning": "yes",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "wi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Oui, bon.", "Oui, je vais."]
+  },
+  {
+    "id": "word_fr_le",
+    "word": "le/la",
+    "meaning": "the",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "lə"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Le livre.", "La maison."]
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_bn_ami",
+    "word": "আমি",
+    "meaning": "I",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ami"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["আমি যাচ্ছি।", "আমি ভালো আছি।"]
+  },
+  {
+    "id": "word_bn_tumi",
+    "word": "তুমি",
+    "meaning": "you (informal)",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "tumi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["তুমি এখানে।", "কেমন আছো তুমি?"]
+  },
+  {
+    "id": "word_bn_apni",
+    "word": "আপনি",
+    "meaning": "you (formal)",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "apni"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["আপনি এখানে।", "কেমন আছেন আপনি?"]
+  },
+  {
+    "id": "word_bn_she",
+    "word": "সে",
+    "meaning": "he/she",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃe"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["সে ছাত্র।", "সে এখানে।"]
+  },
+  {
+    "id": "word_bn_amra",
+    "word": "আমরা",
+    "meaning": "we",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "amɾa"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["আমরা ছাত্র।", "আমরা এখানে।"]
+  },
+  {
+    "id": "word_bn_tomra",
+    "word": "তোমরা",
+    "meaning": "you (plural)",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "tomɾa"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["তোমরা ছাত্র।", "কেমন আছো তোমরা?"]
+  },
+  {
+    "id": "word_bn_tara",
+    "word": "তারা",
+    "meaning": "they",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "taɾa"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["তারা বন্ধু।", "তারা এখানে।"]
+  },
+  {
+    "id": "word_bn_ki",
+    "word": "কী",
+    "meaning": "what",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ki"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["এটা কী?", "তোমার নাম কী?"]
+  },
+  {
+    "id": "word_bn_ke",
+    "word": "কে",
+    "meaning": "who",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ke"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["এটা কে?", "তুমি কে?"]
+  },
+  {
+    "id": "word_bn_kothay",
+    "word": "কোথায়",
+    "meaning": "where",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kotʰaj"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["তুমি কোথায়?", "বাড়ি কোথায়?"]
+  },
+  {
+    "id": "word_bn_kokhon",
+    "word": "কখন",
+    "meaning": "when",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kɔkʰɔn"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["তুমি কখন আসছ?", "এটা কখন হয়েছিল?"]
+  },
+  {
+    "id": "word_bn_kibhabe",
+    "word": "কীভাবে",
+    "meaning": "how",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kibʱabe"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["কেমন আছো?", "এটা কীভাবে করবে?"]
+  },
+  {
+    "id": "word_bn_keno",
+    "word": "কেন",
+    "meaning": "why",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "keno"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["তুমি কেন যাচ্ছ?", "কেন না?"]
+  },
+  {
+    "id": "word_bn_ebong",
+    "word": "এবং",
+    "meaning": "and",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ebɔŋ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["আমি এবং তুমি।", "বাবা এবং মা।"]
+  },
+  {
+    "id": "word_bn_ba",
+    "word": "বা",
+    "meaning": "or",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ba"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["চা বা কফি?", "এটা বা ওটা?"]
+  },
+  {
+    "id": "word_bn_kintu",
+    "word": "কিন্তু",
+    "meaning": "but",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kintu"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["ভালো, কিন্তু দামি।", "চাই, কিন্তু পারি না।"]
+  },
+  {
+    "id": "word_bn_jodi",
+    "word": "যদি",
+    "meaning": "if",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dʒɔdi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["যদি তুমি আসো।", "যদি সম্ভব হয়।"]
+  },
+  {
+    "id": "word_bn_na",
+    "word": "না",
+    "meaning": "no",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "na"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["না, ধন্যবাদ।", "আমি যাচ্ছি না।"]
+  },
+  {
+    "id": "word_bn_haan",
+    "word": "হ্যাঁ",
+    "meaning": "yes",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "hæ̃"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["হ্যাঁ, ভালো।", "হ্যাঁ, আমি যাব।"]
+  },
+  {
+    "id": "word_bn_noy",
+    "word": "নয়",
+    "meaning": "not",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "nɔj"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["যাচ্ছি না।", "চাই না।"]
+  }
+]

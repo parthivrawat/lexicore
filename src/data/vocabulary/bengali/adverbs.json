@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_bn_druto_adv",
+    "word": "দ্রুত",
+    "meaning": "quickly",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dɾuto"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["দ্রুত এসো।", "দ্রুত দৌড়াও।"]
+  },
+  {
+    "id": "word_bn_dhire_adv",
+    "word": "ধীরে",
+    "meaning": "slowly",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dʱiɾe"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["ধীরে হাঁটো।", "ধীরে বলো।"]
+  },
+  {
+    "id": "word_bn_khub",
+    "word": "খুব",
+    "meaning": "very",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kʰub"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["খুব ভালো।", "খুব বেশি।"]
+  },
+  {
+    "id": "word_bn_ektu",
+    "word": "একটু",
+    "meaning": "a little",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ekʈu"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["একটু অপেক্ষা করো।", "একটু দাও।"]
+  },
+  {
+    "id": "word_bn_shobshomoy",
+    "word": "সবসময়",
+    "meaning": "always",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃɔbʃɔmɔj"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["সবসময় খুশি।", "সে সবসময় আসে।"]
+  },
+  {
+    "id": "word_bn_kokhono_kokhono",
+    "word": "কখনো কখনো",
+    "meaning": "sometimes",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kɔkʰono kɔkʰono"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["কখনো কখনো যাই।", "কখনো কখনো বৃষ্টি হয়।"]
+  },
+  {
+    "id": "word_bn_kokhono_na",
+    "word": "কখনো না",
+    "meaning": "never",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kɔkʰono na"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["আমি কখনো যাব না।", "কখনো না।"]
+  },
+  {
+    "id": "word_bn_aj",
+    "word": "আজ",
+    "meaning": "today",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "adʒ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["আজ ভালো।", "আমি আজ যাব।"]
+  },
+  {
+    "id": "word_bn_aagamikal",
+    "word": "আগামীকাল",
+    "meaning": "tomorrow",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "aɡamikal"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["আগামীকাল দেখা হবে।", "আমি আগামীকাল যাব।"]
+  },
+  {
+    "id": "word_bn_gotokal",
+    "word": "গতকাল",
+    "meaning": "yesterday",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ɡɔtokal"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["গতকাল ভালো ছিল।", "আমি গতকাল দেখেছি।"]
+  },
+  {
+    "id": "word_bn_ekhon",
+    "word": "এখন",
+    "meaning": "now",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ekʰɔn"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["এখন এসো।", "এখন বুঝলাম।"]
+  },
+  {
+    "id": "word_bn_ekhane",
+    "word": "এখানে",
+    "meaning": "here",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ekʰane"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["এখানে এসো।", "এখানে বসো।"]
+  },
+  {
+    "id": "word_bn_okhane",
+    "word": "ওখানে",
+    "meaning": "there",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "okʰane"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["ওখানে যাও।", "ওখানে আছে।"]
+  },
+  {
+    "id": "word_bn_bhitore",
+    "word": "ভিতরে",
+    "meaning": "inside",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "bʱitoɾe"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["ভিতরে যাও।", "বাড়ির ভিতরে।"]
+  },
+  {
+    "id": "word_bn_baire",
+    "word": "বাইরে",
+    "meaning": "outside",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "baiɾe"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["বাইরে যাও।", "বাড়ির বাইরে।"]
+  },
+  {
+    "id": "word_bn_upore",
+    "word": "উপরে",
+    "meaning": "up/above",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "upoɾe"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["উপরে দেখো।", "উপরে।"]
+  },
+  {
+    "id": "word_bn_niche",
+    "word": "নিচে",
+    "meaning": "down/below",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "nitʃe"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["নিচে দেখো।", "নিচে।"]
+  },
+  {
+    "id": "word_bn_shamne",
+    "word": "সামনে",
+    "meaning": "in front",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃamne"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["সামনে দাঁড়াও।", "বাড়ির সামনে।"]
+  },
+  {
+    "id": "word_bn_pichone",
+    "word": "পিছনে",
+    "meaning": "behind",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "pitʃʰone"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["পিছনে দেখো।", "দরজার পিছনে।"]
+  },
+  {
+    "id": "word_bn_ekshathe",
+    "word": "একসাথে",
+    "meaning": "together",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ekʃatʰe"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["একসাথে যাই।", "একসাথে কাজ করি।"]
+  }
+]

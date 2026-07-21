@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_yue_nei_hou",
+    "word": "你好",
+    "meaning": "hello",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "nei⁵ hou²"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["你好！", "你好嗎？"]
+  },
+  {
+    "id": "word_yue_zou_san",
+    "word": "早晨",
+    "meaning": "good morning",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "zou² san⁴"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["早晨！", "早晨，老師。"]
+  },
+  {
+    "id": "word_yue_m_goi",
+    "word": "唔該",
+    "meaning": "thank you/excuse me",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "m⁴ goi¹"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["唔該！", "唔該晒。"]
+  },
+  {
+    "id": "word_yue_do_ze",
+    "word": "多謝",
+    "meaning": "thank you",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "do¹ ze⁶"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["多謝你！", "多謝晒。"]
+  },
+  {
+    "id": "word_yue_m_sai_haak_hei",
+    "word": "唔使客氣",
+    "meaning": "you're welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "m⁴ sai² haak³ hei³"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["唔使客氣！", "唔使客氣啦。"]
+  },
+  {
+    "id": "word_yue_deoi_m_zyu",
+    "word": "對唔住",
+    "meaning": "sorry",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "deoi³ m⁴ zyu⁶"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["對唔住！", "對唔住，我遲到咗。"]
+  },
+  {
+    "id": "word_yue_mou_man_tai",
+    "word": "冇問題",
+    "meaning": "no problem",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "mou⁵ man⁶ tai⁴"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["冇問題！", "冇問題嘅。"]
+  },
+  {
+    "id": "word_yue_baai_baai",
+    "word": "拜拜",
+    "meaning": "goodbye",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "baai¹ baai¹"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["拜拜！", "拜拜，聽日見。"]
+  },
+  {
+    "id": "word_yue_zoi_gin",
+    "word": "再見",
+    "meaning": "goodbye",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "zoi³ gin³"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["再見！", "再見，老師。"]
+  },
+  {
+    "id": "word_yue_hou_noi_mou_gin",
+    "word": "好耐冇見",
+    "meaning": "long time no see",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "hou² noi⁶ mou⁵ gin³"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["好耐冇見！", "好耐冇見，你好嗎？"]
+  },
+  {
+    "id": "word_yue_nei_hou_ma",
+    "word": "你好嗎",
+    "meaning": "how are you",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "nei⁵ hou² ma³"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["你好嗎？", "你最近好嗎？"]
+  },
+  {
+    "id": "word_yue_gei_hou",
+    "word": "幾好",
+    "meaning": "quite good",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "gei² hou²"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["幾好呀。", "我幾好。"]
+  },
+  {
+    "id": "word_yue_m_hou_ji_si",
+    "word": "唔好意思",
+    "meaning": "excuse me/sorry",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "m⁴ hou² ji³ si¹"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["唔好意思！", "唔好意思，打擾晒。"]
+  },
+  {
+    "id": "word_yue_cing_man",
+    "word": "請問",
+    "meaning": "may I ask",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "cing² man⁶"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["請問...", "請問你係邊個？"]
+  },
+  {
+    "id": "word_yue_wan_on",
+    "word": "晚安",
+    "meaning": "good night",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "maan⁵ on¹"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["晚安！", "晚安，聽日見。"]
+  }
+]

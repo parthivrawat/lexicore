@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_pt_rapidamente",
+    "word": "rapidamente",
+    "meaning": "quickly",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ʁapidɐˈmẽt͡ʃi"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Venha rapidamente.", "Corra rapidamente."]
+  },
+  {
+    "id": "word_pt_devagar",
+    "word": "devagar",
+    "meaning": "slowly",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "devɐˈɡaʁ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Vá devagar.", "Fale devagar."]
+  },
+  {
+    "id": "word_pt_muito",
+    "word": "muito",
+    "meaning": "very",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈmũjtu"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Muito bom.", "Muito mais."]
+  },
+  {
+    "id": "word_pt_pouco",
+    "word": "pouco",
+    "meaning": "a little",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈpoku"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Espere um pouco.", "Dê um pouco."]
+  },
+  {
+    "id": "word_pt_sempre",
+    "word": "sempre",
+    "meaning": "always",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈsẽpɾi"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Sempre feliz.", "Ele sempre vem."]
+  },
+  {
+    "id": "word_pt_as_vezes",
+    "word": "às vezes",
+    "meaning": "sometimes",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "as ˈvezis"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Às vezes vou.", "Às vezes chove."]
+  },
+  {
+    "id": "word_pt_nunca",
+    "word": "nunca",
+    "meaning": "never",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈnũkɐ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Nunca vou.", "Nunca não."]
+  },
+  {
+    "id": "word_pt_hoje",
+    "word": "hoje",
+    "meaning": "today",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈoʒi"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Hoje está bom.", "Vou hoje."]
+  },
+  {
+    "id": "word_pt_amanha",
+    "word": "amanhã",
+    "meaning": "tomorrow",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ɐmɐˈɲɐ̃"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Até amanhã.", "Vou amanhã."]
+  },
+  {
+    "id": "word_pt_ontem",
+    "word": "ontem",
+    "meaning": "yesterday",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈõtẽj"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Ontem foi bom.", "Vi ontem."]
+  },
+  {
+    "id": "word_pt_agora",
+    "word": "agora",
+    "meaning": "now",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ɐˈɡoɾɐ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Venha agora.", "Agora entendi."]
+  },
+  {
+    "id": "word_pt_aqui",
+    "word": "aqui",
+    "meaning": "here",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ɐˈki"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Venha aqui.", "Sente aqui."]
+  },
+  {
+    "id": "word_pt_ali",
+    "word": "ali",
+    "meaning": "there",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ɐˈli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Vá ali.", "Ali está."]
+  },
+  {
+    "id": "word_pt_dentro",
+    "word": "dentro",
+    "meaning": "inside",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈdẽtɾu"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Entre dentro.", "Dentro da casa."]
+  },
+  {
+    "id": "word_pt_fora",
+    "word": "fora",
+    "meaning": "outside",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈfɔɾɐ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Saia fora.", "Fora da casa."]
+  },
+  {
+    "id": "word_pt_acima",
+    "word": "acima",
+    "meaning": "up/above",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ɐˈsimɐ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Olhe acima.", "Acima."]
+  },
+  {
+    "id": "word_pt_abaixo",
+    "word": "abaixo",
+    "meaning": "down/below",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ɐˈbajʃu"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Olhe abaixo.", "Abaixo."]
+  },
+  {
+    "id": "word_pt_frente",
+    "word": "à frente",
+    "meaning": "in front",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "a ˈfɾẽt͡ʃi"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Fique à frente.", "À frente da casa."]
+  },
+  {
+    "id": "word_pt_atras",
+    "word": "atrás",
+    "meaning": "behind",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ɐˈtɾas"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Olhe atrás.", "Atrás da porta."]
+  },
+  {
+    "id": "word_pt_juntos",
+    "word": "juntos",
+    "meaning": "together",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈʒũtus"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Vamos juntos.", "Trabalhamos juntos."]
+  }
+]

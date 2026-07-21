@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_pcm_how_far",
+    "word": "How far",
+    "meaning": "hello",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "haʊ faː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["How far!", "How far, wetin dey happen?"]
+  },
+  {
+    "id": "word_pcm_good_morning",
+    "word": "Good morning",
+    "meaning": "good morning",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "ɡʊd mɔːnɪŋ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Good morning!", "Good morning, my friend."]
+  },
+  {
+    "id": "word_pcm_thank_you",
+    "word": "Thank you",
+    "meaning": "thank you",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "θæŋk juː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Thank you!", "Thank you well well."]
+  },
+  {
+    "id": "word_pcm_abeg",
+    "word": "Abeg",
+    "meaning": "please",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "əbɛɡ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Abeg come here.", "Abeg help me."]
+  },
+  {
+    "id": "word_pcm_no_wahala",
+    "word": "No wahala",
+    "meaning": "you're welcome/no problem",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "noː wahaːla"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["No wahala!", "No wahala, my brother."]
+  },
+  {
+    "id": "word_pcm_sorry",
+    "word": "Sorry",
+    "meaning": "sorry",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "sɔːri"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Sorry!", "Sorry, I late."]
+  },
+  {
+    "id": "word_pcm_e_no_matter",
+    "word": "E no matter",
+    "meaning": "it doesn't matter",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "iː noː mætə"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["E no matter!", "E no matter, no worry."]
+  },
+  {
+    "id": "word_pcm_i_dey_go",
+    "word": "I dey go",
+    "meaning": "goodbye",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "aɪ deɪ ɡoː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["I dey go!", "I dey go, see you tomorrow."]
+  },
+  {
+    "id": "word_pcm_see_you_later",
+    "word": "See you later",
+    "meaning": "see you later",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "siː juː leɪtə"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["See you later!", "See you later, my guy."]
+  },
+  {
+    "id": "word_pcm_how_you_dey",
+    "word": "How you dey",
+    "meaning": "how are you",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "haʊ juː deɪ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["How you dey?", "How you dey today?"]
+  },
+  {
+    "id": "word_pcm_i_dey_fine",
+    "word": "I dey fine",
+    "meaning": "I am fine",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "aɪ deɪ faɪn"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["I dey fine.", "I dey fine, thank you."]
+  },
+  {
+    "id": "word_pcm_good_night",
+    "word": "Good night",
+    "meaning": "good night",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "ɡʊd naɪt"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Good night!", "Good night, see you tomorrow."]
+  },
+  {
+    "id": "word_pcm_welcome",
+    "word": "Welcome",
+    "meaning": "welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "wɛlkəm"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Welcome!", "You welcome."]
+  },
+  {
+    "id": "word_pcm_make_i_ask",
+    "word": "Make I ask",
+    "meaning": "may I ask",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "meɪk aɪ ɑːsk"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Make I ask...", "Make I ask, wetin be your name?"]
+  },
+  {
+    "id": "word_pcm_long_time",
+    "word": "Long time",
+    "meaning": "long time no see",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "lɔːŋ taɪm"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Long time!", "Long time, how you dey?"]
+  }
+]

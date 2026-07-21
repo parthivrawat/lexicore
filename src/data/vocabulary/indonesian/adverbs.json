@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_id_sangat",
+    "word": "sangat",
+    "meaning": "very",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "saŋat"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Sangat baik.", "Sangat cepat."]
+  },
+  {
+    "id": "word_id_juga",
+    "word": "juga",
+    "meaning": "also",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "dʒuɡa"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Saya juga.", "Dia juga pergi."]
+  },
+  {
+    "id": "word_id_hanya",
+    "word": "hanya",
+    "meaning": "only",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "haɲa"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Hanya satu.", "Hanya kamu."]
+  },
+  {
+    "id": "word_id_selalu",
+    "word": "selalu",
+    "meaning": "always",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "səlalu"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Selalu baik.", "Selalu datang."]
+  },
+  {
+    "id": "word_id_tidak_pernah",
+    "word": "tidak pernah",
+    "meaning": "never",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "tidak pərnah"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Tidak pernah terlambat.", "Tidak pernah lupa."]
+  },
+  {
+    "id": "word_id_kadang",
+    "word": "kadang",
+    "meaning": "sometimes",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "kadaŋ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Kadang-kadang.", "Kadang pergi."]
+  },
+  {
+    "id": "word_id_sering",
+    "word": "sering",
+    "meaning": "often",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "səriŋ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Sering datang.", "Sering ke sini."]
+  },
+  {
+    "id": "word_id_sekarang",
+    "word": "sekarang",
+    "meaning": "now",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "səkaraŋ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Sekarang juga.", "Dari sekarang."]
+  },
+  {
+    "id": "word_id_nanti",
+    "word": "nanti",
+    "meaning": "later",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "nanti"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Nanti saja.", "Sampai nanti."]
+  },
+  {
+    "id": "word_id_kemarin",
+    "word": "kemarin",
+    "meaning": "yesterday",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "kəmarin"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Kemarin sore.", "Sejak kemarin."]
+  },
+  {
+    "id": "word_id_besok",
+    "word": "besok",
+    "meaning": "tomorrow",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "bəsok"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Besok pagi.", "Sampai besok."]
+  },
+  {
+    "id": "word_id_sudah",
+    "word": "sudah",
+    "meaning": "already",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "sudah"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Sudah selesai.", "Sudah makan."]
+  },
+  {
+    "id": "word_id_belum",
+    "word": "belum",
+    "meaning": "not yet",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "bəlum"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Belum selesai.", "Belum makan."]
+  },
+  {
+    "id": "word_id_mungkin",
+    "word": "mungkin",
+    "meaning": "maybe",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "muŋkin"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Mungkin ya.", "Mungkin tidak."]
+  },
+  {
+    "id": "word_id_tentu",
+    "word": "tentu",
+    "meaning": "certainly",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "təntu"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Tentu saja.", "Tentu tidak."]
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_ta_poojiyam",
+    "word": "பூஜ்யம்",
+    "meaning": "zero",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "puːd͡ʒjəm"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["பூஜ்யம் மதிப்பெண்.", "பூஜ்யம் டிகிரி."]
+  },
+  {
+    "id": "word_ta_onru",
+    "word": "ஒன்று",
+    "meaning": "one",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "ondɾu"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ஒன்று ஆப்பிள்.", "முதல்."]
+  },
+  {
+    "id": "word_ta_irandu",
+    "word": "இரண்டு",
+    "meaning": "two",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "iɾəɳɖu"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["இரண்டு புத்தகங்கள்.", "இரண்டாவது."]
+  },
+  {
+    "id": "word_ta_moondru",
+    "word": "மூன்று",
+    "meaning": "three",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "muːndɾu"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["மூன்று பேர்.", "மூன்றாவது."]
+  },
+  {
+    "id": "word_ta_naangu",
+    "word": "நான்கு",
+    "meaning": "four",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "naːŋɡu"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["நான்கு நாட்கள்.", "நான்காவது."]
+  },
+  {
+    "id": "word_ta_ainthu",
+    "word": "ஐந்து",
+    "meaning": "five",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "əjnd̪u"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ஐந்து ரூபாய்.", "ஐந்தாவது."]
+  },
+  {
+    "id": "word_ta_aaru",
+    "word": "ஆறு",
+    "meaning": "six",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "aːɾu"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ஆறு மாதங்கள்.", "ஆறாவது."]
+  },
+  {
+    "id": "word_ta_ezhu",
+    "word": "ஏழு",
+    "meaning": "seven",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "eːɻu"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ஏழு நாட்கள்.", "ஏழாவது."]
+  },
+  {
+    "id": "word_ta_ettu",
+    "word": "எட்டு",
+    "meaning": "eight",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "eʈʈu"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["எட்டு மணிக்கு.", "எட்டாவது."]
+  },
+  {
+    "id": "word_ta_onpathu",
+    "word": "ஒன்பது",
+    "meaning": "nine",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "onbəd̪u"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ஒன்பது பேர்.", "ஒன்பதாவது."]
+  },
+  {
+    "id": "word_ta_paththu",
+    "word": "பத்து",
+    "meaning": "ten",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "pət̪t̪u"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["பத்து ரூபாய்.", "பத்தாவது."]
+  },
+  {
+    "id": "word_ta_nooru",
+    "word": "நூறு",
+    "meaning": "hundred",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "nuːɾu"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["நூறு ரூபாய்.", "ஒரு நூறு."]
+  },
+  {
+    "id": "word_ta_aayiram",
+    "word": "ஆயிரம்",
+    "meaning": "thousand",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "aːjiɾəm"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ஒரு ஆயிரம்.", "இரண்டு ஆயிரம்."]
+  },
+  {
+    "id": "word_ta_latcham",
+    "word": "லட்சம்",
+    "meaning": "hundred thousand",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "ləʈt͡ʃəm"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ஒரு லட்சம்.", "இரண்டு லட்சம்."]
+  },
+  {
+    "id": "word_ta_araiye",
+    "word": "அரையே",
+    "meaning": "half",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "ərəjje"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["அரை மணி நேரம்.", "அரை பங்கு."]
+  }
+]

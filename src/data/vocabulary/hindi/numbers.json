@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_hi_zero",
+    "word": "शून्य",
+    "meaning": "zero",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ʃuːnjaː"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["शून्य से शुरू करो।", "तापमान शून्य डिग्री है।"]
+  },
+  {
+    "id": "word_hi_one",
+    "word": "एक",
+    "meaning": "one",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "eːk"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["एक सेब दो।", "मेरे पास एक किताब है।"]
+  },
+  {
+    "id": "word_hi_two",
+    "word": "दो",
+    "meaning": "two",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "d̪oː"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["मुझे दो चाहिए।", "दो और दो चार होते हैं।"]
+  },
+  {
+    "id": "word_hi_three",
+    "word": "तीन",
+    "meaning": "three",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "t̪iːn"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["तीन बजे आना।", "मेरे तीन भाई हैं।"]
+  },
+  {
+    "id": "word_hi_four",
+    "word": "चार",
+    "meaning": "four",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "t͡ʃaːr"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["चार दिशाएँ।", "मुझे चार किताबें चाहिए।"]
+  },
+  {
+    "id": "word_hi_five",
+    "word": "पाँच",
+    "meaning": "five",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "paːnt͡ʃ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["पाँच रुपये दो।", "पाँच बजे मिलते हैं।"]
+  },
+  {
+    "id": "word_hi_six",
+    "word": "छह",
+    "meaning": "six",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "t͡ʃʰəh"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["छह महीने बाद।", "छह लोग आए।"]
+  },
+  {
+    "id": "word_hi_seven",
+    "word": "सात",
+    "meaning": "seven",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "saːt̪"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["सात दिन।", "सात समंदर पार।"]
+  },
+  {
+    "id": "word_hi_eight",
+    "word": "आठ",
+    "meaning": "eight",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "aːʈʰ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["आठ बजे।", "आठ किलो चावल।"]
+  },
+  {
+    "id": "word_hi_nine",
+    "word": "नौ",
+    "meaning": "nine",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "nɔː"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["नौ बजकर दस मिनट।", "नौ रत्न।"]
+  },
+  {
+    "id": "word_hi_ten",
+    "word": "दस",
+    "meaning": "ten",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "d̪əs"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["दस रुपये।", "दस साल पहले।"]
+  },
+  {
+    "id": "word_hi_twenty",
+    "word": "बीस",
+    "meaning": "twenty",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "biːs"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["बीस रुपये।", "बीस लोग।"]
+  },
+  {
+    "id": "word_hi_fifty",
+    "word": "पचास",
+    "meaning": "fifty",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "pət͡ʃaːs"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["पचास प्रतिशत।", "पचास रुपये।"]
+  },
+  {
+    "id": "word_hi_hundred",
+    "word": "सौ",
+    "meaning": "hundred",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "sɔː"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["सौ रुपये।", "सौ साल।"]
+  },
+  {
+    "id": "word_hi_thousand",
+    "word": "हज़ार",
+    "meaning": "thousand",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "həzaːr"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["एक हज़ार रुपये।", "हज़ार लोग।"]
+  }
+]

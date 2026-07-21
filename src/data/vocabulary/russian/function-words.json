@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_ru_ya",
+    "word": "я",
+    "meaning": "I",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ja"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Я иду.", "Я хорошо."]
+  },
+  {
+    "id": "word_ru_ty",
+    "word": "ты",
+    "meaning": "you (informal)",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "tɨ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ты здесь.", "Как ты?"]
+  },
+  {
+    "id": "word_ru_vy",
+    "word": "вы",
+    "meaning": "you (formal/plural)",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "vɨ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Вы здесь.", "Как вы?"]
+  },
+  {
+    "id": "word_ru_on",
+    "word": "он",
+    "meaning": "he",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "on"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Он студент.", "Он здесь."]
+  },
+  {
+    "id": "word_ru_ona",
+    "word": "она",
+    "meaning": "she",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ɐˈna"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Она учительница.", "Она красивая."]
+  },
+  {
+    "id": "word_ru_my",
+    "word": "мы",
+    "meaning": "we",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "mɨ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Мы студенты.", "Мы здесь."]
+  },
+  {
+    "id": "word_ru_oni",
+    "word": "они",
+    "meaning": "they",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ɐˈnʲi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Они друзья.", "Они здесь."]
+  },
+  {
+    "id": "word_ru_chto",
+    "word": "что",
+    "meaning": "what",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ʂto"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Что это?", "Что твоё имя?"]
+  },
+  {
+    "id": "word_ru_kto",
+    "word": "кто",
+    "meaning": "who",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "kto"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Кто это?", "Кто ты?"]
+  },
+  {
+    "id": "word_ru_gde",
+    "word": "где",
+    "meaning": "where",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ɡdʲe"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Где ты?", "Где дом?"]
+  },
+  {
+    "id": "word_ru_kogda",
+    "word": "когда",
+    "meaning": "when",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "kɐɡˈda"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Когда приходишь?", "Когда это случилось?"]
+  },
+  {
+    "id": "word_ru_kak",
+    "word": "как",
+    "meaning": "how",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "kak"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Как дела?", "Как это сделать?"]
+  },
+  {
+    "id": "word_ru_pochemu",
+    "word": "почему",
+    "meaning": "why",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "pətɕɪˈmu"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Почему идёшь?", "Почему нет?"]
+  },
+  {
+    "id": "word_ru_i",
+    "word": "и",
+    "meaning": "and",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "i"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Я и ты.", "Отец и мать."]
+  },
+  {
+    "id": "word_ru_ili",
+    "word": "или",
+    "meaning": "or",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈilʲɪ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Чай или кофе?", "Это или то?"]
+  },
+  {
+    "id": "word_ru_no",
+    "word": "но",
+    "meaning": "but",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "no"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Хорошо, но дорого.", "Хочу, но не могу."]
+  },
+  {
+    "id": "word_ru_esli",
+    "word": "если",
+    "meaning": "if",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈjeslʲɪ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Если придёшь.", "Если можно."]
+  },
+  {
+    "id": "word_ru_net",
+    "word": "нет",
+    "meaning": "no",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "nʲet"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Нет, спасибо.", "Я не иду."]
+  },
+  {
+    "id": "word_ru_da",
+    "word": "да",
+    "meaning": "yes",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "da"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Да, хорошо.", "Да, пойду."]
+  },
+  {
+    "id": "word_ru_ne",
+    "word": "не",
+    "meaning": "not",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "nʲe"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Не иду.", "Не хочу."]
+  }
+]

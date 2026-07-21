@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_ur_ghar",
+    "word": "گھر",
+    "meaning": "home/house",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ɡʰər"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["میں گھر جا رہا ہوں۔", "یہ میرا گھر ہے۔"]
+  },
+  {
+    "id": "word_ur_pani",
+    "word": "پانی",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "pɑːniː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["پانی پیو۔", "پانی گرم ہے۔"]
+  },
+  {
+    "id": "word_ur_khana_noun",
+    "word": "کھانا",
+    "meaning": "food",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "kʰɑːnɑː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["کھانا تیار ہے۔", "کھانا کھاؤ۔"]
+  },
+  {
+    "id": "word_ur_kitab",
+    "word": "کتاب",
+    "meaning": "book",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "kɪtɑːb"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["کتاب پڑھو۔", "یہ کتاب اچھی ہے۔"]
+  },
+  {
+    "id": "word_ur_qalam",
+    "word": "قلم",
+    "meaning": "pen",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "qələm"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["مجھے قلم دو۔", "میرا قلم گم ہو گیا۔"]
+  },
+  {
+    "id": "word_ur_kagaz",
+    "word": "کاغذ",
+    "meaning": "paper",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "kɑːɣəz"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["کاغذ پر لکھو۔", "کاغذ چاہیے۔"]
+  },
+  {
+    "id": "word_ur_darwaza",
+    "word": "دروازہ",
+    "meaning": "door",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "dərwɑːzɑː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["دروازہ کھولو۔", "دروازہ بند کرو۔"]
+  },
+  {
+    "id": "word_ur_khirki",
+    "word": "کھڑکی",
+    "meaning": "window",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "kʰɪɽkiː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["کھڑکی کھولو۔", "کھڑکی ٹوٹی ہوئی ہے۔"]
+  },
+  {
+    "id": "word_ur_kursi",
+    "word": "کرسی",
+    "meaning": "chair",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "kʊrsiː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["کرسی پر بیٹھو۔", "کرسی آرام دہ ہے۔"]
+  },
+  {
+    "id": "word_ur_mez",
+    "word": "میز",
+    "meaning": "table",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "meːz"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["میز پر رکھو۔", "میز صاف ہے۔"]
+  },
+  {
+    "id": "word_ur_bistar",
+    "word": "بستر",
+    "meaning": "bed",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "bɪstər"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["بستر پر سو جاؤ۔", "بستر آرام دہ ہے۔"]
+  },
+  {
+    "id": "word_ur_kapre",
+    "word": "کپڑے",
+    "meaning": "clothes",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "kəpɽeː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["کپڑے پہنو۔", "کپڑے دھوؤ۔"]
+  },
+  {
+    "id": "word_ur_joote",
+    "word": "جوتے",
+    "meaning": "shoes",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "d͡ʒuːteː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["جوتے پہنو۔", "جوتے اتارو۔"]
+  },
+  {
+    "id": "word_ur_gari",
+    "word": "گاڑی",
+    "meaning": "car",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ɡɑːɽiː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["گاڑی چلاؤ۔", "گاڑی آ گئی۔"]
+  },
+  {
+    "id": "word_ur_phone",
+    "word": "فون",
+    "meaning": "phone",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "foːn"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["فون پر کال کرو۔", "فون بج رہا ہے۔"]
+  },
+  {
+    "id": "word_ur_computer",
+    "word": "کمپیوٹر",
+    "meaning": "computer",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "kəmpjuːʈər"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["کمپیوٹر استعمال کرو۔", "کمپیوٹر تیز ہے۔"]
+  },
+  {
+    "id": "word_ur_school",
+    "word": "اسکول",
+    "meaning": "school",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ɪskuːl"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["اسکول جاؤ۔", "اسکول قریب ہے۔"]
+  },
+  {
+    "id": "word_ur_dost",
+    "word": "دوست",
+    "meaning": "friend",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "doːst"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["وہ میرا دوست ہے۔", "اچھا دوست۔"]
+  },
+  {
+    "id": "word_ur_khandan",
+    "word": "خاندان",
+    "meaning": "family",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "xɑːndɑːn"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["میرا خاندان بڑا ہے۔", "خاندان سے پیار کرو۔"]
+  },
+  {
+    "id": "word_ur_ammi",
+    "word": "امی",
+    "meaning": "mother",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "əmmiː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["امی گھر پر ہیں۔", "امی کی محبت۔"]
+  },
+  {
+    "id": "word_ur_abbu",
+    "word": "ابو",
+    "meaning": "father",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "əbbuː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["ابو کام پر ہیں۔", "ابو کا احترام کرو۔"]
+  },
+  {
+    "id": "word_ur_bhai",
+    "word": "بھائی",
+    "meaning": "brother",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "bʱɑːiː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["میرا بڑا بھائی۔", "میرا ایک بھائی ہے۔"]
+  },
+  {
+    "id": "word_ur_behan",
+    "word": "بہن",
+    "meaning": "sister",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "bəhən"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["میری چھوٹی بہن۔", "میری ایک بہن ہے۔"]
+  },
+  {
+    "id": "word_ur_din",
+    "word": "دن",
+    "meaning": "day",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "dɪn"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["آج اچھا دن ہے۔", "نیا دن۔"]
+  },
+  {
+    "id": "word_ur_raat",
+    "word": "رات",
+    "meaning": "night",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "rɑːt"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["رات ہو گئی۔", "رات کو سو جاؤ۔"]
+  }
+]

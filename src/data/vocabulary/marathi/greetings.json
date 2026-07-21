@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_mr_namaskar",
+    "word": "नमस्कार",
+    "meaning": "hello",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "nəməskaːr"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["नमस्कार!", "नमस्कार, कसे आहात?"]
+  },
+  {
+    "id": "word_mr_shubh_sakal",
+    "word": "शुभ सकाळ",
+    "meaning": "good morning",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ʃubʱ səkaːɭ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["शुभ सकाळ!", "शुभ सकाळ, मित्रा."]
+  },
+  {
+    "id": "word_mr_dhanyavad",
+    "word": "धन्यवाद",
+    "meaning": "thank you",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "d̪ʱənjaʋaːd̪"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["धन्यवाद!", "खूप धन्यवाद."]
+  },
+  {
+    "id": "word_mr_krupaya",
+    "word": "कृपया",
+    "meaning": "please",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kɾupajaː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["कृपया येथे या.", "कृपया मदत करा."]
+  },
+  {
+    "id": "word_mr_kahi_harkat_nahi",
+    "word": "काही हरकत नाही",
+    "meaning": "you're welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kaːhiː həɾkət̪ naːhiː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["काही हरकत नाही!", "काही हरकत नाही, मित्रा."]
+  },
+  {
+    "id": "word_mr_maaf_kara",
+    "word": "माफ करा",
+    "meaning": "sorry",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "maːf kəɾaː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["माफ करा!", "माफ करा, मी उशीर झाला."]
+  },
+  {
+    "id": "word_mr_kahi_problem_nahi",
+    "word": "काही प्रॉब्लेम नाही",
+    "meaning": "no problem",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kaːhiː pɾɔblem naːhiː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["काही प्रॉब्लेम नाही!", "काही प्रॉब्लेम नाही, चिंता करू नका."]
+  },
+  {
+    "id": "word_mr_nirop",
+    "word": "निरोप",
+    "meaning": "goodbye",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "niɾoːp"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["निरोप!", "निरोप, उद्या भेटू."]
+  },
+  {
+    "id": "word_mr_phir_bhetu",
+    "word": "फिर भेटू",
+    "meaning": "see you again",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "pʰiɾ bʱeʈuː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["फिर भेटू!", "फिर भेटू, मित्रा."]
+  },
+  {
+    "id": "word_mr_kase_aahat",
+    "word": "कसे आहात",
+    "meaning": "how are you",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kəse aːhaːt̪"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["कसे आहात?", "तुम्ही कसे आहात?"]
+  },
+  {
+    "id": "word_mr_mi_bara_aahe",
+    "word": "मी बरा आहे",
+    "meaning": "I am fine",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "miː bəɾaː aːhe"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["मी बरा आहे.", "मी बरा आहे, धन्यवाद."]
+  },
+  {
+    "id": "word_mr_shubh_ratri",
+    "word": "शुभ रात्री",
+    "meaning": "good night",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ʃubʱ ɾaːt̪ɾiː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["शुभ रात्री!", "शुभ रात्री, उद्या भेटू."]
+  },
+  {
+    "id": "word_mr_swagat_aahe",
+    "word": "स्वागत आहे",
+    "meaning": "welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "sʋaːɡət̪ aːhe"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["स्वागत आहे!", "तुमचे स्वागत आहे."]
+  },
+  {
+    "id": "word_mr_kripaya_vicharale",
+    "word": "कृपया विचारले",
+    "meaning": "may I ask",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kɾupajaː ʋit͡ʃaːɾle"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["कृपया विचारले...", "कृपया विचारले, तुमचे नाव काय?"]
+  },
+  {
+    "id": "word_mr_khup_divas_jhale",
+    "word": "खूप दिवस झाले",
+    "meaning": "long time no see",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kʰuːp d̪iʋəs d͡ʒʱaːle"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["खूप दिवस झाले!", "खूप दिवस झाले, कसे आहात?"]
+  }
+]

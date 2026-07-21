@@ -1,0 +1,288 @@
+[
+  {
+    "id": "word_te_nenu",
+    "word": "నేను",
+    "meaning": "I/me",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "neːnu"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["నేను వెళ్తున్నాను.", "నా పేరు."]
+  },
+  {
+    "id": "word_te_nuvvu",
+    "word": "నువ్వు",
+    "meaning": "you (informal)",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "nuvvu"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["నువ్వు మంచివాడివి.", "నీ కోసం."]
+  },
+  {
+    "id": "word_te_meeru",
+    "word": "మీరు",
+    "meaning": "you (formal)",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "miːɾu"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["మీరు మంచివారు.", "మీ కోసం."]
+  },
+  {
+    "id": "word_te_atanu",
+    "word": "అతను",
+    "meaning": "he",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ət̪ənu"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["అతను వెళ్తున్నాడు.", "అతని ఇల్లు."]
+  },
+  {
+    "id": "word_te_aame",
+    "word": "ఆమె",
+    "meaning": "she",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "aːme"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["ఆమె వెళ్తుంది.", "ఆమె ఇల్లు."]
+  },
+  {
+    "id": "word_te_manam",
+    "word": "మనం",
+    "meaning": "we",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "mənəm"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["మనం వెళ్తున్నాం.", "మన ఇల్లు."]
+  },
+  {
+    "id": "word_te_vaaru",
+    "word": "వారు",
+    "meaning": "they",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ʋaːɾu"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["వారు వెళ్తున్నారు.", "వారి ఇల్లు."]
+  },
+  {
+    "id": "word_te_idi",
+    "word": "ఇది",
+    "meaning": "this",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "id̪i"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["ఇది పుస్తకం.", "ఈ రోజు."]
+  },
+  {
+    "id": "word_te_adi",
+    "word": "అది",
+    "meaning": "that",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "əd̪i"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["అది ఇల్లు.", "ఆ సమయం."]
+  },
+  {
+    "id": "word_te_emi",
+    "word": "ఏమి",
+    "meaning": "what",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "eːmi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["ఇది ఏమిటి?", "ఏమి కావాలి?"]
+  },
+  {
+    "id": "word_te_evaru",
+    "word": "ఎవరు",
+    "meaning": "who",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "eʋəɾu"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["అది ఎవరు?", "ఎవరితో?"]
+  },
+  {
+    "id": "word_te_ekkada",
+    "word": "ఎక్కడ",
+    "meaning": "where",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ekkəɖə"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["ఎక్కడ?", "ఎక్కడికి వెళ్తున్నారు?"]
+  },
+  {
+    "id": "word_te_eppudu_q",
+    "word": "ఎప్పుడు",
+    "meaning": "when",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "eppuɖu"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["ఎప్పుడు వెళ్తారు?", "ఎప్పుడు వస్తారు?"]
+  },
+  {
+    "id": "word_te_enduku",
+    "word": "ఎందుకు",
+    "meaning": "why",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "end̪uku"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["ఎందుకు ఇలా?", "ఎందుకు కాదు?"]
+  },
+  {
+    "id": "word_te_ela",
+    "word": "ఎలా",
+    "meaning": "how",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "elaː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["ఎలా ఉన్నారు?", "ఎలా చేయాలి?"]
+  },
+  {
+    "id": "word_te_mariyu",
+    "word": "మరియు",
+    "meaning": "and",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "məɾiju"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["నువ్వు మరియు నేను.", "తినడం మరియు తాగడం."]
+  },
+  {
+    "id": "word_te_leda",
+    "word": "లేదా",
+    "meaning": "or",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "leːd̪aː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["ఇది లేదా అది?", "అవును లేదా కాదు?"]
+  },
+  {
+    "id": "word_te_kaani",
+    "word": "కాని",
+    "meaning": "but",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "kaːni"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["మంచిది కాని ఖరీదు.", "వెళ్ళాలి కాని సమయం లేదు."]
+  },
+  {
+    "id": "word_te_aithe",
+    "word": "ఐతే",
+    "meaning": "if",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "əjt̪eː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["అవసరం ఐతే.", "కావాలి ఐతే."]
+  },
+  {
+    "id": "word_te_endukante",
+    "word": "ఎందుకంటే",
+    "meaning": "because",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "end̪ukənʈeː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["ఎందుకంటే అనారోగ్యం.", "ఎందుకంటే అది."]
+  },
+  {
+    "id": "word_te_kadu",
+    "word": "కాదు",
+    "meaning": "no/not",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "kaːd̪u"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["మంచిది కాదు.", "వద్దు."]
+  },
+  {
+    "id": "word_te_avunu",
+    "word": "అవును",
+    "meaning": "yes",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "əʋunu"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["అవును, సరే.", "అవును, నాకు కావాలి."]
+  }
+]

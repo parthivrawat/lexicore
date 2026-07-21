@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_ar_sareean",
+    "word": "سريعا",
+    "meaning": "quickly",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "sariːʕan"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["تعال سريعا.", "ركض سريعا."]
+  },
+  {
+    "id": "word_ar_bibut",
+    "word": "ببطء",
+    "meaning": "slowly",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "bibut̪ʔ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["امش ببطء.", "تكلم ببطء."]
+  },
+  {
+    "id": "word_ar_jiddan",
+    "word": "جدا",
+    "meaning": "very/much",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "d͡ʒiddan"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["جيد جدا.", "شكرا جدا."]
+  },
+  {
+    "id": "word_ar_qaleelan",
+    "word": "قليلا",
+    "meaning": "a little",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "qaliːlan"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["انتظر قليلا.", "أعطني قليلا."]
+  },
+  {
+    "id": "word_ar_daiman",
+    "word": "دائما",
+    "meaning": "always",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "daːʔiman"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["دائما سعيد.", "يأتي دائما."]
+  },
+  {
+    "id": "word_ar_ahyanan",
+    "word": "أحيانا",
+    "meaning": "sometimes",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔaħjaːnan"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["أحيانا أذهب.", "أحيانا يمطر."]
+  },
+  {
+    "id": "word_ar_abadan",
+    "word": "أبدا",
+    "meaning": "never",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔabadan"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["لن أذهب أبدا.", "أبدا لا."]
+  },
+  {
+    "id": "word_ar_alyawm",
+    "word": "اليوم",
+    "meaning": "today",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "aljawm"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["اليوم جميل.", "سأذهب اليوم."]
+  },
+  {
+    "id": "word_ar_ghadan",
+    "word": "غدا",
+    "meaning": "tomorrow",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ɡadan"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["غدا سأذهب.", "إلى اللقاء غدا."]
+  },
+  {
+    "id": "word_ar_ams",
+    "word": "أمس",
+    "meaning": "yesterday",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔams"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["أمس كان جميلا.", "رأيته أمس."]
+  },
+  {
+    "id": "word_ar_alan",
+    "word": "الآن",
+    "meaning": "now",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "alʔaːn"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["تعال الآن.", "الآن فهمت."]
+  },
+  {
+    "id": "word_ar_huna",
+    "word": "هنا",
+    "meaning": "here",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "hunaː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["تعال هنا.", "اجلس هنا."]
+  },
+  {
+    "id": "word_ar_hunak",
+    "word": "هناك",
+    "meaning": "there",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "hunaːk"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["اذهب هناك.", "هناك بيت."]
+  },
+  {
+    "id": "word_ar_dakhil",
+    "word": "داخل",
+    "meaning": "inside",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "daːxil"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["ادخل داخل.", "داخل البيت."]
+  },
+  {
+    "id": "word_ar_kharij",
+    "word": "خارج",
+    "meaning": "outside",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "xaːrid͡ʒ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["اخرج خارج.", "خارج المنزل."]
+  },
+  {
+    "id": "word_ar_fawq",
+    "word": "فوق",
+    "meaning": "up/above",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "fawq"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["انظر فوق.", "فوق الطاولة."]
+  },
+  {
+    "id": "word_ar_taht",
+    "word": "تحت",
+    "meaning": "down/below",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "taħt"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["انظر تحت.", "تحت السرير."]
+  },
+  {
+    "id": "word_ar_amam",
+    "word": "أمام",
+    "meaning": "in front",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔamaːm"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["قف أمام.", "أمام البيت."]
+  },
+  {
+    "id": "word_ar_khalfa",
+    "word": "خلف",
+    "meaning": "behind",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "xalf"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["انظر خلف.", "خلف الباب."]
+  },
+  {
+    "id": "word_ar_maaan",
+    "word": "معا",
+    "meaning": "together",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "maʕan"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["نذهب معا.", "نعمل معا."]
+  }
+]

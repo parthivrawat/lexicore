@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_vi_xin_chao",
+    "word": "xin chào",
+    "meaning": "hello",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "sin t͡ɕaːw"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Xin chào, bạn khỏe không?", "Xin chào mọi người!"]
+  },
+  {
+    "id": "word_vi_chao_buoi_sang",
+    "word": "chào buổi sáng",
+    "meaning": "good morning",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "t͡ɕaːw ɓuəj ʂaːŋ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Chào buổi sáng, mẹ.", "Chào buổi sáng mọi người."]
+  },
+  {
+    "id": "word_vi_chao_buoi_toi",
+    "word": "chào buổi tối",
+    "meaning": "good evening",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "t͡ɕaːw ɓuəj təːj"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Chào buổi tối, bạn bè.", "Chào buổi tối."]
+  },
+  {
+    "id": "word_vi_tam_biet",
+    "word": "tạm biệt",
+    "meaning": "goodbye",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "taːm ɓiət"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Tạm biệt, hẹn gặp lại.", "Tạm biệt."]
+  },
+  {
+    "id": "word_vi_cam_on",
+    "word": "cảm ơn",
+    "meaning": "thank you",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "kaːm ən"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Cảm ơn sự giúp đỡ.", "Cảm ơn rất nhiều."]
+  },
+  {
+    "id": "word_vi_lam_on",
+    "word": "làm ơn",
+    "meaning": "please",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "laːm ən"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Làm ơn, giúp tôi.", "Làm ơn ngồi xuống."]
+  },
+  {
+    "id": "word_vi_chao_mung",
+    "word": "chào mừng",
+    "meaning": "welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "t͡ɕaːw məŋ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Chào mừng đến nhà tôi.", "Chào mừng!"]
+  },
+  {
+    "id": "word_vi_xin_loi",
+    "word": "xin lỗi",
+    "meaning": "sorry",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "sin loj"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Xin lỗi, tôi đến muộn.", "Xin lỗi."]
+  },
+  {
+    "id": "word_vi_chuc_ngu_ngon",
+    "word": "chúc ngủ ngon",
+    "meaning": "good night",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "t͡ɕuk ŋu ŋɔn"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Chúc ngủ ngon, ngủ ngon.", "Chúc ngủ ngon."]
+  },
+  {
+    "id": "word_vi_ban_khoe_khong",
+    "word": "bạn khỏe không",
+    "meaning": "how are you",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɓaːn xwe xoŋ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Xin chào, bạn khỏe không?", "Bạn khỏe không?"]
+  },
+  {
+    "id": "word_vi_toi_khoe",
+    "word": "tôi khỏe",
+    "meaning": "I'm fine",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "toj xwe"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Tôi khỏe, cảm ơn.", "Bạn khỏe không? - Tôi khỏe."]
+  },
+  {
+    "id": "word_vi_chuc_mung",
+    "word": "chúc mừng",
+    "meaning": "congratulations",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "t͡ɕuk məŋ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Chúc mừng thành công!", "Chúc mừng!"]
+  },
+  {
+    "id": "word_vi_hen_gap_lai",
+    "word": "hẹn gặp lại",
+    "meaning": "see you later",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "hen ɡap laːj"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Hẹn gặp lại, gặp lại.", "Hẹn gặp lại!"]
+  },
+  {
+    "id": "word_vi_khong_co_chi",
+    "word": "không có chi",
+    "meaning": "you're welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "xoŋ ko t͡ɕi"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Cảm ơn. - Không có chi.", "Không có chi."]
+  },
+  {
+    "id": "word_vi_chao_ban",
+    "word": "chào bạn",
+    "meaning": "hi/hello",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "t͡ɕaːw ɓaːn"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Chào bạn!", "Chào bạn, khỏe không?"]
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_ru_nol",
+    "word": "ноль",
+    "meaning": "zero",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "nolʲ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Ноль градусов.", "Начать с ноля."]
+  },
+  {
+    "id": "word_ru_odin",
+    "word": "один",
+    "meaning": "one",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ɐˈdʲin"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Один человек.", "У меня один."]
+  },
+  {
+    "id": "word_ru_dva",
+    "word": "два",
+    "meaning": "two",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "dva"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Два плюс три.", "У меня два."]
+  },
+  {
+    "id": "word_ru_tri",
+    "word": "три",
+    "meaning": "three",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "trʲi"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Три дня.", "Три книги."]
+  },
+  {
+    "id": "word_ru_chetyre",
+    "word": "четыре",
+    "meaning": "four",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "tɕɪˈtɨrʲɪ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Четыре человека.", "Четыре сезона."]
+  },
+  {
+    "id": "word_ru_pyat",
+    "word": "пять",
+    "meaning": "five",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "pʲætʲ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Пять рублей.", "Пять часов."]
+  },
+  {
+    "id": "word_ru_shest",
+    "word": "шесть",
+    "meaning": "six",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ʂɛstʲ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Шесть месяцев.", "Шесть книг."]
+  },
+  {
+    "id": "word_ru_sem",
+    "word": "семь",
+    "meaning": "seven",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "sʲemʲ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Семь дней.", "Семь человек."]
+  },
+  {
+    "id": "word_ru_vosem",
+    "word": "восемь",
+    "meaning": "eight",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈvosʲɪmʲ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Восемь килограммов.", "Восемь часов."]
+  },
+  {
+    "id": "word_ru_devyat",
+    "word": "девять",
+    "meaning": "nine",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈdʲevʲɪtʲ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Девять месяцев.", "Девять книг."]
+  },
+  {
+    "id": "word_ru_desyat",
+    "word": "десять",
+    "meaning": "ten",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈdʲesʲɪtʲ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Десять рублей.", "Десять лет."]
+  },
+  {
+    "id": "word_ru_dvadtsat",
+    "word": "двадцать",
+    "meaning": "twenty",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈdvat͡sːətʲ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Двадцать человек.", "Двадцать рублей."]
+  },
+  {
+    "id": "word_ru_pyatdesyat",
+    "word": "пятьдесят",
+    "meaning": "fifty",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "pʲɪdʲɪˈsʲat"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Пятьдесят процентов.", "Пятьдесят рублей."]
+  },
+  {
+    "id": "word_ru_sto",
+    "word": "сто",
+    "meaning": "hundred",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "sto"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Сто рублей.", "Сто лет."]
+  },
+  {
+    "id": "word_ru_tysyacha",
+    "word": "тысяча",
+    "meaning": "thousand",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈtɨsʲɪtɕə"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Тысяча рублей.", "Тысяча человек."]
+  }
+]

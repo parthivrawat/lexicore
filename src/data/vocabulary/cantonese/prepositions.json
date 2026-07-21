@@ -1,0 +1,132 @@
+[
+  {
+    "id": "word_yue_hai",
+    "word": "喺",
+    "meaning": "in/at",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "hai²"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["喺屋企。", "喺呢度。"]
+  },
+  {
+    "id": "word_yue_heoi",
+    "word": "去",
+    "meaning": "to",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "heoi³"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["去學校。", "去邊度？"]
+  },
+  {
+    "id": "word_yue_hai_dou",
+    "word": "喺度",
+    "meaning": "from",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "hai² dou⁶"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["喺香港嚟。", "喺邊度嚟？"]
+  },
+  {
+    "id": "word_yue_tung",
+    "word": "同",
+    "meaning": "with",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "tung⁴"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["同朋友。", "同邊個？"]
+  },
+  {
+    "id": "word_yue_bei",
+    "word": "畀",
+    "meaning": "for",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "bei²"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["畀你。", "畀佢。"]
+  },
+  {
+    "id": "word_yue_gwaan_jyu",
+    "word": "關於",
+    "meaning": "about",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "gwaan¹ jyu¹"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["關於呢個。", "關於咩？"]
+  },
+  {
+    "id": "word_yue_mou",
+    "word": "冇",
+    "meaning": "without",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "mou⁵"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["冇你。", "冇錢。"]
+  },
+  {
+    "id": "word_yue_zi_cin",
+    "word": "之前",
+    "meaning": "before",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "zi¹ cin⁴"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["之前講過。", "食飯之前。"]
+  },
+  {
+    "id": "word_yue_zi_hau",
+    "word": "之後",
+    "meaning": "after",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "zi¹ hau⁶"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["之後去。", "食飯之後。"]
+  },
+  {
+    "id": "word_yue_soeng_min",
+    "word": "上面",
+    "meaning": "above/on",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "soeng⁶ min⁶"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["喺上面。", "枱上面。"]
+  }
+]

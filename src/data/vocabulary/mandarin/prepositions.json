@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_zh_zai",
+    "word": "在",
+    "meaning": "in/at",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tsai˥˩"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["在家。", "在学校。"]
+  },
+  {
+    "id": "word_zh_shang",
+    "word": "上",
+    "meaning": "on",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ʂɑŋ˥˩"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["在桌子上。", "在椅子上。"]
+  },
+  {
+    "id": "word_zh_cong",
+    "word": "从",
+    "meaning": "from",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tsʰʊŋ˨˩"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["从家。", "从哪儿？"]
+  },
+  {
+    "id": "word_zh_dao",
+    "word": "到",
+    "meaning": "to",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tɑʊ˥˩"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["到学校。", "到哪儿？"]
+  },
+  {
+    "id": "word_zh_wei",
+    "word": "为",
+    "meaning": "for",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "wei˥˩"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["为你。", "为孩子们。"]
+  },
+  {
+    "id": "word_zh_gen",
+    "word": "跟",
+    "meaning": "with",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "kən˥"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["跟朋友。", "跟家人。"]
+  },
+  {
+    "id": "word_zh_meiyou",
+    "word": "没有",
+    "meaning": "without",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "mei˨˩jou˨˩˦"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["没有水。", "没有你。"]
+  },
+  {
+    "id": "word_zh_fujin",
+    "word": "附近",
+    "meaning": "near",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "fu˥˩tɕin˥˩"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["附近的家。", "附近学校。"]
+  },
+  {
+    "id": "word_zh_yihou",
+    "word": "以后",
+    "meaning": "after",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "i˨˩˦xou˥˩"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["吃饭以后。", "学校以后。"]
+  },
+  {
+    "id": "word_zh_yiqian",
+    "word": "以前",
+    "meaning": "before",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "i˨˩˦tɕʰjɛn˨˩"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["睡觉以前。", "吃饭以前。"]
+  },
+  {
+    "id": "word_zh_shang_prep",
+    "word": "上",
+    "meaning": "above",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ʂɑŋ˥˩"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["在桌子上。", "在山上。"]
+  },
+  {
+    "id": "word_zh_xia",
+    "word": "下",
+    "meaning": "under",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ɕja˥˩"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["在床下。", "在树下。"]
+  },
+  {
+    "id": "word_zh_zhijian",
+    "word": "之间",
+    "meaning": "between",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ʈʂɿ˥tɕjɛn˥"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["在两个之间。", "我们之间。"]
+  },
+  {
+    "id": "word_zh_zhidao",
+    "word": "直到",
+    "meaning": "until",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ʈʂɿ˨˩tɑʊ˥˩"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["直到晚上。", "直到这里。"]
+  },
+  {
+    "id": "word_zh_yong",
+    "word": "用",
+    "meaning": "by/with (instrument)",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "jʊŋ˥˩"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["用笔。", "用车。"]
+  }
+]

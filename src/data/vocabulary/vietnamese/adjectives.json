@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_vi_tot",
+    "word": "tốt",
+    "meaning": "good",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "tot"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Ngày tốt.", "Người tốt."]
+  },
+  {
+    "id": "word_vi_xau",
+    "word": "xấu",
+    "meaning": "bad",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "saw"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Ngày xấu.", "Thời tiết xấu."]
+  },
+  {
+    "id": "word_vi_lon",
+    "word": "lớn",
+    "meaning": "big/large",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "lən"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Nhà lớn.", "Anh ấy lớn."]
+  },
+  {
+    "id": "word_vi_nho",
+    "word": "nhỏ",
+    "meaning": "small",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɲo"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Trẻ nhỏ.", "Phòng nhỏ."]
+  },
+  {
+    "id": "word_vi_dep",
+    "word": "đẹp",
+    "meaning": "beautiful",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɗep"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Cảnh đẹp.", "Cô gái đẹp."]
+  },
+  {
+    "id": "word_vi_ban",
+    "word": "bẩn",
+    "meaning": "dirty",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɓan"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Quần áo bẩn.", "Phòng bẩn."]
+  },
+  {
+    "id": "word_vi_sach",
+    "word": "sạch",
+    "meaning": "clean",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ʂak"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Nhà sạch.", "Nước sạch."]
+  },
+  {
+    "id": "word_vi_moi",
+    "word": "mới",
+    "meaning": "new",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "məj"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Sách mới.", "Xe mới."]
+  },
+  {
+    "id": "word_vi_cu",
+    "word": "cũ",
+    "meaning": "old",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ku"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Nhà cũ.", "Sách cũ."]
+  },
+  {
+    "id": "word_vi_nong",
+    "word": "nóng",
+    "meaning": "hot",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "noŋ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Nước nóng.", "Thời tiết nóng."]
+  },
+  {
+    "id": "word_vi_lanh",
+    "word": "lạnh",
+    "meaning": "cold",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "laɲ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Nước lạnh.", "Thời tiết lạnh."]
+  },
+  {
+    "id": "word_vi_vui",
+    "word": "vui",
+    "meaning": "happy",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "vuj"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Tôi vui.", "Hãy vui."]
+  },
+  {
+    "id": "word_vi_buon",
+    "word": "buồn",
+    "meaning": "sad",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɓuən"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Anh ấy buồn.", "Đừng buồn."]
+  },
+  {
+    "id": "word_vi_cao",
+    "word": "cao",
+    "meaning": "tall/high",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "kaːw"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Người cao.", "Núi cao."]
+  },
+  {
+    "id": "word_vi_thap",
+    "word": "thấp",
+    "meaning": "short/low",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "tʰap"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Người thấp.", "Giá thấp."]
+  },
+  {
+    "id": "word_vi_map",
+    "word": "mập",
+    "meaning": "fat",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "map"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Người mập.", "Sách dày."]
+  },
+  {
+    "id": "word_vi_gay",
+    "word": "gầy",
+    "meaning": "thin",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɡaj"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Người gầy.", "Dây mỏng."]
+  },
+  {
+    "id": "word_vi_nhanh",
+    "word": "nhanh",
+    "meaning": "fast",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɲaɲ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Xe nhanh.", "Chạy nhanh."]
+  },
+  {
+    "id": "word_vi_cham",
+    "word": "chậm",
+    "meaning": "slow",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "t͡ɕam"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Đi chậm.", "Chuyển động chậm."]
+  },
+  {
+    "id": "word_vi_dung",
+    "word": "đúng",
+    "meaning": "correct/right",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɗuŋ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Câu trả lời đúng.", "Điều này đúng."]
+  }
+]

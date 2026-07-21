@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_ur_mein",
+    "word": "میں",
+    "meaning": "in/at",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "mẽː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["گھر میں۔", "اسکول میں۔"]
+  },
+  {
+    "id": "word_ur_par",
+    "word": "پر",
+    "meaning": "on",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "pər"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["میز پر۔", "کرسی پر۔"]
+  },
+  {
+    "id": "word_ur_se",
+    "word": "سے",
+    "meaning": "from/with",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "seː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["گھر سے۔", "کہاں سے؟"]
+  },
+  {
+    "id": "word_ur_tak",
+    "word": "تک",
+    "meaning": "to/until",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "tək"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["اسکول تک۔", "کہاں تک؟"]
+  },
+  {
+    "id": "word_ur_ke_liye",
+    "word": "کے لیے",
+    "meaning": "for",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "keː lɪjeː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["تمہارے لیے۔", "بچوں کے لیے۔"]
+  },
+  {
+    "id": "word_ur_ke_saath",
+    "word": "کے ساتھ",
+    "meaning": "with",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "keː sɑːtʰ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["دوستوں کے ساتھ۔", "خاندان کے ساتھ۔"]
+  },
+  {
+    "id": "word_ur_ke_bagair",
+    "word": "کے بغیر",
+    "meaning": "without",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "keː bəɣeːr"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["پانی کے بغیر۔", "تمہارے بغیر۔"]
+  },
+  {
+    "id": "word_ur_ke_paas",
+    "word": "کے پاس",
+    "meaning": "near",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "keː pɑːs"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["گھر کے پاس۔", "اسکول کے پاس۔"]
+  },
+  {
+    "id": "word_ur_ke_baad",
+    "word": "کے بعد",
+    "meaning": "after",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "keː bɑːd"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["کھانے کے بعد۔", "اسکول کے بعد۔"]
+  },
+  {
+    "id": "word_ur_ke_pehle",
+    "word": "کے پہلے",
+    "meaning": "before",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "keː pehleː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["سونے سے پہلے۔", "کھانے سے پہلے۔"]
+  },
+  {
+    "id": "word_ur_ke_upar",
+    "word": "کے اوپر",
+    "meaning": "above/on",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "keː uːpər"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["میز کے اوپر۔", "پہاڑ کے اوپر۔"]
+  },
+  {
+    "id": "word_ur_ke_niche",
+    "word": "کے نیچے",
+    "meaning": "under",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "keː niːt͡ʃeː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["بستر کے نیچے۔", "درخت کے نیچے۔"]
+  },
+  {
+    "id": "word_ur_ke_beech",
+    "word": "کے بیچ",
+    "meaning": "between",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "keː biːt͡ʃ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["گھروں کے بیچ۔", "ہمارے بیچ۔"]
+  },
+  {
+    "id": "word_ur_tak_prep",
+    "word": "تک",
+    "meaning": "until",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "tək"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["شام تک۔", "یہاں تک۔"]
+  },
+  {
+    "id": "word_ur_ke_zariye",
+    "word": "کے ذریعے",
+    "meaning": "through/by",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "keː zəriːeː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["راستے کے ذریعے۔", "ایک گھنٹے کے ذریعے۔"]
+  }
+]

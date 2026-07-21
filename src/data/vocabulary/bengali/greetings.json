@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_bn_nomoshkar",
+    "word": "নমস্কার",
+    "meaning": "hello",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "nɔmoʃkaɾ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["নমস্কার, কেমন আছেন?", "নমস্কার সবাইকে!"]
+  },
+  {
+    "id": "word_bn_shuvo_shokal",
+    "word": "শুভ সকাল",
+    "meaning": "good morning",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃubʱo ʃokal"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["শুভ সকাল, মা।", "শুভ সকাল সবাইকে।"]
+  },
+  {
+    "id": "word_bn_shuvo_shondha",
+    "word": "শুভ সন্ধ্যা",
+    "meaning": "good evening",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃubʱo ʃɔndʱːa"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["শুভ সন্ধ্যা, বন্ধুরা।", "শুভ সন্ধ্যা সবাইকে।"]
+  },
+  {
+    "id": "word_bn_bida",
+    "word": "বিদায়",
+    "meaning": "goodbye",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "bidaj"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["বিদায়, কাল দেখা হবে।", "বিদায়, বন্ধু।"]
+  },
+  {
+    "id": "word_bn_dhonnobad",
+    "word": "ধন্যবাদ",
+    "meaning": "thank you",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dʱɔnːobad"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["ধন্যবাদ তোমার সাহায্যের জন্য।", "অনেক ধন্যবাদ।"]
+  },
+  {
+    "id": "word_bn_doya_kore",
+    "word": "দয়া করে",
+    "meaning": "please",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dɔja kɔɾe"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["দয়া করে, আমাকে সাহায্য করুন।", "দয়া করে বসুন।"]
+  },
+  {
+    "id": "word_bn_shagotom",
+    "word": "স্বাগতম",
+    "meaning": "welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃaɡotom"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["স্বাগতম আমার বাড়িতে।", "স্বাগতম!"]
+  },
+  {
+    "id": "word_bn_dukkhito",
+    "word": "দুঃখিত",
+    "meaning": "sorry",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dukkʰito"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["দুঃখিত, আমি দেরি করেছি।", "দুঃখিত, বিরক্ত করার জন্য।"]
+  },
+  {
+    "id": "word_bn_shubho_ratri",
+    "word": "শুভ রাত্রি",
+    "meaning": "good night",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃubʱo ɾatɾi"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["শুভ রাত্রি, ভালো ঘুম হোক।", "শুভ রাত্রি সবাইকে।"]
+  },
+  {
+    "id": "word_bn_kemon_acho",
+    "word": "কেমন আছো",
+    "meaning": "how are you",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kemon atʃʰo"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["নমস্কার, কেমন আছো?", "কেমন আছো তুমি?"]
+  },
+  {
+    "id": "word_bn_bhalo_achi",
+    "word": "ভালো আছি",
+    "meaning": "I'm fine",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "bʱalo atʃʰi"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["ভালো আছি, ধন্যবাদ।", "কেমন আছো? - ভালো আছি।"]
+  },
+  {
+    "id": "word_bn_abhinondon",
+    "word": "অভিনন্দন",
+    "meaning": "congratulations",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "obʱinɔndon"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["অভিনন্দন তোমার সাফল্যের জন্য!", "অভিনন্দন!"]
+  },
+  {
+    "id": "word_bn_pore_dekha_hobe",
+    "word": "পরে দেখা হবে",
+    "meaning": "see you later",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "pɔɾe dekʰa hɔbe"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["পরে দেখা হবে, আবার দেখা হবে।", "পরে দেখা হবে!"]
+  },
+  {
+    "id": "word_bn_kichhu_mone_korben_na",
+    "word": "কিছু মনে করবেন না",
+    "meaning": "you're welcome/no problem",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kitʃʰu mone kɔɾben na"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["ধন্যবাদ। - কিছু মনে করবেন না।", "কিছু মনে করবেন না।"]
+  },
+  {
+    "id": "word_bn_shubho_din",
+    "word": "শুভ দিন",
+    "meaning": "good day",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃubʱo din"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["শুভ দিন, স্যার।", "শুভ দিন!"]
+  }
+]

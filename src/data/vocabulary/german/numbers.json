@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_de_null",
+    "word": "null",
+    "meaning": "zero",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "nʊl"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Null Grad.", "Bei null anfangen."]
+  },
+  {
+    "id": "word_de_eins",
+    "word": "eins",
+    "meaning": "one",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "aɪns"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Eine Person.", "Ich habe eins."]
+  },
+  {
+    "id": "word_de_zwei",
+    "word": "zwei",
+    "meaning": "two",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "tsvaɪ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Zwei plus drei.", "Ich habe zwei."]
+  },
+  {
+    "id": "word_de_drei",
+    "word": "drei",
+    "meaning": "three",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "dʁaɪ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Drei Tage.", "Drei Bücher."]
+  },
+  {
+    "id": "word_de_vier",
+    "word": "vier",
+    "meaning": "four",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "fiːɐ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Vier Personen.", "Vier Jahreszeiten."]
+  },
+  {
+    "id": "word_de_funf",
+    "word": "fünf",
+    "meaning": "five",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "fʏnf"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Fünf Euro.", "Fünf Uhr."]
+  },
+  {
+    "id": "word_de_sechs",
+    "word": "sechs",
+    "meaning": "six",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "zɛks"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Sechs Monate.", "Sechs Bücher."]
+  },
+  {
+    "id": "word_de_sieben",
+    "word": "sieben",
+    "meaning": "seven",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈziːbn̩"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Sieben Tage.", "Sieben Personen."]
+  },
+  {
+    "id": "word_de_acht",
+    "word": "acht",
+    "meaning": "eight",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "axt"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Acht Kilogramm.", "Acht Stunden."]
+  },
+  {
+    "id": "word_de_neun",
+    "word": "neun",
+    "meaning": "nine",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "nɔʏn"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Neun Monate.", "Neun Bücher."]
+  },
+  {
+    "id": "word_de_zehn",
+    "word": "zehn",
+    "meaning": "ten",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "tseːn"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Zehn Euro.", "Zehn Jahre."]
+  },
+  {
+    "id": "word_de_zwanzig",
+    "word": "zwanzig",
+    "meaning": "twenty",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈtsvantsɪç"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Zwanzig Personen.", "Zwanzig Euro."]
+  },
+  {
+    "id": "word_de_funfzig",
+    "word": "fünfzig",
+    "meaning": "fifty",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈfʏnftsɪç"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Fünfzig Prozent.", "Fünfzig Euro."]
+  },
+  {
+    "id": "word_de_hundert",
+    "word": "hundert",
+    "meaning": "hundred",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈhʊndɐt"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Hundert Euro.", "Hundert Jahre."]
+  },
+  {
+    "id": "word_de_tausend",
+    "word": "tausend",
+    "meaning": "thousand",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈtaʊzn̩t"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Tausend Euro.", "Tausend Personen."]
+  }
+]

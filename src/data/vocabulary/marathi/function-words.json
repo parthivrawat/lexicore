@@ -1,0 +1,288 @@
+[
+  {
+    "id": "word_mr_mi",
+    "word": "मी",
+    "meaning": "I/me",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "miː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["मी जातो.", "माझे नाव."]
+  },
+  {
+    "id": "word_mr_tu",
+    "word": "तू",
+    "meaning": "you (informal)",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "t̪uː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["तू चांगला आहेस.", "तुझ्यासाठी."]
+  },
+  {
+    "id": "word_mr_tumhi",
+    "word": "तुम्ही",
+    "meaning": "you (formal)",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "t̪umhiː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["तुम्ही चांगले आहात.", "तुमच्यासाठी."]
+  },
+  {
+    "id": "word_mr_to",
+    "word": "तो",
+    "meaning": "he",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "t̪oː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["तो जातो.", "त्याचे घर."]
+  },
+  {
+    "id": "word_mr_ti",
+    "word": "ती",
+    "meaning": "she",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "t̪iː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["ती जाते.", "तिचे घर."]
+  },
+  {
+    "id": "word_mr_aamhi",
+    "word": "आम्ही",
+    "meaning": "we",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "aːmhiː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["आम्ही जातो.", "आमचे घर."]
+  },
+  {
+    "id": "word_mr_te",
+    "word": "ते",
+    "meaning": "they",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "t̪e"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["ते जातात.", "त्यांचे घर."]
+  },
+  {
+    "id": "word_mr_he",
+    "word": "हे",
+    "meaning": "this",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "he"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["हे पुस्तक.", "आज."]
+  },
+  {
+    "id": "word_mr_te_word",
+    "word": "ते",
+    "meaning": "that",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "t̪e"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["ते घर.", "त्या वेळी."]
+  },
+  {
+    "id": "word_mr_kay",
+    "word": "काय",
+    "meaning": "what",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kaːj"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["हे काय?", "काय हवे?"]
+  },
+  {
+    "id": "word_mr_kon",
+    "word": "कोण",
+    "meaning": "who",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "koːɳ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["तो कोण?", "कोणासह?"]
+  },
+  {
+    "id": "word_mr_kuthe",
+    "word": "कुठे",
+    "meaning": "where",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kuʈʰe"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["कुठे?", "कुठे जात आहात?"]
+  },
+  {
+    "id": "word_mr_kadhi",
+    "word": "कधी",
+    "meaning": "when",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kəd̪ʱiː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["कधी जाल?", "कधी येणार?"]
+  },
+  {
+    "id": "word_mr_ka",
+    "word": "का",
+    "meaning": "why",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kaː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["असे का?", "का नाही?"]
+  },
+  {
+    "id": "word_mr_kase",
+    "word": "कसे",
+    "meaning": "how",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kəse"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["कसे आहात?", "कसे करायचे?"]
+  },
+  {
+    "id": "word_mr_ani",
+    "word": "आणि",
+    "meaning": "and",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "aːɳi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["तू आणि मी.", "खा आणि प्या."]
+  },
+  {
+    "id": "word_mr_kiva",
+    "word": "किंवा",
+    "meaning": "or",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kiːnʋaː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["हे किंवा ते?", "होय किंवा नाही?"]
+  },
+  {
+    "id": "word_mr_pan_conj",
+    "word": "पण",
+    "meaning": "but",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "pəɳ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["चांगले पण महाग.", "जायचे पण वेळ नाही."]
+  },
+  {
+    "id": "word_mr_jar",
+    "word": "जर",
+    "meaning": "if",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "d͡ʒəɾ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["जर गरज असेल.", "जर पाहिजे असेल."]
+  },
+  {
+    "id": "word_mr_karan",
+    "word": "कारण",
+    "meaning": "because",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kaːɾəɳ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["कारण आजारी.", "कारण ते."]
+  },
+  {
+    "id": "word_mr_nahi",
+    "word": "नाही",
+    "meaning": "no/not",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "naːhiː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["चांगले नाही.", "नाही पाहिजे."]
+  },
+  {
+    "id": "word_mr_hoy",
+    "word": "होय",
+    "meaning": "yes",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "hoːj"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["होय, बरोबर.", "होय, मला पाहिजे."]
+  }
+]

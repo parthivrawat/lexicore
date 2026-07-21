@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_hi_hona",
+    "word": "होना",
+    "meaning": "to be",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "hoːnaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["मैं खुश हूँ।", "यह अच्छा है।"]
+  },
+  {
+    "id": "word_hi_karna",
+    "word": "करना",
+    "meaning": "to do",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "kərnaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["मैं काम कर रहा हूँ।", "क्या करना है?"]
+  },
+  {
+    "id": "word_hi_jaana",
+    "word": "जाना",
+    "meaning": "to go",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "d͡ʒaːnaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["मैं स्कूल जाता हूँ।", "कहाँ जा रहे हो?"]
+  },
+  {
+    "id": "word_hi_aana",
+    "word": "आना",
+    "meaning": "to come",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "aːnaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["यहाँ आओ।", "वह कल आएगा।"]
+  },
+  {
+    "id": "word_hi_khana",
+    "word": "खाना",
+    "meaning": "to eat",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "kʰaːnaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["मैं खाना खा रहा हूँ।", "क्या खाना चाहते हो?"]
+  },
+  {
+    "id": "word_hi_peena",
+    "word": "पीना",
+    "meaning": "to drink",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "piːnaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["पानी पीओ।", "चाय पीना है?"]
+  },
+  {
+    "id": "word_hi_dekhna",
+    "word": "देखना",
+    "meaning": "to see/watch",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "d̪eːkʰnaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["फिल्म देखो।", "मैं तुम्हें देख रहा हूँ।"]
+  },
+  {
+    "id": "word_hi_sunna",
+    "word": "सुनना",
+    "meaning": "to hear/listen",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "sʊnnaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["संगीत सुनो।", "मेरी बात सुनो।"]
+  },
+  {
+    "id": "word_hi_bolna",
+    "word": "बोलना",
+    "meaning": "to speak",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "boːlnaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["हिंदी बोलो।", "सच बोलो।"]
+  },
+  {
+    "id": "word_hi_padhna",
+    "word": "पढ़ना",
+    "meaning": "to read/study",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "pəɽʰnaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["किताब पढ़ो।", "मैं पढ़ रहा हूँ।"]
+  },
+  {
+    "id": "word_hi_likhna",
+    "word": "लिखना",
+    "meaning": "to write",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "lɪkʰnaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["पत्र लिखो।", "नाम लिखो।"]
+  },
+  {
+    "id": "word_hi_dena",
+    "word": "देना",
+    "meaning": "to give",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "d̪eːnaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["मुझे दो।", "उसे किताब दो।"]
+  },
+  {
+    "id": "word_hi_lena",
+    "word": "लेना",
+    "meaning": "to take",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "leːnaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["यह लो।", "मैं ले रहा हूँ।"]
+  },
+  {
+    "id": "word_hi_sona",
+    "word": "सोना",
+    "meaning": "to sleep",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "soːnaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["जल्दी सो जाओ।", "मैं सो रहा हूँ।"]
+  },
+  {
+    "id": "word_hi_uthna",
+    "word": "उठना",
+    "meaning": "to wake up/get up",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ʊʈʰnaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["जल्दी उठो।", "मैं सुबह उठता हूँ।"]
+  },
+  {
+    "id": "word_hi_baithna",
+    "word": "बैठना",
+    "meaning": "to sit",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "bɛːʈʰnaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["यहाँ बैठो।", "मैं बैठा हूँ।"]
+  },
+  {
+    "id": "word_hi_khada_hona",
+    "word": "खड़ा होना",
+    "meaning": "to stand",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "kʰəɽaː hoːnaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["खड़े हो जाओ।", "वह खड़ा है।"]
+  },
+  {
+    "id": "word_hi_chalna",
+    "word": "चलना",
+    "meaning": "to walk/move",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "t͡ʃəlnaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["धीरे चलो।", "चलो, चलते हैं।"]
+  },
+  {
+    "id": "word_hi_daudna",
+    "word": "दौड़ना",
+    "meaning": "to run",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "d̪ɔːɽnaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["तेज़ दौड़ो।", "वह दौड़ रहा है।"]
+  },
+  {
+    "id": "word_hi_hasna",
+    "word": "हँसना",
+    "meaning": "to laugh",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "hə̃snaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["खूब हँसो।", "वह हँस रहा है।"]
+  },
+  {
+    "id": "word_hi_rona",
+    "word": "रोना",
+    "meaning": "to cry",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "roːnaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["मत रो।", "बच्चा रो रहा है।"]
+  },
+  {
+    "id": "word_hi_milna",
+    "word": "मिलना",
+    "meaning": "to meet",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "mɪlnaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["कल मिलते हैं।", "मुझसे मिलो।"]
+  },
+  {
+    "id": "word_hi_samajhna",
+    "word": "समझना",
+    "meaning": "to understand",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "səməd͡ʒʰnaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["समझ गए?", "मैं समझता हूँ।"]
+  },
+  {
+    "id": "word_hi_chahna",
+    "word": "चाहना",
+    "meaning": "to want",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "t͡ʃaːhnaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["मैं चाहता हूँ।", "क्या चाहिए?"]
+  },
+  {
+    "id": "word_hi_pyaar_karna",
+    "word": "प्यार करना",
+    "meaning": "to love",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "pjaːr kərnaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["मैं तुमसे प्यार करता हूँ।", "वह अपने परिवार से प्यार करता है।"]
+  }
+]

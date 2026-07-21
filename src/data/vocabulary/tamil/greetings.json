@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_ta_vanakkam",
+    "word": "வணக்கம்",
+    "meaning": "hello",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "ʋəɳəkkəm"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["வணக்கம்!", "வணக்கம், எப்படி இருக்கீங்க?"]
+  },
+  {
+    "id": "word_ta_kaalai_vanakkam",
+    "word": "காலை வணக்கம்",
+    "meaning": "good morning",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "kaːlɛ ʋəɳəkkəm"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["காலை வணக்கம்!", "காலை வணக்கம், நண்பரே."]
+  },
+  {
+    "id": "word_ta_nandri",
+    "word": "நன்றி",
+    "meaning": "thank you",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "nəndɾi"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["நன்றி!", "மிக்க நன்றி."]
+  },
+  {
+    "id": "word_ta_thayavu_seidhu",
+    "word": "தயவு செய்து",
+    "meaning": "please",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "t̪əjəʋu seːjd̪u"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["தயவு செய்து இங்கே வாங்க.", "தயவு செய்து உதவுங்க."]
+  },
+  {
+    "id": "word_ta_paravaillai",
+    "word": "பரவாயில்லை",
+    "meaning": "you're welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "pəɾəʋaːjillɛ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["பரவாயில்லை!", "பரவாயில்லை, நண்பரே."]
+  },
+  {
+    "id": "word_ta_mannikkavum",
+    "word": "மன்னிக்கவும்",
+    "meaning": "sorry",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "mənnikkəʋum"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["மன்னிக்கவும்!", "மன்னிக்கவும், நான் தாமதமாகிவிட்டேன்."]
+  },
+  {
+    "id": "word_ta_problem_illai",
+    "word": "பிரச்சனை இல்லை",
+    "meaning": "no problem",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "pɾət͡ʃənɛ illɛ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["பிரச்சனை இல்லை!", "பிரச்சனை இல்லை, கவலைப்படாதீங்க."]
+  },
+  {
+    "id": "word_ta_poitu_varen",
+    "word": "போய்ட்டு வரேன்",
+    "meaning": "goodbye",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "poːjʈʈu ʋəɾeːn"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["போய்ட்டு வரேன்!", "போய்ட்டு வரேன், நாளை பார்க்கலாம்."]
+  },
+  {
+    "id": "word_ta_pinbu_paarkalam",
+    "word": "பின்பு பார்க்கலாம்",
+    "meaning": "see you later",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "pinbu paːɾkkəlaːm"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["பின்பு பார்க்கலாம்!", "பின்பு பார்க்கலாம், நண்பரே."]
+  },
+  {
+    "id": "word_ta_eppadi_irukkinga",
+    "word": "எப்படி இருக்கீங்க",
+    "meaning": "how are you",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "eppəɖi iɾukkiːŋɡə"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["எப்படி இருக்கீங்க?", "நீங்க எப்படி இருக்கீங்க?"]
+  },
+  {
+    "id": "word_ta_naan_nalla_irukken",
+    "word": "நான் நல்லா இருக்கேன்",
+    "meaning": "I am fine",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "naːn nəllaː iɾukkeːn"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["நான் நல்லா இருக்கேன்.", "நான் நல்லா இருக்கேன், நன்றி."]
+  },
+  {
+    "id": "word_ta_iravu_vanakkam",
+    "word": "இரவு வணக்கம்",
+    "meaning": "good night",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "iɾəʋu ʋəɳəkkəm"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["இரவு வணக்கம்!", "இரவு வணக்கம், நாளை பார்க்கலாம்."]
+  },
+  {
+    "id": "word_ta_varavetrpu",
+    "word": "வரவேற்பு",
+    "meaning": "welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "ʋəɾəʋeːʈpu"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["வரவேற்பு!", "உங்களுக்கு வரவேற்பு."]
+  },
+  {
+    "id": "word_ta_ketkalam",
+    "word": "கேட்கலாம்",
+    "meaning": "may I ask",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "keːʈkəlaːm"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["கேட்கலாம்...", "கேட்கலாம், உங்க பெயர் என்ன?"]
+  },
+  {
+    "id": "word_ta_romba_naal_aachu",
+    "word": "ரொம்ப நாள் ஆச்சு",
+    "meaning": "long time no see",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "ɾombə naːɭ aːt͡ʃu"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["ரொம்ப நாள் ஆச்சு!", "ரொம்ப நாள் ஆச்சு, எப்படி இருக்கீங்க?"]
+  }
+]

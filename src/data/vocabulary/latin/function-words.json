@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_la_ego",
+    "word": "ego",
+    "meaning": "I",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ˈeɡoː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ego sum.", "Ego bene sum."]
+  },
+  {
+    "id": "word_la_tu",
+    "word": "tu",
+    "meaning": "you",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "tuː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Tu es hic.", "Quid agis?"]
+  },
+  {
+    "id": "word_la_is",
+    "word": "is",
+    "meaning": "he",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ɪs"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Is est discipulus.", "Is hic est."]
+  },
+  {
+    "id": "word_la_ea",
+    "word": "ea",
+    "meaning": "she",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ˈɛ.a"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ea est magistra.", "Ea pulchra est."]
+  },
+  {
+    "id": "word_la_nos",
+    "word": "nos",
+    "meaning": "we",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "noːs"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Nos sumus discipuli.", "Nos hic sumus."]
+  },
+  {
+    "id": "word_la_vos",
+    "word": "vos",
+    "meaning": "you (plural)",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "woːs"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Vos estis discipuli.", "Quid agitis?"]
+  },
+  {
+    "id": "word_la_ei",
+    "word": "ei",
+    "meaning": "they",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ˈeɪ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ei sunt amici.", "Ei hic sunt."]
+  },
+  {
+    "id": "word_la_quid",
+    "word": "quid",
+    "meaning": "what",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "kʷɪd"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Quid est hoc?", "Quid nomen tibi est?"]
+  },
+  {
+    "id": "word_la_quis",
+    "word": "quis",
+    "meaning": "who",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "kʷɪs"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Quis est hic?", "Quis es tu?"]
+  },
+  {
+    "id": "word_la_ubi",
+    "word": "ubi",
+    "meaning": "where",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ˈʊbɪ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ubi es?", "Ubi est domus?"]
+  },
+  {
+    "id": "word_la_quando",
+    "word": "quando",
+    "meaning": "when",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ˈkʷan.doː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Quando venis?", "Quando accidit?"]
+  },
+  {
+    "id": "word_la_quomodo",
+    "word": "quomodo",
+    "meaning": "how",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "kʷoːˈmɔ.doː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Quomodo vales?", "Quomodo facere?"]
+  },
+  {
+    "id": "word_la_cur",
+    "word": "cur",
+    "meaning": "why",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "kʊr"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Cur vadis?", "Cur non?"]
+  },
+  {
+    "id": "word_la_et",
+    "word": "et",
+    "meaning": "and",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ɛt"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ego et tu.", "Pater et mater."]
+  },
+  {
+    "id": "word_la_aut",
+    "word": "aut",
+    "meaning": "or",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "aʊt"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Aqua aut vinum?", "Hoc aut illud?"]
+  },
+  {
+    "id": "word_la_sed",
+    "word": "sed",
+    "meaning": "but",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "sɛd"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Bonum, sed carum.", "Volo, sed non possum."]
+  },
+  {
+    "id": "word_la_si",
+    "word": "si",
+    "meaning": "if",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "siː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Si venis.", "Si possibile est."]
+  },
+  {
+    "id": "word_la_non",
+    "word": "non",
+    "meaning": "no/not",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "noːn"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Non, gratias.", "Non eo."]
+  },
+  {
+    "id": "word_la_ita",
+    "word": "ita",
+    "meaning": "yes",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ˈɪ.ta"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ita, bonum.", "Ita, eo."]
+  },
+  {
+    "id": "word_la_sum",
+    "word": "sum",
+    "meaning": "I am",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "sʊm"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ego sum.", "Sum discipulus."]
+  }
+]

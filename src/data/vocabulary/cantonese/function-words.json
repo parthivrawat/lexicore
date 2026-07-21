@@ -1,0 +1,288 @@
+[
+  {
+    "id": "word_yue_ngo",
+    "word": "我",
+    "meaning": "I/me",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "ngo⁵"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["我去。", "我係學生。"]
+  },
+  {
+    "id": "word_yue_nei",
+    "word": "你",
+    "meaning": "you",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "nei⁵"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["你好。", "你去邊？"]
+  },
+  {
+    "id": "word_yue_keoi",
+    "word": "佢",
+    "meaning": "he/she",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "keoi⁵"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["佢去咗。", "佢係邊個？"]
+  },
+  {
+    "id": "word_yue_ngo_dei",
+    "word": "我哋",
+    "meaning": "we",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "ngo⁵ dei⁶"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["我哋去。", "我哋係朋友。"]
+  },
+  {
+    "id": "word_yue_nei_dei",
+    "word": "你哋",
+    "meaning": "you (plural)",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "nei⁵ dei⁶"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["你哋好。", "你哋去邊？"]
+  },
+  {
+    "id": "word_yue_keoi_dei",
+    "word": "佢哋",
+    "meaning": "they",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "keoi⁵ dei⁶"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["佢哋去咗。", "佢哋係邊個？"]
+  },
+  {
+    "id": "word_yue_ni",
+    "word": "呢",
+    "meaning": "this",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "ni¹"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["呢個。", "呢度。"]
+  },
+  {
+    "id": "word_yue_go",
+    "word": "嗰",
+    "meaning": "that",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "go²"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["嗰個。", "嗰度。"]
+  },
+  {
+    "id": "word_yue_mat_je",
+    "word": "咩嘢",
+    "meaning": "what",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "mat¹ je⁵"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["咩嘢嚟㗎？", "做咩嘢？"]
+  },
+  {
+    "id": "word_yue_bin_go",
+    "word": "邊個",
+    "meaning": "who",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "bin¹ go³"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["邊個嚟㗎？", "你係邊個？"]
+  },
+  {
+    "id": "word_yue_bin_dou",
+    "word": "邊度",
+    "meaning": "where",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "bin¹ dou⁶"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["去邊度？", "喺邊度？"]
+  },
+  {
+    "id": "word_yue_gei_si",
+    "word": "幾時",
+    "meaning": "when",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "gei² si⁴"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["幾時去？", "幾時嚟？"]
+  },
+  {
+    "id": "word_yue_dim_gaai",
+    "word": "點解",
+    "meaning": "why",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "dim² gaai²"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["點解咁樣？", "點解唔去？"]
+  },
+  {
+    "id": "word_yue_dim",
+    "word": "點",
+    "meaning": "how",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "dim²"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["點做？", "點樣？"]
+  },
+  {
+    "id": "word_yue_tung",
+    "word": "同",
+    "meaning": "and",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "tung⁴"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["你同我。", "食同飲。"]
+  },
+  {
+    "id": "word_yue_waak_ze",
+    "word": "或者",
+    "meaning": "or",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "waak⁶ ze²"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["呢個或者嗰個？", "去或者唔去？"]
+  },
+  {
+    "id": "word_yue_daan_hai",
+    "word": "但係",
+    "meaning": "but",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "daan⁶ hai⁶"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["好，但係貴。", "想去，但係冇時間。"]
+  },
+  {
+    "id": "word_yue_jyu_gwo",
+    "word": "如果",
+    "meaning": "if",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "jyu⁴ gwo²"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["如果需要。", "如果想去。"]
+  },
+  {
+    "id": "word_yue_jan_wai",
+    "word": "因為",
+    "meaning": "because",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "jan¹ wai⁶"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["因為病。", "因為咁。"]
+  },
+  {
+    "id": "word_yue_m_hai",
+    "word": "唔係",
+    "meaning": "no/not",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "m⁴ hai⁶"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["唔係。", "唔係我。"]
+  },
+  {
+    "id": "word_yue_hai",
+    "word": "係",
+    "meaning": "yes",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "hai⁶"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["係呀。", "係我。"]
+  },
+  {
+    "id": "word_yue_ge",
+    "word": "嘅",
+    "meaning": "possessive/relative marker",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "ge³"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["我嘅書。", "好嘅人。"]
+  }
+]

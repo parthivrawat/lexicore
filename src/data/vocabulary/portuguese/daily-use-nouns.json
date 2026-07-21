@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_pt_casa",
+    "word": "casa",
+    "meaning": "home/house",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈkazɐ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Vou para casa.", "Esta é minha casa."]
+  },
+  {
+    "id": "word_pt_agua",
+    "word": "água",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈaɡwɐ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Beba água.", "A água está quente."]
+  },
+  {
+    "id": "word_pt_comida",
+    "word": "comida",
+    "meaning": "food",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "koˈmidɐ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["A comida está pronta.", "Coma a comida."]
+  },
+  {
+    "id": "word_pt_livro",
+    "word": "livro",
+    "meaning": "book",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈlivɾu"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Leia o livro.", "Este livro é bom."]
+  },
+  {
+    "id": "word_pt_caneta",
+    "word": "caneta",
+    "meaning": "pen",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "kɐˈnetɐ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Dê-me a caneta.", "Minha caneta sumiu."]
+  },
+  {
+    "id": "word_pt_papel",
+    "word": "papel",
+    "meaning": "paper",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "pɐˈpɛw"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Escreva no papel.", "Preciso de papel."]
+  },
+  {
+    "id": "word_pt_porta",
+    "word": "porta",
+    "meaning": "door",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈpoʁtɐ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Abra a porta.", "Feche a porta."]
+  },
+  {
+    "id": "word_pt_janela",
+    "word": "janela",
+    "meaning": "window",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ʒɐˈnɛlɐ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Abra a janela.", "A janela está quebrada."]
+  },
+  {
+    "id": "word_pt_cadeira",
+    "word": "cadeira",
+    "meaning": "chair",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "kɐˈdejɾɐ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Sente na cadeira.", "A cadeira é confortável."]
+  },
+  {
+    "id": "word_pt_mesa",
+    "word": "mesa",
+    "meaning": "table",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈmezɐ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Coloque na mesa.", "A mesa está limpa."]
+  },
+  {
+    "id": "word_pt_cama",
+    "word": "cama",
+    "meaning": "bed",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈkɐmɐ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Durma na cama.", "A cama é confortável."]
+  },
+  {
+    "id": "word_pt_roupa",
+    "word": "roupa",
+    "meaning": "clothes",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈʁopɐ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Vista a roupa.", "Lave a roupa."]
+  },
+  {
+    "id": "word_pt_sapato",
+    "word": "sapato",
+    "meaning": "shoe",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "sɐˈpatu"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Calce o sapato.", "Tire o sapato."]
+  },
+  {
+    "id": "word_pt_carro",
+    "word": "carro",
+    "meaning": "car",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈkaʁu"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Dirija o carro.", "O carro chegou."]
+  },
+  {
+    "id": "word_pt_telefone",
+    "word": "telefone",
+    "meaning": "phone",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "teleˈfoni"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Ligue pelo telefone.", "O telefone está tocando."]
+  },
+  {
+    "id": "word_pt_computador",
+    "word": "computador",
+    "meaning": "computer",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "kõputɐˈdoʁ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Use o computador.", "O computador é rápido."]
+  },
+  {
+    "id": "word_pt_escola",
+    "word": "escola",
+    "meaning": "school",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "esˈkɔlɐ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Vá à escola.", "A escola é perto."]
+  },
+  {
+    "id": "word_pt_amigo",
+    "word": "amigo",
+    "meaning": "friend",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ɐˈmiɡu"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Ele é meu amigo.", "Bom amigo."]
+  },
+  {
+    "id": "word_pt_familia",
+    "word": "família",
+    "meaning": "family",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "fɐˈmiliɐ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Minha família é grande.", "Ame a família."]
+  },
+  {
+    "id": "word_pt_mae",
+    "word": "mãe",
+    "meaning": "mother",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "mɐ̃j"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Mãe está em casa.", "Amor de mãe."]
+  },
+  {
+    "id": "word_pt_pai",
+    "word": "pai",
+    "meaning": "father",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "paj"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Pai está trabalhando.", "Respeite o pai."]
+  },
+  {
+    "id": "word_pt_irmao",
+    "word": "irmão",
+    "meaning": "brother",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "iʁˈmɐ̃w"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Meu irmão mais velho.", "Tenho um irmão."]
+  },
+  {
+    "id": "word_pt_irma",
+    "word": "irmã",
+    "meaning": "sister",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "iʁˈmɐ̃"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Minha irmã mais nova.", "Tenho uma irmã."]
+  },
+  {
+    "id": "word_pt_dia",
+    "word": "dia",
+    "meaning": "day",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈd͡ʒiɐ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Bom dia.", "O dia é bonito."]
+  },
+  {
+    "id": "word_pt_noite",
+    "word": "noite",
+    "meaning": "night",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈnoj.t͡ʃi"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Boa noite.", "A noite é escura."]
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_pcm_well_well",
+    "word": "Well well",
+    "meaning": "very",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "wɛl wɛl"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Good well well.", "Fast well well."]
+  },
+  {
+    "id": "word_pcm_too",
+    "word": "Too",
+    "meaning": "also",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "tuː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Me too.", "He too dey go."]
+  },
+  {
+    "id": "word_pcm_only",
+    "word": "Only",
+    "meaning": "only",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "oːnli"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Only one.", "Only you."]
+  },
+  {
+    "id": "word_pcm_always",
+    "word": "Always",
+    "meaning": "always",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "ɔːlweɪz"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Always good.", "Always come."]
+  },
+  {
+    "id": "word_pcm_never",
+    "word": "Never",
+    "meaning": "never",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "nɛvə"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Never late.", "Never forget."]
+  },
+  {
+    "id": "word_pcm_sometimes",
+    "word": "Sometimes",
+    "meaning": "sometimes",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "sʌmtaɪmz"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Sometimes.", "Sometimes go."]
+  },
+  {
+    "id": "word_pcm_plenty",
+    "word": "Plenty",
+    "meaning": "often/a lot",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "plɛnti"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Come plenty.", "Plenty for here."]
+  },
+  {
+    "id": "word_pcm_now",
+    "word": "Now",
+    "meaning": "now",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "naʊ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Go now.", "From now."]
+  },
+  {
+    "id": "word_pcm_later",
+    "word": "Later",
+    "meaning": "later",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "leɪtə"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Do later.", "See you later."]
+  },
+  {
+    "id": "word_pcm_yesterday",
+    "word": "Yesterday",
+    "meaning": "yesterday",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "jɛstədeɪ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Yesterday evening.", "From yesterday."]
+  },
+  {
+    "id": "word_pcm_tomorrow",
+    "word": "Tomorrow",
+    "meaning": "tomorrow",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "təmɔroː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Tomorrow morning.", "See you tomorrow."]
+  },
+  {
+    "id": "word_pcm_don",
+    "word": "Don",
+    "meaning": "already",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "dɔn"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["I don do am.", "I don chop."]
+  },
+  {
+    "id": "word_pcm_never_yet",
+    "word": "Never yet",
+    "meaning": "not yet",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "nɛvə jɛt"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["I never do am.", "I never chop."]
+  },
+  {
+    "id": "word_pcm_maybe",
+    "word": "Maybe",
+    "meaning": "maybe",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "meɪbiː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Maybe yes.", "Maybe no."]
+  },
+  {
+    "id": "word_pcm_sure",
+    "word": "Sure",
+    "meaning": "certainly",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "ʃʊə"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Sure.", "Sure no."]
+  }
+]

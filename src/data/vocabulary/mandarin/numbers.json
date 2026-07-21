@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_zh_ling",
+    "word": "零",
+    "meaning": "zero",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "liŋ˨˩"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["零度。", "零分。"]
+  },
+  {
+    "id": "word_zh_yi",
+    "word": "一",
+    "meaning": "one",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "i˥"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["一个苹果。", "我有一本书。"]
+  },
+  {
+    "id": "word_zh_er",
+    "word": "二",
+    "meaning": "two",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ɚ˥˩"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["二加三。", "我有两个。"]
+  },
+  {
+    "id": "word_zh_san",
+    "word": "三",
+    "meaning": "three",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "san˥"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["三天。", "三本书。"]
+  },
+  {
+    "id": "word_zh_si",
+    "word": "四",
+    "meaning": "four",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "sɿ˥˩"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["四个人。", "四季。"]
+  },
+  {
+    "id": "word_zh_wu",
+    "word": "五",
+    "meaning": "five",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "u˨˩˦"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["五块钱。", "五点钟。"]
+  },
+  {
+    "id": "word_zh_liu",
+    "word": "六",
+    "meaning": "six",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ljou˥˩"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["六个月。", "六本书。"]
+  },
+  {
+    "id": "word_zh_qi",
+    "word": "七",
+    "meaning": "seven",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tɕʰi˥"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["七天。", "七个人。"]
+  },
+  {
+    "id": "word_zh_ba",
+    "word": "八",
+    "meaning": "eight",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "pa˥"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["八公斤。", "八小时。"]
+  },
+  {
+    "id": "word_zh_jiu",
+    "word": "九",
+    "meaning": "nine",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tɕjou˨˩˦"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["九个月。", "九本书。"]
+  },
+  {
+    "id": "word_zh_shi",
+    "word": "十",
+    "meaning": "ten",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ʂɿ˨˩"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["十块钱。", "十年。"]
+  },
+  {
+    "id": "word_zh_ershi",
+    "word": "二十",
+    "meaning": "twenty",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ɚ˥˩ʂɿ˨˩"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["二十个人。", "二十块。"]
+  },
+  {
+    "id": "word_zh_wushi",
+    "word": "五十",
+    "meaning": "fifty",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "u˨˩˦ʂɿ˨˩"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["五十percent。", "五十块。"]
+  },
+  {
+    "id": "word_zh_yibai",
+    "word": "一百",
+    "meaning": "hundred",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "i˥pai˨˩˦"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["一百块。", "一百年。"]
+  },
+  {
+    "id": "word_zh_yiqian",
+    "word": "一千",
+    "meaning": "thousand",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "i˥tɕʰjɛn˥"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["一千块。", "一千人。"]
+  }
+]

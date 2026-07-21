@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_pcm_be",
+    "word": "Be",
+    "meaning": "to be",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "biː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["I be student.", "He be teacher."]
+  },
+  {
+    "id": "word_pcm_do",
+    "word": "Do",
+    "meaning": "to do",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "duː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Wetin you dey do?", "Do work."]
+  },
+  {
+    "id": "word_pcm_go",
+    "word": "Go",
+    "meaning": "to go",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "ɡoː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Go school.", "Where you dey go?"]
+  },
+  {
+    "id": "word_pcm_come",
+    "word": "Come",
+    "meaning": "to come",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "kʌm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Come here.", "He go come tomorrow."]
+  },
+  {
+    "id": "word_pcm_chop",
+    "word": "Chop",
+    "meaning": "to eat",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "tʃɔp"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Chop food.", "You don chop?"]
+  },
+  {
+    "id": "word_pcm_drink",
+    "word": "Drink",
+    "meaning": "to drink",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "drɪŋk"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Drink water.", "Drink tea."]
+  },
+  {
+    "id": "word_pcm_see",
+    "word": "See",
+    "meaning": "to see",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "siː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["See film.", "See this."]
+  },
+  {
+    "id": "word_pcm_hear",
+    "word": "Hear",
+    "meaning": "to hear",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "hɪə"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Hear music.", "You dey hear?"]
+  },
+  {
+    "id": "word_pcm_talk",
+    "word": "Talk",
+    "meaning": "to speak",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "tɔːk"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Talk pidgin.", "Talk loud."]
+  },
+  {
+    "id": "word_pcm_read",
+    "word": "Read",
+    "meaning": "to read",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "riːd"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Read book.", "Read newspaper."]
+  },
+  {
+    "id": "word_pcm_write",
+    "word": "Write",
+    "meaning": "to write",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "raɪt"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Write letter.", "Write name."]
+  },
+  {
+    "id": "word_pcm_give",
+    "word": "Give",
+    "meaning": "to give",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "ɡɪv"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Give me book.", "Give water."]
+  },
+  {
+    "id": "word_pcm_take",
+    "word": "Take",
+    "meaning": "to take",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "teɪk"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Take this.", "Take book."]
+  },
+  {
+    "id": "word_pcm_sleep",
+    "word": "Sleep",
+    "meaning": "to sleep",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "sliːp"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Sleep well.", "I dey sleep."]
+  },
+  {
+    "id": "word_pcm_wake",
+    "word": "Wake",
+    "meaning": "to wake up",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "weɪk"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Wake up morning.", "Wake quick."]
+  },
+  {
+    "id": "word_pcm_siddon",
+    "word": "Siddon",
+    "meaning": "to sit",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "sɪdɔn"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Siddon here.", "Siddon for chair."]
+  },
+  {
+    "id": "word_pcm_stand",
+    "word": "Stand",
+    "meaning": "to stand",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "stænd"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Stand here.", "Stand straight."]
+  },
+  {
+    "id": "word_pcm_waka",
+    "word": "Waka",
+    "meaning": "to walk",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "waka"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Waka slow.", "Waka for road."]
+  },
+  {
+    "id": "word_pcm_run",
+    "word": "Run",
+    "meaning": "to run",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "rʌn"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Run fast.", "He dey run."]
+  },
+  {
+    "id": "word_pcm_laugh",
+    "word": "Laugh",
+    "meaning": "to laugh",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "lɑːf"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Laugh plenty.", "He dey laugh."]
+  },
+  {
+    "id": "word_pcm_cry",
+    "word": "Cry",
+    "meaning": "to cry",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "kraɪ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["No cry.", "Pikin dey cry."]
+  },
+  {
+    "id": "word_pcm_sabi",
+    "word": "Sabi",
+    "meaning": "to understand/know",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "sabi"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["I sabi.", "You sabi?"]
+  },
+  {
+    "id": "word_pcm_want",
+    "word": "Want",
+    "meaning": "to want",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "wɔnt"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["I want am.", "Wetin you want?"]
+  },
+  {
+    "id": "word_pcm_like",
+    "word": "Like",
+    "meaning": "to love/like",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "laɪk"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["I like you.", "Like family."]
+  },
+  {
+    "id": "word_pcm_work",
+    "word": "Work",
+    "meaning": "to work",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "wɜːk"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Work hard.", "I dey work for office."]
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_tr_ben",
+    "word": "ben",
+    "meaning": "I",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ben"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ben gidiyorum.", "Ben iyiyim."]
+  },
+  {
+    "id": "word_tr_sen",
+    "word": "sen",
+    "meaning": "you (informal)",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "sen"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Sen buradasın.", "Nasılsın sen?"]
+  },
+  {
+    "id": "word_tr_siz",
+    "word": "siz",
+    "meaning": "you (formal/plural)",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "siz"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Siz buradasınız.", "Nasılsınız?"]
+  },
+  {
+    "id": "word_tr_o",
+    "word": "o",
+    "meaning": "he/she/it",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "o"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["O öğrenci.", "O burada."]
+  },
+  {
+    "id": "word_tr_biz",
+    "word": "biz",
+    "meaning": "we",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "biz"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Biz öğrenciyiz.", "Biz buradayız."]
+  },
+  {
+    "id": "word_tr_onlar",
+    "word": "onlar",
+    "meaning": "they",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "onlɑɾ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Onlar arkadaş.", "Onlar burada."]
+  },
+  {
+    "id": "word_tr_ne",
+    "word": "ne",
+    "meaning": "what",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ne"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Bu ne?", "Adın ne?"]
+  },
+  {
+    "id": "word_tr_kim",
+    "word": "kim",
+    "meaning": "who",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "cim"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Bu kim?", "Sen kimsin?"]
+  },
+  {
+    "id": "word_tr_nerede",
+    "word": "nerede",
+    "meaning": "where",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "neɾede"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Neredesin?", "Ev nerede?"]
+  },
+  {
+    "id": "word_tr_ne_zaman",
+    "word": "ne zaman",
+    "meaning": "when",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ne zɑmɑn"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ne zaman geliyorsun?", "Ne zaman oldu?"]
+  },
+  {
+    "id": "word_tr_nasil",
+    "word": "nasıl",
+    "meaning": "how",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "nɑsɯl"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Nasılsın?", "Nasıl yapılır?"]
+  },
+  {
+    "id": "word_tr_neden",
+    "word": "neden",
+    "meaning": "why",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "neden"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Neden gidiyorsun?", "Neden değil?"]
+  },
+  {
+    "id": "word_tr_ve",
+    "word": "ve",
+    "meaning": "and",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ve"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ben ve sen.", "Baba ve anne."]
+  },
+  {
+    "id": "word_tr_veya",
+    "word": "veya",
+    "meaning": "or",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "vejɑ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Çay veya kahve?", "Bu veya şu?"]
+  },
+  {
+    "id": "word_tr_ama",
+    "word": "ama",
+    "meaning": "but",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɑmɑ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["İyi, ama pahalı.", "İstiyorum, ama yapamam."]
+  },
+  {
+    "id": "word_tr_eger",
+    "word": "eğer",
+    "meaning": "if",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "eːeɾ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Eğer gelirsen.", "Eğer mümkünse."]
+  },
+  {
+    "id": "word_tr_hayir",
+    "word": "hayır",
+    "meaning": "no",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "hɑjɯɾ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Hayır, teşekkürler.", "Gitmiyorum."]
+  },
+  {
+    "id": "word_tr_evet",
+    "word": "evet",
+    "meaning": "yes",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "evet"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Evet, iyi.", "Evet, gidiyorum."]
+  },
+  {
+    "id": "word_tr_var",
+    "word": "var",
+    "meaning": "there is/are",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "vɑɾ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Kitap var.", "Burada var."]
+  },
+  {
+    "id": "word_tr_yok",
+    "word": "yok",
+    "meaning": "there isn't/aren't",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "joc"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Su yok.", "Burada yok."]
+  }
+]

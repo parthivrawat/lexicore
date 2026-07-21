@@ -89,5 +89,109 @@
     ],
     "category": "numbers",
     "examples": ["Un millón de dólares.", "Ganaron un millón."]
+  },
+  {
+    "id": "word_es_cero",
+    "word": "cero",
+    "meaning": "zero",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈθe.ɾo"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Cero grados.", "Empezar desde cero."]
+  },
+  {
+    "id": "word_es_cuatro",
+    "word": "cuatro",
+    "meaning": "four",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈkwa.tɾo"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Cuatro estaciones.", "Tengo cuatro hermanos."]
+  },
+  {
+    "id": "word_es_cinco",
+    "word": "cinco",
+    "meaning": "five",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈθiŋ.ko"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Cinco dedos.", "Son las cinco."]
+  },
+  {
+    "id": "word_es_seis",
+    "word": "seis",
+    "meaning": "six",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "sejs"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Seis meses.", "Tengo seis años."]
+  },
+  {
+    "id": "word_es_siete",
+    "word": "siete",
+    "meaning": "seven",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈsje.te"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Siete días.", "Siete maravillas."]
+  },
+  {
+    "id": "word_es_ocho",
+    "word": "ocho",
+    "meaning": "eight",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈo.tʃo"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Ocho horas.", "Son las ocho."]
+  },
+  {
+    "id": "word_es_nueve",
+    "word": "nueve",
+    "meaning": "nine",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈnwe.βe"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Nueve meses.", "Nueve de la mañana."]
+  },
+  {
+    "id": "word_es_veinte",
+    "word": "veinte",
+    "meaning": "twenty",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈbejn.te"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Veinte años.", "Veinte personas."]
   }
 ]

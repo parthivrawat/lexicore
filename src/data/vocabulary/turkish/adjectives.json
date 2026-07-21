@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_tr_iyi",
+    "word": "iyi",
+    "meaning": "good",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "iːji"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["İyi gün.", "İyi insan."]
+  },
+  {
+    "id": "word_tr_kotu",
+    "word": "kötü",
+    "meaning": "bad",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "cøty"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Kötü gün.", "Kötü hava."]
+  },
+  {
+    "id": "word_tr_buyuk",
+    "word": "büyük",
+    "meaning": "big/large",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "byjyc"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Büyük ev.", "O büyük."]
+  },
+  {
+    "id": "word_tr_kucuk",
+    "word": "küçük",
+    "meaning": "small",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "cytʃyc"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Küçük çocuk.", "Küçük oda."]
+  },
+  {
+    "id": "word_tr_guzel",
+    "word": "güzel",
+    "meaning": "beautiful",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɟyzel"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Güzel manzara.", "Güzel kız."]
+  },
+  {
+    "id": "word_tr_kirli",
+    "word": "kirli",
+    "meaning": "dirty",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ciɾli"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Kirli giysiler.", "Oda kirli."]
+  },
+  {
+    "id": "word_tr_temiz",
+    "word": "temiz",
+    "meaning": "clean",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "temiz"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Temiz ev.", "Temiz su."]
+  },
+  {
+    "id": "word_tr_yeni",
+    "word": "yeni",
+    "meaning": "new",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "jeni"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Yeni kitap.", "Yeni araba."]
+  },
+  {
+    "id": "word_tr_eski",
+    "word": "eski",
+    "meaning": "old",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "esci"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Eski ev.", "Eski kitap."]
+  },
+  {
+    "id": "word_tr_sicak",
+    "word": "sıcak",
+    "meaning": "hot",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "sɯd͡ʒɑk"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Sıcak su.", "Sıcak hava."]
+  },
+  {
+    "id": "word_tr_soguk",
+    "word": "soğuk",
+    "meaning": "cold",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "soːuk"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Soğuk su.", "Soğuk hava."]
+  },
+  {
+    "id": "word_tr_mutlu",
+    "word": "mutlu",
+    "meaning": "happy",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "mutlu"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Mutluyum.", "Mutlu ol."]
+  },
+  {
+    "id": "word_tr_uzgun",
+    "word": "üzgün",
+    "meaning": "sad",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "yzɟyn"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["O üzgün.", "Üzgün olma."]
+  },
+  {
+    "id": "word_tr_uzun",
+    "word": "uzun",
+    "meaning": "tall/long",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "uzun"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Uzun kişi.", "Uzun dağ."]
+  },
+  {
+    "id": "word_tr_kisa",
+    "word": "kısa",
+    "meaning": "short",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "kɯsɑ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Kısa kişi.", "Düşük fiyat."]
+  },
+  {
+    "id": "word_tr_kalin",
+    "word": "kalın",
+    "meaning": "thick/fat",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "kɑlɯn"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Kalın kişi.", "Kalın kitap."]
+  },
+  {
+    "id": "word_tr_ince",
+    "word": "ince",
+    "meaning": "thin",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ind͡ʒe"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["İnce kişi.", "İnce ip."]
+  },
+  {
+    "id": "word_tr_hizli",
+    "word": "hızlı",
+    "meaning": "fast",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "hɯzlɯ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Hızlı araba.", "Hızlı koşu."]
+  },
+  {
+    "id": "word_tr_yavas",
+    "word": "yavaş",
+    "meaning": "slow",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "jɑvɑʃ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Yavaş git.", "Yavaş hareket."]
+  },
+  {
+    "id": "word_tr_dogru",
+    "word": "doğru",
+    "meaning": "correct/right",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "doːɾu"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Doğru cevap.", "Bu doğru."]
+  }
+]

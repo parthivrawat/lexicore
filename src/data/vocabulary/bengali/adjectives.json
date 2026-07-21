@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_bn_bhalo",
+    "word": "ভালো",
+    "meaning": "good",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "bʱalo"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["ভালো দিন।", "ভালো মানুষ।"]
+  },
+  {
+    "id": "word_bn_kharap",
+    "word": "খারাপ",
+    "meaning": "bad",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kʰaɾap"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["খারাপ দিন।", "খারাপ আবহাওয়া।"]
+  },
+  {
+    "id": "word_bn_boro",
+    "word": "বড়",
+    "meaning": "big/large",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "bɔɽɔ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["বড় বাড়ি।", "সে বড়।"]
+  },
+  {
+    "id": "word_bn_choto",
+    "word": "ছোট",
+    "meaning": "small",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "tʃʰoʈo"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["ছোট শিশু।", "ছোট ঘর।"]
+  },
+  {
+    "id": "word_bn_sundor",
+    "word": "সুন্দর",
+    "meaning": "beautiful",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃundɔɾ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["সুন্দর দৃশ্য।", "সুন্দর মেয়ে।"]
+  },
+  {
+    "id": "word_bn_moyla",
+    "word": "ময়লা",
+    "meaning": "dirty",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "mɔjla"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["ময়লা কাপড়।", "ঘর ময়লা।"]
+  },
+  {
+    "id": "word_bn_porishkar",
+    "word": "পরিষ্কার",
+    "meaning": "clean",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "pɔɾiʃkaɾ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["পরিষ্কার বাড়ি।", "পরিষ্কার জল।"]
+  },
+  {
+    "id": "word_bn_notun",
+    "word": "নতুন",
+    "meaning": "new",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "nɔtun"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["নতুন বই।", "নতুন গাড়ি।"]
+  },
+  {
+    "id": "word_bn_purano",
+    "word": "পুরানো",
+    "meaning": "old",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "puɾano"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["পুরানো বাড়ি।", "পুরানো বই।"]
+  },
+  {
+    "id": "word_bn_gorom",
+    "word": "গরম",
+    "meaning": "hot",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ɡɔɾɔm"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["গরম জল।", "গরম আবহাওয়া।"]
+  },
+  {
+    "id": "word_bn_thanda",
+    "word": "ঠান্ডা",
+    "meaning": "cold",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʈʰanda"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["ঠান্ডা জল।", "ঠান্ডা আবহাওয়া।"]
+  },
+  {
+    "id": "word_bn_khushi",
+    "word": "খুশি",
+    "meaning": "happy",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kʰuʃi"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["আমি খুশি।", "খুশি থাকো।"]
+  },
+  {
+    "id": "word_bn_dukhi",
+    "word": "দুঃখী",
+    "meaning": "sad",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dukkʰi"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["সে দুঃখী।", "দুঃখী হয়ো না।"]
+  },
+  {
+    "id": "word_bn_unchu",
+    "word": "উঁচু",
+    "meaning": "tall/high",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ũtʃu"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["উঁচু মানুষ।", "উঁচু পাহাড়।"]
+  },
+  {
+    "id": "word_bn_nichu",
+    "word": "নিচু",
+    "meaning": "short/low",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "nitʃu"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["নিচু মানুষ।", "নিচু দাম।"]
+  },
+  {
+    "id": "word_bn_mota",
+    "word": "মোটা",
+    "meaning": "fat/thick",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "moʈa"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["মোটা মানুষ।", "মোটা বই।"]
+  },
+  {
+    "id": "word_bn_patla",
+    "word": "পাতলা",
+    "meaning": "thin",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "patla"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["পাতলা মানুষ।", "পাতলা দড়ি।"]
+  },
+  {
+    "id": "word_bn_druto",
+    "word": "দ্রুত",
+    "meaning": "fast",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dɾuto"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["দ্রুত গাড়ি।", "দ্রুত দৌড়।"]
+  },
+  {
+    "id": "word_bn_dhire",
+    "word": "ধীরে",
+    "meaning": "slow",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dʱiɾe"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["ধীরে যাও।", "ধীরে চলাচল।"]
+  },
+  {
+    "id": "word_bn_thik",
+    "word": "ঠিক",
+    "meaning": "correct/right",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʈʰik"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["ঠিক উত্তর।", "এটা ঠিক।"]
+  }
+]

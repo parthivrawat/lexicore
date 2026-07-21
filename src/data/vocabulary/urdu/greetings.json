@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_ur_assalam",
+    "word": "السلام علیکم",
+    "meaning": "hello/peace be upon you",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "əsːəlaːm ʊ əˈleːkʊm"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["السلام علیکم، کیسے ہیں؟", "السلام علیکم سب کو!"]
+  },
+  {
+    "id": "word_ur_subah_bakhair",
+    "word": "صبح بخیر",
+    "meaning": "good morning",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "sʊbɑː bəˈxeːr"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["صبح بخیر، امی۔", "صبح بخیر سب کو۔"]
+  },
+  {
+    "id": "word_ur_sham_bakhair",
+    "word": "شام بخیر",
+    "meaning": "good evening",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ʃɑːm bəˈxeːr"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["شام بخیر، دوستو۔", "شام بخیر سب کو۔"]
+  },
+  {
+    "id": "word_ur_khuda_hafiz",
+    "word": "خدا حافظ",
+    "meaning": "goodbye",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "xʊdɑː ˈhɑːfɪz"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["خدا حافظ، کل ملیں گے۔", "خدا حافظ، دوست۔"]
+  },
+  {
+    "id": "word_ur_shukriya",
+    "word": "شکریہ",
+    "meaning": "thank you",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ʃʊkˈriːjɑː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["شکریہ آپ کی مدد کے لیے۔", "بہت شکریہ۔"]
+  },
+  {
+    "id": "word_ur_meharbani",
+    "word": "مہربانی",
+    "meaning": "please/kindness",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "meːhərˈbɑːniː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["مہربانی کر کے، مدد کریں۔", "براہ مہربانی بیٹھیں۔"]
+  },
+  {
+    "id": "word_ur_khush_amdeed",
+    "word": "خوش آمدید",
+    "meaning": "welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "xʊʃ ɑːmˈdiːd"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["خوش آمدید میرے گھر میں۔", "خوش آمدید!"]
+  },
+  {
+    "id": "word_ur_maaf_kijiye",
+    "word": "معاف کیجیے",
+    "meaning": "sorry/excuse me",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "mɑːf kɪˈd͡ʒiːeː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["معاف کیجیے، میں دیر سے آیا۔", "معاف کیجیے، تکلیف کے لیے۔"]
+  },
+  {
+    "id": "word_ur_shab_bakhair",
+    "word": "شب بخیر",
+    "meaning": "good night",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ʃəb bəˈxeːr"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["شب بخیر، اچھی نیند آئے۔", "شب بخیر سب کو۔"]
+  },
+  {
+    "id": "word_ur_kaise_hain",
+    "word": "کیسے ہیں",
+    "meaning": "how are you",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ˈkeːseː hẽː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["السلام علیکم، کیسے ہیں؟", "آپ کیسے ہیں؟"]
+  },
+  {
+    "id": "word_ur_theek_hun",
+    "word": "ٹھیک ہوں",
+    "meaning": "I'm fine",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ʈʰiːk hũː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["میں ٹھیک ہوں، شکریہ۔", "کیسے ہیں؟ - ٹھیک ہوں۔"]
+  },
+  {
+    "id": "word_ur_mubarak_ho",
+    "word": "مبارک ہو",
+    "meaning": "congratulations",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "mʊˈbɑːrək hoː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["مبارک ہو آپ کی کامیابی پر!", "مبارک ہو!"]
+  },
+  {
+    "id": "word_ur_phir_milenge",
+    "word": "پھر ملیں گے",
+    "meaning": "see you later",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "pʰɪr mɪˈlẽːɡeː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["پھر ملیں گے، دوبارہ ملیں گے۔", "پھر ملیں گے!"]
+  },
+  {
+    "id": "word_ur_koi_baat_nahi",
+    "word": "کوئی بات نہیں",
+    "meaning": "you're welcome/no problem",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "koːiː bɑːt nəhĩː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["شکریہ۔ - کوئی بات نہیں۔", "کوئی بات نہیں۔"]
+  },
+  {
+    "id": "word_ur_adaab",
+    "word": "آداب",
+    "meaning": "greetings (formal)",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ɑːˈdɑːb"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["آداب، صاحب۔", "آداب!"]
+  }
+]

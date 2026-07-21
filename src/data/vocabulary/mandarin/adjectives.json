@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_zh_hao",
+    "word": "好",
+    "meaning": "good",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "xɑʊ˨˩˦"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["很好。", "好人。"]
+  },
+  {
+    "id": "word_zh_huai",
+    "word": "坏",
+    "meaning": "bad",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "xwai˥˩"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["很坏。", "坏天气。"]
+  },
+  {
+    "id": "word_zh_da",
+    "word": "大",
+    "meaning": "big/large",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ta˥˩"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["大房子。", "他很大。"]
+  },
+  {
+    "id": "word_zh_xiao",
+    "word": "小",
+    "meaning": "small",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ɕjɑʊ˨˩˦"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["小孩子。", "小房间。"]
+  },
+  {
+    "id": "word_zh_piaoliang",
+    "word": "漂亮",
+    "meaning": "beautiful",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "pʰjɑʊ˥ljɑŋ˥˩"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["漂亮的景色。", "漂亮女孩。"]
+  },
+  {
+    "id": "word_zh_zang",
+    "word": "脏",
+    "meaning": "dirty",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tsɑŋ˥"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["脏衣服。", "房间很脏。"]
+  },
+  {
+    "id": "word_zh_ganjing",
+    "word": "干净",
+    "meaning": "clean",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "kan˥tɕiŋ˥˩"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["干净的房子。", "干净的水。"]
+  },
+  {
+    "id": "word_zh_xin",
+    "word": "新",
+    "meaning": "new",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ɕin˥"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["新书。", "新车。"]
+  },
+  {
+    "id": "word_zh_jiu",
+    "word": "旧",
+    "meaning": "old",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tɕjou˥˩"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["旧房子。", "旧书。"]
+  },
+  {
+    "id": "word_zh_re",
+    "word": "热",
+    "meaning": "hot",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ʐɤ˥˩"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["热水。", "天气很热。"]
+  },
+  {
+    "id": "word_zh_leng",
+    "word": "冷",
+    "meaning": "cold",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ləŋ˨˩˦"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["冷水。", "天很冷。"]
+  },
+  {
+    "id": "word_zh_gaoxing",
+    "word": "高兴",
+    "meaning": "happy",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "kɑʊ˥ɕiŋ˥˩"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["我很高兴。", "高兴点。"]
+  },
+  {
+    "id": "word_zh_nanguo",
+    "word": "难过",
+    "meaning": "sad",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "nan˨˩kwɔ˥˩"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["他很难过。", "别难过。"]
+  },
+  {
+    "id": "word_zh_gao",
+    "word": "高",
+    "meaning": "tall/high",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "kɑʊ˥"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["高个子。", "高山。"]
+  },
+  {
+    "id": "word_zh_ai",
+    "word": "矮",
+    "meaning": "short (height)",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ai˨˩˦"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["矮个子。", "矮树。"]
+  },
+  {
+    "id": "word_zh_pang",
+    "word": "胖",
+    "meaning": "fat",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "pʰɑŋ˥˩"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["胖人。", "胖猫。"]
+  },
+  {
+    "id": "word_zh_shou",
+    "word": "瘦",
+    "meaning": "thin",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ʂou˥˩"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["瘦人。", "瘦身体。"]
+  },
+  {
+    "id": "word_zh_kuai",
+    "word": "快",
+    "meaning": "fast",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "kʰwai˥˩"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["快车。", "跑得快。"]
+  },
+  {
+    "id": "word_zh_man",
+    "word": "慢",
+    "meaning": "slow",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "man˥˩"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["慢慢走。", "慢动作。"]
+  },
+  {
+    "id": "word_zh_dui",
+    "word": "对",
+    "meaning": "correct/right",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "twei˥˩"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["对的答案。", "这是对的。"]
+  }
+]

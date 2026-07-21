@@ -1,0 +1,314 @@
+[
+  {
+    "id": "word_vi_nha",
+    "word": "nhà",
+    "meaning": "home/house",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɲaː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Tôi về nhà.", "Đây là nhà tôi."]
+  },
+  {
+    "id": "word_vi_nuoc",
+    "word": "nước",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "nuək"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Uống nước.", "Nước nóng."]
+  },
+  {
+    "id": "word_vi_thuc_an",
+    "word": "thức ăn",
+    "meaning": "food",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "tʰɨk an"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Thức ăn sẵn sàng.", "Ăn thức ăn."]
+  },
+  {
+    "id": "word_vi_sach",
+    "word": "sách",
+    "meaning": "book",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ʂak"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Đọc sách.", "Cuốn sách này tốt."]
+  },
+  {
+    "id": "word_vi_but",
+    "word": "bút",
+    "meaning": "pen",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɓut"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Cho tôi cái bút.", "Bút của tôi mất."]
+  },
+  {
+    "id": "word_vi_giay",
+    "word": "giấy",
+    "meaning": "paper",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "zaj"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Viết trên giấy.", "Cần giấy."]
+  },
+  {
+    "id": "word_vi_cua",
+    "word": "cửa",
+    "meaning": "door",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "kɨə"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Mở cửa.", "Đóng cửa."]
+  },
+  {
+    "id": "word_vi_cua_so",
+    "word": "cửa sổ",
+    "meaning": "window",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "kɨə ʂo"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Mở cửa sổ.", "Cửa sổ bị vỡ."]
+  },
+  {
+    "id": "word_vi_ghe",
+    "word": "ghế",
+    "meaning": "chair",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɣe"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Ngồi trên ghế.", "Ghế thoải mái."]
+  },
+  {
+    "id": "word_vi_ban",
+    "word": "bàn",
+    "meaning": "table",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɓaːn"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Đặt trên bàn.", "Bàn sạch."]
+  },
+  {
+    "id": "word_vi_giuong",
+    "word": "giường",
+    "meaning": "bed",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "zuəŋ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Ngủ trên giường.", "Giường thoải mái."]
+  },
+  {
+    "id": "word_vi_quan_ao",
+    "word": "quần áo",
+    "meaning": "clothes",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "kwan aːw"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Mặc quần áo.", "Giặt quần áo."]
+  },
+  {
+    "id": "word_vi_giay_dep",
+    "word": "giày dép",
+    "meaning": "shoes",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "zaːj zep"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Đi giày.", "Cởi giày."]
+  },
+  {
+    "id": "word_vi_xe",
+    "word": "xe",
+    "meaning": "car/vehicle",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "se"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Lái xe.", "Xe đến rồi."]
+  },
+  {
+    "id": "word_vi_dien_thoai",
+    "word": "điện thoại",
+    "meaning": "phone",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɗiən tʰwaːj"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Gọi điện thoại.", "Điện thoại đang reo."]
+  },
+  {
+    "id": "word_vi_may_tinh",
+    "word": "máy tính",
+    "meaning": "computer",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "maj tiɲ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Dùng máy tính.", "Máy tính nhanh."]
+  },
+  {
+    "id": "word_vi_truong",
+    "word": "trường",
+    "meaning": "school",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "t͡ɕuəŋ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Đi học.", "Trường gần."]
+  },
+  {
+    "id": "word_vi_ban_be",
+    "word": "bạn bè",
+    "meaning": "friend",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɓaːn ɓe"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Anh ấy là bạn tôi.", "Bạn tốt."]
+  },
+  {
+    "id": "word_vi_gia_dinh",
+    "word": "gia đình",
+    "meaning": "family",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "zaː ɗiɲ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Gia đình tôi lớn.", "Yêu gia đình."]
+  },
+  {
+    "id": "word_vi_me",
+    "word": "mẹ",
+    "meaning": "mother",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "me"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Mẹ ở nhà.", "Tình yêu của mẹ."]
+  },
+  {
+    "id": "word_vi_cha",
+    "word": "cha",
+    "meaning": "father",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "t͡ɕaː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Cha đang làm việc.", "Tôn trọng cha."]
+  },
+  {
+    "id": "word_vi_anh_chi_em",
+    "word": "anh chị em",
+    "meaning": "siblings",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "aɲ t͡ɕi em"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Anh trai của tôi.", "Tôi có một anh."]
+  },
+  {
+    "id": "word_vi_ngay",
+    "word": "ngày",
+    "meaning": "day",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ŋaːj"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Hôm nay là ngày đẹp.", "Ngày mới."]
+  },
+  {
+    "id": "word_vi_dem",
+    "word": "đêm",
+    "meaning": "night",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɗem"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Đêm đến rồi.", "Ngủ vào ban đêm."]
+  }
+]

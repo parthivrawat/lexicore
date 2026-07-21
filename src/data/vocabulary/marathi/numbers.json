@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_mr_shunya",
+    "word": "शून्य",
+    "meaning": "zero",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ʃuːnj"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["शून्य गुण.", "शून्य अंश."]
+  },
+  {
+    "id": "word_mr_ek",
+    "word": "एक",
+    "meaning": "one",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ek"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["एक सफरचंद.", "पहिला."]
+  },
+  {
+    "id": "word_mr_don",
+    "word": "दोन",
+    "meaning": "two",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "d̪oːn"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["दोन पुस्तके.", "दुसरा."]
+  },
+  {
+    "id": "word_mr_teen",
+    "word": "तीन",
+    "meaning": "three",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "t̪iːn"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["तीन लोक.", "तिसरा."]
+  },
+  {
+    "id": "word_mr_char",
+    "word": "चार",
+    "meaning": "four",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "t͡ʃaːɾ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["चार दिवस.", "चौथा."]
+  },
+  {
+    "id": "word_mr_paach",
+    "word": "पाच",
+    "meaning": "five",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "paːt͡ʃ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["पाच रुपये.", "पाचवा."]
+  },
+  {
+    "id": "word_mr_sahaa",
+    "word": "सहा",
+    "meaning": "six",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "səhaː"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["सहा महिने.", "सहावा."]
+  },
+  {
+    "id": "word_mr_saat",
+    "word": "सात",
+    "meaning": "seven",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "saːt̪"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["सात दिवस.", "सातवा."]
+  },
+  {
+    "id": "word_mr_aath",
+    "word": "आठ",
+    "meaning": "eight",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "aːʈʰ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["आठ वाजता.", "आठवा."]
+  },
+  {
+    "id": "word_mr_nau",
+    "word": "नऊ",
+    "meaning": "nine",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "nəʊ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["नऊ लोक.", "नववा."]
+  },
+  {
+    "id": "word_mr_dahaa",
+    "word": "दहा",
+    "meaning": "ten",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "d̪əhaː"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["दहा रुपये.", "दहावा."]
+  },
+  {
+    "id": "word_mr_shambhar",
+    "word": "शंभर",
+    "meaning": "hundred",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ʃəmbʱəɾ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["शंभर रुपये.", "एक शंभर."]
+  },
+  {
+    "id": "word_mr_hajaar",
+    "word": "हजार",
+    "meaning": "thousand",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "həd͡ʒaːɾ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["एक हजार.", "दोन हजार."]
+  },
+  {
+    "id": "word_mr_laakh",
+    "word": "लाख",
+    "meaning": "hundred thousand",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "laːkʰ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["एक लाख.", "दोन लाख."]
+  },
+  {
+    "id": "word_mr_ardha",
+    "word": "अर्धा",
+    "meaning": "half",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "əɾd̪ʱaː"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["अर्धा तास.", "अर्धा भाग."]
+  }
+]

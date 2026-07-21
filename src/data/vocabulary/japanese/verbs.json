@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_ja_desu",
+    "word": "です",
+    "meaning": "to be",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "desɯ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["私は学生です。", "これは本です。"]
+  },
+  {
+    "id": "word_ja_suru",
+    "word": "する",
+    "meaning": "to do",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "sɯɾɯ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["何をする？", "宿題をする。"]
+  },
+  {
+    "id": "word_ja_iku",
+    "word": "行く",
+    "meaning": "to go",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ikɯ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["学校に行く。", "どこに行く？"]
+  },
+  {
+    "id": "word_ja_kuru",
+    "word": "来る",
+    "meaning": "to come",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "kɯɾɯ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["ここに来て。", "彼は明日来る。"]
+  },
+  {
+    "id": "word_ja_taberu",
+    "word": "食べる",
+    "meaning": "to eat",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "tabeɾɯ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["ご飯を食べる。", "食べたい？"]
+  },
+  {
+    "id": "word_ja_nomu",
+    "word": "飲む",
+    "meaning": "to drink",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "nomɯ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["水を飲む。", "飲みたい？"]
+  },
+  {
+    "id": "word_ja_miru",
+    "word": "見る",
+    "meaning": "to see/watch",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "miɾɯ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["映画を見る。", "あなたを見ている。"]
+  },
+  {
+    "id": "word_ja_kiku",
+    "word": "聞く",
+    "meaning": "to hear/listen",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "kikɯ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["音楽を聞く。", "私の話を聞いて。"]
+  },
+  {
+    "id": "word_ja_hanasu",
+    "word": "話す",
+    "meaning": "to speak",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "hanasɯ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["日本語を話す。", "真実を話す。"]
+  },
+  {
+    "id": "word_ja_yomu",
+    "word": "読む",
+    "meaning": "to read",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "jomɯ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["本を読む。", "読んでいる。"]
+  },
+  {
+    "id": "word_ja_kaku",
+    "word": "書く",
+    "meaning": "to write",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "kakɯ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["手紙を書く。", "名前を書く。"]
+  },
+  {
+    "id": "word_ja_ageru",
+    "word": "あげる",
+    "meaning": "to give",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "aɡeɾɯ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["本をあげる。", "水をあげる。"]
+  },
+  {
+    "id": "word_ja_toru",
+    "word": "取る",
+    "meaning": "to take",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "toɾɯ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["これを取って。", "取っている。"]
+  },
+  {
+    "id": "word_ja_neru",
+    "word": "寝る",
+    "meaning": "to sleep",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "neɾɯ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["早く寝る。", "寝ている。"]
+  },
+  {
+    "id": "word_ja_okiru",
+    "word": "起きる",
+    "meaning": "to wake up",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "okiɾɯ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["早く起きる。", "七時に起きる。"]
+  },
+  {
+    "id": "word_ja_suwaru",
+    "word": "座る",
+    "meaning": "to sit",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "sɯwaɾɯ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["ここに座って。", "座っている。"]
+  },
+  {
+    "id": "word_ja_tatsu",
+    "word": "立つ",
+    "meaning": "to stand",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "tatsɯ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["ここに立って。", "立っている。"]
+  },
+  {
+    "id": "word_ja_aruku",
+    "word": "歩く",
+    "meaning": "to walk",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "aɾɯkɯ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["ゆっくり歩く。", "歩いている。"]
+  },
+  {
+    "id": "word_ja_hashiru",
+    "word": "走る",
+    "meaning": "to run",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "haɕiɾɯ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["速く走る。", "走っている。"]
+  },
+  {
+    "id": "word_ja_warau",
+    "word": "笑う",
+    "meaning": "to laugh",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "waɾaɯ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["もっと笑って。", "笑っている。"]
+  },
+  {
+    "id": "word_ja_naku",
+    "word": "泣く",
+    "meaning": "to cry",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "nakɯ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["泣かないで。", "子供が泣いている。"]
+  },
+  {
+    "id": "word_ja_wakaru",
+    "word": "分かる",
+    "meaning": "to understand",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "wakaɾɯ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["分かりました。", "分かる？"]
+  },
+  {
+    "id": "word_ja_hoshii",
+    "word": "欲しい",
+    "meaning": "to want",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "hoɕiː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["行きたい。", "何が欲しい？"]
+  },
+  {
+    "id": "word_ja_suki",
+    "word": "好き",
+    "meaning": "to like/love",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "sɯki"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["あなたが好き。", "家族が好き。"]
+  },
+  {
+    "id": "word_ja_hataraku",
+    "word": "働く",
+    "meaning": "to work",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "hataɾakɯ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["一生懸命働く。", "オフィスで働く。"]
+  }
+]

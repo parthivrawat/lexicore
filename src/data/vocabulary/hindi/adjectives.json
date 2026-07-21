@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_hi_accha",
+    "word": "अच्छा",
+    "meaning": "good",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ət͡ʃt͡ʃʰaː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["यह अच्छा है।", "अच्छा लड़का।"]
+  },
+  {
+    "id": "word_hi_bura",
+    "word": "बुरा",
+    "meaning": "bad",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "bʊraː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["यह बुरा है।", "बुरा व्यवहार।"]
+  },
+  {
+    "id": "word_hi_bada",
+    "word": "बड़ा",
+    "meaning": "big/large",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "bəɽaː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["बड़ा घर।", "वह बड़ा है।"]
+  },
+  {
+    "id": "word_hi_chhota",
+    "word": "छोटा",
+    "meaning": "small",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "t͡ʃʰoːʈaː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["छोटा बच्चा।", "यह छोटा है।"]
+  },
+  {
+    "id": "word_hi_sundar",
+    "word": "सुंदर",
+    "meaning": "beautiful",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "sʊnd̪ər"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["सुंदर लड़की।", "सुंदर दृश्य।"]
+  },
+  {
+    "id": "word_hi_ganda",
+    "word": "गंदा",
+    "meaning": "dirty",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ɡənd̪aː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["गंदा कपड़ा।", "यह गंदा है।"]
+  },
+  {
+    "id": "word_hi_saaf",
+    "word": "साफ़",
+    "meaning": "clean",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "saːf"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["साफ़ कमरा।", "साफ़ पानी।"]
+  },
+  {
+    "id": "word_hi_naya",
+    "word": "नया",
+    "meaning": "new",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "nəjaː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["नया घर।", "नई किताब।"]
+  },
+  {
+    "id": "word_hi_purana",
+    "word": "पुराना",
+    "meaning": "old",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "pʊraːnaː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["पुराना घर।", "पुरानी किताब।"]
+  },
+  {
+    "id": "word_hi_garam",
+    "word": "गरम",
+    "meaning": "hot",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ɡərəm"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["गरम पानी।", "गरम खाना।"]
+  },
+  {
+    "id": "word_hi_thanda",
+    "word": "ठंडा",
+    "meaning": "cold",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ʈʰəɳɖaː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["ठंडा पानी।", "ठंडा मौसम।"]
+  },
+  {
+    "id": "word_hi_khush",
+    "word": "खुश",
+    "meaning": "happy",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "kʰʊʃ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["मैं खुश हूँ।", "खुश रहो।"]
+  },
+  {
+    "id": "word_hi_udaas",
+    "word": "उदास",
+    "meaning": "sad",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ʊd̪aːs"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["वह उदास है।", "उदास मत हो।"]
+  },
+  {
+    "id": "word_hi_lamba",
+    "word": "लंबा",
+    "meaning": "tall/long",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ləmbaː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["लंबा आदमी।", "लंबी सड़क।"]
+  },
+  {
+    "id": "word_hi_chhota_height",
+    "word": "नाटा",
+    "meaning": "short (height)",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "naːʈaː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["नाटा लड़का।", "वह नाटा है।"]
+  },
+  {
+    "id": "word_hi_mota",
+    "word": "मोटा",
+    "meaning": "fat/thick",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "moːʈaː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["मोटा आदमी।", "मोटी किताब।"]
+  },
+  {
+    "id": "word_hi_patla",
+    "word": "पतला",
+    "meaning": "thin",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "pət̪laː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["पतला लड़का।", "पतली रस्सी।"]
+  },
+  {
+    "id": "word_hi_tez",
+    "word": "तेज़",
+    "meaning": "fast/sharp",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "t̪eːz"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["तेज़ गाड़ी।", "तेज़ चाकू।"]
+  },
+  {
+    "id": "word_hi_dheema",
+    "word": "धीमा",
+    "meaning": "slow",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "d̪ʰiːmaː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["धीमा चलो।", "धीमी आवाज़।"]
+  },
+  {
+    "id": "word_hi_sahi",
+    "word": "सही",
+    "meaning": "correct/right",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "səhiː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["सही जवाब।", "यह सही है।"]
+  }
+]

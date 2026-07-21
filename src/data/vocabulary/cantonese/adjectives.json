@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_yue_hou",
+    "word": "好",
+    "meaning": "good",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "hou²"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["好好。", "好人。"]
+  },
+  {
+    "id": "word_yue_m_hou",
+    "word": "唔好",
+    "meaning": "bad/not good",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "m⁴ hou²"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["唔好。", "唔好意思。"]
+  },
+  {
+    "id": "word_yue_daai",
+    "word": "大",
+    "meaning": "big",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "daai⁶"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["好大。", "大屋。"]
+  },
+  {
+    "id": "word_yue_sai",
+    "word": "細",
+    "meaning": "small",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "sai³"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["好細。", "細路仔。"]
+  },
+  {
+    "id": "word_yue_coeng",
+    "word": "長",
+    "meaning": "long",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "coeng⁴"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["好長。", "長頭髮。"]
+  },
+  {
+    "id": "word_yue_dyun",
+    "word": "短",
+    "meaning": "short",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "dyun²"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["好短。", "短頭髮。"]
+  },
+  {
+    "id": "word_yue_gou",
+    "word": "高",
+    "meaning": "tall/high",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "gou¹"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["好高。", "高樓。"]
+  },
+  {
+    "id": "word_yue_dai",
+    "word": "低",
+    "meaning": "low",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "dai¹"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["好低。", "低價。"]
+  },
+  {
+    "id": "word_yue_san",
+    "word": "新",
+    "meaning": "new",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "san¹"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["新書。", "新年。"]
+  },
+  {
+    "id": "word_yue_gau",
+    "word": "舊",
+    "meaning": "old",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "gau⁶"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["舊書。", "舊年。"]
+  },
+  {
+    "id": "word_yue_hau_saang",
+    "word": "後生",
+    "meaning": "young",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "hau⁶ saang¹"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["後生仔。", "好後生。"]
+  },
+  {
+    "id": "word_yue_lou",
+    "word": "老",
+    "meaning": "old (age)",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "lou⁵"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["老人家。", "好老。"]
+  },
+  {
+    "id": "word_yue_leng",
+    "word": "靚",
+    "meaning": "beautiful",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "leng³"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["好靚。", "靚女。"]
+  },
+  {
+    "id": "word_yue_cau",
+    "word": "醜",
+    "meaning": "ugly",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "cau²"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["好醜。", "醜樣。"]
+  },
+  {
+    "id": "word_yue_jit",
+    "word": "熱",
+    "meaning": "hot",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "jit⁶"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["好熱。", "熱水。"]
+  },
+  {
+    "id": "word_yue_dung",
+    "word": "凍",
+    "meaning": "cold",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "dung³"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["好凍。", "凍水。"]
+  },
+  {
+    "id": "word_yue_faai",
+    "word": "快",
+    "meaning": "fast",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "faai³"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["好快。", "快啲。"]
+  },
+  {
+    "id": "word_yue_maan",
+    "word": "慢",
+    "meaning": "slow",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "maan⁶"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["好慢。", "慢啲。"]
+  },
+  {
+    "id": "word_yue_jung_ji",
+    "word": "容易",
+    "meaning": "easy",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "jung⁴ ji⁶"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["好容易。", "容易做。"]
+  },
+  {
+    "id": "word_yue_naan",
+    "word": "難",
+    "meaning": "difficult",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "naan⁴"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["好難。", "難做。"]
+  }
+]

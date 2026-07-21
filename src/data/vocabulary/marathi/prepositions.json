@@ -1,0 +1,132 @@
+[
+  {
+    "id": "word_mr_madhe",
+    "word": "मध्ये",
+    "meaning": "in/at",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "məd̪ʱje"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["घरात.", "येथे."]
+  },
+  {
+    "id": "word_mr_la",
+    "word": "ला",
+    "meaning": "to",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "laː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["शाळेला.", "कुठे?"]
+  },
+  {
+    "id": "word_mr_pasun",
+    "word": "पासून",
+    "meaning": "from",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "paːsuːn"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["मुंबईपासून.", "कुठून?"]
+  },
+  {
+    "id": "word_mr_saha",
+    "word": "सह",
+    "meaning": "with",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "səhə"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["मित्रासह.", "कोणासह?"]
+  },
+  {
+    "id": "word_mr_sathi",
+    "word": "साठी",
+    "meaning": "for",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "saːʈʰiː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["तुझ्यासाठी.", "कशासाठी?"]
+  },
+  {
+    "id": "word_mr_var",
+    "word": "वर",
+    "meaning": "on/at",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ʋəɾ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["आज.", "त्या वेळी."]
+  },
+  {
+    "id": "word_mr_babtit",
+    "word": "बाबतीत",
+    "meaning": "about",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "baːbt̪iːt̪"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["याबाबत?", "त्याबद्दल बोला."]
+  },
+  {
+    "id": "word_mr_shivay",
+    "word": "शिवाय",
+    "meaning": "without",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ʃiʋaːj"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["तुझ्याशिवाय.", "कारणाशिवाय."]
+  },
+  {
+    "id": "word_mr_aadhi",
+    "word": "आधी",
+    "meaning": "before",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "aːd̪ʱiː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["जेवणाआधी.", "जाण्याआधी."]
+  },
+  {
+    "id": "word_mr_nantar",
+    "word": "नंतर",
+    "meaning": "after",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "nənt̪əɾ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["जेवणानंतर.", "त्यानंतर."]
+  }
+]

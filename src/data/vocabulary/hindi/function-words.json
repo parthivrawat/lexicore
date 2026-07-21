@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_hi_main",
+    "word": "मैं",
+    "meaning": "I",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "mɛ̃ː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["मैं जा रहा हूँ।", "मैं खुश हूँ।"]
+  },
+  {
+    "id": "word_hi_tum",
+    "word": "तुम",
+    "meaning": "you (informal)",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "t̪ʊm"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["तुम कहाँ हो?", "तुम कैसे हो?"]
+  },
+  {
+    "id": "word_hi_aap",
+    "word": "आप",
+    "meaning": "you (formal)",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "aːp"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["आप कैसे हैं?", "आप कहाँ जा रहे हैं?"]
+  },
+  {
+    "id": "word_hi_vah",
+    "word": "वह",
+    "meaning": "he/she/it/that",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ʋəh"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["वह आ रहा है।", "वह किताब।"]
+  },
+  {
+    "id": "word_hi_yah",
+    "word": "यह",
+    "meaning": "this",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "jəh"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["यह क्या है?", "यह मेरा है।"]
+  },
+  {
+    "id": "word_hi_hum",
+    "word": "हम",
+    "meaning": "we",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "həm"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["हम जा रहे हैं।", "हम खुश हैं।"]
+  },
+  {
+    "id": "word_hi_ve",
+    "word": "वे",
+    "meaning": "they",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ʋeː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["वे आ रहे हैं।", "वे लोग।"]
+  },
+  {
+    "id": "word_hi_kya",
+    "word": "क्या",
+    "meaning": "what/question marker",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "kjaː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["क्या हुआ?", "यह क्या है?"]
+  },
+  {
+    "id": "word_hi_kaun",
+    "word": "कौन",
+    "meaning": "who",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "kɔːn"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["कौन है?", "यह कौन है?"]
+  },
+  {
+    "id": "word_hi_kahan",
+    "word": "कहाँ",
+    "meaning": "where",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "kəhãː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["तुम कहाँ हो?", "यह कहाँ है?"]
+  },
+  {
+    "id": "word_hi_kab",
+    "word": "कब",
+    "meaning": "when",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "kəb"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["कब आओगे?", "यह कब हुआ?"]
+  },
+  {
+    "id": "word_hi_kaise",
+    "word": "कैसे",
+    "meaning": "how",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "kɛːseː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["कैसे हो?", "यह कैसे हुआ?"]
+  },
+  {
+    "id": "word_hi_kyun",
+    "word": "क्यों",
+    "meaning": "why",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "kjõː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["क्यों नहीं?", "यह क्यों हुआ?"]
+  },
+  {
+    "id": "word_hi_aur",
+    "word": "और",
+    "meaning": "and/more",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ɔːr"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["तुम और मैं।", "और दो।"]
+  },
+  {
+    "id": "word_hi_ya",
+    "word": "या",
+    "meaning": "or",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "jaː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["चाय या कॉफ़ी?", "यह या वह?"]
+  },
+  {
+    "id": "word_hi_lekin",
+    "word": "लेकिन",
+    "meaning": "but",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "leːkɪn"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["अच्छा है लेकिन महंगा है।", "मैं चाहता हूँ लेकिन नहीं कर सकता।"]
+  },
+  {
+    "id": "word_hi_agar",
+    "word": "अगर",
+    "meaning": "if",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "əɡər"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["अगर तुम आओ।", "अगर संभव हो।"]
+  },
+  {
+    "id": "word_hi_to",
+    "word": "तो",
+    "meaning": "then/so",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "t̪oː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["अगर तुम आओ तो।", "ठीक है तो।"]
+  },
+  {
+    "id": "word_hi_nahi",
+    "word": "नहीं",
+    "meaning": "no/not",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "nəhĩː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["नहीं, धन्यवाद।", "मैं नहीं जाऊँगा।"]
+  },
+  {
+    "id": "word_hi_haan",
+    "word": "हाँ",
+    "meaning": "yes",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "hãː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["हाँ, ठीक है।", "हाँ, मैं आऊँगा।"]
+  }
+]

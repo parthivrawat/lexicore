@@ -1,0 +1,275 @@
+[
+  {
+    "id": "word_pcm_i",
+    "word": "I",
+    "meaning": "I/me",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "aɪ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["I dey go.", "My name."]
+  },
+  {
+    "id": "word_pcm_you",
+    "word": "You",
+    "meaning": "you",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "juː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["You good.", "For you."]
+  },
+  {
+    "id": "word_pcm_he",
+    "word": "He",
+    "meaning": "he",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "hiː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["He dey go.", "Him house."]
+  },
+  {
+    "id": "word_pcm_she",
+    "word": "She",
+    "meaning": "she",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "ʃiː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["She dey go.", "Her house."]
+  },
+  {
+    "id": "word_pcm_we",
+    "word": "We",
+    "meaning": "we",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "wiː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["We dey go.", "Our house."]
+  },
+  {
+    "id": "word_pcm_dem",
+    "word": "Dem",
+    "meaning": "they",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "dɛm"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Dem dey go.", "Dem house."]
+  },
+  {
+    "id": "word_pcm_this",
+    "word": "This",
+    "meaning": "this",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "ðɪs"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["This book.", "Today."]
+  },
+  {
+    "id": "word_pcm_that",
+    "word": "That",
+    "meaning": "that",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "ðæt"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["That house.", "That time."]
+  },
+  {
+    "id": "word_pcm_wetin",
+    "word": "Wetin",
+    "meaning": "what",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "wɛtɪn"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Wetin be this?", "Wetin you want?"]
+  },
+  {
+    "id": "word_pcm_who",
+    "word": "Who",
+    "meaning": "who",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "huː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Who be that?", "With who?"]
+  },
+  {
+    "id": "word_pcm_where",
+    "word": "Where",
+    "meaning": "where",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "wɛə"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Where?", "Where you dey go?"]
+  },
+  {
+    "id": "word_pcm_when",
+    "word": "When",
+    "meaning": "when",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "wɛn"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["When you go?", "When he go come?"]
+  },
+  {
+    "id": "word_pcm_why",
+    "word": "Why",
+    "meaning": "why",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "waɪ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Why like this?", "Why not?"]
+  },
+  {
+    "id": "word_pcm_how",
+    "word": "How",
+    "meaning": "how",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "haʊ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["How you dey?", "How to do am?"]
+  },
+  {
+    "id": "word_pcm_and",
+    "word": "And",
+    "meaning": "and",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "ænd"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["You and me.", "Chop and drink."]
+  },
+  {
+    "id": "word_pcm_or",
+    "word": "Or",
+    "meaning": "or",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "ɔː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["This or that?", "Yes or no?"]
+  },
+  {
+    "id": "word_pcm_but",
+    "word": "But",
+    "meaning": "but",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "bʌt"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Good but expensive.", "Want go but no time."]
+  },
+  {
+    "id": "word_pcm_if",
+    "word": "If",
+    "meaning": "if",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "ɪf"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["If need.", "If want."]
+  },
+  {
+    "id": "word_pcm_because",
+    "word": "Because",
+    "meaning": "because",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "bɪkɔz"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Because sick.", "Because that."]
+  },
+  {
+    "id": "word_pcm_no",
+    "word": "No",
+    "meaning": "no/not",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "noː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["No good.", "No want."]
+  },
+  {
+    "id": "word_pcm_yes",
+    "word": "Yes",
+    "meaning": "yes",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "jɛs"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Yes, correct.", "Yes, I want am."]
+  }
+]

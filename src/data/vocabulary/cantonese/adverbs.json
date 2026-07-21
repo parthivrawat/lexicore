@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_yue_hou",
+    "word": "好",
+    "meaning": "very",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "hou²"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["好靚。", "好快。"]
+  },
+  {
+    "id": "word_yue_dou",
+    "word": "都",
+    "meaning": "also",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "dou¹"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["我都係。", "佢都去。"]
+  },
+  {
+    "id": "word_yue_zi_hai",
+    "word": "只係",
+    "meaning": "only",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "zi² hai⁶"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["只係一個。", "只係你。"]
+  },
+  {
+    "id": "word_yue_sing_si",
+    "word": "成日",
+    "meaning": "always",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "sing⁴ jat⁶"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["成日遲到。", "成日講。"]
+  },
+  {
+    "id": "word_yue_m_zang",
+    "word": "唔曾",
+    "meaning": "never",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "m⁴ zang¹"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["唔曾見過。", "唔曾去過。"]
+  },
+  {
+    "id": "word_yue_jau_si",
+    "word": "有時",
+    "meaning": "sometimes",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "jau⁵ si⁴"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["有時去。", "有時唔去。"]
+  },
+  {
+    "id": "word_yue_seng_seng",
+    "word": "成成",
+    "meaning": "often",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "sing⁴ sing⁴"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["成成嚟。", "成成去。"]
+  },
+  {
+    "id": "word_yue_ji_gaa",
+    "word": "而家",
+    "meaning": "now",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "ji⁴ gaa¹"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["而家去。", "而家做。"]
+  },
+  {
+    "id": "word_yue_ci_di",
+    "word": "遲啲",
+    "meaning": "later",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "ci⁴ di¹"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["遲啲先。", "遲啲講。"]
+  },
+  {
+    "id": "word_yue_kam_jat",
+    "word": "琴日",
+    "meaning": "yesterday",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "kam⁴ jat⁶"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["琴日去咗。", "琴日見。"]
+  },
+  {
+    "id": "word_yue_ting_jat",
+    "word": "聽日",
+    "meaning": "tomorrow",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "teng¹ jat⁶"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["聽日見。", "聽日去。"]
+  },
+  {
+    "id": "word_yue_ji_ging",
+    "word": "已經",
+    "meaning": "already",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "ji⁵ ging¹"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["已經做咗。", "已經食咗。"]
+  },
+  {
+    "id": "word_yue_zung_mei",
+    "word": "重未",
+    "meaning": "not yet",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "zung⁶ mei⁶"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["重未做。", "重未食。"]
+  },
+  {
+    "id": "word_yue_waak_ze",
+    "word": "或者",
+    "meaning": "maybe",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "waak⁶ ze²"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["或者係。", "或者唔係。"]
+  },
+  {
+    "id": "word_yue_ding_hai",
+    "word": "梗係",
+    "meaning": "certainly",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "deng² hai⁶"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["梗係啦。", "梗係去。"]
+  }
+]

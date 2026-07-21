@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_mr_manus",
+    "word": "माणूस",
+    "meaning": "person",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "maːɳuːs"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["तो चांगला माणूस आहे.", "बरेच माणसे."]
+  },
+  {
+    "id": "word_mr_mool",
+    "word": "मूल",
+    "meaning": "child",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "muːl"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["माझे मूल.", "लहान मूल."]
+  },
+  {
+    "id": "word_mr_ghar",
+    "word": "घर",
+    "meaning": "house",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ɡʱəɾ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["मोठे घर.", "घरी."]
+  },
+  {
+    "id": "word_mr_pani",
+    "word": "पाणी",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "paːɳiː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["पाणी प्या.", "स्वच्छ पाणी."]
+  },
+  {
+    "id": "word_mr_jevan",
+    "word": "जेवण",
+    "meaning": "food",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "d͡ʒeʋɳ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["चवदार जेवण.", "जेवण खा."]
+  },
+  {
+    "id": "word_mr_vel",
+    "word": "वेळ",
+    "meaning": "time",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ʋeːɭ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["मोकळा वेळ.", "वेळ नाही."]
+  },
+  {
+    "id": "word_mr_divas",
+    "word": "दिवस",
+    "meaning": "day",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "d̪iʋəs"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["आज.", "दररोज."]
+  },
+  {
+    "id": "word_mr_varsh",
+    "word": "वर्ष",
+    "meaning": "year",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ʋəɾʃ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["नवीन वर्ष.", "दोन वर्षे."]
+  },
+  {
+    "id": "word_mr_haat",
+    "word": "हात",
+    "meaning": "hand",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "haːt̪"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["हात धुवा.", "उजवा हात."]
+  },
+  {
+    "id": "word_mr_dola",
+    "word": "डोळा",
+    "meaning": "eye",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ɖoːɭaː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["सुंदर डोळे.", "डोळे बंद करा."]
+  },
+  {
+    "id": "word_mr_doke",
+    "word": "डोके",
+    "meaning": "head",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ɖoːke"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["डोकेदुखी.", "डोके वर करा."]
+  },
+  {
+    "id": "word_mr_pustak",
+    "word": "पुस्तक",
+    "meaning": "book",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "pust̪ək"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["पुस्तक वाचा.", "चांगले पुस्तक."]
+  },
+  {
+    "id": "word_mr_dar",
+    "word": "दार",
+    "meaning": "door",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "d̪aːɾ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["दार बंद करा.", "दार उघडे आहे."]
+  },
+  {
+    "id": "word_mr_rasta",
+    "word": "रस्ता",
+    "meaning": "road",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ɾəst̪aː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["मुख्य रस्ता.", "रस्त्यावर."]
+  },
+  {
+    "id": "word_mr_shahar",
+    "word": "शहर",
+    "meaning": "city",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ʃəhəɾ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["मोठे शहर.", "शहरात."]
+  },
+  {
+    "id": "word_mr_desh",
+    "word": "देश",
+    "meaning": "country",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "d̪eːʃ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["भारत देश.", "देशावर प्रेम."]
+  },
+  {
+    "id": "word_mr_shala",
+    "word": "शाळा",
+    "meaning": "school",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ʃaːɭaː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["शाळेत जा.", "प्राथमिक शाळा."]
+  },
+  {
+    "id": "word_mr_mitra",
+    "word": "मित्र",
+    "meaning": "friend",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "mit̪ɾ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["चांगला मित्र.", "माझा मित्र."]
+  },
+  {
+    "id": "word_mr_kutumb",
+    "word": "कुटुंब",
+    "meaning": "family",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kuʈumb"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["मोठे कुटुंब.", "कुटुंबावर प्रेम."]
+  },
+  {
+    "id": "word_mr_naav",
+    "word": "नाव",
+    "meaning": "name",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "naːʋ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["माझे नाव.", "नाव लिहा."]
+  }
+]

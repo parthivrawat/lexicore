@@ -89,5 +89,96 @@
     ],
     "category": "prepositions",
     "examples": ["Es para ti.", "Voy para allá."]
+  },
+  {
+    "id": "word_es_sobre",
+    "word": "sobre",
+    "meaning": "on/about",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈso.βɾe"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["El libro está sobre la mesa.", "Hablamos sobre ti."]
+  },
+  {
+    "id": "word_es_bajo",
+    "word": "bajo",
+    "meaning": "under",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈba.xo"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Bajo la mesa.", "Bajo el sol."]
+  },
+  {
+    "id": "word_es_entre",
+    "word": "entre",
+    "meaning": "between",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈen.tɾe"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Entre tú y yo.", "Entre las dos casas."]
+  },
+  {
+    "id": "word_es_desde",
+    "word": "desde",
+    "meaning": "from/since",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈdez.ðe"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Desde aquí.", "Desde ayer."]
+  },
+  {
+    "id": "word_es_hasta",
+    "word": "hasta",
+    "meaning": "until/up to",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈas.ta"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Hasta mañana.", "Hasta aquí."]
+  },
+  {
+    "id": "word_es_contra",
+    "word": "contra",
+    "meaning": "against",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈkon.tɾa"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Contra la pared.", "Luchar contra algo."]
+  },
+  {
+    "id": "word_es_durante",
+    "word": "durante",
+    "meaning": "during",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "duˈɾan.te"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Durante el día.", "Durante la clase."]
   }
 ]

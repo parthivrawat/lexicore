@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_pt_zero",
+    "word": "zero",
+    "meaning": "zero",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈzɛɾu"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Zero graus.", "Começar do zero."]
+  },
+  {
+    "id": "word_pt_um",
+    "word": "um",
+    "meaning": "one",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ũ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Uma pessoa.", "Tenho um."]
+  },
+  {
+    "id": "word_pt_dois",
+    "word": "dois",
+    "meaning": "two",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "dojʃ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Dois mais três.", "Tenho dois."]
+  },
+  {
+    "id": "word_pt_tres",
+    "word": "três",
+    "meaning": "three",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "tɾejʃ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Três dias.", "Três livros."]
+  },
+  {
+    "id": "word_pt_quatro",
+    "word": "quatro",
+    "meaning": "four",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈkwatɾu"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Quatro pessoas.", "Quatro estações."]
+  },
+  {
+    "id": "word_pt_cinco",
+    "word": "cinco",
+    "meaning": "five",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈsĩku"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Cinco reais.", "Cinco horas."]
+  },
+  {
+    "id": "word_pt_seis",
+    "word": "seis",
+    "meaning": "six",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "sejʃ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Seis meses.", "Seis livros."]
+  },
+  {
+    "id": "word_pt_sete",
+    "word": "sete",
+    "meaning": "seven",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈsɛt͡ʃi"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Sete dias.", "Sete pessoas."]
+  },
+  {
+    "id": "word_pt_oito",
+    "word": "oito",
+    "meaning": "eight",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈojtu"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Oito quilos.", "Oito horas."]
+  },
+  {
+    "id": "word_pt_nove",
+    "word": "nove",
+    "meaning": "nine",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈnɔvi"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Nove meses.", "Nove livros."]
+  },
+  {
+    "id": "word_pt_dez",
+    "word": "dez",
+    "meaning": "ten",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "dɛʃ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Dez reais.", "Dez anos."]
+  },
+  {
+    "id": "word_pt_vinte",
+    "word": "vinte",
+    "meaning": "twenty",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈvĩt͡ʃi"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Vinte pessoas.", "Vinte reais."]
+  },
+  {
+    "id": "word_pt_cinquenta",
+    "word": "cinquenta",
+    "meaning": "fifty",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "sĩˈkwẽtɐ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Cinquenta por cento.", "Cinquenta reais."]
+  },
+  {
+    "id": "word_pt_cem",
+    "word": "cem",
+    "meaning": "hundred",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "sẽj"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Cem reais.", "Cem anos."]
+  },
+  {
+    "id": "word_pt_mil",
+    "word": "mil",
+    "meaning": "thousand",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "miw"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Mil reais.", "Mil pessoas."]
+  }
+]

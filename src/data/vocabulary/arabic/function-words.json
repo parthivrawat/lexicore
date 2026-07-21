@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_ar_ana",
+    "word": "أنا",
+    "meaning": "I",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔanaː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["أنا ذاهب.", "أنا سعيد."]
+  },
+  {
+    "id": "word_ar_anta",
+    "word": "أنت",
+    "meaning": "you (masculine)",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔanta"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["أنت هنا.", "كيف حالك أنت؟"]
+  },
+  {
+    "id": "word_ar_anti",
+    "word": "أنتِ",
+    "meaning": "you (feminine)",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔanti"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["أنتِ جميلة.", "كيف حالك أنتِ؟"]
+  },
+  {
+    "id": "word_ar_huwa",
+    "word": "هو",
+    "meaning": "he",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "huwa"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["هو طالب.", "هو هنا."]
+  },
+  {
+    "id": "word_ar_hiya",
+    "word": "هي",
+    "meaning": "she",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "hija"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["هي معلمة.", "هي جميلة."]
+  },
+  {
+    "id": "word_ar_nahnu",
+    "word": "نحن",
+    "meaning": "we",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "naħnu"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["نحن طلاب.", "نحن هنا."]
+  },
+  {
+    "id": "word_ar_antum",
+    "word": "أنتم",
+    "meaning": "you (plural)",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔantum"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["أنتم طلاب.", "كيف حالكم أنتم؟"]
+  },
+  {
+    "id": "word_ar_hum",
+    "word": "هم",
+    "meaning": "they",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "hum"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["هم أصدقاء.", "هم هنا."]
+  },
+  {
+    "id": "word_ar_ma",
+    "word": "ما",
+    "meaning": "what",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "maː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["ما هذا؟", "ما اسمك؟"]
+  },
+  {
+    "id": "word_ar_man",
+    "word": "من",
+    "meaning": "who",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "man"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["من هذا؟", "من أنت؟"]
+  },
+  {
+    "id": "word_ar_ayna",
+    "word": "أين",
+    "meaning": "where",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔajna"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["أين أنت؟", "أين البيت؟"]
+  },
+  {
+    "id": "word_ar_mata",
+    "word": "متى",
+    "meaning": "when",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "mataː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["متى تأتي؟", "متى حدث هذا؟"]
+  },
+  {
+    "id": "word_ar_kayfa",
+    "word": "كيف",
+    "meaning": "how",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "kajfa"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["كيف حالك؟", "كيف حدث هذا؟"]
+  },
+  {
+    "id": "word_ar_limadha",
+    "word": "لماذا",
+    "meaning": "why",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "limaːðaː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["لماذا تذهب؟", "لماذا لا؟"]
+  },
+  {
+    "id": "word_ar_wa",
+    "word": "و",
+    "meaning": "and",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "wa"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["أنا وأنت.", "الأب والأم."]
+  },
+  {
+    "id": "word_ar_aw",
+    "word": "أو",
+    "meaning": "or",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔaw"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["شاي أو قهوة؟", "هذا أو ذاك؟"]
+  },
+  {
+    "id": "word_ar_lakin",
+    "word": "لكن",
+    "meaning": "but",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "laːkin"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["جيد لكن غالي.", "أريد لكن لا أستطيع."]
+  },
+  {
+    "id": "word_ar_idha",
+    "word": "إذا",
+    "meaning": "if",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔiðaː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["إذا أتيت.", "إذا أمكن."]
+  },
+  {
+    "id": "word_ar_la",
+    "word": "لا",
+    "meaning": "no/not",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "laː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["لا، شكرا.", "لا أذهب."]
+  },
+  {
+    "id": "word_ar_naam",
+    "word": "نعم",
+    "meaning": "yes",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "naʕam"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["نعم، حسنا.", "نعم، سأذهب."]
+  }
+]

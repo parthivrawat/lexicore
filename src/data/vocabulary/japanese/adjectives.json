@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_ja_ii",
+    "word": "良い",
+    "meaning": "good",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "iː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["良い日。", "良い人。"]
+  },
+  {
+    "id": "word_ja_warui",
+    "word": "悪い",
+    "meaning": "bad",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "waɾɯi"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["悪い日。", "悪い天気。"]
+  },
+  {
+    "id": "word_ja_ookii",
+    "word": "大きい",
+    "meaning": "big/large",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "oːkiː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["大きい家。", "彼は大きい。"]
+  },
+  {
+    "id": "word_ja_chiisai",
+    "word": "小さい",
+    "meaning": "small",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "t͡ɕiːsai"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["小さい子供。", "小さい部屋。"]
+  },
+  {
+    "id": "word_ja_utsukushii",
+    "word": "美しい",
+    "meaning": "beautiful",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ɯtsɯkɯɕiː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["美しい景色。", "美しい女の子。"]
+  },
+  {
+    "id": "word_ja_kitanai",
+    "word": "汚い",
+    "meaning": "dirty",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "kitanai"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["汚い服。", "部屋は汚い。"]
+  },
+  {
+    "id": "word_ja_kirei",
+    "word": "きれい",
+    "meaning": "clean/pretty",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "kiɾei"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["きれいな家。", "きれいな水。"]
+  },
+  {
+    "id": "word_ja_atarashii",
+    "word": "新しい",
+    "meaning": "new",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ataɾaɕiː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["新しい本。", "新しい車。"]
+  },
+  {
+    "id": "word_ja_furui",
+    "word": "古い",
+    "meaning": "old",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ɸɯɾɯi"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["古い家。", "古い本。"]
+  },
+  {
+    "id": "word_ja_atsui",
+    "word": "暑い/熱い",
+    "meaning": "hot",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "atsɯi"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["熱い水。", "暑い天気。"]
+  },
+  {
+    "id": "word_ja_samui",
+    "word": "寒い",
+    "meaning": "cold",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "samɯi"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["寒い水。", "寒い天気。"]
+  },
+  {
+    "id": "word_ja_ureshii",
+    "word": "嬉しい",
+    "meaning": "happy",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ɯɾeɕiː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["私は嬉しい。", "嬉しくなって。"]
+  },
+  {
+    "id": "word_ja_kanashii",
+    "word": "悲しい",
+    "meaning": "sad",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "kanaɕiː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["彼は悲しい。", "悲しくないで。"]
+  },
+  {
+    "id": "word_ja_takai",
+    "word": "高い",
+    "meaning": "tall/high/expensive",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "takai"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["高い人。", "高い山。"]
+  },
+  {
+    "id": "word_ja_hikui",
+    "word": "低い",
+    "meaning": "short/low",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "çikɯi"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["低い人。", "低い価格。"]
+  },
+  {
+    "id": "word_ja_futoi",
+    "word": "太い",
+    "meaning": "fat/thick",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ɸɯtoi"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["太い人。", "太い本。"]
+  },
+  {
+    "id": "word_ja_hosoi",
+    "word": "細い",
+    "meaning": "thin",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "hosoi"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["細い人。", "細いロープ。"]
+  },
+  {
+    "id": "word_ja_hayai",
+    "word": "速い/早い",
+    "meaning": "fast/early",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "hajai"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["速い車。", "速い走り。"]
+  },
+  {
+    "id": "word_ja_osoi",
+    "word": "遅い",
+    "meaning": "slow/late",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "osoi"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["ゆっくり歩く。", "遅い動き。"]
+  },
+  {
+    "id": "word_ja_tadashii",
+    "word": "正しい",
+    "meaning": "correct/right",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "tadaɕiː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["正しい答え。", "これは正しい。"]
+  }
+]

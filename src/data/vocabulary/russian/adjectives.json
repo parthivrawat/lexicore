@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_ru_khoroshiy",
+    "word": "хороший",
+    "meaning": "good",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "xɐˈroʂɨj"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Хороший день.", "Хороший человек."]
+  },
+  {
+    "id": "word_ru_plokhoy",
+    "word": "плохой",
+    "meaning": "bad",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "plɐˈxoj"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Плохой день.", "Плохая погода."]
+  },
+  {
+    "id": "word_ru_bolshoy",
+    "word": "большой",
+    "meaning": "big/large",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "bɐlʲˈʂoj"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Большой дом.", "Он большой."]
+  },
+  {
+    "id": "word_ru_malenkiy",
+    "word": "маленький",
+    "meaning": "small",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈmalʲɪnʲkʲɪj"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Маленький ребёнок.", "Маленькая комната."]
+  },
+  {
+    "id": "word_ru_krasivyy",
+    "word": "красивый",
+    "meaning": "beautiful",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "krɐˈsʲivɨj"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Красивый вид.", "Красивая девушка."]
+  },
+  {
+    "id": "word_ru_gryaznyy",
+    "word": "грязный",
+    "meaning": "dirty",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈɡrʲæznɨj"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Грязная одежда.", "Комната грязная."]
+  },
+  {
+    "id": "word_ru_chistyy",
+    "word": "чистый",
+    "meaning": "clean",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈtɕɪstɨj"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Чистый дом.", "Чистая вода."]
+  },
+  {
+    "id": "word_ru_novyy",
+    "word": "новый",
+    "meaning": "new",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈnovɨj"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Новая книга.", "Новая машина."]
+  },
+  {
+    "id": "word_ru_staryy",
+    "word": "старый",
+    "meaning": "old",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈstarɨj"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Старый дом.", "Старая книга."]
+  },
+  {
+    "id": "word_ru_goryachiy",
+    "word": "горячий",
+    "meaning": "hot",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ɡɐˈrʲætɕɪj"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Горячая вода.", "Горячая погода."]
+  },
+  {
+    "id": "word_ru_kholodnyy",
+    "word": "холодный",
+    "meaning": "cold",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "xɐˈlodnɨj"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Холодная вода.", "Холодная погода."]
+  },
+  {
+    "id": "word_ru_schastlivyy",
+    "word": "счастливый",
+    "meaning": "happy",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ʂːɪsˈlʲivɨj"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Я счастлив.", "Будь счастлив."]
+  },
+  {
+    "id": "word_ru_grustnyy",
+    "word": "грустный",
+    "meaning": "sad",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈɡrusːnɨj"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Он грустный.", "Не будь грустным."]
+  },
+  {
+    "id": "word_ru_vysokiy",
+    "word": "высокий",
+    "meaning": "tall/high",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "vɨˈsokʲɪj"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Высокий человек.", "Высокая гора."]
+  },
+  {
+    "id": "word_ru_nizkiy",
+    "word": "низкий",
+    "meaning": "short/low",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈnʲiskʲɪj"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Низкий человек.", "Низкая цена."]
+  },
+  {
+    "id": "word_ru_tolstyy",
+    "word": "толстый",
+    "meaning": "fat/thick",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈtolstɨj"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Толстый человек.", "Толстая книга."]
+  },
+  {
+    "id": "word_ru_tonkiy",
+    "word": "тонкий",
+    "meaning": "thin",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈtonkʲɪj"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Тонкий человек.", "Тонкая верёвка."]
+  },
+  {
+    "id": "word_ru_bystryy",
+    "word": "быстрый",
+    "meaning": "fast",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈbɨstrɨj"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Быстрая машина.", "Быстрый бег."]
+  },
+  {
+    "id": "word_ru_medlennyy",
+    "word": "медленный",
+    "meaning": "slow",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈmʲedlʲɪnːɨj"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Иди медленно.", "Медленное движение."]
+  },
+  {
+    "id": "word_ru_pravilnyy",
+    "word": "правильный",
+    "meaning": "correct/right",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈpravʲɪlʲnɨj"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Правильный ответ.", "Это правильно."]
+  }
+]

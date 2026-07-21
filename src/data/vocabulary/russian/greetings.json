@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_ru_privet",
+    "word": "привет",
+    "meaning": "hello (informal)",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "prʲɪˈvʲet"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Привет, как дела?", "Привет всем!"]
+  },
+  {
+    "id": "word_ru_zdravstvuyte",
+    "word": "здравствуйте",
+    "meaning": "hello (formal)",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈzdrastvʊjtʲɪ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Здравствуйте, господин.", "Здравствуйте, как поживаете?"]
+  },
+  {
+    "id": "word_ru_dobroye_utro",
+    "word": "доброе утро",
+    "meaning": "good morning",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈdobrəjə ˈutrə"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Доброе утро, мама.", "Доброе утро всем."]
+  },
+  {
+    "id": "word_ru_dobryy_vecher",
+    "word": "добрый вечер",
+    "meaning": "good evening",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈdobrɨj ˈvʲetɕɪr"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Добрый вечер, друзья.", "Добрый вечер, господа."]
+  },
+  {
+    "id": "word_ru_do_svidaniya",
+    "word": "до свидания",
+    "meaning": "goodbye",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "də svʲɪˈdanʲɪjə"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["До свидания, до завтра.", "До свидания, друг."]
+  },
+  {
+    "id": "word_ru_poka",
+    "word": "пока",
+    "meaning": "bye (informal)",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "pɐˈka"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Пока, увидимся!", "Пока-пока!"]
+  },
+  {
+    "id": "word_ru_spasibo",
+    "word": "спасибо",
+    "meaning": "thank you",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "spɐˈsʲibə"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Спасибо за помощь.", "Большое спасибо."]
+  },
+  {
+    "id": "word_ru_pozhaluysta",
+    "word": "пожалуйста",
+    "meaning": "please/you're welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "pɐˈʐaɫʊstə"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Пожалуйста, помогите.", "Спасибо. - Пожалуйста."]
+  },
+  {
+    "id": "word_ru_izvinite",
+    "word": "извините",
+    "meaning": "sorry/excuse me",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ɪzvʲɪˈnʲitʲɪ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Извините, я опоздал.", "Извините, можно пройти?"]
+  },
+  {
+    "id": "word_ru_spokojnoj_nochi",
+    "word": "спокойной ночи",
+    "meaning": "good night",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "spɐˈkojnəj ˈnotɕɪ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Спокойной ночи, спи хорошо.", "Спокойной ночи всем."]
+  },
+  {
+    "id": "word_ru_kak_dela",
+    "word": "как дела",
+    "meaning": "how are you",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "kak dʲɪˈla"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Привет, как дела?", "Как дела у тебя?"]
+  },
+  {
+    "id": "word_ru_khorosho",
+    "word": "хорошо",
+    "meaning": "good/well",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "xərɐˈʂo"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Хорошо, спасибо.", "Всё хорошо."]
+  },
+  {
+    "id": "word_ru_dobro_pozhalovat",
+    "word": "добро пожаловать",
+    "meaning": "welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "dɐbrɐ pɐˈʐaɫəvətʲ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Добро пожаловать в наш дом.", "Добро пожаловать!"]
+  },
+  {
+    "id": "word_ru_pozdravlyayu",
+    "word": "поздравляю",
+    "meaning": "congratulations",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "pəzdrɐˈvlʲæjʊ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Поздравляю с успехом!", "Поздравляю тебя!"]
+  },
+  {
+    "id": "word_ru_do_vstrechi",
+    "word": "до встречи",
+    "meaning": "see you later",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "də ˈfstrʲetɕɪ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["До встречи завтра.", "До встречи!"]
+  }
+]

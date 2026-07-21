@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_mr_khup",
+    "word": "खूप",
+    "meaning": "very",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kʰuːp"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["खूप चांगले.", "खूप वेगाने."]
+  },
+  {
+    "id": "word_mr_pan",
+    "word": "पण",
+    "meaning": "also",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "pəɳ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["मी पण.", "तो पण जातो."]
+  },
+  {
+    "id": "word_mr_phakta",
+    "word": "फक्त",
+    "meaning": "only",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "pʰəkt̪ə"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["फक्त एक.", "फक्त तू."]
+  },
+  {
+    "id": "word_mr_nehmi",
+    "word": "नेहमी",
+    "meaning": "always",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "neːhmiː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["नेहमी चांगले.", "नेहमी येतो."]
+  },
+  {
+    "id": "word_mr_kadhi_nahi",
+    "word": "कधी नाही",
+    "meaning": "never",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kəd̪ʱiː naːhiː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["कधी नाही उशीर.", "कधी नाही विसरतो."]
+  },
+  {
+    "id": "word_mr_kadhi_kadhi",
+    "word": "कधी कधी",
+    "meaning": "sometimes",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kəd̪ʱiː kəd̪ʱiː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["कधी कधी.", "कधी कधी जातो."]
+  },
+  {
+    "id": "word_mr_anek_vela",
+    "word": "अनेक वेळा",
+    "meaning": "often",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ənekə ʋeːɭaː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["अनेक वेळा येतो.", "अनेक वेळा येथे."]
+  },
+  {
+    "id": "word_mr_aata",
+    "word": "आता",
+    "meaning": "now",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "aːt̪aː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["आता जा.", "आतापासून."]
+  },
+  {
+    "id": "word_mr_nantar",
+    "word": "नंतर",
+    "meaning": "later",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "nənt̪əɾ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["नंतर करा.", "नंतर भेटू."]
+  },
+  {
+    "id": "word_mr_kal",
+    "word": "काल",
+    "meaning": "yesterday",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kaːl"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["काल संध्याकाळी.", "कालपासून."]
+  },
+  {
+    "id": "word_mr_udya",
+    "word": "उद्या",
+    "meaning": "tomorrow",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ud̪jaː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["उद्या सकाळी.", "उद्या भेटू."]
+  },
+  {
+    "id": "word_mr_aadhi",
+    "word": "आधी",
+    "meaning": "already",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "aːd̪ʱiː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["आधी केले.", "आधी खाल्ले."]
+  },
+  {
+    "id": "word_mr_ajun_nahi",
+    "word": "अजून नाही",
+    "meaning": "not yet",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "əd͡ʒuːn naːhiː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["अजून नाही केले.", "अजून नाही खाल्ले."]
+  },
+  {
+    "id": "word_mr_kadachit",
+    "word": "कदाचित",
+    "meaning": "maybe",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kəd̪aːt͡ʃit̪"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["कदाचित होय.", "कदाचित नाही."]
+  },
+  {
+    "id": "word_mr_nakkichi",
+    "word": "नक्कीच",
+    "meaning": "certainly",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "nəkkiːt͡ʃ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["नक्कीच.", "नक्कीच नाही."]
+  }
+]

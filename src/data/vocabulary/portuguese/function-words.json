@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_pt_eu",
+    "word": "eu",
+    "meaning": "I",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ew"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Eu vou.", "Eu estou bem."]
+  },
+  {
+    "id": "word_pt_voce",
+    "word": "você",
+    "meaning": "you",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "voˈse"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Você está aqui.", "Como vai você?"]
+  },
+  {
+    "id": "word_pt_ele",
+    "word": "ele",
+    "meaning": "he",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈeli"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ele é estudante.", "Ele está aqui."]
+  },
+  {
+    "id": "word_pt_ela",
+    "word": "ela",
+    "meaning": "she",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈelɐ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ela é professora.", "Ela é bonita."]
+  },
+  {
+    "id": "word_pt_nos",
+    "word": "nós",
+    "meaning": "we",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "nɔs"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Nós somos estudantes.", "Nós estamos aqui."]
+  },
+  {
+    "id": "word_pt_voces",
+    "word": "vocês",
+    "meaning": "you (plural)",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "voˈses"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Vocês são estudantes.", "Como vão vocês?"]
+  },
+  {
+    "id": "word_pt_eles",
+    "word": "eles/elas",
+    "meaning": "they",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈelis"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Eles são amigos.", "Eles estão aqui."]
+  },
+  {
+    "id": "word_pt_o_que",
+    "word": "o que",
+    "meaning": "what",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "u ki"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["O que é isso?", "Qual é seu nome?"]
+  },
+  {
+    "id": "word_pt_quem",
+    "word": "quem",
+    "meaning": "who",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "kẽj"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Quem é isso?", "Quem é você?"]
+  },
+  {
+    "id": "word_pt_onde",
+    "word": "onde",
+    "meaning": "where",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈõd͡ʒi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Onde você está?", "Onde é a casa?"]
+  },
+  {
+    "id": "word_pt_quando",
+    "word": "quando",
+    "meaning": "when",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈkwɐ̃du"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Quando você vem?", "Quando aconteceu?"]
+  },
+  {
+    "id": "word_pt_como",
+    "word": "como",
+    "meaning": "how",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈkomu"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Como vai?", "Como fazer isso?"]
+  },
+  {
+    "id": "word_pt_por_que",
+    "word": "por que",
+    "meaning": "why",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "puʁ ˈke"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Por que você vai?", "Por que não?"]
+  },
+  {
+    "id": "word_pt_e",
+    "word": "e",
+    "meaning": "and",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "i"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Eu e você.", "Pai e mãe."]
+  },
+  {
+    "id": "word_pt_ou",
+    "word": "ou",
+    "meaning": "or",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "o"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Chá ou café?", "Isso ou aquilo?"]
+  },
+  {
+    "id": "word_pt_mas",
+    "word": "mas",
+    "meaning": "but",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "majs"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Bom, mas caro.", "Quero, mas não posso."]
+  },
+  {
+    "id": "word_pt_se",
+    "word": "se",
+    "meaning": "if",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "si"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Se você vier.", "Se possível."]
+  },
+  {
+    "id": "word_pt_nao",
+    "word": "não",
+    "meaning": "no/not",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "nɐ̃w"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Não, obrigado.", "Não vou."]
+  },
+  {
+    "id": "word_pt_sim",
+    "word": "sim",
+    "meaning": "yes",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "sĩ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Sim, bom.", "Sim, vou."]
+  },
+  {
+    "id": "word_pt_a",
+    "word": "a",
+    "meaning": "the (feminine)",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ɐ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["A casa.", "A escola."]
+  }
+]

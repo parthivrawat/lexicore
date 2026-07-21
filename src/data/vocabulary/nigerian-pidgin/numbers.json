@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_pcm_zero",
+    "word": "Zero",
+    "meaning": "zero",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "ziːroː"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Zero mark.", "Zero degree."]
+  },
+  {
+    "id": "word_pcm_one",
+    "word": "One",
+    "meaning": "one",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "wʌn"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["One apple.", "First."]
+  },
+  {
+    "id": "word_pcm_two",
+    "word": "Two",
+    "meaning": "two",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "tuː"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Two books.", "Second."]
+  },
+  {
+    "id": "word_pcm_three",
+    "word": "Three",
+    "meaning": "three",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "θriː"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Three people.", "Third."]
+  },
+  {
+    "id": "word_pcm_four",
+    "word": "Four",
+    "meaning": "four",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "fɔː"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Four days.", "Fourth."]
+  },
+  {
+    "id": "word_pcm_five",
+    "word": "Five",
+    "meaning": "five",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "faɪv"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Five naira.", "Fifth."]
+  },
+  {
+    "id": "word_pcm_six",
+    "word": "Six",
+    "meaning": "six",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "sɪks"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Six months.", "Sixth."]
+  },
+  {
+    "id": "word_pcm_seven",
+    "word": "Seven",
+    "meaning": "seven",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "sɛvən"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Seven days.", "Seventh."]
+  },
+  {
+    "id": "word_pcm_eight",
+    "word": "Eight",
+    "meaning": "eight",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "eɪt"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Eight o'clock.", "Eighth."]
+  },
+  {
+    "id": "word_pcm_nine",
+    "word": "Nine",
+    "meaning": "nine",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "naɪn"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Nine people.", "Ninth."]
+  },
+  {
+    "id": "word_pcm_ten",
+    "word": "Ten",
+    "meaning": "ten",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "tɛn"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Ten naira.", "Tenth."]
+  },
+  {
+    "id": "word_pcm_hundred",
+    "word": "Hundred",
+    "meaning": "hundred",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "hʌndrəd"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["One hundred naira.", "One hundred."]
+  },
+  {
+    "id": "word_pcm_thousand",
+    "word": "Thousand",
+    "meaning": "thousand",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "θaʊzənd"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["One thousand.", "Two thousand."]
+  },
+  {
+    "id": "word_pcm_million",
+    "word": "Million",
+    "meaning": "million",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "mɪljən"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["One million.", "Two million."]
+  },
+  {
+    "id": "word_pcm_half",
+    "word": "Half",
+    "meaning": "half",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "hɑːf"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Half hour.", "Half part."]
+  }
+]

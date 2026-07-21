@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_ur_hona",
+    "word": "ہونا",
+    "meaning": "to be",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "hoːnɑː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["میں ڈاکٹر بننا چاہتا ہوں۔", "یہ ہے۔"]
+  },
+  {
+    "id": "word_ur_karna",
+    "word": "کرنا",
+    "meaning": "to do",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "kərnɑː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["کیا کرنا ہے؟", "میں کام کرتا ہوں۔"]
+  },
+  {
+    "id": "word_ur_jana",
+    "word": "جانا",
+    "meaning": "to go",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "d͡ʒɑːnɑː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["میں اسکول جاتا ہوں۔", "کہاں جا رہے ہو؟"]
+  },
+  {
+    "id": "word_ur_aana",
+    "word": "آنا",
+    "meaning": "to come",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ɑːnɑː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["یہاں آؤ۔", "وہ کل آئے گا۔"]
+  },
+  {
+    "id": "word_ur_khana",
+    "word": "کھانا",
+    "meaning": "to eat",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "kʰɑːnɑː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["میں کھانا کھاتا ہوں۔", "کھانا چاہتے ہو؟"]
+  },
+  {
+    "id": "word_ur_peena",
+    "word": "پینا",
+    "meaning": "to drink",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "piːnɑː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["پانی پیو۔", "پینا چاہتے ہو؟"]
+  },
+  {
+    "id": "word_ur_dekhna",
+    "word": "دیکھنا",
+    "meaning": "to see",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "deːkʰnɑː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["میں تمہیں دیکھ رہا ہوں۔", "یہ دیکھ رہے ہو؟"]
+  },
+  {
+    "id": "word_ur_sunna",
+    "word": "سننا",
+    "meaning": "to hear",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "sʊnnɑː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["میں آواز سن رہا ہوں۔", "تم سن رہے ہو؟"]
+  },
+  {
+    "id": "word_ur_bolna",
+    "word": "بولنا",
+    "meaning": "to speak",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "boːlnɑː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["اردو بولو۔", "سچ بولو۔"]
+  },
+  {
+    "id": "word_ur_parhna",
+    "word": "پڑھنا",
+    "meaning": "to read",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "pəɽʰnɑː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["کتاب پڑھو۔", "میں پڑھ رہا ہوں۔"]
+  },
+  {
+    "id": "word_ur_likhna",
+    "word": "لکھنا",
+    "meaning": "to write",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "lɪkʰnɑː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["خط لکھو۔", "نام لکھو۔"]
+  },
+  {
+    "id": "word_ur_dena",
+    "word": "دینا",
+    "meaning": "to give",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "deːnɑː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["مجھے کتاب دو۔", "پانی دو۔"]
+  },
+  {
+    "id": "word_ur_lena",
+    "word": "لینا",
+    "meaning": "to take",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "leːnɑː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["یہ لو۔", "میں لے رہا ہوں۔"]
+  },
+  {
+    "id": "word_ur_sona",
+    "word": "سونا",
+    "meaning": "to sleep",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "soːnɑː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["اچھی نیند آئے۔", "میں سو رہا ہوں۔"]
+  },
+  {
+    "id": "word_ur_jagana",
+    "word": "جاگنا",
+    "meaning": "to wake up",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "d͡ʒɑːɡnɑː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["جلدی جاگو۔", "میں جاگ رہا ہوں۔"]
+  },
+  {
+    "id": "word_ur_baithna",
+    "word": "بیٹھنا",
+    "meaning": "to sit",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "bəiʈʰnɑː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["یہاں بیٹھو۔", "میں بیٹھا ہوں۔"]
+  },
+  {
+    "id": "word_ur_khara_hona",
+    "word": "کھڑا ہونا",
+    "meaning": "to stand",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "kʰəɽɑː hoːnɑː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["یہاں کھڑے ہو۔", "وہ کھڑا ہے۔"]
+  },
+  {
+    "id": "word_ur_chalna",
+    "word": "چلنا",
+    "meaning": "to walk",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "t͡ʃəlnɑː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["آہستہ چلو۔", "میں چل رہا ہوں۔"]
+  },
+  {
+    "id": "word_ur_daurna",
+    "word": "دوڑنا",
+    "meaning": "to run",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "dəʊɽnɑː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["تیز دوڑو۔", "وہ دوڑ رہا ہے۔"]
+  },
+  {
+    "id": "word_ur_hansna",
+    "word": "ہنسنا",
+    "meaning": "to laugh",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "həsnɑː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["زیادہ ہنسو۔", "وہ ہنس رہا ہے۔"]
+  },
+  {
+    "id": "word_ur_rona",
+    "word": "رونا",
+    "meaning": "to cry",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "roːnɑː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["مت رو۔", "بچہ رو رہا ہے۔"]
+  },
+  {
+    "id": "word_ur_samajhna",
+    "word": "سمجھنا",
+    "meaning": "to understand",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "səməd͡ʒʰnɑː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["میں سمجھتا ہوں۔", "تم سمجھتے ہو؟"]
+  },
+  {
+    "id": "word_ur_chahna",
+    "word": "چاہنا",
+    "meaning": "to want",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "t͡ʃɑːhnɑː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["میں جانا چاہتا ہوں۔", "کیا چاہتے ہو؟"]
+  },
+  {
+    "id": "word_ur_pyar_karna",
+    "word": "پیار کرنا",
+    "meaning": "to love",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "pjɑːr kərnɑː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["میں تم سے پیار کرتا ہوں۔", "خاندان سے پیار کرو۔"]
+  },
+  {
+    "id": "word_ur_kaam_karna",
+    "word": "کام کرنا",
+    "meaning": "to work",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "kɑːm kərnɑː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["محنت سے کام کرو۔", "میں دفتر میں کام کرتا ہوں۔"]
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_zh_wo",
+    "word": "我",
+    "meaning": "I",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "wɔ˨˩˦"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["我去。", "我很好。"]
+  },
+  {
+    "id": "word_zh_ni",
+    "word": "你",
+    "meaning": "you",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ni˨˩˦"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["你在哪儿？", "你好吗？"]
+  },
+  {
+    "id": "word_zh_nin",
+    "word": "您",
+    "meaning": "you (formal)",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "nin˨˩"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["您好。", "您在哪儿？"]
+  },
+  {
+    "id": "word_zh_ta_he",
+    "word": "他",
+    "meaning": "he",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tʰa˥"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["他是学生。", "他在这里。"]
+  },
+  {
+    "id": "word_zh_ta_she",
+    "word": "她",
+    "meaning": "she",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tʰa˥"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["她是老师。", "她很漂亮。"]
+  },
+  {
+    "id": "word_zh_women",
+    "word": "我们",
+    "meaning": "we",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "wɔ˨˩˦mən˥"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["我们是学生。", "我们在这里。"]
+  },
+  {
+    "id": "word_zh_nimen",
+    "word": "你们",
+    "meaning": "you (plural)",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ni˨˩˦mən˥"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["你们是学生。", "你们好吗？"]
+  },
+  {
+    "id": "word_zh_tamen",
+    "word": "他们",
+    "meaning": "they",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tʰa˥mən˥"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["他们是朋友。", "他们在这里。"]
+  },
+  {
+    "id": "word_zh_shenme",
+    "word": "什么",
+    "meaning": "what",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ʂən˨˩mə˥"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["这是什么？", "你叫什么？"]
+  },
+  {
+    "id": "word_zh_shei",
+    "word": "谁",
+    "meaning": "who",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ʂei˨˩"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["这是谁？", "你是谁？"]
+  },
+  {
+    "id": "word_zh_nar",
+    "word": "哪儿",
+    "meaning": "where",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "na˨˩ɚ˥˩"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["你在哪儿？", "家在哪儿？"]
+  },
+  {
+    "id": "word_zh_shenme_shihou",
+    "word": "什么时候",
+    "meaning": "when",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ʂən˨˩mə˥ʂɿ˨˩xou˥˩"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["什么时候来？", "什么时候发生的？"]
+  },
+  {
+    "id": "word_zh_zenme",
+    "word": "怎么",
+    "meaning": "how",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tsən˨˩mə˥"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["怎么样？", "怎么做？"]
+  },
+  {
+    "id": "word_zh_weishenme",
+    "word": "为什么",
+    "meaning": "why",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "wei˥˩ʂən˨˩mə˥"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["为什么去？", "为什么不？"]
+  },
+  {
+    "id": "word_zh_he",
+    "word": "和",
+    "meaning": "and",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "xɤ˨˩"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["我和你。", "爸爸和妈妈。"]
+  },
+  {
+    "id": "word_zh_huozhe",
+    "word": "或者",
+    "meaning": "or",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "xwɔ˥˩ʈʂɤ˨˩˦"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["茶或者咖啡？", "这个或者那个？"]
+  },
+  {
+    "id": "word_zh_danshi",
+    "word": "但是",
+    "meaning": "but",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tan˥˩ʂɿ˥˩"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["好但是贵。", "我想但是不能。"]
+  },
+  {
+    "id": "word_zh_ruguo",
+    "word": "如果",
+    "meaning": "if",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ʐu˨˩kwɔ˨˩˦"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["如果你来。", "如果可能。"]
+  },
+  {
+    "id": "word_zh_bu",
+    "word": "不",
+    "meaning": "no/not",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "pu˥˩"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["不，谢谢。", "我不去。"]
+  },
+  {
+    "id": "word_zh_dui_yes",
+    "word": "对",
+    "meaning": "yes/correct",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "twei˥˩"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["对，好的。", "对，我去。"]
+  }
+]

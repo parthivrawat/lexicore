@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_zh_jia",
+    "word": "家",
+    "meaning": "home/house",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tɕja˥"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["我回家。", "这是我家。"]
+  },
+  {
+    "id": "word_zh_shui",
+    "word": "水",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ʂwei˨˩˦"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["喝水。", "水很热。"]
+  },
+  {
+    "id": "word_zh_fan",
+    "word": "饭",
+    "meaning": "food/rice",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "fan˥˩"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["吃饭。", "饭好了。"]
+  },
+  {
+    "id": "word_zh_shu",
+    "word": "书",
+    "meaning": "book",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ʂu˥"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["读书。", "这本书很好。"]
+  },
+  {
+    "id": "word_zh_bi",
+    "word": "笔",
+    "meaning": "pen",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "pi˨˩˦"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["给我笔。", "我的笔丢了。"]
+  },
+  {
+    "id": "word_zh_zhi",
+    "word": "纸",
+    "meaning": "paper",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ʈʂɿ˨˩˦"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["在纸上写。", "需要纸。"]
+  },
+  {
+    "id": "word_zh_men",
+    "word": "门",
+    "meaning": "door",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "mən˨˩"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["开门。", "关门。"]
+  },
+  {
+    "id": "word_zh_chuanghu",
+    "word": "窗户",
+    "meaning": "window",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ʈʂʰwɑŋ˥xu˥˩"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["开窗户。", "窗户坏了。"]
+  },
+  {
+    "id": "word_zh_yizi",
+    "word": "椅子",
+    "meaning": "chair",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "i˨˩˦tsɿ˥"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["坐在椅子上。", "椅子很舒服。"]
+  },
+  {
+    "id": "word_zh_zhuozi",
+    "word": "桌子",
+    "meaning": "table",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ʈʂwɔ˥tsɿ˥"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["放在桌子上。", "桌子很干净。"]
+  },
+  {
+    "id": "word_zh_chuang",
+    "word": "床",
+    "meaning": "bed",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ʈʂʰwɑŋ˨˩"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["睡在床上。", "床很舒服。"]
+  },
+  {
+    "id": "word_zh_yifu",
+    "word": "衣服",
+    "meaning": "clothes",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "i˥fu˥˩"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["穿衣服。", "洗衣服。"]
+  },
+  {
+    "id": "word_zh_xie",
+    "word": "鞋",
+    "meaning": "shoes",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ɕjɛ˨˩"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["穿鞋。", "脱鞋。"]
+  },
+  {
+    "id": "word_zh_che",
+    "word": "车",
+    "meaning": "car/vehicle",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ʈʂʰɤ˥"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["开车。", "车来了。"]
+  },
+  {
+    "id": "word_zh_dianhua",
+    "word": "电话",
+    "meaning": "phone",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tjɛn˥˩xwa˥˩"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["打电话。", "电话响了。"]
+  },
+  {
+    "id": "word_zh_diannao",
+    "word": "电脑",
+    "meaning": "computer",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tjɛn˥˩nɑʊ˨˩˦"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["用电脑。", "电脑很快。"]
+  },
+  {
+    "id": "word_zh_xuexiao",
+    "word": "学校",
+    "meaning": "school",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ɕɥɛ˨˩ɕjɑʊ˥˩"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["去学校。", "学校很近。"]
+  },
+  {
+    "id": "word_zh_pengyou",
+    "word": "朋友",
+    "meaning": "friend",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "pʰəŋ˨˩jou˨˩˦"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["他是我朋友。", "好朋友。"]
+  },
+  {
+    "id": "word_zh_jiating",
+    "word": "家庭",
+    "meaning": "family",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tɕja˥tʰiŋ˨˩"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["我的家庭很大。", "爱家庭。"]
+  },
+  {
+    "id": "word_zh_mama",
+    "word": "妈妈",
+    "meaning": "mother",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ma˥ma˥"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["妈妈在家。", "妈妈的爱。"]
+  },
+  {
+    "id": "word_zh_baba",
+    "word": "爸爸",
+    "meaning": "father",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "pa˥pa˥"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["爸爸在工作。", "尊敬爸爸。"]
+  },
+  {
+    "id": "word_zh_gege",
+    "word": "哥哥",
+    "meaning": "older brother",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "kɤ˥kɤ˥"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["我哥哥。", "和哥哥玩。"]
+  },
+  {
+    "id": "word_zh_jiejie",
+    "word": "姐姐",
+    "meaning": "older sister",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tɕjɛ˨˩˦tɕjɛ˥"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["我姐姐。", "姐姐很好。"]
+  },
+  {
+    "id": "word_zh_tian",
+    "word": "天",
+    "meaning": "day/sky",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tʰjɛn˥"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["今天。", "天很蓝。"]
+  },
+  {
+    "id": "word_zh_ye",
+    "word": "夜",
+    "meaning": "night",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "jɛ˥˩"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["夜晚。", "在夜里。"]
+  }
+]

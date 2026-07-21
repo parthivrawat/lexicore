@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_ja_ie",
+    "word": "家",
+    "meaning": "home/house",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ie"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["家に帰る。", "これは私の家です。"]
+  },
+  {
+    "id": "word_ja_mizu",
+    "word": "水",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "mizɯ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["水を飲む。", "水は熱い。"]
+  },
+  {
+    "id": "word_ja_gohan",
+    "word": "ご飯",
+    "meaning": "food/rice",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ɡohaɴ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["ご飯ができた。", "ご飯を食べる。"]
+  },
+  {
+    "id": "word_ja_hon",
+    "word": "本",
+    "meaning": "book",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "hoɴ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["本を読む。", "この本は良い。"]
+  },
+  {
+    "id": "word_ja_pen",
+    "word": "ペン",
+    "meaning": "pen",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "peɴ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["ペンをください。", "私のペンがなくなった。"]
+  },
+  {
+    "id": "word_ja_kami",
+    "word": "紙",
+    "meaning": "paper",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "kami"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["紙に書く。", "紙が必要。"]
+  },
+  {
+    "id": "word_ja_doa",
+    "word": "ドア",
+    "meaning": "door",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "doa"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["ドアを開ける。", "ドアを閉める。"]
+  },
+  {
+    "id": "word_ja_mado",
+    "word": "窓",
+    "meaning": "window",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "mado"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["窓を開ける。", "窓が壊れた。"]
+  },
+  {
+    "id": "word_ja_isu",
+    "word": "椅子",
+    "meaning": "chair",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "isɯ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["椅子に座る。", "椅子は快適。"]
+  },
+  {
+    "id": "word_ja_tsukue",
+    "word": "机",
+    "meaning": "table/desk",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "tsɯkɯe"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["机の上に置く。", "机はきれい。"]
+  },
+  {
+    "id": "word_ja_beddo",
+    "word": "ベッド",
+    "meaning": "bed",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "beddo"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["ベッドで寝る。", "ベッドは快適。"]
+  },
+  {
+    "id": "word_ja_fuku",
+    "word": "服",
+    "meaning": "clothes",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ɸɯkɯ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["服を着る。", "服を洗う。"]
+  },
+  {
+    "id": "word_ja_kutsu",
+    "word": "靴",
+    "meaning": "shoes",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "kɯtsɯ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["靴を履く。", "靴を脱ぐ。"]
+  },
+  {
+    "id": "word_ja_kuruma",
+    "word": "車",
+    "meaning": "car",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "kɯɾɯma"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["車を運転する。", "車が来た。"]
+  },
+  {
+    "id": "word_ja_denwa",
+    "word": "電話",
+    "meaning": "phone",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "deɴwa"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["電話をかける。", "電話が鳴っている。"]
+  },
+  {
+    "id": "word_ja_pasokon",
+    "word": "パソコン",
+    "meaning": "computer",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "pasokoɴ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["パソコンを使う。", "パソコンは速い。"]
+  },
+  {
+    "id": "word_ja_gakkou",
+    "word": "学校",
+    "meaning": "school",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ɡakkoː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["学校に行く。", "学校は近い。"]
+  },
+  {
+    "id": "word_ja_tomodachi",
+    "word": "友達",
+    "meaning": "friend",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "tomodat͡ɕi"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["彼は私の友達。", "良い友達。"]
+  },
+  {
+    "id": "word_ja_kazoku",
+    "word": "家族",
+    "meaning": "family",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "kazokɯ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["私の家族は大きい。", "家族を愛する。"]
+  },
+  {
+    "id": "word_ja_haha",
+    "word": "母",
+    "meaning": "mother",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "haha"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["母は家にいる。", "母の愛。"]
+  },
+  {
+    "id": "word_ja_chichi",
+    "word": "父",
+    "meaning": "father",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "t͡ɕit͡ɕi"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["父は仕事中。", "父を尊敬する。"]
+  },
+  {
+    "id": "word_ja_ani",
+    "word": "兄",
+    "meaning": "older brother",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "aɲi"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["私の兄。", "兄と遊ぶ。"]
+  },
+  {
+    "id": "word_ja_ane",
+    "word": "姉",
+    "meaning": "older sister",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ane"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["私の姉。", "姉は良い。"]
+  },
+  {
+    "id": "word_ja_hi",
+    "word": "日",
+    "meaning": "day",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "çi"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["今日は良い日。", "新しい日。"]
+  },
+  {
+    "id": "word_ja_yoru",
+    "word": "夜",
+    "meaning": "night",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "joɾɯ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["夜が来た。", "夜に寝る。"]
+  }
+]

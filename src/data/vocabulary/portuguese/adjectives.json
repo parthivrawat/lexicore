@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_pt_bom",
+    "word": "bom",
+    "meaning": "good",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "bõ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Bom dia.", "Boa pessoa."]
+  },
+  {
+    "id": "word_pt_mau",
+    "word": "mau",
+    "meaning": "bad",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "maw"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Mau dia.", "Mau tempo."]
+  },
+  {
+    "id": "word_pt_grande",
+    "word": "grande",
+    "meaning": "big/large",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈɡɾɐ̃d͡ʒi"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Grande casa.", "Ele é grande."]
+  },
+  {
+    "id": "word_pt_pequeno",
+    "word": "pequeno",
+    "meaning": "small",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "peˈkenu"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Pequena criança.", "Pequeno quarto."]
+  },
+  {
+    "id": "word_pt_bonito",
+    "word": "bonito",
+    "meaning": "beautiful",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "boˈnitu"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Bonita vista.", "Bonita menina."]
+  },
+  {
+    "id": "word_pt_sujo",
+    "word": "sujo",
+    "meaning": "dirty",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈsuʒu"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Roupa suja.", "O quarto está sujo."]
+  },
+  {
+    "id": "word_pt_limpo",
+    "word": "limpo",
+    "meaning": "clean",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈlĩpu"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Casa limpa.", "Água limpa."]
+  },
+  {
+    "id": "word_pt_novo",
+    "word": "novo",
+    "meaning": "new",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈnovu"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Novo livro.", "Novo carro."]
+  },
+  {
+    "id": "word_pt_velho",
+    "word": "velho",
+    "meaning": "old",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈveʎu"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Velha casa.", "Velho livro."]
+  },
+  {
+    "id": "word_pt_quente",
+    "word": "quente",
+    "meaning": "hot",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈkẽt͡ʃi"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Água quente.", "Tempo quente."]
+  },
+  {
+    "id": "word_pt_frio",
+    "word": "frio",
+    "meaning": "cold",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈfɾiu"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Água fria.", "Tempo frio."]
+  },
+  {
+    "id": "word_pt_feliz",
+    "word": "feliz",
+    "meaning": "happy",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "feˈlis"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Estou feliz.", "Seja feliz."]
+  },
+  {
+    "id": "word_pt_triste",
+    "word": "triste",
+    "meaning": "sad",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈtɾist͡ʃi"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Ele está triste.", "Não fique triste."]
+  },
+  {
+    "id": "word_pt_alto",
+    "word": "alto",
+    "meaning": "tall/high",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈawtu"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Pessoa alta.", "Montanha alta."]
+  },
+  {
+    "id": "word_pt_baixo",
+    "word": "baixo",
+    "meaning": "short/low",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈbajʃu"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Pessoa baixa.", "Preço baixo."]
+  },
+  {
+    "id": "word_pt_gordo",
+    "word": "gordo",
+    "meaning": "fat",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈɡoʁdu"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Pessoa gorda.", "Livro gordo."]
+  },
+  {
+    "id": "word_pt_magro",
+    "word": "magro",
+    "meaning": "thin",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈmaɡɾu"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Pessoa magra.", "Corda fina."]
+  },
+  {
+    "id": "word_pt_rapido",
+    "word": "rápido",
+    "meaning": "fast",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈʁapidu"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Carro rápido.", "Corrida rápida."]
+  },
+  {
+    "id": "word_pt_lento",
+    "word": "lento",
+    "meaning": "slow",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈlẽtu"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Vá devagar.", "Movimento lento."]
+  },
+  {
+    "id": "word_pt_certo",
+    "word": "certo",
+    "meaning": "correct/right",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈseʁtu"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Resposta certa.", "Isso está certo."]
+  }
+]

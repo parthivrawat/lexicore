@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_tr_sifir",
+    "word": "sıfır",
+    "meaning": "zero",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "sɯfɯɾ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Sıfır derece.", "Sıfırdan başla."]
+  },
+  {
+    "id": "word_tr_bir",
+    "word": "bir",
+    "meaning": "one",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "biɾ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Bir kişi.", "Bende bir var."]
+  },
+  {
+    "id": "word_tr_iki",
+    "word": "iki",
+    "meaning": "two",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ici"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["İki artı üç.", "Bende iki var."]
+  },
+  {
+    "id": "word_tr_uc",
+    "word": "üç",
+    "meaning": "three",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ytʃ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Üç gün.", "Üç kitap."]
+  },
+  {
+    "id": "word_tr_dort",
+    "word": "dört",
+    "meaning": "four",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "døɾt"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Dört kişi.", "Dört mevsim."]
+  },
+  {
+    "id": "word_tr_bes",
+    "word": "beş",
+    "meaning": "five",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "beʃ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Beş lira.", "Saat beş."]
+  },
+  {
+    "id": "word_tr_alti",
+    "word": "altı",
+    "meaning": "six",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɑltɯ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Altı ay.", "Altı kitap."]
+  },
+  {
+    "id": "word_tr_yedi",
+    "word": "yedi",
+    "meaning": "seven",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "jedi"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Yedi gün.", "Yedi kişi."]
+  },
+  {
+    "id": "word_tr_sekiz",
+    "word": "sekiz",
+    "meaning": "eight",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "seciz"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Sekiz kilo.", "Sekiz saat."]
+  },
+  {
+    "id": "word_tr_dokuz",
+    "word": "dokuz",
+    "meaning": "nine",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "docuz"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Dokuz ay.", "Dokuz kitap."]
+  },
+  {
+    "id": "word_tr_on",
+    "word": "on",
+    "meaning": "ten",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "on"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["On lira.", "On yıl."]
+  },
+  {
+    "id": "word_tr_yirmi",
+    "word": "yirmi",
+    "meaning": "twenty",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "jiɾmi"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Yirmi kişi.", "Yirmi lira."]
+  },
+  {
+    "id": "word_tr_elli",
+    "word": "elli",
+    "meaning": "fifty",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "elːi"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Yüzde elli.", "Elli lira."]
+  },
+  {
+    "id": "word_tr_yuz",
+    "word": "yüz",
+    "meaning": "hundred",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "jyz"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Yüz lira.", "Yüz yıl."]
+  },
+  {
+    "id": "word_tr_bin",
+    "word": "bin",
+    "meaning": "thousand",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "bin"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Bin lira.", "Bin kişi."]
+  }
+]

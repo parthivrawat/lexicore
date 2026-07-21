@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_vi_nhanh_adv",
+    "word": "nhanh",
+    "meaning": "quickly",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɲaɲ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Đến nhanh.", "Chạy nhanh."]
+  },
+  {
+    "id": "word_vi_cham_adv",
+    "word": "chậm",
+    "meaning": "slowly",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "t͡ɕam"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Đi chậm.", "Nói chậm."]
+  },
+  {
+    "id": "word_vi_rat",
+    "word": "rất",
+    "meaning": "very",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "zat"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Rất tốt.", "Rất nhiều."]
+  },
+  {
+    "id": "word_vi_mot_chut",
+    "word": "một chút",
+    "meaning": "a little",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "mot t͡ɕut"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Đợi một chút.", "Cho một chút."]
+  },
+  {
+    "id": "word_vi_luon_luon",
+    "word": "luôn luôn",
+    "meaning": "always",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "luən luən"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Luôn vui.", "Anh ấy luôn đến."]
+  },
+  {
+    "id": "word_vi_doi_khi",
+    "word": "đôi khi",
+    "meaning": "sometimes",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɗoj xi"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Đôi khi tôi đi.", "Đôi khi mưa."]
+  },
+  {
+    "id": "word_vi_khong_bao_gio",
+    "word": "không bao giờ",
+    "meaning": "never",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "xoŋ ɓaːw zə"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Tôi không bao giờ đi.", "Không bao giờ."]
+  },
+  {
+    "id": "word_vi_hom_nay",
+    "word": "hôm nay",
+    "meaning": "today",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "hom naj"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Hôm nay tốt.", "Tôi đi hôm nay."]
+  },
+  {
+    "id": "word_vi_ngay_mai",
+    "word": "ngày mai",
+    "meaning": "tomorrow",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ŋaːj maːj"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Hẹn gặp lại ngày mai.", "Tôi sẽ đi ngày mai."]
+  },
+  {
+    "id": "word_vi_hom_qua",
+    "word": "hôm qua",
+    "meaning": "yesterday",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "hom kwaː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Hôm qua tốt.", "Tôi đã thấy hôm qua."]
+  },
+  {
+    "id": "word_vi_bay_gio",
+    "word": "bây giờ",
+    "meaning": "now",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɓaj zə"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Đến bây giờ.", "Bây giờ tôi hiểu."]
+  },
+  {
+    "id": "word_vi_day",
+    "word": "đây",
+    "meaning": "here",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɗaj"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Đến đây.", "Ngồi đây."]
+  },
+  {
+    "id": "word_vi_do",
+    "word": "đó",
+    "meaning": "there",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɗo"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Đi đó.", "Ở đó."]
+  },
+  {
+    "id": "word_vi_trong",
+    "word": "trong",
+    "meaning": "inside",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "t͡ɕoŋ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Vào trong.", "Trong nhà."]
+  },
+  {
+    "id": "word_vi_ngoai",
+    "word": "ngoài",
+    "meaning": "outside",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ŋwaːj"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Ra ngoài.", "Ngoài nhà."]
+  },
+  {
+    "id": "word_vi_tren",
+    "word": "trên",
+    "meaning": "up/above",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "t͡ɕen"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Nhìn lên trên.", "Ở trên."]
+  },
+  {
+    "id": "word_vi_duoi",
+    "word": "dưới",
+    "meaning": "down/below",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "zuəj"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Nhìn xuống dưới.", "Ở dưới."]
+  },
+  {
+    "id": "word_vi_truoc",
+    "word": "trước",
+    "meaning": "in front",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "t͡ɕuək"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Đứng trước.", "Trước nhà."]
+  },
+  {
+    "id": "word_vi_sau",
+    "word": "sau",
+    "meaning": "behind",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ʂaːw"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Nhìn ra sau.", "Sau cửa."]
+  },
+  {
+    "id": "word_vi_cung_nhau",
+    "word": "cùng nhau",
+    "meaning": "together",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "kuŋ ɲaːw"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Đi cùng nhau.", "Làm việc cùng nhau."]
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_hi_mein",
+    "word": "में",
+    "meaning": "in",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "mẽː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["घर में।", "किताब में।"]
+  },
+  {
+    "id": "word_hi_par",
+    "word": "पर",
+    "meaning": "on/at",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "pər"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["मेज़ पर।", "स्कूल पर।"]
+  },
+  {
+    "id": "word_hi_se",
+    "word": "से",
+    "meaning": "from/with",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "seː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["दिल्ली से।", "कलम से लिखो।"]
+  },
+  {
+    "id": "word_hi_ko",
+    "word": "को",
+    "meaning": "to",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "koː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["उसको दो।", "स्कूल को जाओ।"]
+  },
+  {
+    "id": "word_hi_ke_liye",
+    "word": "के लिए",
+    "meaning": "for",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "keː lɪeː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["तुम्हारे लिए।", "मेरे लिए।"]
+  },
+  {
+    "id": "word_hi_ke_saath",
+    "word": "के साथ",
+    "meaning": "with",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "keː saːt̪ʰ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["मेरे साथ।", "दोस्त के साथ।"]
+  },
+  {
+    "id": "word_hi_ke_bina",
+    "word": "के बिना",
+    "meaning": "without",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "keː bɪnaː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["तुम्हारे बिना।", "पानी के बिना।"]
+  },
+  {
+    "id": "word_hi_ke_paas",
+    "word": "के पास",
+    "meaning": "near/with (possession)",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "keː paːs"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["मेरे पास।", "घर के पास।"]
+  },
+  {
+    "id": "word_hi_ke_baad",
+    "word": "के बाद",
+    "meaning": "after",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "keː baːd̪"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["खाने के बाद।", "स्कूल के बाद।"]
+  },
+  {
+    "id": "word_hi_ke_pehle",
+    "word": "के पहले",
+    "meaning": "before",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "keː pəhleː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["खाने के पहले।", "सोने के पहले।"]
+  },
+  {
+    "id": "word_hi_ke_upar",
+    "word": "के ऊपर",
+    "meaning": "above/on top of",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "keː uːpər"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["मेज़ के ऊपर।", "पहाड़ के ऊपर।"]
+  },
+  {
+    "id": "word_hi_ke_niche",
+    "word": "के नीचे",
+    "meaning": "below/under",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "keː niːt͡ʃeː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["मेज़ के नीचे।", "पेड़ के नीचे।"]
+  },
+  {
+    "id": "word_hi_ke_beech",
+    "word": "के बीच",
+    "meaning": "between",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "keː biːt͡ʃ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["दोनों के बीच।", "हमारे बीच।"]
+  },
+  {
+    "id": "word_hi_tak",
+    "word": "तक",
+    "meaning": "until/up to",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "t̪ək"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["शाम तक।", "यहाँ तक।"]
+  },
+  {
+    "id": "word_hi_dwara",
+    "word": "द्वारा",
+    "meaning": "by/through",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "d̪ʋaːraː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["उसके द्वारा।", "इस द्वारा।"]
+  }
+]

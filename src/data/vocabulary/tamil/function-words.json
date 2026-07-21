@@ -1,0 +1,288 @@
+[
+  {
+    "id": "word_ta_naan",
+    "word": "நான்",
+    "meaning": "I/me",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "naːn"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["நான் போகிறேன்.", "என் பெயர்."]
+  },
+  {
+    "id": "word_ta_nee",
+    "word": "நீ",
+    "meaning": "you (informal)",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "niː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["நீ நல்லவன்.", "உனக்காக."]
+  },
+  {
+    "id": "word_ta_neengal",
+    "word": "நீங்கள்",
+    "meaning": "you (formal)",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "niːŋɡəɭ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["நீங்கள் நல்லவர்.", "உங்களுக்காக."]
+  },
+  {
+    "id": "word_ta_avan",
+    "word": "அவன்",
+    "meaning": "he",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "əʋən"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["அவன் போகிறான்.", "அவன் வீடு."]
+  },
+  {
+    "id": "word_ta_aval",
+    "word": "அவள்",
+    "meaning": "she",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "əʋəɭ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["அவள் போகிறாள்.", "அவள் வீடு."]
+  },
+  {
+    "id": "word_ta_naangal",
+    "word": "நாங்கள்",
+    "meaning": "we",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "naːŋɡəɭ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["நாங்கள் போகிறோம்.", "எங்கள் வீடு."]
+  },
+  {
+    "id": "word_ta_avargal",
+    "word": "அவர்கள்",
+    "meaning": "they",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "əʋəɾɡəɭ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["அவர்கள் போகிறார்கள்.", "அவர்கள் வீடு."]
+  },
+  {
+    "id": "word_ta_idhu",
+    "word": "இது",
+    "meaning": "this",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "id̪u"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["இது புத்தகம்.", "இன்று."]
+  },
+  {
+    "id": "word_ta_adhu",
+    "word": "அது",
+    "meaning": "that",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "əd̪u"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["அது வீடு.", "அந்த நேரம்."]
+  },
+  {
+    "id": "word_ta_enna",
+    "word": "என்ன",
+    "meaning": "what",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "ennə"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["இது என்ன?", "என்ன வேணும்?"]
+  },
+  {
+    "id": "word_ta_yaar",
+    "word": "யார்",
+    "meaning": "who",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "jaːɾ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["அது யார்?", "யாருடன்?"]
+  },
+  {
+    "id": "word_ta_enge",
+    "word": "எங்கே",
+    "meaning": "where",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "eŋɡeː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["எங்கே?", "எங்கே போகிறீர்கள்?"]
+  },
+  {
+    "id": "word_ta_eppozhu",
+    "word": "எப்போழு",
+    "meaning": "when",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "eppoːɻu"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["எப்போது போவீர்கள்?", "எப்போது வருவார்?"]
+  },
+  {
+    "id": "word_ta_yen",
+    "word": "ஏன்",
+    "meaning": "why",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "eːn"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["ஏன் இப்படி?", "ஏன் இல்லை?"]
+  },
+  {
+    "id": "word_ta_eppadi",
+    "word": "எப்படி",
+    "meaning": "how",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "eppəɖi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["எப்படி இருக்கீங்க?", "எப்படி செய்வது?"]
+  },
+  {
+    "id": "word_ta_um",
+    "word": "உம்",
+    "meaning": "and",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "um"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["நீயும் நானும்.", "சாப்பிடவும் குடிக்கவும்."]
+  },
+  {
+    "id": "word_ta_alla",
+    "word": "அல்ல",
+    "meaning": "or",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "əllə"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["இது அல்ல அது?", "ஆம் அல்ல இல்லை?"]
+  },
+  {
+    "id": "word_ta_aanal",
+    "word": "ஆனால்",
+    "meaning": "but",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "aːnaːl"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["நல்லது ஆனால் விலை அதிகம்.", "போக வேணும் ஆனால் நேரம் இல்லை."]
+  },
+  {
+    "id": "word_ta_endraal",
+    "word": "என்றால்",
+    "meaning": "if",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "endɾaːl"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["தேவை என்றால்.", "வேணும் என்றால்."]
+  },
+  {
+    "id": "word_ta_enaendraal",
+    "word": "ஏனென்றால்",
+    "meaning": "because",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "eːnendɾaːl"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["ஏனென்றால் நோய்.", "ஏனென்றால் அது."]
+  },
+  {
+    "id": "word_ta_illai",
+    "word": "இல்லை",
+    "meaning": "no/not",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "illɛ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["நல்லது இல்லை.", "வேண்டாம்."]
+  },
+  {
+    "id": "word_ta_aam",
+    "word": "ஆம்",
+    "meaning": "yes",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "aːm"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["ஆம், சரி.", "ஆம், எனக்கு வேணும்."]
+  }
+]

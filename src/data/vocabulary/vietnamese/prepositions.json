@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_vi_o",
+    "word": "ở",
+    "meaning": "in/at",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ə"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Ở nhà.", "Ở trường."]
+  },
+  {
+    "id": "word_vi_tren_prep",
+    "word": "trên",
+    "meaning": "on",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "t͡ɕen"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Trên bàn.", "Trên ghế."]
+  },
+  {
+    "id": "word_vi_tu",
+    "word": "từ",
+    "meaning": "from",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "tɨ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Từ nhà.", "Từ đâu?"]
+  },
+  {
+    "id": "word_vi_den_prep",
+    "word": "đến",
+    "meaning": "to",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɗen"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Đến trường.", "Đến đâu?"]
+  },
+  {
+    "id": "word_vi_cho_prep",
+    "word": "cho",
+    "meaning": "for",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "t͡ɕɔ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Cho bạn.", "Cho trẻ em."]
+  },
+  {
+    "id": "word_vi_voi",
+    "word": "với",
+    "meaning": "with",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "vəj"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Với bạn bè.", "Với gia đình."]
+  },
+  {
+    "id": "word_vi_khong_co",
+    "word": "không có",
+    "meaning": "without",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "xoŋ ko"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Không có nước.", "Không có bạn."]
+  },
+  {
+    "id": "word_vi_gan",
+    "word": "gần",
+    "meaning": "near",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ɡan"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Gần nhà.", "Gần trường."]
+  },
+  {
+    "id": "word_vi_sau_prep",
+    "word": "sau",
+    "meaning": "after",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ʂaːw"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Sau bữa ăn.", "Sau trường."]
+  },
+  {
+    "id": "word_vi_truoc_prep",
+    "word": "trước",
+    "meaning": "before",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "t͡ɕuək"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Trước khi ngủ.", "Trước bữa ăn."]
+  },
+  {
+    "id": "word_vi_tren_prep2",
+    "word": "trên",
+    "meaning": "above",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "t͡ɕen"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Trên bàn.", "Trên núi."]
+  },
+  {
+    "id": "word_vi_duoi_prep",
+    "word": "dưới",
+    "meaning": "under",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "zuəj"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Dưới giường.", "Dưới cây."]
+  },
+  {
+    "id": "word_vi_giua",
+    "word": "giữa",
+    "meaning": "between",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "zɨə"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Giữa các nhà.", "Giữa chúng ta."]
+  },
+  {
+    "id": "word_vi_cho_den",
+    "word": "cho đến",
+    "meaning": "until",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "t͡ɕɔ ɗen"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Cho đến tối.", "Cho đến đây."]
+  },
+  {
+    "id": "word_vi_qua",
+    "word": "qua",
+    "meaning": "through",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "kwaː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Qua đường.", "Qua một giờ."]
+  }
+]

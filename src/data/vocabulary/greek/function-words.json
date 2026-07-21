@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_el_ego",
+    "word": "εγώ",
+    "meaning": "I",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "eˈɣo"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Εγώ πηγαίνω.", "Εγώ είμαι καλά."]
+  },
+  {
+    "id": "word_el_esi",
+    "word": "εσύ",
+    "meaning": "you",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "eˈsi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Εσύ είσαι εδώ.", "Πώς είσαι;"]
+  },
+  {
+    "id": "word_el_aftos",
+    "word": "αυτός",
+    "meaning": "he",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "afˈtos"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Αυτός είναι μαθητής.", "Αυτός είναι εδώ."]
+  },
+  {
+    "id": "word_el_afti",
+    "word": "αυτή",
+    "meaning": "she",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "afˈti"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Αυτή είναι δασκάλα.", "Αυτή είναι όμορφη."]
+  },
+  {
+    "id": "word_el_emeis",
+    "word": "εμείς",
+    "meaning": "we",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "eˈmis"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Εμείς είμαστε μαθητές.", "Εμείς είμαστε εδώ."]
+  },
+  {
+    "id": "word_el_eseis",
+    "word": "εσείς",
+    "meaning": "you (plural)",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "eˈsis"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Εσείς είστε μαθητές.", "Πώς είστε;"]
+  },
+  {
+    "id": "word_el_aftoi",
+    "word": "αυτοί",
+    "meaning": "they",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "afˈti"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Αυτοί είναι φίλοι.", "Αυτοί είναι εδώ."]
+  },
+  {
+    "id": "word_el_ti",
+    "word": "τι",
+    "meaning": "what",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ti"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Τι είναι αυτό;", "Πώς σε λένε;"]
+  },
+  {
+    "id": "word_el_poios",
+    "word": "ποιος",
+    "meaning": "who",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ˈpços"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ποιος είναι αυτός;", "Ποιος είσαι;"]
+  },
+  {
+    "id": "word_el_pou",
+    "word": "πού",
+    "meaning": "where",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "pu"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Πού είσαι;", "Πού είναι το σπίτι;"]
+  },
+  {
+    "id": "word_el_pote",
+    "word": "πότε",
+    "meaning": "when",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ˈpote"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Πότε έρχεσαι;", "Πότε συνέβη;"]
+  },
+  {
+    "id": "word_el_pos",
+    "word": "πώς",
+    "meaning": "how",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "pos"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Πώς είσαι;", "Πώς να το κάνω;"]
+  },
+  {
+    "id": "word_el_giati",
+    "word": "γιατί",
+    "meaning": "why",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ʝaˈti"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Γιατί πηγαίνεις;", "Γιατί όχι;"]
+  },
+  {
+    "id": "word_el_kai",
+    "word": "και",
+    "meaning": "and",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ce"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Εγώ και εσύ.", "Πατέρας και μητέρα."]
+  },
+  {
+    "id": "word_el_i",
+    "word": "ή",
+    "meaning": "or",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "i"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Τσάι ή καφές;", "Αυτό ή εκείνο;"]
+  },
+  {
+    "id": "word_el_alla",
+    "word": "αλλά",
+    "meaning": "but",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "aˈla"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Καλό, αλλά ακριβό.", "Θέλω, αλλά δεν μπορώ."]
+  },
+  {
+    "id": "word_el_an",
+    "word": "αν",
+    "meaning": "if",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "an"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Αν έρθεις.", "Αν είναι δυνατόν."]
+  },
+  {
+    "id": "word_el_ochi",
+    "word": "όχι",
+    "meaning": "no",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ˈoçi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Όχι, ευχαριστώ.", "Δεν πηγαίνω."]
+  },
+  {
+    "id": "word_el_nai",
+    "word": "ναι",
+    "meaning": "yes",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ne"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ναι, καλό.", "Ναι, πηγαίνω."]
+  },
+  {
+    "id": "word_el_o",
+    "word": "ο/η/το",
+    "meaning": "the",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "o"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ο άνθρωπος.", "Το σπίτι."]
+  }
+]

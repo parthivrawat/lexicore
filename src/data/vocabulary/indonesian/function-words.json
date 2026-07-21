@@ -1,0 +1,288 @@
+[
+  {
+    "id": "word_id_saya",
+    "word": "saya",
+    "meaning": "I/me",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "saja"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Saya pergi.", "Nama saya."]
+  },
+  {
+    "id": "word_id_kamu",
+    "word": "kamu",
+    "meaning": "you",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "kamu"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Kamu baik.", "Untuk kamu."]
+  },
+  {
+    "id": "word_id_dia",
+    "word": "dia",
+    "meaning": "he/she",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "dia"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Dia pergi.", "Rumah dia."]
+  },
+  {
+    "id": "word_id_kita",
+    "word": "kita",
+    "meaning": "we (inclusive)",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "kita"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Kita pergi.", "Rumah kita."]
+  },
+  {
+    "id": "word_id_kami",
+    "word": "kami",
+    "meaning": "we (exclusive)",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "kami"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Kami datang.", "Teman kami."]
+  },
+  {
+    "id": "word_id_mereka",
+    "word": "mereka",
+    "meaning": "they",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "mərəka"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Mereka pergi.", "Rumah mereka."]
+  },
+  {
+    "id": "word_id_ini",
+    "word": "ini",
+    "meaning": "this",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "ini"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ini buku.", "Hari ini."]
+  },
+  {
+    "id": "word_id_itu",
+    "word": "itu",
+    "meaning": "that",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "itu"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Itu rumah.", "Waktu itu."]
+  },
+  {
+    "id": "word_id_apa",
+    "word": "apa",
+    "meaning": "what",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "apa"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Apa ini?", "Apa kabar?"]
+  },
+  {
+    "id": "word_id_siapa",
+    "word": "siapa",
+    "meaning": "who",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "siapa"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Siapa itu?", "Dengan siapa?"]
+  },
+  {
+    "id": "word_id_mana",
+    "word": "mana",
+    "meaning": "which/where",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "mana"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Di mana?", "Yang mana?"]
+  },
+  {
+    "id": "word_id_kapan",
+    "word": "kapan",
+    "meaning": "when",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "kapan"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Kapan pergi?", "Kapan datang?"]
+  },
+  {
+    "id": "word_id_mengapa",
+    "word": "mengapa",
+    "meaning": "why",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "məŋapa"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Mengapa begitu?", "Mengapa tidak?"]
+  },
+  {
+    "id": "word_id_bagaimana",
+    "word": "bagaimana",
+    "meaning": "how",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "baɡaimana"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Bagaimana kabar?", "Bagaimana caranya?"]
+  },
+  {
+    "id": "word_id_dan",
+    "word": "dan",
+    "meaning": "and",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "dan"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Kamu dan saya.", "Makan dan minum."]
+  },
+  {
+    "id": "word_id_atau",
+    "word": "atau",
+    "meaning": "or",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "atau"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ini atau itu?", "Ya atau tidak?"]
+  },
+  {
+    "id": "word_id_tetapi",
+    "word": "tetapi",
+    "meaning": "but",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "tətapi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Baik tetapi mahal.", "Ingin tetapi tidak bisa."]
+  },
+  {
+    "id": "word_id_jika",
+    "word": "jika",
+    "meaning": "if",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "dʒika"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Jika perlu.", "Jika mau."]
+  },
+  {
+    "id": "word_id_karena",
+    "word": "karena",
+    "meaning": "because",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "karəna"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Karena sakit.", "Karena itu."]
+  },
+  {
+    "id": "word_id_tidak",
+    "word": "tidak",
+    "meaning": "no/not",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "tidak"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Tidak baik.", "Tidak mau."]
+  },
+  {
+    "id": "word_id_ya",
+    "word": "ya",
+    "meaning": "yes",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "ja"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ya, benar.", "Ya, saya mau."]
+  },
+  {
+    "id": "word_id_yang",
+    "word": "yang",
+    "meaning": "that/which (relative)",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "jaŋ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Yang ini.", "Orang yang baik."]
+  }
+]

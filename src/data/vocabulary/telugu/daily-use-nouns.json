@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_te_manishi",
+    "word": "మనిషి",
+    "meaning": "person",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "məniʂi"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["అతను మంచి మనిషి.", "చాలా మంది."]
+  },
+  {
+    "id": "word_te_pillavaadu",
+    "word": "పిల్లవాడు",
+    "meaning": "child",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "pilləʋaːɖu"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["నా పిల్లవాడు.", "చిన్న పిల్లవాడు."]
+  },
+  {
+    "id": "word_te_illu",
+    "word": "ఇల్లు",
+    "meaning": "house",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "illu"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["పెద్ద ఇల్లు.", "ఇంట్లో."]
+  },
+  {
+    "id": "word_te_neellu",
+    "word": "నీళ్ళు",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "niːɭɭu"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["నీళ్ళు తాగు.", "శుద్ధమైన నీళ్ళు."]
+  },
+  {
+    "id": "word_te_bhojanam",
+    "word": "భోజనం",
+    "meaning": "food",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "bʱoːd͡ʒənəm"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["రుచికరమైన భోజనం.", "భోజనం తినండి."]
+  },
+  {
+    "id": "word_te_samayam",
+    "word": "సమయం",
+    "meaning": "time",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "səməjəm"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["ఖాళీ సమయం.", "సమయం లేదు."]
+  },
+  {
+    "id": "word_te_roju",
+    "word": "రోజు",
+    "meaning": "day",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ɾoːd͡ʒu"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["ఈ రోజు.", "ప్రతి రోజు."]
+  },
+  {
+    "id": "word_te_samvatsaram",
+    "word": "సంవత్సరం",
+    "meaning": "year",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "sənʋət̪səɾəm"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["కొత్త సంవత్సరం.", "రెండు సంవత్సరాలు."]
+  },
+  {
+    "id": "word_te_cheyi",
+    "word": "చేయి",
+    "meaning": "hand",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "t͡ʃeːji"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["చేతులు కడుక్కో.", "కుడి చేయి."]
+  },
+  {
+    "id": "word_te_kannu",
+    "word": "కన్ను",
+    "meaning": "eye",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "kənnu"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["అందమైన కళ్ళు.", "కళ్ళు మూసుకో."]
+  },
+  {
+    "id": "word_te_tala",
+    "word": "తల",
+    "meaning": "head",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "t̪ələ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["తలనొప్పి.", "తల పైకి ఎత్తు."]
+  },
+  {
+    "id": "word_te_pustakam",
+    "word": "పుస్తకం",
+    "meaning": "book",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "pust̪əkəm"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["పుస్తకం చదువు.", "మంచి పుస్తకం."]
+  },
+  {
+    "id": "word_te_talupu",
+    "word": "తలుపు",
+    "meaning": "door",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "t̪əlupu"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["తలుపు మూసివేయండి.", "తలుపు తెరిచి ఉంది."]
+  },
+  {
+    "id": "word_te_bata",
+    "word": "బాట",
+    "meaning": "road",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "baːʈə"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["ప్రధాన రహదారి.", "రోడ్డుమీద."]
+  },
+  {
+    "id": "word_te_nagaram",
+    "word": "నగరం",
+    "meaning": "city",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "nəɡəɾəm"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["పెద్ద నగరం.", "నగరంలో."]
+  },
+  {
+    "id": "word_te_desam",
+    "word": "దేశం",
+    "meaning": "country",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "d̪eːʃəm"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["భారత దేశం.", "దేశాన్ని ప్రేమించు."]
+  },
+  {
+    "id": "word_te_badi",
+    "word": "బడి",
+    "meaning": "school",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "bəɖi"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["బడికి వెళ్ళు.", "ప్రాథమిక పాఠశాల."]
+  },
+  {
+    "id": "word_te_snehithudu",
+    "word": "స్నేహితుడు",
+    "meaning": "friend",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "sneːhit̪uɖu"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["మంచి స్నేహితుడు.", "నా స్నేహితుడు."]
+  },
+  {
+    "id": "word_te_kutumbam",
+    "word": "కుటుంబం",
+    "meaning": "family",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "kuʈumbəm"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["పెద్ద కుటుంబం.", "కుటుంబాన్ని ప్రేమించు."]
+  },
+  {
+    "id": "word_te_peru",
+    "word": "పేరు",
+    "meaning": "name",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "peːɾu"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["నా పేరు.", "పేరు రాయండి."]
+  }
+]

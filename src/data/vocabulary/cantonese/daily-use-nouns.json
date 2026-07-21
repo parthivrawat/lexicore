@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_yue_jan",
+    "word": "人",
+    "meaning": "person",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "jan⁴"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["好多人。", "呢個人。"]
+  },
+  {
+    "id": "word_yue_sai_lou_zai",
+    "word": "細路仔",
+    "meaning": "child",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "sai³ lou⁶ zai²"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["細路仔。", "小朋友。"]
+  },
+  {
+    "id": "word_yue_uk_kei",
+    "word": "屋企",
+    "meaning": "home",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "uk¹ kei²"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["返屋企。", "喺屋企。"]
+  },
+  {
+    "id": "word_yue_seoi",
+    "word": "水",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "seoi²"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["飲水。", "熱水。"]
+  },
+  {
+    "id": "word_yue_je",
+    "word": "嘢",
+    "meaning": "thing",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "je⁵"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["咩嘢？", "食嘢。"]
+  },
+  {
+    "id": "word_yue_si_gaan",
+    "word": "時間",
+    "meaning": "time",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "si⁴ gaan¹"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["冇時間。", "幾點時間？"]
+  },
+  {
+    "id": "word_yue_jat",
+    "word": "日",
+    "meaning": "day",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "jat⁶"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["今日。", "聽日。"]
+  },
+  {
+    "id": "word_yue_nin",
+    "word": "年",
+    "meaning": "year",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "nin⁴"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["今年。", "舊年。"]
+  },
+  {
+    "id": "word_yue_sau",
+    "word": "手",
+    "meaning": "hand",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "sau²"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["洗手。", "右手。"]
+  },
+  {
+    "id": "word_yue_ngaan",
+    "word": "眼",
+    "meaning": "eye",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "ngaan⁵"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["眼睛。", "閂眼。"]
+  },
+  {
+    "id": "word_yue_tau",
+    "word": "頭",
+    "meaning": "head",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "tau⁴"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["頭痛。", "抬頭。"]
+  },
+  {
+    "id": "word_yue_syu",
+    "word": "書",
+    "meaning": "book",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "syu¹"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["睇書。", "本書。"]
+  },
+  {
+    "id": "word_yue_mun",
+    "word": "門",
+    "meaning": "door",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "mun⁴"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["閂門。", "開門。"]
+  },
+  {
+    "id": "word_yue_lou",
+    "word": "路",
+    "meaning": "road",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "lou⁶"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["行路。", "馬路。"]
+  },
+  {
+    "id": "word_yue_sing",
+    "word": "城",
+    "meaning": "city",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "sing⁴"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["城市。", "香港城。"]
+  },
+  {
+    "id": "word_yue_gwok",
+    "word": "國",
+    "meaning": "country",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "gwok³"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["國家。", "中國。"]
+  },
+  {
+    "id": "word_yue_hok_haau",
+    "word": "學校",
+    "meaning": "school",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "hok⁶ haau⁶"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["去學校。", "小學校。"]
+  },
+  {
+    "id": "word_yue_pang_jau",
+    "word": "朋友",
+    "meaning": "friend",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "pang⁴ jau⁵"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["好朋友。", "我朋友。"]
+  },
+  {
+    "id": "word_yue_ga_jan",
+    "word": "家人",
+    "meaning": "family",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "ga¹ jan⁴"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["我家人。", "全家人。"]
+  },
+  {
+    "id": "word_yue_meng",
+    "word": "名",
+    "meaning": "name",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "meng⁴"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["你叫咩名？", "我個名。"]
+  }
+]

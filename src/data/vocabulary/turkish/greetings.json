@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_tr_merhaba",
+    "word": "merhaba",
+    "meaning": "hello",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "mæɾhɑbɑ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Merhaba, nasılsın?", "Merhaba herkese!"]
+  },
+  {
+    "id": "word_tr_gunaydin",
+    "word": "günaydın",
+    "meaning": "good morning",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɟynɑjdɯn"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Günaydın, anne.", "Günaydın herkese."]
+  },
+  {
+    "id": "word_tr_iyi_aksamlar",
+    "word": "iyi akşamlar",
+    "meaning": "good evening",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "iːji ɑkʃɑmlɑɾ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["İyi akşamlar, arkadaşlar.", "İyi akşamlar."]
+  },
+  {
+    "id": "word_tr_hosca_kal",
+    "word": "hoşça kal",
+    "meaning": "goodbye",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "hoʃt͡ʃɑ kɑl"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Hoşça kal, yarın görüşürüz.", "Hoşça kal."]
+  },
+  {
+    "id": "word_tr_tesekkurler",
+    "word": "teşekkürler",
+    "meaning": "thank you",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "teʃekːyɾleɾ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Teşekkürler yardımın için.", "Çok teşekkürler."]
+  },
+  {
+    "id": "word_tr_lutfen",
+    "word": "lütfen",
+    "meaning": "please",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "lytfen"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Lütfen, bana yardım et.", "Lütfen oturun."]
+  },
+  {
+    "id": "word_tr_hosgeldiniz",
+    "word": "hoş geldiniz",
+    "meaning": "welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "hoʃ ɡeldiniz"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Hoş geldiniz evime.", "Hoş geldiniz!"]
+  },
+  {
+    "id": "word_tr_ozur_dilerim",
+    "word": "özür dilerim",
+    "meaning": "sorry",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "øzyɾ dileɾim"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Özür dilerim, geç kaldım.", "Özür dilerim."]
+  },
+  {
+    "id": "word_tr_iyi_geceler",
+    "word": "iyi geceler",
+    "meaning": "good night",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "iːji ɡed͡ʒeleɾ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["İyi geceler, iyi uykular.", "İyi geceler."]
+  },
+  {
+    "id": "word_tr_nasilsin",
+    "word": "nasılsın",
+    "meaning": "how are you",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "nɑsɯlsɯn"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Merhaba, nasılsın?", "Nasılsın sen?"]
+  },
+  {
+    "id": "word_tr_iyiyim",
+    "word": "iyiyim",
+    "meaning": "I'm fine",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "iːjijim"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["İyiyim, teşekkürler.", "Nasılsın? - İyiyim."]
+  },
+  {
+    "id": "word_tr_tebrikler",
+    "word": "tebrikler",
+    "meaning": "congratulations",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "tebɾikleɾ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Tebrikler başarın için!", "Tebrikler!"]
+  },
+  {
+    "id": "word_tr_gorusuruz",
+    "word": "görüşürüz",
+    "meaning": "see you later",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɟøɾyʃyɾyz"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Görüşürüz, tekrar görüşmek üzere.", "Görüşürüz!"]
+  },
+  {
+    "id": "word_tr_rica_ederim",
+    "word": "rica ederim",
+    "meaning": "you're welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɾid͡ʒɑ edeɾim"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Teşekkürler. - Rica ederim.", "Rica ederim."]
+  },
+  {
+    "id": "word_tr_iyi_gunler",
+    "word": "iyi günler",
+    "meaning": "good day",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "iːji ɟynleɾ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["İyi günler, efendim.", "İyi günler!"]
+  }
+]

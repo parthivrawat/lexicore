@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_ar_kana",
+    "word": "كان",
+    "meaning": "to be (past)",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "kaːna"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["كان هنا.", "كان سعيدا."]
+  },
+  {
+    "id": "word_ar_faala",
+    "word": "فعل",
+    "meaning": "to do",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "faʕala"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["ماذا فعلت؟", "فعل الخير."]
+  },
+  {
+    "id": "word_ar_dhahaba",
+    "word": "ذهب",
+    "meaning": "to go",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ðahaba"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["ذهب إلى المدرسة.", "أين ذهبت؟"]
+  },
+  {
+    "id": "word_ar_jaa",
+    "word": "جاء",
+    "meaning": "to come",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "d͡ʒaːʔa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["جاء إلى البيت.", "متى جاء؟"]
+  },
+  {
+    "id": "word_ar_akala",
+    "word": "أكل",
+    "meaning": "to eat",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔakala"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["أكل الطعام.", "هل أكلت؟"]
+  },
+  {
+    "id": "word_ar_shariba",
+    "word": "شرب",
+    "meaning": "to drink",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʃariba"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["شرب الماء.", "شرب القهوة."]
+  },
+  {
+    "id": "word_ar_raaa",
+    "word": "رأى",
+    "meaning": "to see",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "raʔaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["رأى الفيلم.", "رأيته أمس."]
+  },
+  {
+    "id": "word_ar_samia",
+    "word": "سمع",
+    "meaning": "to hear",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "samiʕa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["سمع الصوت.", "هل سمعت؟"]
+  },
+  {
+    "id": "word_ar_takallama",
+    "word": "تكلم",
+    "meaning": "to speak",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "takallama"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["تكلم بالعربية.", "تكلم معه."]
+  },
+  {
+    "id": "word_ar_qaraa",
+    "word": "قرأ",
+    "meaning": "to read",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "qaraʔa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["قرأ الكتاب.", "قرأ القرآن."]
+  },
+  {
+    "id": "word_ar_kataba",
+    "word": "كتب",
+    "meaning": "to write",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "kataba"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["كتب رسالة.", "كتب اسمه."]
+  },
+  {
+    "id": "word_ar_aataa",
+    "word": "أعطى",
+    "meaning": "to give",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔaʕtˤaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["أعطاه الكتاب.", "أعطني الماء."]
+  },
+  {
+    "id": "word_ar_akhadha",
+    "word": "أخذ",
+    "meaning": "to take",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔaxaða"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["أخذ الكتاب.", "خذ هذا."]
+  },
+  {
+    "id": "word_ar_nama",
+    "word": "نام",
+    "meaning": "to sleep",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "naːma"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["نام مبكرا.", "نام جيدا."]
+  },
+  {
+    "id": "word_ar_istayqadha",
+    "word": "استيقظ",
+    "meaning": "to wake up",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "istajqadˤa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["استيقظ مبكرا.", "استيقظ من النوم."]
+  },
+  {
+    "id": "word_ar_jalasa",
+    "word": "جلس",
+    "meaning": "to sit",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "d͡ʒalasa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["جلس على الكرسي.", "اجلس هنا."]
+  },
+  {
+    "id": "word_ar_waqafa",
+    "word": "وقف",
+    "meaning": "to stand",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "waqafa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["وقف أمام الباب.", "قف هنا."]
+  },
+  {
+    "id": "word_ar_mashaa",
+    "word": "مشى",
+    "meaning": "to walk",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "maʃaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["مشى في الشارع.", "مشى ببطء."]
+  },
+  {
+    "id": "word_ar_jaraa",
+    "word": "جرى",
+    "meaning": "to run",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "d͡ʒaraː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["جرى بسرعة.", "جرى في الحديقة."]
+  },
+  {
+    "id": "word_ar_dahika",
+    "word": "ضحك",
+    "meaning": "to laugh",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "d̪aħika"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["ضحك كثيرا.", "ضحك على النكتة."]
+  },
+  {
+    "id": "word_ar_bakaa",
+    "word": "بكى",
+    "meaning": "to cry",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "bakaː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["بكى من الألم.", "لا تبك."]
+  },
+  {
+    "id": "word_ar_fahima",
+    "word": "فهم",
+    "meaning": "to understand",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "fahima"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["فهم الدرس.", "هل فهمت؟"]
+  },
+  {
+    "id": "word_ar_arada",
+    "word": "أراد",
+    "meaning": "to want",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔaraːda"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["أراد الذهاب.", "ماذا تريد؟"]
+  },
+  {
+    "id": "word_ar_ahabba",
+    "word": "أحب",
+    "meaning": "to love",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔaħabba"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["أحب عائلتي.", "أحب القراءة."]
+  },
+  {
+    "id": "word_ar_aamala",
+    "word": "عمل",
+    "meaning": "to work",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʕamila"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["عمل بجد.", "يعمل في المكتب."]
+  }
+]

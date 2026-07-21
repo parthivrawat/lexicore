@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_bn_howa",
+    "word": "হওয়া",
+    "meaning": "to be",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "hɔwa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["আমি ডাক্তার হতে চাই।", "এটা আছে।"]
+  },
+  {
+    "id": "word_bn_kora",
+    "word": "করা",
+    "meaning": "to do",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kɔɾa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["কী করবে?", "আমি কাজ করি।"]
+  },
+  {
+    "id": "word_bn_jawa",
+    "word": "যাওয়া",
+    "meaning": "to go",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dʒawa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["আমি স্কুলে যাই।", "কোথায় যাচ্ছ?"]
+  },
+  {
+    "id": "word_bn_asha",
+    "word": "আসা",
+    "meaning": "to come",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "aʃa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["এখানে এসো।", "সে কাল আসবে।"]
+  },
+  {
+    "id": "word_bn_khawa",
+    "word": "খাওয়া",
+    "meaning": "to eat",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kʰawa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["আমি খাবার খাই।", "খেতে চাও?"]
+  },
+  {
+    "id": "word_bn_paan_kora",
+    "word": "পান করা",
+    "meaning": "to drink",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "pan kɔɾa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["জল পান করো।", "পান করতে চাও?"]
+  },
+  {
+    "id": "word_bn_dekha",
+    "word": "দেখা",
+    "meaning": "to see",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dekʰa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["আমি তোমাকে দেখছি।", "এটা দেখছ?"]
+  },
+  {
+    "id": "word_bn_shona",
+    "word": "শোনা",
+    "meaning": "to hear",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃona"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["আমি শব্দ শুনছি।", "তুমি শুনছ?"]
+  },
+  {
+    "id": "word_bn_bola",
+    "word": "বলা",
+    "meaning": "to speak",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "bɔla"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["বাংলা বলো।", "সত্য বলো।"]
+  },
+  {
+    "id": "word_bn_pora",
+    "word": "পড়া",
+    "meaning": "to read",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "pɔɽa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["বই পড়ো।", "আমি পড়ছি।"]
+  },
+  {
+    "id": "word_bn_lekha",
+    "word": "লেখা",
+    "meaning": "to write",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "lekʰa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["চিঠি লেখো।", "নাম লেখো।"]
+  },
+  {
+    "id": "word_bn_dewa",
+    "word": "দেওয়া",
+    "meaning": "to give",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dewa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["আমাকে বইটা দাও।", "জল দাও।"]
+  },
+  {
+    "id": "word_bn_newa",
+    "word": "নেওয়া",
+    "meaning": "to take",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "newa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["এটা নাও।", "আমি নিচ্ছি।"]
+  },
+  {
+    "id": "word_bn_ghumano",
+    "word": "ঘুমানো",
+    "meaning": "to sleep",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ɡʱumano"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["ভালো ঘুমাও।", "আমি ঘুমাচ্ছি।"]
+  },
+  {
+    "id": "word_bn_jaga",
+    "word": "জাগা",
+    "meaning": "to wake up",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dʒaɡa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["তাড়াতাড়ি জাগো।", "আমি জাগছি।"]
+  },
+  {
+    "id": "word_bn_bosha",
+    "word": "বসা",
+    "meaning": "to sit",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "bɔʃa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["এখানে বসো।", "আমি বসছি।"]
+  },
+  {
+    "id": "word_bn_dara",
+    "word": "দাঁড়ানো",
+    "meaning": "to stand",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dãɽano"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["এখানে দাঁড়াও।", "সে দাঁড়িয়ে আছে।"]
+  },
+  {
+    "id": "word_bn_hata",
+    "word": "হাঁটা",
+    "meaning": "to walk",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "hãʈa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["ধীরে হাঁটো।", "আমি হাঁটছি।"]
+  },
+  {
+    "id": "word_bn_dora",
+    "word": "দৌড়ানো",
+    "meaning": "to run",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dɔuɽano"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["দ্রুত দৌড়াও।", "সে দৌড়াচ্ছে।"]
+  },
+  {
+    "id": "word_bn_hasha",
+    "word": "হাসা",
+    "meaning": "to laugh",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "haʃa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["আরও হাসো।", "সে হাসছে।"]
+  },
+  {
+    "id": "word_bn_kanda",
+    "word": "কাঁদা",
+    "meaning": "to cry",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kãda"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["কেঁদো না।", "শিশুটি কাঁদছে।"]
+  },
+  {
+    "id": "word_bn_bujha",
+    "word": "বোঝা",
+    "meaning": "to understand",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "bod͡ʒʱa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["আমি বুঝছি।", "তুমি বুঝছ?"]
+  },
+  {
+    "id": "word_bn_chaowa",
+    "word": "চাওয়া",
+    "meaning": "to want",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "tʃʰawa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["আমি যেতে চাই।", "কী চাও?"]
+  },
+  {
+    "id": "word_bn_bhalobasha",
+    "word": "ভালোবাসা",
+    "meaning": "to love",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "bʱalobaʃa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["আমি তোমাকে ভালোবাসি।", "পরিবারকে ভালোবাসো।"]
+  },
+  {
+    "id": "word_bn_kaj_kora",
+    "word": "কাজ করা",
+    "meaning": "to work",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kadʒ kɔɾa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["কঠোর পরিশ্রম করো।", "আমি অফিসে কাজ করি।"]
+  }
+]

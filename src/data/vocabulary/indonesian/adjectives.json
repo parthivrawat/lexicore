@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_id_baik",
+    "word": "baik",
+    "meaning": "good",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "baik"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Orang baik.", "Sangat baik."]
+  },
+  {
+    "id": "word_id_buruk",
+    "word": "buruk",
+    "meaning": "bad",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "buruk"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Cuaca buruk.", "Tidak buruk."]
+  },
+  {
+    "id": "word_id_besar",
+    "word": "besar",
+    "meaning": "big",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "bəsar"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Rumah besar.", "Sangat besar."]
+  },
+  {
+    "id": "word_id_kecil",
+    "word": "kecil",
+    "meaning": "small",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "kəcil"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Anak kecil.", "Terlalu kecil."]
+  },
+  {
+    "id": "word_id_panjang",
+    "word": "panjang",
+    "meaning": "long",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "pandʒaŋ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Jalan panjang.", "Sangat panjang."]
+  },
+  {
+    "id": "word_id_pendek",
+    "word": "pendek",
+    "meaning": "short",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "pəndək"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Rambut pendek.", "Terlalu pendek."]
+  },
+  {
+    "id": "word_id_tinggi",
+    "word": "tinggi",
+    "meaning": "tall/high",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "tiŋɡi"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Gedung tinggi.", "Sangat tinggi."]
+  },
+  {
+    "id": "word_id_rendah",
+    "word": "rendah",
+    "meaning": "low",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "rəndah"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Harga rendah.", "Terlalu rendah."]
+  },
+  {
+    "id": "word_id_baru",
+    "word": "baru",
+    "meaning": "new",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "baru"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Buku baru.", "Tahun baru."]
+  },
+  {
+    "id": "word_id_lama",
+    "word": "lama",
+    "meaning": "old",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "lama"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Teman lama.", "Sudah lama."]
+  },
+  {
+    "id": "word_id_muda",
+    "word": "muda",
+    "meaning": "young",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "muda"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Orang muda.", "Masih muda."]
+  },
+  {
+    "id": "word_id_tua",
+    "word": "tua",
+    "meaning": "old (age)",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "tua"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Orang tua.", "Sudah tua."]
+  },
+  {
+    "id": "word_id_cantik",
+    "word": "cantik",
+    "meaning": "beautiful",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "cantik"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Wanita cantik.", "Sangat cantik."]
+  },
+  {
+    "id": "word_id_jelek",
+    "word": "jelek",
+    "meaning": "ugly",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "dʒələk"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Tidak jelek.", "Terlalu jelek."]
+  },
+  {
+    "id": "word_id_panas",
+    "word": "panas",
+    "meaning": "hot",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "panas"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Cuaca panas.", "Sangat panas."]
+  },
+  {
+    "id": "word_id_dingin",
+    "word": "dingin",
+    "meaning": "cold",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "diŋin"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Air dingin.", "Sangat dingin."]
+  },
+  {
+    "id": "word_id_cepat",
+    "word": "cepat",
+    "meaning": "fast",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "cəpat"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Lari cepat.", "Sangat cepat."]
+  },
+  {
+    "id": "word_id_lambat",
+    "word": "lambat",
+    "meaning": "slow",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "lambat"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Jalan lambat.", "Terlalu lambat."]
+  },
+  {
+    "id": "word_id_mudah",
+    "word": "mudah",
+    "meaning": "easy",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "mudah"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Soal mudah.", "Sangat mudah."]
+  },
+  {
+    "id": "word_id_sulit",
+    "word": "sulit",
+    "meaning": "difficult",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "sulit"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Soal sulit.", "Terlalu sulit."]
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_bn_e",
+    "word": "এ/তে",
+    "meaning": "in/at",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "e/te"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["বাড়িতে।", "স্কুলে।"]
+  },
+  {
+    "id": "word_bn_upore_prep",
+    "word": "উপরে",
+    "meaning": "on",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "upoɾe"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["টেবিলের উপরে।", "চেয়ারের উপরে।"]
+  },
+  {
+    "id": "word_bn_theke",
+    "word": "থেকে",
+    "meaning": "from",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "tʰeke"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["বাড়ি থেকে।", "কোথা থেকে?"]
+  },
+  {
+    "id": "word_bn_porjonto",
+    "word": "পর্যন্ত",
+    "meaning": "to/until",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "pɔɾdʒɔnto"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["স্কুল পর্যন্ত।", "কোথা পর্যন্ত?"]
+  },
+  {
+    "id": "word_bn_jonno",
+    "word": "জন্য",
+    "meaning": "for",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dʒɔnːo"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["তোমার জন্য।", "শিশুদের জন্য।"]
+  },
+  {
+    "id": "word_bn_shathe",
+    "word": "সাথে",
+    "meaning": "with",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃatʰe"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["বন্ধুদের সাথে।", "পরিবারের সাথে।"]
+  },
+  {
+    "id": "word_bn_chara",
+    "word": "ছাড়া",
+    "meaning": "without",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "tʃʰaɽa"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["জল ছাড়া।", "তোমাকে ছাড়া।"]
+  },
+  {
+    "id": "word_bn_kache",
+    "word": "কাছে",
+    "meaning": "near",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "katʃʰe"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["বাড়ির কাছে।", "স্কুলের কাছে।"]
+  },
+  {
+    "id": "word_bn_pore",
+    "word": "পরে",
+    "meaning": "after",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "pɔɾe"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["খাবারের পরে।", "স্কুলের পরে।"]
+  },
+  {
+    "id": "word_bn_age",
+    "word": "আগে",
+    "meaning": "before",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "aɡe"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["ঘুমানোর আগে।", "খাবারের আগে।"]
+  },
+  {
+    "id": "word_bn_upore_prep2",
+    "word": "উপরে",
+    "meaning": "above",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "upoɾe"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["টেবিলের উপরে।", "পাহাড়ের উপরে।"]
+  },
+  {
+    "id": "word_bn_niche_prep",
+    "word": "নিচে",
+    "meaning": "under",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "nitʃe"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["খাটের নিচে।", "গাছের নিচে।"]
+  },
+  {
+    "id": "word_bn_majhe",
+    "word": "মাঝে",
+    "meaning": "between",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "mad͡ʒʱe"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["বাড়ির মাঝে।", "আমাদের মাঝে।"]
+  },
+  {
+    "id": "word_bn_porjonto_prep",
+    "word": "পর্যন্ত",
+    "meaning": "until",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "pɔɾdʒɔnto"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["সন্ধ্যা পর্যন্ত।", "এখানে পর্যন্ত।"]
+  },
+  {
+    "id": "word_bn_diye",
+    "word": "দিয়ে",
+    "meaning": "through/by",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dije"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["রাস্তা দিয়ে।", "এক ঘণ্টা দিয়ে।"]
+  }
+]

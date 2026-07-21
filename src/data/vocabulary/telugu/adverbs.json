@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_te_chala",
+    "word": "చాలా",
+    "meaning": "very",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "t͡ʃaːlaː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["చాలా మంచిది.", "చాలా వేగంగా."]
+  },
+  {
+    "id": "word_te_kuda",
+    "word": "కూడా",
+    "meaning": "also",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "kuːɖaː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["నేను కూడా.", "అతను కూడా వెళ్తున్నాడు."]
+  },
+  {
+    "id": "word_te_maatrame",
+    "word": "మాత్రమే",
+    "meaning": "only",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "maːt̪ɾəmeː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["మాత్రమే ఒకటి.", "మాత్రమే నువ్వు."]
+  },
+  {
+    "id": "word_te_eppudu",
+    "word": "ఎప్పుడు",
+    "meaning": "always",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "eppuɖu"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["ఎప్పుడూ మంచిది.", "ఎప్పుడూ వస్తాడు."]
+  },
+  {
+    "id": "word_te_eppudu_kadu",
+    "word": "ఎప్పుడు కాదు",
+    "meaning": "never",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "eppuɖu kaːd̪u"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["ఎప్పుడూ ఆలస్యం కాదు.", "ఎప్పుడూ మరచిపోను."]
+  },
+  {
+    "id": "word_te_konni_sarlu",
+    "word": "కొన్ని సార్లు",
+    "meaning": "sometimes",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "konni saːɾlu"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["కొన్ని సార్లు.", "కొన్ని సార్లు వెళ్తాను."]
+  },
+  {
+    "id": "word_te_taragga",
+    "word": "తరగ్గా",
+    "meaning": "often",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "t̪əɾəɡɡaː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["తరచుగా వస్తాడు.", "తరచుగా ఇక్కడ."]
+  },
+  {
+    "id": "word_te_ippudu",
+    "word": "ఇప్పుడు",
+    "meaning": "now",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ippuɖu"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["ఇప్పుడు వెళ్ళు.", "ఇప్పటినుండి."]
+  },
+  {
+    "id": "word_te_taruvata",
+    "word": "తర్వాత",
+    "meaning": "later",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "t̪ərʋaːt̪ə"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["తర్వాత చేయండి.", "తర్వాత కలుద్దాం."]
+  },
+  {
+    "id": "word_te_ninna",
+    "word": "నిన్న",
+    "meaning": "yesterday",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ninnə"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["నిన్న సాయంత్రం.", "నిన్నటినుండి."]
+  },
+  {
+    "id": "word_te_repu",
+    "word": "రేపు",
+    "meaning": "tomorrow",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ɾeːpu"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["రేపు ఉదయం.", "రేపు కలుద్దాం."]
+  },
+  {
+    "id": "word_te_ayipoyindi",
+    "word": "అయిపోయింది",
+    "meaning": "already",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "əjipoːjinɖi"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["అయిపోయింది.", "తిన్నాను."]
+  },
+  {
+    "id": "word_te_inka_ledu",
+    "word": "ఇంకా లేదు",
+    "meaning": "not yet",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "iŋkaː leːd̪u"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["ఇంకా లేదు చేయలేదు.", "ఇంకా లేదు తినలేదు."]
+  },
+  {
+    "id": "word_te_avvachu",
+    "word": "అవ్వచ్చు",
+    "meaning": "maybe",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "əvʋət͡ʃt͡ʃu"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["అవ్వచ్చు అవును.", "అవ్వచ్చు కాదు."]
+  },
+  {
+    "id": "word_te_tappakunda",
+    "word": "తప్పకుండా",
+    "meaning": "certainly",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "t̪əppəkunɖaː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["తప్పకుండా.", "తప్పకుండా కాదు."]
+  }
+]

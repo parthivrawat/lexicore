@@ -1,0 +1,132 @@
+[
+  {
+    "id": "word_ta_il",
+    "word": "இல்",
+    "meaning": "in/at",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "il"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["வீட்டில்.", "இங்கே."]
+  },
+  {
+    "id": "word_ta_ku",
+    "word": "கு",
+    "meaning": "to",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "ku"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["பள்ளிக்கு.", "எங்கே?"]
+  },
+  {
+    "id": "word_ta_irundhu",
+    "word": "இருந்து",
+    "meaning": "from",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "iɾund̪u"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["சென்னையிலிருந்து.", "எங்கிருந்து?"]
+  },
+  {
+    "id": "word_ta_udan",
+    "word": "உடன்",
+    "meaning": "with",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "uɖən"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["நண்பனுடன்.", "யாருடன்?"]
+  },
+  {
+    "id": "word_ta_aaga",
+    "word": "ஆக",
+    "meaning": "for",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "aːɡə"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["உனக்காக.", "எதற்காக?"]
+  },
+  {
+    "id": "word_ta_pattri",
+    "word": "பற்றி",
+    "meaning": "about",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "pəʈɾi"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["இதைப் பற்றி?", "அதைப் பற்றி பேசு."]
+  },
+  {
+    "id": "word_ta_illaamal",
+    "word": "இல்லாமல்",
+    "meaning": "without",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "illaːməl"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["உன்னை இல்லாமல்.", "காரணம் இல்லாமல்."]
+  },
+  {
+    "id": "word_ta_munbu",
+    "word": "முன்பு",
+    "meaning": "before",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "munbu"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["சாப்பிடுவதற்கு முன்பு.", "போவதற்கு முன்பு."]
+  },
+  {
+    "id": "word_ta_piragu",
+    "word": "பிறகு",
+    "meaning": "after",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "piɾəɡu"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["சாப்பிட்ட பிறகு.", "அதன் பிறகு."]
+  },
+  {
+    "id": "word_ta_mel",
+    "word": "மேல்",
+    "meaning": "above/on",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "meːl"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["மேலே.", "மேசை மேல்."]
+  }
+]

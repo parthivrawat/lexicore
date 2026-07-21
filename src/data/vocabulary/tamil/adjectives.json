@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_ta_nalla",
+    "word": "நல்ல",
+    "meaning": "good",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "nəllə"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["நல்ல மனிதர்.", "ரொம்ப நல்லது."]
+  },
+  {
+    "id": "word_ta_kettadhu",
+    "word": "கெட்டது",
+    "meaning": "bad",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "keʈʈəd̪u"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["கெட்ட வானிலை.", "கெட்டது இல்லை."]
+  },
+  {
+    "id": "word_ta_periya",
+    "word": "பெரிய",
+    "meaning": "big",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "peɾijə"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["பெரிய வீடு.", "ரொம்ப பெரிய."]
+  },
+  {
+    "id": "word_ta_chinna",
+    "word": "சின்ன",
+    "meaning": "small",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "t͡ʃinnə"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["சின்ன குழந்தை.", "ரொம்ப சின்னது."]
+  },
+  {
+    "id": "word_ta_neelam",
+    "word": "நீளம்",
+    "meaning": "long",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "niːɭəm"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["நீண்ட சாலை.", "ரொம்ப நீளம்."]
+  },
+  {
+    "id": "word_ta_kutti",
+    "word": "குட்டி",
+    "meaning": "short",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "kuʈʈi"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["குட்டை முடி.", "ரொம்ப குட்டை."]
+  },
+  {
+    "id": "word_ta_uyaram",
+    "word": "உயரம்",
+    "meaning": "tall/high",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "ujəɾəm"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["உயரமான கட்டிடம்.", "ரொம்ப உயரம்."]
+  },
+  {
+    "id": "word_ta_thaazh",
+    "word": "தாழ்",
+    "meaning": "low",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "t̪aːɻ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["தாழ்ந்த விலை.", "ரொம்ப தாழ்வு."]
+  },
+  {
+    "id": "word_ta_pudhu",
+    "word": "புது",
+    "meaning": "new",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "pud̪u"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["புதிய புத்தகம்.", "புதிய வருடம்."]
+  },
+  {
+    "id": "word_ta_pazhaiya",
+    "word": "பழைய",
+    "meaning": "old",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "pəɻəjjə"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["பழைய நண்பன்.", "ரொம்ப பழையது."]
+  },
+  {
+    "id": "word_ta_ilamai",
+    "word": "இளமை",
+    "meaning": "young",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "iɭəmɛ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["இளம் மனிதர்.", "இன்னும் இளமை."]
+  },
+  {
+    "id": "word_ta_muthu",
+    "word": "முது",
+    "meaning": "old (age)",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "mud̪u"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["முதிய மனிதர்.", "ரொம்ப முதியவர்."]
+  },
+  {
+    "id": "word_ta_azhagu",
+    "word": "அழகு",
+    "meaning": "beautiful",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "əɻəɡu"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["அழகான பெண்.", "ரொம்ப அழகு."]
+  },
+  {
+    "id": "word_ta_asingam",
+    "word": "அசிங்கம்",
+    "meaning": "ugly",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "əsiŋɡəm"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["அசிங்கம் இல்லை.", "ரொம்ப அசிங்கம்."]
+  },
+  {
+    "id": "word_ta_veppam",
+    "word": "வெப்பம்",
+    "meaning": "hot",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "ʋeppəm"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["வெப்பமான வானிலை.", "ரொம்ப வெப்பம்."]
+  },
+  {
+    "id": "word_ta_kulir",
+    "word": "குளிர்",
+    "meaning": "cold",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "kuɭiɾ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["குளிர்ந்த தண்ணீர்.", "ரொம்ப குளிர்."]
+  },
+  {
+    "id": "word_ta_vegam",
+    "word": "வேகம்",
+    "meaning": "fast",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "ʋeːɡəm"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["வேகமா ஓடு.", "ரொம்ப வேகம்."]
+  },
+  {
+    "id": "word_ta_medhu",
+    "word": "மெது",
+    "meaning": "slow",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "med̪u"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["மெதுவா நட.", "ரொம்ப மெதுவா."]
+  },
+  {
+    "id": "word_ta_elithu",
+    "word": "எளிது",
+    "meaning": "easy",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "eɭid̪u"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["எளிதான கேள்வி.", "ரொம்ப எளிது."]
+  },
+  {
+    "id": "word_ta_kadinam",
+    "word": "கடினம்",
+    "meaning": "difficult",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "kəɖinəm"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["கடினமான கேள்வி.", "ரொம்ப கடினம்."]
+  }
+]

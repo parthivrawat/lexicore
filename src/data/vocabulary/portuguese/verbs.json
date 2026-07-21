@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_pt_ser",
+    "word": "ser",
+    "meaning": "to be (permanent)",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "seʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Quero ser médico.", "O céu é azul."]
+  },
+  {
+    "id": "word_pt_estar",
+    "word": "estar",
+    "meaning": "to be (temporary)",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "esˈtaʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Estou cansado.", "Ela está em casa."]
+  },
+  {
+    "id": "word_pt_fazer",
+    "word": "fazer",
+    "meaning": "to do/make",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "fɐˈzeʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["O que fazer?", "Faço o trabalho."]
+  },
+  {
+    "id": "word_pt_ir",
+    "word": "ir",
+    "meaning": "to go",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "iʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Vou à escola.", "Para onde vai?"]
+  },
+  {
+    "id": "word_pt_vir",
+    "word": "vir",
+    "meaning": "to come",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "viʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Venha aqui.", "Ele vem amanhã."]
+  },
+  {
+    "id": "word_pt_comer",
+    "word": "comer",
+    "meaning": "to eat",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "koˈmeʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Vou comer.", "Quer comer algo?"]
+  },
+  {
+    "id": "word_pt_beber",
+    "word": "beber",
+    "meaning": "to drink",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "beˈbeʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Beber água.", "Quer beber algo?"]
+  },
+  {
+    "id": "word_pt_ver",
+    "word": "ver",
+    "meaning": "to see",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "veʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Vejo você.", "Você vê isso?"]
+  },
+  {
+    "id": "word_pt_ouvir",
+    "word": "ouvir",
+    "meaning": "to hear",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "owˈviʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Ouço som.", "Você ouve?"]
+  },
+  {
+    "id": "word_pt_falar",
+    "word": "falar",
+    "meaning": "to speak",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "fɐˈlaʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Falar português.", "Fale devagar."]
+  },
+  {
+    "id": "word_pt_ler",
+    "word": "ler",
+    "meaning": "to read",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "leʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Ler um livro.", "Gosto de ler."]
+  },
+  {
+    "id": "word_pt_escrever",
+    "word": "escrever",
+    "meaning": "to write",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "eskreˈveʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Escrever uma carta.", "Escreva seu nome."]
+  },
+  {
+    "id": "word_pt_dar",
+    "word": "dar",
+    "meaning": "to give",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "daʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Dê-me o livro.", "Dar um presente."]
+  },
+  {
+    "id": "word_pt_pegar",
+    "word": "pegar",
+    "meaning": "to take",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "peˈɡaʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Pegue isso.", "Estou pegando."]
+  },
+  {
+    "id": "word_pt_dormir",
+    "word": "dormir",
+    "meaning": "to sleep",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "doʁˈmiʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Durma bem.", "Vou dormir."]
+  },
+  {
+    "id": "word_pt_acordar",
+    "word": "acordar",
+    "meaning": "to wake up",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ɐkoʁˈdaʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Acorde cedo.", "Acordo às 7."]
+  },
+  {
+    "id": "word_pt_sentar",
+    "word": "sentar",
+    "meaning": "to sit",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "sẽˈtaʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Sente-se aqui.", "Estou sentado."]
+  },
+  {
+    "id": "word_pt_levantar",
+    "word": "levantar",
+    "meaning": "to stand up",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "levɐ̃ˈtaʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Levante-se.", "Me levanto às 6."]
+  },
+  {
+    "id": "word_pt_andar",
+    "word": "andar",
+    "meaning": "to walk",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ɐ̃ˈdaʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Andar devagar.", "Estou andando."]
+  },
+  {
+    "id": "word_pt_correr",
+    "word": "correr",
+    "meaning": "to run",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "koˈʁeʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Correr rápido.", "Ele corre."]
+  },
+  {
+    "id": "word_pt_rir",
+    "word": "rir",
+    "meaning": "to laugh",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ʁiʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Ria mais.", "Ele ri."]
+  },
+  {
+    "id": "word_pt_chorar",
+    "word": "chorar",
+    "meaning": "to cry",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ʃoˈɾaʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Não chore.", "A criança chora."]
+  },
+  {
+    "id": "word_pt_entender",
+    "word": "entender",
+    "meaning": "to understand",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ẽtẽˈdeʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Eu entendo.", "Você entende?"]
+  },
+  {
+    "id": "word_pt_querer",
+    "word": "querer",
+    "meaning": "to want",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "keˈɾeʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Quero ir.", "O que quer?"]
+  },
+  {
+    "id": "word_pt_trabalhar",
+    "word": "trabalhar",
+    "meaning": "to work",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "tɾɐbɐˈʎaʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Trabalhe duro.", "Trabalho no escritório."]
+  }
+]

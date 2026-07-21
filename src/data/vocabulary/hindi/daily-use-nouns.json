@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_hi_ghar",
+    "word": "घर",
+    "meaning": "home/house",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ɡʰər"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["मैं घर जा रहा हूँ।", "यह मेरा घर है।"]
+  },
+  {
+    "id": "word_hi_paani",
+    "word": "पानी",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "paːniː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["पानी पीओ।", "पानी गर्म है।"]
+  },
+  {
+    "id": "word_hi_khana",
+    "word": "खाना",
+    "meaning": "food",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "kʰaːnaː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["खाना तैयार है।", "खाना खाओ।"]
+  },
+  {
+    "id": "word_hi_kitaab",
+    "word": "किताब",
+    "meaning": "book",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "kɪt̪aːb"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["किताब पढ़ो।", "यह किताब अच्छी है।"]
+  },
+  {
+    "id": "word_hi_kalam",
+    "word": "कलम",
+    "meaning": "pen",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "kələm"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["कलम दो।", "मेरी कलम खो गई।"]
+  },
+  {
+    "id": "word_hi_kaagaz",
+    "word": "कागज़",
+    "meaning": "paper",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "kaːɡəz"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["कागज़ पर लिखो।", "कागज़ चाहिए।"]
+  },
+  {
+    "id": "word_hi_darwaza",
+    "word": "दरवाज़ा",
+    "meaning": "door",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "d̪ərʋaːzaː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["दरवाज़ा खोलो।", "दरवाज़ा बंद करो।"]
+  },
+  {
+    "id": "word_hi_khidki",
+    "word": "खिड़की",
+    "meaning": "window",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "kʰɪɽkiː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["खिड़की खोलो।", "खिड़की से देखो।"]
+  },
+  {
+    "id": "word_hi_kursi",
+    "word": "कुर्सी",
+    "meaning": "chair",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "kʊrsiː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["कुर्सी पर बैठो।", "यह कुर्सी आरामदायक है।"]
+  },
+  {
+    "id": "word_hi_mez",
+    "word": "मेज़",
+    "meaning": "table",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "meːz"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["मेज़ पर रखो।", "मेज़ साफ करो।"]
+  },
+  {
+    "id": "word_hi_bistar",
+    "word": "बिस्तर",
+    "meaning": "bed",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "bɪst̪ər"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["बिस्तर पर सो जाओ।", "बिस्तर लगाओ।"]
+  },
+  {
+    "id": "word_hi_kapde",
+    "word": "कपड़े",
+    "meaning": "clothes",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "kəpɽeː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["कपड़े पहनो।", "कपड़े धोओ।"]
+  },
+  {
+    "id": "word_hi_joote",
+    "word": "जूते",
+    "meaning": "shoes",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "d͡ʒuːt̪eː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["जूते पहनो।", "जूते उतारो।"]
+  },
+  {
+    "id": "word_hi_gaadi",
+    "word": "गाड़ी",
+    "meaning": "car/vehicle",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ɡaːɽiː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["गाड़ी चलाओ।", "गाड़ी आ गई।"]
+  },
+  {
+    "id": "word_hi_phone",
+    "word": "फ़ोन",
+    "meaning": "phone",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "foːn"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["फ़ोन करो।", "फ़ोन आया है।"]
+  },
+  {
+    "id": "word_hi_computer",
+    "word": "कंप्यूटर",
+    "meaning": "computer",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "kəmpjuːʈər"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["कंप्यूटर चालू करो।", "कंप्यूटर पर काम करो।"]
+  },
+  {
+    "id": "word_hi_school",
+    "word": "स्कूल",
+    "meaning": "school",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "skuːl"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["स्कूल जाओ।", "स्कूल में पढ़ाई होती है।"]
+  },
+  {
+    "id": "word_hi_dost",
+    "word": "दोस्त",
+    "meaning": "friend",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "d̪oːst̪"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["वह मेरा दोस्त है।", "दोस्त के साथ खेलो।"]
+  },
+  {
+    "id": "word_hi_parivar",
+    "word": "परिवार",
+    "meaning": "family",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "pərɪʋaːr"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["मेरा परिवार बड़ा है।", "परिवार के साथ रहो।"]
+  },
+  {
+    "id": "word_hi_maa",
+    "word": "माँ",
+    "meaning": "mother",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "mãː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["माँ घर पर है।", "माँ का प्यार।"]
+  },
+  {
+    "id": "word_hi_baap",
+    "word": "बाप",
+    "meaning": "father",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "baːp"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["बाप काम पर गए।", "बाप की बात मानो।"]
+  },
+  {
+    "id": "word_hi_bhai",
+    "word": "भाई",
+    "meaning": "brother",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "bʰaːiː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["मेरा भाई है।", "भाई के साथ खेलो।"]
+  },
+  {
+    "id": "word_hi_behen",
+    "word": "बहन",
+    "meaning": "sister",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "bəhən"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["मेरी बहन है।", "बहन को बुलाओ।"]
+  },
+  {
+    "id": "word_hi_din",
+    "word": "दिन",
+    "meaning": "day",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "d̪ɪn"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["आज का दिन अच्छा है।", "तीन दिन बाद।"]
+  },
+  {
+    "id": "word_hi_raat",
+    "word": "रात",
+    "meaning": "night",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "raːt̪"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["रात हो गई।", "रात को सोओ।"]
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_id_halo",
+    "word": "halo",
+    "meaning": "hello",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "halo"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Halo, apa kabar?", "Halo semua!"]
+  },
+  {
+    "id": "word_id_selamat_pagi",
+    "word": "selamat pagi",
+    "meaning": "good morning",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "səlamat paɡi"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Selamat pagi, ibu.", "Selamat pagi semua."]
+  },
+  {
+    "id": "word_id_selamat_sore",
+    "word": "selamat sore",
+    "meaning": "good afternoon",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "səlamat sorə"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Selamat sore, teman-teman.", "Selamat sore."]
+  },
+  {
+    "id": "word_id_selamat_tinggal",
+    "word": "selamat tinggal",
+    "meaning": "goodbye",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "səlamat tiŋɡal"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Selamat tinggal, sampai jumpa lagi.", "Selamat tinggal."]
+  },
+  {
+    "id": "word_id_terima_kasih",
+    "word": "terima kasih",
+    "meaning": "thank you",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "tərima kasih"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Terima kasih atas bantuannya.", "Terima kasih banyak."]
+  },
+  {
+    "id": "word_id_tolong",
+    "word": "tolong",
+    "meaning": "please",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "toloŋ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Tolong, bantu saya.", "Tolong duduk."]
+  },
+  {
+    "id": "word_id_selamat_datang",
+    "word": "selamat datang",
+    "meaning": "welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "səlamat dataŋ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Selamat datang di rumah saya.", "Selamat datang!"]
+  },
+  {
+    "id": "word_id_maaf",
+    "word": "maaf",
+    "meaning": "sorry",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "maaf"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Maaf, saya terlambat.", "Maaf."]
+  },
+  {
+    "id": "word_id_selamat_malam",
+    "word": "selamat malam",
+    "meaning": "good night",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "səlamat malam"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Selamat malam, tidur nyenyak.", "Selamat malam."]
+  },
+  {
+    "id": "word_id_apa_kabar",
+    "word": "apa kabar",
+    "meaning": "how are you",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "apa kabar"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Halo, apa kabar?", "Apa kabar?"]
+  },
+  {
+    "id": "word_id_baik",
+    "word": "baik",
+    "meaning": "I'm fine",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "baik"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Saya baik, terima kasih.", "Apa kabar? - Baik."]
+  },
+  {
+    "id": "word_id_selamat",
+    "word": "selamat",
+    "meaning": "congratulations",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "səlamat"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Selamat atas kesuksesanmu!", "Selamat!"]
+  },
+  {
+    "id": "word_id_sampai_jumpa",
+    "word": "sampai jumpa",
+    "meaning": "see you later",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "sampai dʒumpa"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Sampai jumpa, jumpa lagi.", "Sampai jumpa!"]
+  },
+  {
+    "id": "word_id_sama_sama",
+    "word": "sama-sama",
+    "meaning": "you're welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "sama sama"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Terima kasih. - Sama-sama.", "Sama-sama."]
+  },
+  {
+    "id": "word_id_permisi",
+    "word": "permisi",
+    "meaning": "excuse me",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "pərmisi"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Permisi, boleh lewat?", "Permisi."]
+  }
+]

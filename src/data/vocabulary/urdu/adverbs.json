@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_ur_jaldi",
+    "word": "جلدی",
+    "meaning": "quickly",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "d͡ʒəldiː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["جلدی آؤ۔", "جلدی دوڑو۔"]
+  },
+  {
+    "id": "word_ur_ahista",
+    "word": "آہستہ",
+    "meaning": "slowly",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ɑːhɪstɑː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["آہستہ چلو۔", "آہستہ بولو۔"]
+  },
+  {
+    "id": "word_ur_bohot",
+    "word": "بہت",
+    "meaning": "very",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "bəhʊt"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["بہت اچھا۔", "بہت زیادہ۔"]
+  },
+  {
+    "id": "word_ur_thora",
+    "word": "تھوڑا",
+    "meaning": "a little",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "tʰoːɽɑː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["تھوڑا انتظار کرو۔", "تھوڑا دو۔"]
+  },
+  {
+    "id": "word_ur_hamesha",
+    "word": "ہمیشہ",
+    "meaning": "always",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "həmeːʃɑː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["ہمیشہ خوش۔", "وہ ہمیشہ آتا ہے۔"]
+  },
+  {
+    "id": "word_ur_kabhi_kabhi",
+    "word": "کبھی کبھی",
+    "meaning": "sometimes",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "kəbʱiː kəbʱiː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["کبھی کبھی جاتا ہوں۔", "کبھی کبھی بارش ہوتی ہے۔"]
+  },
+  {
+    "id": "word_ur_kabhi_nahi",
+    "word": "کبھی نہیں",
+    "meaning": "never",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "kəbʱiː nəhĩː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["میں کبھی نہیں جاؤں گا۔", "کبھی نہیں۔"]
+  },
+  {
+    "id": "word_ur_aaj",
+    "word": "آج",
+    "meaning": "today",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ɑːd͡ʒ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["آج اچھا ہے۔", "میں آج جاؤں گا۔"]
+  },
+  {
+    "id": "word_ur_kal",
+    "word": "کل",
+    "meaning": "tomorrow/yesterday",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "kəl"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["کل ملیں گے۔", "میں کل جاؤں گا۔"]
+  },
+  {
+    "id": "word_ur_parson",
+    "word": "پرسوں",
+    "meaning": "day after tomorrow",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "pərsõː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["پرسوں اچھا تھا۔", "میں نے پرسوں دیکھا۔"]
+  },
+  {
+    "id": "word_ur_abhi",
+    "word": "ابھی",
+    "meaning": "now",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "əbʱiː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["ابھی آؤ۔", "ابھی سمجھا۔"]
+  },
+  {
+    "id": "word_ur_yahan",
+    "word": "یہاں",
+    "meaning": "here",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "jəhɑ̃ː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["یہاں آؤ۔", "یہاں بیٹھو۔"]
+  },
+  {
+    "id": "word_ur_wahan",
+    "word": "وہاں",
+    "meaning": "there",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "vəhɑ̃ː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["وہاں جاؤ۔", "وہاں ہے۔"]
+  },
+  {
+    "id": "word_ur_andar",
+    "word": "اندر",
+    "meaning": "inside",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "əndər"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["اندر جاؤ۔", "گھر کے اندر۔"]
+  },
+  {
+    "id": "word_ur_bahar",
+    "word": "باہر",
+    "meaning": "outside",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "bɑːhər"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["باہر جاؤ۔", "گھر کے باہر۔"]
+  },
+  {
+    "id": "word_ur_upar",
+    "word": "اوپر",
+    "meaning": "up/above",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "uːpər"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["اوپر دیکھو۔", "اوپر۔"]
+  },
+  {
+    "id": "word_ur_niche",
+    "word": "نیچے",
+    "meaning": "down/below",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "niːt͡ʃeː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["نیچے دیکھو۔", "نیچے۔"]
+  },
+  {
+    "id": "word_ur_aage",
+    "word": "آگے",
+    "meaning": "in front",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ɑːɡeː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["آگے کھڑے ہو۔", "گھر کے آگے۔"]
+  },
+  {
+    "id": "word_ur_peeche",
+    "word": "پیچھے",
+    "meaning": "behind",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "piːt͡ʃʰeː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["پیچھے دیکھو۔", "دروازے کے پیچھے۔"]
+  },
+  {
+    "id": "word_ur_saath",
+    "word": "ساتھ",
+    "meaning": "together",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "sɑːtʰ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["ساتھ چلیں۔", "ساتھ کام کریں۔"]
+  }
+]

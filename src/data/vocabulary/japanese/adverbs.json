@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_ja_hayaku",
+    "word": "速く",
+    "meaning": "quickly",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "hajakɯ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["速く来て。", "速く走る。"]
+  },
+  {
+    "id": "word_ja_yukkuri",
+    "word": "ゆっくり",
+    "meaning": "slowly",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "jɯkkɯɾi"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["ゆっくり歩く。", "ゆっくり話す。"]
+  },
+  {
+    "id": "word_ja_totemo",
+    "word": "とても",
+    "meaning": "very",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "totemo"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["とても良い。", "とても多い。"]
+  },
+  {
+    "id": "word_ja_sukoshi",
+    "word": "少し",
+    "meaning": "a little",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "sɯkoɕi"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["少し待って。", "少しください。"]
+  },
+  {
+    "id": "word_ja_itsumo",
+    "word": "いつも",
+    "meaning": "always",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "itsɯmo"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["いつも幸せ。", "彼はいつも来る。"]
+  },
+  {
+    "id": "word_ja_tokidoki",
+    "word": "時々",
+    "meaning": "sometimes",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "tokidoki"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["時々行く。", "時々雨が降る。"]
+  },
+  {
+    "id": "word_ja_kesshite",
+    "word": "決して",
+    "meaning": "never",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "keɕɕite"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["決して行かない。", "決してない。"]
+  },
+  {
+    "id": "word_ja_kyou",
+    "word": "今日",
+    "meaning": "today",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "kjoː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["今日は良い。", "今日行く。"]
+  },
+  {
+    "id": "word_ja_ashita",
+    "word": "明日",
+    "meaning": "tomorrow",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "aɕita"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["また明日。", "明日行く。"]
+  },
+  {
+    "id": "word_ja_kinou",
+    "word": "昨日",
+    "meaning": "yesterday",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "kinoː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["昨日は良かった。", "昨日見た。"]
+  },
+  {
+    "id": "word_ja_ima",
+    "word": "今",
+    "meaning": "now",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ima"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["今来て。", "今分かった。"]
+  },
+  {
+    "id": "word_ja_koko",
+    "word": "ここ",
+    "meaning": "here",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "koko"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["ここに来て。", "ここに座る。"]
+  },
+  {
+    "id": "word_ja_soko",
+    "word": "そこ",
+    "meaning": "there",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "soko"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["そこに行く。", "そこにある。"]
+  },
+  {
+    "id": "word_ja_naka",
+    "word": "中",
+    "meaning": "inside",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "naka"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["中に入る。", "家の中。"]
+  },
+  {
+    "id": "word_ja_soto",
+    "word": "外",
+    "meaning": "outside",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "soto"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["外に出る。", "家の外。"]
+  },
+  {
+    "id": "word_ja_ue",
+    "word": "上",
+    "meaning": "up/above",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ɯe"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["上を見る。", "上に。"]
+  },
+  {
+    "id": "word_ja_shita",
+    "word": "下",
+    "meaning": "down/below",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ɕita"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["下を見る。", "下に。"]
+  },
+  {
+    "id": "word_ja_mae",
+    "word": "前",
+    "meaning": "in front",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "mae"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["前に立つ。", "家の前。"]
+  },
+  {
+    "id": "word_ja_ushiro",
+    "word": "後ろ",
+    "meaning": "behind",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ɯɕiɾo"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["後ろを見る。", "ドアの後ろ。"]
+  },
+  {
+    "id": "word_ja_issho_ni",
+    "word": "一緒に",
+    "meaning": "together",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "iɕːoɲi"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["一緒に行く。", "一緒に働く。"]
+  }
+]

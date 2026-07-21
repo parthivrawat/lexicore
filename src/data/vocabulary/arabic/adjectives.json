@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_ar_jayyid",
+    "word": "جيد",
+    "meaning": "good",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "d͡ʒajjid"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["هذا جيد.", "عمل جيد."]
+  },
+  {
+    "id": "word_ar_sayyi",
+    "word": "سيء",
+    "meaning": "bad",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "sajjiʔ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["هذا سيء.", "طقس سيء."]
+  },
+  {
+    "id": "word_ar_kabeer",
+    "word": "كبير",
+    "meaning": "big/large",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "kabiːr"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["بيت كبير.", "هو كبير."]
+  },
+  {
+    "id": "word_ar_sagheer",
+    "word": "صغير",
+    "meaning": "small",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "sˤaɣiːr"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["طفل صغير.", "غرفة صغيرة."]
+  },
+  {
+    "id": "word_ar_jameel",
+    "word": "جميل",
+    "meaning": "beautiful",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "d͡ʒamiːl"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["منظر جميل.", "فتاة جميلة."]
+  },
+  {
+    "id": "word_ar_wasikh",
+    "word": "وسخ",
+    "meaning": "dirty",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "wasix"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["ثوب وسخ.", "الغرفة وسخة."]
+  },
+  {
+    "id": "word_ar_nadhif",
+    "word": "نظيف",
+    "meaning": "clean",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "nad̪iːf"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["بيت نظيف.", "ماء نظيف."]
+  },
+  {
+    "id": "word_ar_jadeed",
+    "word": "جديد",
+    "meaning": "new",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "d͡ʒadiːd"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["كتاب جديد.", "سيارة جديدة."]
+  },
+  {
+    "id": "word_ar_qadeem",
+    "word": "قديم",
+    "meaning": "old",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "qadiːm"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["بيت قديم.", "كتاب قديم."]
+  },
+  {
+    "id": "word_ar_haar",
+    "word": "حار",
+    "meaning": "hot",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ħaːrr"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["ماء حار.", "طقس حار."]
+  },
+  {
+    "id": "word_ar_barid",
+    "word": "بارد",
+    "meaning": "cold",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "baːrid"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["ماء بارد.", "جو بارد."]
+  },
+  {
+    "id": "word_ar_saeed",
+    "word": "سعيد",
+    "meaning": "happy",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "saʕiːd"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["أنا سعيد.", "كن سعيدا."]
+  },
+  {
+    "id": "word_ar_hazeen",
+    "word": "حزين",
+    "meaning": "sad",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ħaziːn"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["هو حزين.", "لا تكن حزينا."]
+  },
+  {
+    "id": "word_ar_taweel",
+    "word": "طويل",
+    "meaning": "tall/long",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "tˤawiːl"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["رجل طويل.", "طريق طويل."]
+  },
+  {
+    "id": "word_ar_qaseer",
+    "word": "قصير",
+    "meaning": "short",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "qasˤiːr"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["ولد قصير.", "شعر قصير."]
+  },
+  {
+    "id": "word_ar_sameen",
+    "word": "سمين",
+    "meaning": "fat",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "samiːn"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["رجل سمين.", "قطة سمينة."]
+  },
+  {
+    "id": "word_ar_naheel",
+    "word": "نحيل",
+    "meaning": "thin",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "naħiːl"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["ولد نحيل.", "جسم نحيل."]
+  },
+  {
+    "id": "word_ar_saree",
+    "word": "سريع",
+    "meaning": "fast",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "sariːʕ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["سيارة سريعة.", "جري سريع."]
+  },
+  {
+    "id": "word_ar_batee",
+    "word": "بطيء",
+    "meaning": "slow",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "batˤiːʔ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["امش ببطء.", "حركة بطيئة."]
+  },
+  {
+    "id": "word_ar_sahih",
+    "word": "صحيح",
+    "meaning": "correct/right",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "sˤaħiːħ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["جواب صحيح.", "هذا صحيح."]
+  }
+]

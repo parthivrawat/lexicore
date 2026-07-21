@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_ur_main",
+    "word": "میں",
+    "meaning": "I",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "mẽː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["میں جا رہا ہوں۔", "میں ٹھیک ہوں۔"]
+  },
+  {
+    "id": "word_ur_tum",
+    "word": "تم",
+    "meaning": "you (informal)",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "tʊm"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["تم یہاں ہو۔", "تم کیسے ہو؟"]
+  },
+  {
+    "id": "word_ur_aap",
+    "word": "آپ",
+    "meaning": "you (formal)",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ɑːp"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["آپ یہاں ہیں۔", "آپ کیسے ہیں؟"]
+  },
+  {
+    "id": "word_ur_woh",
+    "word": "وہ",
+    "meaning": "he/she",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "voː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["وہ طالب علم ہے۔", "وہ یہاں ہے۔"]
+  },
+  {
+    "id": "word_ur_hum",
+    "word": "ہم",
+    "meaning": "we",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "həm"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["ہم طالب علم ہیں۔", "ہم یہاں ہیں۔"]
+  },
+  {
+    "id": "word_ur_woh_plural",
+    "word": "وہ",
+    "meaning": "they",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "voː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["وہ دوست ہیں۔", "وہ یہاں ہیں۔"]
+  },
+  {
+    "id": "word_ur_kya",
+    "word": "کیا",
+    "meaning": "what",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "kjɑː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["یہ کیا ہے؟", "تمہارا نام کیا ہے؟"]
+  },
+  {
+    "id": "word_ur_kaun",
+    "word": "کون",
+    "meaning": "who",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "kəʊn"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["یہ کون ہے؟", "تم کون ہو؟"]
+  },
+  {
+    "id": "word_ur_kahan",
+    "word": "کہاں",
+    "meaning": "where",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "kəhɑ̃ː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["تم کہاں ہو؟", "گھر کہاں ہے؟"]
+  },
+  {
+    "id": "word_ur_kab",
+    "word": "کب",
+    "meaning": "when",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "kəb"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["تم کب آ رہے ہو؟", "یہ کب ہوا؟"]
+  },
+  {
+    "id": "word_ur_kaise",
+    "word": "کیسے",
+    "meaning": "how",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "keːseː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["کیسے ہو؟", "یہ کیسے کریں؟"]
+  },
+  {
+    "id": "word_ur_kyun",
+    "word": "کیوں",
+    "meaning": "why",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "kjõː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["تم کیوں جا رہے ہو؟", "کیوں نہیں؟"]
+  },
+  {
+    "id": "word_ur_aur",
+    "word": "اور",
+    "meaning": "and",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "əʊr"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["میں اور تم۔", "ابو اور امی۔"]
+  },
+  {
+    "id": "word_ur_ya",
+    "word": "یا",
+    "meaning": "or",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "jɑː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["چائے یا کافی؟", "یہ یا وہ؟"]
+  },
+  {
+    "id": "word_ur_lekin",
+    "word": "لیکن",
+    "meaning": "but",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "leːkɪn"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["اچھا، لیکن مہنگا۔", "چاہتا ہوں، لیکن نہیں کر سکتا۔"]
+  },
+  {
+    "id": "word_ur_agar",
+    "word": "اگر",
+    "meaning": "if",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "əɡər"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["اگر تم آؤ۔", "اگر ممکن ہو۔"]
+  },
+  {
+    "id": "word_ur_nahi",
+    "word": "نہیں",
+    "meaning": "no/not",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "nəhĩː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["نہیں، شکریہ۔", "میں نہیں جا رہا۔"]
+  },
+  {
+    "id": "word_ur_haan",
+    "word": "ہاں",
+    "meaning": "yes",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "hɑ̃ː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["ہاں، اچھا۔", "ہاں، میں جاؤں گا۔"]
+  },
+  {
+    "id": "word_ur_hai",
+    "word": "ہے",
+    "meaning": "is",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "heː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["یہ کتاب ہے۔", "وہ یہاں ہے۔"]
+  },
+  {
+    "id": "word_ur_hain",
+    "word": "ہیں",
+    "meaning": "are",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "hẽː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["وہ طالب علم ہیں۔", "آپ کیسے ہیں؟"]
+  }
+]

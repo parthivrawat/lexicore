@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_mr_changle",
+    "word": "चांगले",
+    "meaning": "good",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "t͡ʃaːŋɡle"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["चांगला माणूस.", "खूप चांगले."]
+  },
+  {
+    "id": "word_mr_vait",
+    "word": "वाईट",
+    "meaning": "bad",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ʋaːiːʈ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["वाईट हवामान.", "वाईट नाही."]
+  },
+  {
+    "id": "word_mr_mothe",
+    "word": "मोठे",
+    "meaning": "big",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "moːʈʰe"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["मोठे घर.", "खूप मोठे."]
+  },
+  {
+    "id": "word_mr_lahaan",
+    "word": "लहान",
+    "meaning": "small",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ləhaːn"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["लहान मूल.", "खूप लहान."]
+  },
+  {
+    "id": "word_mr_lamb",
+    "word": "लांब",
+    "meaning": "long",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "laːmb"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["लांब रस्ता.", "खूप लांब."]
+  },
+  {
+    "id": "word_mr_thode",
+    "word": "थोडे",
+    "meaning": "short",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "t̪ʰoːɖe"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["थोडे केस.", "खूप थोडे."]
+  },
+  {
+    "id": "word_mr_unch",
+    "word": "उंच",
+    "meaning": "tall/high",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "unt͡ʃ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["उंच इमारत.", "खूप उंच."]
+  },
+  {
+    "id": "word_mr_khaalche",
+    "word": "खालचे",
+    "meaning": "low",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kʰaːlt͡ʃe"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["खालची किंमत.", "खूप खालचे."]
+  },
+  {
+    "id": "word_mr_nave",
+    "word": "नवे",
+    "meaning": "new",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "nəʋe"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["नवीन पुस्तक.", "नवीन वर्ष."]
+  },
+  {
+    "id": "word_mr_juna",
+    "word": "जुना",
+    "meaning": "old",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "d͡ʒunaː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["जुना मित्र.", "खूप जुने."]
+  },
+  {
+    "id": "word_mr_tarun",
+    "word": "तरुण",
+    "meaning": "young",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "t̪əɾuɳ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["तरुण माणूस.", "अजून तरुण."]
+  },
+  {
+    "id": "word_mr_vrudh",
+    "word": "वृद्ध",
+    "meaning": "old (age)",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ʋɾud̪d̪ʱ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["वृद्ध माणूस.", "खूप वृद्ध."]
+  },
+  {
+    "id": "word_mr_sundar",
+    "word": "सुंदर",
+    "meaning": "beautiful",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "sund̪əɾ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["सुंदर स्त्री.", "खूप सुंदर."]
+  },
+  {
+    "id": "word_mr_ashobhan",
+    "word": "अशोभन",
+    "meaning": "ugly",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "əʃoːbʱən"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["अशोभन नाही.", "खूप अशोभन."]
+  },
+  {
+    "id": "word_mr_garam",
+    "word": "गरम",
+    "meaning": "hot",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ɡəɾəm"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["गरम हवामान.", "खूप गरम."]
+  },
+  {
+    "id": "word_mr_thande",
+    "word": "थंडे",
+    "meaning": "cold",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "t̪ʰənɖe"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["थंड पाणी.", "खूप थंड."]
+  },
+  {
+    "id": "word_mr_vegvaan",
+    "word": "वेगवान",
+    "meaning": "fast",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ʋeɡʋaːn"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["वेगाने धाव.", "खूप वेगवान."]
+  },
+  {
+    "id": "word_mr_halu",
+    "word": "हळू",
+    "meaning": "slow",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "həɭuː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["हळू चाला.", "खूप हळू."]
+  },
+  {
+    "id": "word_mr_soppe",
+    "word": "सोप्पे",
+    "meaning": "easy",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "soːppe"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["सोपा प्रश्न.", "खूप सोपे."]
+  },
+  {
+    "id": "word_mr_kathin",
+    "word": "कठीण",
+    "meaning": "difficult",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kəʈʰiːɳ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["कठीण प्रश्न.", "खूप कठीण."]
+  }
+]

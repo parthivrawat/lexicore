@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_hi_jaldi",
+    "word": "जल्दी",
+    "meaning": "quickly",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "d͡ʒəld̪iː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["जल्दी आओ।", "जल्दी करो।"]
+  },
+  {
+    "id": "word_hi_dheere",
+    "word": "धीरे",
+    "meaning": "slowly",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "d̪ʰiːreː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["धीरे चलो।", "धीरे बोलो।"]
+  },
+  {
+    "id": "word_hi_bahut",
+    "word": "बहुत",
+    "meaning": "very/much",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "bəhʊt̪"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["बहुत अच्छा।", "बहुत धन्यवाद।"]
+  },
+  {
+    "id": "word_hi_thoda",
+    "word": "थोड़ा",
+    "meaning": "a little",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "t̪ʰoːɽaː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["थोड़ा दो।", "थोड़ा इंतज़ार करो।"]
+  },
+  {
+    "id": "word_hi_hamesha",
+    "word": "हमेशा",
+    "meaning": "always",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "həmeːʃaː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["हमेशा खुश रहो।", "वह हमेशा देर से आता है।"]
+  },
+  {
+    "id": "word_hi_kabhi",
+    "word": "कभी",
+    "meaning": "sometimes/ever",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "kəbʰiː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["कभी-कभी।", "कभी आओ।"]
+  },
+  {
+    "id": "word_hi_kabhi_nahi",
+    "word": "कभी नहीं",
+    "meaning": "never",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "kəbʰiː nəhĩː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["मैं कभी नहीं जाऊँगा।", "कभी नहीं।"]
+  },
+  {
+    "id": "word_hi_aaj",
+    "word": "आज",
+    "meaning": "today",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "aːd͡ʒ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["आज का दिन।", "आज मिलते हैं।"]
+  },
+  {
+    "id": "word_hi_kal",
+    "word": "कल",
+    "meaning": "yesterday/tomorrow",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "kəl"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["कल मिलेंगे।", "कल क्या हुआ?"]
+  },
+  {
+    "id": "word_hi_abhi",
+    "word": "अभी",
+    "meaning": "now/just now",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "əbʰiː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["अभी आओ।", "अभी-अभी आया हूँ।"]
+  },
+  {
+    "id": "word_hi_yahan",
+    "word": "यहाँ",
+    "meaning": "here",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "jəhãː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["यहाँ आओ।", "यहाँ बैठो।"]
+  },
+  {
+    "id": "word_hi_vahan",
+    "word": "वहाँ",
+    "meaning": "there",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ʋəhãː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["वहाँ जाओ।", "वहाँ क्या है?"]
+  },
+  {
+    "id": "word_hi_andar",
+    "word": "अंदर",
+    "meaning": "inside",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ənd̪ər"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["अंदर आओ।", "अंदर बैठो।"]
+  },
+  {
+    "id": "word_hi_bahar",
+    "word": "बाहर",
+    "meaning": "outside",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "baːhər"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["बाहर जाओ।", "बाहर खेलो।"]
+  },
+  {
+    "id": "word_hi_upar",
+    "word": "ऊपर",
+    "meaning": "up/above",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "uːpər"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["ऊपर देखो।", "ऊपर जाओ।"]
+  },
+  {
+    "id": "word_hi_niche",
+    "word": "नीचे",
+    "meaning": "down/below",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "niːt͡ʃeː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["नीचे आओ।", "नीचे देखो।"]
+  },
+  {
+    "id": "word_hi_aage",
+    "word": "आगे",
+    "meaning": "forward/ahead",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "aːɡeː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["आगे बढ़ो।", "आगे चलो।"]
+  },
+  {
+    "id": "word_hi_peeche",
+    "word": "पीछे",
+    "meaning": "behind/back",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "piːt͡ʃʰeː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["पीछे देखो।", "पीछे हटो।"]
+  },
+  {
+    "id": "word_hi_saath",
+    "word": "साथ",
+    "meaning": "together/with",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "saːt̪ʰ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["साथ चलो।", "मेरे साथ आओ।"]
+  },
+  {
+    "id": "word_hi_phir",
+    "word": "फिर",
+    "meaning": "again/then",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "pʰɪr"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["फिर आना।", "फिर मिलेंगे।"]
+  }
+]

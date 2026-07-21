@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_hi_namaste",
+    "word": "नमस्ते",
+    "meaning": "hello/greetings (respectful)",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "nəməsteː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["नमस्ते, आप कैसे हैं?", "उसने सबको नमस्ते कहा।"]
+  },
+  {
+    "id": "word_hi_namaskar",
+    "word": "नमस्कार",
+    "meaning": "hello/greetings (formal)",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "nəməskaːr"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["नमस्कार जी।", "नमस्कार, आपसे मिलकर खुशी हुई।"]
+  },
+  {
+    "id": "word_hi_alvida",
+    "word": "अलविदा",
+    "meaning": "goodbye",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "əlʋɪd̪aː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["अलविदा, कल मिलेंगे।", "उसने अलविदा कहा।"]
+  },
+  {
+    "id": "word_hi_shukriya",
+    "word": "शुक्रिया",
+    "meaning": "thank you",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ʃʊkrɪjaː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["आपकी मदद के लिए शुक्रिया।", "बहुत शुक्रिया।"]
+  },
+  {
+    "id": "word_hi_dhanyavaad",
+    "word": "धन्यवाद",
+    "meaning": "thank you (formal)",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "d̪ʰənjaʋaːd̪"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["धन्यवाद, आप बहुत अच्छे हैं।", "आपका धन्यवाद।"]
+  },
+  {
+    "id": "word_hi_kripya",
+    "word": "कृपया",
+    "meaning": "please",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "krɪpjaː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["कृपया बैठिए।", "कृपया मेरी मदद करें।"]
+  },
+  {
+    "id": "word_hi_maaf_kijiye",
+    "word": "माफ़ कीजिए",
+    "meaning": "sorry/excuse me",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "maːf kiːd͡ʒɪeː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["माफ़ कीजिए, मैं देर से आया।", "माफ़ कीजिए, क्या आप मेरी मदद कर सकते हैं?"]
+  },
+  {
+    "id": "word_hi_shubh_ratri",
+    "word": "शुभ रात्रि",
+    "meaning": "good night",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ʃʊbʰ raːt̪rɪ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["शुभ रात्रि, अच्छी नींद आए।", "सबको शुभ रात्रि कहकर सो गया।"]
+  },
+  {
+    "id": "word_hi_subah_bakhair",
+    "word": "सुबह बख़ैर",
+    "meaning": "good morning",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "sʊbəh bəxɛːr"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["सुबह बख़ैर, आज का दिन शुभ हो।", "सुबह बख़ैर जी।"]
+  },
+  {
+    "id": "word_hi_shaam_bakhair",
+    "word": "शाम बख़ैर",
+    "meaning": "good evening",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ʃaːm bəxɛːr"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["शाम बख़ैर, कैसे हैं आप?", "शाम बख़ैर सर।"]
+  },
+  {
+    "id": "word_hi_aap_kaise_hain",
+    "word": "आप कैसे हैं",
+    "meaning": "how are you (formal)",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "aːp kɛːseː hɛ̃ː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["नमस्ते, आप कैसे हैं?", "आप कैसे हैं आजकल?"]
+  },
+  {
+    "id": "word_hi_tum_kaise_ho",
+    "word": "तुम कैसे हो",
+    "meaning": "how are you (informal)",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "t̪ʊm kɛːseː hoː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["हाय, तुम कैसे हो?", "तुम कैसे हो भाई?"]
+  },
+  {
+    "id": "word_hi_swagat_hai",
+    "word": "स्वागत है",
+    "meaning": "welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "sʋaːɡət̪ hɛː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["आपका स्वागत है।", "हमारे घर में स्वागत है।"]
+  },
+  {
+    "id": "word_hi_badhaai",
+    "word": "बधाई",
+    "meaning": "congratulations",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "bəd̪ʰaːiː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["आपको बधाई हो।", "बधाई हो, आपने जीत लिया।"]
+  },
+  {
+    "id": "word_hi_phir_milenge",
+    "word": "फिर मिलेंगे",
+    "meaning": "see you later",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "pʰɪr mɪleːŋɡeː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["ठीक है, फिर मिलेंगे।", "फिर मिलेंगे कल।"]
+  }
+]

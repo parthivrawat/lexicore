@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_de_haus",
+    "word": "Haus",
+    "meaning": "home/house",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "haʊs"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Ich gehe nach Hause.", "Das ist mein Haus."]
+  },
+  {
+    "id": "word_de_wasser",
+    "word": "Wasser",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈvasɐ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Trink Wasser.", "Das Wasser ist heiß."]
+  },
+  {
+    "id": "word_de_essen_noun",
+    "word": "Essen",
+    "meaning": "food",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈɛsn̩"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Das Essen ist fertig.", "Iss das Essen."]
+  },
+  {
+    "id": "word_de_buch",
+    "word": "Buch",
+    "meaning": "book",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "buːx"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Lies das Buch.", "Dieses Buch ist gut."]
+  },
+  {
+    "id": "word_de_stift",
+    "word": "Stift",
+    "meaning": "pen",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ʃtɪft"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Gib mir den Stift.", "Mein Stift ist weg."]
+  },
+  {
+    "id": "word_de_papier",
+    "word": "Papier",
+    "meaning": "paper",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "paˈpiːɐ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Schreib auf Papier.", "Ich brauche Papier."]
+  },
+  {
+    "id": "word_de_tur",
+    "word": "Tür",
+    "meaning": "door",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "tyːɐ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Öffne die Tür.", "Schließ die Tür."]
+  },
+  {
+    "id": "word_de_fenster",
+    "word": "Fenster",
+    "meaning": "window",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈfɛnstɐ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Öffne das Fenster.", "Das Fenster ist kaputt."]
+  },
+  {
+    "id": "word_de_stuhl",
+    "word": "Stuhl",
+    "meaning": "chair",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ʃtuːl"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Sitz auf dem Stuhl.", "Der Stuhl ist bequem."]
+  },
+  {
+    "id": "word_de_tisch",
+    "word": "Tisch",
+    "meaning": "table",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "tɪʃ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Leg es auf den Tisch.", "Der Tisch ist sauber."]
+  },
+  {
+    "id": "word_de_bett",
+    "word": "Bett",
+    "meaning": "bed",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "bɛt"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Schlaf im Bett.", "Das Bett ist bequem."]
+  },
+  {
+    "id": "word_de_kleidung",
+    "word": "Kleidung",
+    "meaning": "clothes",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈklaɪdʊŋ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Zieh Kleidung an.", "Wasch die Kleidung."]
+  },
+  {
+    "id": "word_de_schuhe",
+    "word": "Schuhe",
+    "meaning": "shoes",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈʃuːə"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Zieh die Schuhe an.", "Zieh die Schuhe aus."]
+  },
+  {
+    "id": "word_de_auto",
+    "word": "Auto",
+    "meaning": "car",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈaʊto"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Fahr das Auto.", "Das Auto ist neu."]
+  },
+  {
+    "id": "word_de_telefon",
+    "word": "Telefon",
+    "meaning": "phone",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "teləˈfoːn"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Ruf per Telefon an.", "Das Telefon klingelt."]
+  },
+  {
+    "id": "word_de_computer",
+    "word": "Computer",
+    "meaning": "computer",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "kɔmˈpjuːtɐ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Benutze den Computer.", "Der Computer ist schnell."]
+  },
+  {
+    "id": "word_de_schule",
+    "word": "Schule",
+    "meaning": "school",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈʃuːlə"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Geh zur Schule.", "Die Schule ist nah."]
+  },
+  {
+    "id": "word_de_freund",
+    "word": "Freund",
+    "meaning": "friend",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "fʁɔʏnt"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Er ist mein Freund.", "Guter Freund."]
+  },
+  {
+    "id": "word_de_familie",
+    "word": "Familie",
+    "meaning": "family",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "faˈmiːliə"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Meine Familie ist groß.", "Liebe die Familie."]
+  },
+  {
+    "id": "word_de_mutter",
+    "word": "Mutter",
+    "meaning": "mother",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈmʊtɐ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Mutter ist zu Hause.", "Mutterliebe."]
+  },
+  {
+    "id": "word_de_vater",
+    "word": "Vater",
+    "meaning": "father",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈfaːtɐ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Vater arbeitet.", "Respektiere den Vater."]
+  },
+  {
+    "id": "word_de_bruder",
+    "word": "Bruder",
+    "meaning": "brother",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈbʁuːdɐ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Mein älterer Bruder.", "Ich habe einen Bruder."]
+  },
+  {
+    "id": "word_de_schwester",
+    "word": "Schwester",
+    "meaning": "sister",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈʃvɛstɐ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Meine jüngere Schwester.", "Ich habe eine Schwester."]
+  },
+  {
+    "id": "word_de_tag",
+    "word": "Tag",
+    "meaning": "day",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "taːk"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Heute ist ein guter Tag.", "Neuer Tag."]
+  },
+  {
+    "id": "word_de_nacht",
+    "word": "Nacht",
+    "meaning": "night",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "naxt"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Die Nacht ist gekommen.", "Nachts schlafen."]
+  }
+]

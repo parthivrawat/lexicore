@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_pt_em",
+    "word": "em",
+    "meaning": "in/at/on",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ẽj"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Em casa.", "Na escola."]
+  },
+  {
+    "id": "word_pt_de",
+    "word": "de",
+    "meaning": "of/from",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "d͡ʒi"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["De Portugal.", "Um copo de água."]
+  },
+  {
+    "id": "word_pt_para",
+    "word": "para",
+    "meaning": "to/for",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈpaɾɐ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Vou para casa.", "Para você."]
+  },
+  {
+    "id": "word_pt_com",
+    "word": "com",
+    "meaning": "with",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "kõ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Com amigos.", "Com a família."]
+  },
+  {
+    "id": "word_pt_sem",
+    "word": "sem",
+    "meaning": "without",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "sẽj"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Sem água.", "Sem você."]
+  },
+  {
+    "id": "word_pt_por",
+    "word": "por",
+    "meaning": "by/through",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "puʁ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Passo por sua casa.", "Obrigado por vir."]
+  },
+  {
+    "id": "word_pt_sobre",
+    "word": "sobre",
+    "meaning": "on/about",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈsobɾi"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Sobre a mesa.", "Falamos sobre você."]
+  },
+  {
+    "id": "word_pt_sob",
+    "word": "sob",
+    "meaning": "under",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "sob"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Sob a mesa.", "Sob a árvore."]
+  },
+  {
+    "id": "word_pt_entre",
+    "word": "entre",
+    "meaning": "between",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈẽtɾi"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Entre as casas.", "Entre nós."]
+  },
+  {
+    "id": "word_pt_ate",
+    "word": "até",
+    "meaning": "until/up to",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "aˈtɛ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Até amanhã.", "Até aqui."]
+  },
+  {
+    "id": "word_pt_desde",
+    "word": "desde",
+    "meaning": "from/since",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈdezd͡ʒi"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Desde aqui.", "Desde ontem."]
+  },
+  {
+    "id": "word_pt_apos",
+    "word": "após",
+    "meaning": "after",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ɐˈpɔs"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Após a comida.", "Após a escola."]
+  },
+  {
+    "id": "word_pt_antes",
+    "word": "antes",
+    "meaning": "before",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈɐ̃t͡ʃis"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Antes de dormir.", "Antes da comida."]
+  },
+  {
+    "id": "word_pt_contra",
+    "word": "contra",
+    "meaning": "against",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈkõtɾɐ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Contra a parede.", "Lutar contra algo."]
+  },
+  {
+    "id": "word_pt_durante",
+    "word": "durante",
+    "meaning": "during",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "duˈɾɐ̃t͡ʃi"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Durante o dia.", "Durante a aula."]
+  }
+]

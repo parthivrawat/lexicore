@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_ja_konnichiwa",
+    "word": "こんにちは",
+    "meaning": "hello",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "koɴɲit͡ɕiɰa"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["こんにちは、元気ですか？", "こんにちは、みんな！"]
+  },
+  {
+    "id": "word_ja_ohayo",
+    "word": "おはよう",
+    "meaning": "good morning",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ohajoː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["おはよう、お母さん。", "おはよう、みんな。"]
+  },
+  {
+    "id": "word_ja_konbanwa",
+    "word": "こんばんは",
+    "meaning": "good evening",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "koɴbaɴɰa"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["こんばんは、友達。", "こんばんは、皆さん。"]
+  },
+  {
+    "id": "word_ja_sayonara",
+    "word": "さようなら",
+    "meaning": "goodbye",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "sajoːnaɾa"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["さようなら、また明日。", "さようなら、友達。"]
+  },
+  {
+    "id": "word_ja_ja_ne",
+    "word": "じゃあね",
+    "meaning": "bye (informal)",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "d͡ʑaːne"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["じゃあね、また後で！", "じゃあね！"]
+  },
+  {
+    "id": "word_ja_arigatou",
+    "word": "ありがとう",
+    "meaning": "thank you",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "aɾiɡatoː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["ありがとう、助けてくれて。", "どうもありがとう。"]
+  },
+  {
+    "id": "word_ja_douzo",
+    "word": "どうぞ",
+    "meaning": "please/here you go",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "doːzo"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["どうぞ、座ってください。", "どうぞ。"]
+  },
+  {
+    "id": "word_ja_sumimasen",
+    "word": "すみません",
+    "meaning": "sorry/excuse me",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "sɯmimasen"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["すみません、遅れました。", "すみません、通してください。"]
+  },
+  {
+    "id": "word_ja_oyasumi",
+    "word": "おやすみ",
+    "meaning": "good night",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ojasɯmi"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["おやすみ、よく寝てね。", "おやすみ、みんな。"]
+  },
+  {
+    "id": "word_ja_genki_desu_ka",
+    "word": "元気ですか",
+    "meaning": "how are you",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ɡeŋki desɯ ka"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["こんにちは、元気ですか？", "元気ですか？"]
+  },
+  {
+    "id": "word_ja_genki_desu",
+    "word": "元気です",
+    "meaning": "I'm fine",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ɡeŋki desɯ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["元気です、ありがとう。", "元気ですか？ - 元気です。"]
+  },
+  {
+    "id": "word_ja_yokoso",
+    "word": "ようこそ",
+    "meaning": "welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "joːkoso"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["ようこそ、私の家へ。", "ようこそ！"]
+  },
+  {
+    "id": "word_ja_omedetou",
+    "word": "おめでとう",
+    "meaning": "congratulations",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "omedetoː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["おめでとう、成功したね！", "おめでとう！"]
+  },
+  {
+    "id": "word_ja_mata_ne",
+    "word": "またね",
+    "meaning": "see you later",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "matane"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["またね、また会おう。", "またね！"]
+  },
+  {
+    "id": "word_ja_irasshaimase",
+    "word": "いらっしゃいませ",
+    "meaning": "welcome (店)",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "iɾaɕɕaimase"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["いらっしゃいませ！", "お店でいらっしゃいませ。"]
+  }
+]

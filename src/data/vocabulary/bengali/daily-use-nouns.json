@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_bn_bari",
+    "word": "বাড়ি",
+    "meaning": "home/house",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "baɽi"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["আমি বাড়ি যাচ্ছি।", "এটা আমার বাড়ি।"]
+  },
+  {
+    "id": "word_bn_jol",
+    "word": "জল",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dʒɔl"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["জল পান করো।", "জল গরম।"]
+  },
+  {
+    "id": "word_bn_khabar",
+    "word": "খাবার",
+    "meaning": "food",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kʰabaɾ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["খাবার তৈরি।", "খাবার খাও।"]
+  },
+  {
+    "id": "word_bn_boi",
+    "word": "বই",
+    "meaning": "book",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "boi"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["বই পড়ো।", "এই বই ভালো।"]
+  },
+  {
+    "id": "word_bn_kolom",
+    "word": "কলম",
+    "meaning": "pen",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kɔlɔm"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["আমাকে কলম দাও।", "আমার কলম হারিয়ে গেছে।"]
+  },
+  {
+    "id": "word_bn_kagoj",
+    "word": "কাগজ",
+    "meaning": "paper",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kagɔdʒ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["কাগজে লেখো।", "কাগজ দরকার।"]
+  },
+  {
+    "id": "word_bn_dorja",
+    "word": "দরজা",
+    "meaning": "door",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dɔɾdʒa"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["দরজা খোলো।", "দরজা বন্ধ করো।"]
+  },
+  {
+    "id": "word_bn_janala",
+    "word": "জানালা",
+    "meaning": "window",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dʒanala"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["জানালা খোলো।", "জানালা ভাঙা।"]
+  },
+  {
+    "id": "word_bn_chair",
+    "word": "চেয়ার",
+    "meaning": "chair",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "tʃʰejaɾ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["চেয়ারে বসো।", "চেয়ার আরামদায়ক।"]
+  },
+  {
+    "id": "word_bn_table",
+    "word": "টেবিল",
+    "meaning": "table",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʈebil"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["টেবিলে রাখো।", "টেবিল পরিষ্কার।"]
+  },
+  {
+    "id": "word_bn_khat",
+    "word": "খাট",
+    "meaning": "bed",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kʰaʈ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["খাটে ঘুমাও।", "খাট আরামদায়ক।"]
+  },
+  {
+    "id": "word_bn_kapor",
+    "word": "কাপড়",
+    "meaning": "clothes",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kapɔɽ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["কাপড় পরো।", "কাপড় ধোও।"]
+  },
+  {
+    "id": "word_bn_juta",
+    "word": "জুতা",
+    "meaning": "shoes",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dʒuta"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["জুতা পরো।", "জুতা খোলো।"]
+  },
+  {
+    "id": "word_bn_gari",
+    "word": "গাড়ি",
+    "meaning": "car",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ɡaɽi"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["গাড়ি চালাও।", "গাড়ি এসেছে।"]
+  },
+  {
+    "id": "word_bn_phone",
+    "word": "ফোন",
+    "meaning": "phone",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "pʰon"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["ফোনে কল করো।", "ফোন বাজছে।"]
+  },
+  {
+    "id": "word_bn_computer",
+    "word": "কম্পিউটার",
+    "meaning": "computer",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kɔmpiuʈaɾ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["কম্পিউটার ব্যবহার করো।", "কম্পিউটার দ্রুত।"]
+  },
+  {
+    "id": "word_bn_school",
+    "word": "স্কুল",
+    "meaning": "school",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "skul"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["স্কুলে যাও।", "স্কুল কাছে।"]
+  },
+  {
+    "id": "word_bn_bondhu",
+    "word": "বন্ধু",
+    "meaning": "friend",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "bɔndʱu"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["সে আমার বন্ধু।", "ভালো বন্ধু।"]
+  },
+  {
+    "id": "word_bn_poribar",
+    "word": "পরিবার",
+    "meaning": "family",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "pɔɾibaɾ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["আমার পরিবার বড়।", "পরিবারকে ভালোবাসো।"]
+  },
+  {
+    "id": "word_bn_ma",
+    "word": "মা",
+    "meaning": "mother",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ma"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["মা বাড়িতে আছেন।", "মায়ের ভালোবাসা।"]
+  },
+  {
+    "id": "word_bn_baba",
+    "word": "বাবা",
+    "meaning": "father",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "baba"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["বাবা কাজে আছেন।", "বাবাকে সম্মান করো।"]
+  },
+  {
+    "id": "word_bn_bhai",
+    "word": "ভাই",
+    "meaning": "brother",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "bʱai"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["আমার বড় ভাই।", "আমার একটি ভাই আছে।"]
+  },
+  {
+    "id": "word_bn_bon",
+    "word": "বোন",
+    "meaning": "sister",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "bon"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["আমার ছোট বোন।", "আমার একটি বোন আছে।"]
+  },
+  {
+    "id": "word_bn_din",
+    "word": "দিন",
+    "meaning": "day",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "din"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["আজ ভালো দিন।", "নতুন দিন।"]
+  },
+  {
+    "id": "word_bn_rat",
+    "word": "রাত",
+    "meaning": "night",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ɾat"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["রাত হয়েছে।", "রাতে ঘুমাও।"]
+  }
+]

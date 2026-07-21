@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_id_nol",
+    "word": "nol",
+    "meaning": "zero",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "nol"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Nol derajat.", "Mulai dari nol."]
+  },
+  {
+    "id": "word_id_satu",
+    "word": "satu",
+    "meaning": "one",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "satu"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Satu orang.", "Saya punya satu."]
+  },
+  {
+    "id": "word_id_dua",
+    "word": "dua",
+    "meaning": "two",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "dua"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Dua tambah tiga.", "Saya punya dua."]
+  },
+  {
+    "id": "word_id_tiga",
+    "word": "tiga",
+    "meaning": "three",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "tiɡa"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Tiga hari.", "Tiga buku."]
+  },
+  {
+    "id": "word_id_empat",
+    "word": "empat",
+    "meaning": "four",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "əmpat"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Empat orang.", "Empat musim."]
+  },
+  {
+    "id": "word_id_lima",
+    "word": "lima",
+    "meaning": "five",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "lima"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Lima rupiah.", "Jam lima."]
+  },
+  {
+    "id": "word_id_enam",
+    "word": "enam",
+    "meaning": "six",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "ənam"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Enam bulan.", "Enam buku."]
+  },
+  {
+    "id": "word_id_tujuh",
+    "word": "tujuh",
+    "meaning": "seven",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "tudʒuh"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Tujuh hari.", "Tujuh orang."]
+  },
+  {
+    "id": "word_id_delapan",
+    "word": "delapan",
+    "meaning": "eight",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "dəlapan"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Delapan kilo.", "Delapan jam."]
+  },
+  {
+    "id": "word_id_sembilan",
+    "word": "sembilan",
+    "meaning": "nine",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "səmbilan"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Sembilan bulan.", "Sembilan buku."]
+  },
+  {
+    "id": "word_id_sepuluh",
+    "word": "sepuluh",
+    "meaning": "ten",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "səpuluh"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Sepuluh rupiah.", "Sepuluh tahun."]
+  },
+  {
+    "id": "word_id_dua_puluh",
+    "word": "dua puluh",
+    "meaning": "twenty",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "dua puluh"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Dua puluh orang.", "Dua puluh rupiah."]
+  },
+  {
+    "id": "word_id_lima_puluh",
+    "word": "lima puluh",
+    "meaning": "fifty",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "lima puluh"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Lima puluh persen.", "Lima puluh rupiah."]
+  },
+  {
+    "id": "word_id_seratus",
+    "word": "seratus",
+    "meaning": "hundred",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "səratus"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Seratus rupiah.", "Seratus tahun."]
+  },
+  {
+    "id": "word_id_seribu",
+    "word": "seribu",
+    "meaning": "thousand",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "səribu"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["Seribu rupiah.", "Seribu orang."]
+  }
+]

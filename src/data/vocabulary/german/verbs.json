@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_de_sein",
+    "word": "sein",
+    "meaning": "to be",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "zaɪn"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Ich will Arzt sein.", "Das ist."]
+  },
+  {
+    "id": "word_de_machen",
+    "word": "machen",
+    "meaning": "to do/make",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈmaxn̩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Was machen?", "Ich mache Arbeit."]
+  },
+  {
+    "id": "word_de_gehen",
+    "word": "gehen",
+    "meaning": "to go",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈɡeːən"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Ich gehe zur Schule.", "Wohin gehst du?"]
+  },
+  {
+    "id": "word_de_kommen",
+    "word": "kommen",
+    "meaning": "to come",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈkɔmən"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Komm hier.", "Er kommt morgen."]
+  },
+  {
+    "id": "word_de_essen",
+    "word": "essen",
+    "meaning": "to eat",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈɛsn̩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Ich esse Essen.", "Willst du essen?"]
+  },
+  {
+    "id": "word_de_trinken",
+    "word": "trinken",
+    "meaning": "to drink",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈtʁɪŋkn̩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Trink Wasser.", "Willst du trinken?"]
+  },
+  {
+    "id": "word_de_sehen",
+    "word": "sehen",
+    "meaning": "to see",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈzeːən"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Ich sehe dich.", "Siehst du das?"]
+  },
+  {
+    "id": "word_de_horen",
+    "word": "hören",
+    "meaning": "to hear",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈhøːʁən"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Ich höre Geräusch.", "Hörst du?"]
+  },
+  {
+    "id": "word_de_sprechen",
+    "word": "sprechen",
+    "meaning": "to speak",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈʃpʁɛçn̩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Sprich Deutsch.", "Sprich die Wahrheit."]
+  },
+  {
+    "id": "word_de_lesen",
+    "word": "lesen",
+    "meaning": "to read",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈleːzn̩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Lies das Buch.", "Ich lese."]
+  },
+  {
+    "id": "word_de_schreiben",
+    "word": "schreiben",
+    "meaning": "to write",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈʃʁaɪbn̩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Schreib einen Brief.", "Schreib deinen Namen."]
+  },
+  {
+    "id": "word_de_geben",
+    "word": "geben",
+    "meaning": "to give",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈɡeːbn̩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Gib mir das Buch.", "Gib Wasser."]
+  },
+  {
+    "id": "word_de_nehmen",
+    "word": "nehmen",
+    "meaning": "to take",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈneːmən"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Nimm das.", "Ich nehme."]
+  },
+  {
+    "id": "word_de_schlafen",
+    "word": "schlafen",
+    "meaning": "to sleep",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈʃlaːfn̩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Schlaf gut.", "Ich schlafe."]
+  },
+  {
+    "id": "word_de_aufwachen",
+    "word": "aufwachen",
+    "meaning": "to wake up",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈaʊfvaxn̩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Wach früh auf.", "Ich wache auf."]
+  },
+  {
+    "id": "word_de_sitzen",
+    "word": "sitzen",
+    "meaning": "to sit",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈzɪtsn̩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Sitz hier.", "Ich sitze."]
+  },
+  {
+    "id": "word_de_stehen",
+    "word": "stehen",
+    "meaning": "to stand",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈʃteːən"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Steh hier.", "Er steht."]
+  },
+  {
+    "id": "word_de_laufen",
+    "word": "laufen",
+    "meaning": "to walk/run",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈlaʊfn̩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Lauf langsam.", "Ich laufe."]
+  },
+  {
+    "id": "word_de_rennen",
+    "word": "rennen",
+    "meaning": "to run",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈʁɛnən"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Renn schnell.", "Er rennt."]
+  },
+  {
+    "id": "word_de_lachen",
+    "word": "lachen",
+    "meaning": "to laugh",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈlaxn̩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Lach mehr.", "Er lacht."]
+  },
+  {
+    "id": "word_de_weinen",
+    "word": "weinen",
+    "meaning": "to cry",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈvaɪnən"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Wein nicht.", "Das Kind weint."]
+  },
+  {
+    "id": "word_de_verstehen",
+    "word": "verstehen",
+    "meaning": "to understand",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "fɛɐˈʃteːən"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Ich verstehe.", "Verstehst du?"]
+  },
+  {
+    "id": "word_de_wollen",
+    "word": "wollen",
+    "meaning": "to want",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈvɔlən"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Ich will gehen.", "Was willst du?"]
+  },
+  {
+    "id": "word_de_lieben",
+    "word": "lieben",
+    "meaning": "to love",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈliːbn̩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Ich liebe dich.", "Liebe die Familie."]
+  },
+  {
+    "id": "word_de_arbeiten",
+    "word": "arbeiten",
+    "meaning": "to work",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈaʁbaɪtn̩"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Arbeite hart.", "Ich arbeite im Büro."]
+  }
+]

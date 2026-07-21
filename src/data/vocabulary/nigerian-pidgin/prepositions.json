@@ -1,0 +1,132 @@
+[
+  {
+    "id": "word_pcm_for",
+    "word": "For",
+    "meaning": "in/at",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "fɔː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["For house.", "For here."]
+  },
+  {
+    "id": "word_pcm_to",
+    "word": "To",
+    "meaning": "to",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "tuː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Go to school.", "Where?"]
+  },
+  {
+    "id": "word_pcm_from",
+    "word": "From",
+    "meaning": "from",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "frɔm"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["From Lagos.", "From where?"]
+  },
+  {
+    "id": "word_pcm_with",
+    "word": "With",
+    "meaning": "with",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "wɪð"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["With friend.", "With who?"]
+  },
+  {
+    "id": "word_pcm_for_prep",
+    "word": "For",
+    "meaning": "for",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "fɔː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["For you.", "For wetin?"]
+  },
+  {
+    "id": "word_pcm_about",
+    "word": "About",
+    "meaning": "about",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "əbaʊt"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["About this?", "Talk about am."]
+  },
+  {
+    "id": "word_pcm_without",
+    "word": "Without",
+    "meaning": "without",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "wɪðaʊt"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Without you.", "Without reason."]
+  },
+  {
+    "id": "word_pcm_before",
+    "word": "Before",
+    "meaning": "before",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "bɪfɔː"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Before chop.", "Before go."]
+  },
+  {
+    "id": "word_pcm_after",
+    "word": "After",
+    "meaning": "after",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "ɑːftə"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["After chop.", "After that."]
+  },
+  {
+    "id": "word_pcm_on_top",
+    "word": "On top",
+    "meaning": "above/on",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "ɔn tɔp"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["On top.", "On top table."]
+  }
+]

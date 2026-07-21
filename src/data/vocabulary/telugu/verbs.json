@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_te_undadam",
+    "word": "ఉండటం",
+    "meaning": "to be",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "unɖəʈəm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["నేను విద్యార్థిని.", "అతను ఉపాధ్యాయుడు."]
+  },
+  {
+    "id": "word_te_cheyadam",
+    "word": "చేయడం",
+    "meaning": "to do",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "t͡ʃeːjəɖəm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["ఏమి చేస్తున్నారు?", "పని చేయండి."]
+  },
+  {
+    "id": "word_te_velladam",
+    "word": "వెళ్ళడం",
+    "meaning": "to go",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ʋeɭɭəɖəm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["పాఠశాలకు వెళ్ళు.", "ఎక్కడికి వెళ్తున్నారు?"]
+  },
+  {
+    "id": "word_te_raavadam",
+    "word": "రావడం",
+    "meaning": "to come",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ɾaːʋəɖəm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["ఇక్కడకు రా.", "అతను రేపు వస్తాడు."]
+  },
+  {
+    "id": "word_te_tinadam",
+    "word": "తినడం",
+    "meaning": "to eat",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "t̪inəɖəm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["భోజనం తినండి.", "ఏమి తిన్నారు?"]
+  },
+  {
+    "id": "word_te_thaagadam",
+    "word": "తాగడం",
+    "meaning": "to drink",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "t̪aːɡəɖəm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["నీళ్ళు తాగు.", "టీ తాగు."]
+  },
+  {
+    "id": "word_te_choosudam",
+    "word": "చూడటం",
+    "meaning": "to see",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "t͡ʃuːɖəʈəm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["సినిమా చూడు.", "ఇది చూడు."]
+  },
+  {
+    "id": "word_te_vinadam",
+    "word": "వినడం",
+    "meaning": "to hear",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ʋinəɖəm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["పాట వినండి.", "వింటున్నారా?"]
+  },
+  {
+    "id": "word_te_matladadam",
+    "word": "మాట్లాడటం",
+    "meaning": "to speak",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "maːʈlaːɖəʈəm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["తెలుగు మాట్లాడు.", "బిగ్గరగా మాట్లాడు."]
+  },
+  {
+    "id": "word_te_chadavadam",
+    "word": "చదవడం",
+    "meaning": "to read",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "t͡ʃəd̪əʋəɖəm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["పుస్తకం చదువు.", "వార్తాపత్రిక చదువు."]
+  },
+  {
+    "id": "word_te_rayyadam",
+    "word": "రాయడం",
+    "meaning": "to write",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ɾaːjəɖəm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["ఉత్తరం రాయండి.", "పేరు రాయండి."]
+  },
+  {
+    "id": "word_te_ivvadam",
+    "word": "ఇవ్వడం",
+    "meaning": "to give",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ivʋəɖəm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["నాకు పుస్తకం ఇవ్వండి.", "నీళ్ళు ఇవ్వండి."]
+  },
+  {
+    "id": "word_te_teesukovadam",
+    "word": "తీసుకోవడం",
+    "meaning": "to take",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "t̪iːsukoːʋəɖəm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["ఇది తీసుకో.", "పుస్తకం తీసుకో."]
+  },
+  {
+    "id": "word_te_nidurapovadam",
+    "word": "నిద్రపోవడం",
+    "meaning": "to sleep",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "nid̪ɾəpoːʋəɖəm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["నిద్రపో.", "బాగా నిద్రపో."]
+  },
+  {
+    "id": "word_te_levadam",
+    "word": "లేవడం",
+    "meaning": "to wake up",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "leːʋəɖəm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["ఉదయం లేవండి.", "త్వరగా లేవండి."]
+  },
+  {
+    "id": "word_te_kurchovadam",
+    "word": "కూర్చోవడం",
+    "meaning": "to sit",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "kuːɾt͡ʃoːʋəɖəm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["ఇక్కడ కూర్చోండి.", "కుర్చీలో కూర్చోండి."]
+  },
+  {
+    "id": "word_te_nilabadadam",
+    "word": "నిలబడటం",
+    "meaning": "to stand",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "niləbəɖəʈəm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["ఇక్కడ నిలబడండి.", "నిటారుగా నిలబడండి."]
+  },
+  {
+    "id": "word_te_nadavadam",
+    "word": "నడవడం",
+    "meaning": "to walk",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "nəɖəʋəɖəm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["నెమ్మదిగా నడవండి.", "రోడ్డుమీద నడవండి."]
+  },
+  {
+    "id": "word_te_parigetadam",
+    "word": "పరిగెత్తడం",
+    "meaning": "to run",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "pəɾiɡet̪t̪əɖəm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["వేగంగా పరిగెత్తు.", "అతను పరిగెత్తుతున్నాడు."]
+  },
+  {
+    "id": "word_te_navvadam",
+    "word": "నవ్వడం",
+    "meaning": "to laugh",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "nəvʋəɖəm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["ఎక్కువగా నవ్వు.", "అతను నవ్వుతున్నాడు."]
+  },
+  {
+    "id": "word_te_edavadam",
+    "word": "ఏడవడం",
+    "meaning": "to cry",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "eːɖəʋəɖəm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["ఏడవకు.", "పిల్లవాడు ఏడుస్తున్నాడు."]
+  },
+  {
+    "id": "word_te_ardham_chesukovadam",
+    "word": "అర్థం చేసుకోవడం",
+    "meaning": "to understand",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "əɾd̪ʱəm t͡ʃeːsukoːʋəɖəm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["నాకు అర్థమైంది.", "మీకు అర్థమైందా?"]
+  },
+  {
+    "id": "word_te_kaavali",
+    "word": "కావాలి",
+    "meaning": "to want",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "kaːʋaːli"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["నాకు కావాలి.", "ఏమి కావాలి?"]
+  },
+  {
+    "id": "word_te_preminchadam",
+    "word": "ప్రేమించడం",
+    "meaning": "to love",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "pɾeːmint͡ʃəɖəm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["నేను నిన్ను ప్రేమిస్తున్నాను.", "కుటుంబాన్ని ప్రేమించు."]
+  },
+  {
+    "id": "word_te_pani_cheyadam",
+    "word": "పని చేయడం",
+    "meaning": "to work",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "pəni t͡ʃeːjəɖəm"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["కష్టపడి పని చేయండి.", "నేను కార్యాలయంలో పని చేస్తున్నాను."]
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_ru_byt",
+    "word": "быть",
+    "meaning": "to be",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "bɨtʲ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Я хочу быть врачом.", "Это есть."]
+  },
+  {
+    "id": "word_ru_delat",
+    "word": "делать",
+    "meaning": "to do/make",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈdʲeɫətʲ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Что делать?", "Я делаю работу."]
+  },
+  {
+    "id": "word_ru_idti",
+    "word": "идти",
+    "meaning": "to go (on foot)",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ɪtʲˈtʲi"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Я иду в школу.", "Куда ты идёшь?"]
+  },
+  {
+    "id": "word_ru_priyti",
+    "word": "прийти",
+    "meaning": "to come",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "prʲɪjˈtʲi"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Приди сюда.", "Он придёт завтра."]
+  },
+  {
+    "id": "word_ru_est",
+    "word": "есть",
+    "meaning": "to eat",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "jestʲ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Я ем еду.", "Хочешь есть?"]
+  },
+  {
+    "id": "word_ru_pit",
+    "word": "пить",
+    "meaning": "to drink",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "pʲitʲ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Пей воду.", "Хочешь пить?"]
+  },
+  {
+    "id": "word_ru_videt",
+    "word": "видеть",
+    "meaning": "to see",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈvʲidʲɪtʲ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Я вижу тебя.", "Видишь это?"]
+  },
+  {
+    "id": "word_ru_slyshat",
+    "word": "слышать",
+    "meaning": "to hear",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈslɨʂətʲ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Я слышу звук.", "Ты слышишь?"]
+  },
+  {
+    "id": "word_ru_govorit",
+    "word": "говорить",
+    "meaning": "to speak",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ɡəvɐˈrʲitʲ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Говори по-русски.", "Говори правду."]
+  },
+  {
+    "id": "word_ru_chitat",
+    "word": "читать",
+    "meaning": "to read",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "tɕɪˈtatʲ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Читай книгу.", "Я читаю."]
+  },
+  {
+    "id": "word_ru_pisat",
+    "word": "писать",
+    "meaning": "to write",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "pʲɪˈsatʲ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Пиши письмо.", "Пиши имя."]
+  },
+  {
+    "id": "word_ru_davat",
+    "word": "давать",
+    "meaning": "to give",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "dɐˈvatʲ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Дай мне книгу.", "Дай воду."]
+  },
+  {
+    "id": "word_ru_brat",
+    "word": "брать",
+    "meaning": "to take",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "bratʲ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Возьми это.", "Я беру."]
+  },
+  {
+    "id": "word_ru_spat",
+    "word": "спать",
+    "meaning": "to sleep",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "spatʲ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Спи хорошо.", "Я сплю."]
+  },
+  {
+    "id": "word_ru_prosypatsya",
+    "word": "просыпаться",
+    "meaning": "to wake up",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "prəsɨˈpat͡sːə"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Просыпайся рано.", "Я просыпаюсь."]
+  },
+  {
+    "id": "word_ru_sidet",
+    "word": "сидеть",
+    "meaning": "to sit",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "sʲɪˈdʲetʲ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Сиди здесь.", "Я сижу."]
+  },
+  {
+    "id": "word_ru_stoyat",
+    "word": "стоять",
+    "meaning": "to stand",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "stɐˈjætʲ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Стой здесь.", "Он стоит."]
+  },
+  {
+    "id": "word_ru_khodit",
+    "word": "ходить",
+    "meaning": "to walk",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "xɐˈdʲitʲ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Ходи медленно.", "Я хожу."]
+  },
+  {
+    "id": "word_ru_bezhat",
+    "word": "бежать",
+    "meaning": "to run",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "bʲɪˈʐatʲ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Беги быстро.", "Он бежит."]
+  },
+  {
+    "id": "word_ru_smeyatsya",
+    "word": "смеяться",
+    "meaning": "to laugh",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "smʲɪˈjat͡sːə"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Смейся больше.", "Он смеётся."]
+  },
+  {
+    "id": "word_ru_plakat",
+    "word": "плакать",
+    "meaning": "to cry",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ˈplakətʲ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Не плачь.", "Ребёнок плачет."]
+  },
+  {
+    "id": "word_ru_ponimat",
+    "word": "понимать",
+    "meaning": "to understand",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "pənʲɪˈmatʲ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Я понимаю.", "Ты понимаешь?"]
+  },
+  {
+    "id": "word_ru_khotet",
+    "word": "хотеть",
+    "meaning": "to want",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "xɐˈtʲetʲ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Я хочу идти.", "Что хочешь?"]
+  },
+  {
+    "id": "word_ru_lyubit",
+    "word": "любить",
+    "meaning": "to love",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "lʲʊˈbʲitʲ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Я люблю тебя.", "Люблю семью."]
+  },
+  {
+    "id": "word_ru_rabotat",
+    "word": "работать",
+    "meaning": "to work",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "rɐˈbotətʲ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Работай усердно.", "Я работаю в офисе."]
+  }
+]

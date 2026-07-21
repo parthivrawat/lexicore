@@ -89,5 +89,174 @@
     ],
     "category": "adverbs",
     "examples": ["Siempre llegas tarde.", "Te quiero siempre."]
+  },
+  {
+    "id": "word_es_nunca",
+    "word": "nunca",
+    "meaning": "never",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈnuŋ.ka"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Nunca lo haré.", "Nunca es tarde."]
+  },
+  {
+    "id": "word_es_hoy",
+    "word": "hoy",
+    "meaning": "today",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "oj"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Hoy es lunes.", "Voy hoy."]
+  },
+  {
+    "id": "word_es_manana",
+    "word": "mañana",
+    "meaning": "tomorrow",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "maˈɲa.na"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Nos vemos mañana.", "Mañana voy."]
+  },
+  {
+    "id": "word_es_ayer",
+    "word": "ayer",
+    "meaning": "yesterday",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "aˈʝeɾ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Ayer llovió.", "Lo vi ayer."]
+  },
+  {
+    "id": "word_es_rapidamente",
+    "word": "rápidamente",
+    "meaning": "quickly",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈra.pi.ða.men.te"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Corre rápidamente.", "Hazlo rápidamente."]
+  },
+  {
+    "id": "word_es_lentamente",
+    "word": "lentamente",
+    "meaning": "slowly",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "len.taˈmen.te"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Camina lentamente.", "Habla lentamente."]
+  },
+  {
+    "id": "word_es_a_veces",
+    "word": "a veces",
+    "meaning": "sometimes",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "a ˈβe.ses"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["A veces voy al cine.", "A veces llueve."]
+  },
+  {
+    "id": "word_es_arriba",
+    "word": "arriba",
+    "meaning": "up/above",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "aˈri.βa"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Mira arriba.", "Vive arriba."]
+  },
+  {
+    "id": "word_es_abajo",
+    "word": "abajo",
+    "meaning": "down/below",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "aˈβa.xo"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Mira abajo.", "Vive abajo."]
+  },
+  {
+    "id": "word_es_dentro",
+    "word": "dentro",
+    "meaning": "inside",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈden.tɾo"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Está dentro.", "Entra dentro."]
+  },
+  {
+    "id": "word_es_fuera",
+    "word": "fuera",
+    "meaning": "outside",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈfwe.ɾa"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Está fuera.", "Sal fuera."]
+  },
+  {
+    "id": "word_es_cerca",
+    "word": "cerca",
+    "meaning": "near/close",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈseɾ.ka"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Vivo cerca.", "Está cerca."]
+  },
+  {
+    "id": "word_es_lejos",
+    "word": "lejos",
+    "meaning": "far",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈle.xos"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Vivo lejos.", "Está lejos."]
   }
 ]

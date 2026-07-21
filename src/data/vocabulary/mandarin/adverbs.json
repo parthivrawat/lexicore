@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_zh_kuai_adv",
+    "word": "快",
+    "meaning": "quickly",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "kʰwai˥˩"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["快来。", "快跑。"]
+  },
+  {
+    "id": "word_zh_man_adv",
+    "word": "慢慢",
+    "meaning": "slowly",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "man˥˩man˥˩"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["慢慢走。", "慢慢说。"]
+  },
+  {
+    "id": "word_zh_hen",
+    "word": "很",
+    "meaning": "very",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "xən˨˩˦"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["很好。", "很多。"]
+  },
+  {
+    "id": "word_zh_yidian",
+    "word": "一点",
+    "meaning": "a little",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "i˥tjɛn˨˩˦"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["等一点。", "给我一点。"]
+  },
+  {
+    "id": "word_zh_zongshi",
+    "word": "总是",
+    "meaning": "always",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tsʊŋ˨˩˦ʂɿ˥˩"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["总是高兴。", "他总是来。"]
+  },
+  {
+    "id": "word_zh_youshi",
+    "word": "有时",
+    "meaning": "sometimes",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "jou˨˩˦ʂɿ˨˩"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["有时去。", "有时下雨。"]
+  },
+  {
+    "id": "word_zh_conglai_bu",
+    "word": "从来不",
+    "meaning": "never",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tsʰʊŋ˨˩lai˨˩pu˥"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["从来不去。", "从来不说。"]
+  },
+  {
+    "id": "word_zh_jintian",
+    "word": "今天",
+    "meaning": "today",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tɕin˥tʰjɛn˥"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["今天很好。", "今天去。"]
+  },
+  {
+    "id": "word_zh_mingtian",
+    "word": "明天",
+    "meaning": "tomorrow",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "miŋ˨˩tʰjɛn˥"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["明天见。", "明天去。"]
+  },
+  {
+    "id": "word_zh_zuotian",
+    "word": "昨天",
+    "meaning": "yesterday",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tswɔ˨˩tʰjɛn˥"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["昨天很好。", "昨天见过。"]
+  },
+  {
+    "id": "word_zh_xianzai",
+    "word": "现在",
+    "meaning": "now",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ɕjɛn˥˩tsai˥˩"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["现在来。", "现在明白了。"]
+  },
+  {
+    "id": "word_zh_zheli",
+    "word": "这里",
+    "meaning": "here",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ʈʂɤ˥˩li˨˩˦"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["来这里。", "坐这里。"]
+  },
+  {
+    "id": "word_zh_nali",
+    "word": "那里",
+    "meaning": "there",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "na˥˩li˨˩˦"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["去那里。", "那里有。"]
+  },
+  {
+    "id": "word_zh_limian",
+    "word": "里面",
+    "meaning": "inside",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "li˨˩˦mjɛn˥˩"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["进里面。", "在里面。"]
+  },
+  {
+    "id": "word_zh_waimian",
+    "word": "外面",
+    "meaning": "outside",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "wai˥˩mjɛn˥˩"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["出外面。", "在外面。"]
+  },
+  {
+    "id": "word_zh_shangmian",
+    "word": "上面",
+    "meaning": "up/above",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ʂɑŋ˥˩mjɛn˥˩"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["看上面。", "在上面。"]
+  },
+  {
+    "id": "word_zh_xiamian",
+    "word": "下面",
+    "meaning": "down/below",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ɕja˥˩mjɛn˥˩"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["看下面。", "在下面。"]
+  },
+  {
+    "id": "word_zh_qianmian",
+    "word": "前面",
+    "meaning": "in front",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "tɕʰjɛn˨˩mjɛn˥˩"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["站前面。", "在前面。"]
+  },
+  {
+    "id": "word_zh_houmian",
+    "word": "后面",
+    "meaning": "behind",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "xou˥˩mjɛn˥˩"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["看后面。", "在后面。"]
+  },
+  {
+    "id": "word_zh_yiqi",
+    "word": "一起",
+    "meaning": "together",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "i˥tɕʰi˨˩˦"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["一起去。", "一起工作。"]
+  }
+]

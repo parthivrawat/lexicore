@@ -1,0 +1,132 @@
+[
+  {
+    "id": "word_id_di",
+    "word": "di",
+    "meaning": "in/at",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "di"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Di rumah.", "Di sini."]
+  },
+  {
+    "id": "word_id_ke",
+    "word": "ke",
+    "meaning": "to",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "kə"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Ke sekolah.", "Ke mana?"]
+  },
+  {
+    "id": "word_id_dari",
+    "word": "dari",
+    "meaning": "from",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "dari"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Dari Jakarta.", "Dari mana?"]
+  },
+  {
+    "id": "word_id_dengan",
+    "word": "dengan",
+    "meaning": "with",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "dəŋan"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Dengan teman.", "Dengan siapa?"]
+  },
+  {
+    "id": "word_id_untuk",
+    "word": "untuk",
+    "meaning": "for",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "untuk"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Untuk kamu.", "Untuk apa?"]
+  },
+  {
+    "id": "word_id_pada",
+    "word": "pada",
+    "meaning": "on/at",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "pada"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Pada hari ini.", "Pada waktu itu."]
+  },
+  {
+    "id": "word_id_tentang",
+    "word": "tentang",
+    "meaning": "about",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "təntaŋ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Tentang apa?", "Bicara tentang."]
+  },
+  {
+    "id": "word_id_tanpa",
+    "word": "tanpa",
+    "meaning": "without",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "tanpa"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Tanpa kamu.", "Tanpa alasan."]
+  },
+  {
+    "id": "word_id_sebelum",
+    "word": "sebelum",
+    "meaning": "before",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "səbəlum"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Sebelum makan.", "Sebelum pergi."]
+  },
+  {
+    "id": "word_id_sesudah",
+    "word": "sesudah",
+    "meaning": "after",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "səsudah"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Sesudah makan.", "Sesudah itu."]
+  }
+]

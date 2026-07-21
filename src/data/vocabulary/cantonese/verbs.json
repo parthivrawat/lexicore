@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_yue_hai",
+    "word": "係",
+    "meaning": "to be",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "hai⁶"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["我係學生。", "佢係老師。"]
+  },
+  {
+    "id": "word_yue_zou",
+    "word": "做",
+    "meaning": "to do",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "zou⁶"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["做咩？", "做功課。"]
+  },
+  {
+    "id": "word_yue_heoi",
+    "word": "去",
+    "meaning": "to go",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "heoi³"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["去邊度？", "去學校。"]
+  },
+  {
+    "id": "word_yue_lai",
+    "word": "嚟",
+    "meaning": "to come",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "lai⁴"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["嚟啦！", "佢嚟咗。"]
+  },
+  {
+    "id": "word_yue_sik",
+    "word": "食",
+    "meaning": "to eat",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "sik⁶"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["食飯。", "食咗未？"]
+  },
+  {
+    "id": "word_yue_jam",
+    "word": "飲",
+    "meaning": "to drink",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "jam²"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["飲水。", "飲茶。"]
+  },
+  {
+    "id": "word_yue_tai",
+    "word": "睇",
+    "meaning": "to see/watch",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "tai²"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["睇戲。", "睇書。"]
+  },
+  {
+    "id": "word_yue_teng",
+    "word": "聽",
+    "meaning": "to hear/listen",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "teng¹"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["聽歌。", "聽日見。"]
+  },
+  {
+    "id": "word_yue_gong",
+    "word": "講",
+    "meaning": "to speak",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "gong²"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["講廣東話。", "講咩？"]
+  },
+  {
+    "id": "word_yue_duk",
+    "word": "讀",
+    "meaning": "to read",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "duk⁶"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["讀書。", "讀大學。"]
+  },
+  {
+    "id": "word_yue_se",
+    "word": "寫",
+    "meaning": "to write",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "se²"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["寫字。", "寫功課。"]
+  },
+  {
+    "id": "word_yue_bei",
+    "word": "畀",
+    "meaning": "to give",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "bei²"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["畀我。", "畀錢。"]
+  },
+  {
+    "id": "word_yue_lo",
+    "word": "攞",
+    "meaning": "to take",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "lo²"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["攞嘢。", "攞錢。"]
+  },
+  {
+    "id": "word_yue_fan_gaau",
+    "word": "瞓覺",
+    "meaning": "to sleep",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "fan³ gaau³"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["瞓覺啦。", "瞓咗未？"]
+  },
+  {
+    "id": "word_yue_hei_san",
+    "word": "起身",
+    "meaning": "to wake up",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "hei² san¹"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["起身啦！", "起身未？"]
+  },
+  {
+    "id": "word_yue_co",
+    "word": "坐",
+    "meaning": "to sit",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "co⁵"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["坐低。", "坐呢度。"]
+  },
+  {
+    "id": "word_yue_kei",
+    "word": "企",
+    "meaning": "to stand",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "kei⁵"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["企喺度。", "企起身。"]
+  },
+  {
+    "id": "word_yue_haang",
+    "word": "行",
+    "meaning": "to walk",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "haang⁴"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["行路。", "行街。"]
+  },
+  {
+    "id": "word_yue_zau",
+    "word": "走",
+    "meaning": "to run",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "zau²"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["走快啲。", "走咗。"]
+  },
+  {
+    "id": "word_yue_siu",
+    "word": "笑",
+    "meaning": "to laugh",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "siu³"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["笑咩？", "好好笑。"]
+  },
+  {
+    "id": "word_yue_haam",
+    "word": "喊",
+    "meaning": "to cry",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "haam³"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["唔好喊。", "喊咗。"]
+  },
+  {
+    "id": "word_yue_ming",
+    "word": "明",
+    "meaning": "to understand",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "ming⁴"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["明唔明？", "我明。"]
+  },
+  {
+    "id": "word_yue_soeng",
+    "word": "想",
+    "meaning": "to want",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "soeng²"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["想食。", "想去。"]
+  },
+  {
+    "id": "word_yue_zung_ji",
+    "word": "鍾意",
+    "meaning": "to like/love",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "zung¹ ji³"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["鍾意你。", "好鍾意。"]
+  },
+  {
+    "id": "word_yue_zou_je",
+    "word": "做嘢",
+    "meaning": "to work",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "zou⁶ je⁵"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["做緊嘢。", "去做嘢。"]
+  }
+]

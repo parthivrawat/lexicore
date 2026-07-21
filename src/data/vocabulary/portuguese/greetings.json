@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_pt_ola",
+    "word": "olá",
+    "meaning": "hello",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "oˈla"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Olá, como vai?", "Olá a todos!"]
+  },
+  {
+    "id": "word_pt_bom_dia",
+    "word": "bom dia",
+    "meaning": "good morning",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "bõ ˈd͡ʒi.ɐ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Bom dia, mãe.", "Bom dia a todos."]
+  },
+  {
+    "id": "word_pt_boa_tarde",
+    "word": "boa tarde",
+    "meaning": "good afternoon",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈbo.ɐ ˈtaʁ.d͡ʒi"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Boa tarde, senhor.", "Boa tarde a todos."]
+  },
+  {
+    "id": "word_pt_boa_noite",
+    "word": "boa noite",
+    "meaning": "good evening/night",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈbo.ɐ ˈnoj.t͡ʃi"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Boa noite, durma bem.", "Boa noite a todos."]
+  },
+  {
+    "id": "word_pt_adeus",
+    "word": "adeus",
+    "meaning": "goodbye",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ɐˈdewʃ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Adeus, até amanhã.", "Adeus, amigo."]
+  },
+  {
+    "id": "word_pt_tchau",
+    "word": "tchau",
+    "meaning": "bye (informal)",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈt͡ʃaw"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Tchau, até logo!", "Tchau!"]
+  },
+  {
+    "id": "word_pt_obrigado",
+    "word": "obrigado/a",
+    "meaning": "thank you",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "obɾiˈɡadu"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Obrigado pela ajuda.", "Muito obrigado."]
+  },
+  {
+    "id": "word_pt_por_favor",
+    "word": "por favor",
+    "meaning": "please",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "puʁ fɐˈvoʁ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Por favor, me ajude.", "Sente-se, por favor."]
+  },
+  {
+    "id": "word_pt_de_nada",
+    "word": "de nada",
+    "meaning": "you're welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "d͡ʒi ˈnadɐ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Obrigado. - De nada.", "De nada, é um prazer."]
+  },
+  {
+    "id": "word_pt_desculpe",
+    "word": "desculpe",
+    "meaning": "sorry/excuse me",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "d͡ʒisˈkuwpi"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Desculpe, cheguei atrasado.", "Desculpe, posso passar?"]
+  },
+  {
+    "id": "word_pt_como_vai",
+    "word": "como vai",
+    "meaning": "how are you",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ˈkomu vaj"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Olá, como vai?", "Como vai você?"]
+  },
+  {
+    "id": "word_pt_bem",
+    "word": "bem",
+    "meaning": "well/fine",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "bẽj"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Estou bem, obrigado.", "Tudo bem."]
+  },
+  {
+    "id": "word_pt_bem_vindo",
+    "word": "bem-vindo",
+    "meaning": "welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "bẽj ˈvĩdu"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Bem-vindo à minha casa.", "Bem-vindo!"]
+  },
+  {
+    "id": "word_pt_parabens",
+    "word": "parabéns",
+    "meaning": "congratulations",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "paɾɐˈbẽjs"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Parabéns pelo sucesso!", "Parabéns!"]
+  },
+  {
+    "id": "word_pt_ate_logo",
+    "word": "até logo",
+    "meaning": "see you later",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "aˈtɛ ˈloɡu"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Até logo, nos vemos.", "Até logo!"]
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_ar_bayt",
+    "word": "بيت",
+    "meaning": "house/home",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "bajt"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["ذهب إلى البيت.", "هذا بيتي."]
+  },
+  {
+    "id": "word_ar_maa",
+    "word": "ماء",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "maːʔ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["اشرب الماء.", "الماء بارد."]
+  },
+  {
+    "id": "word_ar_taam",
+    "word": "طعام",
+    "meaning": "food",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "tˤaʕaːm"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["الطعام جاهز.", "أكل الطعام."]
+  },
+  {
+    "id": "word_ar_kitab",
+    "word": "كتاب",
+    "meaning": "book",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "kitaːb"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["قرأ الكتاب.", "هذا كتاب جيد."]
+  },
+  {
+    "id": "word_ar_qalam",
+    "word": "قلم",
+    "meaning": "pen",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "qalam"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["أعطني القلم.", "قلمي ضاع."]
+  },
+  {
+    "id": "word_ar_waraq",
+    "word": "ورق",
+    "meaning": "paper",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "waraq"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["اكتب على الورق.", "أحتاج ورقا."]
+  },
+  {
+    "id": "word_ar_bab",
+    "word": "باب",
+    "meaning": "door",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "baːb"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["افتح الباب.", "أغلق الباب."]
+  },
+  {
+    "id": "word_ar_naafidha",
+    "word": "نافذة",
+    "meaning": "window",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "naːfiða"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["افتح النافذة.", "النافذة مكسورة."]
+  },
+  {
+    "id": "word_ar_kursi",
+    "word": "كرسي",
+    "meaning": "chair",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "kursiː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["اجلس على الكرسي.", "الكرسي مريح."]
+  },
+  {
+    "id": "word_ar_taawila",
+    "word": "طاولة",
+    "meaning": "table",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "tˤaːwila"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["ضع الكتاب على الطاولة.", "الطاولة نظيفة."]
+  },
+  {
+    "id": "word_ar_sareer",
+    "word": "سرير",
+    "meaning": "bed",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "sariːr"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["نام على السرير.", "السرير مريح."]
+  },
+  {
+    "id": "word_ar_malaabis",
+    "word": "ملابس",
+    "meaning": "clothes",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "malaːbis"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["البس الملابس.", "اغسل الملابس."]
+  },
+  {
+    "id": "word_ar_hithaa",
+    "word": "حذاء",
+    "meaning": "shoes",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ħiðaːʔ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["البس الحذاء.", "اخلع الحذاء."]
+  },
+  {
+    "id": "word_ar_sayyara",
+    "word": "سيارة",
+    "meaning": "car",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "sajjaːra"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["قاد السيارة.", "السيارة جديدة."]
+  },
+  {
+    "id": "word_ar_hatif",
+    "word": "هاتف",
+    "meaning": "phone",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "haːtif"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["اتصل بالهاتف.", "الهاتف يرن."]
+  },
+  {
+    "id": "word_ar_computer",
+    "word": "حاسوب",
+    "meaning": "computer",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ħaːsuːb"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["استخدم الحاسوب.", "الحاسوب سريع."]
+  },
+  {
+    "id": "word_ar_madrasa",
+    "word": "مدرسة",
+    "meaning": "school",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "madrasa"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["ذهب إلى المدرسة.", "المدرسة قريبة."]
+  },
+  {
+    "id": "word_ar_sadeeq",
+    "word": "صديق",
+    "meaning": "friend",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "sˤadiːq"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["هو صديقي.", "صديق جيد."]
+  },
+  {
+    "id": "word_ar_aila",
+    "word": "عائلة",
+    "meaning": "family",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʕaːʔila"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["عائلتي كبيرة.", "أحب عائلتي."]
+  },
+  {
+    "id": "word_ar_umm",
+    "word": "أم",
+    "meaning": "mother",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔumm"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["أمي في البيت.", "حب الأم."]
+  },
+  {
+    "id": "word_ar_ab",
+    "word": "أب",
+    "meaning": "father",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔab"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["أبي في العمل.", "احترم أباك."]
+  },
+  {
+    "id": "word_ar_akh",
+    "word": "أخ",
+    "meaning": "brother",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔax"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["أخي الكبير.", "لدي أخ."]
+  },
+  {
+    "id": "word_ar_ukht",
+    "word": "أخت",
+    "meaning": "sister",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔuxt"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["أختي الصغيرة.", "لدي أخت."]
+  },
+  {
+    "id": "word_ar_yawm",
+    "word": "يوم",
+    "meaning": "day",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "jawm"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["اليوم جميل.", "يوم جديد."]
+  },
+  {
+    "id": "word_ar_layl",
+    "word": "ليل",
+    "meaning": "night",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "lajl"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["الليل طويل.", "في الليل."]
+  }
+]

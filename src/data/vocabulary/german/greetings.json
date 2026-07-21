@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_de_hallo",
+    "word": "hallo",
+    "meaning": "hello",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "haˈloː"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Hallo, wie geht's?", "Hallo zusammen!"]
+  },
+  {
+    "id": "word_de_guten_morgen",
+    "word": "guten Morgen",
+    "meaning": "good morning",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈɡuːtn̩ ˈmɔʁɡn̩"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Guten Morgen, Mama.", "Guten Morgen allen."]
+  },
+  {
+    "id": "word_de_guten_abend",
+    "word": "guten Abend",
+    "meaning": "good evening",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈɡuːtn̩ ˈaːbn̩t"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Guten Abend, Freunde.", "Guten Abend, meine Damen und Herren."]
+  },
+  {
+    "id": "word_de_auf_wiedersehen",
+    "word": "auf Wiedersehen",
+    "meaning": "goodbye",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "aʊf ˈviːdɐˌzeːən"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Auf Wiedersehen, bis morgen.", "Auf Wiedersehen, Freund."]
+  },
+  {
+    "id": "word_de_tschuss",
+    "word": "tschüss",
+    "meaning": "bye (informal)",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "tʃʏs"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Tschüss, bis später!", "Tschüss!"]
+  },
+  {
+    "id": "word_de_danke",
+    "word": "danke",
+    "meaning": "thank you",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈdaŋkə"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Danke für deine Hilfe.", "Vielen Dank."]
+  },
+  {
+    "id": "word_de_bitte",
+    "word": "bitte",
+    "meaning": "please/you're welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈbɪtə"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Bitte, hilf mir.", "Danke. - Bitte."]
+  },
+  {
+    "id": "word_de_entschuldigung",
+    "word": "Entschuldigung",
+    "meaning": "sorry/excuse me",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ɛntˈʃʊldɪɡʊŋ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Entschuldigung, ich bin spät.", "Entschuldigung, darf ich durch?"]
+  },
+  {
+    "id": "word_de_gute_nacht",
+    "word": "gute Nacht",
+    "meaning": "good night",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈɡuːtə naxt"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Gute Nacht, schlaf gut.", "Gute Nacht allen."]
+  },
+  {
+    "id": "word_de_wie_gehts",
+    "word": "wie geht's",
+    "meaning": "how are you",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "viː ɡeːts"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Hallo, wie geht's?", "Wie geht's dir?"]
+  },
+  {
+    "id": "word_de_gut",
+    "word": "gut",
+    "meaning": "good/well",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ɡuːt"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Gut, danke.", "Alles gut."]
+  },
+  {
+    "id": "word_de_willkommen",
+    "word": "willkommen",
+    "meaning": "welcome",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "vɪlˈkɔmən"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Willkommen in unserem Haus.", "Herzlich willkommen!"]
+  },
+  {
+    "id": "word_de_gratuliere",
+    "word": "gratuliere",
+    "meaning": "congratulations",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ɡʁatuˈliːʁə"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Gratuliere zum Erfolg!", "Ich gratuliere dir!"]
+  },
+  {
+    "id": "word_de_bis_spater",
+    "word": "bis später",
+    "meaning": "see you later",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "bɪs ˈʃpɛːtɐ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Bis später, wir sehen uns.", "Bis später!"]
+  },
+  {
+    "id": "word_de_guten_tag",
+    "word": "guten Tag",
+    "meaning": "good day",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈɡuːtn̩ taːk"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["Guten Tag, Herr Müller.", "Guten Tag!"]
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_te_manchidi",
+    "word": "మంచిది",
+    "meaning": "good",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "mənt͡ʃid̪i"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["మంచి మనిషి.", "చాలా మంచిది."]
+  },
+  {
+    "id": "word_te_cheddadi",
+    "word": "చెడ్డది",
+    "meaning": "bad",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "t͡ʃeɖɖəd̪i"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["చెడ్డ వాతావరణం.", "చెడ్డది కాదు."]
+  },
+  {
+    "id": "word_te_peddadi",
+    "word": "పెద్దది",
+    "meaning": "big",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ped̪d̪əd̪i"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["పెద్ద ఇల్లు.", "చాలా పెద్దది."]
+  },
+  {
+    "id": "word_te_chinnadi",
+    "word": "చిన్నది",
+    "meaning": "small",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "t͡ʃinnəd̪i"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["చిన్న పిల్లవాడు.", "చాలా చిన్నది."]
+  },
+  {
+    "id": "word_te_podugundi",
+    "word": "పొడుగుంది",
+    "meaning": "long",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "poɖuɡund̪i"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["పొడవైన రహదారి.", "చాలా పొడుగుంది."]
+  },
+  {
+    "id": "word_te_chuttadi",
+    "word": "చుట్టది",
+    "meaning": "short",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "t͡ʃuʈʈəd̪i"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["చిన్న జుట్టు.", "చాలా చిన్నది."]
+  },
+  {
+    "id": "word_te_ettugaa",
+    "word": "ఎత్తుగా",
+    "meaning": "tall/high",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "et̪t̪uɡaː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["ఎత్తైన భవనం.", "చాలా ఎత్తుగా."]
+  },
+  {
+    "id": "word_te_taggugaa",
+    "word": "తగ్గుగా",
+    "meaning": "low",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "t̪əɡɡuɡaː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["తక్కువ ధర.", "చాలా తగ్గుగా."]
+  },
+  {
+    "id": "word_te_kotha",
+    "word": "కొత్త",
+    "meaning": "new",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "kot̪t̪ə"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["కొత్త పుస్తకం.", "కొత్త సంవత్సరం."]
+  },
+  {
+    "id": "word_te_paatha",
+    "word": "పాత",
+    "meaning": "old",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "paːt̪ə"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["పాత స్నేహితుడు.", "చాలా పాతది."]
+  },
+  {
+    "id": "word_te_yuvakudu",
+    "word": "యువకుడు",
+    "meaning": "young",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "juʋəkuɖu"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["యువ మనిషి.", "ఇంకా యువకుడు."]
+  },
+  {
+    "id": "word_te_muusali",
+    "word": "ముసలి",
+    "meaning": "old (age)",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "muːsəli"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["ముసలి మనిషి.", "చాలా ముసలివాడు."]
+  },
+  {
+    "id": "word_te_andamaina",
+    "word": "అందమైన",
+    "meaning": "beautiful",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ənd̪əməjnə"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["అందమైన స్త్రీ.", "చాలా అందంగా."]
+  },
+  {
+    "id": "word_te_asingamaina",
+    "word": "అసింగమైన",
+    "meaning": "ugly",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "əsiŋɡəməjnə"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["అసింగం కాదు.", "చాలా అసింగం."]
+  },
+  {
+    "id": "word_te_veddiga",
+    "word": "వెడ్డిగా",
+    "meaning": "hot",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ʋeɖɖiɡaː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["వేడి వాతావరణం.", "చాలా వేడిగా."]
+  },
+  {
+    "id": "word_te_chaliaga",
+    "word": "చల్లగా",
+    "meaning": "cold",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "t͡ʃəlləɡaː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["చల్లని నీళ్ళు.", "చాలా చల్లగా."]
+  },
+  {
+    "id": "word_te_vegamga",
+    "word": "వేగంగా",
+    "meaning": "fast",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ʋeːɡəmɡaː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["వేగంగా పరిగెత్తు.", "చాలా వేగంగా."]
+  },
+  {
+    "id": "word_te_nemmadiga",
+    "word": "నెమ్మదిగా",
+    "meaning": "slow",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "nemmad̪iɡaː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["నెమ్మదిగా నడవు.", "చాలా నెమ్మదిగా."]
+  },
+  {
+    "id": "word_te_sulabhanga",
+    "word": "సులభంగా",
+    "meaning": "easy",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "suləbʱəmɡaː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["సులభమైన ప్రశ్న.", "చాలా సులభం."]
+  },
+  {
+    "id": "word_te_kashtamga",
+    "word": "కష్టంగా",
+    "meaning": "difficult",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "kəʂʈəmɡaː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["కష్టమైన ప్రశ్న.", "చాలా కష్టం."]
+  }
+]

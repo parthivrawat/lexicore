@@ -89,5 +89,226 @@
     ],
     "category": "verbs",
     "examples": ["Te veo mañana.", "No puedo ver nada."]
+  },
+  {
+    "id": "word_es_comer",
+    "word": "comer",
+    "meaning": "to eat",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "koˈmeɾ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Voy a comer.", "¿Quieres comer algo?"]
+  },
+  {
+    "id": "word_es_beber",
+    "word": "beber",
+    "meaning": "to drink",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "beˈβeɾ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Beber agua.", "¿Quieres beber algo?"]
+  },
+  {
+    "id": "word_es_hablar",
+    "word": "hablar",
+    "meaning": "to speak",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "aˈβlaɾ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Hablar español.", "Habla más despacio."]
+  },
+  {
+    "id": "word_es_escuchar",
+    "word": "escuchar",
+    "meaning": "to listen",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "eskuˈtʃaɾ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Escuchar música.", "Escúchame."]
+  },
+  {
+    "id": "word_es_leer",
+    "word": "leer",
+    "meaning": "to read",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "leˈeɾ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Leer un libro.", "Me gusta leer."]
+  },
+  {
+    "id": "word_es_escribir",
+    "word": "escribir",
+    "meaning": "to write",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "eskɾiˈβiɾ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Escribir una carta.", "Escribe tu nombre."]
+  },
+  {
+    "id": "word_es_dar",
+    "word": "dar",
+    "meaning": "to give",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "daɾ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Dame el libro.", "Dar un regalo."]
+  },
+  {
+    "id": "word_es_tomar",
+    "word": "tomar",
+    "meaning": "to take",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "toˈmaɾ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Tomar el autobús.", "Toma esto."]
+  },
+  {
+    "id": "word_es_dormir",
+    "word": "dormir",
+    "meaning": "to sleep",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "doɾˈmiɾ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Dormir bien.", "Voy a dormir."]
+  },
+  {
+    "id": "word_es_despertar",
+    "word": "despertar",
+    "meaning": "to wake up",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "despeɾˈtaɾ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Despertar temprano.", "Me despierto a las 7."]
+  },
+  {
+    "id": "word_es_caminar",
+    "word": "caminar",
+    "meaning": "to walk",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "kamiˈnaɾ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Caminar en el parque.", "Camina despacio."]
+  },
+  {
+    "id": "word_es_correr",
+    "word": "correr",
+    "meaning": "to run",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "koˈreɾ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Correr rápido.", "Corre todos los días."]
+  },
+  {
+    "id": "word_es_sentarse",
+    "word": "sentarse",
+    "meaning": "to sit down",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "senˈtaɾ.se"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Siéntate aquí.", "Me siento en la silla."]
+  },
+  {
+    "id": "word_es_levantarse",
+    "word": "levantarse",
+    "meaning": "to stand up/get up",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "leβanˈtaɾ.se"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Levántate temprano.", "Me levanto a las 6."]
+  },
+  {
+    "id": "word_es_saber",
+    "word": "saber",
+    "meaning": "to know (facts)",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "saˈβeɾ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Saber la verdad.", "No sé."]
+  },
+  {
+    "id": "word_es_conocer",
+    "word": "conocer",
+    "meaning": "to know (people/places)",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "konoˈθeɾ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Conocer a alguien.", "Conozco Madrid."]
+  },
+  {
+    "id": "word_es_querer",
+    "word": "querer",
+    "meaning": "to want/love",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "keˈɾeɾ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Quiero ir.", "Te quiero."]
   }
 ]

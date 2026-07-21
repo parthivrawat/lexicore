@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_id_orang",
+    "word": "orang",
+    "meaning": "person",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "oraŋ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Orang itu baik.", "Banyak orang di sini."]
+  },
+  {
+    "id": "word_id_anak",
+    "word": "anak",
+    "meaning": "child",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "anak"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Anak saya.", "Anak kecil."]
+  },
+  {
+    "id": "word_id_rumah",
+    "word": "rumah",
+    "meaning": "house",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "rumah"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Rumah besar.", "Di rumah."]
+  },
+  {
+    "id": "word_id_air",
+    "word": "air",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "air"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Minum air.", "Air bersih."]
+  },
+  {
+    "id": "word_id_makanan",
+    "word": "makanan",
+    "meaning": "food",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "makanan"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Makanan enak.", "Beli makanan."]
+  },
+  {
+    "id": "word_id_waktu",
+    "word": "waktu",
+    "meaning": "time",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "waktu"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Waktu luang.", "Tidak ada waktu."]
+  },
+  {
+    "id": "word_id_hari",
+    "word": "hari",
+    "meaning": "day",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "hari"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Hari ini.", "Setiap hari."]
+  },
+  {
+    "id": "word_id_tahun",
+    "word": "tahun",
+    "meaning": "year",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "tahun"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Tahun baru.", "Dua tahun."]
+  },
+  {
+    "id": "word_id_tangan",
+    "word": "tangan",
+    "meaning": "hand",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "taŋan"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Cuci tangan.", "Tangan kanan."]
+  },
+  {
+    "id": "word_id_mata",
+    "word": "mata",
+    "meaning": "eye",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "mata"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Mata indah.", "Tutup mata."]
+  },
+  {
+    "id": "word_id_kepala",
+    "word": "kepala",
+    "meaning": "head",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "kəpala"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Sakit kepala.", "Kepala sekolah."]
+  },
+  {
+    "id": "word_id_buku",
+    "word": "buku",
+    "meaning": "book",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "buku"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Baca buku.", "Buku bagus."]
+  },
+  {
+    "id": "word_id_pintu",
+    "word": "pintu",
+    "meaning": "door",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "pintu"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Tutup pintu.", "Pintu terbuka."]
+  },
+  {
+    "id": "word_id_jalan",
+    "word": "jalan",
+    "meaning": "road",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "dʒalan"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Jalan raya.", "Di jalan."]
+  },
+  {
+    "id": "word_id_kota",
+    "word": "kota",
+    "meaning": "city",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "kota"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Kota besar.", "Ke kota."]
+  },
+  {
+    "id": "word_id_negara",
+    "word": "negara",
+    "meaning": "country",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "nəɡara"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Negara Indonesia.", "Cinta negara."]
+  },
+  {
+    "id": "word_id_sekolah",
+    "word": "sekolah",
+    "meaning": "school",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "səkolah"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Pergi ke sekolah.", "Sekolah dasar."]
+  },
+  {
+    "id": "word_id_teman",
+    "word": "teman",
+    "meaning": "friend",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "təman"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Teman baik.", "Teman saya."]
+  },
+  {
+    "id": "word_id_keluarga",
+    "word": "keluarga",
+    "meaning": "family",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "kəluarɡa"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Keluarga besar.", "Cinta keluarga."]
+  },
+  {
+    "id": "word_id_nama",
+    "word": "nama",
+    "meaning": "name",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "nama"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Nama saya.", "Tulis nama."]
+  }
+]

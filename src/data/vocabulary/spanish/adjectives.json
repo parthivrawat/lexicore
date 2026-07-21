@@ -89,5 +89,174 @@
     ],
     "category": "adjectives",
     "examples": ["Estoy muy feliz.", "Es un día feliz."]
+  },
+  {
+    "id": "word_es_triste",
+    "word": "triste",
+    "meaning": "sad",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈtɾis.te"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Está triste hoy.", "Es una historia triste."]
+  },
+  {
+    "id": "word_es_bonito",
+    "word": "bonito",
+    "meaning": "beautiful/pretty",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "boˈni.to"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Qué bonito!", "Es un lugar bonito."]
+  },
+  {
+    "id": "word_es_feo",
+    "word": "feo",
+    "meaning": "ugly",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈfe.o"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Es feo.", "Un edificio feo."]
+  },
+  {
+    "id": "word_es_alto",
+    "word": "alto",
+    "meaning": "tall/high",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈal.to"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Es muy alto.", "Una montaña alta."]
+  },
+  {
+    "id": "word_es_bajo",
+    "word": "bajo",
+    "meaning": "short/low",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈba.xo"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Es bajo.", "Precio bajo."]
+  },
+  {
+    "id": "word_es_caliente",
+    "word": "caliente",
+    "meaning": "hot",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "kaˈljen.te"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Agua caliente.", "Hace caliente."]
+  },
+  {
+    "id": "word_es_frio",
+    "word": "frío",
+    "meaning": "cold",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈfɾi.o"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Agua fría.", "Hace frío."]
+  },
+  {
+    "id": "word_es_rapido",
+    "word": "rápido",
+    "meaning": "fast",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈra.pi.ðo"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Corre rápido.", "Un coche rápido."]
+  },
+  {
+    "id": "word_es_lento",
+    "word": "lento",
+    "meaning": "slow",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈlen.to"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Camina lento.", "Movimiento lento."]
+  },
+  {
+    "id": "word_es_facil",
+    "word": "fácil",
+    "meaning": "easy",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈfa.sil"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Es fácil.", "Un problema fácil."]
+  },
+  {
+    "id": "word_es_dificil",
+    "word": "difícil",
+    "meaning": "difficult",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "diˈfi.sil"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Es difícil.", "Una tarea difícil."]
+  },
+  {
+    "id": "word_es_limpio",
+    "word": "limpio",
+    "meaning": "clean",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈlim.pjo"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["La casa está limpia.", "Ropa limpia."]
+  },
+  {
+    "id": "word_es_sucio",
+    "word": "sucio",
+    "meaning": "dirty",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈsu.sjo"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Está sucio.", "Ropa sucia."]
   }
 ]

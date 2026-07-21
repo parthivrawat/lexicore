@@ -1,0 +1,327 @@
+[
+  {
+    "id": "word_mr_asne",
+    "word": "असणे",
+    "meaning": "to be",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "əsɳe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["मी विद्यार्थी आहे.", "तो शिक्षक आहे."]
+  },
+  {
+    "id": "word_mr_karne",
+    "word": "करणे",
+    "meaning": "to do",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kəɾɳe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["काय करत आहात?", "काम करा."]
+  },
+  {
+    "id": "word_mr_jane",
+    "word": "जाणे",
+    "meaning": "to go",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "d͡ʒaːɳe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["शाळेत जा.", "कुठे जात आहात?"]
+  },
+  {
+    "id": "word_mr_yene",
+    "word": "येणे",
+    "meaning": "to come",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "jeɳe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["येथे या.", "तो उद्या येईल."]
+  },
+  {
+    "id": "word_mr_khane",
+    "word": "खाणे",
+    "meaning": "to eat",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kʰaːɳe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["जेवण खा.", "काय खाल्लेत?"]
+  },
+  {
+    "id": "word_mr_pine",
+    "word": "पिणे",
+    "meaning": "to drink",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "piɳe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["पाणी प्या.", "चहा प्या."]
+  },
+  {
+    "id": "word_mr_bagane",
+    "word": "बघणे",
+    "meaning": "to see",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "bəɡʱɳe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["चित्रपट बघा.", "हे बघा."]
+  },
+  {
+    "id": "word_mr_aikane",
+    "word": "ऐकणे",
+    "meaning": "to hear",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "əikɳe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["संगीत ऐका.", "ऐकत आहात का?"]
+  },
+  {
+    "id": "word_mr_bolne",
+    "word": "बोलणे",
+    "meaning": "to speak",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "boːlɳe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["मराठी बोला.", "मोठ्याने बोला."]
+  },
+  {
+    "id": "word_mr_vachane",
+    "word": "वाचणे",
+    "meaning": "to read",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ʋaːt͡ʃɳe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["पुस्तक वाचा.", "वर्तमानपत्र वाचा."]
+  },
+  {
+    "id": "word_mr_lihine",
+    "word": "लिहिणे",
+    "meaning": "to write",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "lihiɳe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["पत्र लिहा.", "नाव लिहा."]
+  },
+  {
+    "id": "word_mr_dene",
+    "word": "देणे",
+    "meaning": "to give",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "d̪eɳe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["मला पुस्तक दे.", "पाणी दे."]
+  },
+  {
+    "id": "word_mr_ghene",
+    "word": "घेणे",
+    "meaning": "to take",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ɡʱeɳe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["हे घे.", "पुस्तक घे."]
+  },
+  {
+    "id": "word_mr_zopane",
+    "word": "झोपणे",
+    "meaning": "to sleep",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "d͡ʒʱoːpɳe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["झोप.", "चांगली झोप."]
+  },
+  {
+    "id": "word_mr_jagane",
+    "word": "जागणे",
+    "meaning": "to wake up",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "d͡ʒaːɡɳe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["सकाळी जाग.", "लवकर जाग."]
+  },
+  {
+    "id": "word_mr_basane",
+    "word": "बसणे",
+    "meaning": "to sit",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "bəsɳe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["येथे बसा.", "खुर्चीवर बसा."]
+  },
+  {
+    "id": "word_mr_ubhe_rahane",
+    "word": "उभे राहणे",
+    "meaning": "to stand",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ubʱe ɾaːhɳe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["येथे उभे राहा.", "सरळ उभे राहा."]
+  },
+  {
+    "id": "word_mr_chalane",
+    "word": "चालणे",
+    "meaning": "to walk",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "t͡ʃaːlɳe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["हळू चाला.", "रस्त्यावर चाला."]
+  },
+  {
+    "id": "word_mr_dhavane",
+    "word": "धावणे",
+    "meaning": "to run",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "d̪ʱaːʋɳe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["वेगाने धाव.", "तो धावत आहे."]
+  },
+  {
+    "id": "word_mr_hasane",
+    "word": "हसणे",
+    "meaning": "to laugh",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "həsɳe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["जास्त हसा.", "तो हसत आहे."]
+  },
+  {
+    "id": "word_mr_rone",
+    "word": "रडणे",
+    "meaning": "to cry",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ɾəɖɳe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["रडू नका.", "बाळ रडत आहे."]
+  },
+  {
+    "id": "word_mr_samajane",
+    "word": "समजणे",
+    "meaning": "to understand",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "səməd͡ʒɳe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["मला समजले.", "तुम्हाला समजले का?"]
+  },
+  {
+    "id": "word_mr_pahije",
+    "word": "पाहिजे",
+    "meaning": "to want",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "paːhid͡ʒe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["मला पाहिजे.", "काय पाहिजे?"]
+  },
+  {
+    "id": "word_mr_prem_karne",
+    "word": "प्रेम करणे",
+    "meaning": "to love",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "pɾem kəɾɳe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["मी तुझ्यावर प्रेम करतो.", "कुटुंबावर प्रेम करा."]
+  },
+  {
+    "id": "word_mr_kam_karne",
+    "word": "काम करणे",
+    "meaning": "to work",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kaːm kəɾɳe"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["कठोर काम करा.", "मी कार्यालयात काम करतो."]
+  }
+]

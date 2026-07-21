@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word_tr_de",
+    "word": "de/da",
+    "meaning": "in/at",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "de"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Evde.", "Okulda."]
+  },
+  {
+    "id": "word_tr_uzerinde",
+    "word": "üzerinde",
+    "meaning": "on",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "yzeɾinde"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Masanın üzerinde.", "Sandalyenin üzerinde."]
+  },
+  {
+    "id": "word_tr_den",
+    "word": "den/dan",
+    "meaning": "from",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "den"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Evden.", "Nereden?"]
+  },
+  {
+    "id": "word_tr_e",
+    "word": "e/a",
+    "meaning": "to",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "e"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Okula.", "Nereye?"]
+  },
+  {
+    "id": "word_tr_icin",
+    "word": "için",
+    "meaning": "for",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "it͡ʃin"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Senin için.", "Çocuklar için."]
+  },
+  {
+    "id": "word_tr_ile",
+    "word": "ile",
+    "meaning": "with",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ile"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Arkadaşlarla.", "Aileyle."]
+  },
+  {
+    "id": "word_tr_siz",
+    "word": "siz/sız",
+    "meaning": "without",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "siz"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Susuz.", "Sensiz."]
+  },
+  {
+    "id": "word_tr_yakin",
+    "word": "yakın",
+    "meaning": "near",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "jɑkɯn"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Evin yakınında.", "Okulun yakınında."]
+  },
+  {
+    "id": "word_tr_sonra",
+    "word": "sonra",
+    "meaning": "after",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "sonɾɑ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Yemekten sonra.", "Okuldan sonra."]
+  },
+  {
+    "id": "word_tr_once",
+    "word": "önce",
+    "meaning": "before",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ønd͡ʒe"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Uyumadan önce.", "Yemekten önce."]
+  },
+  {
+    "id": "word_tr_uzerinde_prep",
+    "word": "üzerinde",
+    "meaning": "above",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "yzeɾinde"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Masanın üzerinde.", "Dağın üzerinde."]
+  },
+  {
+    "id": "word_tr_altinda",
+    "word": "altında",
+    "meaning": "under",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɑltɯndɑ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Yatağın altında.", "Ağacın altında."]
+  },
+  {
+    "id": "word_tr_arasinda",
+    "word": "arasında",
+    "meaning": "between",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ɑɾɑsɯndɑ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Evlerin arasında.", "Bizim aramızda."]
+  },
+  {
+    "id": "word_tr_kadar",
+    "word": "kadar",
+    "meaning": "until",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "kɑdɑɾ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Akşama kadar.", "Buraya kadar."]
+  },
+  {
+    "id": "word_tr_boyunca",
+    "word": "boyunca",
+    "meaning": "during/along",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "bojund͡ʒɑ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Yol boyunca.", "Gün boyunca."]
+  }
+]

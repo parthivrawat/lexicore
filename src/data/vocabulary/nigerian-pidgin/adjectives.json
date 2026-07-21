@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_pcm_good",
+    "word": "Good",
+    "meaning": "good",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "ɡʊd"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Good person.", "Very good."]
+  },
+  {
+    "id": "word_pcm_bad",
+    "word": "Bad",
+    "meaning": "bad",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "bæd"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Bad weather.", "No bad."]
+  },
+  {
+    "id": "word_pcm_big",
+    "word": "Big",
+    "meaning": "big",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "bɪɡ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Big house.", "Very big."]
+  },
+  {
+    "id": "word_pcm_small",
+    "word": "Small",
+    "meaning": "small",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "smɔːl"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Small pikin.", "Very small."]
+  },
+  {
+    "id": "word_pcm_long",
+    "word": "Long",
+    "meaning": "long",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "lɔːŋ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Long road.", "Very long."]
+  },
+  {
+    "id": "word_pcm_short",
+    "word": "Short",
+    "meaning": "short",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "ʃɔːt"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Short hair.", "Very short."]
+  },
+  {
+    "id": "word_pcm_tall",
+    "word": "Tall",
+    "meaning": "tall/high",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "tɔːl"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Tall building.", "Very tall."]
+  },
+  {
+    "id": "word_pcm_low",
+    "word": "Low",
+    "meaning": "low",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "loː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Low price.", "Very low."]
+  },
+  {
+    "id": "word_pcm_new",
+    "word": "New",
+    "meaning": "new",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "njuː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["New book.", "New year."]
+  },
+  {
+    "id": "word_pcm_old",
+    "word": "Old",
+    "meaning": "old",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "oːld"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Old friend.", "Very old."]
+  },
+  {
+    "id": "word_pcm_young",
+    "word": "Young",
+    "meaning": "young",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "jʌŋ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Young person.", "Still young."]
+  },
+  {
+    "id": "word_pcm_old_age",
+    "word": "Old",
+    "meaning": "old (age)",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "oːld"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Old person.", "Very old."]
+  },
+  {
+    "id": "word_pcm_fine",
+    "word": "Fine",
+    "meaning": "beautiful",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "faɪn"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Fine woman.", "Very fine."]
+  },
+  {
+    "id": "word_pcm_ugly",
+    "word": "Ugly",
+    "meaning": "ugly",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "ʌɡli"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["No ugly.", "Very ugly."]
+  },
+  {
+    "id": "word_pcm_hot",
+    "word": "Hot",
+    "meaning": "hot",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "hɔt"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Hot weather.", "Very hot."]
+  },
+  {
+    "id": "word_pcm_cold",
+    "word": "Cold",
+    "meaning": "cold",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "koːld"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Cold water.", "Very cold."]
+  },
+  {
+    "id": "word_pcm_fast",
+    "word": "Fast",
+    "meaning": "fast",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "fɑːst"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Run fast.", "Very fast."]
+  },
+  {
+    "id": "word_pcm_slow",
+    "word": "Slow",
+    "meaning": "slow",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "sloː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Waka slow.", "Very slow."]
+  },
+  {
+    "id": "word_pcm_easy",
+    "word": "Easy",
+    "meaning": "easy",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "iːzi"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Easy question.", "Very easy."]
+  },
+  {
+    "id": "word_pcm_hard",
+    "word": "Hard",
+    "meaning": "difficult",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "hɑːd"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Hard question.", "Very hard."]
+  }
+]

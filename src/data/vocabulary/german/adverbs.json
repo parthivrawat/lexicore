@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_de_schnell_adv",
+    "word": "schnell",
+    "meaning": "quickly",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ʃnɛl"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Komm schnell.", "Lauf schnell."]
+  },
+  {
+    "id": "word_de_langsam_adv",
+    "word": "langsam",
+    "meaning": "slowly",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈlaŋzaːm"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Geh langsam.", "Sprich langsam."]
+  },
+  {
+    "id": "word_de_sehr",
+    "word": "sehr",
+    "meaning": "very",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "zeːɐ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Sehr gut.", "Sehr viel."]
+  },
+  {
+    "id": "word_de_ein_bisschen",
+    "word": "ein bisschen",
+    "meaning": "a little",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "aɪn ˈbɪsçən"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Warte ein bisschen.", "Gib ein bisschen."]
+  },
+  {
+    "id": "word_de_immer",
+    "word": "immer",
+    "meaning": "always",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈɪmɐ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Immer glücklich.", "Er kommt immer."]
+  },
+  {
+    "id": "word_de_manchmal",
+    "word": "manchmal",
+    "meaning": "sometimes",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈmançmaːl"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Manchmal gehe ich.", "Manchmal regnet es."]
+  },
+  {
+    "id": "word_de_nie",
+    "word": "nie",
+    "meaning": "never",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "niː"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Ich gehe nie.", "Nie nein."]
+  },
+  {
+    "id": "word_de_heute",
+    "word": "heute",
+    "meaning": "today",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈhɔʏtə"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Heute ist gut.", "Ich gehe heute."]
+  },
+  {
+    "id": "word_de_morgen",
+    "word": "morgen",
+    "meaning": "tomorrow",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈmɔʁɡn̩"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Bis morgen.", "Ich gehe morgen."]
+  },
+  {
+    "id": "word_de_gestern",
+    "word": "gestern",
+    "meaning": "yesterday",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈɡɛstɐn"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Gestern war gut.", "Ich sah ihn gestern."]
+  },
+  {
+    "id": "word_de_jetzt",
+    "word": "jetzt",
+    "meaning": "now",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "jɛtst"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Komm jetzt.", "Jetzt verstehe ich."]
+  },
+  {
+    "id": "word_de_hier",
+    "word": "hier",
+    "meaning": "here",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "hiːɐ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Komm hierher.", "Sitz hier."]
+  },
+  {
+    "id": "word_de_dort",
+    "word": "dort",
+    "meaning": "there",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "dɔʁt"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Geh dorthin.", "Dort ist es."]
+  },
+  {
+    "id": "word_de_drinnen",
+    "word": "drinnen",
+    "meaning": "inside",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈdʁɪnən"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Geh hinein.", "Drinnen im Haus."]
+  },
+  {
+    "id": "word_de_draussen",
+    "word": "draußen",
+    "meaning": "outside",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈdʁaʊsn̩"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Geh hinaus.", "Draußen im Haus."]
+  },
+  {
+    "id": "word_de_oben",
+    "word": "oben",
+    "meaning": "up/above",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈoːbn̩"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Schau nach oben.", "Oben."]
+  },
+  {
+    "id": "word_de_unten",
+    "word": "unten",
+    "meaning": "down/below",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈʊntn̩"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Schau nach unten.", "Unten."]
+  },
+  {
+    "id": "word_de_vorne",
+    "word": "vorne",
+    "meaning": "in front",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈfɔʁnə"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Steh vorne.", "Vorne im Haus."]
+  },
+  {
+    "id": "word_de_hinten",
+    "word": "hinten",
+    "meaning": "behind",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ˈhɪntn̩"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Schau nach hinten.", "Hinten an der Tür."]
+  },
+  {
+    "id": "word_de_zusammen",
+    "word": "zusammen",
+    "meaning": "together",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "tsuˈzamən"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Gehen wir zusammen.", "Arbeiten wir zusammen."]
+  }
+]

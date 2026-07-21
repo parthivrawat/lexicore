@@ -1,0 +1,302 @@
+{
+  "word_te_sunna": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "शून्य (śūnya)",
+        "period": "Vedic",
+        "meaning": "zero"
+      },
+      {
+        "language": "Telugu",
+        "form": "సున్నా",
+        "period": "Modern",
+        "meaning": "zero"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit śūnya."
+  },
+  "word_te_okati": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Dravidian",
+        "form": "*ōṇṯu?",
+        "period": "c. 2000 BCE",
+        "meaning": "one"
+      },
+      {
+        "language": "Old Telugu",
+        "form": "ఒకటి",
+        "period": "Medieval",
+        "meaning": "one"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *ōṯu?"
+  },
+  "word_te_rendu": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Dravidian",
+        "form": "*irāṭu",
+        "period": "c. 2000 BCE",
+        "meaning": "two"
+      },
+      {
+        "language": "Old Telugu",
+        "form": "రెండు",
+        "period": "Medieval",
+        "meaning": "two"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *iraṇṭu."
+  },
+  "word_te_mudu": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Dravidian",
+        "form": "*mūnṯu",
+        "period": "c. 2000 BCE",
+        "meaning": "three"
+      },
+      {
+        "language": "Old Telugu",
+        "form": "మూడు",
+        "period": "Medieval",
+        "meaning": "three"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *mūnṯu."
+  },
+  "word_te_naalugu": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Dravidian",
+        "form": "*nālnku?",
+        "period": "c. 2000 BCE",
+        "meaning": "four"
+      },
+      {
+        "language": "Old Telugu",
+        "form": "నాలుగు",
+        "period": "Medieval",
+        "meaning": "four"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *nālnk."
+  },
+  "word_te_ayidhu": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Dravidian",
+        "form": "*cāyn?",
+        "period": "c. 2000 BCE",
+        "meaning": "five"
+      },
+      {
+        "language": "Old Telugu",
+        "form": "ఐదు",
+        "period": "Medieval",
+        "meaning": "five"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *ayN?"
+  },
+  "word_te_aaru": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Dravidian",
+        "form": "*cāṯu?",
+        "period": "c. 2000 BCE",
+        "meaning": "six"
+      },
+      {
+        "language": "Old Telugu",
+        "form": "ఆరు",
+        "period": "Medieval",
+        "meaning": "six"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *āru."
+  },
+  "word_te_eedu": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Dravidian",
+        "form": "*ēḻu",
+        "period": "c. 2000 BCE",
+        "meaning": "seven"
+      },
+      {
+        "language": "Old Telugu",
+        "form": "ఏడు",
+        "period": "Medieval",
+        "meaning": "seven"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *ēḻu."
+  },
+  "word_te_enimidhi": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Dravidian",
+        "form": "*eṇṭṭu?",
+        "period": "c. 2000 BCE",
+        "meaning": "eight"
+      },
+      {
+        "language": "Old Telugu",
+        "form": "ఎనిమిది",
+        "period": "Medieval",
+        "meaning": "eight"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *eṭṭu."
+  },
+  "word_te_tommidhi": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Dravidian",
+        "form": "*toḷ?",
+        "period": "c. 2000 BCE",
+        "meaning": "nine"
+      },
+      {
+        "language": "Old Telugu",
+        "form": "తొమ్మిది",
+        "period": "Medieval",
+        "meaning": "nine"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *toḷ."
+  },
+  "word_te_padi": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Dravidian",
+        "form": "*pattu",
+        "period": "c. 2000 BCE",
+        "meaning": "ten"
+      },
+      {
+        "language": "Old Telugu",
+        "form": "పది",
+        "period": "Medieval",
+        "meaning": "ten"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *pattu."
+  },
+  "word_te_nooru": {
+    "languageOrigin": "Sanskrit/Proto-Dravidian",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "शत (śata)",
+        "period": "Vedic",
+        "meaning": "hundred"
+      },
+      {
+        "language": "Old Telugu",
+        "form": "నూరు",
+        "period": "Medieval",
+        "meaning": "hundred"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit śata."
+  },
+  "word_te_velu": {
+    "languageOrigin": "Sanskrit/Proto-Dravidian",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "सहस्र (sahasra)",
+        "period": "Vedic",
+        "meaning": "thousand"
+      },
+      {
+        "language": "Old Telugu",
+        "form": "వెయ్యి",
+        "period": "Medieval",
+        "meaning": "thousand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit sahasra."
+  },
+  "word_te_million": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 20th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "million",
+        "period": "20th century",
+        "meaning": "million"
+      },
+      {
+        "language": "Telugu",
+        "form": "మిలియన్",
+        "period": "Modern",
+        "meaning": "million"
+      }
+    ],
+    "cognates": [],
+    "notes": "Loan from English."
+  },
+  "word_te_ardham": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अर्ध (ardha)",
+        "period": "Vedic",
+        "meaning": "half"
+      },
+      {
+        "language": "Telugu",
+        "form": "అర్ధం",
+        "period": "Modern",
+        "meaning": "half"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit ardha."
+  }
+}

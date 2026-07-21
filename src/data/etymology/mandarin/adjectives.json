@@ -1,0 +1,383 @@
+{
+  "word_zh_hao": {
+    "languageOrigin": "Old Chinese",
+    "yearOfOrigin": "c. 1200 BCE",
+    "timeline": [
+      {
+        "language": "Old Chinese",
+        "form": "好",
+        "period": "Shang dynasty",
+        "meaning": "good, beautiful"
+      },
+      {
+        "language": "Mandarin",
+        "form": "好",
+        "period": "Modern",
+        "meaning": "good"
+      }
+    ],
+    "cognates": [],
+    "notes": "Pictograph of a woman 女 and child 子 together, representing goodness."
+  },
+  "word_zh_huai": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "壞",
+        "period": "Zhou dynasty",
+        "meaning": "bad, broken"
+      },
+      {
+        "language": "Mandarin",
+        "form": "坏",
+        "simplified": true,
+        "period": "Modern",
+        "meaning": "bad"
+      }
+    ],
+    "cognates": [],
+    "notes": "Traditional 壞 (earth 土 + 褱). Simplified 坏 is 'not 不 + soil 土'. Means 'bad'."
+  },
+  "word_zh_da": {
+    "languageOrigin": "Old Chinese",
+    "yearOfOrigin": "c. 1200 BCE",
+    "timeline": [
+      {
+        "language": "Old Chinese",
+        "form": "大",
+        "period": "Shang dynasty",
+        "meaning": "big, great"
+      },
+      {
+        "language": "Mandarin",
+        "form": "大",
+        "period": "Modern",
+        "meaning": "big"
+      }
+    ],
+    "cognates": [],
+    "notes": "Pictograph of a standing person with arms outstretched, representing greatness."
+  },
+  "word_zh_xiao": {
+    "languageOrigin": "Old Chinese",
+    "yearOfOrigin": "c. 1200 BCE",
+    "timeline": [
+      {
+        "language": "Old Chinese",
+        "form": "小",
+        "period": "Shang dynasty",
+        "meaning": "small"
+      },
+      {
+        "language": "Mandarin",
+        "form": "小",
+        "period": "Modern",
+        "meaning": "small"
+      }
+    ],
+    "cognates": [],
+    "notes": "Pictograph of three small dots/ strokes, representing smallness."
+  },
+  "word_zh_chang": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "長",
+        "period": "Zhou dynasty",
+        "meaning": "long, elder, grow"
+      },
+      {
+        "language": "Mandarin",
+        "form": "长",
+        "simplified": true,
+        "period": "Modern",
+        "meaning": "long"
+      }
+    ],
+    "cognates": [],
+    "notes": "Pictograph of long hair/old person. Means 'long' or 'to grow'."
+  },
+  "word_zh_duan": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "短",
+        "period": "Zhou dynasty",
+        "meaning": "short"
+      },
+      {
+        "language": "Mandarin",
+        "form": "短",
+        "period": "Modern",
+        "meaning": "short"
+      }
+    ],
+    "cognates": [],
+    "notes": "Arrow 矢 + 豆 (bean). Short arrow. Means 'short'."
+  },
+  "word_zh_gao": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "高",
+        "period": "Zhou dynasty",
+        "meaning": "tall, high"
+      },
+      {
+        "language": "Mandarin",
+        "form": "高",
+        "period": "Modern",
+        "meaning": "tall"
+      }
+    ],
+    "cognates": [],
+    "notes": "Pictograph of a tall building or tower. Means 'tall, high'."
+  },
+  "word_zh_ai": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "矮",
+        "period": "Zhou dynasty",
+        "meaning": "short, low"
+      },
+      {
+        "language": "Mandarin",
+        "form": "矮",
+        "period": "Modern",
+        "meaning": "low"
+      }
+    ],
+    "cognates": [],
+    "notes": "矢 (arrow) + 委 (bent). Bent arrow, representing shortness."
+  },
+  "word_zh_xin": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "新",
+        "period": "Zhou dynasty",
+        "meaning": "new, fresh"
+      },
+      {
+        "language": "Mandarin",
+        "form": "新",
+        "period": "Modern",
+        "meaning": "new"
+      }
+    ],
+    "cognates": [],
+    "notes": "立 (stand) + 木 (tree) + 斤 (axe). Cutting fresh wood. Means 'new'."
+  },
+  "word_zh_jiu": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "舊",
+        "period": "Zhou dynasty",
+        "meaning": "old, former"
+      },
+      {
+        "language": "Mandarin",
+        "form": "旧",
+        "simplified": true,
+        "period": "Modern",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "Bird in nest (臼 + 隹). Means 'old, former'. Simplified to 旧."
+  },
+  "word_zh_nianqing": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "年轻",
+        "period": "Modern",
+        "meaning": "young"
+      }
+    ],
+    "cognates": [],
+    "notes": "年 (year) + 轻 (light). 'Light in years', i.e., young."
+  },
+  "word_zh_lao": {
+    "languageOrigin": "Old Chinese",
+    "yearOfOrigin": "c. 1200 BCE",
+    "timeline": [
+      {
+        "language": "Old Chinese",
+        "form": "老",
+        "period": "Shang dynasty",
+        "meaning": "old, elder"
+      },
+      {
+        "language": "Mandarin",
+        "form": "老",
+        "period": "Modern",
+        "meaning": "old (age)"
+      }
+    ],
+    "cognates": [],
+    "notes": "Pictograph of an old person with long hair and walking stick."
+  },
+  "word_zh_piaoliang": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "漂亮",
+        "period": "Modern",
+        "meaning": "beautiful"
+      }
+    ],
+    "cognates": [],
+    "notes": "漂 (float) + 亮 (bright). 'Bright and floating', describing beauty."
+  },
+  "word_zh_nan_kan": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "难看",
+        "period": "Modern",
+        "meaning": "ugly"
+      }
+    ],
+    "cognates": [],
+    "notes": "难 (difficult) + 看 (see). 'Difficult to look at', i.e., ugly."
+  },
+  "word_zh_re": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "熱",
+        "period": "Zhou dynasty",
+        "meaning": "hot"
+      },
+      {
+        "language": "Mandarin",
+        "form": "热",
+        "simplified": true,
+        "period": "Modern",
+        "meaning": "hot"
+      }
+    ],
+    "cognates": [],
+    "notes": "Fire 灬 + 埶 (to grasp). Means 'hot'. Simplified to 热."
+  },
+  "word_zh_leng": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "冷",
+        "period": "Zhou dynasty",
+        "meaning": "cold"
+      },
+      {
+        "language": "Mandarin",
+        "form": "冷",
+        "period": "Modern",
+        "meaning": "cold"
+      }
+    ],
+    "cognates": [],
+    "notes": "Ice 冫 + 令 (order/cold). Means 'cold'."
+  },
+  "word_zh_kuai": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "快",
+        "period": "Zhou dynasty",
+        "meaning": "fast, sharp, happy"
+      },
+      {
+        "language": "Mandarin",
+        "form": "快",
+        "period": "Modern",
+        "meaning": "fast"
+      }
+    ],
+    "cognates": [],
+    "notes": "Heart 忄 + 夬 (decide). Originally 'sharp-witted', now 'fast'."
+  },
+  "word_zh_man": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "慢",
+        "period": "Zhou dynasty",
+        "meaning": "slow"
+      },
+      {
+        "language": "Mandarin",
+        "form": "慢",
+        "period": "Modern",
+        "meaning": "slow"
+      }
+    ],
+    "cognates": [],
+    "notes": "Heart 忄 + 曼 (extend). Originally 'disdainful', now 'slow'."
+  },
+  "word_zh_rongyi": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "容易",
+        "period": "Modern",
+        "meaning": "easy"
+      }
+    ],
+    "cognates": [],
+    "notes": "容 (contain) + 易 (easy/change). Means 'easy'."
+  },
+  "word_zh_nan": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "難",
+        "period": "Zhou dynasty",
+        "meaning": "difficult, disaster"
+      },
+      {
+        "language": "Mandarin",
+        "form": "难",
+        "simplified": true,
+        "period": "Modern",
+        "meaning": "difficult"
+      }
+    ],
+    "cognates": [],
+    "notes": "Bird 隹 + 堇 (difficult). Originally a type of bird, borrowed for 'difficult'."
+  }
+}

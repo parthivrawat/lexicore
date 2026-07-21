@@ -1,0 +1,548 @@
+{
+  "word_es_persona": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Etruscan/Greek",
+        "form": "phersu",
+        "period": "Ancient",
+        "meaning": "mask, actor"
+      },
+      {
+        "language": "Latin",
+        "form": "persona",
+        "period": "Classical",
+        "meaning": "mask, person"
+      },
+      {
+        "language": "Spanish",
+        "form": "persona",
+        "period": "Medieval",
+        "meaning": "person"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "person",
+        "meaning": "person"
+      }
+    ],
+    "notes": "Possibly from Etruscan 'phersu' (mask). Latin 'persona' also meant theatrical mask."
+  },
+  "word_es_nino": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "natus",
+        "period": "Classical",
+        "meaning": "born"
+      },
+      {
+        "language": "Vulgar Latin",
+        "form": "*ninnus",
+        "period": "Late Latin",
+        "meaning": "child"
+      },
+      {
+        "language": "Spanish",
+        "form": "niño",
+        "period": "Medieval",
+        "meaning": "child"
+      }
+    ],
+    "cognates": [],
+    "notes": "From a Vulgar Latin diminutive *ninnus. 'Niña' feminine."
+  },
+  "word_es_casa": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "casa",
+        "period": "Classical",
+        "meaning": "hut, cottage"
+      },
+      {
+        "language": "Spanish",
+        "form": "casa",
+        "period": "Medieval",
+        "meaning": "house"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'casa' (small house)."
+  },
+  "word_es_agua": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "aqua",
+        "period": "Classical",
+        "meaning": "water"
+      },
+      {
+        "language": "Spanish",
+        "form": "agua",
+        "period": "Medieval",
+        "meaning": "water"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "aqua",
+        "meaning": "water"
+      },
+      {
+        "language": "Italian",
+        "word": "acqua",
+        "meaning": "water"
+      }
+    ],
+    "notes": "From Latin 'aqua'. PIE *h₂ekʷ-eh₂ (water)."
+  },
+  "word_es_comida": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "comedere",
+        "period": "Classical",
+        "meaning": "to eat"
+      },
+      {
+        "language": "Spanish",
+        "form": "comida",
+        "period": "Medieval",
+        "meaning": "food, meal"
+      }
+    ],
+    "cognates": [],
+    "notes": "Feminine past participle of 'comer'."
+  },
+  "word_es_tiempo": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "tempus",
+        "period": "Classical",
+        "meaning": "time, season"
+      },
+      {
+        "language": "Spanish",
+        "form": "tiempo",
+        "period": "Medieval",
+        "meaning": "time, weather"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "temporal",
+        "meaning": "of time"
+      }
+    ],
+    "notes": "From Latin 'tempus'. Means both 'time' and 'weather' in Spanish."
+  },
+  "word_es_dia": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "dies",
+        "period": "Classical",
+        "meaning": "day"
+      },
+      {
+        "language": "Spanish",
+        "form": "día",
+        "period": "Medieval",
+        "meaning": "day"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "diary",
+        "meaning": "daily record"
+      }
+    ],
+    "notes": "From Latin 'dies'. Accented 'día' to break the diphthong 'ie'."
+  },
+  "word_es_ano": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "annus",
+        "period": "Classical",
+        "meaning": "year"
+      },
+      {
+        "language": "Spanish",
+        "form": "año",
+        "period": "Medieval",
+        "meaning": "year"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "annual",
+        "meaning": "yearly"
+      }
+    ],
+    "notes": "From Latin 'annus'. PIE *h₂et-no- (year)."
+  },
+  "word_es_mano": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "manus",
+        "period": "Classical",
+        "meaning": "hand"
+      },
+      {
+        "language": "Spanish",
+        "form": "mano",
+        "period": "Medieval",
+        "meaning": "hand"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "manual",
+        "meaning": "by hand"
+      },
+      {
+        "language": "Sanskrit",
+        "word": "मन् (man)",
+        "meaning": "hand?"
+      }
+    ],
+    "notes": "From Latin 'manus'. PIE *man- (hand)."
+  },
+  "word_es_ojo": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "oculus",
+        "period": "Classical",
+        "meaning": "eye"
+      },
+      {
+        "language": "Spanish",
+        "form": "ojo",
+        "period": "Medieval",
+        "meaning": "eye"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "ocular",
+        "meaning": "of the eye"
+      },
+      {
+        "language": "Sanskrit",
+        "word": "अक्षि (akṣi)",
+        "meaning": "eye"
+      }
+    ],
+    "notes": "From Latin 'oculus'. PIE *h₃ekʷ- (eye)."
+  },
+  "word_es_cabeza": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "caput",
+        "period": "Classical",
+        "meaning": "head"
+      },
+      {
+        "language": "Vulgar Latin",
+        "form": "*capitia",
+        "period": "Late Latin",
+        "meaning": "head"
+      },
+      {
+        "language": "Spanish",
+        "form": "cabeza",
+        "period": "Medieval",
+        "meaning": "head"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "capital",
+        "meaning": "head city"
+      }
+    ],
+    "notes": "From Latin 'caput'. Metathesis of -it- > -ez-."
+  },
+  "word_es_libro": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "liber",
+        "period": "Classical",
+        "meaning": "book, bark"
+      },
+      {
+        "language": "Spanish",
+        "form": "libro",
+        "period": "Medieval",
+        "meaning": "book"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "library",
+        "meaning": "book collection"
+      }
+    ],
+    "notes": "From Latin 'liber' (inner bark of tree, used as writing material)."
+  },
+  "word_es_puerta": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "porta",
+        "period": "Classical",
+        "meaning": "gate, door"
+      },
+      {
+        "language": "Spanish",
+        "form": "puerta",
+        "period": "Medieval",
+        "meaning": "door"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "portal",
+        "meaning": "doorway"
+      }
+    ],
+    "notes": "From Latin 'porta'. Initial p- > pu- by learned influence."
+  },
+  "word_es_calle": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "callis",
+        "period": "Classical",
+        "meaning": "track, path"
+      },
+      {
+        "language": "Spanish",
+        "form": "calle",
+        "period": "Medieval",
+        "meaning": "street"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'callis' (path, track)."
+  },
+  "word_es_ciudad": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "civitas",
+        "period": "Classical",
+        "meaning": "city-state, citizenship"
+      },
+      {
+        "language": "Spanish",
+        "form": "ciudad",
+        "period": "Medieval",
+        "meaning": "city"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "city",
+        "meaning": "city"
+      },
+      {
+        "language": "French",
+        "word": "cité",
+        "meaning": "city"
+      }
+    ],
+    "notes": "From Latin 'civitas' (citizenship, city)."
+  },
+  "word_es_pais": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "pagus",
+        "period": "Classical",
+        "meaning": "rural district, country"
+      },
+      {
+        "language": "Gaulish/Frankish",
+        "form": "*pays",
+        "period": "Medieval",
+        "meaning": "country"
+      },
+      {
+        "language": "Spanish",
+        "form": "país",
+        "period": "16th century",
+        "meaning": "country"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "pays",
+        "meaning": "country"
+      }
+    ],
+    "notes": "Borrowed from Old French 'pais', ultimately from Latin 'pagus'."
+  },
+  "word_es_escuela": {
+    "languageOrigin": "Greek via Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Greek",
+        "form": "σχολή (scholē)",
+        "period": "Ancient",
+        "meaning": "leisure, school"
+      },
+      {
+        "language": "Latin",
+        "form": "schola",
+        "period": "Classical",
+        "meaning": "school"
+      },
+      {
+        "language": "Spanish",
+        "form": "escuela",
+        "period": "Medieval",
+        "meaning": "school"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "school",
+        "meaning": "school"
+      }
+    ],
+    "notes": "From Greek 'scholē' (leisure, school)."
+  },
+  "word_es_amigo": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "amicus",
+        "period": "Classical",
+        "meaning": "friend"
+      },
+      {
+        "language": "Spanish",
+        "form": "amigo",
+        "period": "Medieval",
+        "meaning": "friend"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "amicable",
+        "meaning": "friendly"
+      }
+    ],
+    "notes": "From Latin 'amicus' (friend). Related to 'amare' (to love)."
+  },
+  "word_es_familia": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "familia",
+        "period": "Classical",
+        "meaning": "household, family"
+      },
+      {
+        "language": "Spanish",
+        "form": "familia",
+        "period": "Medieval",
+        "meaning": "family"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "family",
+        "meaning": "family"
+      }
+    ],
+    "notes": "From Latin 'familia' (household servants)."
+  },
+  "word_es_nombre": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "nomen",
+        "period": "Classical",
+        "meaning": "name"
+      },
+      {
+        "language": "Spanish",
+        "form": "nombre",
+        "period": "Medieval",
+        "meaning": "name"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "noun",
+        "meaning": "name word"
+      }
+    ],
+    "notes": "From Latin 'nomen'. PIE *h₁nómn̥ (name)."
+  }
+}

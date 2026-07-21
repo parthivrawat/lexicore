@@ -1,0 +1,324 @@
+{
+  "word_ja_hito": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "ひと (hito)",
+        "period": "Nara",
+        "meaning": "person"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Japanese word. Possibly related to 'hito' (one)."
+  },
+  "word_ja_kodomo": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "子 (ko)",
+        "period": "Nara",
+        "meaning": "child"
+      },
+      {
+        "language": "Japanese",
+        "form": "子供 (kodomo)",
+        "period": "Heian",
+        "meaning": "child"
+      }
+    ],
+    "cognates": [],
+    "notes": "子 (child) + 供 (companion, attendant)."
+  },
+  "word_ja_ie": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "家 (ie)",
+        "period": "Nara",
+        "meaning": "house, family"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Japanese 'ie'. Sino-Japanese 'ka' also exists."
+  },
+  "word_ja_mizu": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "水 (mizu)",
+        "period": "Nara",
+        "meaning": "water"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Japanese 'mizu'. Sino-Japanese 'sui' also exists."
+  },
+  "word_ja_tabemono": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Japanese",
+        "form": "食べ物 (tabemono)",
+        "period": "Heian",
+        "meaning": "food"
+      }
+    ],
+    "cognates": [],
+    "notes": "食べ (tabe, eat) + 物 (mono, thing)."
+  },
+  "word_ja_jikan": {
+    "languageOrigin": "Chinese/Japanese",
+    "yearOfOrigin": "c. 7th century CE",
+    "timeline": [
+      {
+        "language": "Chinese",
+        "form": "時間 (shíjiān)",
+        "period": "Tang dynasty",
+        "meaning": "time"
+      },
+      {
+        "language": "Japanese",
+        "form": "時間 (jikan)",
+        "period": "Modern",
+        "meaning": "time"
+      }
+    ],
+    "cognates": [],
+    "notes": "時 (time) + 間 (interval)."
+  },
+  "word_ja_hi": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "日 (hi)",
+        "period": "Nara",
+        "meaning": "sun, day"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native 'hi' (sun/day). Sino-Japanese 'nichi' also exists."
+  },
+  "word_ja_toshi": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "年 (toshi)",
+        "period": "Nara",
+        "meaning": "year"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native 'toshi' (year). Sino-Japanese 'nen' also exists."
+  },
+  "word_ja_te": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "手 (te)",
+        "period": "Nara",
+        "meaning": "hand"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native 'te' (hand)."
+  },
+  "word_ja_me": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "目 (me)",
+        "period": "Nara",
+        "meaning": "eye"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native 'me' (eye)."
+  },
+  "word_ja_atama": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "頭 (atama)",
+        "period": "Heian",
+        "meaning": "head"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native 'atama' (head). Sino-Japanese 'zu' also exists."
+  },
+  "word_ja_hon": {
+    "languageOrigin": "Chinese/Japanese",
+    "yearOfOrigin": "c. 7th century CE",
+    "timeline": [
+      {
+        "language": "Chinese",
+        "form": "本 (běn)",
+        "period": "Tang dynasty",
+        "meaning": "root, book"
+      },
+      {
+        "language": "Japanese",
+        "form": "本 (hon)",
+        "period": "Modern",
+        "meaning": "book"
+      }
+    ],
+    "cognates": [],
+    "notes": "Sino-Japanese 'hon' (book). Originally 'root'."
+  },
+  "word_ja_do": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "戸 (to)",
+        "period": "Nara",
+        "meaning": "door"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native 'to' (door)."
+  },
+  "word_ja_michi": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "道 (michi)",
+        "period": "Nara",
+        "meaning": "road, path, way"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native 'michi' (road). Sino-Japanese 'dō' also exists."
+  },
+  "word_ja_machi": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "町 (machi)",
+        "period": "Heian",
+        "meaning": "town, quarter"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native 'machi' (town)."
+  },
+  "word_ja_kuni": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "国 (kuni)",
+        "period": "Nara",
+        "meaning": "country, province"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native 'kuni' (country). Sino-Japanese 'koku' also exists."
+  },
+  "word_ja_gakkou": {
+    "languageOrigin": "Chinese/Japanese",
+    "yearOfOrigin": "c. 7th century CE",
+    "timeline": [
+      {
+        "language": "Chinese",
+        "form": "学校 (xuéxiào)",
+        "period": "Tang dynasty",
+        "meaning": "school"
+      },
+      {
+        "language": "Japanese",
+        "form": "学校 (gakkō)",
+        "period": "Modern",
+        "meaning": "school"
+      }
+    ],
+    "cognates": [],
+    "notes": "学 (study) + 校 (school)."
+  },
+  "word_ja_tomodachi": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "友 (tomo)",
+        "period": "Nara",
+        "meaning": "companion"
+      },
+      {
+        "language": "Japanese",
+        "form": "友達 (tomodachi)",
+        "period": "Heian",
+        "meaning": "friend"
+      }
+    ],
+    "cognates": [],
+    "notes": "友 (tomo, companion) + 達 (dachi, plural)."
+  },
+  "word_ja_kazoku": {
+    "languageOrigin": "Chinese/Japanese",
+    "yearOfOrigin": "c. 7th century CE",
+    "timeline": [
+      {
+        "language": "Chinese",
+        "form": "家族 (jiāzú)",
+        "period": "Tang dynasty",
+        "meaning": "family"
+      },
+      {
+        "language": "Japanese",
+        "form": "家族 (kazoku)",
+        "period": "Modern",
+        "meaning": "family"
+      }
+    ],
+    "cognates": [],
+    "notes": "家 (house) + 族 (clan)."
+  },
+  "word_ja_namae": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "名 (na)",
+        "period": "Nara",
+        "meaning": "name"
+      },
+      {
+        "language": "Japanese",
+        "form": "名前 (namae)",
+        "period": "Heian",
+        "meaning": "name"
+      }
+    ],
+    "cognates": [],
+    "notes": "名 (na, name) + 前 (mae, before). 'Name before (me)'."
+  }
+}

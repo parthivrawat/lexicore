@@ -1,0 +1,202 @@
+{
+  "word_id_di": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "di",
+        "period": "Medieval",
+        "meaning": "in, at"
+      },
+      {
+        "language": "Indonesian",
+        "form": "di",
+        "period": "Modern",
+        "meaning": "in"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'di'."
+  },
+  "word_id_ke": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "ka",
+        "period": "Medieval",
+        "meaning": "to"
+      },
+      {
+        "language": "Indonesian",
+        "form": "ke",
+        "period": "Modern",
+        "meaning": "to"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'ka'."
+  },
+  "word_id_dari": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "dari",
+        "period": "Medieval",
+        "meaning": "from"
+      },
+      {
+        "language": "Indonesian",
+        "form": "dari",
+        "period": "Modern",
+        "meaning": "from"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'dari'."
+  },
+  "word_id_dengan": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "dengan",
+        "period": "Medieval",
+        "meaning": "with"
+      },
+      {
+        "language": "Indonesian",
+        "form": "dengan",
+        "period": "Modern",
+        "meaning": "with"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'dengan'."
+  },
+  "word_id_untuk": {
+    "languageOrigin": "Austronesian/Sanskrit",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "arthaya?",
+        "period": "Classical",
+        "meaning": "for"
+      },
+      {
+        "language": "Old Malay",
+        "form": "untuk",
+        "period": "Medieval",
+        "meaning": "for"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'untuk'."
+  },
+  "word_id_tentang": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "tentang",
+        "period": "Medieval",
+        "meaning": "about"
+      },
+      {
+        "language": "Indonesian",
+        "form": "tentang",
+        "period": "Modern",
+        "meaning": "about"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'tentang'."
+  },
+  "word_id_tanpa": {
+    "languageOrigin": "Austronesian/Sanskrit",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "tanpa",
+        "period": "Classical",
+        "meaning": "without"
+      },
+      {
+        "language": "Old Malay",
+        "form": "tanpa",
+        "period": "Medieval",
+        "meaning": "without"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit 'tanpa'."
+  },
+  "word_id_sebelum": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "sebelum",
+        "period": "Medieval",
+        "meaning": "before"
+      },
+      {
+        "language": "Indonesian",
+        "form": "sebelum",
+        "period": "Modern",
+        "meaning": "before"
+      }
+    ],
+    "cognates": [],
+    "notes": "se- + belum? Actually 'sebelum' from 'belum' (not yet)."
+  },
+  "word_id_setelah": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "setelah",
+        "period": "Medieval",
+        "meaning": "after"
+      },
+      {
+        "language": "Indonesian",
+        "form": "setelah",
+        "period": "Modern",
+        "meaning": "after"
+      }
+    ],
+    "cognates": [],
+    "notes": "se- + telah (past) +?"
+  },
+  "word_id_di_atas": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "di atas",
+        "period": "Medieval",
+        "meaning": "on top of"
+      },
+      {
+        "language": "Indonesian",
+        "form": "di atas",
+        "period": "Modern",
+        "meaning": "on top of"
+      }
+    ],
+    "cognates": [],
+    "notes": "di (at) + atas (top)."
+  }
+}

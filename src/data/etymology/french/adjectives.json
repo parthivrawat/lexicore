@@ -1,0 +1,402 @@
+{
+  "word_fr_bon": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "bonus",
+        "period": "Classical",
+        "meaning": "good"
+      },
+      {
+        "language": "Old French",
+        "form": "bon",
+        "period": "Medieval",
+        "meaning": "good"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'bonus'."
+  },
+  "word_fr_mauvais": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "malifatius",
+        "period": "Classical",
+        "meaning": "bad"
+      },
+      {
+        "language": "Old French",
+        "form": "malvais",
+        "period": "Medieval",
+        "meaning": "bad"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'malifatius' (ill-fated)."
+  },
+  "word_fr_grand": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "grandis",
+        "period": "Classical",
+        "meaning": "large"
+      },
+      {
+        "language": "Old French",
+        "form": "grant",
+        "period": "Medieval",
+        "meaning": "big"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'grandis'."
+  },
+  "word_fr_petit": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "pitinnus",
+        "period": "Late Latin",
+        "meaning": "small"
+      },
+      {
+        "language": "Old French",
+        "form": "petit",
+        "period": "Medieval",
+        "meaning": "small"
+      }
+    ],
+    "cognates": [],
+    "notes": "Of uncertain origin."
+  },
+  "word_fr_long": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "longus",
+        "period": "Classical",
+        "meaning": "long"
+      },
+      {
+        "language": "Old French",
+        "form": "long",
+        "period": "Medieval",
+        "meaning": "long"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'longus'."
+  },
+  "word_fr_court": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "curtus",
+        "period": "Classical",
+        "meaning": "shortened"
+      },
+      {
+        "language": "Old French",
+        "form": "curt",
+        "period": "Medieval",
+        "meaning": "short"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'curtus'."
+  },
+  "word_fr_haut": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "altus",
+        "period": "Classical",
+        "meaning": "high"
+      },
+      {
+        "language": "Old French",
+        "form": "haut",
+        "period": "Medieval",
+        "meaning": "high"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'altus'."
+  },
+  "word_fr_bas": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "bassus",
+        "period": "Classical",
+        "meaning": "low"
+      },
+      {
+        "language": "Old French",
+        "form": "bas",
+        "period": "Medieval",
+        "meaning": "low"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'bassus'."
+  },
+  "word_fr_nouveau": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "novellus",
+        "period": "Classical",
+        "meaning": "new, young"
+      },
+      {
+        "language": "Old French",
+        "form": "novel",
+        "period": "Medieval",
+        "meaning": "new"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'novellus'."
+  },
+  "word_fr_vieux": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "vetus",
+        "period": "Classical",
+        "meaning": "old"
+      },
+      {
+        "language": "Old French",
+        "form": "vieux",
+        "period": "Medieval",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'vetus'."
+  },
+  "word_fr_jeune": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "juvenis",
+        "period": "Classical",
+        "meaning": "young"
+      },
+      {
+        "language": "Old French",
+        "form": "juevne",
+        "period": "Medieval",
+        "meaning": "young"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'juvenis'."
+  },
+  "word_fr_age": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "aevum",
+        "period": "Classical",
+        "meaning": "age, lifetime"
+      },
+      {
+        "language": "Old French",
+        "form": "aage",
+        "period": "Medieval",
+        "meaning": "age"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'aevum'."
+  },
+  "word_fr_beau": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "bellus",
+        "period": "Classical",
+        "meaning": "pretty, beautiful"
+      },
+      {
+        "language": "Old French",
+        "form": "bel",
+        "period": "Medieval",
+        "meaning": "beautiful"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'bellus' (pretty)."
+  },
+  "word_fr_laid": {
+    "languageOrigin": "Gaulish/Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Gaulish",
+        "form": "*laidos?",
+        "period": "Ancient",
+        "meaning": "ugly"
+      },
+      {
+        "language": "Old French",
+        "form": "laid",
+        "period": "Medieval",
+        "meaning": "ugly"
+      }
+    ],
+    "cognates": [],
+    "notes": "Possibly from a Celtic/Gaulish word."
+  },
+  "word_fr_chaud": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "calidus",
+        "period": "Classical",
+        "meaning": "hot"
+      },
+      {
+        "language": "Old French",
+        "form": "chalt",
+        "period": "Medieval",
+        "meaning": "hot"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'calidus'."
+  },
+  "word_fr_froid": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "frigidus",
+        "period": "Classical",
+        "meaning": "cold"
+      },
+      {
+        "language": "Old French",
+        "form": "froit",
+        "period": "Medieval",
+        "meaning": "cold"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'frigidus'."
+  },
+  "word_fr_rapide": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "rapidus",
+        "period": "Classical",
+        "meaning": "swift"
+      },
+      {
+        "language": "French",
+        "form": "rapide",
+        "period": "Modern",
+        "meaning": "fast"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'rapidus'."
+  },
+  "word_fr_lent": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "lentus",
+        "period": "Classical",
+        "meaning": "slow, flexible"
+      },
+      {
+        "language": "French",
+        "form": "lent",
+        "period": "Modern",
+        "meaning": "slow"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'lentus'."
+  },
+  "word_fr_facile": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "facilis",
+        "period": "Classical",
+        "meaning": "easy"
+      },
+      {
+        "language": "Old French",
+        "form": "facile",
+        "period": "Medieval",
+        "meaning": "easy"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'facilis'."
+  },
+  "word_fr_difficile": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "difficilis",
+        "period": "Classical",
+        "meaning": "difficult"
+      },
+      {
+        "language": "Old French",
+        "form": "difficile",
+        "period": "Medieval",
+        "meaning": "difficult"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'difficilis'."
+  }
+}

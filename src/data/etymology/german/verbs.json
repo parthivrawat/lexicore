@@ -1,0 +1,615 @@
+{
+  "word_de_sein": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*wesaną (to be) and *beuną (to be)",
+        "period": "c. 500 BCE",
+        "meaning": "to be"
+      },
+      {
+        "language": "Old High German",
+        "form": "wesan / sīn",
+        "period": "8th century",
+        "meaning": "to be"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "was",
+        "meaning": "past of be"
+      }
+    ],
+    "notes": "Suppletive verb mixing PIE *h₁es- and *wes- (to be)."
+  },
+  "word_de_machen": {
+    "languageOrigin": "Old High German",
+    "yearOfOrigin": "c. 8th century",
+    "timeline": [
+      {
+        "language": "Old High German",
+        "form": "machen",
+        "period": "8th century",
+        "meaning": "to make"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "make",
+        "meaning": "to make"
+      }
+    ],
+    "notes": "From Proto-Germanic *makōną (to make, fit)."
+  },
+  "word_de_gehen": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*gēganą",
+        "period": "c. 500 BCE",
+        "meaning": "to go"
+      },
+      {
+        "language": "Old High German",
+        "form": "gān",
+        "period": "8th century",
+        "meaning": "to go"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "go",
+        "meaning": "to go"
+      }
+    ],
+    "notes": "PIE *ǵʰē- (to go)."
+  },
+  "word_de_kommen": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*kwemaną",
+        "period": "c. 500 BCE",
+        "meaning": "to come"
+      },
+      {
+        "language": "Old High German",
+        "form": "queman",
+        "period": "8th century",
+        "meaning": "to come"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "come",
+        "meaning": "to come"
+      }
+    ],
+    "notes": "PIE *gʷem- (to come)."
+  },
+  "word_de_essen": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*etaną",
+        "period": "c. 500 BCE",
+        "meaning": "to eat"
+      },
+      {
+        "language": "Old High German",
+        "form": "ezzan",
+        "period": "8th century",
+        "meaning": "to eat"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "eat",
+        "meaning": "to eat"
+      },
+      {
+        "language": "Latin",
+        "word": "edere",
+        "meaning": "to eat"
+      }
+    ],
+    "notes": "PIE *h₁éd- (to eat)."
+  },
+  "word_de_trinken": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*drinkaną",
+        "period": "c. 500 BCE",
+        "meaning": "to drink"
+      },
+      {
+        "language": "Old High German",
+        "form": "trinkan",
+        "period": "8th century",
+        "meaning": "to drink"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "drink",
+        "meaning": "to drink"
+      }
+    ],
+    "notes": "PIE *dʰrenǵ-? (to drink)."
+  },
+  "word_de_sehen": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*sehwaną",
+        "period": "c. 500 BCE",
+        "meaning": "to see"
+      },
+      {
+        "language": "Old High German",
+        "form": "sehhan",
+        "period": "8th century",
+        "meaning": "to see"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "see",
+        "meaning": "to see"
+      }
+    ],
+    "notes": "PIE *sekʷ- (to see)."
+  },
+  "word_de_horen": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*hausijaną",
+        "period": "c. 500 BCE",
+        "meaning": "to hear"
+      },
+      {
+        "language": "Old High German",
+        "form": "hōren",
+        "period": "8th century",
+        "meaning": "to hear"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "hear",
+        "meaning": "to hear"
+      }
+    ],
+    "notes": "PIE *ḱlew- (to hear)."
+  },
+  "word_de_sprechen": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*sprekaną",
+        "period": "c. 500 BCE",
+        "meaning": "to speak"
+      },
+      {
+        "language": "Old High German",
+        "form": "sprehhan",
+        "period": "8th century",
+        "meaning": "to speak"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "speak",
+        "meaning": "to speak"
+      }
+    ],
+    "notes": "PIE *sprek-? (to speak)."
+  },
+  "word_de_lesen": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*lesaną",
+        "period": "c. 500 BCE",
+        "meaning": "to gather, read"
+      },
+      {
+        "language": "Old High German",
+        "form": "lesan",
+        "period": "8th century",
+        "meaning": "to read, gather"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "lease",
+        "meaning": "to gather"
+      }
+    ],
+    "notes": "PIE *leǵ- (to gather, read)."
+  },
+  "word_de_schreiben": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*skrībaną",
+        "period": "c. 500 BCE",
+        "meaning": "to scratch, write"
+      },
+      {
+        "language": "Old High German",
+        "form": "scrīban",
+        "period": "8th century",
+        "meaning": "to write"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "scribe",
+        "meaning": "writer"
+      }
+    ],
+    "notes": "From Latin 'scrībere' (to write), borrowed into Germanic."
+  },
+  "word_de_geben": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*gebaną",
+        "period": "c. 500 BCE",
+        "meaning": "to give"
+      },
+      {
+        "language": "Old High German",
+        "form": "geban",
+        "period": "8th century",
+        "meaning": "to give"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "give",
+        "meaning": "to give"
+      }
+    ],
+    "notes": "PIE *gʰebʰ- (to give)."
+  },
+  "word_de_nehmen": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*nemaną",
+        "period": "c. 500 BCE",
+        "meaning": "to take"
+      },
+      {
+        "language": "Old High German",
+        "form": "neman",
+        "period": "8th century",
+        "meaning": "to take"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "nimble",
+        "meaning": "quick to take"
+      }
+    ],
+    "notes": "PIE *nem- (to take, distribute)."
+  },
+  "word_de_schlafen": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*slapaną",
+        "period": "c. 500 BCE",
+        "meaning": "to sleep"
+      },
+      {
+        "language": "Old High German",
+        "form": "slāfan",
+        "period": "8th century",
+        "meaning": "to sleep"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "sleep",
+        "meaning": "to sleep"
+      }
+    ],
+    "notes": "PIE *swep- (to sleep)."
+  },
+  "word_de_aufwachen": {
+    "languageOrigin": "German",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "German",
+        "form": "aufwachen",
+        "period": "Modern",
+        "meaning": "to wake up"
+      }
+    ],
+    "cognates": [],
+    "notes": "Prefix 'auf-' (up) + 'wachen' (to be awake)."
+  },
+  "word_de_sitzen": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*sitjaną",
+        "period": "c. 500 BCE",
+        "meaning": "to sit"
+      },
+      {
+        "language": "Old High German",
+        "form": "sizzen",
+        "period": "8th century",
+        "meaning": "to sit"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "sit",
+        "meaning": "to sit"
+      }
+    ],
+    "notes": "PIE *sed- (to sit)."
+  },
+  "word_de_stehen": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*standaną",
+        "period": "c. 500 BCE",
+        "meaning": "to stand"
+      },
+      {
+        "language": "Old High German",
+        "form": "stantan",
+        "period": "8th century",
+        "meaning": "to stand"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "stand",
+        "meaning": "to stand"
+      }
+    ],
+    "notes": "PIE *steh₂- (to stand)."
+  },
+  "word_de_gehen2": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*gēganą",
+        "period": "c. 500 BCE",
+        "meaning": "to go, walk"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same as 'gehen'. Means 'to walk'."
+  },
+  "word_de_laufen": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*hlaupaną",
+        "period": "c. 500 BCE",
+        "meaning": "to run, leap"
+      },
+      {
+        "language": "Old High German",
+        "form": "hlaupan",
+        "period": "8th century",
+        "meaning": "to run"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "leap",
+        "meaning": "to jump"
+      }
+    ],
+    "notes": "Originally 'to leap, run'."
+  },
+  "word_de_lachen": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*hlahjaną",
+        "period": "c. 500 BCE",
+        "meaning": "to laugh"
+      },
+      {
+        "language": "Old High German",
+        "form": "lachhan",
+        "period": "8th century",
+        "meaning": "to laugh"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "laugh",
+        "meaning": "to laugh"
+      }
+    ],
+    "notes": "PIE *kleyk-? (to laugh)."
+  },
+  "word_de_weinen": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*wīnaną",
+        "period": "c. 500 BCE",
+        "meaning": "to weep"
+      },
+      {
+        "language": "Old High German",
+        "form": "wīnan",
+        "period": "8th century",
+        "meaning": "to weep"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "whine",
+        "meaning": "to complain"
+      }
+    ],
+    "notes": "PIE *gʷeh₁-? (to lament)."
+  },
+  "word_de_verstehen": {
+    "languageOrigin": "German",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Middle High German",
+        "form": "verstān",
+        "period": "Medieval",
+        "meaning": "to understand"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "understand",
+        "meaning": "to understand"
+      }
+    ],
+    "notes": "Prefix 'ver-' + 'stehen' (to stand). 'To stand under/ grasp'."
+  },
+  "word_de_wollen": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*wiljaną",
+        "period": "c. 500 BCE",
+        "meaning": "to want"
+      },
+      {
+        "language": "Old High German",
+        "form": "wollen",
+        "period": "8th century",
+        "meaning": "to want"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "will",
+        "meaning": "to want"
+      }
+    ],
+    "notes": "PIE *welh₁- (to wish, want)."
+  },
+  "word_de_lieben": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*liubōną",
+        "period": "c. 500 BCE",
+        "meaning": "to love"
+      },
+      {
+        "language": "Old High German",
+        "form": "liobēn",
+        "period": "8th century",
+        "meaning": "to love"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "love",
+        "meaning": "to love"
+      }
+    ],
+    "notes": "PIE *lewbʰ- (to love)."
+  },
+  "word_de_arbeiten": {
+    "languageOrigin": "Old High German",
+    "yearOfOrigin": "c. 8th century",
+    "timeline": [
+      {
+        "language": "Old High German",
+        "form": "ar(a)beit",
+        "period": "8th century",
+        "meaning": "labor, trouble"
+      },
+      {
+        "language": "German",
+        "form": "arbeiten",
+        "period": "Modern",
+        "meaning": "to work"
+      }
+    ],
+    "cognates": [],
+    "notes": "Borrowed from Late Latin/Byzantine Greek 'arbaïta' (tax, labor)."
+  }
+}

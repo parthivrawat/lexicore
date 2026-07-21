@@ -1,0 +1,402 @@
+{
+  "word_mr_changla": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "श्लाघ्य? (ślāghya)",
+        "period": "Classical",
+        "meaning": "praiseworthy"
+      },
+      {
+        "language": "Marathi",
+        "form": "चांगला",
+        "period": "Modern",
+        "meaning": "good"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit ślāghya? Or Prakrit 'chaṅgala'."
+  },
+  "word_mr_waait": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "विरुद्ध (viruddha)",
+        "period": "Classical",
+        "meaning": "opposite, bad"
+      },
+      {
+        "language": "Marathi",
+        "form": "वाईट",
+        "period": "Modern",
+        "meaning": "bad"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit viruddha or Prakrit vāiṭa."
+  },
+  "word_mr_motha": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "महत् (mahat)",
+        "period": "Vedic",
+        "meaning": "great, big"
+      },
+      {
+        "language": "Marathi",
+        "form": "मोठा",
+        "period": "Modern",
+        "meaning": "big"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit mahat."
+  },
+  "word_mr_lahan": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "लघु (laghu)",
+        "period": "Vedic",
+        "meaning": "small, light"
+      },
+      {
+        "language": "Marathi",
+        "form": "लहान",
+        "period": "Modern",
+        "meaning": "small"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit laghu."
+  },
+  "word_mr_lamba": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "लम्ब (lamba)",
+        "period": "Classical",
+        "meaning": "long"
+      },
+      {
+        "language": "Marathi",
+        "form": "लांब",
+        "period": "Modern",
+        "meaning": "long"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit lamba."
+  },
+  "word_mr_chhota": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "क्षुद्र (kṣudra)",
+        "period": "Classical",
+        "meaning": "small"
+      },
+      {
+        "language": "Marathi",
+        "form": "लहान",
+        "period": "Modern",
+        "meaning": "short"
+      }
+    ],
+    "cognates": [],
+    "notes": "Short = 'lahan' (small); 'short in length' = 'laghu'."
+  },
+  "word_mr_uunch": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "उच्च (ucca)",
+        "period": "Classical",
+        "meaning": "high"
+      },
+      {
+        "language": "Marathi",
+        "form": "उंच",
+        "period": "Modern",
+        "meaning": "tall"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit ucca."
+  },
+  "word_mr_kam": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "काम (kāma)",
+        "period": "Vedic",
+        "meaning": "desire, little?"
+      },
+      {
+        "language": "Marathi",
+        "form": "कमी",
+        "period": "Modern",
+        "meaning": "low"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian/Persian kam (less). 'Low' as 'kami'."
+  },
+  "word_mr_nava": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "नव (nava)",
+        "period": "Vedic",
+        "meaning": "new"
+      },
+      {
+        "language": "Marathi",
+        "form": "नवीन",
+        "period": "Modern",
+        "meaning": "new"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit nava."
+  },
+  "word_mr_juna": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "जीर्ण (jīrṇa)",
+        "period": "Classical",
+        "meaning": "old, worn"
+      },
+      {
+        "language": "Marathi",
+        "form": "जुने",
+        "period": "Modern",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit jīrṇa."
+  },
+  "word_mr_taruun": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "तरुण (taruṇa)",
+        "period": "Classical",
+        "meaning": "young"
+      },
+      {
+        "language": "Marathi",
+        "form": "तरुण",
+        "period": "Modern",
+        "meaning": "young"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit taruṇa."
+  },
+  "word_mr_vruddh": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वृद्ध (vṛddha)",
+        "period": "Classical",
+        "meaning": "old"
+      },
+      {
+        "language": "Marathi",
+        "form": "वृद्ध",
+        "period": "Modern",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit vṛddha."
+  },
+  "word_mr_sundar": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "सुन्दर (sundara)",
+        "period": "Classical",
+        "meaning": "beautiful"
+      },
+      {
+        "language": "Marathi",
+        "form": "सुंदर",
+        "period": "Modern",
+        "meaning": "beautiful"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit sundara."
+  },
+  "word_mr_kadruup": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कुरूप (kurūpa)",
+        "period": "Classical",
+        "meaning": "ugly"
+      },
+      {
+        "language": "Marathi",
+        "form": "कुरूप",
+        "period": "Modern",
+        "meaning": "ugly"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit kurūpa."
+  },
+  "word_mr_tat": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "तप्त (tapta)",
+        "period": "Classical",
+        "meaning": "hot"
+      },
+      {
+        "language": "Marathi",
+        "form": "ताप",
+        "period": "Modern",
+        "meaning": "hot"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit tapta or tāpa."
+  },
+  "word_mr_thand": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "शीत (śīta)",
+        "period": "Vedic",
+        "meaning": "cold"
+      },
+      {
+        "language": "Marathi",
+        "form": "थंड",
+        "period": "Modern",
+        "meaning": "cold"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit śīta."
+  },
+  "word_mr_lwkar": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "शीघ्र (śīghra)",
+        "period": "Classical",
+        "meaning": "fast"
+      },
+      {
+        "language": "Marathi",
+        "form": "लवकर",
+        "period": "Modern",
+        "meaning": "fast"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit śīghra."
+  },
+  "word_mr_mand": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "मन्द (manda)",
+        "period": "Classical",
+        "meaning": "slow"
+      },
+      {
+        "language": "Marathi",
+        "form": "मंद",
+        "period": "Modern",
+        "meaning": "slow"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit manda."
+  },
+  "word_mr_sop": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "सु-अपाय? / सुलभ (sulabha)",
+        "period": "Classical",
+        "meaning": "easy"
+      },
+      {
+        "language": "Marathi",
+        "form": "सोपे",
+        "period": "Modern",
+        "meaning": "easy"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Prakrit sova or Sanskrit sulabha."
+  },
+  "word_mr_katthin": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कठिन (kaṭhina)",
+        "period": "Classical",
+        "meaning": "difficult"
+      },
+      {
+        "language": "Marathi",
+        "form": "कठीण",
+        "period": "Modern",
+        "meaning": "difficult"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit kaṭhina."
+  }
+}

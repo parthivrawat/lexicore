@@ -1,0 +1,308 @@
+{
+  "word_ja_zero": {
+    "languageOrigin": "Sanskrit/Chinese",
+    "yearOfOrigin": "c. 7th century CE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "śūnya",
+        "period": "c. 5th century CE",
+        "meaning": "empty"
+      },
+      {
+        "language": "Chinese",
+        "form": "零 (líng)",
+        "period": "Tang dynasty",
+        "meaning": "zero"
+      },
+      {
+        "language": "Japanese",
+        "form": "ゼロ",
+        "period": "Meiji era",
+        "meaning": "zero"
+      }
+    ],
+    "cognates": [],
+    "notes": "Modern loan from English 'zero' or from Chinese 'ling'."
+  },
+  "word_ja_ichi": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "ひと (hito)",
+        "period": "Nara period",
+        "meaning": "one"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "一 (いち)",
+        "period": "Modern",
+        "meaning": "one"
+      }
+    ],
+    "cognates": [],
+    "notes": "Sino-Japanese 'ichi' from Chinese 'yi'. Native 'hito(tsu)' also exists."
+  },
+  "word_ja_ni": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "ふた (futa)",
+        "period": "Nara period",
+        "meaning": "two"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "二 (に)",
+        "period": "Modern",
+        "meaning": "two"
+      }
+    ],
+    "cognates": [],
+    "notes": "Sino-Japanese 'ni' from Chinese 'er'. Native 'futa(tsu)' also exists."
+  },
+  "word_ja_san": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "み (mi)",
+        "period": "Nara period",
+        "meaning": "three"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "三 (さん)",
+        "period": "Modern",
+        "meaning": "three"
+      }
+    ],
+    "cognates": [],
+    "notes": "Sino-Japanese 'san' from Chinese 'san'. Native 'mi(ttsu)' also exists."
+  },
+  "word_ja_yon": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "よ (yo)",
+        "period": "Nara period",
+        "meaning": "four"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "四 (よん/し)",
+        "period": "Modern",
+        "meaning": "four"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native 'yo(n)' and Sino-Japanese 'shi'. 'Shi' homophone with death (死), so 'yon' preferred."
+  },
+  "word_ja_go": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "いつ (itsu)",
+        "period": "Nara period",
+        "meaning": "five"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "五 (ご)",
+        "period": "Modern",
+        "meaning": "five"
+      }
+    ],
+    "cognates": [],
+    "notes": "Sino-Japanese 'go' from Chinese 'wu'. Native 'itsu(tsu)' also exists."
+  },
+  "word_ja_roku": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "む (mu)",
+        "period": "Nara period",
+        "meaning": "six"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "六 (ろく)",
+        "period": "Modern",
+        "meaning": "six"
+      }
+    ],
+    "cognates": [],
+    "notes": "Sino-Japanese 'roku' from Chinese 'liu'. Native 'mu(ttsu)' also exists."
+  },
+  "word_ja_nana": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "なな (nana)",
+        "period": "Nara period",
+        "meaning": "seven"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "七 (なな/しち)",
+        "period": "Modern",
+        "meaning": "seven"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native 'nana' and Sino-Japanese 'shichi'."
+  },
+  "word_ja_hachi": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "や (ya)",
+        "period": "Nara period",
+        "meaning": "eight"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "八 (はち)",
+        "period": "Modern",
+        "meaning": "eight"
+      }
+    ],
+    "cognates": [],
+    "notes": "Sino-Japanese 'hachi' from Chinese 'ba'. Native 'ya(ttsu)' also exists."
+  },
+  "word_ja_kyuu": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "ここの (kokono)",
+        "period": "Nara period",
+        "meaning": "nine"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "九 (きゅう/く)",
+        "period": "Modern",
+        "meaning": "nine"
+      }
+    ],
+    "cognates": [],
+    "notes": "Sino-Japanese 'kyū/ku' from Chinese 'jiu'. Native 'kokono(tsu)' also exists."
+  },
+  "word_ja_juu": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "とお (tō)",
+        "period": "Nara period",
+        "meaning": "ten"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "十 (じゅう)",
+        "period": "Modern",
+        "meaning": "ten"
+      }
+    ],
+    "cognates": [],
+    "notes": "Sino-Japanese 'jū' from Chinese 'shi'. Native 'tō' also exists."
+  },
+  "word_ja_hyaku": {
+    "languageOrigin": "Chinese",
+    "yearOfOrigin": "c. 7th century CE",
+    "timeline": [
+      {
+        "language": "Chinese",
+        "form": "百 (bǎi)",
+        "period": "Tang dynasty",
+        "meaning": "hundred"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "百 (ひゃく)",
+        "period": "Modern",
+        "meaning": "hundred"
+      }
+    ],
+    "cognates": [],
+    "notes": "Sino-Japanese borrowing from Chinese 'bǎi'."
+  },
+  "word_ja_sen": {
+    "languageOrigin": "Chinese",
+    "yearOfOrigin": "c. 7th century CE",
+    "timeline": [
+      {
+        "language": "Chinese",
+        "form": "千 (qiān)",
+        "period": "Tang dynasty",
+        "meaning": "thousand"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "千 (せん)",
+        "period": "Modern",
+        "meaning": "thousand"
+      }
+    ],
+    "cognates": [],
+    "notes": "Sino-Japanese borrowing from Chinese 'qiān'."
+  },
+  "word_ja_ichi_man": {
+    "languageOrigin": "Chinese/Japanese",
+    "yearOfOrigin": "c. 7th century CE",
+    "timeline": [
+      {
+        "language": "Chinese",
+        "form": "万 (wàn)",
+        "period": "Tang dynasty",
+        "meaning": "ten thousand"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "一万 (いちまん)",
+        "period": "Modern",
+        "meaning": "ten thousand"
+      }
+    ],
+    "cognates": [],
+    "notes": "Sino-Japanese 'man' from Chinese 'wan'. Important counting unit."
+  },
+  "word_ja_han": {
+    "languageOrigin": "Chinese",
+    "yearOfOrigin": "c. 7th century CE",
+    "timeline": [
+      {
+        "language": "Chinese",
+        "form": "半 (bàn)",
+        "period": "Tang dynasty",
+        "meaning": "half"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "半 (はん)",
+        "period": "Modern",
+        "meaning": "half"
+      }
+    ],
+    "cognates": [],
+    "notes": "Sino-Japanese 'han' from Chinese 'ban'."
+  }
+}

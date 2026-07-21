@@ -1,0 +1,396 @@
+{
+  "word_ta_mannidam": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "மன் (maṉ)",
+        "period": "Sangam",
+        "meaning": "person"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "மனிதன்",
+        "period": "Modern",
+        "meaning": "person"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil maṉiṭaṉ."
+  },
+  "word_ta_kuzhandai": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "குழந்தை (kuḻantai)",
+        "period": "Sangam",
+        "meaning": "child"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "குழந்தை",
+        "period": "Modern",
+        "meaning": "child"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil kuḻantai."
+  },
+  "word_ta_veedu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "வீடு (vīṭu)",
+        "period": "Sangam",
+        "meaning": "house"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "வீடு",
+        "period": "Modern",
+        "meaning": "house"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil vīṭu."
+  },
+  "word_ta_thanii": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "தண்ணீர் (taṇṇīr)",
+        "period": "Sangam",
+        "meaning": "water"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "தண்ணீர்",
+        "period": "Modern",
+        "meaning": "water"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil taṇṇīr."
+  },
+  "word_ta_sappadu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "சாப்பாடு (cāppāṭu)",
+        "period": "Medieval",
+        "meaning": "food"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "சாப்பாடு",
+        "period": "Modern",
+        "meaning": "food"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil cāppāṭu."
+  },
+  "word_ta_neram": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "நேரம் (nēram)",
+        "period": "Medieval",
+        "meaning": "time"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "நேரம்",
+        "period": "Modern",
+        "meaning": "time"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil nēram."
+  },
+  "word_ta_naall": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "நாள் (nāḷ)",
+        "period": "Sangam",
+        "meaning": "day"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "நாள்",
+        "period": "Modern",
+        "meaning": "day"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil nāḷ."
+  },
+  "word_ta_varudam": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "வருடம் (varuṭam)",
+        "period": "Medieval",
+        "meaning": "year"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "வருடம்",
+        "period": "Modern",
+        "meaning": "year"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil varuṭam."
+  },
+  "word_ta_kai": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "கை (kai)",
+        "period": "Sangam",
+        "meaning": "hand"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "கை",
+        "period": "Modern",
+        "meaning": "hand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil kai."
+  },
+  "word_ta_kan": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "கண் (kaṇ)",
+        "period": "Sangam",
+        "meaning": "eye"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "கண்",
+        "period": "Modern",
+        "meaning": "eye"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil kaṇ."
+  },
+  "word_ta_thalai": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "தலை (talai)",
+        "period": "Sangam",
+        "meaning": "head"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "தலை",
+        "period": "Modern",
+        "meaning": "head"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil talai."
+  },
+  "word_ta_puthagam": {
+    "languageOrigin": "Tamil/Sanskrit",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पुस्तक (pustaka)",
+        "period": "Classical",
+        "meaning": "book"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "புத்தகம்",
+        "period": "Modern",
+        "meaning": "book"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit pustaka."
+  },
+  "word_ta_kathavu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "கதவு (katavu)",
+        "period": "Medieval",
+        "meaning": "door"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "கதவு",
+        "period": "Modern",
+        "meaning": "door"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil katavu."
+  },
+  "word_ta_veedi": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "வீதி (vīti)",
+        "period": "Medieval",
+        "meaning": "street"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "வீதி",
+        "period": "Modern",
+        "meaning": "street"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil vīti."
+  },
+  "word_ta_nagaram": {
+    "languageOrigin": "Tamil/Sanskrit",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "नगर (nagara)",
+        "period": "Classical",
+        "meaning": "city"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "நகரம்",
+        "period": "Modern",
+        "meaning": "city"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit nagara."
+  },
+  "word_ta_nadu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "நாடு (nāṭu)",
+        "period": "Sangam",
+        "meaning": "country, land"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "நாடு",
+        "period": "Modern",
+        "meaning": "country"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil nāṭu."
+  },
+  "word_ta_pallikoodam": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "பள்ளிக்கூடம் (paḷḷikkūṭam)",
+        "period": "Modern",
+        "meaning": "school"
+      }
+    ],
+    "cognates": [],
+    "notes": "paḷḷi (school) + kūṭam (hall)."
+  },
+  "word_ta_nanban": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "நண்பன் (naṉpaṉ)",
+        "period": "Sangam",
+        "meaning": "friend"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "நண்பன்",
+        "period": "Modern",
+        "meaning": "friend"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil naṉpaṉ."
+  },
+  "word_ta_kudumbam": {
+    "languageOrigin": "Tamil/Sanskrit",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कुटुम्ब (kuṭumba)",
+        "period": "Classical",
+        "meaning": "family"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "குடும்பம்",
+        "period": "Modern",
+        "meaning": "family"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit kuṭumba."
+  },
+  "word_ta_peyar": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "பெயர் (peyar)",
+        "period": "Sangam",
+        "meaning": "name"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "பெயர்",
+        "period": "Modern",
+        "meaning": "name"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil peyar."
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "word_te_lopala": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "లోపల (lōpala)",
+        "period": "Medieval",
+        "meaning": "inside"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "లోపల",
+        "period": "Modern",
+        "meaning": "in"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu lōpala."
+  },
+  "word_te_ki": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "-కు (-ku)",
+        "period": "Medieval",
+        "meaning": "to (dative)"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "-కు",
+        "period": "Modern",
+        "meaning": "to"
+      }
+    ],
+    "cognates": [],
+    "notes": "Telugu dative case suffix."
+  },
+  "word_te_nundi": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "నుండి (nuṇḍi)",
+        "period": "Medieval",
+        "meaning": "from"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "నుండి",
+        "period": "Modern",
+        "meaning": "from"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu uṇḍu (be) + nundi."
+  },
+  "word_te_tho": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "-తో (-tō)",
+        "period": "Medieval",
+        "meaning": "with"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "-తో",
+        "period": "Modern",
+        "meaning": "with"
+      }
+    ],
+    "cognates": [],
+    "notes": "Telugu instrumental case suffix."
+  },
+  "word_te_kosam": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कोश (kośa)",
+        "period": "Classical",
+        "meaning": "treasury, for"
+      },
+      {
+        "language": "Telugu",
+        "form": "కోసం",
+        "period": "Modern",
+        "meaning": "for"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit kośa? Actually Telugu kōsam."
+  },
+  "word_te_gurinchi": {
+    "languageOrigin": "Sanskrit/Telugu",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "गुरु (guru)",
+        "period": "Vedic",
+        "meaning": "heavy, about"
+      },
+      {
+        "language": "Telugu",
+        "form": "గురించి",
+        "period": "Modern",
+        "meaning": "about"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu guriñci."
+  },
+  "word_te_lekunda": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "లేకుండా (lēkuṇḍā)",
+        "period": "Medieval",
+        "meaning": "without"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "లేకుండా",
+        "period": "Modern",
+        "meaning": "without"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu lēdu (not) + kuṇḍā."
+  },
+  "word_te_mundu": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "ముందు (mundu)",
+        "period": "Medieval",
+        "meaning": "before"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "ముందు",
+        "period": "Modern",
+        "meaning": "before"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu mundu."
+  },
+  "word_te_taruvata": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "ततः (tataḥ)",
+        "period": "Vedic",
+        "meaning": "after"
+      },
+      {
+        "language": "Telugu",
+        "form": "తర్వాత",
+        "period": "Modern",
+        "meaning": "after"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit tataḥ."
+  },
+  "word_te_paina": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "పైన (painna)",
+        "period": "Medieval",
+        "meaning": "above"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "పైన",
+        "period": "Modern",
+        "meaning": "on top of"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu painna."
+  }
+}

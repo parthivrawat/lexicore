@@ -1,0 +1,302 @@
+{
+  "word_mr_khub": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "खूब? / क्षुभ्यति?",
+        "period": "Classical",
+        "meaning": "very"
+      },
+      {
+        "language": "Persian",
+        "form": "خوب (khub)",
+        "period": "Medieval",
+        "meaning": "well, very"
+      },
+      {
+        "language": "Marathi",
+        "form": "खूप",
+        "period": "Modern",
+        "meaning": "very"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian khub (good/very)."
+  },
+  "word_mr_suddha": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अपि (api)",
+        "period": "Vedic",
+        "meaning": "also"
+      },
+      {
+        "language": "Marathi",
+        "form": "सुद्धा",
+        "period": "Modern",
+        "meaning": "also"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit api/śuddha. 'suddha' is also."
+  },
+  "word_mr_fakt": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "فقط (faqat)",
+        "period": "Medieval",
+        "meaning": "only"
+      },
+      {
+        "language": "Marathi",
+        "form": "फक्त",
+        "period": "Modern",
+        "meaning": "only"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian faqat."
+  },
+  "word_mr_sadaiv": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "सदैव (sadaiva)",
+        "period": "Classical",
+        "meaning": "always"
+      },
+      {
+        "language": "Marathi",
+        "form": "सदैव",
+        "period": "Modern",
+        "meaning": "always"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit sadaiva."
+  },
+  "word_mr_kadhi_nahin": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कदा (kadā) न (na)",
+        "period": "Classical",
+        "meaning": "never"
+      },
+      {
+        "language": "Marathi",
+        "form": "कधी नाही",
+        "period": "Modern",
+        "meaning": "never"
+      }
+    ],
+    "cognates": [],
+    "notes": "कधी (when) + नाही (not)."
+  },
+  "word_mr_kadhi_kadhi": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कदाचित् (kadācit)",
+        "period": "Classical",
+        "meaning": "sometimes"
+      },
+      {
+        "language": "Marathi",
+        "form": "कधीतरी",
+        "period": "Modern",
+        "meaning": "sometimes"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit kadācit."
+  },
+  "word_mr_sarva_da": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "सर्वदा (sarvadā)",
+        "period": "Classical",
+        "meaning": "always, often"
+      },
+      {
+        "language": "Marathi",
+        "form": "सर्वदा",
+        "period": "Modern",
+        "meaning": "often"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit sarvadā."
+  },
+  "word_mr_ata": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अद्य (adya)",
+        "period": "Classical",
+        "meaning": "today"
+      },
+      {
+        "language": "Marathi",
+        "form": "आता",
+        "period": "Modern",
+        "meaning": "now"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit adya? 'आता' from Sanskrit ādya? Actually 'ata' from Prakrit 'etta'."
+  },
+  "word_mr_naantar": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अनन्तरम् (anantaram)",
+        "period": "Classical",
+        "meaning": "afterwards"
+      },
+      {
+        "language": "Marathi",
+        "form": "नंतर",
+        "period": "Modern",
+        "meaning": "later"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit anantaram."
+  },
+  "word_mr_kaal": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "काल (kāla)",
+        "period": "Vedic",
+        "meaning": "time, yesterday?"
+      },
+      {
+        "language": "Marathi",
+        "form": "काल",
+        "period": "Modern",
+        "meaning": "yesterday"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit kāla (time). 'Kāl' in Marathi means yesterday."
+  },
+  "word_mr_udyaa": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "उद्य (udya)",
+        "period": "Classical",
+        "meaning": "tomorrow"
+      },
+      {
+        "language": "Marathi",
+        "form": "उद्य",
+        "period": "Modern",
+        "meaning": "tomorrow"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit udya."
+  },
+  "word_mr_ata_nantar": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Marathi",
+        "form": "आता नंतर",
+        "period": "Modern",
+        "meaning": "now after"
+      }
+    ],
+    "cognates": [],
+    "notes": "आता (now) + नंतर (after). 'Already'."
+  },
+  "word_mr_ajun": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अद्यापि (adyāpi)",
+        "period": "Classical",
+        "meaning": "even now, yet"
+      },
+      {
+        "language": "Marathi",
+        "form": "अजून",
+        "period": "Modern",
+        "meaning": "not yet"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit adyāpi."
+  },
+  "word_mr_kadhi": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कदाचित् (kadācit)",
+        "period": "Classical",
+        "meaning": "perhaps"
+      },
+      {
+        "language": "Marathi",
+        "form": "कदाचित",
+        "period": "Modern",
+        "meaning": "maybe"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit kadācit."
+  },
+  "word_mr_nakkich": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "निश्चय (niścaya)",
+        "period": "Classical",
+        "meaning": "certainty"
+      },
+      {
+        "language": "Marathi",
+        "form": "नक्कीच",
+        "period": "Modern",
+        "meaning": "certainly"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit niścaya."
+  }
+}

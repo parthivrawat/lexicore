@@ -1,0 +1,372 @@
+{
+  "word_zh_wo": {
+    "languageOrigin": "Old Chinese",
+    "yearOfOrigin": "c. 1200 BCE",
+    "timeline": [
+      {
+        "language": "Old Chinese",
+        "form": "我",
+        "period": "Shang dynasty",
+        "meaning": "I, me, we"
+      },
+      {
+        "language": "Mandarin",
+        "form": "我",
+        "period": "Modern",
+        "meaning": "I"
+      }
+    ],
+    "cognates": [],
+    "notes": "Pictograph of a weapon or rake, used as first person pronoun. Possibly plural origin."
+  },
+  "word_zh_ni": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "你",
+        "period": "Zhou dynasty",
+        "meaning": "you"
+      },
+      {
+        "language": "Mandarin",
+        "form": "你",
+        "period": "Modern",
+        "meaning": "you"
+      }
+    ],
+    "cognates": [],
+    "notes": "Person 亻 + 尔 (you). Modern informal second person."
+  },
+  "word_zh_nin": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "您",
+        "period": "Modern",
+        "meaning": "you (formal)"
+      }
+    ],
+    "cognates": [],
+    "notes": "你 + 心 (heart). Honorific form showing respect from the heart."
+  },
+  "word_zh_ta": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "他",
+        "period": "Zhou dynasty",
+        "meaning": "other, he"
+      },
+      {
+        "language": "Mandarin",
+        "form": "他",
+        "period": "Modern",
+        "meaning": "he"
+      }
+    ],
+    "cognates": [],
+    "notes": "Person 亻 + 也 (snake/other). Originally 'other', now 'he'."
+  },
+  "word_zh_ta2": {
+    "languageOrigin": "Modern Chinese",
+    "yearOfOrigin": "20th century",
+    "timeline": [
+      {
+        "language": "Modern Chinese",
+        "form": "她",
+        "period": "20th century",
+        "meaning": "she"
+      }
+    ],
+    "cognates": [],
+    "notes": "她 (woman 女 + 也) created in 20th century under Western influence to distinguish 'she'."
+  },
+  "word_zh_women": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "我们",
+        "period": "Modern",
+        "meaning": "we"
+      }
+    ],
+    "cognates": [],
+    "notes": "我 (I) + 们 (plural suffix). 'We/us'."
+  },
+  "word_zh_tamen": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "他们",
+        "period": "Modern",
+        "meaning": "they"
+      }
+    ],
+    "cognates": [],
+    "notes": "他 + 们 (plural suffix). 'They'."
+  },
+  "word_zh_zhe": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "這",
+        "period": "Zhou dynasty",
+        "meaning": "this"
+      },
+      {
+        "language": "Mandarin",
+        "form": "这",
+        "simplified": true,
+        "period": "Modern",
+        "meaning": "this"
+      }
+    ],
+    "cognates": [],
+    "notes": "Walk 辶 + 言 (speech). Originally 'to go', borrowed for 'this'."
+  },
+  "word_zh_na": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "那",
+        "period": "Zhou dynasty",
+        "meaning": "that, which"
+      },
+      {
+        "language": "Mandarin",
+        "form": "那",
+        "period": "Modern",
+        "meaning": "that"
+      }
+    ],
+    "cognates": [],
+    "notes": "Town 邑 + 冄 (soft). Demonstrative 'that'."
+  },
+  "word_zh_shenme": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "什么",
+        "period": "Modern",
+        "meaning": "what"
+      }
+    ],
+    "cognates": [],
+    "notes": "什 (ten/various) + 么 (particle). Modern interrogative."
+  },
+  "word_zh_shui": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "誰",
+        "period": "Zhou dynasty",
+        "meaning": "who"
+      },
+      {
+        "language": "Mandarin",
+        "form": "谁",
+        "simplified": true,
+        "period": "Modern",
+        "meaning": "who"
+      }
+    ],
+    "cognates": [],
+    "notes": "Speech 言 + 隹 (bird). Interrogative 'who'."
+  },
+  "word_zh_nar": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "哪里",
+        "period": "Modern",
+        "meaning": "where"
+      }
+    ],
+    "cognates": [],
+    "notes": "哪 (which) + 里 (inside). 'Which inside', i.e., where."
+  },
+  "word_zh_shenme_shihou": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "什么时候",
+        "period": "Modern",
+        "meaning": "when"
+      }
+    ],
+    "cognates": [],
+    "notes": "什么 (what) + 时候 (time). 'What time'."
+  },
+  "word_zh_weishenme": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "为什么",
+        "period": "Modern",
+        "meaning": "why"
+      }
+    ],
+    "cognates": [],
+    "notes": "为 (for) + 什么 (what). 'For what', i.e., why."
+  },
+  "word_zh_zenme": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "怎么",
+        "period": "Modern",
+        "meaning": "how"
+      }
+    ],
+    "cognates": [],
+    "notes": "怎 (how) + 么 (particle). 'How'."
+  },
+  "word_zh_he": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "和",
+        "period": "Zhou dynasty",
+        "meaning": "harmonious, and"
+      },
+      {
+        "language": "Mandarin",
+        "form": "和",
+        "period": "Modern",
+        "meaning": "and"
+      }
+    ],
+    "cognates": [],
+    "notes": "Grain 禾 + 口 (mouth). Originally 'harmony', now 'and'."
+  },
+  "word_zh_huozhe": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "或者",
+        "period": "Modern",
+        "meaning": "or"
+      }
+    ],
+    "cognates": [],
+    "notes": "或 (perhaps/some) + 者 (one who). 'Perhaps one', i.e., or."
+  },
+  "word_zh_danshi": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "但是",
+        "period": "Modern",
+        "meaning": "but"
+      }
+    ],
+    "cognates": [],
+    "notes": "但 (only) + 是 (is). Conjunction 'but'."
+  },
+  "word_zh_ruguo": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "如果",
+        "period": "Zhou dynasty",
+        "meaning": "if, supposing"
+      },
+      {
+        "language": "Mandarin",
+        "form": "如果",
+        "period": "Modern",
+        "meaning": "if"
+      }
+    ],
+    "cognates": [],
+    "notes": "如 (like) + 果 (fruit/result). 'If it results'."
+  },
+  "word_zh_yinwei": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "因为",
+        "period": "Modern",
+        "meaning": "because"
+      }
+    ],
+    "cognates": [],
+    "notes": "因 (cause) + 为 (for). 'Cause for', i.e., because."
+  },
+  "word_zh_bu": {
+    "languageOrigin": "Old Chinese",
+    "yearOfOrigin": "c. 1200 BCE",
+    "timeline": [
+      {
+        "language": "Old Chinese",
+        "form": "不",
+        "period": "Shang dynasty",
+        "meaning": "not, no"
+      },
+      {
+        "language": "Mandarin",
+        "form": "不",
+        "period": "Modern",
+        "meaning": "no"
+      }
+    ],
+    "cognates": [],
+    "notes": "Pictograph of roots spreading downward, used as negative. Most common negation."
+  },
+  "word_zh_shi2": {
+    "languageOrigin": "Old Chinese",
+    "yearOfOrigin": "c. 1200 BCE",
+    "timeline": [
+      {
+        "language": "Old Chinese",
+        "form": "是",
+        "period": "Shang dynasty",
+        "meaning": "this, correct"
+      },
+      {
+        "language": "Mandarin",
+        "form": "是",
+        "period": "Modern",
+        "meaning": "yes"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same as copula 'to be'. Used as 'yes' in response."
+  }
+}

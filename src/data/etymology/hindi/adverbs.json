@@ -1,0 +1,242 @@
+{
+  "word_hi_bahut": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "बहु (bahu)",
+        "period": "Classical",
+        "meaning": "much, many"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit बहु (bahu). Means 'very, much'."
+  },
+  "word_hi_bhi": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अपि (api)",
+        "period": "Vedic",
+        "meaning": "also, even"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit अपि (api). Means 'also'."
+  },
+  "word_hi_sirf": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "صرف (ṣarf)",
+        "period": "Classical",
+        "meaning": "only, merely"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Urdu",
+        "word": "صرف",
+        "meaning": "only"
+      }
+    ],
+    "notes": "Borrowed from Arabic. Means 'only'."
+  },
+  "word_hi_hamesha": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "همیشه (hamēsha)",
+        "period": "Medieval",
+        "meaning": "always"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Urdu",
+        "word": "ہمیشہ",
+        "meaning": "always"
+      }
+    ],
+    "notes": "Borrowed from Persian. Means 'always'."
+  },
+  "word_hi_kabhi_nahi": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कदा (kadā)",
+        "period": "Classical",
+        "meaning": "when"
+      }
+    ],
+    "cognates": [],
+    "notes": "कभी from Sanskrit कदा + नहीं (not). Means 'never'."
+  },
+  "word_hi_kabhi_kabhi": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कदा (kadā)",
+        "period": "Classical",
+        "meaning": "when"
+      }
+    ],
+    "cognates": [],
+    "notes": "Reduplication of कभी. Means 'sometimes'."
+  },
+  "word_hi_aksar": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "أكثر (akṯar)",
+        "period": "Classical",
+        "meaning": "more, often"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Urdu",
+        "word": "اکثر",
+        "meaning": "often"
+      }
+    ],
+    "notes": "Borrowed from Arabic. Means 'often'."
+  },
+  "word_hi_ab": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अद्य (adya)",
+        "period": "Classical",
+        "meaning": "today, now"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit अद्य (adya). Means 'now'."
+  },
+  "word_hi_baad_mein": {
+    "languageOrigin": "Arabic/Sanskrit",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "بعد (baʿd)",
+        "period": "Classical",
+        "meaning": "after"
+      }
+    ],
+    "cognates": [],
+    "notes": "बाद from Arabic + में (in). Means 'later'."
+  },
+  "word_hi_kal": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कल्य (kalya)",
+        "period": "Vedic",
+        "meaning": "tomorrow, yesterday"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit. Ambiguous: means both 'yesterday' and 'tomorrow'."
+  },
+  "word_hi_kal_alt": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कल्य (kalya)",
+        "period": "Vedic",
+        "meaning": "tomorrow, yesterday"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same as kal. Context determines meaning."
+  },
+  "word_hi_pahle_se": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पूर्व (pūrva)",
+        "period": "Classical",
+        "meaning": "before, earlier"
+      }
+    ],
+    "cognates": [],
+    "notes": "पहले from Sanskrit पूर्व. Means 'already'."
+  },
+  "word_hi_abhi_tak_nahi": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अद्य (adya)",
+        "period": "Classical",
+        "meaning": "now"
+      }
+    ],
+    "cognates": [],
+    "notes": "अभी (now) + तक (until) + नहीं (not). Means 'not yet'."
+  },
+  "word_hi_shayad": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "شاید (shāyad)",
+        "period": "Medieval",
+        "meaning": "maybe, perhaps"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Urdu",
+        "word": "شاید",
+        "meaning": "maybe"
+      }
+    ],
+    "notes": "Borrowed from Persian. Means 'maybe'."
+  },
+  "word_hi_zaroor": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "ضرور (ḍarūr)",
+        "period": "Classical",
+        "meaning": "necessary, certainly"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Urdu",
+        "word": "ضرور",
+        "meaning": "certainly"
+      }
+    ],
+    "notes": "Borrowed from Arabic. Means 'certainly'."
+  }
+}

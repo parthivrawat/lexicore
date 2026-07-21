@@ -1,0 +1,308 @@
+{
+  "word_id_nol": {
+    "languageOrigin": "Dutch/Arabic",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "ṣifr",
+        "period": "9th century",
+        "meaning": "zero"
+      },
+      {
+        "language": "Dutch",
+        "form": "nul",
+        "period": "17th century",
+        "meaning": "zero"
+      },
+      {
+        "language": "Indonesian",
+        "form": "nol",
+        "period": "Modern",
+        "meaning": "zero"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Dutch 'nul'."
+  },
+  "word_id_satu": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Austronesian",
+        "form": "*isa",
+        "period": "c. 3000 BCE",
+        "meaning": "one"
+      },
+      {
+        "language": "Old Malay",
+        "form": "satu",
+        "period": "Medieval",
+        "meaning": "one"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Austronesian *isa."
+  },
+  "word_id_dua": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Austronesian",
+        "form": "*duha",
+        "period": "c. 3000 BCE",
+        "meaning": "two"
+      },
+      {
+        "language": "Old Malay",
+        "form": "dua",
+        "period": "Medieval",
+        "meaning": "two"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Austronesian *duha."
+  },
+  "word_id_tiga": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Austronesian",
+        "form": "*telu",
+        "period": "c. 3000 BCE",
+        "meaning": "three"
+      },
+      {
+        "language": "Old Malay",
+        "form": "tiga",
+        "period": "Medieval",
+        "meaning": "three"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Austronesian *telu."
+  },
+  "word_id_empat": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Austronesian",
+        "form": "*epat",
+        "period": "c. 3000 BCE",
+        "meaning": "four"
+      },
+      {
+        "language": "Old Malay",
+        "form": "empat",
+        "period": "Medieval",
+        "meaning": "four"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Austronesian *epat."
+  },
+  "word_id_lima": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Austronesian",
+        "form": "*lima",
+        "period": "c. 3000 BCE",
+        "meaning": "five"
+      },
+      {
+        "language": "Old Malay",
+        "form": "lima",
+        "period": "Medieval",
+        "meaning": "five"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Austronesian *lima."
+  },
+  "word_id_enam": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Austronesian",
+        "form": "*enem",
+        "period": "c. 3000 BCE",
+        "meaning": "six"
+      },
+      {
+        "language": "Old Malay",
+        "form": "enam",
+        "period": "Medieval",
+        "meaning": "six"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Austronesian *enem."
+  },
+  "word_id_tujuh": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Austronesian",
+        "form": "*pitu",
+        "period": "c. 3000 BCE",
+        "meaning": "seven"
+      },
+      {
+        "language": "Old Malay",
+        "form": "tujuh",
+        "period": "Medieval",
+        "meaning": "seven"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Austronesian *pitu."
+  },
+  "word_id_delapan": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Austronesian",
+        "form": "*walu",
+        "period": "c. 3000 BCE",
+        "meaning": "eight"
+      },
+      {
+        "language": "Old Malay",
+        "form": "delapan",
+        "period": "Medieval",
+        "meaning": "eight"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Austronesian *walu."
+  },
+  "word_id_sembilan": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Austronesian",
+        "form": "*siwa",
+        "period": "c. 3000 BCE",
+        "meaning": "nine"
+      },
+      {
+        "language": "Old Malay",
+        "form": "sembilan",
+        "period": "Medieval",
+        "meaning": "nine"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Austronesian *siwa."
+  },
+  "word_id_sepuluh": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Austronesian",
+        "form": "*puluq",
+        "period": "c. 3000 BCE",
+        "meaning": "ten"
+      },
+      {
+        "language": "Old Malay",
+        "form": "sepuluh",
+        "period": "Medieval",
+        "meaning": "ten"
+      }
+    ],
+    "cognates": [],
+    "notes": "se- (one) + puluh (ten)."
+  },
+  "word_id_seratus": {
+    "languageOrigin": "Austronesian/Sanskrit",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "śata",
+        "period": "Classical",
+        "meaning": "hundred"
+      },
+      {
+        "language": "Old Malay",
+        "form": "ratus",
+        "period": "Medieval",
+        "meaning": "hundred"
+      }
+    ],
+    "cognates": [],
+    "notes": "se- (one) + ratus (hundred), from Sanskrit śata."
+  },
+  "word_id_seribu": {
+    "languageOrigin": "Austronesian/Sanskrit",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "sahasra",
+        "period": "Classical",
+        "meaning": "thousand"
+      },
+      {
+        "language": "Old Malay",
+        "form": "ribu",
+        "period": "Medieval",
+        "meaning": "thousand"
+      }
+    ],
+    "cognates": [],
+    "notes": "se- (one) + ribu (thousand), from Sanskrit sahasra."
+  },
+  "word_id_sejuta": {
+    "languageOrigin": "Sanskrit/Malay",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "ayuta",
+        "period": "Classical",
+        "meaning": "ten thousand, myriad"
+      },
+      {
+        "language": "Old Malay",
+        "form": "juta",
+        "period": "Medieval",
+        "meaning": "million"
+      }
+    ],
+    "cognates": [],
+    "notes": "se- (one) + juta (million), from Sanskrit ayuta? Actually juta from Sanskrit 'ayuta' or 'koṭi'?"
+  },
+  "word_id_setengah": {
+    "languageOrigin": "Austronesian/Sanskrit",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "ardha",
+        "period": "Classical",
+        "meaning": "half"
+      },
+      {
+        "language": "Old Malay",
+        "form": "tengah",
+        "period": "Medieval",
+        "meaning": "middle, half"
+      }
+    ],
+    "cognates": [],
+    "notes": "se- (one) + tengah (middle), from Sanskrit ardha?"
+  }
+}

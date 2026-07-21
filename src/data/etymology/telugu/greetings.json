@@ -1,0 +1,276 @@
+{
+  "word_te_namaste": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "नमस् (namas) + ते (te)",
+        "period": "Vedic",
+        "meaning": "I bow to you"
+      },
+      {
+        "language": "Telugu",
+        "form": "నమస్తే",
+        "period": "Modern",
+        "meaning": "hello"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "नमस्ते",
+        "meaning": "hello"
+      }
+    ],
+    "notes": "From Sanskrit namaste."
+  },
+  "word_te_hallo": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 20th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "hello",
+        "period": "20th century",
+        "meaning": "hello"
+      },
+      {
+        "language": "Telugu",
+        "form": "హలో",
+        "period": "Modern",
+        "meaning": "hi"
+      }
+    ],
+    "cognates": [],
+    "notes": "Loan from English 'hello'."
+  },
+  "word_te_selavu": {
+    "languageOrigin": "Sanskrit/Telugu",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "शील (śīla)",
+        "period": "Classical",
+        "meaning": "character, behavior"
+      },
+      {
+        "language": "Telugu",
+        "form": "సెలవు",
+        "period": "Modern",
+        "meaning": "leave, goodbye"
+      }
+    ],
+    "cognates": [],
+    "notes": "Telugu 'selavu' means leave."
+  },
+  "word_te_dhanyavadalu": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "धन्यवाद (dhanyavāda)",
+        "period": "Classical",
+        "meaning": "thanks"
+      },
+      {
+        "language": "Telugu",
+        "form": "ధన్యవాదాలు",
+        "period": "Modern",
+        "meaning": "thank you"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit dhanyavāda + ālu (plural)."
+  },
+  "word_te_dayachesi": {
+    "languageOrigin": "Sanskrit/Telugu",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "दया (dayā)",
+        "period": "Vedic",
+        "meaning": "mercy"
+      },
+      {
+        "language": "Telugu",
+        "form": "దయచేసి",
+        "period": "Modern",
+        "meaning": "please"
+      }
+    ],
+    "cognates": [],
+    "notes": "daya (mercy) + cēsi (having done)."
+  },
+  "word_te_parvaledu": {
+    "languageOrigin": "Sanskrit/Telugu",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पर्व (parva)",
+        "period": "Vedic",
+        "meaning": "section, knot"
+      },
+      {
+        "language": "Telugu",
+        "form": "పర్వాలేదు",
+        "period": "Modern",
+        "meaning": "it's okay"
+      }
+    ],
+    "cognates": [],
+    "notes": "Colloquial Telugu; 'parvā lēdu' means 'not a matter'."
+  },
+  "word_te_kshaminchu": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "क्षमा (kṣamā)",
+        "period": "Vedic",
+        "meaning": "forgiveness"
+      },
+      {
+        "language": "Telugu",
+        "form": "క్షమించండి",
+        "period": "Modern",
+        "meaning": "sorry"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit kṣamā."
+  },
+  "word_te_em_parledu": {
+    "languageOrigin": "Telugu",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Telugu",
+        "form": "ఏం పర్లేదు",
+        "period": "Modern",
+        "meaning": "it's nothing"
+      }
+    ],
+    "cognates": [],
+    "notes": "ēṃ (what) + parledu (not a matter)."
+  },
+  "word_te_malli_kaluddam": {
+    "languageOrigin": "Telugu",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Telugu",
+        "form": "మళ్ళీ కలుద్దాం",
+        "period": "Modern",
+        "meaning": "let's meet again"
+      }
+    ],
+    "cognates": [],
+    "notes": "maḷḷī (again) + kaluddām (let's meet)."
+  },
+  "word_te_meeru_elaa_unnaaru": {
+    "languageOrigin": "Telugu",
+    "yearOfOrigin": "c. 3rd century CE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "మీరు ఎలా ఉన్నారు",
+        "period": "Medieval",
+        "meaning": "how are you"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "మీరు ఎలా ఉన్నారు?",
+        "period": "Modern",
+        "meaning": "how are you"
+      }
+    ],
+    "cognates": [],
+    "notes": "mīru (you) + elā (how) + unnāru (are)."
+  },
+  "word_te_nenu_baagunnaanu": {
+    "languageOrigin": "Telugu",
+    "yearOfOrigin": "c. 3rd century CE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "నేను బాగున్నాను",
+        "period": "Medieval",
+        "meaning": "I am fine"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "నేను బాగున్నాను",
+        "period": "Modern",
+        "meaning": "I am fine"
+      }
+    ],
+    "cognates": [],
+    "notes": "nēnu (I) + bāgu (well) + unnānu (am)."
+  },
+  "word_te_shubharatri": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "शुभ रात्रि (śubha rātri)",
+        "period": "Classical",
+        "meaning": "auspicious night"
+      },
+      {
+        "language": "Telugu",
+        "form": "శుభరాత్రి",
+        "period": "Modern",
+        "meaning": "good night"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit śubha rātri."
+  },
+  "word_te_swagatam": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "स्वागत (svāgata)",
+        "period": "Classical",
+        "meaning": "welcome"
+      },
+      {
+        "language": "Telugu",
+        "form": "స్వాగతం",
+        "period": "Modern",
+        "meaning": "welcome"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit svāgata."
+  },
+  "word_te_kshemamga": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "क्षेम (kṣema)",
+        "period": "Vedic",
+        "meaning": "well-being"
+      },
+      {
+        "language": "Telugu",
+        "form": "క్షేమంగా",
+        "period": "Modern",
+        "meaning": "excuse me / take care"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit kṣema."
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "word_la_nihil_zero": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "nihil",
+        "period": "Classical",
+        "meaning": "nothing"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "nil",
+        "meaning": "zero"
+      }
+    ],
+    "notes": "Latin had no separate word for zero; nihil meant nothing."
+  },
+  "word_la_unus": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "unus",
+        "period": "Classical",
+        "meaning": "one"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "one",
+        "meaning": "one"
+      }
+    ],
+    "notes": "From PIE *óynos."
+  },
+  "word_la_duo": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "duo",
+        "period": "Classical",
+        "meaning": "two"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "two",
+        "meaning": "two"
+      }
+    ],
+    "notes": "From PIE *dwóh₁."
+  },
+  "word_la_tres": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "trēs",
+        "period": "Classical",
+        "meaning": "three"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "three",
+        "meaning": "three"
+      }
+    ],
+    "notes": "From PIE *tréyes."
+  },
+  "word_la_quattuor": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quattuor",
+        "period": "Classical",
+        "meaning": "four"
+      }
+    ],
+    "cognates": [],
+    "notes": "From PIE *kʷetwóres."
+  },
+  "word_la_quinque": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quīnque",
+        "period": "Classical",
+        "meaning": "five"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "five",
+        "meaning": "five"
+      }
+    ],
+    "notes": "From PIE *pénkʷe."
+  },
+  "word_la_sex": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sex",
+        "period": "Classical",
+        "meaning": "six"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "six",
+        "meaning": "six"
+      }
+    ],
+    "notes": "From PIE *s(w)eḱs."
+  },
+  "word_la_septem": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "septem",
+        "period": "Classical",
+        "meaning": "seven"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "seven",
+        "meaning": "seven"
+      }
+    ],
+    "notes": "From PIE *septḿ̥."
+  },
+  "word_la_octo": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "octō",
+        "period": "Classical",
+        "meaning": "eight"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "eight",
+        "meaning": "eight"
+      }
+    ],
+    "notes": "From PIE *oḱtṓw."
+  },
+  "word_la_novem": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "novem",
+        "period": "Classical",
+        "meaning": "nine"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "nine",
+        "meaning": "nine"
+      }
+    ],
+    "notes": "From PIE *h₁néwn̥."
+  },
+  "word_la_decem": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "decem",
+        "period": "Classical",
+        "meaning": "ten"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "ten",
+        "meaning": "ten"
+      }
+    ],
+    "notes": "From PIE *déḱm̥t."
+  },
+  "word_la_centum": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "centum",
+        "period": "Classical",
+        "meaning": "hundred"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "cent",
+        "meaning": "hundredth"
+      }
+    ],
+    "notes": "From PIE *ḱm̥tóm."
+  },
+  "word_la_mille": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "mille",
+        "period": "Classical",
+        "meaning": "thousand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From PIE *smeh₁- (great)."
+  },
+  "word_la_milli": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "mīllio",
+        "period": "Medieval",
+        "meaning": "million"
+      }
+    ],
+    "cognates": [],
+    "notes": "Late Latin 'mīllio, -ōnis' used for a great thousand."
+  },
+  "word_la_dimidium": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "dīmidium",
+        "period": "Classical",
+        "meaning": "half"
+      }
+    ],
+    "cognates": [],
+    "notes": "From dis- (apart) + medius (middle)."
+  }
+}

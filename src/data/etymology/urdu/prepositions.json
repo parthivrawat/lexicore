@@ -1,0 +1,214 @@
+{
+  "word_ur_main": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "मध्य (madhya)",
+        "period": "Classical",
+        "meaning": "middle, in"
+      },
+      {
+        "language": "Urdu",
+        "form": "میں",
+        "period": "Modern",
+        "meaning": "in"
+      }
+    ],
+    "cognates": [],
+    "notes": "Postposition 'in'."
+  },
+  "word_ur_ko": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "काकु (kāku)?",
+        "period": "Classical",
+        "meaning": "to"
+      },
+      {
+        "language": "Urdu",
+        "form": "کو",
+        "period": "Modern",
+        "meaning": "to"
+      }
+    ],
+    "cognates": [],
+    "notes": "Accusative/dative postposition."
+  },
+  "word_ur_se": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "स्था (sthā)",
+        "period": "Classical",
+        "meaning": "from"
+      },
+      {
+        "language": "Urdu",
+        "form": "سے",
+        "period": "Modern",
+        "meaning": "from"
+      }
+    ],
+    "cognates": [],
+    "notes": "Postposition 'from, by, with'."
+  },
+  "word_ur_ka_sath": {
+    "languageOrigin": "Sanskrit/Persian",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "सह (saha)",
+        "period": "Classical",
+        "meaning": "with"
+      },
+      {
+        "language": "Persian",
+        "form": "ساتھ (sāth)",
+        "period": "Medieval",
+        "meaning": "with"
+      },
+      {
+        "language": "Urdu",
+        "form": "کے ساتھ",
+        "period": "Modern",
+        "meaning": "with"
+      }
+    ],
+    "cognates": [],
+    "notes": "کے (of) + ساتھ (with)."
+  },
+  "word_ur_ka_liye": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "ल्ये (lye)",
+        "period": "Classical",
+        "meaning": "for"
+      },
+      {
+        "language": "Urdu",
+        "form": "کے لیے",
+        "period": "Modern",
+        "meaning": "for"
+      }
+    ],
+    "cognates": [],
+    "notes": "کے (of) + لیے (for)."
+  },
+  "word_ur_ka_baaray_main": {
+    "languageOrigin": "Arabic/Persian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "بِشأن (bi-shaʾn)",
+        "period": "Classical",
+        "meaning": "concerning"
+      },
+      {
+        "language": "Urdu",
+        "form": "کے بارے میں",
+        "period": "Modern",
+        "meaning": "about"
+      }
+    ],
+    "cognates": [],
+    "notes": "کے (of) + بارے (regard) + میں (in)."
+  },
+  "word_ur_ka_baghair": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "بغیر (baġair)",
+        "period": "Medieval",
+        "meaning": "without"
+      },
+      {
+        "language": "Urdu",
+        "form": "کے بغیر",
+        "period": "Modern",
+        "meaning": "without"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian 'baġair'."
+  },
+  "word_ur_se_pahle": {
+    "languageOrigin": "Sanskrit/Persian",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पुरस्तात् (purastāt)",
+        "period": "Classical",
+        "meaning": "before"
+      },
+      {
+        "language": "Persian",
+        "form": "پہلے (pahle)",
+        "period": "Medieval",
+        "meaning": "before"
+      },
+      {
+        "language": "Urdu",
+        "form": "سے پہلے",
+        "period": "Modern",
+        "meaning": "before"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian 'pahle'."
+  },
+  "word_ur_ka_baad": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पश्चात् (paścāt)",
+        "period": "Classical",
+        "meaning": "after"
+      },
+      {
+        "language": "Urdu",
+        "form": "کے بعد",
+        "period": "Modern",
+        "meaning": "after"
+      }
+    ],
+    "cognates": [],
+    "notes": "کے (of) + بعد (after)."
+  },
+  "word_ur_ka_opar": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "उपरि (upari)",
+        "period": "Classical",
+        "meaning": "above"
+      },
+      {
+        "language": "Urdu",
+        "form": "کے اوپر",
+        "period": "Modern",
+        "meaning": "on top of"
+      }
+    ],
+    "cognates": [],
+    "notes": "کے (of) + اوپر (above)."
+  }
+}

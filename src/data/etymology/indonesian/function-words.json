@@ -1,0 +1,422 @@
+{
+  "word_id_saya": {
+    "languageOrigin": "Austronesian/Sanskrit",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "svayam",
+        "period": "Classical",
+        "meaning": "self"
+      },
+      {
+        "language": "Old Malay",
+        "form": "saya",
+        "period": "Medieval",
+        "meaning": "I"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit 'svayam' (self)."
+  },
+  "word_id_kamu": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "kamu",
+        "period": "Medieval",
+        "meaning": "you"
+      },
+      {
+        "language": "Indonesian",
+        "form": "kamu",
+        "period": "Modern",
+        "meaning": "you"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'kamu'."
+  },
+  "word_id_anda": {
+    "languageOrigin": "Sanskrit/Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "antaḥ",
+        "period": "Classical",
+        "meaning": "you"
+      },
+      {
+        "language": "Indonesian",
+        "form": "anda",
+        "period": "Modern",
+        "meaning": "you (formal)"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit 'antaḥ' (you)."
+  },
+  "word_id_dia": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "dia",
+        "period": "Medieval",
+        "meaning": "he/she"
+      },
+      {
+        "language": "Indonesian",
+        "form": "dia",
+        "period": "Modern",
+        "meaning": "he/she"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'dia'."
+  },
+  "word_id_kami": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "kami",
+        "period": "Medieval",
+        "meaning": "we"
+      },
+      {
+        "language": "Indonesian",
+        "form": "kami",
+        "period": "Modern",
+        "meaning": "we"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'kami'."
+  },
+  "word_id_mereka": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "mĕraka",
+        "period": "Medieval",
+        "meaning": "they"
+      },
+      {
+        "language": "Indonesian",
+        "form": "mereka",
+        "period": "Modern",
+        "meaning": "they"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'mĕraka'."
+  },
+  "word_id_ini": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "ini",
+        "period": "Medieval",
+        "meaning": "this"
+      },
+      {
+        "language": "Indonesian",
+        "form": "ini",
+        "period": "Modern",
+        "meaning": "this"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'ini'."
+  },
+  "word_id_itu": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "itu",
+        "period": "Medieval",
+        "meaning": "that"
+      },
+      {
+        "language": "Indonesian",
+        "form": "itu",
+        "period": "Modern",
+        "meaning": "that"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'itu'."
+  },
+  "word_id_apa": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "apa",
+        "period": "Medieval",
+        "meaning": "what"
+      },
+      {
+        "language": "Indonesian",
+        "form": "apa",
+        "period": "Modern",
+        "meaning": "what"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'apa'."
+  },
+  "word_id_siapa": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "siapa",
+        "period": "Medieval",
+        "meaning": "who"
+      },
+      {
+        "language": "Indonesian",
+        "form": "siapa",
+        "period": "Modern",
+        "meaning": "who"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'siapa'."
+  },
+  "word_id_di_mana": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "di mana",
+        "period": "Medieval",
+        "meaning": "where"
+      },
+      {
+        "language": "Indonesian",
+        "form": "di mana",
+        "period": "Modern",
+        "meaning": "where"
+      }
+    ],
+    "cognates": [],
+    "notes": "di (at) + mana (where)."
+  },
+  "word_id_kapan": {
+    "languageOrigin": "Austronesian/Javanese",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "kapan",
+        "period": "Medieval",
+        "meaning": "when"
+      },
+      {
+        "language": "Indonesian",
+        "form": "kapan",
+        "period": "Modern",
+        "meaning": "when"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Malay/Javanese 'kapan'."
+  },
+  "word_id_mengapa": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "mengapa",
+        "period": "Medieval",
+        "meaning": "why"
+      },
+      {
+        "language": "Indonesian",
+        "form": "mengapa",
+        "period": "Modern",
+        "meaning": "why"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'mengapa'."
+  },
+  "word_id_bagaimana": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "bagaimana",
+        "period": "Medieval",
+        "meaning": "how"
+      },
+      {
+        "language": "Indonesian",
+        "form": "bagaimana",
+        "period": "Modern",
+        "meaning": "how"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'bagaimana'."
+  },
+  "word_id_dan": {
+    "languageOrigin": "Sanskrit/Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "ca?",
+        "period": "Classical",
+        "meaning": "and"
+      },
+      {
+        "language": "Old Malay",
+        "form": "dan",
+        "period": "Medieval",
+        "meaning": "and"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit? Or native Malay 'dan'."
+  },
+  "word_id_atau": {
+    "languageOrigin": "Sanskrit/Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "athavā",
+        "period": "Classical",
+        "meaning": "or"
+      },
+      {
+        "language": "Old Malay",
+        "form": "atau",
+        "period": "Medieval",
+        "meaning": "or"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit 'athavā' (or)."
+  },
+  "word_id_tetapi": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "tetapi",
+        "period": "Medieval",
+        "meaning": "but"
+      },
+      {
+        "language": "Indonesian",
+        "form": "tetapi",
+        "period": "Modern",
+        "meaning": "but"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'tetapi'."
+  },
+  "word_id_jika": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "jika",
+        "period": "Medieval",
+        "meaning": "if"
+      },
+      {
+        "language": "Indonesian",
+        "form": "jika",
+        "period": "Modern",
+        "meaning": "if"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'jika'."
+  },
+  "word_id_karena": {
+    "languageOrigin": "Austronesian/Sanskrit",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "kāraṇa",
+        "period": "Classical",
+        "meaning": "cause"
+      },
+      {
+        "language": "Old Malay",
+        "form": "karena",
+        "period": "Medieval",
+        "meaning": "because"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit 'kāraṇa' (cause)."
+  },
+  "word_id_tidak": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "tidak",
+        "period": "Medieval",
+        "meaning": "no, not"
+      },
+      {
+        "language": "Indonesian",
+        "form": "tidak",
+        "period": "Modern",
+        "meaning": "no"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'tidak'."
+  },
+  "word_id_ya": {
+    "languageOrigin": "Austronesian/Arabic",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "ya",
+        "period": "Medieval",
+        "meaning": "yes"
+      },
+      {
+        "language": "Indonesian",
+        "form": "ya",
+        "period": "Modern",
+        "meaning": "yes"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'ya'."
+  }
+}

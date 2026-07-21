@@ -1,0 +1,302 @@
+{
+  "word_vi_rat": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "rất",
+        "period": "Medieval",
+        "meaning": "very"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "rất",
+        "period": "Modern",
+        "meaning": "very"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese intensifier."
+  },
+  "word_vi_cung": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "cũng",
+        "period": "Medieval",
+        "meaning": "also"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "cũng",
+        "period": "Modern",
+        "meaning": "also"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese adverb."
+  },
+  "word_vi_chi": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "chỉ",
+        "period": "Medieval",
+        "meaning": "only"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "chỉ",
+        "period": "Modern",
+        "meaning": "only"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese adverb."
+  },
+  "word_vi_luon": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "luôn",
+        "period": "Medieval",
+        "meaning": "always"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "luôn",
+        "period": "Modern",
+        "meaning": "always"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese adverb."
+  },
+  "word_vi_khong_bao_gio": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "không bao giờ",
+        "period": "Medieval",
+        "meaning": "never"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "không bao giờ",
+        "period": "Modern",
+        "meaning": "never"
+      }
+    ],
+    "cognates": [],
+    "notes": "không (not) + bao giờ (ever)."
+  },
+  "word_vi_thinh_thoang": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "thỉnh thoảng",
+        "period": "Medieval",
+        "meaning": "sometimes"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "thỉnh thoảng",
+        "period": "Modern",
+        "meaning": "sometimes"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sino-Vietnamese 倘 (thỉnh) + 爽?"
+  },
+  "word_vi_thuong_xuyen": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "thường xuyên",
+        "period": "Medieval",
+        "meaning": "often"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "thường xuyên",
+        "period": "Modern",
+        "meaning": "often"
+      }
+    ],
+    "cognates": [],
+    "notes": "thường (frequent) + xuyên (continuous)."
+  },
+  "word_vi_bay_gio": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "bây giờ",
+        "period": "Medieval",
+        "meaning": "now"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "bây giờ",
+        "period": "Modern",
+        "meaning": "now"
+      }
+    ],
+    "cognates": [],
+    "notes": "bây (this) + giờ (hour)."
+  },
+  "word_vi_sau_nay": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "sau này",
+        "period": "Medieval",
+        "meaning": "later"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "sau này",
+        "period": "Modern",
+        "meaning": "later"
+      }
+    ],
+    "cognates": [],
+    "notes": "sau (after) + này (this)."
+  },
+  "word_vi_hom_qua": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "hôm qua",
+        "period": "Medieval",
+        "meaning": "yesterday"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "hôm qua",
+        "period": "Modern",
+        "meaning": "yesterday"
+      }
+    ],
+    "cognates": [],
+    "notes": "hôm (day) + qua (pass)."
+  },
+  "word_vi_ngay_mai": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "ngày mai",
+        "period": "Medieval",
+        "meaning": "tomorrow"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "ngày mai",
+        "period": "Modern",
+        "meaning": "tomorrow"
+      }
+    ],
+    "cognates": [],
+    "notes": "ngày (day) + mai (next)."
+  },
+  "word_vi_roi": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "rồi",
+        "period": "Medieval",
+        "meaning": "already"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "rồi",
+        "period": "Modern",
+        "meaning": "already"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese adverb."
+  },
+  "word_vi_chua": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "chưa",
+        "period": "Medieval",
+        "meaning": "not yet"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "chưa",
+        "period": "Modern",
+        "meaning": "not yet"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese negative perfect adverb."
+  },
+  "word_vi_co_le": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "có lẽ",
+        "period": "Medieval",
+        "meaning": "maybe"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "có lẽ",
+        "period": "Modern",
+        "meaning": "maybe"
+      }
+    ],
+    "cognates": [],
+    "notes": "có (have) + lẽ (reason). 'Perhaps'."
+  },
+  "word_vi_chac_chan": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "確實 (chắc chắn)",
+        "period": "Medieval",
+        "meaning": "certainly"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "chắc chắn",
+        "period": "Modern",
+        "meaning": "certainly"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sino-Vietnamese 確實 (queshi)."
+  }
+}

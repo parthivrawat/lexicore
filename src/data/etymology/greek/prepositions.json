@@ -1,0 +1,208 @@
+{
+  "word_el_mesa": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "μέσα (mesa)",
+        "period": "Classical",
+        "meaning": "in the middle, within"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "μέσα",
+        "period": "Modern",
+        "meaning": "in"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek μέσα."
+  },
+  "word_el_se": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "εἰς (eis)",
+        "period": "Classical",
+        "meaning": "into, to"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "σε",
+        "period": "Modern",
+        "meaning": "to"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek εἰς."
+  },
+  "word_el_apo": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἀπό (apo)",
+        "period": "Classical",
+        "meaning": "from, away from"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "από",
+        "period": "Modern",
+        "meaning": "from"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "apogee",
+        "meaning": "away from Earth"
+      }
+    ],
+    "notes": "From Ancient Greek ἀπό."
+  },
+  "word_el_me": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "μετά (meta)",
+        "period": "Classical",
+        "meaning": "with, after"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "με",
+        "period": "Modern",
+        "meaning": "with"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek μετά."
+  },
+  "word_el_gia": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "γιά (gia)",
+        "period": "Byzantine",
+        "meaning": "for"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "για",
+        "period": "Modern",
+        "meaning": "for"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek 'για' reduced from 'γιὰ' (regarding)."
+  },
+  "word_el_gia2": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "περί (peri)",
+        "period": "Classical",
+        "meaning": "about, around"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "για",
+        "period": "Modern",
+        "meaning": "about"
+      }
+    ],
+    "cognates": [],
+    "notes": "Modern 'για' (about) from 'για το' (for the)."
+  },
+  "word_el_choris": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "χωρίς (chōris)",
+        "period": "Classical",
+        "meaning": "separately, without"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "χωρίς",
+        "period": "Modern",
+        "meaning": "without"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek χωρίς."
+  },
+  "word_el_prin": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "πρίν (prin)",
+        "period": "Classical",
+        "meaning": "before"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "πριν",
+        "period": "Modern",
+        "meaning": "before"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek πρίν."
+  },
+  "word_el_meta": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "μετά (meta)",
+        "period": "Classical",
+        "meaning": "after"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "μετά",
+        "period": "Modern",
+        "meaning": "after"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek μετά."
+  },
+  "word_el_pano": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ὑπέρ (hyper) / ἐπάνω (epanō)",
+        "period": "Classical",
+        "meaning": "above"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "πάνω",
+        "period": "Modern",
+        "meaning": "on top of"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ἐπάνω/ὑπέρ."
+  }
+}

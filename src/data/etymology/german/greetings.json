@@ -1,0 +1,301 @@
+{
+  "word_de_hallo": {
+    "languageOrigin": "Germanic",
+    "yearOfOrigin": "c. 19th century",
+    "timeline": [
+      {
+        "language": "Middle High German",
+        "form": "halâ",
+        "period": "14th century",
+        "meaning": "call, fetch"
+      },
+      {
+        "language": "German",
+        "form": "Hallo",
+        "period": "19th century",
+        "meaning": "hello"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "hello",
+        "meaning": "hello"
+      },
+      {
+        "language": "Spanish",
+        "word": "hola",
+        "meaning": "hello"
+      }
+    ],
+    "notes": "From Germanic interjection used to call attention."
+  },
+  "word_de_guten_morgen": {
+    "languageOrigin": "Old High German",
+    "yearOfOrigin": "c. 8th century",
+    "timeline": [
+      {
+        "language": "Old High German",
+        "form": "guot morgan",
+        "period": "8th century",
+        "meaning": "good morning"
+      },
+      {
+        "language": "German",
+        "form": "Guten Morgen",
+        "period": "Modern",
+        "meaning": "good morning"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "good morning",
+        "meaning": "good morning"
+      }
+    ],
+    "notes": "Compound: 'gut' (good) + 'Morgen' (morning)."
+  },
+  "word_de_auf_wiedersehen": {
+    "languageOrigin": "German",
+    "yearOfOrigin": "c. 18th century",
+    "timeline": [
+      {
+        "language": "German",
+        "form": "Auf Wiedersehen",
+        "period": "18th century",
+        "meaning": "goodbye"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'until seeing again'. 'Auf' (until) + 'Wiedersehen' (seeing again)."
+  },
+  "word_de_danke": {
+    "languageOrigin": "Old High German",
+    "yearOfOrigin": "c. 9th century",
+    "timeline": [
+      {
+        "language": "Old High German",
+        "form": "danch",
+        "period": "9th century",
+        "meaning": "thanks, thought"
+      },
+      {
+        "language": "German",
+        "form": "Danke",
+        "period": "Modern",
+        "meaning": "thank you"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "thanks",
+        "meaning": "thanks"
+      }
+    ],
+    "notes": "From Old High German 'danch' (thought, thanks). PIE *teng- (to think, feel)."
+  },
+  "word_de_bitte": {
+    "languageOrigin": "Old High German",
+    "yearOfOrigin": "c. 9th century",
+    "timeline": [
+      {
+        "language": "Old High German",
+        "form": "bitten",
+        "period": "9th century",
+        "meaning": "to ask, request"
+      },
+      {
+        "language": "German",
+        "form": "Bitte",
+        "period": "Modern",
+        "meaning": "please"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "bid",
+        "meaning": "to ask"
+      }
+    ],
+    "notes": "Noun from 'bitten' (to ask, request)."
+  },
+  "word_de_bitte_schoen": {
+    "languageOrigin": "German",
+    "yearOfOrigin": "c. 18th century",
+    "timeline": [
+      {
+        "language": "German",
+        "form": "bitte schön",
+        "period": "18th century",
+        "meaning": "you're welcome"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'beautifully asked' or 'please nicely'."
+  },
+  "word_de_entschuldigung": {
+    "languageOrigin": "German",
+    "yearOfOrigin": "c. 16th century",
+    "timeline": [
+      {
+        "language": "Middle High German",
+        "form": "entschuldigen",
+        "period": "Medieval",
+        "meaning": "to excuse"
+      },
+      {
+        "language": "German",
+        "form": "Entschuldigung",
+        "period": "Modern",
+        "meaning": "sorry"
+      }
+    ],
+    "cognates": [],
+    "notes": "Noun from 'entschuldigen' (to excuse). 'Schuld' means guilt."
+  },
+  "word_de_macht_nichts": {
+    "languageOrigin": "German",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "German",
+        "form": "macht nichts",
+        "period": "Modern",
+        "meaning": "it doesn't matter"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'makes nothing'."
+  },
+  "word_de_tschoess": {
+    "languageOrigin": "French",
+    "yearOfOrigin": "c. 19th century",
+    "timeline": [
+      {
+        "language": "French",
+        "form": "adieu",
+        "period": "Medieval",
+        "meaning": "farewell"
+      },
+      {
+        "language": "German",
+        "form": "tschüss",
+        "period": "19th century",
+        "meaning": "bye"
+      }
+    ],
+    "cognates": [],
+    "notes": "From French 'adieu' via Low German 'tschüss'."
+  },
+  "word_de_bis_bald": {
+    "languageOrigin": "German",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "German",
+        "form": "bis bald",
+        "period": "Modern",
+        "meaning": "see you soon"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'until soon'."
+  },
+  "word_de_wie_geht_es_dir": {
+    "languageOrigin": "German",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "German",
+        "form": "Wie geht es dir?",
+        "period": "Modern",
+        "meaning": "how are you"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'how goes it to you?'."
+  },
+  "word_de_mir_geht_es_gut": {
+    "languageOrigin": "German",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "German",
+        "form": "Mir geht es gut",
+        "period": "Modern",
+        "meaning": "I am fine"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'to me it goes well'."
+  },
+  "word_de_gute_nacht": {
+    "languageOrigin": "Old High German",
+    "yearOfOrigin": "c. 8th century",
+    "timeline": [
+      {
+        "language": "Old High German",
+        "form": "guot naht",
+        "period": "8th century",
+        "meaning": "good night"
+      },
+      {
+        "language": "German",
+        "form": "Gute Nacht",
+        "period": "Modern",
+        "meaning": "good night"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "good night",
+        "meaning": "good night"
+      }
+    ],
+    "notes": "Compound: 'gut' (good) + 'Nacht' (night)."
+  },
+  "word_de_willkommen": {
+    "languageOrigin": "Old High German",
+    "yearOfOrigin": "c. 9th century",
+    "timeline": [
+      {
+        "language": "Old High German",
+        "form": "willicomen",
+        "period": "9th century",
+        "meaning": "welcome"
+      },
+      {
+        "language": "German",
+        "form": "Willkommen",
+        "period": "Modern",
+        "meaning": "welcome"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "welcome",
+        "meaning": "welcome"
+      }
+    ],
+    "notes": "From 'will' (desire) + 'kommen' (to come). 'Well come'."
+  },
+  "word_de_entschuldigen_sie": {
+    "languageOrigin": "German",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "German",
+        "form": "Entschuldigen Sie",
+        "period": "Modern",
+        "meaning": "excuse me"
+      }
+    ],
+    "cognates": [],
+    "notes": "Formal imperative of 'entschuldigen' (to excuse) + 'Sie' (you formal)."
+  }
+}

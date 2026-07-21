@@ -1,0 +1,278 @@
+{
+  "word_te_chala": {
+    "languageOrigin": "Sanskrit/Telugu",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "चला (calā)",
+        "period": "Classical",
+        "meaning": "moving, much"
+      },
+      {
+        "language": "Telugu",
+        "form": "చాలా",
+        "period": "Modern",
+        "meaning": "very"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit calā."
+  },
+  "word_te_kuda": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अपि (api)",
+        "period": "Vedic",
+        "meaning": "also"
+      },
+      {
+        "language": "Telugu",
+        "form": "కూడా",
+        "period": "Modern",
+        "meaning": "also"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit api > Telugu kūḍā."
+  },
+  "word_te_matrame": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "मात्र (mātra)",
+        "period": "Classical",
+        "meaning": "only, measure"
+      },
+      {
+        "language": "Telugu",
+        "form": "మాత్రమే",
+        "period": "Modern",
+        "meaning": "only"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit mātra."
+  },
+  "word_te_yeppudaiyna": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "ఎప్పుడైనా (yeppudainā)",
+        "period": "Medieval",
+        "meaning": "ever/always"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "ఎప్పుడైనా",
+        "period": "Modern",
+        "meaning": "always"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu yeppudu (when) + -ainā (ever)."
+  },
+  "word_te_yeppudu_kadu": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "ఎప్పుడూ కాదు",
+        "period": "Medieval",
+        "meaning": "never"
+      }
+    ],
+    "cognates": [],
+    "notes": "yeppudū (ever) + kādu (not)."
+  },
+  "word_te_konni_sarlu": {
+    "languageOrigin": "Sanskrit/Telugu",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Telugu",
+        "form": "కొన్ని సార్లు",
+        "period": "Modern",
+        "meaning": "sometimes"
+      }
+    ],
+    "cognates": [],
+    "notes": "konni (some) + sārlu (times)."
+  },
+  "word_te_chalasarlu": {
+    "languageOrigin": "Sanskrit/Telugu",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Telugu",
+        "form": "చాలా సార్లు",
+        "period": "Modern",
+        "meaning": "often"
+      }
+    ],
+    "cognates": [],
+    "notes": "cālā (many) + sārlu (times)."
+  },
+  "word_te_ippudu": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "ఇప్పుడు (ippuḍu)",
+        "period": "Medieval",
+        "meaning": "now"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "ఇప్పుడు",
+        "period": "Modern",
+        "meaning": "now"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu ippuḍu."
+  },
+  "word_te_tarvata": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "ततः (tataḥ)",
+        "period": "Vedic",
+        "meaning": "afterwards"
+      },
+      {
+        "language": "Telugu",
+        "form": "తర్వాత",
+        "period": "Modern",
+        "meaning": "later"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit tataḥ."
+  },
+  "word_te_ninna": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "నిన్న (ninna)",
+        "period": "Medieval",
+        "meaning": "yesterday"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "నిన్న",
+        "period": "Modern",
+        "meaning": "yesterday"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu ninna."
+  },
+  "word_te_reppu": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "రేపు (rēpu)",
+        "period": "Medieval",
+        "meaning": "tomorrow"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "రేపు",
+        "period": "Modern",
+        "meaning": "tomorrow"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu rēpu."
+  },
+  "word_te_ippatike": {
+    "languageOrigin": "Sanskrit/Telugu",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "इत्थम् (ittham)",
+        "period": "Classical",
+        "meaning": "thus"
+      },
+      {
+        "language": "Telugu",
+        "form": "ఇప్పటికే",
+        "period": "Modern",
+        "meaning": "already"
+      }
+    ],
+    "cognates": [],
+    "notes": "ippuḍu (now) + -ke (only)."
+  },
+  "word_te_inka_kaledu": {
+    "languageOrigin": "Sanskrit/Telugu",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Telugu",
+        "form": "ఇంకా కాలేదు",
+        "period": "Modern",
+        "meaning": "not yet"
+      }
+    ],
+    "cognates": [],
+    "notes": "inkā (still) + kālēdu (not happened)."
+  },
+  "word_te_emaina": {
+    "languageOrigin": "Sanskrit/Telugu",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कदाचित् (kadācit)",
+        "period": "Classical",
+        "meaning": "perhaps"
+      },
+      {
+        "language": "Telugu",
+        "form": "ఏమైనా",
+        "period": "Modern",
+        "meaning": "maybe"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu ēm (what) + ainā (if)."
+  },
+  "word_te_nischayanga": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "निश्चय (niścaya)",
+        "period": "Classical",
+        "meaning": "certainty"
+      },
+      {
+        "language": "Telugu",
+        "form": "నిశ్చయంగా",
+        "period": "Modern",
+        "meaning": "certainly"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit niścaya."
+  }
+}

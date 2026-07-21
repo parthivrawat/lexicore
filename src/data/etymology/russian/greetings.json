@@ -1,0 +1,259 @@
+{
+  "word_ru_zdravstvuyte": {
+    "languageOrigin": "Old Church Slavonic/Russian",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Church Slavonic",
+        "form": "здравствуй (zdravstvuj)",
+        "period": "10th century",
+        "meaning": "be healthy"
+      },
+      {
+        "language": "Russian",
+        "form": "здравствуйте",
+        "period": "Modern",
+        "meaning": "hello"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Ukrainian",
+        "word": "здрастуйте",
+        "meaning": "hello"
+      },
+      {
+        "language": "Bulgarian",
+        "word": "здравейте",
+        "meaning": "hello"
+      }
+    ],
+    "notes": "From 'здравый' (healthy, whole) + imperative suffix '-ствуй'. Literally 'be healthy'."
+  },
+  "word_ru_privet": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 15th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "привѣтъ (privětŭ)",
+        "period": "Medieval",
+        "meaning": "greeting, news"
+      },
+      {
+        "language": "Russian",
+        "form": "привет",
+        "period": "Modern",
+        "meaning": "hi"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Polish",
+        "word": "przywitali",
+        "meaning": "to greet"
+      }
+    ],
+    "notes": "From Old Church Slavonic 'privět' (greeting). Related to 'вет-ветие' (speech)."
+  },
+  "word_ru_dosvidaniya": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "до свидѣния",
+        "period": "Medieval",
+        "meaning": "until seeing"
+      },
+      {
+        "language": "Russian",
+        "form": "до свидания",
+        "period": "Modern",
+        "meaning": "goodbye"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: до (until) + свидание (meeting/seeing). From 'видеть' (to see)."
+  },
+  "word_ru_spasibo": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 16th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "спаси Богъ (spasi Bogŭ)",
+        "period": "Medieval",
+        "meaning": "God save"
+      },
+      {
+        "language": "Russian",
+        "form": "спасибо",
+        "period": "Modern",
+        "meaning": "thank you"
+      }
+    ],
+    "cognates": [],
+    "notes": "Contraction of 'спаси Бог' (God save). Secularized over time."
+  },
+  "word_ru_pozhaluysta": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 18th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "пожалуйста",
+        "period": "Early Modern",
+        "meaning": "if you please"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'пожалуй' (grant, please) + 'ста' (particle). Literally 'if you will be so kind'."
+  },
+  "word_ru_ne_za_chto": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Russian",
+        "form": "не за что",
+        "period": "Modern",
+        "meaning": "don't mention it"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'not for what'. Idiomatic 'you're welcome'."
+  },
+  "word_ru_izvinitye": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 18th century",
+    "timeline": [
+      {
+        "language": "Church Slavonic",
+        "form": "извинити",
+        "period": "Medieval",
+        "meaning": "to forgive, excuse"
+      },
+      {
+        "language": "Russian",
+        "form": "извините",
+        "period": "Modern",
+        "meaning": "excuse me/sorry"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Church Slavonic 'извинити' (to forgive). Formal 'excuse me'."
+  },
+  "word_ru_nichego": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Russian",
+        "form": "ничего",
+        "period": "Modern",
+        "meaning": "nothing, no problem"
+      }
+    ],
+    "cognates": [],
+    "notes": "Genitive of 'ничто' (nothing). 'It is nothing'."
+  },
+  "word_ru_poka": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 19th century",
+    "timeline": [
+      {
+        "language": "Russian",
+        "form": "пока",
+        "period": "19th century",
+        "meaning": "while, for now (goodbye)"
+      }
+    ],
+    "cognates": [],
+    "notes": "Originally 'while'. As farewell: 'so long, for now'."
+  },
+  "word_ru_uvidimsya": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Russian",
+        "form": "увидимся",
+        "period": "Modern",
+        "meaning": "we will see each other"
+      }
+    ],
+    "cognates": [],
+    "notes": "Reflexive future of 'увидеть' (to see). 'We will see each other'."
+  },
+  "word_ru_kak_dela": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Russian",
+        "form": "как дела?",
+        "period": "Modern",
+        "meaning": "how are things?"
+      }
+    ],
+    "cognates": [],
+    "notes": "как (how) + дела (things, affairs). From 'дело' (matter/thing)."
+  },
+  "word_ru_khorosho": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "хорошо",
+        "period": "Medieval",
+        "meaning": "good, well"
+      }
+    ],
+    "cognates": [],
+    "notes": "Adverb from 'хороший' (good). Of uncertain origin, possibly from 'хоро' (dance/merry)."
+  },
+  "word_ru_spokoynoy_nochi": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 18th century",
+    "timeline": [
+      {
+        "language": "Russian",
+        "form": "спокойной ночи",
+        "period": "Modern",
+        "meaning": "good night"
+      }
+    ],
+    "cognates": [],
+    "notes": "спокойной (peaceful) + ночи (night). Wishing peaceful night."
+  },
+  "word_ru_dobro_pozhalovat": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "Russian",
+        "form": "добро пожаловать",
+        "period": "Early Modern",
+        "meaning": "welcome"
+      }
+    ],
+    "cognates": [],
+    "notes": "добро (good) + пожаловать (to be pleased/visit). 'Be pleased to visit'."
+  },
+  "word_ru_izvinitie_pozhaluysta": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Russian",
+        "form": "извините, пожалуйста",
+        "period": "Modern",
+        "meaning": "excuse me, please"
+      }
+    ],
+    "cognates": [],
+    "notes": "Polite combination of 'извините' (excuse) and 'пожалуйста' (please)."
+  }
+}

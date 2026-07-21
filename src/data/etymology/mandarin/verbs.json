@@ -1,0 +1,509 @@
+{
+  "word_zh_shi": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "是",
+        "period": "Zhou dynasty",
+        "meaning": "this, correct, to be"
+      },
+      {
+        "language": "Mandarin",
+        "form": "是",
+        "period": "Modern",
+        "meaning": "to be"
+      }
+    ],
+    "cognates": [],
+    "notes": "Originally a demonstrative meaning 'this'. Evolved into copula 'to be' by Han dynasty."
+  },
+  "word_zh_zuo": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "做",
+        "period": "Zhou dynasty",
+        "meaning": "to do, make"
+      },
+      {
+        "language": "Mandarin",
+        "form": "做",
+        "period": "Modern",
+        "meaning": "to do"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 作 (zuò, to make), with variant character 做. Means 'to do, make'."
+  },
+  "word_zh_qu": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "去",
+        "period": "Zhou dynasty",
+        "meaning": "to go, leave"
+      },
+      {
+        "language": "Mandarin",
+        "form": "去",
+        "period": "Modern",
+        "meaning": "to go"
+      }
+    ],
+    "cognates": [],
+    "notes": "Pictograph of a basket with cover, phonetically borrowed for 'to go, leave'."
+  },
+  "word_zh_lai": {
+    "languageOrigin": "Old Chinese",
+    "yearOfOrigin": "c. 1200 BCE",
+    "timeline": [
+      {
+        "language": "Old Chinese",
+        "form": "來",
+        "period": "Shang dynasty",
+        "meaning": "to come"
+      },
+      {
+        "language": "Mandarin",
+        "form": "来",
+        "simplified": true,
+        "period": "Modern",
+        "meaning": "to come"
+      }
+    ],
+    "cognates": [],
+    "notes": "Pictograph of wheat/rye, phonetically borrowed for 'to come'. Simplified to 来."
+  },
+  "word_zh_chi": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "吃",
+        "period": "Zhou dynasty",
+        "meaning": "to eat, stammer"
+      },
+      {
+        "language": "Mandarin",
+        "form": "吃",
+        "period": "Modern",
+        "meaning": "to eat"
+      }
+    ],
+    "cognates": [],
+    "notes": "Mouth 口 + 乞 (beg). Originally meant 'to stammer', later became the standard verb for 'to eat'."
+  },
+  "word_zh_he": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "喝",
+        "period": "Zhou dynasty",
+        "meaning": "to drink, shout"
+      },
+      {
+        "language": "Mandarin",
+        "form": "喝",
+        "period": "Modern",
+        "meaning": "to drink"
+      }
+    ],
+    "cognates": [],
+    "notes": "Mouth 口 + 曷 (why). Originally 'to shout', later 'to drink'."
+  },
+  "word_zh_kan": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "看",
+        "period": "Zhou dynasty",
+        "meaning": "to look, see"
+      },
+      {
+        "language": "Mandarin",
+        "form": "看",
+        "period": "Modern",
+        "meaning": "to see"
+      }
+    ],
+    "cognates": [],
+    "notes": "Hand 手 over eye 目, depicting the act of shielding eyes to look far."
+  },
+  "word_zh_ting": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "聽",
+        "period": "Zhou dynasty",
+        "meaning": "to listen, hear"
+      },
+      {
+        "language": "Mandarin",
+        "form": "听",
+        "simplified": true,
+        "period": "Modern",
+        "meaning": "to hear"
+      }
+    ],
+    "cognates": [],
+    "notes": "Traditional 聽 contains ear 耳 + heart 心. Simplified 听 uses 口 + 斤."
+  },
+  "word_zh_shuo": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "說",
+        "period": "Zhou dynasty",
+        "meaning": "to speak, explain"
+      },
+      {
+        "language": "Mandarin",
+        "form": "说",
+        "simplified": true,
+        "period": "Modern",
+        "meaning": "to speak"
+      }
+    ],
+    "cognates": [],
+    "notes": "Speech 言 + 兑 (exchange/explain). Means 'to speak, explain'."
+  },
+  "word_zh_du": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "讀",
+        "period": "Zhou dynasty",
+        "meaning": "to read, study"
+      },
+      {
+        "language": "Mandarin",
+        "form": "读",
+        "simplified": true,
+        "period": "Modern",
+        "meaning": "to read"
+      }
+    ],
+    "cognates": [],
+    "notes": "Speech 言 + 賣 (sell/read). Means 'to read'."
+  },
+  "word_zh_xie": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "寫",
+        "period": "Zhou dynasty",
+        "meaning": "to write, sketch"
+      },
+      {
+        "language": "Mandarin",
+        "form": "写",
+        "simplified": true,
+        "period": "Modern",
+        "meaning": "to write"
+      }
+    ],
+    "cognates": [],
+    "notes": "Roof 宀 + 舄 (bird). Originally 'to place, pour out', later 'to write'."
+  },
+  "word_zh_gei": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "給",
+        "period": "Zhou dynasty",
+        "meaning": "to give, supply"
+      },
+      {
+        "language": "Mandarin",
+        "form": "给",
+        "simplified": true,
+        "period": "Modern",
+        "meaning": "to give"
+      }
+    ],
+    "cognates": [],
+    "notes": "Silk 糸 + 合 (join). Means 'to give, supply'."
+  },
+  "word_zh_na": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "拿",
+        "period": "Zhou dynasty",
+        "meaning": "to take, hold"
+      },
+      {
+        "language": "Mandarin",
+        "form": "拿",
+        "period": "Modern",
+        "meaning": "to take"
+      }
+    ],
+    "cognates": [],
+    "notes": "Hand 手 + 合 (join). Means 'to take, hold'."
+  },
+  "word_zh_shui": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "睡",
+        "period": "Zhou dynasty",
+        "meaning": "to sleep"
+      },
+      {
+        "language": "Mandarin",
+        "form": "睡",
+        "period": "Modern",
+        "meaning": "to sleep"
+      }
+    ],
+    "cognates": [],
+    "notes": "Eye 目 + 垂 (droop). Depicts drooping eyelids."
+  },
+  "word_zh_xing": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "醒",
+        "period": "Zhou dynasty",
+        "meaning": "to wake up, sober"
+      },
+      {
+        "language": "Mandarin",
+        "form": "醒",
+        "period": "Modern",
+        "meaning": "to wake up"
+      }
+    ],
+    "cognates": [],
+    "notes": "Wine 酉 + 星 (star). 'Sober as starlight'. Means 'to wake up'."
+  },
+  "word_zh_zuo2": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "坐",
+        "period": "Zhou dynasty",
+        "meaning": "to sit"
+      },
+      {
+        "language": "Mandarin",
+        "form": "坐",
+        "period": "Modern",
+        "meaning": "to sit"
+      }
+    ],
+    "cognates": [],
+    "notes": "Two people 人 on ground 土, depicting sitting. Same spelling as 做 (zuò) but different tone/character."
+  },
+  "word_zh_zhan": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "站",
+        "period": "Zhou dynasty",
+        "meaning": "to stand, station"
+      },
+      {
+        "language": "Mandarin",
+        "form": "站",
+        "period": "Modern",
+        "meaning": "to stand"
+      }
+    ],
+    "cognates": [],
+    "notes": "Stand 立 + 占 (divine). Originally 'to stand straight', later also 'station'."
+  },
+  "word_zh_zou": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "走",
+        "period": "Zhou dynasty",
+        "meaning": "to run, walk"
+      },
+      {
+        "language": "Mandarin",
+        "form": "走",
+        "period": "Modern",
+        "meaning": "to walk"
+      }
+    ],
+    "cognates": [],
+    "notes": "Person 人 running with hair/arms flying. Originally 'to run', now 'to walk'."
+  },
+  "word_zh_pao": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "跑",
+        "period": "Zhou dynasty",
+        "meaning": "to run, paw (animal)"
+      },
+      {
+        "language": "Mandarin",
+        "form": "跑",
+        "period": "Modern",
+        "meaning": "to run"
+      }
+    ],
+    "cognates": [],
+    "notes": "Foot 足 + 包 (wrap). Originally 'to paw the ground', now 'to run'."
+  },
+  "word_zh_xiao": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "笑",
+        "period": "Zhou dynasty",
+        "meaning": "to laugh, smile"
+      },
+      {
+        "language": "Mandarin",
+        "form": "笑",
+        "period": "Modern",
+        "meaning": "to laugh"
+      }
+    ],
+    "cognates": [],
+    "notes": "Bamboo 竹 + 夭 (bent). Depicts bending bamboo, suggesting laughter."
+  },
+  "word_zh_ku": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "哭",
+        "period": "Zhou dynasty",
+        "meaning": "to cry, weep"
+      },
+      {
+        "language": "Mandarin",
+        "form": "哭",
+        "period": "Modern",
+        "meaning": "to cry"
+      }
+    ],
+    "cognates": [],
+    "notes": "Dog-like creature 犬 + 口 (mouth). Depicts mourning dog/howling."
+  },
+  "word_zh_dong": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "懂",
+        "period": "Zhou dynasty",
+        "meaning": "to understand"
+      },
+      {
+        "language": "Mandarin",
+        "form": "懂",
+        "period": "Modern",
+        "meaning": "to understand"
+      }
+    ],
+    "cognates": [],
+    "notes": "Heart 忄 + 董 (supervise). 'To understand in heart'."
+  },
+  "word_zh_xiang": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "想",
+        "period": "Zhou dynasty",
+        "meaning": "to think, want"
+      },
+      {
+        "language": "Mandarin",
+        "form": "想",
+        "period": "Modern",
+        "meaning": "to want"
+      }
+    ],
+    "cognates": [],
+    "notes": "Tree 相 + 心 (heart). Originally 'to look at', later 'to think, want'."
+  },
+  "word_zh_ai": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "愛",
+        "period": "Zhou dynasty",
+        "meaning": "to love, care for"
+      },
+      {
+        "language": "Mandarin",
+        "form": "爱",
+        "simplified": true,
+        "period": "Modern",
+        "meaning": "to love"
+      }
+    ],
+    "cognates": [],
+    "notes": "Traditional 愛 contains heart 心. Simplified 爱 removes heart. Means 'to love'."
+  },
+  "word_zh_gongzuo": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "工作",
+        "period": "Zhou dynasty",
+        "meaning": "work, craftsmanship"
+      },
+      {
+        "language": "Mandarin",
+        "form": "工作",
+        "period": "Modern",
+        "meaning": "to work"
+      }
+    ],
+    "cognates": [],
+    "notes": "工 (work/craft) + 作 (to make). Compound noun/verb meaning 'to work'."
+  }
+}

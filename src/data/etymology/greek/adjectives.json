@@ -1,0 +1,426 @@
+{
+  "word_el_kalos": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "καλός (kalos)",
+        "period": "Classical",
+        "meaning": "good, beautiful"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "καλός",
+        "period": "Modern",
+        "meaning": "good"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek καλός."
+  },
+  "word_el_kakos": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "κακός (kakos)",
+        "period": "Classical",
+        "meaning": "bad"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "κακός",
+        "period": "Modern",
+        "meaning": "bad"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek κακός."
+  },
+  "word_el_megalos": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "μέγας (megas)",
+        "period": "Classical",
+        "meaning": "big, great"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "μεγάλος",
+        "period": "Modern",
+        "meaning": "big"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "mega",
+        "meaning": "great"
+      }
+    ],
+    "notes": "From Ancient Greek μέγας."
+  },
+  "word_el_mikros": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "μικρός (mikros)",
+        "period": "Classical",
+        "meaning": "small"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "μικρός",
+        "period": "Modern",
+        "meaning": "small"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "micro",
+        "meaning": "small"
+      }
+    ],
+    "notes": "From Ancient Greek μικρός."
+  },
+  "word_el_makrys": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "μακρός (makros)",
+        "period": "Classical",
+        "meaning": "long, tall"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "μακρύς",
+        "period": "Modern",
+        "meaning": "long"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "macro",
+        "meaning": "long/large"
+      }
+    ],
+    "notes": "From Ancient Greek μακρός."
+  },
+  "word_el_kontos": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "κοντός (kontos)",
+        "period": "Classical",
+        "meaning": "short"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "κοντός",
+        "period": "Modern",
+        "meaning": "short"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek κοντός."
+  },
+  "word_el_psilos": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ὑψηλός (hypsēlos)",
+        "period": "Classical",
+        "meaning": "high, tall"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "ψηλός",
+        "period": "Modern",
+        "meaning": "tall"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ὑψηλός."
+  },
+  "word_el_chamilos": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "χαμαί (chamai)",
+        "period": "Classical",
+        "meaning": "on the ground"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "χαμηλός",
+        "period": "Modern",
+        "meaning": "low"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek χαμαί."
+  },
+  "word_el_kenourgios": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "καινός (kainos)",
+        "period": "Classical",
+        "meaning": "new"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "καινούργιος",
+        "period": "Modern",
+        "meaning": "new"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek καινός."
+  },
+  "word_el_palios": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "παλαιός (palaios)",
+        "period": "Classical",
+        "meaning": "old, ancient"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "παλιός",
+        "period": "Modern",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek παλαιός."
+  },
+  "word_el_neos": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "νέος (neos)",
+        "period": "Classical",
+        "meaning": "young, new"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "νέος",
+        "period": "Modern",
+        "meaning": "young"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek νέος."
+  },
+  "word_el_geros": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "γέρων (gerōn)",
+        "period": "Classical",
+        "meaning": "old man"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "γέρος",
+        "period": "Modern",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek γέρων."
+  },
+  "word_el_omorfos": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ὁμορφος (homorphos)?",
+        "period": "Classical",
+        "meaning": "beautiful"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "όμορφος",
+        "period": "Modern",
+        "meaning": "beautiful"
+      }
+    ],
+    "cognates": [],
+    "notes": "From ὡραῖος/μορφή (form)."
+  },
+  "word_el_ashimos": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἄσχημος (aschēmos)",
+        "period": "Classical",
+        "meaning": "ugly, shapeless"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "άσχημος",
+        "period": "Modern",
+        "meaning": "ugly"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ἄσχημος."
+  },
+  "word_el_zestos": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ζέσις (zesis)",
+        "period": "Classical",
+        "meaning": "boiling, heat"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "ζεστός",
+        "period": "Modern",
+        "meaning": "hot"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ζέω (to boil)."
+  },
+  "word_el_kryos": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "κρύος (kryos)",
+        "period": "Classical",
+        "meaning": "cold, frost"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "κρύος",
+        "period": "Modern",
+        "meaning": "cold"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "cryogenics",
+        "meaning": "cold science"
+      }
+    ],
+    "notes": "From Ancient Greek κρύος."
+  },
+  "word_el_grigoros": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "γρήγορος (grēgoros)",
+        "period": "Classical",
+        "meaning": "watchful, quick"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "γρήγορος",
+        "period": "Modern",
+        "meaning": "fast"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek γρήγορος."
+  },
+  "word_el_argos": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἀργός (argos)",
+        "period": "Classical",
+        "meaning": "slow, idle"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "αργός",
+        "period": "Modern",
+        "meaning": "slow"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ἀργός."
+  },
+  "word_el_efkolos": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "εὔκολος (eukolos)",
+        "period": "Classical",
+        "meaning": "easy, manageable"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "εύκολος",
+        "period": "Modern",
+        "meaning": "easy"
+      }
+    ],
+    "cognates": [],
+    "notes": "εὖ (well) + κόλον? From Ancient Greek εὔκολος."
+  },
+  "word_el_dyskolos": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "δύσκολος (dyskolos)",
+        "period": "Classical",
+        "meaning": "difficult"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "δύσκολος",
+        "period": "Modern",
+        "meaning": "difficult"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek δύσκολος."
+  }
+}

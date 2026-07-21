@@ -1,0 +1,378 @@
+{
+  "word_la_bonus": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "bonus",
+        "period": "Classical",
+        "meaning": "good"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "bonus",
+        "meaning": "extra good"
+      }
+    ],
+    "notes": "From Latin bonus."
+  },
+  "word_la_malus": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "malus",
+        "period": "Classical",
+        "meaning": "bad"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "malice",
+        "meaning": "bad intent"
+      }
+    ],
+    "notes": "From Latin malus."
+  },
+  "word_la_magnus": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "magnus",
+        "period": "Classical",
+        "meaning": "big, great"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "magnificent",
+        "meaning": "great"
+      }
+    ],
+    "notes": "From Latin magnus."
+  },
+  "word_la_parvus": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "parvus",
+        "period": "Classical",
+        "meaning": "small"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin parvus."
+  },
+  "word_la_longus": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "longus",
+        "period": "Classical",
+        "meaning": "long"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "long",
+        "meaning": "long"
+      }
+    ],
+    "notes": "From Latin longus."
+  },
+  "word_la_brevis": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "brevis",
+        "period": "Classical",
+        "meaning": "short, brief"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "brief",
+        "meaning": "short"
+      }
+    ],
+    "notes": "From Latin brevis."
+  },
+  "word_la_altus": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "altus",
+        "period": "Classical",
+        "meaning": "high, tall"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "altitude",
+        "meaning": "height"
+      }
+    ],
+    "notes": "From Latin altus."
+  },
+  "word_la_humilis": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "humilis",
+        "period": "Classical",
+        "meaning": "low, humble"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "humble",
+        "meaning": "low"
+      }
+    ],
+    "notes": "From humus (ground)."
+  },
+  "word_la_novus": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "novus",
+        "period": "Classical",
+        "meaning": "new"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "novel",
+        "meaning": "new"
+      }
+    ],
+    "notes": "From Latin novus."
+  },
+  "word_la_vetus": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "vetus",
+        "period": "Classical",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "veteran",
+        "meaning": "old/experienced"
+      }
+    ],
+    "notes": "From Latin vetus."
+  },
+  "word_la_iuvenis": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "iuvenis",
+        "period": "Classical",
+        "meaning": "young"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "juvenile",
+        "meaning": "young"
+      }
+    ],
+    "notes": "From Latin iuvenis."
+  },
+  "word_la_senex": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "senex",
+        "period": "Classical",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "senior",
+        "meaning": "elder"
+      }
+    ],
+    "notes": "From Latin senex."
+  },
+  "word_la_pulcher": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "pulcher",
+        "period": "Classical",
+        "meaning": "beautiful"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin pulcher."
+  },
+  "word_la_foedus": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "foedus",
+        "period": "Classical",
+        "meaning": "ugly, foul"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin foedus."
+  },
+  "word_la_calidus": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "calidus",
+        "period": "Classical",
+        "meaning": "hot"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "calorie",
+        "meaning": "heat unit"
+      }
+    ],
+    "notes": "From Latin calidus."
+  },
+  "word_la_frigidus": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "frigidus",
+        "period": "Classical",
+        "meaning": "cold"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "frigid",
+        "meaning": "cold"
+      }
+    ],
+    "notes": "From Latin frigidus."
+  },
+  "word_la_rapidus": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "rapidus",
+        "period": "Classical",
+        "meaning": "fast"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "rapid",
+        "meaning": "fast"
+      }
+    ],
+    "notes": "From Latin rapidus."
+  },
+  "word_la_tardus": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "tardus",
+        "period": "Classical",
+        "meaning": "slow"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin tardus."
+  },
+  "word_la_facilis": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "facilis",
+        "period": "Classical",
+        "meaning": "easy"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "facile",
+        "meaning": "easy"
+      }
+    ],
+    "notes": "From Latin facilis."
+  },
+  "word_la_difficilis": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "difficilis",
+        "period": "Classical",
+        "meaning": "difficult"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "difficult",
+        "meaning": "difficult"
+      }
+    ],
+    "notes": "From Latin difficilis."
+  }
+}

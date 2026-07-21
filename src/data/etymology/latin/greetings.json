@@ -1,0 +1,246 @@
+{
+  "word_la_salve": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "salveō",
+        "period": "Classical",
+        "meaning": "to be well, to be in good health"
+      },
+      {
+        "language": "Latin",
+        "form": "salvē",
+        "period": "Classical",
+        "meaning": "hello (sing.)"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "salvation",
+        "meaning": "saving, health"
+      }
+    ],
+    "notes": "Imperative of salvēre (to be well)."
+  },
+  "word_la_salvete": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "salvēte",
+        "period": "Classical",
+        "meaning": "hello (pl.)"
+      }
+    ],
+    "cognates": [],
+    "notes": "Plural of salvē."
+  },
+  "word_la_vale": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "valēre",
+        "period": "Classical",
+        "meaning": "to be strong, well"
+      },
+      {
+        "language": "Latin",
+        "form": "valē",
+        "period": "Classical",
+        "meaning": "goodbye (sing.)"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "valiant",
+        "meaning": "strong"
+      }
+    ],
+    "notes": "Imperative 'farewell'."
+  },
+  "word_la_gratias_agimus": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "grātia + agere",
+        "period": "Classical",
+        "meaning": "to give thanks"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "gratitude",
+        "meaning": "thankfulness"
+      }
+    ],
+    "notes": "Literally 'we give thanks'."
+  },
+  "word_la_please": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "per amōrem tuum",
+        "period": "Classical",
+        "meaning": "by your love"
+      },
+      {
+        "language": "Latin",
+        "form": "rogō",
+        "period": "Classical",
+        "meaning": "I ask, please"
+      }
+    ],
+    "cognates": [],
+    "notes": "Latin uses rogō (I ask) or quaeso (I ask) for please."
+  },
+  "word_la_benigne": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "benignus",
+        "period": "Classical",
+        "meaning": "kindly"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "benign",
+        "meaning": "kind"
+      }
+    ],
+    "notes": "Adverb from benignus, often meaning 'you're welcome'."
+  },
+  "word_la_ignosce": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ignōscere",
+        "period": "Classical",
+        "meaning": "to forgive"
+      }
+    ],
+    "cognates": [],
+    "notes": "Imperative 'forgive me'."
+  },
+  "word_la_nihil": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "nihil",
+        "period": "Classical",
+        "meaning": "nothing"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "nil",
+        "meaning": "nothing"
+      }
+    ],
+    "notes": "Used idiomatically for 'it is nothing'."
+  },
+  "word_la_valete": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "valēte",
+        "period": "Classical",
+        "meaning": "farewell (pl.)"
+      }
+    ],
+    "cognates": [],
+    "notes": "Plural of valē."
+  },
+  "word_la_bene_vales": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "bene valēs",
+        "period": "Classical",
+        "meaning": "you are well"
+      }
+    ],
+    "cognates": [],
+    "notes": "Common greeting inquiry."
+  },
+  "word_la_bene_sum": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "bene sum",
+        "period": "Classical",
+        "meaning": "I am well"
+      }
+    ],
+    "cognates": [],
+    "notes": "Sum (I am) from esse."
+  },
+  "word_la_bona_nox": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "bona nox",
+        "period": "Classical",
+        "meaning": "good night"
+      }
+    ],
+    "cognates": [],
+    "notes": "nox, noctis (night)."
+  },
+  "word_la_benigne_venis": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "benignē venīs",
+        "period": "Classical",
+        "meaning": "you come kindly"
+      }
+    ],
+    "cognates": [],
+    "notes": "Latin welcomes often use salvē or benignē venīs."
+  },
+  "word_la_pardon": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ignōscere",
+        "period": "Classical",
+        "meaning": "to pardon"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same root as ignōsce."
+  }
+}

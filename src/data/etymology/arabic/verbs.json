@@ -1,0 +1,514 @@
+{
+  "word_ar_yakun": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*kawn-",
+        "period": "c. 3000 BCE",
+        "meaning": "to be, exist"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "يكون",
+        "period": "Pre-Islamic era",
+        "meaning": "to be"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "היה (hayah)",
+        "meaning": "to be"
+      }
+    ],
+    "notes": "Root ك-و-ن (k-w-n). Fundamental verb of existence in Arabic."
+  },
+  "word_ar_yafaal": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*paʕal-",
+        "period": "c. 3000 BCE",
+        "meaning": "to do, make"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "يفعل",
+        "period": "Pre-Islamic era",
+        "meaning": "to do"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "עשה (asah)",
+        "meaning": "to do, make"
+      }
+    ],
+    "notes": "Root ف-ع-ل (f-ʕ-l). Used as template for Arabic verb conjugation patterns."
+  },
+  "word_ar_yadhhab": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "يذهب",
+        "period": "Pre-Islamic era",
+        "meaning": "to go"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ذ-ه-ب (dh-h-b) meaning 'to go away, depart'."
+  },
+  "word_ar_yaati": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*ʔatay-",
+        "period": "c. 3000 BCE",
+        "meaning": "to come"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "يأتي",
+        "period": "Pre-Islamic era",
+        "meaning": "to come"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "בוא (bo)",
+        "meaning": "to come"
+      }
+    ],
+    "notes": "Root أ-ت-ي (ʔ-t-y)."
+  },
+  "word_ar_yaakul": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*ʔakal-",
+        "period": "c. 3000 BCE",
+        "meaning": "to eat"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "يأكل",
+        "period": "Pre-Islamic era",
+        "meaning": "to eat"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "אכל (akhal)",
+        "meaning": "to eat"
+      }
+    ],
+    "notes": "Root أ-ك-ل (ʔ-k-l). Common Semitic root for eating."
+  },
+  "word_ar_yashrab": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*šarib-",
+        "period": "c. 3000 BCE",
+        "meaning": "to drink"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "يشرب",
+        "period": "Pre-Islamic era",
+        "meaning": "to drink"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "שתה (shatah)",
+        "meaning": "to drink"
+      }
+    ],
+    "notes": "Root ش-ر-ب (sh-r-b)."
+  },
+  "word_ar_yara": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*raʔay-",
+        "period": "c. 3000 BCE",
+        "meaning": "to see"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "يرى",
+        "period": "Pre-Islamic era",
+        "meaning": "to see"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "ראה (ra'ah)",
+        "meaning": "to see"
+      }
+    ],
+    "notes": "Root ر-أ-ي (r-ʔ-y). Also means 'to think, opine'."
+  },
+  "word_ar_yasmaau": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*šamiʕ-",
+        "period": "c. 3000 BCE",
+        "meaning": "to hear"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "يسمع",
+        "period": "Pre-Islamic era",
+        "meaning": "to hear"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "שמע (shama)",
+        "meaning": "to hear"
+      }
+    ],
+    "notes": "Root س-م-ع (s-m-ʕ). Related to 'listening, obeying'."
+  },
+  "word_ar_yatakallam": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "يتكلم",
+        "period": "Pre-Islamic era",
+        "meaning": "to speak"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ك-ل-م (k-l-m) meaning 'word, speech'. Form V verb pattern."
+  },
+  "word_ar_yaqra": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*qaraʔ-",
+        "period": "c. 3000 BCE",
+        "meaning": "to call, read"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "يقرأ",
+        "period": "Pre-Islamic era",
+        "meaning": "to read"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "קרא (qara)",
+        "meaning": "to call, read"
+      }
+    ],
+    "notes": "Root ق-ر-أ (q-r-ʔ). First word of Quran: 'Iqra' (Read!)."
+  },
+  "word_ar_yaktub": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*katab-",
+        "period": "c. 3000 BCE",
+        "meaning": "to write"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "يكتب",
+        "period": "Pre-Islamic era",
+        "meaning": "to write"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "כתב (katav)",
+        "meaning": "to write"
+      }
+    ],
+    "notes": "Root ك-ت-ب (k-t-b). Related to 'book' (كتاب)."
+  },
+  "word_ar_yuati": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "يعطي",
+        "period": "Pre-Islamic era",
+        "meaning": "to give"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ع-ط-ي (ʕ-ṭ-y) meaning 'to give, bestow'."
+  },
+  "word_ar_yaakhudh": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*ʔaḫadh-",
+        "period": "c. 3000 BCE",
+        "meaning": "to take"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "يأخذ",
+        "period": "Pre-Islamic era",
+        "meaning": "to take"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root أ-خ-ذ (ʔ-kh-dh)."
+  },
+  "word_ar_yanam": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*nawim-",
+        "period": "c. 3000 BCE",
+        "meaning": "to sleep"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "ينام",
+        "period": "Pre-Islamic era",
+        "meaning": "to sleep"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "ישן (yashen)",
+        "meaning": "to sleep"
+      }
+    ],
+    "notes": "Root ن-و-م (n-w-m)."
+  },
+  "word_ar_yastayqidh": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "يستيقظ",
+        "period": "Pre-Islamic era",
+        "meaning": "to wake up"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ي-ق-ظ (y-q-ẓ). Form X verb pattern meaning 'to seek wakefulness'."
+  },
+  "word_ar_yajlis": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "يجلس",
+        "period": "Pre-Islamic era",
+        "meaning": "to sit"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ج-ل-س (j-l-s). Related to 'session, council' (مجلس)."
+  },
+  "word_ar_yaqif": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "يقف",
+        "period": "Pre-Islamic era",
+        "meaning": "to stand"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root و-ق-ف (w-q-f) meaning 'to stop, stand'."
+  },
+  "word_ar_yamshi": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "يمشي",
+        "period": "Pre-Islamic era",
+        "meaning": "to walk"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root م-ش-ي (m-sh-y)."
+  },
+  "word_ar_yarkud": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "يركض",
+        "period": "Pre-Islamic era",
+        "meaning": "to run"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ر-ك-ض (r-k-ḍ) meaning 'to run, kick'."
+  },
+  "word_ar_yadhak": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "يضحك",
+        "period": "Pre-Islamic era",
+        "meaning": "to laugh"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ض-ح-ك (ḍ-ḥ-k)."
+  },
+  "word_ar_yabki": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*bakay-",
+        "period": "c. 3000 BCE",
+        "meaning": "to cry, weep"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "يبكي",
+        "period": "Pre-Islamic era",
+        "meaning": "to cry"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "בכה (bakha)",
+        "meaning": "to cry"
+      }
+    ],
+    "notes": "Root ب-ك-ي (b-k-y)."
+  },
+  "word_ar_yafham": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "يفهم",
+        "period": "Pre-Islamic era",
+        "meaning": "to understand"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ف-ه-م (f-h-m) meaning 'to understand, comprehend'."
+  },
+  "word_ar_yurid": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "يريد",
+        "period": "Pre-Islamic era",
+        "meaning": "to want"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ر-و-د (r-w-d) meaning 'to want, desire'."
+  },
+  "word_ar_yuhibb": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*ḥabab-",
+        "period": "c. 3000 BCE",
+        "meaning": "to love"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "يحب",
+        "period": "Pre-Islamic era",
+        "meaning": "to love"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "אהב (ahav)",
+        "meaning": "to love"
+      }
+    ],
+    "notes": "Root ح-ب-ب (ḥ-b-b). Related to 'beloved' (حبيب)."
+  },
+  "word_ar_yaamal": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*ʕamal-",
+        "period": "c. 3000 BCE",
+        "meaning": "to work, do"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "يعمل",
+        "period": "Pre-Islamic era",
+        "meaning": "to work"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "עמל (amal)",
+        "meaning": "to toil, work"
+      }
+    ],
+    "notes": "Root ع-م-ل (ʕ-m-l). Related to 'work, deed' (عمل)."
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "word_bn_shunya": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "शून्य (śūnya)",
+        "period": "Classical",
+        "meaning": "empty, zero"
+      },
+      {
+        "language": "Bengali",
+        "form": "শূন্য",
+        "period": "Modern",
+        "meaning": "zero"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit शून्य. Same as Hindi 'shunya'."
+  },
+  "word_bn_ek": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "एक (eka)",
+        "period": "Vedic",
+        "meaning": "one"
+      },
+      {
+        "language": "Bengali",
+        "form": "এক",
+        "period": "Modern",
+        "meaning": "one"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "एक",
+        "meaning": "one"
+      }
+    ],
+    "notes": "From Sanskrit एक."
+  },
+  "word_bn_dui": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "द्वि (dvi)",
+        "period": "Vedic",
+        "meaning": "two"
+      },
+      {
+        "language": "Bengali",
+        "form": "দুই",
+        "period": "Modern",
+        "meaning": "two"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "दो",
+        "meaning": "two"
+      }
+    ],
+    "notes": "From Sanskrit द्वि. PIE *dwóh₁."
+  },
+  "word_bn_tin": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "त्रि (tri)",
+        "period": "Vedic",
+        "meaning": "three"
+      },
+      {
+        "language": "Bengali",
+        "form": "তিন",
+        "period": "Modern",
+        "meaning": "three"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "तीन",
+        "meaning": "three"
+      }
+    ],
+    "notes": "From Sanskrit त्रि."
+  },
+  "word_bn_char": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "चतुर् (catur)",
+        "period": "Vedic",
+        "meaning": "four"
+      },
+      {
+        "language": "Bengali",
+        "form": "চার",
+        "period": "Modern",
+        "meaning": "four"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "चार",
+        "meaning": "four"
+      }
+    ],
+    "notes": "From Sanskrit चतुर्."
+  },
+  "word_bn_panch": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पञ्च (pañca)",
+        "period": "Vedic",
+        "meaning": "five"
+      },
+      {
+        "language": "Bengali",
+        "form": "পাঁচ",
+        "period": "Modern",
+        "meaning": "five"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "पाँच",
+        "meaning": "five"
+      }
+    ],
+    "notes": "From Sanskrit पञ्च."
+  },
+  "word_bn_chhoy": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "षष् (ṣaṣ)",
+        "period": "Vedic",
+        "meaning": "six"
+      },
+      {
+        "language": "Bengali",
+        "form": "ছয়",
+        "period": "Modern",
+        "meaning": "six"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "छह",
+        "meaning": "six"
+      }
+    ],
+    "notes": "From Sanskrit षष्."
+  },
+  "word_bn_sath": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "सप्त (sapta)",
+        "period": "Vedic",
+        "meaning": "seven"
+      },
+      {
+        "language": "Bengali",
+        "form": "সাত",
+        "period": "Modern",
+        "meaning": "seven"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "सात",
+        "meaning": "seven"
+      }
+    ],
+    "notes": "From Sanskrit सप्त."
+  },
+  "word_bn_at": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अष्ट (aṣṭa)",
+        "period": "Vedic",
+        "meaning": "eight"
+      },
+      {
+        "language": "Bengali",
+        "form": "আট",
+        "period": "Modern",
+        "meaning": "eight"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "आठ",
+        "meaning": "eight"
+      }
+    ],
+    "notes": "From Sanskrit अष्ट."
+  },
+  "word_bn_noy": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "नव (nava)",
+        "period": "Vedic",
+        "meaning": "nine"
+      },
+      {
+        "language": "Bengali",
+        "form": "নয়",
+        "period": "Modern",
+        "meaning": "nine"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "नौ",
+        "meaning": "nine"
+      }
+    ],
+    "notes": "From Sanskrit नव."
+  },
+  "word_bn_dosh": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "दश (daśa)",
+        "period": "Vedic",
+        "meaning": "ten"
+      },
+      {
+        "language": "Bengali",
+        "form": "দশ",
+        "period": "Modern",
+        "meaning": "ten"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "दस",
+        "meaning": "ten"
+      }
+    ],
+    "notes": "From Sanskrit दश."
+  },
+  "word_bn_eksho": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "शत (śata)",
+        "period": "Vedic",
+        "meaning": "hundred"
+      },
+      {
+        "language": "Bengali",
+        "form": "একশো",
+        "period": "Modern",
+        "meaning": "hundred"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "सौ",
+        "meaning": "hundred"
+      }
+    ],
+    "notes": "From Sanskrit शत. 'Ek' (one) + 'sho' (hundred)."
+  },
+  "word_bn_hajar": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "هزار (hazār)",
+        "period": "Medieval",
+        "meaning": "thousand"
+      },
+      {
+        "language": "Bengali",
+        "form": "হাজার",
+        "period": "Modern",
+        "meaning": "thousand"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "हज़ार",
+        "meaning": "thousand"
+      }
+    ],
+    "notes": "Borrowed from Persian."
+  },
+  "word_bn_lakh": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "लक्ष (lakṣa)",
+        "period": "Classical",
+        "meaning": "hundred thousand"
+      },
+      {
+        "language": "Bengali",
+        "form": "লাখ",
+        "period": "Modern",
+        "meaning": "hundred thousand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit लक्ष."
+  },
+  "word_bn_adh": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अर्ध (ardha)",
+        "period": "Vedic",
+        "meaning": "half"
+      },
+      {
+        "language": "Bengali",
+        "form": "অর্ধ",
+        "period": "Modern",
+        "meaning": "half"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit अर्ध."
+  }
+}

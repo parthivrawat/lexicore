@@ -1,0 +1,402 @@
+{
+  "word_tr_iyi": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "iyi",
+        "period": "Old Turkic",
+        "meaning": "good"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "iyi",
+        "period": "Modern",
+        "meaning": "good"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic iyi."
+  },
+  "word_tr_kotu": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "kötü",
+        "period": "Old Turkic",
+        "meaning": "bad"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "kötü",
+        "period": "Modern",
+        "meaning": "bad"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic kötü."
+  },
+  "word_tr_buyuk": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "büyük",
+        "period": "Old Turkic",
+        "meaning": "big, great"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "büyük",
+        "period": "Modern",
+        "meaning": "big"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic büyük."
+  },
+  "word_tr_kucuk": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "kiçük",
+        "period": "Old Turkic",
+        "meaning": "small"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "küçük",
+        "period": "Modern",
+        "meaning": "small"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic kiçük."
+  },
+  "word_tr_uzun": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "uzun",
+        "period": "Old Turkic",
+        "meaning": "long"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "uzun",
+        "period": "Modern",
+        "meaning": "long"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic uzun."
+  },
+  "word_tr_kisa": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "qısa",
+        "period": "Old Turkic",
+        "meaning": "short"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "kısa",
+        "period": "Modern",
+        "meaning": "short"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic qısa."
+  },
+  "word_tr_uzun_tall": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "uzun boylu",
+        "period": "Old Turkic",
+        "meaning": "tall (long-bodied)"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "uzun",
+        "period": "Modern",
+        "meaning": "tall"
+      }
+    ],
+    "cognates": [],
+    "notes": "Turkish uses 'uzun' for both long and tall."
+  },
+  "word_tr_alcak": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "alçak",
+        "period": "Old Turkic",
+        "meaning": "low"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "alçak",
+        "period": "Modern",
+        "meaning": "low"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic alçak."
+  },
+  "word_tr_yeni": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "yeñi",
+        "period": "Old Turkic",
+        "meaning": "new"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "yeni",
+        "period": "Modern",
+        "meaning": "new"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic yeñi."
+  },
+  "word_tr_eski": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "eski",
+        "period": "Old Turkic",
+        "meaning": "old"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "eski",
+        "period": "Modern",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic eski."
+  },
+  "word_tr_genc": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "yaşïγ",
+        "period": "Old Turkic",
+        "meaning": "young"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "genç",
+        "period": "Modern",
+        "meaning": "young"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic genç/yaş."
+  },
+  "word_tr_yasli": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "yaş",
+        "period": "Old Turkic",
+        "meaning": "age"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "yaşlı",
+        "period": "Modern",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "yaş (age) + -lı (with). 'Aged'."
+  },
+  "word_tr_guzel": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "güzel",
+        "period": "Old Turkic",
+        "meaning": "beautiful"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "güzel",
+        "period": "Modern",
+        "meaning": "beautiful"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic güzel."
+  },
+  "word_tr_cirkin": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "çirkin",
+        "period": "Old Turkic",
+        "meaning": "ugly"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "çirkin",
+        "period": "Modern",
+        "meaning": "ugly"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic çirkin."
+  },
+  "word_tr_sicak": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "sıčak",
+        "period": "Old Turkic",
+        "meaning": "hot"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "sıcak",
+        "period": "Modern",
+        "meaning": "hot"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic sıčak."
+  },
+  "word_tr_soguk": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "soğu-q",
+        "period": "Old Turkic",
+        "meaning": "cold"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "soğuk",
+        "period": "Modern",
+        "meaning": "cold"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic soğu-."
+  },
+  "word_tr_hizli": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "hız",
+        "period": "Old Turkic",
+        "meaning": "speed"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "hızlı",
+        "period": "Modern",
+        "meaning": "fast"
+      }
+    ],
+    "cognates": [],
+    "notes": "hız (speed) + -lı (with)."
+  },
+  "word_tr_yavas": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "yavaş",
+        "period": "Old Turkic",
+        "meaning": "slow"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "yavaş",
+        "period": "Modern",
+        "meaning": "slow"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic yavaş."
+  },
+  "word_tr_kolay": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "kolay",
+        "period": "Old Turkic",
+        "meaning": "easy"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "kolay",
+        "period": "Modern",
+        "meaning": "easy"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic kolay."
+  },
+  "word_tr_zor": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "zor",
+        "period": "Old Turkic",
+        "meaning": "difficult, hard"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "zor",
+        "period": "Modern",
+        "meaning": "difficult"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic zor."
+  }
+}

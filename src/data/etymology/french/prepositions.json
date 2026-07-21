@@ -1,0 +1,208 @@
+{
+  "word_fr_dans": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "in + de + intus",
+        "period": "Classical",
+        "meaning": "in, within"
+      },
+      {
+        "language": "Old French",
+        "form": "en dans",
+        "period": "Medieval",
+        "meaning": "in"
+      },
+      {
+        "language": "French",
+        "form": "dans",
+        "period": "Modern",
+        "meaning": "in"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'de intus' (from within)."
+  },
+  "word_fr_a": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ad",
+        "period": "Classical",
+        "meaning": "to, at"
+      },
+      {
+        "language": "Old French",
+        "form": "a",
+        "period": "Medieval",
+        "meaning": "to"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'ad'."
+  },
+  "word_fr_de": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "de",
+        "period": "Classical",
+        "meaning": "from"
+      },
+      {
+        "language": "Old French",
+        "form": "de",
+        "period": "Medieval",
+        "meaning": "from, of"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'de'."
+  },
+  "word_fr_avec": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Late Latin",
+        "form": "apud hoc",
+        "period": "Late Latin",
+        "meaning": "with this"
+      },
+      {
+        "language": "Old French",
+        "form": "avek",
+        "period": "Medieval",
+        "meaning": "with"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Late Latin 'abante hoc'? Actually from 'apud hoc'."
+  },
+  "word_fr_pour": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "pro",
+        "period": "Classical",
+        "meaning": "for, before"
+      },
+      {
+        "language": "Old French",
+        "form": "por",
+        "period": "Medieval",
+        "meaning": "for"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'pro'."
+  },
+  "word_fr_sur": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "super",
+        "period": "Classical",
+        "meaning": "above"
+      },
+      {
+        "language": "Old French",
+        "form": "sur",
+        "period": "Medieval",
+        "meaning": "on, about"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'super'."
+  },
+  "word_fr_sans": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sine",
+        "period": "Classical",
+        "meaning": "without"
+      },
+      {
+        "language": "Old French",
+        "form": "san",
+        "period": "Medieval",
+        "meaning": "without"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'sine'."
+  },
+  "word_fr_avant": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ab ante",
+        "period": "Classical",
+        "meaning": "before"
+      },
+      {
+        "language": "Old French",
+        "form": "avant",
+        "period": "Medieval",
+        "meaning": "before"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'ab ante'."
+  },
+  "word_fr_apres": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ad posterum",
+        "period": "Late Latin",
+        "meaning": "after"
+      },
+      {
+        "language": "Old French",
+        "form": "apres",
+        "period": "Medieval",
+        "meaning": "after"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'post' + 'apud'."
+  },
+  "word_fr_sur_top": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "super summum",
+        "period": "Classical",
+        "meaning": "on top"
+      },
+      {
+        "language": "French",
+        "form": "au-dessus de",
+        "period": "Modern",
+        "meaning": "on top of"
+      }
+    ],
+    "cognates": [],
+    "notes": "Typically 'au-dessus de'."
+  }
+}

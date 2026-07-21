@@ -1,0 +1,142 @@
+{
+  "word_ja_ni": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "に (ni)",
+        "period": "Nara",
+        "meaning": "in, at, to"
+      }
+    ],
+    "cognates": [],
+    "notes": "Case particle marking location, time, direction, purpose."
+  },
+  "word_ja_e": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "へ (e)",
+        "period": "Nara",
+        "meaning": "to, toward"
+      }
+    ],
+    "cognates": [],
+    "notes": "Directional particle. Pronounced 'e' though written へ."
+  },
+  "word_ja_kara": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "から (kara)",
+        "period": "Nara",
+        "meaning": "from, since"
+      }
+    ],
+    "cognates": [],
+    "notes": "Particle indicating origin or starting point."
+  },
+  "word_ja_to": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "と (to)",
+        "period": "Nara",
+        "meaning": "with, and"
+      }
+    ],
+    "cognates": [],
+    "notes": "Particle for accompaniment or quotation."
+  },
+  "word_ja_no_tame_ni": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "為 (tame)",
+        "period": "Heian",
+        "meaning": "purpose, for"
+      }
+    ],
+    "cognates": [],
+    "notes": "の (possessive) + 為 (tame, purpose) + に. 'For the sake of'."
+  },
+  "word_ja_ni_tsuite": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "つく (tsuku)",
+        "period": "Nara",
+        "meaning": "to attach, accompany"
+      }
+    ],
+    "cognates": [],
+    "notes": "について from 'tsuku' (to attach). 'About, concerning'."
+  },
+  "word_ja_nashide": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "無し (nashi)",
+        "period": "Nara",
+        "meaning": "without"
+      }
+    ],
+    "cognates": [],
+    "notes": "'Nashi' (nonexistent) + で (te-form). 'Without'."
+  },
+  "word_ja_mae_ni": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "前 (mae)",
+        "period": "Nara",
+        "meaning": "before, front"
+      }
+    ],
+    "cognates": [],
+    "notes": "前 (front) + に (particle). 'Before'."
+  },
+  "word_ja_ato_ni": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "後 (ato)",
+        "period": "Nara",
+        "meaning": "after, behind"
+      }
+    ],
+    "cognates": [],
+    "notes": "後 (after) + に (particle). 'After'."
+  },
+  "word_ja_no_ue_ni": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "上 (ue)",
+        "period": "Nara",
+        "meaning": "top, above"
+      }
+    ],
+    "cognates": [],
+    "notes": "の (possessive) + 上 (top) + に. 'On top of'."
+  }
+}

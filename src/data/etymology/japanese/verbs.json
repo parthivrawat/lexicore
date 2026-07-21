@@ -1,0 +1,388 @@
+{
+  "word_ja_desu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 16th century",
+    "timeline": [
+      {
+        "language": "Classical Japanese",
+        "form": "で候 (de sōrō)",
+        "period": "Muromachi",
+        "meaning": "to be (humble)"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "です",
+        "period": "Modern",
+        "meaning": "to be"
+      }
+    ],
+    "cognates": [],
+    "notes": "Contraction of 'de sōrō' (to be so), from honorific verb 'sōrō'."
+  },
+  "word_ja_shimasu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "す (su)",
+        "period": "Nara",
+        "meaning": "to do"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "します",
+        "period": "Modern",
+        "meaning": "to do"
+      }
+    ],
+    "cognates": [],
+    "notes": "Polite form of 'suru' (to do). One of the two irregular Japanese verbs."
+  },
+  "word_ja_ikimasu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "行く (yuku/iku)",
+        "period": "Nara",
+        "meaning": "to go"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "行きます",
+        "period": "Modern",
+        "meaning": "to go"
+      }
+    ],
+    "cognates": [],
+    "notes": "'Iku' from Old Japanese 'yuku'. Consonant shift to 'iku' in modern."
+  },
+  "word_ja_kimasu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "来る (kuru)",
+        "period": "Nara",
+        "meaning": "to come"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "来ます",
+        "period": "Modern",
+        "meaning": "to come"
+      }
+    ],
+    "cognates": [],
+    "notes": "Irregular verb 'kuru' (to come). One of only two truly irregular Japanese verbs."
+  },
+  "word_ja_tabemasu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "食ぶ (tabu)",
+        "period": "Heian",
+        "meaning": "to eat"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "食べます",
+        "period": "Modern",
+        "meaning": "to eat"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'taberu' (to eat). Possibly imitative of chewing."
+  },
+  "word_ja_nomimasu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "飲む (nomu)",
+        "period": "Nara",
+        "meaning": "to drink"
+      }
+    ],
+    "cognates": [],
+    "notes": "PIE? Possibly onomatopoetic. 'Nomu' means to drink/swallow."
+  },
+  "word_ja_mimasu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "見る (miru)",
+        "period": "Nara",
+        "meaning": "to see"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'miru' (to see). Related to 'me' (eye)."
+  },
+  "word_ja_kikimasu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "聞く (kiku)",
+        "period": "Nara",
+        "meaning": "to hear, ask"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'kiku' (to hear/ask)."
+  },
+  "word_ja_hanashimasu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "話す (hanasu)",
+        "period": "Nara",
+        "meaning": "to speak, release"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'hana' (flower, nose, story) + 'su' (to do/release). 'To release words'."
+  },
+  "word_ja_yomimasu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "読む (yomu)",
+        "period": "Nara",
+        "meaning": "to read"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'yomu' (to read). Possibly from 'yomi' (reading)."
+  },
+  "word_ja_kakimasu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "書く (kaku)",
+        "period": "Nara",
+        "meaning": "to write, draw"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'kaku' (to write). Possibly related to 'kake' (to hang)."
+  },
+  "word_ja_agemasu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "上ぐ (agu)",
+        "period": "Nara",
+        "meaning": "to raise, give"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'ageru' (to raise/give)."
+  },
+  "word_ja_moraimasu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "貰う (morau)",
+        "period": "Nara",
+        "meaning": "to receive"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'morau' (to receive)."
+  },
+  "word_ja_nemasu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "寝る (neru)",
+        "period": "Nara",
+        "meaning": "to sleep, lie down"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'neru' (to sleep)."
+  },
+  "word_ja_okimasu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "起く (oku)",
+        "period": "Nara",
+        "meaning": "to get up"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'okiru' (to wake up, get up)."
+  },
+  "word_ja_suwariasu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "坐る (suwaru)",
+        "period": "Heian",
+        "meaning": "to sit"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'suwaru' (to sit). 'Suwarimasu' polite."
+  },
+  "word_ja_tachimasu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "立つ (tatsu)",
+        "period": "Nara",
+        "meaning": "to stand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'tatsu' (to stand)."
+  },
+  "word_ja_arukimasu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "歩く (aruku)",
+        "period": "Heian",
+        "meaning": "to walk"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'aruku' (to walk)."
+  },
+  "word_ja_hashirimasu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "走る (hashiru)",
+        "period": "Nara",
+        "meaning": "to run"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'hashiru' (to run)."
+  },
+  "word_ja_waraimasu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "笑う (warau)",
+        "period": "Nara",
+        "meaning": "to laugh"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'warau' (to laugh, smile)."
+  },
+  "word_ja_nakimasu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "泣く (naku)",
+        "period": "Nara",
+        "meaning": "to cry, weep"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'naku' (to cry). Onomatopoetic."
+  },
+  "word_ja_wakarimasu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "分かる (wakaru)",
+        "period": "Heian",
+        "meaning": "to understand, be divided"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'wakeru' (to divide). 'To be divided' → 'to be understood'."
+  },
+  "word_ja_hoshii": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "欲しい (hoshii)",
+        "period": "Nara",
+        "meaning": "wanted, desired"
+      }
+    ],
+    "cognates": [],
+    "notes": "Adjective 'hoshii' (want). Not a verb in Japanese."
+  },
+  "word_ja_aishimasu": {
+    "languageOrigin": "Chinese/Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Chinese",
+        "form": "愛 (ài)",
+        "period": "Tang dynasty",
+        "meaning": "love"
+      },
+      {
+        "language": "Old Japanese",
+        "form": "愛す (aisu)",
+        "period": "Nara",
+        "meaning": "to love"
+      }
+    ],
+    "cognates": [],
+    "notes": "Sino-Japanese 'ai' (love) + 'suru'. Modern 'aishiteru'."
+  },
+  "word_ja_hatarakimasu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "働く (hataraku)",
+        "period": "Nara",
+        "meaning": "to work"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'hataraku' (to work). Possibly from 'hata' (loom/field) + 'raku' (to labor)."
+  }
+}

@@ -1,0 +1,485 @@
+{
+  "word_es_bueno": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "bonus",
+        "period": "Classical",
+        "meaning": "good"
+      },
+      {
+        "language": "Spanish",
+        "form": "bueno",
+        "period": "Medieval",
+        "meaning": "good"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "bon",
+        "meaning": "good"
+      },
+      {
+        "language": "Italian",
+        "word": "buono",
+        "meaning": "good"
+      }
+    ],
+    "notes": "From Latin 'bonus'. PIE *dw-eno- (good)."
+  },
+  "word_es_malo": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "malus",
+        "period": "Classical",
+        "meaning": "bad"
+      },
+      {
+        "language": "Spanish",
+        "form": "malo",
+        "period": "Medieval",
+        "meaning": "bad"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "malice",
+        "meaning": "evil intent"
+      }
+    ],
+    "notes": "From Latin 'malus'. PIE *mel-?"
+  },
+  "word_es_grande": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "grandis",
+        "period": "Classical",
+        "meaning": "large, great"
+      },
+      {
+        "language": "Spanish",
+        "form": "grande",
+        "period": "Medieval",
+        "meaning": "big"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'grandis'. Often shortened to 'gran' before nouns."
+  },
+  "word_es_pequeno": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Vulgar Latin",
+        "form": "*pitinnu",
+        "period": "Late Latin",
+        "meaning": "small"
+      },
+      {
+        "language": "Spanish",
+        "form": "pequeño",
+        "period": "Medieval",
+        "meaning": "small"
+      }
+    ],
+    "cognates": [],
+    "notes": "Of uncertain origin; possibly from a Vulgar Latin *pitinnu."
+  },
+  "word_es_largo": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "largus",
+        "period": "Classical",
+        "meaning": "abundant, broad"
+      },
+      {
+        "language": "Spanish",
+        "form": "largo",
+        "period": "Medieval",
+        "meaning": "long"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "large",
+        "meaning": "big"
+      }
+    ],
+    "notes": "From Latin 'largus'. Originally 'abundant', later 'long'."
+  },
+  "word_es_corto": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "curtus",
+        "period": "Classical",
+        "meaning": "shortened, short"
+      },
+      {
+        "language": "Spanish",
+        "form": "corto",
+        "period": "Medieval",
+        "meaning": "short"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "curt",
+        "meaning": "abruptly short"
+      }
+    ],
+    "notes": "From Latin 'curtus' (shortened, mutilated)."
+  },
+  "word_es_alto": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "altus",
+        "period": "Classical",
+        "meaning": "high, deep"
+      },
+      {
+        "language": "Spanish",
+        "form": "alto",
+        "period": "Medieval",
+        "meaning": "tall"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "altitude",
+        "meaning": "height"
+      }
+    ],
+    "notes": "From Latin 'altus'. Means both 'tall' and 'high'."
+  },
+  "word_es_bajo": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "bassus",
+        "period": "Classical",
+        "meaning": "low, short"
+      },
+      {
+        "language": "Spanish",
+        "form": "bajo",
+        "period": "Medieval",
+        "meaning": "low"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "base",
+        "meaning": "bottom"
+      }
+    ],
+    "notes": "From Latin 'bassus' (low). Related to 'bass' in music."
+  },
+  "word_es_nuevo": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "novus",
+        "period": "Classical",
+        "meaning": "new"
+      },
+      {
+        "language": "Spanish",
+        "form": "nuevo",
+        "period": "Medieval",
+        "meaning": "new"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "novel",
+        "meaning": "new"
+      }
+    ],
+    "notes": "From Latin 'novus'. PIE *néwos (new)."
+  },
+  "word_es_viejo": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "vetulus",
+        "period": "Classical",
+        "meaning": "old"
+      },
+      {
+        "language": "Spanish",
+        "form": "viejo",
+        "period": "Medieval",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'vetulus' (old), diminutive of 'vetus'."
+  },
+  "word_es_joven": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "juvenis",
+        "period": "Classical",
+        "meaning": "young"
+      },
+      {
+        "language": "Spanish",
+        "form": "joven",
+        "period": "Medieval",
+        "meaning": "young"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "juvenile",
+        "meaning": "young"
+      }
+    ],
+    "notes": "From Latin 'juvenis'. PIE *h₂yuh₁en- (young)."
+  },
+  "word_es_anciano": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ante (before) + anus (year)",
+        "period": "Classical",
+        "meaning": "of former years"
+      },
+      {
+        "language": "Spanish",
+        "form": "anciano",
+        "period": "Medieval",
+        "meaning": "old (person)"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'ante' (before) + 'anus' (year), via 'ancianus'."
+  },
+  "word_es_bonito": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Spanish",
+        "form": "bonito",
+        "period": "Medieval",
+        "meaning": "pretty"
+      }
+    ],
+    "cognates": [],
+    "notes": "Diminutive of 'bueno' (good), meaning 'nice/pretty'."
+  },
+  "word_es_feo": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "foedus",
+        "period": "Classical",
+        "meaning": "ugly, foul"
+      },
+      {
+        "language": "Spanish",
+        "form": "feo",
+        "period": "Medieval",
+        "meaning": "ugly"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'foedus' (ugly, foul)."
+  },
+  "word_es_caliente": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "calens",
+        "period": "Classical",
+        "meaning": "hot"
+      },
+      {
+        "language": "Spanish",
+        "form": "caliente",
+        "period": "Medieval",
+        "meaning": "hot"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "caliente",
+        "meaning": "hot"
+      }
+    ],
+    "notes": "Present participle of Latin 'calere' (to be hot)."
+  },
+  "word_es_frio": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "frigidus",
+        "period": "Classical",
+        "meaning": "cold"
+      },
+      {
+        "language": "Spanish",
+        "form": "frío",
+        "period": "Medieval",
+        "meaning": "cold"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "frigid",
+        "meaning": "cold"
+      }
+    ],
+    "notes": "From Latin 'frigidus'. PIE *srigos (cold)."
+  },
+  "word_es_rapido": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "rapidus",
+        "period": "Classical",
+        "meaning": "swift"
+      },
+      {
+        "language": "Spanish",
+        "form": "rápido",
+        "period": "Medieval",
+        "meaning": "fast"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "rapid",
+        "meaning": "fast"
+      }
+    ],
+    "notes": "From Latin 'rapidus'. PIE *rep- (to snatch)."
+  },
+  "word_es_lento": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "lentus",
+        "period": "Classical",
+        "meaning": "slow, flexible"
+      },
+      {
+        "language": "Spanish",
+        "form": "lento",
+        "period": "Medieval",
+        "meaning": "slow"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "lent",
+        "meaning": "slow season"
+      }
+    ],
+    "notes": "From Latin 'lentus' (sticky, slow)."
+  },
+  "word_es_facil": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "facilis",
+        "period": "Classical",
+        "meaning": "easy, doable"
+      },
+      {
+        "language": "Spanish",
+        "form": "fácil",
+        "period": "Medieval",
+        "meaning": "easy"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "facile",
+        "meaning": "easy"
+      }
+    ],
+    "notes": "From Latin 'facilis' (easy), from 'facere' (to do)."
+  },
+  "word_es_dificil": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "difficilis",
+        "period": "Classical",
+        "meaning": "difficult"
+      },
+      {
+        "language": "Spanish",
+        "form": "difícil",
+        "period": "Medieval",
+        "meaning": "difficult"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "difficult",
+        "meaning": "difficult"
+      }
+    ],
+    "notes": "From Latin 'difficilis' (not easy)."
+  }
+}

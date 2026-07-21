@@ -1,0 +1,459 @@
+{
+  "word_es_cero": {
+    "languageOrigin": "Arabic via Latin",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "śūnya",
+        "period": "c. 5th century CE",
+        "meaning": "empty"
+      },
+      {
+        "language": "Arabic",
+        "form": "ṣifr",
+        "period": "9th century",
+        "meaning": "zero"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "zephirum",
+        "period": "12th century",
+        "meaning": "zero"
+      },
+      {
+        "language": "Spanish",
+        "form": "cero",
+        "period": "13th century",
+        "meaning": "zero"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Italian",
+        "word": "zero",
+        "meaning": "zero"
+      },
+      {
+        "language": "French",
+        "word": "zéro",
+        "meaning": "zero"
+      }
+    ],
+    "notes": "From Arabic ṣifr (empty) via Medieval Latin 'zephirum'."
+  },
+  "word_es_uno": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "unus",
+        "period": "Classical",
+        "meaning": "one"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "uno",
+        "period": "Medieval",
+        "meaning": "one"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "one",
+        "meaning": "one"
+      },
+      {
+        "language": "Greek",
+        "word": "οἶος (oios)",
+        "meaning": "alone"
+      }
+    ],
+    "notes": "From Latin 'unus'. PIE *óynos."
+  },
+  "word_es_dos": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "duo",
+        "period": "Classical",
+        "meaning": "two"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "dos",
+        "period": "Medieval",
+        "meaning": "two"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "two",
+        "meaning": "two"
+      },
+      {
+        "language": "Greek",
+        "word": "δύο (dyo)",
+        "meaning": "two"
+      }
+    ],
+    "notes": "From Latin 'duo'. PIE *dwóh₁."
+  },
+  "word_es_tres": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "tres",
+        "period": "Classical",
+        "meaning": "three"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "tres",
+        "period": "Medieval",
+        "meaning": "three"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "three",
+        "meaning": "three"
+      },
+      {
+        "language": "Greek",
+        "word": "τρεῖς (treis)",
+        "meaning": "three"
+      }
+    ],
+    "notes": "From Latin 'tres'. PIE *tréyes."
+  },
+  "word_es_cuatro": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quattuor",
+        "period": "Classical",
+        "meaning": "four"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "cuatro",
+        "period": "Medieval",
+        "meaning": "four"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "four",
+        "meaning": "four"
+      }
+    ],
+    "notes": "From Latin 'quattuor'. PIE *kʷetwóres."
+  },
+  "word_es_cinco": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quinque",
+        "period": "Classical",
+        "meaning": "five"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "cinco",
+        "period": "Medieval",
+        "meaning": "five"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "five",
+        "meaning": "five"
+      },
+      {
+        "language": "Greek",
+        "word": "πέντε (pente)",
+        "meaning": "five"
+      }
+    ],
+    "notes": "From Latin 'quinque'. PIE *pénkʷe."
+  },
+  "word_es_seis": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sex",
+        "period": "Classical",
+        "meaning": "six"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "seis",
+        "period": "Medieval",
+        "meaning": "six"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "six",
+        "meaning": "six"
+      }
+    ],
+    "notes": "From Latin 'sex'. PIE *swéḱs."
+  },
+  "word_es_siete": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "septem",
+        "period": "Classical",
+        "meaning": "seven"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "siete",
+        "period": "Medieval",
+        "meaning": "seven"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "seven",
+        "meaning": "seven"
+      },
+      {
+        "language": "Greek",
+        "word": "ἑπτά (hepta)",
+        "meaning": "seven"
+      }
+    ],
+    "notes": "From Latin 'septem'. PIE *septḿ̥."
+  },
+  "word_es_ocho": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "octo",
+        "period": "Classical",
+        "meaning": "eight"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "ocho",
+        "period": "Medieval",
+        "meaning": "eight"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "eight",
+        "meaning": "eight"
+      },
+      {
+        "language": "Greek",
+        "word": "ὀκτώ (oktō)",
+        "meaning": "eight"
+      }
+    ],
+    "notes": "From Latin 'octo'. PIE *oḱtṓw."
+  },
+  "word_es_nueve": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "novem",
+        "period": "Classical",
+        "meaning": "nine"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "nueve",
+        "period": "Medieval",
+        "meaning": "nine"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "nine",
+        "meaning": "nine"
+      },
+      {
+        "language": "Greek",
+        "word": "ἐννέα (ennea)",
+        "meaning": "nine"
+      }
+    ],
+    "notes": "From Latin 'novem'. PIE *h₁néwn̥."
+  },
+  "word_es_diez": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "decem",
+        "period": "Classical",
+        "meaning": "ten"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "diez",
+        "period": "Medieval",
+        "meaning": "ten"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "ten",
+        "meaning": "ten"
+      },
+      {
+        "language": "Greek",
+        "word": "δέκα (deka)",
+        "meaning": "ten"
+      }
+    ],
+    "notes": "From Latin 'decem'. PIE *déḱm̥t."
+  },
+  "word_es_cien": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "centum",
+        "period": "Classical",
+        "meaning": "hundred"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "ciento",
+        "period": "Medieval",
+        "meaning": "hundred"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "hundred",
+        "meaning": "hundred"
+      },
+      {
+        "language": "Greek",
+        "word": "ἑκατόν (hekaton)",
+        "meaning": "hundred"
+      }
+    ],
+    "notes": "From Latin 'centum'. PIE *ḱm̥tóm. 'Cien' is apocopated form before nouns."
+  },
+  "word_es_mil": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "mille",
+        "period": "Classical",
+        "meaning": "thousand"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "mil",
+        "period": "Medieval",
+        "meaning": "thousand"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "mile",
+        "meaning": "mile (from thousand paces)"
+      },
+      {
+        "language": "Greek",
+        "word": "χίλιοι (chilioi)",
+        "meaning": "thousand"
+      }
+    ],
+    "notes": "From Latin 'mille'. PIE *ǵʰeslo-?"
+  },
+  "word_es_millon": {
+    "languageOrigin": "Italian",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Italian",
+        "form": "milione",
+        "period": "13th century",
+        "meaning": "million"
+      },
+      {
+        "language": "Spanish",
+        "form": "millón",
+        "period": "16th century",
+        "meaning": "million"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "million",
+        "meaning": "million"
+      }
+    ],
+    "notes": "From Italian 'milione' (great thousand)."
+  },
+  "word_es_mitad": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "medietas",
+        "period": "Classical",
+        "meaning": "middle, half"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "mitad",
+        "period": "Medieval",
+        "meaning": "half"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "middle",
+        "meaning": "middle"
+      }
+    ],
+    "notes": "From Latin 'medietas' (the middle). Related to 'medium'."
+  }
+}

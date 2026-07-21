@@ -1,0 +1,390 @@
+{
+  "word_ar_shakhs": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "شخص",
+        "period": "Pre-Islamic era",
+        "meaning": "person, individual"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ش-خ-ص (sh-kh-ṣ) meaning 'to rise, appear'."
+  },
+  "word_ar_tifl": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "طفل",
+        "period": "Pre-Islamic era",
+        "meaning": "child"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ط-ف-ل (ṭ-f-l) meaning 'young, tender'."
+  },
+  "word_ar_bayt": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*bayt-",
+        "period": "c. 3000 BCE",
+        "meaning": "house"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "بيت",
+        "period": "Pre-Islamic era",
+        "meaning": "house"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "בית (bayit)",
+        "meaning": "house"
+      }
+    ],
+    "notes": "Root ب-ي-ت (b-y-t). Common Semitic word for house."
+  },
+  "word_ar_maa": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*may-",
+        "period": "c. 3000 BCE",
+        "meaning": "water"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "ماء",
+        "period": "Pre-Islamic era",
+        "meaning": "water"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "מים (mayim)",
+        "meaning": "water"
+      }
+    ],
+    "notes": "Root م-و-ي (m-w-y). Essential element in desert culture."
+  },
+  "word_ar_taam": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "طعام",
+        "period": "Pre-Islamic era",
+        "meaning": "food"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ط-ع-م (ṭ-ʕ-m) meaning 'to taste, eat'."
+  },
+  "word_ar_waqt": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "وقت",
+        "period": "Pre-Islamic era",
+        "meaning": "time"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root و-ق-ت (w-q-t) meaning 'appointed time'."
+  },
+  "word_ar_yawm": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*yawm-",
+        "period": "c. 3000 BCE",
+        "meaning": "day"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "يوم",
+        "period": "Pre-Islamic era",
+        "meaning": "day"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "יום (yom)",
+        "meaning": "day"
+      }
+    ],
+    "notes": "Root ي-و-م (y-w-m)."
+  },
+  "word_ar_sana": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*šanat-",
+        "period": "c. 3000 BCE",
+        "meaning": "year"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "سنة",
+        "period": "Pre-Islamic era",
+        "meaning": "year"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "שנה (shanah)",
+        "meaning": "year"
+      }
+    ],
+    "notes": "Root س-ن-ي (s-n-y)."
+  },
+  "word_ar_yad": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*yad-",
+        "period": "c. 3000 BCE",
+        "meaning": "hand"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "يد",
+        "period": "Pre-Islamic era",
+        "meaning": "hand"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "יד (yad)",
+        "meaning": "hand"
+      }
+    ],
+    "notes": "Root ي-د-ي (y-d-y). Metaphorically means 'power'."
+  },
+  "word_ar_ayn": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*ʕayn-",
+        "period": "c. 3000 BCE",
+        "meaning": "eye, spring"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "عين",
+        "period": "Pre-Islamic era",
+        "meaning": "eye"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "עין (ayin)",
+        "meaning": "eye"
+      }
+    ],
+    "notes": "Root ع-ي-ن (ʕ-y-n). Also means 'spring of water'."
+  },
+  "word_ar_raas": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*raʔš-",
+        "period": "c. 3000 BCE",
+        "meaning": "head"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "رأس",
+        "period": "Pre-Islamic era",
+        "meaning": "head"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "ראש (rosh)",
+        "meaning": "head"
+      }
+    ],
+    "notes": "Root ر-أ-س (r-ʔ-s). Metaphorically means 'chief, leader'."
+  },
+  "word_ar_kitaab": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "كتاب",
+        "period": "Pre-Islamic era",
+        "meaning": "book"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "כתב (ketav)",
+        "meaning": "writing"
+      }
+    ],
+    "notes": "Root ك-ت-ب (k-t-b) meaning 'to write'. Quran is called 'Al-Kitab'."
+  },
+  "word_ar_baab": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*bab-",
+        "period": "c. 3000 BCE",
+        "meaning": "door, gate"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "باب",
+        "period": "Pre-Islamic era",
+        "meaning": "door"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ب-و-ب (b-w-b)."
+  },
+  "word_ar_tariq": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "طريق",
+        "period": "Pre-Islamic era",
+        "meaning": "road, path"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ط-ر-ق (ṭ-r-q) meaning 'to strike, make a path'."
+  },
+  "word_ar_madina": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "مدينة",
+        "period": "Pre-Islamic era",
+        "meaning": "city"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root د-ي-ن (d-y-n) meaning 'to judge, rule'. City of Medina named after this."
+  },
+  "word_ar_balad": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "بلد",
+        "period": "Pre-Islamic era",
+        "meaning": "country, land"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ب-ل-د (b-l-d) meaning 'land, country'."
+  },
+  "word_ar_madrasa": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "مدرسة",
+        "period": "Medieval period",
+        "meaning": "school"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root د-ر-س (d-r-s) meaning 'to study'. Form II noun pattern."
+  },
+  "word_ar_sadiq": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "صديق",
+        "period": "Pre-Islamic era",
+        "meaning": "friend"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ص-د-ق (ṣ-d-q) meaning 'to be truthful'. Friend = truthful one."
+  },
+  "word_ar_aila": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "عائلة",
+        "period": "Pre-Islamic era",
+        "meaning": "family"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ع-و-ل (ʕ-w-l) meaning 'to support, sustain'."
+  },
+  "word_ar_ism": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*šim-",
+        "period": "c. 3000 BCE",
+        "meaning": "name"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "اسم",
+        "period": "Pre-Islamic era",
+        "meaning": "name"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "שם (shem)",
+        "meaning": "name"
+      }
+    ],
+    "notes": "Root س-م-و (s-m-w). Fundamental concept in Semitic languages."
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "word_la_in": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "in",
+        "period": "Classical",
+        "meaning": "in, into"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin in."
+  },
+  "word_la_ad": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ad",
+        "period": "Classical",
+        "meaning": "to, toward"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin ad."
+  },
+  "word_la_ab": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ab",
+        "period": "Classical",
+        "meaning": "from, away from"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin ab."
+  },
+  "word_la_cum": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "cum",
+        "period": "Classical",
+        "meaning": "with"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin cum."
+  },
+  "word_la_pro": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "pro",
+        "period": "Classical",
+        "meaning": "for, before"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin pro."
+  },
+  "word_la_super": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "super",
+        "period": "Classical",
+        "meaning": "above, over"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin super."
+  },
+  "word_la_sine": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sine",
+        "period": "Classical",
+        "meaning": "without"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin sine."
+  },
+  "word_la_ante": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ante",
+        "period": "Classical",
+        "meaning": "before"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin ante."
+  },
+  "word_la_post": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "post",
+        "period": "Classical",
+        "meaning": "after"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin post."
+  },
+  "word_la_super2": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "super",
+        "period": "Classical",
+        "meaning": "on top of"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same as 'over'."
+  }
+}

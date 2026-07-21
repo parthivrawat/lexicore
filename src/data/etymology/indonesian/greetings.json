@@ -1,0 +1,294 @@
+{
+  "word_id_halo": {
+    "languageOrigin": "Dutch/English",
+    "yearOfOrigin": "c. 19th century",
+    "timeline": [
+      {
+        "language": "Dutch",
+        "form": "hallo",
+        "period": "19th century",
+        "meaning": "hello"
+      },
+      {
+        "language": "Indonesian",
+        "form": "halo",
+        "period": "Modern",
+        "meaning": "hello"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "hello",
+        "meaning": "hello"
+      }
+    ],
+    "notes": "From Dutch/English 'hallo'."
+  },
+  "word_id_selamat_pagi": {
+    "languageOrigin": "Malay",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "śalamat + pagi",
+        "period": "Medieval",
+        "meaning": "good morning"
+      },
+      {
+        "language": "Indonesian",
+        "form": "selamat pagi",
+        "period": "Modern",
+        "meaning": "good morning"
+      }
+    ],
+    "cognates": [],
+    "notes": "selamat from Arabic salāmah (safety); pagi 'morning' from Proto-Malayic."
+  },
+  "word_id_selamat_tinggal": {
+    "languageOrigin": "Malay",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "śalamat tinggal",
+        "period": "Medieval",
+        "meaning": "goodbye"
+      },
+      {
+        "language": "Indonesian",
+        "form": "selamat tinggal",
+        "period": "Modern",
+        "meaning": "goodbye"
+      }
+    ],
+    "cognates": [],
+    "notes": "selamat (safe) + tinggal (stay). 'Stay safe'."
+  },
+  "word_id_terima_kasih": {
+    "languageOrigin": "Malay",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "terima + kasih",
+        "period": "Medieval",
+        "meaning": "receive love/thanks"
+      },
+      {
+        "language": "Indonesian",
+        "form": "terima kasih",
+        "period": "Modern",
+        "meaning": "thank you"
+      }
+    ],
+    "cognates": [],
+    "notes": "terima (receive) + kasih (love). 'Receive love'."
+  },
+  "word_id_tolong": {
+    "languageOrigin": "Malay",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "tolong",
+        "period": "Medieval",
+        "meaning": "help, please"
+      },
+      {
+        "language": "Indonesian",
+        "form": "tolong",
+        "period": "Modern",
+        "meaning": "please"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Malay 'tolong' (help)."
+  },
+  "word_id_sama_sama": {
+    "languageOrigin": "Malay",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "sama-sama",
+        "period": "Medieval",
+        "meaning": "the same to you"
+      },
+      {
+        "language": "Indonesian",
+        "form": "sama-sama",
+        "period": "Modern",
+        "meaning": "you're welcome"
+      }
+    ],
+    "cognates": [],
+    "notes": "Reduplication of 'sama' (same)."
+  },
+  "word_id_maaf": {
+    "languageOrigin": "Malay/Arabic",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "معاف (maʿāf)",
+        "period": "Classical",
+        "meaning": "forgiven"
+      },
+      {
+        "language": "Old Malay",
+        "form": "maaf",
+        "period": "Medieval",
+        "meaning": "sorry"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic maʿāf (pardon)."
+  },
+  "word_id_tidak_apa_apa": {
+    "languageOrigin": "Malay",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "tidak apa-apa",
+        "period": "Medieval",
+        "meaning": "it's nothing"
+      }
+    ],
+    "cognates": [],
+    "notes": "tidak (not) + apa (what) reduplicated."
+  },
+  "word_id_sampai_jumpa": {
+    "languageOrigin": "Malay",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "sampai jumpa",
+        "period": "Medieval",
+        "meaning": "until meet"
+      },
+      {
+        "language": "Indonesian",
+        "form": "sampai jumpa",
+        "period": "Modern",
+        "meaning": "see you later"
+      }
+    ],
+    "cognates": [],
+    "notes": "sampai (until) + jumpa (meet)."
+  },
+  "word_id_apa_kabar": {
+    "languageOrigin": "Malay",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "خبر (khabar)",
+        "period": "Classical",
+        "meaning": "news"
+      },
+      {
+        "language": "Old Malay",
+        "form": "apa khabar",
+        "period": "Medieval",
+        "meaning": "what news"
+      },
+      {
+        "language": "Indonesian",
+        "form": "apa kabar",
+        "period": "Modern",
+        "meaning": "how are you"
+      }
+    ],
+    "cognates": [],
+    "notes": "apa (what) + kabar (news) from Arabic."
+  },
+  "word_id_saya_baik": {
+    "languageOrigin": "Malay/Arabic",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "स्वयम् (svayam)",
+        "period": "Classical",
+        "meaning": "self"
+      },
+      {
+        "language": "Old Malay",
+        "form": "saya baik",
+        "period": "Medieval",
+        "meaning": "I am fine"
+      }
+    ],
+    "cognates": [],
+    "notes": "saya (I) from Sanskrit svayam; baik (good)."
+  },
+  "word_id_selamat_malam": {
+    "languageOrigin": "Malay/Arabic",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "śalamat malam",
+        "period": "Medieval",
+        "meaning": "good night"
+      },
+      {
+        "language": "Indonesian",
+        "form": "selamat malam",
+        "period": "Modern",
+        "meaning": "good night"
+      }
+    ],
+    "cognates": [],
+    "notes": "selamat (safe) + malam (night) from Arabic/Persian? malam is native Malay."
+  },
+  "word_id_selamat_datang": {
+    "languageOrigin": "Malay",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "selamat datang",
+        "period": "Medieval",
+        "meaning": "welcome"
+      },
+      {
+        "language": "Indonesian",
+        "form": "selamat datang",
+        "period": "Modern",
+        "meaning": "welcome"
+      }
+    ],
+    "cognates": [],
+    "notes": "selamat (safe) + datang (come)."
+  },
+  "word_id_permisi": {
+    "languageOrigin": "Dutch",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "Dutch",
+        "form": "permissie",
+        "period": "17th century",
+        "meaning": "permission"
+      },
+      {
+        "language": "Indonesian",
+        "form": "permisi",
+        "period": "Modern",
+        "meaning": "excuse me"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "permission",
+        "meaning": "permission"
+      }
+    ],
+    "notes": "From Dutch 'permissie'."
+  }
+}

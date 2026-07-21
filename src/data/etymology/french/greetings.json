@@ -1,0 +1,368 @@
+{
+  "word_fr_bonjour": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "bonus dies",
+        "period": "Classical",
+        "meaning": "good day"
+      },
+      {
+        "language": "Old French",
+        "form": "bon jur",
+        "period": "Medieval",
+        "meaning": "good day"
+      },
+      {
+        "language": "French",
+        "form": "bonjour",
+        "period": "Modern",
+        "meaning": "hello"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Italian",
+        "word": "buongiorno",
+        "meaning": "good morning"
+      }
+    ],
+    "notes": "From Latin 'bonus dies'."
+  },
+  "word_fr_salut": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "salus",
+        "period": "Classical",
+        "meaning": "health, safety"
+      },
+      {
+        "language": "Old French",
+        "form": "salu",
+        "period": "Medieval",
+        "meaning": "greeting"
+      },
+      {
+        "language": "French",
+        "form": "salut",
+        "period": "Modern",
+        "meaning": "hi/bye"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "salute",
+        "meaning": "greeting"
+      }
+    ],
+    "notes": "From Latin 'salus' (health). Used for both hi and bye informally."
+  },
+  "word_fr_au_revoir": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ad vidēre",
+        "period": "Classical",
+        "meaning": "to see"
+      },
+      {
+        "language": "Old French",
+        "form": "a revoir",
+        "period": "Medieval",
+        "meaning": "to see again"
+      },
+      {
+        "language": "French",
+        "form": "au revoir",
+        "period": "Modern",
+        "meaning": "goodbye"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'until seeing again'."
+  },
+  "word_fr_merci": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "merces",
+        "period": "Classical",
+        "meaning": "reward, payment"
+      },
+      {
+        "language": "Old French",
+        "form": "mercit",
+        "period": "Medieval",
+        "meaning": "thanks"
+      },
+      {
+        "language": "French",
+        "form": "merci",
+        "period": "Modern",
+        "meaning": "thank you"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "mercy",
+        "meaning": "compassion"
+      }
+    ],
+    "notes": "From Latin 'merces' (wages, reward)."
+  },
+  "word_fr_s_il_vous_plait": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "si tibi placet",
+        "period": "Classical",
+        "meaning": "if it pleases you"
+      },
+      {
+        "language": "Old French",
+        "form": "se il vous plait",
+        "period": "Medieval",
+        "meaning": "please"
+      },
+      {
+        "language": "French",
+        "form": "s'il vous plaît",
+        "period": "Modern",
+        "meaning": "please"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'if it pleases you'."
+  },
+  "word_fr_de_rien": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Old French",
+        "form": "de rien",
+        "period": "Medieval",
+        "meaning": "of nothing"
+      },
+      {
+        "language": "French",
+        "form": "de rien",
+        "period": "Modern",
+        "meaning": "you're welcome"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'of nothing'."
+  },
+  "word_fr_pardon": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "perdōnāre",
+        "period": "Late Latin",
+        "meaning": "to forgive"
+      },
+      {
+        "language": "Old French",
+        "form": "pardon",
+        "period": "Medieval",
+        "meaning": "pardon"
+      },
+      {
+        "language": "French",
+        "form": "pardon",
+        "period": "Modern",
+        "meaning": "sorry"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "pardon",
+        "meaning": "forgiveness"
+      }
+    ],
+    "notes": "From Latin 'perdōnāre' (to forgive completely)."
+  },
+  "word_fr_ce_n_est_pas_grave": {
+    "languageOrigin": "Latin/French",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "gravis",
+        "period": "Classical",
+        "meaning": "heavy, serious"
+      },
+      {
+        "language": "French",
+        "form": "ce n'est pas grave",
+        "period": "Modern",
+        "meaning": "it's not serious"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'it's not serious/it's okay'."
+  },
+  "word_fr_a_bientot": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ad tempus",
+        "period": "Classical",
+        "meaning": "to time"
+      },
+      {
+        "language": "Old French",
+        "form": "a tantost",
+        "period": "Medieval",
+        "meaning": "soon"
+      },
+      {
+        "language": "French",
+        "form": "à bientôt",
+        "period": "Modern",
+        "meaning": "see you soon"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'until soon'."
+  },
+  "word_fr_a_tout_a_l_heure": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ad totam horam",
+        "period": "Classical",
+        "meaning": "to the whole hour"
+      },
+      {
+        "language": "French",
+        "form": "à tout à l'heure",
+        "period": "Modern",
+        "meaning": "see you later"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'to the whole hour'."
+  },
+  "word_fr_comment_allez_vous": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quomodo vādis",
+        "period": "Classical",
+        "meaning": "how do you go"
+      },
+      {
+        "language": "French",
+        "form": "comment allez-vous",
+        "period": "Modern",
+        "meaning": "how are you"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'aller' (to go) from Latin 'ambulāre'."
+  },
+  "word_fr_je_vais_bien": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "bene vādō",
+        "period": "Classical",
+        "meaning": "I go well"
+      },
+      {
+        "language": "French",
+        "form": "je vais bien",
+        "period": "Modern",
+        "meaning": "I am fine"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'I go well'."
+  },
+  "word_fr_bonne_nuit": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "bona nox",
+        "period": "Classical",
+        "meaning": "good night"
+      },
+      {
+        "language": "French",
+        "form": "bonne nuit",
+        "period": "Modern",
+        "meaning": "good night"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'nox' (night)."
+  },
+  "word_fr_bienvenue": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "bene venīre",
+        "period": "Classical",
+        "meaning": "to come well"
+      },
+      {
+        "language": "French",
+        "form": "bienvenue",
+        "period": "Modern",
+        "meaning": "welcome"
+      }
+    ],
+    "cognates": [],
+    "notes": "Past participle of 'bien venir'."
+  },
+  "word_fr_excusez_moi": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "excusāre",
+        "period": "Classical",
+        "meaning": "to excuse"
+      },
+      {
+        "language": "French",
+        "form": "excusez-moi",
+        "period": "Modern",
+        "meaning": "excuse me"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'excusāre'."
+  }
+}

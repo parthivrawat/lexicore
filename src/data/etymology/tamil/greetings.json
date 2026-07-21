@@ -1,0 +1,258 @@
+{
+  "word_ta_vanakkam": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "வணக்கம் (vaṇakkam)",
+        "period": "Sangam",
+        "meaning": "salutation"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "வணக்கம்",
+        "period": "Modern",
+        "meaning": "hello"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil vaṇakkam (greeting)."
+  },
+  "word_ta_vanakkam_informal": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "வணக்கம் (vaṇakkam)",
+        "period": "Sangam",
+        "meaning": "salutation"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "வணக்கம்",
+        "period": "Modern",
+        "meaning": "hi"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same formal greeting used informally."
+  },
+  "word_ta_sandikkalam": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "சந்தி (santi)",
+        "period": "Sangam",
+        "meaning": "to meet"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "சந்திக்கலாம்",
+        "period": "Modern",
+        "meaning": "goodbye"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'santi' (meet) + 'kkalām' (let's)."
+  },
+  "word_ta_nandri": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "நன்றி (naṉṟi)",
+        "period": "Sangam",
+        "meaning": "goodness, thanks"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "நன்றி",
+        "period": "Modern",
+        "meaning": "thank you"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil naṉṟi (goodness)."
+  },
+  "word_ta_dayavu_seithu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "தயவு (tayavu)",
+        "period": "Medieval",
+        "meaning": "kindness"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "தயவு செய்து",
+        "period": "Modern",
+        "meaning": "please"
+      }
+    ],
+    "cognates": [],
+    "notes": "tayavu (kindness) + ceytu (having done)."
+  },
+  "word_ta_parava_illai": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Modern Tamil",
+        "form": "பரவாயில்லை",
+        "period": "Modern",
+        "meaning": "it's nothing"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'not a problem'."
+  },
+  "word_ta_manikkavum": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "மன்னி (maṉṉi)",
+        "period": "Sangam",
+        "meaning": "to forgive"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "மன்னிக்கவும்",
+        "period": "Modern",
+        "meaning": "sorry"
+      }
+    ],
+    "cognates": [],
+    "notes": "maṉṉi (forgive) + 'kkavum' (please)."
+  },
+  "word_ta_sari": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "சரி (cari)",
+        "period": "Sangam",
+        "meaning": "correct, okay"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "சரி",
+        "period": "Modern",
+        "meaning": "it's okay"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil cari (correct)."
+  },
+  "word_ta_tirumbi_varkiren": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Modern Tamil",
+        "form": "திரும்பி வருகிறேன்",
+        "period": "Modern",
+        "meaning": "I will come back"
+      }
+    ],
+    "cognates": [],
+    "notes": "tirumpi (return) + varukiṟēṉ (I come). 'See you'."
+  },
+  "word_ta_eppadi_irkireergal": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "எப்படி இருக்கிறீர்கள்",
+        "period": "Modern",
+        "meaning": "how are you"
+      }
+    ],
+    "cognates": [],
+    "notes": "eppaṭi (how) + irukkiṟīrkaḷ (you are)."
+  },
+  "word_ta_nan_nalla_irkiren": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "நான் நல்லா இருக்கிறேன்",
+        "period": "Modern",
+        "meaning": "I am fine"
+      }
+    ],
+    "cognates": [],
+    "notes": "nān (I) + nallā (well) + irukkiṟēṉ (I am)."
+  },
+  "word_ta_iniya_iravu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "இனிய இரவு (iṉiya iravu)",
+        "period": "Medieval",
+        "meaning": "sweet night"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "இனிய இரவு",
+        "period": "Modern",
+        "meaning": "good night"
+      }
+    ],
+    "cognates": [],
+    "notes": "iṉiya (sweet) + iravu (night)."
+  },
+  "word_ta_varaverppu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "வரவேற்பு (varavēṟpu)",
+        "period": "Medieval",
+        "meaning": "reception"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "வரவேற்கிறோம்",
+        "period": "Modern",
+        "meaning": "welcome"
+      }
+    ],
+    "cognates": [],
+    "notes": "varavēṟpu (reception)."
+  },
+  "word_ta_kshamikavum": {
+    "languageOrigin": "Tamil/Sanskrit",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "क्षम (kṣama)",
+        "period": "Vedic",
+        "meaning": "forgiveness"
+      },
+      {
+        "language": "Tamil",
+        "form": "மன்னிக்கவும்",
+        "period": "Modern",
+        "meaning": "excuse me"
+      }
+    ],
+    "cognates": [],
+    "notes": "Related to Tamil maṉṉikka."
+  }
+}

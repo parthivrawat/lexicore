@@ -1,0 +1,282 @@
+{
+  "word_tr_merhaba": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "مرحبا (marḥaban)",
+        "period": "Classical",
+        "meaning": "welcome"
+      },
+      {
+        "language": "Ottoman Turkish",
+        "form": "merhaba",
+        "period": "Medieval",
+        "meaning": "hello"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "merhaba",
+        "period": "Modern",
+        "meaning": "hello"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic مرحبا (welcome)."
+  },
+  "word_tr_selam": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "سلام (salām)",
+        "period": "Classical",
+        "meaning": "peace"
+      },
+      {
+        "language": "Turkish",
+        "form": "selam",
+        "period": "Modern",
+        "meaning": "hi"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Arabic",
+        "word": "سلام",
+        "meaning": "peace"
+      }
+    ],
+    "notes": "From Arabic salām."
+  },
+  "word_tr_hosca_kal": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "hoş + qal",
+        "period": "Medieval",
+        "meaning": "stay pleasantly"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "hoşça kal",
+        "period": "Modern",
+        "meaning": "goodbye"
+      }
+    ],
+    "cognates": [],
+    "notes": "hoş (pleasant) + qal/kal (stay)."
+  },
+  "word_tr_tesekkurler": {
+    "languageOrigin": "Arabic/Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "شكر (šukr)",
+        "period": "Classical",
+        "meaning": "thanks"
+      },
+      {
+        "language": "Persian",
+        "form": "تشکر (tashakkur)",
+        "period": "Medieval",
+        "meaning": "thanks"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "teşekkürler",
+        "period": "Modern",
+        "meaning": "thank you"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian-Arabic 'tashakkur' + Turkish plural -ler."
+  },
+  "word_tr_lutfen": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "لطف (luṭf)",
+        "period": "Classical",
+        "meaning": "kindness, grace"
+      },
+      {
+        "language": "Ottoman Turkish",
+        "form": "lütfen",
+        "period": "Medieval",
+        "meaning": "please"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic لطف (luṭf)."
+  },
+  "word_tr_bir_sey_degil": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Modern Turkish",
+        "form": "bir şey değil",
+        "period": "Modern",
+        "meaning": "it's nothing"
+      }
+    ],
+    "cognates": [],
+    "notes": "bir (one) + şey (thing) + değil (not)."
+  },
+  "word_tr_ozur_dilerim": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "عذر (ʿudhr)",
+        "period": "Classical",
+        "meaning": "excuse"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "özür dilerim",
+        "period": "Modern",
+        "meaning": "sorry"
+      }
+    ],
+    "cognates": [],
+    "notes": "özür (excuse) + dilerim (I wish/want)."
+  },
+  "word_tr_onemli_degil": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Modern Turkish",
+        "form": "önemli değil",
+        "period": "Modern",
+        "meaning": "it doesn't matter"
+      }
+    ],
+    "cognates": [],
+    "notes": "önemli (important) + değil (not)."
+  },
+  "word_tr_gorusuruz": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Modern Turkish",
+        "form": "görüşürüz",
+        "period": "Modern",
+        "meaning": "see you"
+      }
+    ],
+    "cognates": [],
+    "notes": "From görüşmek (to see each other) - passive reciprocal."
+  },
+  "word_tr_nasilsin": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "nasıl + sen",
+        "period": "Old Turkic",
+        "meaning": "how you"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "nasılsın",
+        "period": "Modern",
+        "meaning": "how are you"
+      }
+    ],
+    "cognates": [],
+    "notes": "nasıl (how) + -sın (you are)."
+  },
+  "word_tr_iyiyim": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "iyi + ben",
+        "period": "Old Turkic",
+        "meaning": "I am good"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "iyiyim",
+        "period": "Modern",
+        "meaning": "I am fine"
+      }
+    ],
+    "cognates": [],
+    "notes": "iyi (good) + -yim (I am)."
+  },
+  "word_tr_iyi_geceler": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "iyi + gece",
+        "period": "Old Turkic",
+        "meaning": "good night"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "iyi geceler",
+        "period": "Modern",
+        "meaning": "good night"
+      }
+    ],
+    "cognates": [],
+    "notes": "iyi (good) + gece (night) + -ler (plural)."
+  },
+  "word_tr_hos_geldiniz": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "hoş + geldi",
+        "period": "Medieval",
+        "meaning": "pleasantly came"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "hoş geldiniz",
+        "period": "Modern",
+        "meaning": "welcome"
+      }
+    ],
+    "cognates": [],
+    "notes": "hoş (pleasant) + geldiniz (you came)."
+  },
+  "word_tr_affedersiniz": {
+    "languageOrigin": "Arabic/Turkish",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "عفو (ʿafw)",
+        "period": "Classical",
+        "meaning": "pardon"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "affedersiniz",
+        "period": "Modern",
+        "meaning": "excuse me"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic عفو + Turkish verb form."
+  }
+}

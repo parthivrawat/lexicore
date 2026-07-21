@@ -1,0 +1,196 @@
+{
+  "word_vi_trong": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "trong",
+        "period": "Medieval",
+        "meaning": "in"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "trong",
+        "period": "Modern",
+        "meaning": "in"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese preposition."
+  },
+  "word_vi_den": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "đến",
+        "period": "Medieval",
+        "meaning": "to, until"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "đến",
+        "period": "Modern",
+        "meaning": "to"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same as verb 'to come'."
+  },
+  "word_vi_tu": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "từ",
+        "period": "Medieval",
+        "meaning": "from"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "từ",
+        "period": "Modern",
+        "meaning": "from"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese preposition."
+  },
+  "word_vi_voi": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "với",
+        "period": "Medieval",
+        "meaning": "with"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "với",
+        "period": "Modern",
+        "meaning": "with"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese preposition."
+  },
+  "word_vi_cho": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "cho",
+        "period": "Medieval",
+        "meaning": "for"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "cho",
+        "period": "Modern",
+        "meaning": "for"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same as verb 'to give'."
+  },
+  "word_vi_ve": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "về",
+        "period": "Medieval",
+        "meaning": "about, toward"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "về",
+        "period": "Modern",
+        "meaning": "about"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese preposition."
+  },
+  "word_vi_khong_co": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Modern Vietnamese",
+        "form": "không có",
+        "period": "Modern",
+        "meaning": "without"
+      }
+    ],
+    "cognates": [],
+    "notes": "không (not) + có (have)."
+  },
+  "word_vi_truoc": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "trước",
+        "period": "Medieval",
+        "meaning": "before"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "trước",
+        "period": "Modern",
+        "meaning": "before"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese preposition."
+  },
+  "word_vi_sau": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "sau",
+        "period": "Medieval",
+        "meaning": "after"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "sau",
+        "period": "Modern",
+        "meaning": "after"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese preposition."
+  },
+  "word_vi_tren": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "trên",
+        "period": "Medieval",
+        "meaning": "above, on"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "trên",
+        "period": "Modern",
+        "meaning": "on top of"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese preposition."
+  }
+}

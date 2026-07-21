@@ -1,0 +1,592 @@
+{
+  "word_pt_ser": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sedēre / esse",
+        "period": "Classical",
+        "meaning": "to be"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "ser",
+        "period": "Medieval",
+        "meaning": "to be"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Spanish",
+        "word": "ser",
+        "meaning": "to be"
+      }
+    ],
+    "notes": "From Latin 'sedēre' and 'esse'. Used for permanent states."
+  },
+  "word_pt_fazer": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "facere",
+        "period": "Classical",
+        "meaning": "to do, make"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "fazer",
+        "period": "Medieval",
+        "meaning": "to do"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "fact",
+        "meaning": "deed"
+      }
+    ],
+    "notes": "From Latin 'facere'. Initial f- retained in Portuguese."
+  },
+  "word_pt_ir": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "īre",
+        "period": "Classical",
+        "meaning": "to go"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "ir",
+        "period": "Medieval",
+        "meaning": "to go"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Spanish",
+        "word": "ir",
+        "meaning": "to go"
+      }
+    ],
+    "notes": "From Latin 'īre'. Suppletive verb."
+  },
+  "word_pt_vir": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "venīre",
+        "period": "Classical",
+        "meaning": "to come"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "vir",
+        "period": "Medieval",
+        "meaning": "to come"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "venue",
+        "meaning": "place one comes to"
+      }
+    ],
+    "notes": "From Latin 'venīre'."
+  },
+  "word_pt_comer": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "comedere",
+        "period": "Classical",
+        "meaning": "to eat up"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "comer",
+        "period": "Medieval",
+        "meaning": "to eat"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'comedere'."
+  },
+  "word_pt_beber": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "bibere",
+        "period": "Classical",
+        "meaning": "to drink"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "beber",
+        "period": "Medieval",
+        "meaning": "to drink"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "imbibe",
+        "meaning": "to drink"
+      }
+    ],
+    "notes": "From Latin 'bibere'."
+  },
+  "word_pt_ver": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "vidēre",
+        "period": "Classical",
+        "meaning": "to see"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "ver",
+        "period": "Medieval",
+        "meaning": "to see"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "video",
+        "meaning": "I see"
+      }
+    ],
+    "notes": "From Latin 'vidēre'."
+  },
+  "word_pt_ouvir": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "audīre",
+        "period": "Classical",
+        "meaning": "to hear"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "ouvir",
+        "period": "Medieval",
+        "meaning": "to hear"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'audīre'."
+  },
+  "word_pt_falar": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "fabulari",
+        "period": "Classical",
+        "meaning": "to tell stories"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "falar",
+        "period": "Medieval",
+        "meaning": "to speak"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "fable",
+        "meaning": "story"
+      }
+    ],
+    "notes": "From Latin 'fabulari'."
+  },
+  "word_pt_ler": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "legere",
+        "period": "Classical",
+        "meaning": "to read, gather"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "ler",
+        "period": "Medieval",
+        "meaning": "to read"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "legible",
+        "meaning": "readable"
+      }
+    ],
+    "notes": "From Latin 'legere'."
+  },
+  "word_pt_escrever": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "scribere",
+        "period": "Classical",
+        "meaning": "to write"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "escrever",
+        "period": "Medieval",
+        "meaning": "to write"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "scribe",
+        "meaning": "writer"
+      }
+    ],
+    "notes": "From Latin 'scribere'."
+  },
+  "word_pt_dar": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "dare",
+        "period": "Classical",
+        "meaning": "to give"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "dar",
+        "period": "Medieval",
+        "meaning": "to give"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "donate",
+        "meaning": "to give"
+      }
+    ],
+    "notes": "From Latin 'dare'."
+  },
+  "word_pt_tomar": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sumere",
+        "period": "Classical",
+        "meaning": "to take"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "tomar",
+        "period": "Medieval",
+        "meaning": "to take"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'sumere' (to take up)."
+  },
+  "word_pt_dormir": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "dormīre",
+        "period": "Classical",
+        "meaning": "to sleep"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "dormir",
+        "period": "Medieval",
+        "meaning": "to sleep"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "dormitory",
+        "meaning": "sleeping place"
+      }
+    ],
+    "notes": "From Latin 'dormīre'."
+  },
+  "word_pt_acordar": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "cor + ad",
+        "period": "Classical",
+        "meaning": "to the heart, to agree/awake?"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "acordar",
+        "period": "Medieval",
+        "meaning": "to wake up"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'acordare', likely from 'ad' + 'cor' (heart), 'to put heart into'."
+  },
+  "word_pt_sentar_se": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sedēre",
+        "period": "Classical",
+        "meaning": "to sit"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "sentar",
+        "period": "Medieval",
+        "meaning": "to seat/sit"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'sedēre'. Reflexive 'sentar-se'."
+  },
+  "word_pt_levantar_se": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "levāre",
+        "period": "Classical",
+        "meaning": "to lift"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "levantar",
+        "period": "Medieval",
+        "meaning": "to stand up"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'levāre' (to lift). Reflexive 'levantar-se'."
+  },
+  "word_pt_andar": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ambulāre",
+        "period": "Classical",
+        "meaning": "to walk"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "andar",
+        "period": "Medieval",
+        "meaning": "to walk"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'ambulāre'."
+  },
+  "word_pt_correr": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "currere",
+        "period": "Classical",
+        "meaning": "to run"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "correr",
+        "period": "Medieval",
+        "meaning": "to run"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "current",
+        "meaning": "flow"
+      }
+    ],
+    "notes": "From Latin 'currere'."
+  },
+  "word_pt_rir": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ridēre",
+        "period": "Classical",
+        "meaning": "to laugh"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "rir",
+        "period": "Medieval",
+        "meaning": "to laugh"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'ridēre'."
+  },
+  "word_pt_chorar": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "plorāre",
+        "period": "Classical",
+        "meaning": "to cry, weep"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "chorar",
+        "period": "Medieval",
+        "meaning": "to cry"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'plorāre'."
+  },
+  "word_pt_entender": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "intellegere",
+        "period": "Classical",
+        "meaning": "to understand"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "entender",
+        "period": "Medieval",
+        "meaning": "to understand"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "intelligent",
+        "meaning": "understanding"
+      }
+    ],
+    "notes": "From Latin 'intellegere'."
+  },
+  "word_pt_querer": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quaerere",
+        "period": "Classical",
+        "meaning": "to seek, ask"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "querer",
+        "period": "Medieval",
+        "meaning": "to want, love"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "query",
+        "meaning": "question"
+      }
+    ],
+    "notes": "From Latin 'quaerere'."
+  },
+  "word_pt_amar": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "amāre",
+        "period": "Classical",
+        "meaning": "to love"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "amar",
+        "period": "Medieval",
+        "meaning": "to love"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "amorous",
+        "meaning": "loving"
+      }
+    ],
+    "notes": "From Latin 'amāre'."
+  },
+  "word_pt_trabalhar": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "tripaliāre",
+        "period": "Late Latin",
+        "meaning": "to torture with a trepalium"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "trabalhar",
+        "period": "Medieval",
+        "meaning": "to work"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'tripaliāre', later softened to 'to work'."
+  }
+}

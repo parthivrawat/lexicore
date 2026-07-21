@@ -1,0 +1,396 @@
+{
+  "word_la_persona": {
+    "languageOrigin": "Etruscan/Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Etruscan",
+        "form": "phersu",
+        "period": "Ancient",
+        "meaning": "mask"
+      },
+      {
+        "language": "Latin",
+        "form": "persona",
+        "period": "Classical",
+        "meaning": "mask, person"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "person",
+        "meaning": "person"
+      }
+    ],
+    "notes": "Originally actor's mask."
+  },
+  "word_la_puer": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "puer",
+        "period": "Classical",
+        "meaning": "boy, child"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin puer."
+  },
+  "word_la_domus": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "domus",
+        "period": "Classical",
+        "meaning": "house, home"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "domestic",
+        "meaning": "of the home"
+      }
+    ],
+    "notes": "From Latin domus."
+  },
+  "word_la_aqua": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "aqua",
+        "period": "Classical",
+        "meaning": "water"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "aquatic",
+        "meaning": "of water"
+      }
+    ],
+    "notes": "From Latin aqua."
+  },
+  "word_la_cibus": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "cibus",
+        "period": "Classical",
+        "meaning": "food"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin cibus."
+  },
+  "word_la_tempus": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "tempus",
+        "period": "Classical",
+        "meaning": "time, season"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "temporal",
+        "meaning": "of time"
+      }
+    ],
+    "notes": "From Latin tempus."
+  },
+  "word_la_dies": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "diēs",
+        "period": "Classical",
+        "meaning": "day"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin diēs."
+  },
+  "word_la_annus": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "annus",
+        "period": "Classical",
+        "meaning": "year"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "annual",
+        "meaning": "yearly"
+      }
+    ],
+    "notes": "From Latin annus."
+  },
+  "word_la_manus": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "manus",
+        "period": "Classical",
+        "meaning": "hand"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "manual",
+        "meaning": "by hand"
+      }
+    ],
+    "notes": "From Latin manus."
+  },
+  "word_la_oculus": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "oculus",
+        "period": "Classical",
+        "meaning": "eye"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "ocular",
+        "meaning": "of the eye"
+      }
+    ],
+    "notes": "From Latin oculus."
+  },
+  "word_la_caput": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "caput",
+        "period": "Classical",
+        "meaning": "head"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "capital",
+        "meaning": "head city"
+      }
+    ],
+    "notes": "From Latin caput."
+  },
+  "word_la_liber": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "liber",
+        "period": "Classical",
+        "meaning": "book, bark"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "library",
+        "meaning": "book collection"
+      }
+    ],
+    "notes": "From Latin liber."
+  },
+  "word_la_ianua": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "iānua",
+        "period": "Classical",
+        "meaning": "door"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "January",
+        "meaning": "month of Janus (god of doors)"
+      }
+    ],
+    "notes": "From iānus (door/passage)."
+  },
+  "word_la_via": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "via",
+        "period": "Classical",
+        "meaning": "road, street"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "via",
+        "meaning": "by way of"
+      }
+    ],
+    "notes": "From Latin via."
+  },
+  "word_la_urbs": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "urbs",
+        "period": "Classical",
+        "meaning": "city"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "urban",
+        "meaning": "of the city"
+      }
+    ],
+    "notes": "From Latin urbs."
+  },
+  "word_la_patriai": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "patria",
+        "period": "Classical",
+        "meaning": "fatherland, country"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "patriot",
+        "meaning": "one who loves country"
+      }
+    ],
+    "notes": "From pater (father)."
+  },
+  "word_la_schola": {
+    "languageOrigin": "Greek via Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Greek",
+        "form": "σχολή (scholē)",
+        "period": "Ancient",
+        "meaning": "leisure, school"
+      },
+      {
+        "language": "Latin",
+        "form": "schola",
+        "period": "Classical",
+        "meaning": "school"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "school",
+        "meaning": "school"
+      }
+    ],
+    "notes": "From Greek scholē."
+  },
+  "word_la_amica": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "amicus/amica",
+        "period": "Classical",
+        "meaning": "friend"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "amicable",
+        "meaning": "friendly"
+      }
+    ],
+    "notes": "From Latin amicus."
+  },
+  "word_la_familia": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "familia",
+        "period": "Classical",
+        "meaning": "family, household"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "family",
+        "meaning": "family"
+      }
+    ],
+    "notes": "From Latin familia."
+  },
+  "word_la_nomen": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "nōmen",
+        "period": "Classical",
+        "meaning": "name"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "noun",
+        "meaning": "name word"
+      }
+    ],
+    "notes": "From Latin nōmen."
+  }
+}

@@ -1,0 +1,537 @@
+{
+  "word_hi_shunya": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "शून्य (śūnya)",
+        "period": "Classical Sanskrit",
+        "meaning": "empty, void, zero"
+      },
+      {
+        "language": "Hindi",
+        "form": "शून्य",
+        "period": "Modern",
+        "meaning": "zero"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Marathi",
+        "word": "शून्य",
+        "meaning": "zero"
+      }
+    ],
+    "notes": "Sanskrit mathematicians invented the concept of zero. Root शू (śū, to swell). Gave English 'zero' via Arabic 'sifr'."
+  },
+  "word_hi_ek": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*óynos",
+        "period": "c. 4000 BCE",
+        "meaning": "one"
+      },
+      {
+        "language": "Sanskrit",
+        "form": "एक (eka)",
+        "period": "Vedic",
+        "meaning": "one"
+      },
+      {
+        "language": "Hindi",
+        "form": "एक",
+        "period": "Modern",
+        "meaning": "one"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "unus",
+        "meaning": "one"
+      },
+      {
+        "language": "Greek",
+        "word": "οἴνη (oinē)",
+        "meaning": "one (on dice)"
+      }
+    ],
+    "notes": "From PIE *óynos. Related to English 'one', Latin 'unus'."
+  },
+  "word_hi_do": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*dwóh₁",
+        "period": "c. 4000 BCE",
+        "meaning": "two"
+      },
+      {
+        "language": "Sanskrit",
+        "form": "द्वि (dvi)",
+        "period": "Vedic",
+        "meaning": "two"
+      },
+      {
+        "language": "Prakrit",
+        "form": "दो",
+        "period": "Medieval",
+        "meaning": "two"
+      },
+      {
+        "language": "Hindi",
+        "form": "दो",
+        "period": "Modern",
+        "meaning": "two"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "two",
+        "meaning": "two"
+      },
+      {
+        "language": "Latin",
+        "word": "duo",
+        "meaning": "two"
+      }
+    ],
+    "notes": "From PIE *dwóh₁. Cognate with English 'two', Latin 'duo', Greek 'δύο'."
+  },
+  "word_hi_teen": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*tréyes",
+        "period": "c. 4000 BCE",
+        "meaning": "three"
+      },
+      {
+        "language": "Sanskrit",
+        "form": "त्रि (tri)",
+        "period": "Vedic",
+        "meaning": "three"
+      },
+      {
+        "language": "Prakrit",
+        "form": "तीण",
+        "period": "Medieval",
+        "meaning": "three"
+      },
+      {
+        "language": "Hindi",
+        "form": "तीन",
+        "period": "Modern",
+        "meaning": "three"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "three",
+        "meaning": "three"
+      },
+      {
+        "language": "Latin",
+        "word": "tres",
+        "meaning": "three"
+      }
+    ],
+    "notes": "From PIE *tréyes. Related to English 'three', Latin 'tres', Greek 'τρεῖς'."
+  },
+  "word_hi_chaar": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*kʷetwóres",
+        "period": "c. 4000 BCE",
+        "meaning": "four"
+      },
+      {
+        "language": "Sanskrit",
+        "form": "चतुर् (catur)",
+        "period": "Vedic",
+        "meaning": "four"
+      },
+      {
+        "language": "Prakrit",
+        "form": "चत्तार",
+        "period": "Medieval",
+        "meaning": "four"
+      },
+      {
+        "language": "Hindi",
+        "form": "चार",
+        "period": "Modern",
+        "meaning": "four"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "four",
+        "meaning": "four"
+      },
+      {
+        "language": "Latin",
+        "word": "quattuor",
+        "meaning": "four"
+      }
+    ],
+    "notes": "From PIE *kʷetwóres. Related to English 'four', Latin 'quattuor'."
+  },
+  "word_hi_paanch": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*pénkʷe",
+        "period": "c. 4000 BCE",
+        "meaning": "five"
+      },
+      {
+        "language": "Sanskrit",
+        "form": "पञ्च (pañca)",
+        "period": "Vedic",
+        "meaning": "five"
+      },
+      {
+        "language": "Hindi",
+        "form": "पाँच",
+        "period": "Modern",
+        "meaning": "five"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "five",
+        "meaning": "five"
+      },
+      {
+        "language": "Greek",
+        "word": "πέντε (pénte)",
+        "meaning": "five"
+      }
+    ],
+    "notes": "From PIE *pénkʷe. Related to English 'five', Greek 'pente', Latin 'quinque'."
+  },
+  "word_hi_chhah": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*swéḱs",
+        "period": "c. 4000 BCE",
+        "meaning": "six"
+      },
+      {
+        "language": "Sanskrit",
+        "form": "षष् (ṣaṣ)",
+        "period": "Vedic",
+        "meaning": "six"
+      },
+      {
+        "language": "Hindi",
+        "form": "छह",
+        "period": "Modern",
+        "meaning": "six"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "six",
+        "meaning": "six"
+      },
+      {
+        "language": "Latin",
+        "word": "sex",
+        "meaning": "six"
+      }
+    ],
+    "notes": "From PIE *swéḱs. Related to English 'six', Latin 'sex', Greek 'ἕξ'."
+  },
+  "word_hi_saat": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*septḿ̥",
+        "period": "c. 4000 BCE",
+        "meaning": "seven"
+      },
+      {
+        "language": "Sanskrit",
+        "form": "सप्त (sapta)",
+        "period": "Vedic",
+        "meaning": "seven"
+      },
+      {
+        "language": "Hindi",
+        "form": "सात",
+        "period": "Modern",
+        "meaning": "seven"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "seven",
+        "meaning": "seven"
+      },
+      {
+        "language": "Latin",
+        "word": "septem",
+        "meaning": "seven"
+      }
+    ],
+    "notes": "From PIE *septḿ̥. Related to English 'seven', Latin 'septem', Greek 'ἑπτά'."
+  },
+  "word_hi_aath": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*oḱtṓw",
+        "period": "c. 4000 BCE",
+        "meaning": "eight"
+      },
+      {
+        "language": "Sanskrit",
+        "form": "अष्ट (aṣṭa)",
+        "period": "Vedic",
+        "meaning": "eight"
+      },
+      {
+        "language": "Hindi",
+        "form": "आठ",
+        "period": "Modern",
+        "meaning": "eight"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "eight",
+        "meaning": "eight"
+      },
+      {
+        "language": "Latin",
+        "word": "octo",
+        "meaning": "eight"
+      }
+    ],
+    "notes": "From PIE *oḱtṓw. Related to English 'eight', Latin 'octo', Greek 'ὀκτώ'."
+  },
+  "word_hi_nau": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*h₁néwn̥",
+        "period": "c. 4000 BCE",
+        "meaning": "nine"
+      },
+      {
+        "language": "Sanskrit",
+        "form": "नव (nava)",
+        "period": "Vedic",
+        "meaning": "nine"
+      },
+      {
+        "language": "Hindi",
+        "form": "नौ",
+        "period": "Modern",
+        "meaning": "nine"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "nine",
+        "meaning": "nine"
+      },
+      {
+        "language": "Latin",
+        "word": "novem",
+        "meaning": "nine"
+      }
+    ],
+    "notes": "From PIE *h₁néwn̥. Related to English 'nine', Latin 'novem'. Also means 'new' in Sanskrit."
+  },
+  "word_hi_das": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*déḱm̥t",
+        "period": "c. 4000 BCE",
+        "meaning": "ten"
+      },
+      {
+        "language": "Sanskrit",
+        "form": "दश (daśa)",
+        "period": "Vedic",
+        "meaning": "ten"
+      },
+      {
+        "language": "Hindi",
+        "form": "दस",
+        "period": "Modern",
+        "meaning": "ten"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "ten",
+        "meaning": "ten"
+      },
+      {
+        "language": "Latin",
+        "word": "decem",
+        "meaning": "ten"
+      }
+    ],
+    "notes": "From PIE *déḱm̥t. Related to English 'ten', Latin 'decem', Greek 'δέκα'. Base of decimal system."
+  },
+  "word_hi_sau": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*ḱm̥tóm",
+        "period": "c. 4000 BCE",
+        "meaning": "hundred"
+      },
+      {
+        "language": "Sanskrit",
+        "form": "शत (śata)",
+        "period": "Vedic",
+        "meaning": "hundred"
+      },
+      {
+        "language": "Hindi",
+        "form": "सौ",
+        "period": "Modern",
+        "meaning": "hundred"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "hundred",
+        "meaning": "hundred"
+      },
+      {
+        "language": "Latin",
+        "word": "centum",
+        "meaning": "hundred"
+      }
+    ],
+    "notes": "From PIE *ḱm̥tóm. Related to Latin 'centum', Greek 'ἑκατόν'. Centum/Satem language division named after this."
+  },
+  "word_hi_hazaar": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval period",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "هزار (hazār)",
+        "period": "Medieval",
+        "meaning": "thousand"
+      },
+      {
+        "language": "Hindi",
+        "form": "हज़ार",
+        "period": "Mughal era",
+        "meaning": "thousand"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Urdu",
+        "word": "ہزار",
+        "meaning": "thousand"
+      }
+    ],
+    "notes": "Borrowed from Persian. Sanskrit equivalent is सहस्र (sahasra)."
+  },
+  "word_hi_laakh": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "लक्ष (lakṣa)",
+        "period": "Classical Sanskrit",
+        "meaning": "hundred thousand"
+      },
+      {
+        "language": "Hindi",
+        "form": "लाख",
+        "period": "Modern",
+        "meaning": "hundred thousand"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Marathi",
+        "word": "लाख",
+        "meaning": "hundred thousand"
+      }
+    ],
+    "notes": "From Sanskrit लक्ष meaning 'mark, target'. Indian numbering system unit (100,000)."
+  },
+  "word_hi_aadha": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अर्ध (ardha)",
+        "period": "Vedic",
+        "meaning": "half"
+      },
+      {
+        "language": "Prakrit",
+        "form": "अद्ध",
+        "period": "Medieval",
+        "meaning": "half"
+      },
+      {
+        "language": "Hindi",
+        "form": "आधा",
+        "period": "Modern",
+        "meaning": "half"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Marathi",
+        "word": "अर्धा",
+        "meaning": "half"
+      }
+    ],
+    "notes": "From Sanskrit अर्ध (ardha). Related to 'hemisphere' (half-sphere)."
+  }
+}

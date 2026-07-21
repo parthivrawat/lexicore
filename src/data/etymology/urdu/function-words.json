@@ -1,0 +1,478 @@
+{
+  "word_ur_main_pronoun": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अहम् (aham)",
+        "period": "Vedic",
+        "meaning": "I"
+      },
+      {
+        "language": "Urdu",
+        "form": "میں",
+        "period": "Modern",
+        "meaning": "I"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "मैं",
+        "meaning": "I"
+      }
+    ],
+    "notes": "From Sanskrit अहम्. Note: same spelling as postposition 'main' (in) but different word."
+  },
+  "word_ur_tum": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "त्वम् (tvam)",
+        "period": "Vedic",
+        "meaning": "you"
+      },
+      {
+        "language": "Urdu",
+        "form": "تم",
+        "period": "Modern",
+        "meaning": "you"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "तुम",
+        "meaning": "you"
+      }
+    ],
+    "notes": "From Sanskrit त्वम्."
+  },
+  "word_ur_aap": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "आत्मन् (ātman)",
+        "period": "Classical",
+        "meaning": "self"
+      },
+      {
+        "language": "Urdu",
+        "form": "آپ",
+        "period": "Modern",
+        "meaning": "you (formal)"
+      }
+    ],
+    "cognates": [],
+    "notes": "Formal 'you' from 'self'."
+  },
+  "word_ur_woh": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "स (sa)",
+        "period": "Vedic",
+        "meaning": "he, that"
+      },
+      {
+        "language": "Urdu",
+        "form": "وہ",
+        "period": "Modern",
+        "meaning": "he/she"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "वह",
+        "meaning": "he/she"
+      }
+    ],
+    "notes": "From Sanskrit स."
+  },
+  "word_ur_woh2": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "सा (sā)",
+        "period": "Vedic",
+        "meaning": "she, that"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same 'woh' used for 'she'."
+  },
+  "word_ur_hum": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वयम् (vayam)",
+        "period": "Vedic",
+        "meaning": "we"
+      },
+      {
+        "language": "Urdu",
+        "form": "ہم",
+        "period": "Modern",
+        "meaning": "we"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "हम",
+        "meaning": "we"
+      }
+    ],
+    "notes": "From Sanskrit वयम्."
+  },
+  "word_ur_woh_log": {
+    "languageOrigin": "Sanskrit/Urdu",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "ते (te)",
+        "period": "Classical",
+        "meaning": "they"
+      },
+      {
+        "language": "Urdu",
+        "form": "وہ لوگ",
+        "period": "Modern",
+        "meaning": "they"
+      }
+    ],
+    "cognates": [],
+    "notes": "وہ (that) + لوگ (people)."
+  },
+  "word_ur_yeh": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "एतद् (etad)",
+        "period": "Vedic",
+        "meaning": "this"
+      },
+      {
+        "language": "Urdu",
+        "form": "یہ",
+        "period": "Modern",
+        "meaning": "this"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "यह",
+        "meaning": "this"
+      }
+    ],
+    "notes": "From Sanskrit एतद्."
+  },
+  "word_ur_wah": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अदस् (adas)",
+        "period": "Vedic",
+        "meaning": "that"
+      },
+      {
+        "language": "Urdu",
+        "form": "وہ",
+        "period": "Modern",
+        "meaning": "that"
+      }
+    ],
+    "cognates": [],
+    "notes": "Demonstrative 'that'."
+  },
+  "word_ur_kya": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "किम् (kim)",
+        "period": "Vedic",
+        "meaning": "what"
+      },
+      {
+        "language": "Urdu",
+        "form": "کیا",
+        "period": "Modern",
+        "meaning": "what"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "क्या",
+        "meaning": "what"
+      }
+    ],
+    "notes": "From Sanskrit किम्."
+  },
+  "word_ur_kon": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "क (ka)",
+        "period": "Vedic",
+        "meaning": "who"
+      },
+      {
+        "language": "Urdu",
+        "form": "کون",
+        "period": "Modern",
+        "meaning": "who"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "कौन",
+        "meaning": "who"
+      }
+    ],
+    "notes": "From Sanskrit क."
+  },
+  "word_ur_kahan": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कुत्र (kutra)",
+        "period": "Classical",
+        "meaning": "where"
+      },
+      {
+        "language": "Urdu",
+        "form": "کہاں",
+        "period": "Modern",
+        "meaning": "where"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit कुत्र."
+  },
+  "word_ur_kab": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कदा (kadā)",
+        "period": "Classical",
+        "meaning": "when"
+      },
+      {
+        "language": "Urdu",
+        "form": "کب",
+        "period": "Modern",
+        "meaning": "when"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit कदा."
+  },
+  "word_ur_kyon": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कथम् (katham)",
+        "period": "Classical",
+        "meaning": "why, how"
+      },
+      {
+        "language": "Urdu",
+        "form": "کیوں",
+        "period": "Modern",
+        "meaning": "why"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit कथम्."
+  },
+  "word_ur_kese": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कथम् (katham)",
+        "period": "Classical",
+        "meaning": "how"
+      },
+      {
+        "language": "Urdu",
+        "form": "کیسے",
+        "period": "Modern",
+        "meaning": "how"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit कथम्."
+  },
+  "word_ur_aur": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अपि (api)",
+        "period": "Classical",
+        "meaning": "and, also"
+      },
+      {
+        "language": "Urdu",
+        "form": "اور",
+        "period": "Modern",
+        "meaning": "and"
+      }
+    ],
+    "cognates": [],
+    "notes": "Conjunction 'and'."
+  },
+  "word_ur_ya": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वा (vā)",
+        "period": "Classical",
+        "meaning": "or"
+      },
+      {
+        "language": "Urdu",
+        "form": "یا",
+        "period": "Modern",
+        "meaning": "or"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit वा."
+  },
+  "word_ur_lekin": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "لكن (lākin)",
+        "period": "Classical",
+        "meaning": "but"
+      },
+      {
+        "language": "Urdu",
+        "form": "لیکن",
+        "period": "Modern",
+        "meaning": "but"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic 'lākin'."
+  },
+  "word_ur_agar": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "यदि (yadi)",
+        "period": "Classical",
+        "meaning": "if"
+      },
+      {
+        "language": "Urdu",
+        "form": "اگر",
+        "period": "Modern",
+        "meaning": "if"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit यदि."
+  },
+  "word_ur_kyunki": {
+    "languageOrigin": "Sanskrit/Urdu",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कारण (kāraṇa)",
+        "period": "Classical",
+        "meaning": "cause"
+      },
+      {
+        "language": "Urdu",
+        "form": "کیونکہ",
+        "period": "Modern",
+        "meaning": "because"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'kyūn' (why) + 'ke' (that). 'Because'."
+  },
+  "word_ur_nahi": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "न (na)",
+        "period": "Vedic",
+        "meaning": "not"
+      },
+      {
+        "language": "Urdu",
+        "form": "نہیں",
+        "period": "Modern",
+        "meaning": "no"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit न."
+  },
+  "word_ur_ji_haan": {
+    "languageOrigin": "Sanskrit/Urdu",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "एवम् (evam)",
+        "period": "Classical",
+        "meaning": "thus, yes"
+      },
+      {
+        "language": "Urdu",
+        "form": "جی ہاں",
+        "period": "Modern",
+        "meaning": "yes"
+      }
+    ],
+    "cognates": [],
+    "notes": "جی (honorific) + ہاں (yes)."
+  }
+}

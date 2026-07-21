@@ -1,0 +1,288 @@
+{
+  "word_mr_namaskar": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "नमस् (namas)",
+        "period": "Vedic",
+        "meaning": "bow, homage"
+      },
+      {
+        "language": "Sanskrit",
+        "form": "नमस्कार (namaskāra)",
+        "period": "Classical",
+        "meaning": "salutation"
+      },
+      {
+        "language": "Marathi",
+        "form": "नमस्कार",
+        "period": "Modern",
+        "meaning": "hello"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "नमस्कार",
+        "meaning": "hello"
+      }
+    ],
+    "notes": "From Sanskrit namaskāra."
+  },
+  "word_mr_ram_ram": {
+    "languageOrigin": "Sanskrit/Hindu",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "राम (rāma)",
+        "period": "Epic",
+        "meaning": "Rama (deity)"
+      },
+      {
+        "language": "Marathi",
+        "form": "राम राम",
+        "period": "Modern",
+        "meaning": "hello (respectful)"
+      }
+    ],
+    "cognates": [],
+    "notes": "Invocation of Lord Rama as greeting."
+  },
+  "word_mr_alwida": {
+    "languageOrigin": "Persian/Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "الوداع (al-wadāʿ)",
+        "period": "Classical",
+        "meaning": "farewell"
+      },
+      {
+        "language": "Persian",
+        "form": "الوداع",
+        "period": "Medieval",
+        "meaning": "goodbye"
+      },
+      {
+        "language": "Marathi",
+        "form": "अलविदा",
+        "period": "Modern",
+        "meaning": "goodbye"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic/Persian al-wadāʿ."
+  },
+  "word_mr_dhanyawad": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "धन्यवाद (dhanyavāda)",
+        "period": "Classical",
+        "meaning": "thanks"
+      },
+      {
+        "language": "Marathi",
+        "form": "धन्यवाद",
+        "period": "Modern",
+        "meaning": "thank you"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "धन्यवाद",
+        "meaning": "thank you"
+      }
+    ],
+    "notes": "From Sanskrit dhanyavāda."
+  },
+  "word_mr_krupaya": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कृपया (kṛpayā)",
+        "period": "Classical",
+        "meaning": "by grace"
+      },
+      {
+        "language": "Marathi",
+        "form": "कृपया",
+        "period": "Modern",
+        "meaning": "please"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "कृपया",
+        "meaning": "please"
+      }
+    ],
+    "notes": "From Sanskrit kṛpayā."
+  },
+  "word_mr_kay_chaltay": {
+    "languageOrigin": "Marathi",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Marathi",
+        "form": "काय चालले",
+        "period": "Modern",
+        "meaning": "what is happening"
+      }
+    ],
+    "cognates": [],
+    "notes": "काय (what) + चालले (going). 'What's up'."
+  },
+  "word_mr_maaf_kara": {
+    "languageOrigin": "Arabic/Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "معاف (maʿāf)",
+        "period": "Classical",
+        "meaning": "pardon"
+      },
+      {
+        "language": "Persian",
+        "form": "معاف (maʿāf)",
+        "period": "Medieval",
+        "meaning": "pardon"
+      },
+      {
+        "language": "Marathi",
+        "form": "माफ करा",
+        "period": "Modern",
+        "meaning": "sorry"
+      }
+    ],
+    "cognates": [],
+    "notes": "माफ (pardon) from Arabic/Persian + करा (do)."
+  },
+  "word_mr_kay_jhale": {
+    "languageOrigin": "Marathi",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Marathi",
+        "form": "काय झाले",
+        "period": "Modern",
+        "meaning": "what happened"
+      }
+    ],
+    "cognates": [],
+    "notes": "काय (what) + झाले (happened). 'What happened?'."
+  },
+  "word_mr_punha_betuya": {
+    "languageOrigin": "Marathi",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Marathi",
+        "form": "पुन्हा भेटूया",
+        "period": "Modern",
+        "meaning": "let's meet again"
+      }
+    ],
+    "cognates": [],
+    "notes": "पुन्हा (again) + भेटूया (let's meet)."
+  },
+  "word_mr_kase_ahaat": {
+    "languageOrigin": "Marathi",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Marathi",
+        "form": "कसे आहात",
+        "period": "Modern",
+        "meaning": "how are you"
+      }
+    ],
+    "cognates": [],
+    "notes": "कसे (how) + आहात (are)."
+  },
+  "word_mr_mi_thik_ahay": {
+    "languageOrigin": "Marathi",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Marathi",
+        "form": "मी ठीक आहे",
+        "period": "Modern",
+        "meaning": "I am fine"
+      }
+    ],
+    "cognates": [],
+    "notes": "मी (I) + ठीक (fine) + आहे (am)."
+  },
+  "word_mr_shubh_ratri": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "शुभ रात्रि (śubha rātri)",
+        "period": "Classical",
+        "meaning": "auspicious night"
+      },
+      {
+        "language": "Marathi",
+        "form": "शुभ रात्री",
+        "period": "Modern",
+        "meaning": "good night"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit śubha rātri."
+  },
+  "word_mr_swagat_aahe": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "स्वागत (svāgata)",
+        "period": "Classical",
+        "meaning": "welcome"
+      },
+      {
+        "language": "Marathi",
+        "form": "स्वागत आहे",
+        "period": "Modern",
+        "meaning": "welcome"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit svāgata."
+  },
+  "word_mr_ek_minit": {
+    "languageOrigin": "English/Marathi",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "one minute",
+        "period": "Modern",
+        "meaning": "one minute"
+      },
+      {
+        "language": "Marathi",
+        "form": "एक मिनिट",
+        "period": "Modern",
+        "meaning": "excuse me / one minute"
+      }
+    ],
+    "cognates": [],
+    "notes": "Loan phrase from English."
+  }
+}

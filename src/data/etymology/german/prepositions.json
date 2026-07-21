@@ -1,0 +1,238 @@
+{
+  "word_de_in": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*in",
+        "period": "c. 500 BCE",
+        "meaning": "in"
+      },
+      {
+        "language": "Old High German",
+        "form": "in",
+        "period": "8th century",
+        "meaning": "in"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "in",
+        "meaning": "in"
+      }
+    ],
+    "notes": "PIE *h₁en."
+  },
+  "word_de_nach": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*hnaigijaną",
+        "period": "c. 500 BCE",
+        "meaning": "to go, to"
+      },
+      {
+        "language": "Old High German",
+        "form": "nāh",
+        "period": "8th century",
+        "meaning": "near, after"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "near",
+        "meaning": "close"
+      }
+    ],
+    "notes": "PIE *h₂nei- (to bend). Means 'to' or 'after'."
+  },
+  "word_de_aus": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*ūs",
+        "period": "c. 500 BCE",
+        "meaning": "out"
+      },
+      {
+        "language": "Old High German",
+        "form": "ūz",
+        "period": "8th century",
+        "meaning": "out"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "out",
+        "meaning": "out"
+      }
+    ],
+    "notes": "PIE *h₁eǵʰ- (out)."
+  },
+  "word_de_mit": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*midjē",
+        "period": "c. 500 BCE",
+        "meaning": "with"
+      },
+      {
+        "language": "Old High German",
+        "form": "mit",
+        "period": "8th century",
+        "meaning": "with"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "mid",
+        "meaning": "with (archaic)"
+      }
+    ],
+    "notes": "PIE *médʰyos (middle, with)."
+  },
+  "word_de_fur": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*furi",
+        "period": "c. 500 BCE",
+        "meaning": "before, for"
+      },
+      {
+        "language": "Old High German",
+        "form": "furi",
+        "period": "8th century",
+        "meaning": "before, for"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "for",
+        "meaning": "for"
+      }
+    ],
+    "notes": "PIE *per- (before)."
+  },
+  "word_de_uber": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*uberi",
+        "period": "c. 500 BCE",
+        "meaning": "over"
+      },
+      {
+        "language": "Old High German",
+        "form": "ubir",
+        "period": "8th century",
+        "meaning": "over"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "over",
+        "meaning": "over"
+      }
+    ],
+    "notes": "PIE *uper (over)."
+  },
+  "word_de_ohne": {
+    "languageOrigin": "Old High German",
+    "yearOfOrigin": "c. 8th century",
+    "timeline": [
+      {
+        "language": "Old High German",
+        "form": "āneo",
+        "period": "8th century",
+        "meaning": "without"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'ein' (one) + negative. 'Not one/without'."
+  },
+  "word_de_vor": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*furai",
+        "period": "c. 500 BCE",
+        "meaning": "before"
+      },
+      {
+        "language": "Old High German",
+        "form": "fora",
+        "period": "8th century",
+        "meaning": "before"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "fore",
+        "meaning": "before"
+      }
+    ],
+    "notes": "PIE *per- (before)."
+  },
+  "word_de_nach2": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*hnaigijaną",
+        "period": "c. 500 BCE",
+        "meaning": "after"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same as 'nach' (to). Preposition 'after'."
+  },
+  "word_de_auf": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*ūp",
+        "period": "c. 500 BCE",
+        "meaning": "up, on"
+      },
+      {
+        "language": "Old High German",
+        "form": "ūf",
+        "period": "8th century",
+        "meaning": "up, on"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "up",
+        "meaning": "up"
+      }
+    ],
+    "notes": "PIE *h₁up (up)."
+  }
+}

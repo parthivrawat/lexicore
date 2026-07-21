@@ -1,0 +1,308 @@
+{
+  "word_el_midhen": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "μηδέν (mēdén)",
+        "period": "Classical",
+        "meaning": "nothing"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "μηδέν",
+        "period": "Modern",
+        "meaning": "zero"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek μηδέν (nothing)."
+  },
+  "word_el_ena": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*óynos",
+        "period": "c. 3000 BCE",
+        "meaning": "one"
+      },
+      {
+        "language": "Ancient Greek",
+        "form": "εἷς (heis)",
+        "period": "Classical",
+        "meaning": "one"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "ένα",
+        "period": "Modern",
+        "meaning": "one"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek εἷς."
+  },
+  "word_el_dio": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "δύο (dyo)",
+        "period": "Classical",
+        "meaning": "two"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "δύο",
+        "period": "Modern",
+        "meaning": "two"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek δύο."
+  },
+  "word_el_tria": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "τρεῖς (treis)",
+        "period": "Classical",
+        "meaning": "three"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "τρία",
+        "period": "Modern",
+        "meaning": "three"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek τρεῖς."
+  },
+  "word_el_tessera": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "τέσσαρες (tessares)",
+        "period": "Classical",
+        "meaning": "four"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "τέσσερα",
+        "period": "Modern",
+        "meaning": "four"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek τέσσαρες."
+  },
+  "word_el_pente": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "πέντε (pente)",
+        "period": "Classical",
+        "meaning": "five"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "πέντε",
+        "period": "Modern",
+        "meaning": "five"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek πέντε."
+  },
+  "word_el_exi": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἕξ (hex)",
+        "period": "Classical",
+        "meaning": "six"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "έξι",
+        "period": "Modern",
+        "meaning": "six"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ἕξ."
+  },
+  "word_el_epta": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἑπτά (hepta)",
+        "period": "Classical",
+        "meaning": "seven"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "εφτά",
+        "period": "Modern",
+        "meaning": "seven"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ἑπτά."
+  },
+  "word_el_okto": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ὀκτώ (oktō)",
+        "period": "Classical",
+        "meaning": "eight"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "οκτώ",
+        "period": "Modern",
+        "meaning": "eight"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ὀκτώ."
+  },
+  "word_el_ennea": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἐννέα (ennea)",
+        "period": "Classical",
+        "meaning": "nine"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "εννιά",
+        "period": "Modern",
+        "meaning": "nine"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ἐννέα."
+  },
+  "word_el_deka": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "δέκα (deka)",
+        "period": "Classical",
+        "meaning": "ten"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "δέκα",
+        "period": "Modern",
+        "meaning": "ten"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek δέκα."
+  },
+  "word_el_ekato": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἑκατόν (hecaton)",
+        "period": "Classical",
+        "meaning": "hundred"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "εκατό",
+        "period": "Modern",
+        "meaning": "hundred"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ἑκατόν."
+  },
+  "word_el_hilia": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "χίλιοι (chilioi)",
+        "period": "Classical",
+        "meaning": "thousand"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "χίλια",
+        "period": "Modern",
+        "meaning": "thousand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek χίλιοι."
+  },
+  "word_el_ena_ekatommyrio": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἑκατομμύριον (hecatommyrion)",
+        "period": "Classical",
+        "meaning": "hundred ten-thousands"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "ένα εκατομμύριο",
+        "period": "Modern",
+        "meaning": "million"
+      }
+    ],
+    "cognates": [],
+    "notes": "ἑκατόν (hundred) + μύριον (ten thousand)."
+  },
+  "word_el_miso": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἥμισυ (hēmisu)",
+        "period": "Classical",
+        "meaning": "half"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "μισό",
+        "period": "Modern",
+        "meaning": "half"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ἥμισυ."
+  }
+}

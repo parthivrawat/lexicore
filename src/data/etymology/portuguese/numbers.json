@@ -1,0 +1,398 @@
+{
+  "word_pt_zero": {
+    "languageOrigin": "Arabic via Latin",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "ṣifr",
+        "period": "9th century",
+        "meaning": "zero"
+      },
+      {
+        "language": "Italian",
+        "form": "zero",
+        "period": "13th century",
+        "meaning": "zero"
+      },
+      {
+        "language": "Portuguese",
+        "form": "zero",
+        "period": "15th century",
+        "meaning": "zero"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Spanish",
+        "word": "cero",
+        "meaning": "zero"
+      }
+    ],
+    "notes": "From Arabic ṣifr, transmitted via Italian/Spanish."
+  },
+  "word_pt_um": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "unus",
+        "period": "Classical",
+        "meaning": "one"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "um",
+        "period": "Medieval",
+        "meaning": "one"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "one",
+        "meaning": "one"
+      }
+    ],
+    "notes": "From Latin 'unus'."
+  },
+  "word_pt_dois": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "duo",
+        "period": "Classical",
+        "meaning": "two"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "dois",
+        "period": "Medieval",
+        "meaning": "two"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "two",
+        "meaning": "two"
+      }
+    ],
+    "notes": "From Latin 'duo'."
+  },
+  "word_pt_tres": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "tres",
+        "period": "Classical",
+        "meaning": "three"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "três",
+        "period": "Medieval",
+        "meaning": "three"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "three",
+        "meaning": "three"
+      }
+    ],
+    "notes": "From Latin 'tres'."
+  },
+  "word_pt_quatro": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quattuor",
+        "period": "Classical",
+        "meaning": "four"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "quatro",
+        "period": "Medieval",
+        "meaning": "four"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Spanish",
+        "word": "cuatro",
+        "meaning": "four"
+      }
+    ],
+    "notes": "From Latin 'quattuor'."
+  },
+  "word_pt_cinco": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quinque",
+        "period": "Classical",
+        "meaning": "five"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "cinco",
+        "period": "Medieval",
+        "meaning": "five"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Spanish",
+        "word": "cinco",
+        "meaning": "five"
+      }
+    ],
+    "notes": "From Latin 'quinque'."
+  },
+  "word_pt_seis": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sex",
+        "period": "Classical",
+        "meaning": "six"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "seis",
+        "period": "Medieval",
+        "meaning": "six"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Spanish",
+        "word": "seis",
+        "meaning": "six"
+      }
+    ],
+    "notes": "From Latin 'sex'."
+  },
+  "word_pt_sete": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "septem",
+        "period": "Classical",
+        "meaning": "seven"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "sete",
+        "period": "Medieval",
+        "meaning": "seven"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Spanish",
+        "word": "siete",
+        "meaning": "seven"
+      }
+    ],
+    "notes": "From Latin 'septem'."
+  },
+  "word_pt_oito": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "octo",
+        "period": "Classical",
+        "meaning": "eight"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "oito",
+        "period": "Medieval",
+        "meaning": "eight"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Spanish",
+        "word": "ocho",
+        "meaning": "eight"
+      }
+    ],
+    "notes": "From Latin 'octo'."
+  },
+  "word_pt_nove": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "novem",
+        "period": "Classical",
+        "meaning": "nine"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "nove",
+        "period": "Medieval",
+        "meaning": "nine"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Spanish",
+        "word": "nueve",
+        "meaning": "nine"
+      }
+    ],
+    "notes": "From Latin 'novem'."
+  },
+  "word_pt_dez": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "decem",
+        "period": "Classical",
+        "meaning": "ten"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "dez",
+        "period": "Medieval",
+        "meaning": "ten"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Spanish",
+        "word": "diez",
+        "meaning": "ten"
+      }
+    ],
+    "notes": "From Latin 'decem'."
+  },
+  "word_pt_cem": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "centum",
+        "period": "Classical",
+        "meaning": "hundred"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "cem",
+        "period": "Medieval",
+        "meaning": "hundred"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Spanish",
+        "word": "cien",
+        "meaning": "hundred"
+      }
+    ],
+    "notes": "From Latin 'centum'."
+  },
+  "word_pt_mil": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "mille",
+        "period": "Classical",
+        "meaning": "thousand"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "mil",
+        "period": "Medieval",
+        "meaning": "thousand"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Spanish",
+        "word": "mil",
+        "meaning": "thousand"
+      }
+    ],
+    "notes": "From Latin 'mille'."
+  },
+  "word_pt_milhao": {
+    "languageOrigin": "Italian",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Italian",
+        "form": "milione",
+        "period": "13th century",
+        "meaning": "million"
+      },
+      {
+        "language": "Portuguese",
+        "form": "milhão",
+        "period": "16th century",
+        "meaning": "million"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Spanish",
+        "word": "millón",
+        "meaning": "million"
+      }
+    ],
+    "notes": "From Italian 'milione' (great thousand)."
+  },
+  "word_pt_metade": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "medietās",
+        "period": "Classical",
+        "meaning": "middle, half"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "metade",
+        "period": "Medieval",
+        "meaning": "half"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Spanish",
+        "word": "mitad",
+        "meaning": "half"
+      }
+    ],
+    "notes": "From Latin 'medietās'."
+  }
+}

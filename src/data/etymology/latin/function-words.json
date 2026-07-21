@@ -1,0 +1,316 @@
+{
+  "word_la_ego": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ego",
+        "period": "Classical",
+        "meaning": "I"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "ego",
+        "meaning": "I"
+      }
+    ],
+    "notes": "From Latin ego."
+  },
+  "word_la_tu": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "tū",
+        "period": "Classical",
+        "meaning": "you"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin tū."
+  },
+  "word_la_vos": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "vōs",
+        "period": "Classical",
+        "meaning": "you (pl.)"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin vōs."
+  },
+  "word_la_ille": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ille",
+        "period": "Classical",
+        "meaning": "he, that"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin ille."
+  },
+  "word_la_illa": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "illa",
+        "period": "Classical",
+        "meaning": "she, that"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin illa."
+  },
+  "word_la_nos": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "nōs",
+        "period": "Classical",
+        "meaning": "we"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin nōs."
+  },
+  "word_la_illi": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "illī",
+        "period": "Classical",
+        "meaning": "they"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin illī."
+  },
+  "word_la_hic": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "hic",
+        "period": "Classical",
+        "meaning": "this"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin hic."
+  },
+  "word_la_ille_demonstrative": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ille",
+        "period": "Classical",
+        "meaning": "that"
+      }
+    ],
+    "cognates": [],
+    "notes": "Demonstrative 'that'."
+  },
+  "word_la_quid": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quid",
+        "period": "Classical",
+        "meaning": "what"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin quid."
+  },
+  "word_la_quis": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quis",
+        "period": "Classical",
+        "meaning": "who"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin quis."
+  },
+  "word_la_ubi": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ubi",
+        "period": "Classical",
+        "meaning": "where"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin ubi."
+  },
+  "word_la_quando": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quandō",
+        "period": "Classical",
+        "meaning": "when"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin quandō."
+  },
+  "word_la_cur": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "cūr",
+        "period": "Classical",
+        "meaning": "why"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin cūr."
+  },
+  "word_la_quomodo": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quōmodo",
+        "period": "Classical",
+        "meaning": "how"
+      }
+    ],
+    "cognates": [],
+    "notes": "From quō (by which) + modō (way)."
+  },
+  "word_la_et": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "et",
+        "period": "Classical",
+        "meaning": "and"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin et."
+  },
+  "word_la_aut": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "aut",
+        "period": "Classical",
+        "meaning": "or"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin aut."
+  },
+  "word_la_sed": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sed",
+        "period": "Classical",
+        "meaning": "but"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin sed."
+  },
+  "word_la_si": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sī",
+        "period": "Classical",
+        "meaning": "if"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin sī."
+  },
+  "word_la_quia": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quia",
+        "period": "Classical",
+        "meaning": "because"
+      }
+    ],
+    "cognates": [],
+    "notes": "From quī (who/which) + -a."
+  },
+  "word_la_non": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "nōn",
+        "period": "Classical",
+        "meaning": "not"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin nōn."
+  },
+  "word_la_sic": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sīc",
+        "period": "Classical",
+        "meaning": "thus, yes"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin sīc."
+  }
+}

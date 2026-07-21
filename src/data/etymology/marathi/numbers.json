@@ -1,0 +1,320 @@
+{
+  "word_mr_shunya": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "शून्य (śūnya)",
+        "period": "Classical",
+        "meaning": "empty, zero"
+      },
+      {
+        "language": "Marathi",
+        "form": "शून्य",
+        "period": "Modern",
+        "meaning": "zero"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "शून्य",
+        "meaning": "zero"
+      }
+    ],
+    "notes": "From Sanskrit śūnya."
+  },
+  "word_mr_ek": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "एक (eka)",
+        "period": "Vedic",
+        "meaning": "one"
+      },
+      {
+        "language": "Marathi",
+        "form": "एक",
+        "period": "Modern",
+        "meaning": "one"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "एक",
+        "meaning": "one"
+      }
+    ],
+    "notes": "From Sanskrit eka."
+  },
+  "word_mr_don": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "द्वि (dvi)",
+        "period": "Vedic",
+        "meaning": "two"
+      },
+      {
+        "language": "Marathi",
+        "form": "दोन",
+        "period": "Modern",
+        "meaning": "two"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit dvi > Prakrit do > Marathi don."
+  },
+  "word_mr_teen": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "त्रि (tri)",
+        "period": "Vedic",
+        "meaning": "three"
+      },
+      {
+        "language": "Marathi",
+        "form": "तीन",
+        "period": "Modern",
+        "meaning": "three"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit tri."
+  },
+  "word_mr_char": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "चत्वार् (catvār)",
+        "period": "Vedic",
+        "meaning": "four"
+      },
+      {
+        "language": "Marathi",
+        "form": "चार",
+        "period": "Modern",
+        "meaning": "four"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit catvāraḥ."
+  },
+  "word_mr_paach": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पञ्च (pañca)",
+        "period": "Vedic",
+        "meaning": "five"
+      },
+      {
+        "language": "Marathi",
+        "form": "पाच",
+        "period": "Modern",
+        "meaning": "five"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit pañca."
+  },
+  "word_mr_saha": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "षट् (ṣaṭ)",
+        "period": "Vedic",
+        "meaning": "six"
+      },
+      {
+        "language": "Marathi",
+        "form": "सहा",
+        "period": "Modern",
+        "meaning": "six"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit ṣaṭ."
+  },
+  "word_mr_saat": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "सप्त (sapta)",
+        "period": "Vedic",
+        "meaning": "seven"
+      },
+      {
+        "language": "Marathi",
+        "form": "सात",
+        "period": "Modern",
+        "meaning": "seven"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit sapta."
+  },
+  "word_mr_aath": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अष्ट (aṣṭa)",
+        "period": "Vedic",
+        "meaning": "eight"
+      },
+      {
+        "language": "Marathi",
+        "form": "आठ",
+        "period": "Modern",
+        "meaning": "eight"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit aṣṭa."
+  },
+  "word_mr_nau": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "नव (nava)",
+        "period": "Vedic",
+        "meaning": "nine"
+      },
+      {
+        "language": "Marathi",
+        "form": "नऊ",
+        "period": "Modern",
+        "meaning": "nine"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit nava."
+  },
+  "word_mr_daha": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "दश (daśa)",
+        "period": "Vedic",
+        "meaning": "ten"
+      },
+      {
+        "language": "Marathi",
+        "form": "दहा",
+        "period": "Modern",
+        "meaning": "ten"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit daśa."
+  },
+  "word_mr_shambhar": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "शत (śata)",
+        "period": "Vedic",
+        "meaning": "hundred"
+      },
+      {
+        "language": "Marathi",
+        "form": "शंभर",
+        "period": "Modern",
+        "meaning": "hundred"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit śata."
+  },
+  "word_mr_hazaar": {
+    "languageOrigin": "Sanskrit/Persian",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "सहस्र (sahasra)",
+        "period": "Vedic",
+        "meaning": "thousand"
+      },
+      {
+        "language": "Persian",
+        "form": "هزار (hazār)",
+        "period": "Medieval",
+        "meaning": "thousand"
+      },
+      {
+        "language": "Marathi",
+        "form": "हजार",
+        "period": "Modern",
+        "meaning": "thousand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian hazār, ultimately Sanskrit sahasra."
+  },
+  "word_mr_lakh": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "लक्ष (lakṣa)",
+        "period": "Vedic",
+        "meaning": "hundred thousand"
+      },
+      {
+        "language": "Marathi",
+        "form": "लाख",
+        "period": "Modern",
+        "meaning": "hundred thousand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit lakṣa."
+  },
+  "word_mr_aadha": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अर्ध (ardha)",
+        "period": "Vedic",
+        "meaning": "half"
+      },
+      {
+        "language": "Marathi",
+        "form": "अर्धा",
+        "period": "Modern",
+        "meaning": "half"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit ardha."
+  }
+}

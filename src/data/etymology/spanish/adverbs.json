@@ -1,0 +1,326 @@
+{
+  "word_es_muy": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "multum",
+        "period": "Classical",
+        "meaning": "much"
+      },
+      {
+        "language": "Spanish",
+        "form": "muy",
+        "period": "Medieval",
+        "meaning": "very"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Portuguese",
+        "word": "muito",
+        "meaning": "very"
+      }
+    ],
+    "notes": "From Latin 'multum' (much). Adverb 'muy' is a reduced form."
+  },
+  "word_es_tambien": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "tamen + bene",
+        "period": "Classical",
+        "meaning": "however, well"
+      },
+      {
+        "language": "Spanish",
+        "form": "también",
+        "period": "Medieval",
+        "meaning": "also"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'tan bien' (so well), used adverbially."
+  },
+  "word_es_solo": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "solus",
+        "period": "Classical",
+        "meaning": "alone"
+      },
+      {
+        "language": "Spanish",
+        "form": "solo",
+        "period": "Medieval",
+        "meaning": "only, alone"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "sole",
+        "meaning": "only"
+      }
+    ],
+    "notes": "From Latin 'solus' (alone). Means 'only' or 'alone'."
+  },
+  "word_es_siempre": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "semper",
+        "period": "Classical",
+        "meaning": "always"
+      },
+      {
+        "language": "Spanish",
+        "form": "siempre",
+        "period": "Medieval",
+        "meaning": "always"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'semper' (always)."
+  },
+  "word_es_nunca": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "numquam",
+        "period": "Classical",
+        "meaning": "never"
+      },
+      {
+        "language": "Spanish",
+        "form": "nunca",
+        "period": "Medieval",
+        "meaning": "never"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'numquam' (not ever)."
+  },
+  "word_es_a_veces": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "vice",
+        "period": "Classical",
+        "meaning": "turn, time"
+      },
+      {
+        "language": "Spanish",
+        "form": "a veces",
+        "period": "Medieval",
+        "meaning": "sometimes"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'at turns/times'. 'Vez' from Latin 'vice'."
+  },
+  "word_es_mucho": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "multum",
+        "period": "Classical",
+        "meaning": "much"
+      },
+      {
+        "language": "Spanish",
+        "form": "mucho",
+        "period": "Medieval",
+        "meaning": "much, often"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "multitude",
+        "meaning": "large number"
+      }
+    ],
+    "notes": "From Latin 'multum'."
+  },
+  "word_es_ahora": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ha hora",
+        "period": "Late Latin",
+        "meaning": "this hour"
+      },
+      {
+        "language": "Spanish",
+        "form": "ahora",
+        "period": "Medieval",
+        "meaning": "now"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'hac hora' (at this hour)."
+  },
+  "word_es_despues": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "post",
+        "period": "Classical",
+        "meaning": "after"
+      },
+      {
+        "language": "Spanish",
+        "form": "después",
+        "period": "Medieval",
+        "meaning": "later"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'de ex' + 'post' (after)."
+  },
+  "word_es_ayer": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "heri",
+        "period": "Classical",
+        "meaning": "yesterday"
+      },
+      {
+        "language": "Spanish",
+        "form": "ayer",
+        "period": "Medieval",
+        "meaning": "yesterday"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'heri' (yesterday)."
+  },
+  "word_es_manana": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "mane",
+        "period": "Classical",
+        "meaning": "in the morning"
+      },
+      {
+        "language": "Spanish",
+        "form": "mañana",
+        "period": "Medieval",
+        "meaning": "tomorrow, morning"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'mane' (morning). 'Mañana' means both 'tomorrow' and 'morning'."
+  },
+  "word_es_ya": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "iam",
+        "period": "Classical",
+        "meaning": "already, now"
+      },
+      {
+        "language": "Spanish",
+        "form": "ya",
+        "period": "Medieval",
+        "meaning": "already"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'iam' (already)."
+  },
+  "word_es_todavia_no": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Spanish",
+        "form": "todavía",
+        "period": "Medieval",
+        "meaning": "still, yet"
+      },
+      {
+        "language": "Spanish",
+        "form": "todavía no",
+        "period": "Modern",
+        "meaning": "not yet"
+      }
+    ],
+    "cognates": [],
+    "notes": "Todavía from 'toda vía' (all the way). Negation means 'not yet'."
+  },
+  "word_es_tal_vez": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "talis",
+        "period": "Classical",
+        "meaning": "such"
+      },
+      {
+        "language": "Spanish",
+        "form": "tal vez",
+        "period": "Modern",
+        "meaning": "maybe"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'such a time/turn'. 'Vez' from Latin 'vice'."
+  },
+  "word_es_claro": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "clarus",
+        "period": "Classical",
+        "meaning": "clear, bright"
+      },
+      {
+        "language": "Spanish",
+        "form": "claro",
+        "period": "Medieval",
+        "meaning": "clear, certainly"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "clear",
+        "meaning": "clear"
+      }
+    ],
+    "notes": "From Latin 'clarus'. As adverb means 'of course/clearly'."
+  }
+}

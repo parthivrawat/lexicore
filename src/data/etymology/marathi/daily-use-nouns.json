@@ -1,0 +1,414 @@
+{
+  "word_mr_manus": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "मनुष्य (manuṣya)",
+        "period": "Vedic",
+        "meaning": "human"
+      },
+      {
+        "language": "Marathi",
+        "form": "माणूस",
+        "period": "Modern",
+        "meaning": "person"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit manuṣya."
+  },
+  "word_mr_mulga": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "मूर्ख? / बाल (bāla)",
+        "period": "Vedic",
+        "meaning": "child"
+      },
+      {
+        "language": "Marathi",
+        "form": "मुलगा",
+        "period": "Modern",
+        "meaning": "child"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Prakrit 'mula' (young)."
+  },
+  "word_mr_ghar": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "गृह (gṛha)",
+        "period": "Vedic",
+        "meaning": "house"
+      },
+      {
+        "language": "Marathi",
+        "form": "घर",
+        "period": "Modern",
+        "meaning": "house"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "घर",
+        "meaning": "house"
+      }
+    ],
+    "notes": "From Sanskrit gṛha."
+  },
+  "word_mr_paani": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पानीय (pānīya)",
+        "period": "Vedic",
+        "meaning": "drinkable water"
+      },
+      {
+        "language": "Marathi",
+        "form": "पाणी",
+        "period": "Modern",
+        "meaning": "water"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "पानी",
+        "meaning": "water"
+      }
+    ],
+    "notes": "From Sanskrit pānīya."
+  },
+  "word_mr_anna": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अन्न (anna)",
+        "period": "Vedic",
+        "meaning": "food, grain"
+      },
+      {
+        "language": "Marathi",
+        "form": "अन्न",
+        "period": "Modern",
+        "meaning": "food"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit anna."
+  },
+  "word_mr_wel": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वेला (velā)",
+        "period": "Vedic",
+        "meaning": "time, limit"
+      },
+      {
+        "language": "Marathi",
+        "form": "वेळ",
+        "period": "Modern",
+        "meaning": "time"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit velā."
+  },
+  "word_mr_divaas": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "दिवस (divasa)",
+        "period": "Vedic",
+        "meaning": "day"
+      },
+      {
+        "language": "Marathi",
+        "form": "दिवस",
+        "period": "Modern",
+        "meaning": "day"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit divasa."
+  },
+  "word_mr_varsha": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वर्ष (varṣa)",
+        "period": "Vedic",
+        "meaning": "year, rain"
+      },
+      {
+        "language": "Marathi",
+        "form": "वर्ष",
+        "period": "Modern",
+        "meaning": "year"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit varṣa."
+  },
+  "word_mr_haat": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "हस्त (hasta)",
+        "period": "Vedic",
+        "meaning": "hand"
+      },
+      {
+        "language": "Marathi",
+        "form": "हात",
+        "period": "Modern",
+        "meaning": "hand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit hasta."
+  },
+  "word_mr_dole": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अक्षि (akṣi)",
+        "period": "Vedic",
+        "meaning": "eye"
+      },
+      {
+        "language": "Marathi",
+        "form": "डोळे",
+        "period": "Modern",
+        "meaning": "eye"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit akṣi."
+  },
+  "word_mr_doke": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "शिरस् (śiras)",
+        "period": "Vedic",
+        "meaning": "head"
+      },
+      {
+        "language": "Marathi",
+        "form": "डोकं",
+        "period": "Modern",
+        "meaning": "head"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit śiras."
+  },
+  "word_mr_pustak": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पुस्तक (pustaka)",
+        "period": "Classical",
+        "meaning": "book"
+      },
+      {
+        "language": "Marathi",
+        "form": "पुस्तक",
+        "period": "Modern",
+        "meaning": "book"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit pustaka."
+  },
+  "word_mr_darwaza": {
+    "languageOrigin": "Persian/Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "دروازه (darvāze)",
+        "period": "Medieval",
+        "meaning": "door"
+      },
+      {
+        "language": "Marathi",
+        "form": "दरवाजा",
+        "period": "Modern",
+        "meaning": "door"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian darvāze."
+  },
+  "word_mr_road": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 19th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "road",
+        "period": "19th century",
+        "meaning": "road"
+      },
+      {
+        "language": "Marathi",
+        "form": "रस्ता",
+        "period": "Modern",
+        "meaning": "street"
+      }
+    ],
+    "cognates": [],
+    "notes": "Marathi 'rastā' from Persian rāh? Actually 'rastā' from Persian rāst?"
+  },
+  "word_mr_shaher": {
+    "languageOrigin": "Sanskrit/Persian",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "नगर (nagara)",
+        "period": "Classical",
+        "meaning": "city"
+      },
+      {
+        "language": "Marathi",
+        "form": "शहर",
+        "period": "Modern",
+        "meaning": "city"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian šahr."
+  },
+  "word_mr_desh": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "देश (deśa)",
+        "period": "Vedic",
+        "meaning": "country, region"
+      },
+      {
+        "language": "Marathi",
+        "form": "देश",
+        "period": "Modern",
+        "meaning": "country"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit deśa."
+  },
+  "word_mr_shaala": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "शाला (śālā)",
+        "period": "Vedic",
+        "meaning": "school, hall"
+      },
+      {
+        "language": "Marathi",
+        "form": "शाळा",
+        "period": "Modern",
+        "meaning": "school"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit śālā."
+  },
+  "word_mr_mitra": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "मित्र (mitra)",
+        "period": "Vedic",
+        "meaning": "friend"
+      },
+      {
+        "language": "Marathi",
+        "form": "मित्र",
+        "period": "Modern",
+        "meaning": "friend"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit mitra."
+  },
+  "word_mr_kutumb": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कुटुम्ब (kuṭumba)",
+        "period": "Classical",
+        "meaning": "family"
+      },
+      {
+        "language": "Marathi",
+        "form": "कुटुंब",
+        "period": "Modern",
+        "meaning": "family"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit kuṭumba."
+  },
+  "word_mr_naav": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "नामन् (nāman)",
+        "period": "Vedic",
+        "meaning": "name"
+      },
+      {
+        "language": "Marathi",
+        "form": "नाव",
+        "period": "Modern",
+        "meaning": "name"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit nāman."
+  }
+}

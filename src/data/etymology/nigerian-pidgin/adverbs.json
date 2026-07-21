@@ -1,0 +1,302 @@
+{
+  "word_pcm_well_well": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "well well",
+        "period": "17th century",
+        "meaning": "very"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "well well",
+        "period": "Modern",
+        "meaning": "very"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'well well'."
+  },
+  "word_pcm_too": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "too",
+        "period": "17th century",
+        "meaning": "also"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "too",
+        "period": "Modern",
+        "meaning": "also"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'too'."
+  },
+  "word_pcm_onli": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "only",
+        "period": "17th century",
+        "meaning": "only"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "onli",
+        "period": "Modern",
+        "meaning": "only"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'only'."
+  },
+  "word_pcm_alwayz": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "always",
+        "period": "17th century",
+        "meaning": "always"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "alwayz",
+        "period": "Modern",
+        "meaning": "always"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'always'."
+  },
+  "word_pcm_neva": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "never",
+        "period": "17th century",
+        "meaning": "never"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "neva",
+        "period": "Modern",
+        "meaning": "never"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'never'."
+  },
+  "word_pcm_sometimes": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "sometimes",
+        "period": "17th century",
+        "meaning": "sometimes"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "sometimes",
+        "period": "Modern",
+        "meaning": "sometimes"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'sometimes'."
+  },
+  "word_pcm_oftentimes": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "often",
+        "period": "17th century",
+        "meaning": "often"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "oftentimes",
+        "period": "Modern",
+        "meaning": "often"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'often'."
+  },
+  "word_pcm_nau": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "now",
+        "period": "17th century",
+        "meaning": "now"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "nau",
+        "period": "Modern",
+        "meaning": "now"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'now'."
+  },
+  "word_pcm_lata": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "later",
+        "period": "17th century",
+        "meaning": "later"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "lata",
+        "period": "Modern",
+        "meaning": "later"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'later'."
+  },
+  "word_pcm_yestaday": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "yesterday",
+        "period": "17th century",
+        "meaning": "yesterday"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "yestaday",
+        "period": "Modern",
+        "meaning": "yesterday"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'yesterday'."
+  },
+  "word_pcm_tomoro": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "tomorrow",
+        "period": "17th century",
+        "meaning": "tomorrow"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "tomoro",
+        "period": "Modern",
+        "meaning": "tomorrow"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'tomorrow'."
+  },
+  "word_pcm_don": {
+    "languageOrigin": "English/Nigerian Pidgin",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "done",
+        "period": "17th century",
+        "meaning": "already"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "don",
+        "period": "Modern",
+        "meaning": "already"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'done'."
+  },
+  "word_pcm_neva_yet": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "never yet",
+        "period": "17th century",
+        "meaning": "not yet"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "neva yet",
+        "period": "Modern",
+        "meaning": "not yet"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'never yet'."
+  },
+  "word_pcm_maybi": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "maybe",
+        "period": "17th century",
+        "meaning": "maybe"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "maybi",
+        "period": "Modern",
+        "meaning": "maybe"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'maybe'."
+  },
+  "word_pcm_shorly": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "surely",
+        "period": "17th century",
+        "meaning": "surely"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "shorly",
+        "period": "Modern",
+        "meaning": "certainly"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'surely'."
+  }
+}

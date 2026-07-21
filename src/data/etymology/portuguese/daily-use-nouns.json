@@ -1,0 +1,522 @@
+{
+  "word_pt_pessoa": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Etruscan/Greek",
+        "form": "phersu",
+        "period": "Ancient",
+        "meaning": "mask, actor"
+      },
+      {
+        "language": "Latin",
+        "form": "persona",
+        "period": "Classical",
+        "meaning": "mask, person"
+      },
+      {
+        "language": "Portuguese",
+        "form": "pessoa",
+        "period": "Medieval",
+        "meaning": "person"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "person",
+        "meaning": "person"
+      }
+    ],
+    "notes": "From Latin 'persona' (mask, character)."
+  },
+  "word_pt_crianca": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "creatura",
+        "period": "Classical",
+        "meaning": "creature, created being"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "criança",
+        "period": "Medieval",
+        "meaning": "child"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "creature",
+        "meaning": "created being"
+      }
+    ],
+    "notes": "From Latin 'creatura' (creature)."
+  },
+  "word_pt_casa": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "casa",
+        "period": "Classical",
+        "meaning": "hut, cottage"
+      },
+      {
+        "language": "Portuguese",
+        "form": "casa",
+        "period": "Medieval",
+        "meaning": "house"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'casa'."
+  },
+  "word_pt_agua": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "aqua",
+        "period": "Classical",
+        "meaning": "water"
+      },
+      {
+        "language": "Portuguese",
+        "form": "água",
+        "period": "Medieval",
+        "meaning": "water"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "aqua",
+        "meaning": "water"
+      }
+    ],
+    "notes": "From Latin 'aqua'."
+  },
+  "word_pt_comida": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "comedere",
+        "period": "Classical",
+        "meaning": "to eat"
+      },
+      {
+        "language": "Portuguese",
+        "form": "comida",
+        "period": "Medieval",
+        "meaning": "food"
+      }
+    ],
+    "cognates": [],
+    "notes": "Past participle of 'comer' (to eat)."
+  },
+  "word_pt_tempo": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "tempus",
+        "period": "Classical",
+        "meaning": "time, season"
+      },
+      {
+        "language": "Portuguese",
+        "form": "tempo",
+        "period": "Medieval",
+        "meaning": "time, weather"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "temporal",
+        "meaning": "of time"
+      }
+    ],
+    "notes": "From Latin 'tempus'. Means time and weather."
+  },
+  "word_pt_dia": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "dies",
+        "period": "Classical",
+        "meaning": "day"
+      },
+      {
+        "language": "Portuguese",
+        "form": "dia",
+        "period": "Medieval",
+        "meaning": "day"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'dies'."
+  },
+  "word_pt_ano": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "annus",
+        "period": "Classical",
+        "meaning": "year"
+      },
+      {
+        "language": "Portuguese",
+        "form": "ano",
+        "period": "Medieval",
+        "meaning": "year"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "annual",
+        "meaning": "yearly"
+      }
+    ],
+    "notes": "From Latin 'annus'."
+  },
+  "word_pt_mao": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "manus",
+        "period": "Classical",
+        "meaning": "hand"
+      },
+      {
+        "language": "Portuguese",
+        "form": "mão",
+        "period": "Medieval",
+        "meaning": "hand"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "manual",
+        "meaning": "by hand"
+      }
+    ],
+    "notes": "From Latin 'manus'."
+  },
+  "word_pt_olho": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "oculus",
+        "period": "Classical",
+        "meaning": "eye"
+      },
+      {
+        "language": "Portuguese",
+        "form": "olho",
+        "period": "Medieval",
+        "meaning": "eye"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "ocular",
+        "meaning": "of the eye"
+      }
+    ],
+    "notes": "From Latin 'oculus'."
+  },
+  "word_pt_cabeca": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "caput",
+        "period": "Classical",
+        "meaning": "head"
+      },
+      {
+        "language": "Vulgar Latin",
+        "form": "*capitia",
+        "period": "Late Latin",
+        "meaning": "head"
+      },
+      {
+        "language": "Portuguese",
+        "form": "cabeça",
+        "period": "Medieval",
+        "meaning": "head"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "capital",
+        "meaning": "head city"
+      }
+    ],
+    "notes": "From Latin 'caput'."
+  },
+  "word_pt_livro": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "liber",
+        "period": "Classical",
+        "meaning": "book"
+      },
+      {
+        "language": "Portuguese",
+        "form": "livro",
+        "period": "Medieval",
+        "meaning": "book"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "library",
+        "meaning": "book collection"
+      }
+    ],
+    "notes": "From Latin 'liber' (bark, book)."
+  },
+  "word_pt_porta": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "porta",
+        "period": "Classical",
+        "meaning": "gate, door"
+      },
+      {
+        "language": "Portuguese",
+        "form": "porta",
+        "period": "Medieval",
+        "meaning": "door"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "portal",
+        "meaning": "doorway"
+      }
+    ],
+    "notes": "From Latin 'porta'."
+  },
+  "word_pt_rua": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ruga",
+        "period": "Classical",
+        "meaning": "furrow, path"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "rua",
+        "period": "Medieval",
+        "meaning": "street"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'ruga' (furrow)."
+  },
+  "word_pt_cidade": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "civitas",
+        "period": "Classical",
+        "meaning": "city-state"
+      },
+      {
+        "language": "Portuguese",
+        "form": "cidade",
+        "period": "Medieval",
+        "meaning": "city"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "city",
+        "meaning": "city"
+      }
+    ],
+    "notes": "From Latin 'civitas'."
+  },
+  "word_pt_pais": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "pagus",
+        "period": "Classical",
+        "meaning": "country district"
+      },
+      {
+        "language": "Old French",
+        "form": "païs",
+        "period": "Medieval",
+        "meaning": "country"
+      },
+      {
+        "language": "Portuguese",
+        "form": "país",
+        "period": "16th century",
+        "meaning": "country"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "pays",
+        "meaning": "country"
+      }
+    ],
+    "notes": "Borrowed from Old French 'païs', ultimately from Latin 'pagus'."
+  },
+  "word_pt_escola": {
+    "languageOrigin": "Greek via Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Greek",
+        "form": "σχολή (scholē)",
+        "period": "Ancient",
+        "meaning": "leisure, school"
+      },
+      {
+        "language": "Latin",
+        "form": "schola",
+        "period": "Classical",
+        "meaning": "school"
+      },
+      {
+        "language": "Portuguese",
+        "form": "escola",
+        "period": "Medieval",
+        "meaning": "school"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "school",
+        "meaning": "school"
+      }
+    ],
+    "notes": "From Greek 'scholē' via Latin."
+  },
+  "word_pt_amigo": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "amicus",
+        "period": "Classical",
+        "meaning": "friend"
+      },
+      {
+        "language": "Portuguese",
+        "form": "amigo",
+        "period": "Medieval",
+        "meaning": "friend"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "amicable",
+        "meaning": "friendly"
+      }
+    ],
+    "notes": "From Latin 'amicus'."
+  },
+  "word_pt_familia": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "familia",
+        "period": "Classical",
+        "meaning": "household"
+      },
+      {
+        "language": "Portuguese",
+        "form": "família",
+        "period": "Medieval",
+        "meaning": "family"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "family",
+        "meaning": "family"
+      }
+    ],
+    "notes": "From Latin 'familia'."
+  },
+  "word_pt_nome": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "nomen",
+        "period": "Classical",
+        "meaning": "name"
+      },
+      {
+        "language": "Portuguese",
+        "form": "nome",
+        "period": "Medieval",
+        "meaning": "name"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "noun",
+        "meaning": "name word"
+      }
+    ],
+    "notes": "From Latin 'nomen'."
+  }
+}

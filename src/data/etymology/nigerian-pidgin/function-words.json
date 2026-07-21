@@ -1,0 +1,422 @@
+{
+  "word_pcm_i": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "I",
+        "period": "17th century",
+        "meaning": "I"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "i",
+        "period": "Modern",
+        "meaning": "I"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'I'."
+  },
+  "word_pcm_yu": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "you",
+        "period": "17th century",
+        "meaning": "you"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "yu",
+        "period": "Modern",
+        "meaning": "you"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'you'."
+  },
+  "word_pcm_am": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "him",
+        "period": "17th century",
+        "meaning": "he"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "am",
+        "period": "Modern",
+        "meaning": "he/she"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'him' used for both genders."
+  },
+  "word_pcm_im": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "him",
+        "period": "17th century",
+        "meaning": "him"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "im",
+        "period": "Modern",
+        "meaning": "he/she"
+      }
+    ],
+    "cognates": [],
+    "notes": "Variant of 'am'."
+  },
+  "word_pcm_we": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "we",
+        "period": "17th century",
+        "meaning": "we"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "we",
+        "period": "Modern",
+        "meaning": "we"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'we'."
+  },
+  "word_pcm_dem": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "them",
+        "period": "17th century",
+        "meaning": "they"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "dem",
+        "period": "Modern",
+        "meaning": "they"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'them'."
+  },
+  "word_pcm_dis": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "this",
+        "period": "17th century",
+        "meaning": "this"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "dis",
+        "period": "Modern",
+        "meaning": "this"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'this'."
+  },
+  "word_pcm_dat": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "that",
+        "period": "17th century",
+        "meaning": "that"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "dat",
+        "period": "Modern",
+        "meaning": "that"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'that'."
+  },
+  "word_pcm_wetin": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "what thing",
+        "period": "17th century",
+        "meaning": "what"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "wetin",
+        "period": "Modern",
+        "meaning": "what"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'what thing'."
+  },
+  "word_pcm_who": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "who",
+        "period": "17th century",
+        "meaning": "who"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "who",
+        "period": "Modern",
+        "meaning": "who"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'who'."
+  },
+  "word_pcm_wia": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "where",
+        "period": "17th century",
+        "meaning": "where"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "wia",
+        "period": "Modern",
+        "meaning": "where"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'where'."
+  },
+  "word_pcm_wen": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "when",
+        "period": "17th century",
+        "meaning": "when"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "wen",
+        "period": "Modern",
+        "meaning": "when"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'when'."
+  },
+  "word_pcm_why": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "why",
+        "period": "17th century",
+        "meaning": "why"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "why",
+        "period": "Modern",
+        "meaning": "why"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'why'."
+  },
+  "word_pcm_hau": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "how",
+        "period": "17th century",
+        "meaning": "how"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "hau",
+        "period": "Modern",
+        "meaning": "how"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'how'."
+  },
+  "word_pcm_and": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "and",
+        "period": "17th century",
+        "meaning": "and"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "and",
+        "period": "Modern",
+        "meaning": "and"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'and'."
+  },
+  "word_pcm_or": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "or",
+        "period": "17th century",
+        "meaning": "or"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "or",
+        "period": "Modern",
+        "meaning": "or"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'or'."
+  },
+  "word_pcm_but": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "but",
+        "period": "17th century",
+        "meaning": "but"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "but",
+        "period": "Modern",
+        "meaning": "but"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'but'."
+  },
+  "word_pcm_if": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "if",
+        "period": "17th century",
+        "meaning": "if"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "if",
+        "period": "Modern",
+        "meaning": "if"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'if'."
+  },
+  "word_pcm_bikos": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "because",
+        "period": "17th century",
+        "meaning": "because"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "bikos",
+        "period": "Modern",
+        "meaning": "because"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'because'."
+  },
+  "word_pcm_no": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "no",
+        "period": "17th century",
+        "meaning": "no"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "no",
+        "period": "Modern",
+        "meaning": "no"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'no'."
+  },
+  "word_pcm_yes": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "yes",
+        "period": "17th century",
+        "meaning": "yes"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "yes",
+        "period": "Modern",
+        "meaning": "yes"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'yes'."
+  }
+}

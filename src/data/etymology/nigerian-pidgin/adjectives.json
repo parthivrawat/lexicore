@@ -1,0 +1,402 @@
+{
+  "word_pcm_gud": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "good",
+        "period": "17th century",
+        "meaning": "good"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "gud",
+        "period": "Modern",
+        "meaning": "good"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'good'."
+  },
+  "word_pcm_bad": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "bad",
+        "period": "17th century",
+        "meaning": "bad"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "bad",
+        "period": "Modern",
+        "meaning": "bad"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'bad'."
+  },
+  "word_pcm_big": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "big",
+        "period": "17th century",
+        "meaning": "big"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "big",
+        "period": "Modern",
+        "meaning": "big"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'big'."
+  },
+  "word_pcm_smol": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "small",
+        "period": "17th century",
+        "meaning": "small"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "smol",
+        "period": "Modern",
+        "meaning": "small"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'small'."
+  },
+  "word_pcm_long": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "long",
+        "period": "17th century",
+        "meaning": "long"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "long",
+        "period": "Modern",
+        "meaning": "long"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'long'."
+  },
+  "word_pcm_short": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "short",
+        "period": "17th century",
+        "meaning": "short"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "short",
+        "period": "Modern",
+        "meaning": "short"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'short'."
+  },
+  "word_pcm_tall": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "tall",
+        "period": "17th century",
+        "meaning": "tall"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "tall",
+        "period": "Modern",
+        "meaning": "tall"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'tall'."
+  },
+  "word_pcm_low": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "low",
+        "period": "17th century",
+        "meaning": "low"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "low",
+        "period": "Modern",
+        "meaning": "low"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'low'."
+  },
+  "word_pcm_new": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "new",
+        "period": "17th century",
+        "meaning": "new"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "new",
+        "period": "Modern",
+        "meaning": "new"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'new'."
+  },
+  "word_pcm_old": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "old",
+        "period": "17th century",
+        "meaning": "old"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "old",
+        "period": "Modern",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'old'."
+  },
+  "word_pcm_young": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "young",
+        "period": "17th century",
+        "meaning": "young"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "young",
+        "period": "Modern",
+        "meaning": "young"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'young'."
+  },
+  "word_pcm_old_pesin": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "old person",
+        "period": "17th century",
+        "meaning": "old person"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "old pesin",
+        "period": "Modern",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'old person'."
+  },
+  "word_pcm_fain": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "fine",
+        "period": "17th century",
+        "meaning": "fine, beautiful"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "fain",
+        "period": "Modern",
+        "meaning": "beautiful"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'fine'."
+  },
+  "word_pcm_ugli": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "ugly",
+        "period": "17th century",
+        "meaning": "ugly"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "ugli",
+        "period": "Modern",
+        "meaning": "ugly"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'ugly'."
+  },
+  "word_pcm_hot": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "hot",
+        "period": "17th century",
+        "meaning": "hot"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "hot",
+        "period": "Modern",
+        "meaning": "hot"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'hot'."
+  },
+  "word_pcm_kold": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "cold",
+        "period": "17th century",
+        "meaning": "cold"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "kold",
+        "period": "Modern",
+        "meaning": "cold"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'cold'."
+  },
+  "word_pcm_fast": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "fast",
+        "period": "17th century",
+        "meaning": "fast"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "fast",
+        "period": "Modern",
+        "meaning": "fast"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'fast'."
+  },
+  "word_pcm_slow": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "slow",
+        "period": "17th century",
+        "meaning": "slow"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "slow",
+        "period": "Modern",
+        "meaning": "slow"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'slow'."
+  },
+  "word_pcm_izi": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "easy",
+        "period": "17th century",
+        "meaning": "easy"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "izi",
+        "period": "Modern",
+        "meaning": "easy"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'easy'."
+  },
+  "word_pcm_had": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "hard",
+        "period": "17th century",
+        "meaning": "hard, difficult"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "had",
+        "period": "Modern",
+        "meaning": "difficult"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'hard'."
+  }
+}

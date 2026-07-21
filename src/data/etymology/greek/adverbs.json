@@ -1,0 +1,308 @@
+{
+  "word_el_poly": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "πολύς (polys)",
+        "period": "Classical",
+        "meaning": "much, many"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "πολύ",
+        "period": "Modern",
+        "meaning": "very"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "poly",
+        "meaning": "many"
+      }
+    ],
+    "notes": "From Ancient Greek πολύς."
+  },
+  "word_episis": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἐπίσημος (episēmos)",
+        "period": "Classical",
+        "meaning": "notable, also?"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "επίσης",
+        "period": "Modern",
+        "meaning": "also"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ἐπίσης."
+  },
+  "word_el_monacho": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "μόνος (monos)",
+        "period": "Classical",
+        "meaning": "only, alone"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "μόνο",
+        "period": "Modern",
+        "meaning": "only"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek μόνος."
+  },
+  "word_el_panta": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "πάντα (panta)",
+        "period": "Classical",
+        "meaning": "always, all things"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "πάντα",
+        "period": "Modern",
+        "meaning": "always"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek πάντα."
+  },
+  "word_el_pote": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ποτέ (pote)",
+        "period": "Classical",
+        "meaning": "ever, never (with negative)"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "ποτέ",
+        "period": "Modern",
+        "meaning": "never"
+      }
+    ],
+    "cognates": [],
+    "notes": "With negative: never."
+  },
+  "word_el_kai_pote": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ποτε (pote)",
+        "period": "Classical",
+        "meaning": "at some time"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "καιρός",
+        "period": "Modern",
+        "meaning": "sometimes"
+      }
+    ],
+    "cognates": [],
+    "notes": "κάποτε (at some time) means sometimes."
+  },
+  "word_el_syxna": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "συχνός (sychvos)",
+        "period": "Classical",
+        "meaning": "frequent"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "συχνά",
+        "period": "Modern",
+        "meaning": "often"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek συχνός."
+  },
+  "word_el_tora": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "τῇ ὥρᾳ (tē hōra)",
+        "period": "Classical",
+        "meaning": "at this hour"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "τώρα",
+        "period": "Modern",
+        "meaning": "now"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek τῇ ὥρᾳ (at the hour)."
+  },
+  "word_el_argotera": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἀργότερον (argoteron)",
+        "period": "Classical",
+        "meaning": "later, more slowly"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "αργότερα",
+        "period": "Modern",
+        "meaning": "later"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ἀργότερον."
+  },
+  "word_el_xthes": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "χθές (chthes)",
+        "period": "Classical",
+        "meaning": "yesterday"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "χτες",
+        "period": "Modern",
+        "meaning": "yesterday"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek χθές."
+  },
+  "word_el_avrio": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "αὔριον (aurion)",
+        "period": "Classical",
+        "meaning": "tomorrow"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "αύριο",
+        "period": "Modern",
+        "meaning": "tomorrow"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek αὔριον."
+  },
+  "word_el_ide": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἤδη (ēdē)",
+        "period": "Classical",
+        "meaning": "already"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "ήδη",
+        "period": "Modern",
+        "meaning": "already"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ἤδη."
+  },
+  "word_el_akoma_ochi": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἄκμην (akmēn)",
+        "period": "Classical",
+        "meaning": "still"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "ακόμα όχι",
+        "period": "Modern",
+        "meaning": "not yet"
+      }
+    ],
+    "cognates": [],
+    "notes": "ακόμα (still) + όχι (no)."
+  },
+  "word_el_isos": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἴσως (isōs)",
+        "period": "Classical",
+        "meaning": "perhaps"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "ίσως",
+        "period": "Modern",
+        "meaning": "maybe"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ἴσως."
+  },
+  "word_el_vevaia": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "βέβαιος (bebaios)",
+        "period": "Classical",
+        "meaning": "certain, secure"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "βέβαια",
+        "period": "Modern",
+        "meaning": "certainly"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek βέβαιος."
+  }
+}

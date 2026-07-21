@@ -1,0 +1,456 @@
+{
+  "word_bn_manush": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "मनुष्य (manuṣya)",
+        "period": "Classical",
+        "meaning": "human"
+      },
+      {
+        "language": "Bengali",
+        "form": "মানুষ",
+        "period": "Modern",
+        "meaning": "person"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "मनुष्य",
+        "meaning": "human"
+      }
+    ],
+    "notes": "From Sanskrit मनुष्य."
+  },
+  "word_bn_bachcha": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वत्स (vatsa)",
+        "period": "Classical",
+        "meaning": "child, calf"
+      },
+      {
+        "language": "Bengali",
+        "form": "বাচ্চা",
+        "period": "Modern",
+        "meaning": "child"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Prakrit/vatsa. 'Baccha' means child."
+  },
+  "word_bn_bari": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वाटिका (vāṭikā)",
+        "period": "Classical",
+        "meaning": "enclosure, garden"
+      },
+      {
+        "language": "Bengali",
+        "form": "বাড়ি",
+        "period": "Modern",
+        "meaning": "house"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit वाटिका/वाटी."
+  },
+  "word_bn_jol": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "जल (jala)",
+        "period": "Vedic",
+        "meaning": "water"
+      },
+      {
+        "language": "Bengali",
+        "form": "জল",
+        "period": "Modern",
+        "meaning": "water"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "जल",
+        "meaning": "water"
+      }
+    ],
+    "notes": "From Sanskrit जल."
+  },
+  "word_bn_khabar": {
+    "languageOrigin": "Persian/Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "خبر (khabar)",
+        "period": "Classical",
+        "meaning": "news, food?"
+      },
+      {
+        "language": "Persian",
+        "form": "خوار (khvār)",
+        "period": "Medieval",
+        "meaning": "food"
+      },
+      {
+        "language": "Bengali",
+        "form": "খাবার",
+        "period": "Modern",
+        "meaning": "food"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian/Arabic 'khābar/khvār' meaning food."
+  },
+  "word_bn_somoy": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "समय (samaya)",
+        "period": "Vedic",
+        "meaning": "time, occasion"
+      },
+      {
+        "language": "Bengali",
+        "form": "সময়",
+        "period": "Modern",
+        "meaning": "time"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit समय."
+  },
+  "word_bn_din": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "दिन (dina)",
+        "period": "Vedic",
+        "meaning": "day"
+      },
+      {
+        "language": "Bengali",
+        "form": "দিন",
+        "period": "Modern",
+        "meaning": "day"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "दिन",
+        "meaning": "day"
+      }
+    ],
+    "notes": "From Sanskrit दिन."
+  },
+  "word_bn_bochor": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वर्ष (varṣa)",
+        "period": "Classical",
+        "meaning": "year, rain"
+      },
+      {
+        "language": "Bengali",
+        "form": "বছর",
+        "period": "Modern",
+        "meaning": "year"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit वर्ष."
+  },
+  "word_bn_hath": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "हस्त (hasta)",
+        "period": "Vedic",
+        "meaning": "hand"
+      },
+      {
+        "language": "Bengali",
+        "form": "হাত",
+        "period": "Modern",
+        "meaning": "hand"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "हाथ",
+        "meaning": "hand"
+      }
+    ],
+    "notes": "From Sanskrit हस्त."
+  },
+  "word_bn_chokh": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "चक्षु (cakṣu)",
+        "period": "Classical",
+        "meaning": "eye"
+      },
+      {
+        "language": "Bengali",
+        "form": "চোখ",
+        "period": "Modern",
+        "meaning": "eye"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "चाँख/चक्षु",
+        "meaning": "eye"
+      }
+    ],
+    "notes": "From Sanskrit चक्षु."
+  },
+  "word_bn_math": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "मस्तक (mastaka)",
+        "period": "Vedic",
+        "meaning": "head"
+      },
+      {
+        "language": "Bengali",
+        "form": "মাথা",
+        "period": "Modern",
+        "meaning": "head"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "माथा",
+        "meaning": "forehead/head"
+      }
+    ],
+    "notes": "From Sanskrit मस्तक."
+  },
+  "word_bn_boi": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पुस्तक (pustaka)",
+        "period": "Classical",
+        "meaning": "book"
+      },
+      {
+        "language": "Bengali",
+        "form": "বই",
+        "period": "Modern",
+        "meaning": "book"
+      }
+    ],
+    "cognates": [],
+    "notes": "Shortened from Sanskrit पुस्तक."
+  },
+  "word_bn_darja": {
+    "languageOrigin": "Persian/Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "در (dar)",
+        "period": "Medieval",
+        "meaning": "door"
+      },
+      {
+        "language": "Bengali",
+        "form": "দরজা",
+        "period": "Modern",
+        "meaning": "door"
+      }
+    ],
+    "cognates": [],
+    "notes": "Borrowed from Persian 'dar'."
+  },
+  "word_bn_rasta": {
+    "languageOrigin": "Sanskrit/Persian",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पथ (patha)",
+        "period": "Classical",
+        "meaning": "path"
+      },
+      {
+        "language": "Persian",
+        "form": "راسته (rāsta)",
+        "period": "Medieval",
+        "meaning": "road"
+      },
+      {
+        "language": "Bengali",
+        "form": "রাস্তা",
+        "period": "Modern",
+        "meaning": "street"
+      }
+    ],
+    "cognates": [],
+    "notes": "Borrowed from Persian 'rāsta' (road)."
+  },
+  "word_bn_shohor": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पुर (pura)",
+        "period": "Classical",
+        "meaning": "city, fortress"
+      },
+      {
+        "language": "Bengali",
+        "form": "শহর",
+        "period": "Modern",
+        "meaning": "city"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit पुर via Prakrit 'pura' > 'shohor'."
+  },
+  "word_bn_desh": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "देश (deśa)",
+        "period": "Classical",
+        "meaning": "region, country"
+      },
+      {
+        "language": "Bengali",
+        "form": "দেশ",
+        "period": "Modern",
+        "meaning": "country"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit देश."
+  },
+  "word_bn_bidyaloy": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "विद्यालय (vidyālaya)",
+        "period": "Classical",
+        "meaning": "school"
+      },
+      {
+        "language": "Bengali",
+        "form": "বিদ্যালয়",
+        "period": "Modern",
+        "meaning": "school"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit विद्या (knowledge) + आलय (abode)."
+  },
+  "word_bn_bondhu": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "बन्धु (bandhu)",
+        "period": "Classical",
+        "meaning": "relative, friend"
+      },
+      {
+        "language": "Bengali",
+        "form": "বন্ধু",
+        "period": "Modern",
+        "meaning": "friend"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit बन्धु."
+  },
+  "word_bn_poribar": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "परिवार (parivāra)",
+        "period": "Classical",
+        "meaning": "retinue, family"
+      },
+      {
+        "language": "Bengali",
+        "form": "পরিবার",
+        "period": "Modern",
+        "meaning": "family"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit परिवार."
+  },
+  "word_bn_naam": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "नामन् (nāman)",
+        "period": "Vedic",
+        "meaning": "name"
+      },
+      {
+        "language": "Bengali",
+        "form": "নাম",
+        "period": "Modern",
+        "meaning": "name"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "नाम",
+        "meaning": "name"
+      }
+    ],
+    "notes": "From Sanskrit नामन्."
+  }
+}

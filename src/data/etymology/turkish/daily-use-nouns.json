@@ -1,0 +1,408 @@
+{
+  "word_tr_kisi": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "kişi",
+        "period": "Old Turkic",
+        "meaning": "person"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "kişi",
+        "period": "Modern",
+        "meaning": "person"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Turkic *kiši."
+  },
+  "word_tr_cocuk": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "çočuk",
+        "period": "Old Turkic",
+        "meaning": "child"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "çocuk",
+        "period": "Modern",
+        "meaning": "child"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic çočuk."
+  },
+  "word_tr_ev": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "ev",
+        "period": "Old Turkic",
+        "meaning": "house"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "ev",
+        "period": "Modern",
+        "meaning": "house"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *ēw."
+  },
+  "word_tr_su": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "su",
+        "period": "Old Turkic",
+        "meaning": "water"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "su",
+        "period": "Modern",
+        "meaning": "water"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *sub."
+  },
+  "word_tr_yemek_noun": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "yemek",
+        "period": "Old Turkic",
+        "meaning": "food, eating"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "yemek",
+        "period": "Modern",
+        "meaning": "food"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same as verb 'to eat'."
+  },
+  "word_tr_zaman": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "زمان (zamān)",
+        "period": "Classical",
+        "meaning": "time"
+      },
+      {
+        "language": "Ottoman Turkish",
+        "form": "zaman",
+        "period": "Medieval",
+        "meaning": "time"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic zamān."
+  },
+  "word_tr_gun": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "kün",
+        "period": "Old Turkic",
+        "meaning": "day, sun"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "gün",
+        "period": "Modern",
+        "meaning": "day"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *gün."
+  },
+  "word_tr_yil": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "yıl",
+        "period": "Old Turkic",
+        "meaning": "year"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "yıl",
+        "period": "Modern",
+        "meaning": "year"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic yıl."
+  },
+  "word_tr_el": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "äl",
+        "period": "Old Turkic",
+        "meaning": "hand"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "el",
+        "period": "Modern",
+        "meaning": "hand"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *él."
+  },
+  "word_tr_goz": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "göz",
+        "period": "Old Turkic",
+        "meaning": "eye"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "göz",
+        "period": "Modern",
+        "meaning": "eye"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *göz."
+  },
+  "word_tr_bash": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "baş",
+        "period": "Old Turkic",
+        "meaning": "head"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "baş",
+        "period": "Modern",
+        "meaning": "head"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *baš."
+  },
+  "word_tr_kitap": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "كتاب (kitāb)",
+        "period": "Classical",
+        "meaning": "book"
+      },
+      {
+        "language": "Ottoman Turkish",
+        "form": "kitap",
+        "period": "Medieval",
+        "meaning": "book"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic kitāb."
+  },
+  "word_tr_kapi": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "qapï",
+        "period": "Old Turkic",
+        "meaning": "door, gate"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "kapı",
+        "period": "Modern",
+        "meaning": "door"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *kapï."
+  },
+  "word_tr_sokak": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "زقاق (zuqāq)",
+        "period": "Classical",
+        "meaning": "alley, street"
+      },
+      {
+        "language": "Ottoman Turkish",
+        "form": "sokak",
+        "period": "Medieval",
+        "meaning": "street"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic zuqāq."
+  },
+  "word_tr_sehir": {
+    "languageOrigin": "Persian/Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "شهر (šahr)",
+        "period": "Medieval",
+        "meaning": "city"
+      },
+      {
+        "language": "Ottoman Turkish",
+        "form": "şehir",
+        "period": "Medieval",
+        "meaning": "city"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian šahr."
+  },
+  "word_tr_ulke": {
+    "languageOrigin": "Old French/Turkish",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Old French",
+        "form": "païs",
+        "period": "Medieval",
+        "meaning": "country"
+      },
+      {
+        "language": "Ottoman Turkish",
+        "form": "ülke",
+        "period": "Medieval",
+        "meaning": "country"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'el' + -lik? Actually 'ülke' from Oghuz 'ülk'."
+  },
+  "word_tr_okul": {
+    "languageOrigin": "Greek/French",
+    "yearOfOrigin": "19th century",
+    "timeline": [
+      {
+        "language": "Greek",
+        "form": "σχολή (scholē)",
+        "period": "Ancient",
+        "meaning": "school"
+      },
+      {
+        "language": "French",
+        "form": "école",
+        "period": "Modern",
+        "meaning": "school"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "okul",
+        "period": "Modern",
+        "meaning": "school"
+      }
+    ],
+    "cognates": [],
+    "notes": "From French école/école, altered to Turkish morphology."
+  },
+  "word_tr_arkadas": {
+    "languageOrigin": "Persian/Turkic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "یار (yār)",
+        "period": "Medieval",
+        "meaning": "friend"
+      },
+      {
+        "language": "Ottoman Turkish",
+        "form": "arkadaş",
+        "period": "Medieval",
+        "meaning": "companion"
+      }
+    ],
+    "cognates": [],
+    "notes": "ark (back) + -daş (sharer/companion)."
+  },
+  "word_tr_aile": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "عائلة (ʿāʾila)",
+        "period": "Classical",
+        "meaning": "family"
+      },
+      {
+        "language": "Ottoman Turkish",
+        "form": "aile",
+        "period": "Medieval",
+        "meaning": "family"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic ʿāʾila."
+  },
+  "word_tr_isim": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "اسم (ism)",
+        "period": "Classical",
+        "meaning": "name"
+      },
+      {
+        "language": "Ottoman Turkish",
+        "form": "isim",
+        "period": "Medieval",
+        "meaning": "name"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic ism."
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "word_tr_sifir": {
+    "languageOrigin": "Arabic/Italian",
+    "yearOfOrigin": "c. 9th century",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "صفر (ṣifr)",
+        "period": "9th century",
+        "meaning": "zero"
+      },
+      {
+        "language": "Ottoman Turkish",
+        "form": "sıfır",
+        "period": "Medieval",
+        "meaning": "zero"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic ṣifr."
+  },
+  "word_tr_bir": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "bir",
+        "period": "Old Turkic",
+        "meaning": "one"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "bir",
+        "period": "Modern",
+        "meaning": "one"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *bir."
+  },
+  "word_tr_iki": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "iki",
+        "period": "Old Turkic",
+        "meaning": "two"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "iki",
+        "period": "Modern",
+        "meaning": "two"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *ékí."
+  },
+  "word_tr_uc": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "üç",
+        "period": "Old Turkic",
+        "meaning": "three"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "üç",
+        "period": "Modern",
+        "meaning": "three"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *üč."
+  },
+  "word_tr_dort": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "tört",
+        "period": "Old Turkic",
+        "meaning": "four"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "dört",
+        "period": "Modern",
+        "meaning": "four"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *dört."
+  },
+  "word_tr_bes": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "beş",
+        "period": "Old Turkic",
+        "meaning": "five"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "beş",
+        "period": "Modern",
+        "meaning": "five"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *beš."
+  },
+  "word_tr_alti": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "altı",
+        "period": "Old Turkic",
+        "meaning": "six"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "altı",
+        "period": "Modern",
+        "meaning": "six"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *altï."
+  },
+  "word_tr_yedi": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "yeti",
+        "period": "Old Turkic",
+        "meaning": "seven"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "yedi",
+        "period": "Modern",
+        "meaning": "seven"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *yétí."
+  },
+  "word_tr_sekiz": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "sekiz",
+        "period": "Old Turkic",
+        "meaning": "eight"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "sekiz",
+        "period": "Modern",
+        "meaning": "eight"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *sekiz."
+  },
+  "word_tr_dokuz": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "tokuz",
+        "period": "Old Turkic",
+        "meaning": "nine"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "dokuz",
+        "period": "Modern",
+        "meaning": "nine"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *tokuz."
+  },
+  "word_tr_on": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "on",
+        "period": "Old Turkic",
+        "meaning": "ten"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "on",
+        "period": "Modern",
+        "meaning": "ten"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *ón."
+  },
+  "word_tr_yuz": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "yüz",
+        "period": "Old Turkic",
+        "meaning": "hundred"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "yüz",
+        "period": "Modern",
+        "meaning": "hundred"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *yüz."
+  },
+  "word_tr_bin": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "biñ",
+        "period": "Old Turkic",
+        "meaning": "thousand"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "bin",
+        "period": "Modern",
+        "meaning": "thousand"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *biŋ."
+  },
+  "word_tr_milyon": {
+    "languageOrigin": "Italian/French",
+    "yearOfOrigin": "c. 14th century",
+    "timeline": [
+      {
+        "language": "Italian",
+        "form": "milione",
+        "period": "13th century",
+        "meaning": "million"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "milyon",
+        "period": "Modern",
+        "meaning": "million"
+      }
+    ],
+    "cognates": [],
+    "notes": "Borrowed from Italian/French."
+  },
+  "word_tr_yarim": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "yarım",
+        "period": "Old Turkic",
+        "meaning": "half"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "yarım",
+        "period": "Modern",
+        "meaning": "half"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *yarım."
+  }
+}

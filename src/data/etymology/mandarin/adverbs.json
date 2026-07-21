@@ -1,0 +1,230 @@
+{
+  "word_zh_hen": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "很",
+        "period": "Zhou dynasty",
+        "meaning": "very, very much"
+      },
+      {
+        "language": "Mandarin",
+        "form": "很",
+        "period": "Modern",
+        "meaning": "very"
+      }
+    ],
+    "cognates": [],
+    "notes": "Person 彳 + 艮 (stopping). Originally 'to violate', now common adverb 'very'."
+  },
+  "word_zh_ye": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "也",
+        "period": "Zhou dynasty",
+        "meaning": "also, final particle"
+      },
+      {
+        "language": "Mandarin",
+        "form": "也",
+        "period": "Modern",
+        "meaning": "also"
+      }
+    ],
+    "cognates": [],
+    "notes": "Ancient final particle and adverb 'also'. Pictograph of a snake."
+  },
+  "word_zh_zhi": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "只",
+        "period": "Zhou dynasty",
+        "meaning": "only, single"
+      },
+      {
+        "language": "Mandarin",
+        "form": "只",
+        "period": "Modern",
+        "meaning": "only"
+      }
+    ],
+    "cognates": [],
+    "notes": "Originally a bird claw holding one thing. Means 'only'."
+  },
+  "word_zh_zongshi": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "总是",
+        "period": "Modern",
+        "meaning": "always"
+      }
+    ],
+    "cognates": [],
+    "notes": "总 (gather, always) + 是 (is). Modern compound meaning 'always'."
+  },
+  "word_zh_congbu": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "从不",
+        "period": "Modern",
+        "meaning": "never"
+      }
+    ],
+    "cognates": [],
+    "notes": "从 (from/follow) + 不 (not). 'From not', i.e., never."
+  },
+  "word_zh_you_shihou": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "有时候",
+        "period": "Modern",
+        "meaning": "sometimes"
+      }
+    ],
+    "cognates": [],
+    "notes": "有 (have) + 时候 (time). 'There are times when'."
+  },
+  "word_zh_jingchang": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "经常",
+        "period": "Modern",
+        "meaning": "often"
+      }
+    ],
+    "cognates": [],
+    "notes": "经 (pass through) + 常 (constant). 'Frequently, constantly'."
+  },
+  "word_zh_xianzai": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "现在",
+        "period": "Modern",
+        "meaning": "now"
+      }
+    ],
+    "cognates": [],
+    "notes": "现 (present) + 在 (at). 'Presently at', i.e., now."
+  },
+  "word_zh_yihou": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "以后",
+        "period": "Modern",
+        "meaning": "later"
+      }
+    ],
+    "cognates": [],
+    "notes": "以 (with/after) + 后 (behind). 'After behind', i.e., later."
+  },
+  "word_zh_zuotian": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "昨天",
+        "period": "Modern",
+        "meaning": "yesterday"
+      }
+    ],
+    "cognates": [],
+    "notes": "昨 (past) + 天 (day). 'Past day'."
+  },
+  "word_zh_mingtian": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "明天",
+        "period": "Modern",
+        "meaning": "tomorrow"
+      }
+    ],
+    "cognates": [],
+    "notes": "明 (bright) + 天 (day). 'Bright day', i.e., tomorrow."
+  },
+  "word_zh_yijing": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "已经",
+        "period": "Modern",
+        "meaning": "already"
+      }
+    ],
+    "cognates": [],
+    "notes": "已 (already) + 经 (pass through). 'Already passed through'."
+  },
+  "word_zh_hai_mei": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "还没",
+        "period": "Modern",
+        "meaning": "not yet"
+      }
+    ],
+    "cognates": [],
+    "notes": "还 (still) + 没 (not have). 'Still not have'."
+  },
+  "word_zh_yexu": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "也许",
+        "period": "Modern",
+        "meaning": "maybe"
+      }
+    ],
+    "cognates": [],
+    "notes": "也 (also) + 许 (allow). 'Perhaps allow'."
+  },
+  "word_zh_ken ding": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "肯定",
+        "period": "Modern",
+        "meaning": "certainly"
+      }
+    ],
+    "cognates": [],
+    "notes": "肯 (willing) + 定 (settle). 'Affirm, confirm'."
+  }
+}

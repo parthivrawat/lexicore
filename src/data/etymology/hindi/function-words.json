@@ -1,0 +1,338 @@
+{
+  "word_hi_main": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "मम (mama)",
+        "period": "Vedic",
+        "meaning": "my, me"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "me",
+        "meaning": "me"
+      }
+    ],
+    "notes": "From Sanskrit. PIE root *me- (me). Means 'I/me'."
+  },
+  "word_hi_tum": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "त्वम् (tvam)",
+        "period": "Vedic",
+        "meaning": "you"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "tu",
+        "meaning": "you"
+      }
+    ],
+    "notes": "From Sanskrit त्वम्. PIE root *túh₂ (you). Informal 'you'."
+  },
+  "word_hi_aap": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "आत्मन् (ātman)",
+        "period": "Classical",
+        "meaning": "self"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit आत्मन् (ātman, self). Honorific 'you'."
+  },
+  "word_hi_vah": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "स (sa)",
+        "period": "Vedic",
+        "meaning": "he, that"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit demonstrative स. Means 'he/she/that'."
+  },
+  "word_hi_hum": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वयम् (vayam)",
+        "period": "Vedic",
+        "meaning": "we"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "we",
+        "meaning": "we"
+      }
+    ],
+    "notes": "From Sanskrit वयम्. PIE root *wéy (we). Means 'we'."
+  },
+  "word_hi_ve": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "ते (te)",
+        "period": "Vedic",
+        "meaning": "they, those"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit demonstrative ते. Means 'they'."
+  },
+  "word_hi_yah": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अयम् (ayam)",
+        "period": "Vedic",
+        "meaning": "this"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit demonstrative अयम्. Means 'this'."
+  },
+  "word_hi_vah_alt": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "स (sa)",
+        "period": "Vedic",
+        "meaning": "that"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same as वह. Means 'that'."
+  },
+  "word_hi_kya": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "किम् (kim)",
+        "period": "Vedic",
+        "meaning": "what"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "quid",
+        "meaning": "what"
+      }
+    ],
+    "notes": "From Sanskrit किम्. PIE root *kʷid (what). Means 'what'."
+  },
+  "word_hi_kaun": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कः (kaḥ)",
+        "period": "Classical",
+        "meaning": "who"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit interrogative कः. Means 'who'."
+  },
+  "word_hi_kahaan": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कुत्र (kutra)",
+        "period": "Classical",
+        "meaning": "where"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit कुत्र (kutra). Means 'where'."
+  },
+  "word_hi_kab": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कदा (kadā)",
+        "period": "Classical",
+        "meaning": "when"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit कदा (kadā). Means 'when'."
+  },
+  "word_hi_kyon": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "किम् (kim)",
+        "period": "Classical",
+        "meaning": "what, why"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit किम्. Means 'why'."
+  },
+  "word_hi_kaise": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कथम् (katham)",
+        "period": "Classical",
+        "meaning": "how"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit कथम् (katham). Means 'how'."
+  },
+  "word_hi_aur": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अन्य (anya)",
+        "period": "Classical",
+        "meaning": "other, and"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit अन्य (anya, other). Means 'and'."
+  },
+  "word_hi_ya": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वा (vā)",
+        "period": "Vedic",
+        "meaning": "or"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit वा (vā). Means 'or'."
+  },
+  "word_hi_lekin": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "لیکن (lēkin)",
+        "period": "Medieval",
+        "meaning": "but"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Urdu",
+        "word": "لیکن",
+        "meaning": "but"
+      }
+    ],
+    "notes": "Borrowed from Persian. Means 'but'."
+  },
+  "word_hi_agar": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "اگر (agar)",
+        "period": "Medieval",
+        "meaning": "if"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Urdu",
+        "word": "اگر",
+        "meaning": "if"
+      }
+    ],
+    "notes": "Borrowed from Persian. Means 'if'."
+  },
+  "word_hi_kyonki": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "किम् (kim)",
+        "period": "Classical",
+        "meaning": "what"
+      }
+    ],
+    "cognates": [],
+    "notes": "क्योंकि from किम् + कि. Means 'because'."
+  },
+  "word_hi_nahi": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "न (na)",
+        "period": "Vedic",
+        "meaning": "not, no"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "ne",
+        "meaning": "not"
+      }
+    ],
+    "notes": "From Sanskrit न (na). PIE root *ne (not). Means 'no/not'."
+  },
+  "word_hi_haan": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "हन् (han)",
+        "period": "Classical",
+        "meaning": "indeed, yes"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit. Affirmative particle. Means 'yes'."
+  }
+}

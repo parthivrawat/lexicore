@@ -1,0 +1,527 @@
+{
+  "word_de_person": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "persona",
+        "period": "Classical",
+        "meaning": "person, mask"
+      },
+      {
+        "language": "German",
+        "form": "Person",
+        "period": "Modern",
+        "meaning": "person"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "person",
+        "meaning": "person"
+      }
+    ],
+    "notes": "Borrowed from Latin 'persona'."
+  },
+  "word_de_kind": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*kindą",
+        "period": "c. 500 BCE",
+        "meaning": "child"
+      },
+      {
+        "language": "Old High German",
+        "form": "kind",
+        "period": "8th century",
+        "meaning": "child"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "kid",
+        "meaning": "child"
+      }
+    ],
+    "notes": "PIE *ǵenh₁-ti- (to beget)."
+  },
+  "word_de_haus": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*hūsą",
+        "period": "c. 500 BCE",
+        "meaning": "house"
+      },
+      {
+        "language": "Old High German",
+        "form": "hūs",
+        "period": "8th century",
+        "meaning": "house"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "house",
+        "meaning": "house"
+      }
+    ],
+    "notes": "Of uncertain PIE origin."
+  },
+  "word_de_wasser": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*watarą",
+        "period": "c. 500 BCE",
+        "meaning": "water"
+      },
+      {
+        "language": "Old High German",
+        "form": "wazzar",
+        "period": "8th century",
+        "meaning": "water"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "water",
+        "meaning": "water"
+      }
+    ],
+    "notes": "PIE *wódr̥."
+  },
+  "word_de_essen": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*etuną",
+        "period": "c. 500 BCE",
+        "meaning": "food"
+      },
+      {
+        "language": "Old High German",
+        "form": "azzan",
+        "period": "8th century",
+        "meaning": "food, eating"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "food",
+        "meaning": "food"
+      }
+    ],
+    "notes": "Neuter noun from the verb 'essen'."
+  },
+  "word_de_zeit": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*tīdiz",
+        "period": "c. 500 BCE",
+        "meaning": "time"
+      },
+      {
+        "language": "Old High German",
+        "form": "zīt",
+        "period": "8th century",
+        "meaning": "time"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "tide",
+        "meaning": "time"
+      }
+    ],
+    "notes": "PIE *dī- (to divide)."
+  },
+  "word_de_tag": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*dagaz",
+        "period": "c. 500 BCE",
+        "meaning": "day"
+      },
+      {
+        "language": "Old High German",
+        "form": "tag",
+        "period": "8th century",
+        "meaning": "day"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "day",
+        "meaning": "day"
+      }
+    ],
+    "notes": "PIE *dʰeǵʰ- (to burn, day)."
+  },
+  "word_de_jahr": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*jērą",
+        "period": "c. 500 BCE",
+        "meaning": "year"
+      },
+      {
+        "language": "Old High German",
+        "form": "jār",
+        "period": "8th century",
+        "meaning": "year"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "year",
+        "meaning": "year"
+      }
+    ],
+    "notes": "PIE *yeh₁r- (year)."
+  },
+  "word_de_hand": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*handuz",
+        "period": "c. 500 BCE",
+        "meaning": "hand"
+      },
+      {
+        "language": "Old High German",
+        "form": "hant",
+        "period": "8th century",
+        "meaning": "hand"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "hand",
+        "meaning": "hand"
+      }
+    ],
+    "notes": "PIE *ḱón-tu-?"
+  },
+  "word_de_auge": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*augą",
+        "period": "c. 500 BCE",
+        "meaning": "eye"
+      },
+      {
+        "language": "Old High German",
+        "form": "ouga",
+        "period": "8th century",
+        "meaning": "eye"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "eye",
+        "meaning": "eye"
+      }
+    ],
+    "notes": "PIE *h₃ókʷ- (eye)."
+  },
+  "word_de_kopf": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*kuppaz",
+        "period": "c. 500 BCE",
+        "meaning": "cup, head"
+      },
+      {
+        "language": "Old High German",
+        "form": "kupf",
+        "period": "8th century",
+        "meaning": "head"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "cup",
+        "meaning": "cup"
+      }
+    ],
+    "notes": "From Latin 'cuppa' (cup) via Germanic, meaning 'head' from cup-shape."
+  },
+  "word_de_buch": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*bōks",
+        "period": "c. 500 BCE",
+        "meaning": "beech, book"
+      },
+      {
+        "language": "Old High German",
+        "form": "buoh",
+        "period": "8th century",
+        "meaning": "book"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "book",
+        "meaning": "book"
+      },
+      {
+        "language": "English",
+        "word": "beech",
+        "meaning": "tree"
+      }
+    ],
+    "notes": "From 'beech' wood used for writing tablets."
+  },
+  "word_de_tur": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*durz",
+        "period": "c. 500 BCE",
+        "meaning": "door"
+      },
+      {
+        "language": "Old High German",
+        "form": "turi",
+        "period": "8th century",
+        "meaning": "door"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "door",
+        "meaning": "door"
+      }
+    ],
+    "notes": "PIE *dʰwer- (door)."
+  },
+  "word_de_strasse": {
+    "languageOrigin": "Late Latin",
+    "yearOfOrigin": "c. 9th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "strata (via)",
+        "period": "Classical",
+        "meaning": "paved (road)"
+      },
+      {
+        "language": "Old High German",
+        "form": "strāza",
+        "period": "9th century",
+        "meaning": "street"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "street",
+        "meaning": "street"
+      }
+    ],
+    "notes": "From Latin 'strata via' (paved way)."
+  },
+  "word_de_stadt": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*stadiz",
+        "period": "c. 500 BCE",
+        "meaning": "place, town"
+      },
+      {
+        "language": "Old High German",
+        "form": "stat",
+        "period": "8th century",
+        "meaning": "place, city"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "stead",
+        "meaning": "place"
+      }
+    ],
+    "notes": "PIE *stéh₂tis (standing, place)."
+  },
+  "word_de_land": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*landą",
+        "period": "c. 500 BCE",
+        "meaning": "land"
+      },
+      {
+        "language": "Old High German",
+        "form": "lant",
+        "period": "8th century",
+        "meaning": "land"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "land",
+        "meaning": "land"
+      }
+    ],
+    "notes": "PIE *lendʰ- (land, heath)."
+  },
+  "word_de_schule": {
+    "languageOrigin": "Greek/Latin",
+    "yearOfOrigin": "c. 9th century",
+    "timeline": [
+      {
+        "language": "Greek",
+        "form": "σχολή (scholē)",
+        "period": "Ancient",
+        "meaning": "leisure, school"
+      },
+      {
+        "language": "German",
+        "form": "Schule",
+        "period": "9th century",
+        "meaning": "school"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "school",
+        "meaning": "school"
+      }
+    ],
+    "notes": "From Latin 'schola' via Greek."
+  },
+  "word_de_freund": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*frijōndz",
+        "period": "c. 500 BCE",
+        "meaning": "friend"
+      },
+      {
+        "language": "Old High German",
+        "form": "friunt",
+        "period": "8th century",
+        "meaning": "friend"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "friend",
+        "meaning": "friend"
+      }
+    ],
+    "notes": "From *frijōną (to love). PIE *prih₂- (dear)."
+  },
+  "word_de_familie": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "familia",
+        "period": "Classical",
+        "meaning": "household"
+      },
+      {
+        "language": "German",
+        "form": "Familie",
+        "period": "Modern",
+        "meaning": "family"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "family",
+        "meaning": "family"
+      }
+    ],
+    "notes": "Borrowed from Latin 'familia'."
+  },
+  "word_de_name": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*namô",
+        "period": "c. 500 BCE",
+        "meaning": "name"
+      },
+      {
+        "language": "Old High German",
+        "form": "namo",
+        "period": "8th century",
+        "meaning": "name"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "name",
+        "meaning": "name"
+      }
+    ],
+    "notes": "PIE *h₁nómn̥."
+  }
+}

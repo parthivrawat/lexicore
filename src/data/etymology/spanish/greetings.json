@@ -1,0 +1,376 @@
+{
+  "word_es_hola": {
+    "languageOrigin": "Spanish",
+    "yearOfOrigin": "c. 11th-13th century",
+    "timeline": [
+      {
+        "language": "Old Spanish",
+        "form": "hola",
+        "period": "13th century",
+        "meaning": "hello"
+      },
+      {
+        "language": "Modern Spanish",
+        "form": "hola",
+        "period": "Present",
+        "meaning": "hello"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Portuguese",
+        "word": "olá",
+        "meaning": "hello"
+      },
+      {
+        "language": "English",
+        "word": "hello",
+        "meaning": "hello"
+      }
+    ],
+    "notes": "Of uncertain origin; possibly from Germanic 'hola!' (call) or expressive interjection."
+  },
+  "word_es_buenos_dias": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "bonus dies",
+        "period": "Classical",
+        "meaning": "good day"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "buenos días",
+        "period": "Medieval",
+        "meaning": "good day/morning"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Italian",
+        "word": "buongiorno",
+        "meaning": "good morning"
+      },
+      {
+        "language": "French",
+        "word": "bonjour",
+        "meaning": "good day"
+      }
+    ],
+    "notes": "From Latin 'bonus dies' (good day). Plural 'días' by analogy with other greetings."
+  },
+  "word_es_adios": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ad deum",
+        "period": "Classical",
+        "meaning": "to God"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "a Dios",
+        "period": "Medieval",
+        "meaning": "to God (farewell)"
+      },
+      {
+        "language": "Modern Spanish",
+        "form": "adiós",
+        "period": "Present",
+        "meaning": "goodbye"
+      }
+    ],
+    "cognates": [],
+    "notes": "Shortened from 'a Dios' (to God), originally a blessing like 'God be with you'."
+  },
+  "word_es_gracias": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "gratias",
+        "period": "Classical",
+        "meaning": "thanks, gratitude"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "gracias",
+        "period": "Medieval",
+        "meaning": "thanks"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Italian",
+        "word": "grazie",
+        "meaning": "thank you"
+      },
+      {
+        "language": "French",
+        "word": "grâces",
+        "meaning": "thanks"
+      }
+    ],
+    "notes": "From Latin 'gratias (agere)' (to give thanks). Related to 'gratis' and 'grace'."
+  },
+  "word_es_por_favor": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "pro favor",
+        "period": "Classical",
+        "meaning": "for favor"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "por favor",
+        "period": "Medieval",
+        "meaning": "please"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Portuguese",
+        "word": "por favor",
+        "meaning": "please"
+      }
+    ],
+    "notes": "Literally 'for favor'. From Latin 'pro' + 'favor'."
+  },
+  "word_es_de_nada": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Old Spanish",
+        "form": "de nada",
+        "period": "Medieval",
+        "meaning": "of nothing"
+      },
+      {
+        "language": "Modern Spanish",
+        "form": "de nada",
+        "period": "Present",
+        "meaning": "you're welcome"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'of nothing' or 'it was nothing'."
+  },
+  "word_es_lo_siento": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sentire",
+        "period": "Classical",
+        "meaning": "to feel"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "lo siento",
+        "period": "Medieval",
+        "meaning": "I feel it (sorry)"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'sentire' (to feel). Literally 'I feel it'."
+  },
+  "word_es_no_importa": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "importare",
+        "period": "Classical",
+        "meaning": "to be important, to import"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "no importa",
+        "period": "Medieval",
+        "meaning": "it doesn't matter"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'it does not import/matter'. From Latin 'importare'."
+  },
+  "word_es_hasta_luego": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ad ista hora",
+        "period": "Classical",
+        "meaning": "until that hour"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "hasta luego",
+        "period": "Medieval",
+        "meaning": "until then/later"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'until later'. 'Hasta' from Latin 'ad ista' (until that)."
+  },
+  "word_es_nos_vemos": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "videre",
+        "period": "Classical",
+        "meaning": "to see"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "nos vemos",
+        "period": "Medieval",
+        "meaning": "we see each other"
+      }
+    ],
+    "cognates": [],
+    "notes": "Reflexive phrase: 'we see each other'. From Latin 'vidēre'."
+  },
+  "word_es_como_estas": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quomodo stas",
+        "period": "Classical",
+        "meaning": "how you stand"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "¿cómo estás?",
+        "period": "Medieval",
+        "meaning": "how are you"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Italian",
+        "word": "come stai",
+        "meaning": "how are you"
+      }
+    ],
+    "notes": "From Latin 'quomodo stas' (how do you stand). 'Estar' from Latin 'stare'."
+  },
+  "word_es_estoy_bien": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sto bene",
+        "period": "Classical",
+        "meaning": "I stand well"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "estoy bien",
+        "period": "Medieval",
+        "meaning": "I am well"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'stare' (to stand) and 'bene' (well). 'Bien' from 'bene'."
+  },
+  "word_es_buenas_noches": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "bona nox",
+        "period": "Classical",
+        "meaning": "good night"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "buenas noches",
+        "period": "Medieval",
+        "meaning": "good night"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Italian",
+        "word": "buonanotte",
+        "meaning": "good night"
+      },
+      {
+        "language": "French",
+        "word": "bonne nuit",
+        "meaning": "good night"
+      }
+    ],
+    "notes": "From Latin 'bona nox'. 'Noche' from 'nox, noctis'."
+  },
+  "word_es_bienvenido": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "bene venire",
+        "period": "Classical",
+        "meaning": "to come well"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "bienvenido",
+        "period": "Medieval",
+        "meaning": "welcome"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "welcome",
+        "meaning": "welcome"
+      }
+    ],
+    "notes": "Past participle of 'bienvenido' (well come)."
+  },
+  "word_es_perdon": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "perdonare",
+        "period": "Late Latin",
+        "meaning": "to forgive"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "perdón",
+        "period": "Medieval",
+        "meaning": "pardon"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "pardon",
+        "meaning": "pardon"
+      }
+    ],
+    "notes": "From Latin 'perdonare' (to give completely, forgive)."
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "word_hi_vyakti": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "व्यक्ति (vyakti)",
+        "period": "Classical",
+        "meaning": "person, individual"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit वि (vi, apart) + अञ्ज् (añj, to manifest)."
+  },
+  "word_hi_bachcha": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वत्स (vatsa)",
+        "period": "Classical",
+        "meaning": "child, calf"
+      },
+      {
+        "language": "Prakrit",
+        "form": "बच्च",
+        "period": "Medieval",
+        "meaning": "child"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit वत्स (vatsa). Affectionate term."
+  },
+  "word_hi_ghar": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "गृह (gṛha)",
+        "period": "Vedic",
+        "meaning": "house"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit गृह (gṛha). Related to 'grihast' (householder)."
+  },
+  "word_hi_paani": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पानीय (pānīya)",
+        "period": "Vedic",
+        "meaning": "drinkable, water"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit पा (pā, to drink) + suffix."
+  },
+  "word_hi_khaana": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "खाद्य (khādya)",
+        "period": "Vedic",
+        "meaning": "edible, food"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit खाद् (khād, to eat). Noun form of verb."
+  },
+  "word_hi_samay": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "समय (samaya)",
+        "period": "Classical",
+        "meaning": "time, agreement"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit सम् (sam, together) + इ (i, to go)."
+  },
+  "word_hi_din": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "दिन (dina)",
+        "period": "Vedic",
+        "meaning": "day"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "dies",
+        "meaning": "day"
+      }
+    ],
+    "notes": "From Sanskrit दिन (dina). PIE root *dyew- (to shine)."
+  },
+  "word_hi_saal": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "शाल (śāla)",
+        "period": "Classical",
+        "meaning": "year"
+      }
+    ],
+    "cognates": [],
+    "notes": "Borrowed from Persian سال (sāl). Sanskrit equivalent is वर्ष (varṣa)."
+  },
+  "word_hi_haath": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "हस्त (hasta)",
+        "period": "Vedic",
+        "meaning": "hand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit हस्त (hasta). Related to 'hasta mudra' (hand gesture)."
+  },
+  "word_hi_aankh": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अक्षि (akṣi)",
+        "period": "Vedic",
+        "meaning": "eye"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "oculus",
+        "meaning": "eye"
+      }
+    ],
+    "notes": "From Sanskrit अक्षि (akṣi). PIE root *h₃ekʷ- (to see)."
+  },
+  "word_hi_sar": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "शिरस् (śiras)",
+        "period": "Vedic",
+        "meaning": "head"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit शिरस् (śiras). Related to 'shirsha' (head)."
+  },
+  "word_hi_kitaab": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "كتاب (kitāb)",
+        "period": "Classical",
+        "meaning": "book"
+      },
+      {
+        "language": "Hindi",
+        "form": "किताब",
+        "period": "Mughal era",
+        "meaning": "book"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Urdu",
+        "word": "کتاب",
+        "meaning": "book"
+      }
+    ],
+    "notes": "Borrowed from Arabic. Sanskrit equivalent is पुस्तक (pustak)."
+  },
+  "word_hi_darvaaza": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "دروازه (darvāza)",
+        "period": "Medieval",
+        "meaning": "door, gate"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Urdu",
+        "word": "دروازہ",
+        "meaning": "door"
+      }
+    ],
+    "notes": "Borrowed from Persian. Sanskrit equivalent is द्वार (dvāra)."
+  },
+  "word_hi_sadak": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "سدك (sadak)",
+        "period": "Medieval",
+        "meaning": "road"
+      }
+    ],
+    "cognates": [],
+    "notes": "Borrowed from Arabic. Sanskrit equivalent is मार्ग (mārga)."
+  },
+  "word_hi_shahar": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "شهر (shahr)",
+        "period": "Medieval",
+        "meaning": "city"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Urdu",
+        "word": "شہر",
+        "meaning": "city"
+      }
+    ],
+    "notes": "Borrowed from Persian. Sanskrit equivalent is नगर (nagar)."
+  },
+  "word_hi_desh": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "देश (deśa)",
+        "period": "Vedic",
+        "meaning": "country, region"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit देश (deśa). Root दिश् (diś, direction)."
+  },
+  "word_hi_vidyalaya": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "विद्यालय (vidyālaya)",
+        "period": "Classical",
+        "meaning": "school"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit विद्या (vidyā, knowledge) + आलय (ālaya, abode)."
+  },
+  "word_hi_dost": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "دوست (dōst)",
+        "period": "Medieval",
+        "meaning": "friend"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Urdu",
+        "word": "دوست",
+        "meaning": "friend"
+      }
+    ],
+    "notes": "Borrowed from Persian. Sanskrit equivalent is मित्र (mitra)."
+  },
+  "word_hi_parivaar": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "परिवार (parivāra)",
+        "period": "Classical",
+        "meaning": "family, retinue"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit परि (pari, around) + वृ (vṛ, to cover)."
+  },
+  "word_hi_naam": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "नामन् (nāman)",
+        "period": "Vedic",
+        "meaning": "name"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "nomen",
+        "meaning": "name"
+      }
+    ],
+    "notes": "From Sanskrit नामन् (nāman). PIE root *h₁nómn̥ (name)."
+  }
+}

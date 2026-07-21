@@ -1,0 +1,238 @@
+{
+  "word_es_en": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "in",
+        "period": "Classical",
+        "meaning": "in, on"
+      },
+      {
+        "language": "Spanish",
+        "form": "en",
+        "period": "Medieval",
+        "meaning": "in, at"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "in",
+        "meaning": "in"
+      }
+    ],
+    "notes": "From Latin 'in'. PIE *h₁en (in)."
+  },
+  "word_es_a": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ad",
+        "period": "Classical",
+        "meaning": "to, toward"
+      },
+      {
+        "language": "Spanish",
+        "form": "a",
+        "period": "Medieval",
+        "meaning": "to"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "ad-",
+        "meaning": "toward"
+      }
+    ],
+    "notes": "From Latin 'ad' (to). Reduced to 'a' in Spanish."
+  },
+  "word_es_de": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "de",
+        "period": "Classical",
+        "meaning": "from, about"
+      },
+      {
+        "language": "Spanish",
+        "form": "de",
+        "period": "Medieval",
+        "meaning": "from, of"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'de' (from, down from)."
+  },
+  "word_es_con": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "cum",
+        "period": "Classical",
+        "meaning": "with"
+      },
+      {
+        "language": "Spanish",
+        "form": "con",
+        "period": "Medieval",
+        "meaning": "with"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "co-",
+        "meaning": "with"
+      }
+    ],
+    "notes": "From Latin 'cum'. PIE *kom (with)."
+  },
+  "word_es_para": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "pro",
+        "period": "Classical",
+        "meaning": "for, before"
+      },
+      {
+        "language": "Vulgar Latin",
+        "form": "*parare",
+        "period": "Late Latin",
+        "meaning": "to prepare, toward"
+      },
+      {
+        "language": "Spanish",
+        "form": "para",
+        "period": "Medieval",
+        "meaning": "for, to"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'parare' (to prepare) as a preposition indicating purpose."
+  },
+  "word_es_sobre": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "super",
+        "period": "Classical",
+        "meaning": "above, over"
+      },
+      {
+        "language": "Spanish",
+        "form": "sobre",
+        "period": "Medieval",
+        "meaning": "about, on"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "super",
+        "meaning": "over"
+      }
+    ],
+    "notes": "From Latin 'super' (above)."
+  },
+  "word_es_sin": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sine",
+        "period": "Classical",
+        "meaning": "without"
+      },
+      {
+        "language": "Spanish",
+        "form": "sin",
+        "period": "Medieval",
+        "meaning": "without"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'sine' (without)."
+  },
+  "word_es_antes": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ante",
+        "period": "Classical",
+        "meaning": "before"
+      },
+      {
+        "language": "Spanish",
+        "form": "antes",
+        "period": "Medieval",
+        "meaning": "before"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "ante-",
+        "meaning": "before"
+      }
+    ],
+    "notes": "From Latin 'ante' (before)."
+  },
+  "word_es_despues_prep": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "post",
+        "period": "Classical",
+        "meaning": "after"
+      },
+      {
+        "language": "Spanish",
+        "form": "después",
+        "period": "Medieval",
+        "meaning": "after"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same as adverb 'después'. Preposition 'after'."
+  },
+  "word_es_encima_de": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "in cima",
+        "period": "Late Latin",
+        "meaning": "on top"
+      },
+      {
+        "language": "Spanish",
+        "form": "encima de",
+        "period": "Medieval",
+        "meaning": "on top of"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'on the summit of'. 'Cima' from Latin 'cymatium'."
+  }
+}

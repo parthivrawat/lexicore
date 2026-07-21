@@ -1,0 +1,294 @@
+{
+  "word_ur_salam": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "š-l-m",
+        "period": "c. 3000 BCE",
+        "meaning": "to be whole, safe"
+      },
+      {
+        "language": "Arabic",
+        "form": "سلام (salām)",
+        "period": "Classical",
+        "meaning": "peace"
+      },
+      {
+        "language": "Urdu",
+        "form": "سلام",
+        "period": "Modern",
+        "meaning": "hello"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "שלום (shalom)",
+        "meaning": "peace"
+      }
+    ],
+    "notes": "From Arabic salām (peace)."
+  },
+  "word_ur_assalamu_alaikum": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "السلام عليكم (as-salāmu ʿalaykum)",
+        "period": "Classical",
+        "meaning": "peace be upon you"
+      },
+      {
+        "language": "Urdu",
+        "form": "السلام علیکم",
+        "period": "Modern",
+        "meaning": "hello (formal)"
+      }
+    ],
+    "cognates": [],
+    "notes": "Islamic greeting. 'Peace be upon you'."
+  },
+  "word_ur_alvida": {
+    "languageOrigin": "Persian/Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "إلى اللقاء (ilā l-liqāʾ)",
+        "period": "Classical",
+        "meaning": "until the meeting"
+      },
+      {
+        "language": "Persian",
+        "form": "الوداع (alvidāʿ)",
+        "period": "Medieval",
+        "meaning": "farewell"
+      },
+      {
+        "language": "Urdu",
+        "form": "الوداع",
+        "period": "Modern",
+        "meaning": "goodbye"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic 'al-wadāʿ' (farewell)."
+  },
+  "word_ur_shukriya": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "شكر (šukr)",
+        "period": "Classical",
+        "meaning": "thanks"
+      },
+      {
+        "language": "Urdu",
+        "form": "شکریہ",
+        "period": "Modern",
+        "meaning": "thank you"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Arabic",
+        "word": "شكرا",
+        "meaning": "thank you"
+      }
+    ],
+    "notes": "From Arabic 'šukr' (thanks)."
+  },
+  "word_ur_meharbani_kark": {
+    "languageOrigin": "Persian/Urdu",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "مهربانی (mehrabānī)",
+        "period": "Medieval",
+        "meaning": "kindness"
+      },
+      {
+        "language": "Urdu",
+        "form": "مہربانی کرکے",
+        "period": "Modern",
+        "meaning": "please"
+      }
+    ],
+    "cognates": [],
+    "notes": "مہربانی (kindness) + کرکے (by doing). 'By kindness'."
+  },
+  "word_ur_koi_baat_nahi": {
+    "languageOrigin": "Urdu",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Urdu",
+        "form": "کوئی بات نہیں",
+        "period": "Modern",
+        "meaning": "it's nothing"
+      }
+    ],
+    "cognates": [],
+    "notes": "کوئی (any) + بات (matter) + نہیں (not). 'No problem'."
+  },
+  "word_ur_maff_kijiye": {
+    "languageOrigin": "Arabic/Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "معاف (maʿāf)",
+        "period": "Classical",
+        "meaning": "forgiven"
+      },
+      {
+        "language": "Urdu",
+        "form": "معاف کیجئے",
+        "period": "Modern",
+        "meaning": "sorry/excuse me"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic 'maʿāf' (forgiven) + imperative 'kijiye' (do)."
+  },
+  "word_ur_koi_masla_nahi": {
+    "languageOrigin": "Arabic/Urdu",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "مسألة (masʾala)",
+        "period": "Classical",
+        "meaning": "question, problem"
+      },
+      {
+        "language": "Urdu",
+        "form": "کوئی مسئلہ نہیں",
+        "period": "Modern",
+        "meaning": "it doesn't matter"
+      }
+    ],
+    "cognates": [],
+    "notes": "کوئی (any) + مسئلہ (problem) + نہیں (not)."
+  },
+  "word_ur_phir_milenge": {
+    "languageOrigin": "Urdu",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Urdu",
+        "form": "پھر ملیں گے",
+        "period": "Modern",
+        "meaning": "we will meet again"
+      }
+    ],
+    "cognates": [],
+    "notes": "پھر (again) + ملیں گے (will meet)."
+  },
+  "word_ur_aap_kaise_hain": {
+    "languageOrigin": "Sanskrit/Urdu",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कथम् असि (katham asi)",
+        "period": "Classical",
+        "meaning": "how are you"
+      },
+      {
+        "language": "Urdu",
+        "form": "آپ کیسے ہیں",
+        "period": "Modern",
+        "meaning": "how are you"
+      }
+    ],
+    "cognates": [],
+    "notes": "آپ (you) + کیسے (how) + ہیں (are)."
+  },
+  "word_ur_main_theek_hun": {
+    "languageOrigin": "Sanskrit/Urdu",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "स्थिर (sthira)",
+        "period": "Classical",
+        "meaning": "steady, fine"
+      },
+      {
+        "language": "Urdu",
+        "form": "میں ٹھیک ہوں",
+        "period": "Modern",
+        "meaning": "I am fine"
+      }
+    ],
+    "cognates": [],
+    "notes": "ٹھیک (fine) from Sanskrit स्थिर."
+  },
+  "word_ur_shab_bakhair": {
+    "languageOrigin": "Persian/Urdu",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "شب بخیر (shab bakhair)",
+        "period": "Medieval",
+        "meaning": "good night"
+      },
+      {
+        "language": "Urdu",
+        "form": "شب بخیر",
+        "period": "Modern",
+        "meaning": "good night"
+      }
+    ],
+    "cognates": [],
+    "notes": "شب (night) + بخیر (good/well)."
+  },
+  "word_ur_khush_aamdeed": {
+    "languageOrigin": "Persian/Urdu",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "خوش آمدید (xūš āmadīd)",
+        "period": "Medieval",
+        "meaning": "welcome"
+      },
+      {
+        "language": "Urdu",
+        "form": "خوش آمدید",
+        "period": "Modern",
+        "meaning": "welcome"
+      }
+    ],
+    "cognates": [],
+    "notes": "خوش (happy) + آمدید (you came). 'Happy arrival'."
+  },
+  "word_ur_barae_meharbani": {
+    "languageOrigin": "Persian/Urdu",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "برائے مہربانی",
+        "period": "Medieval",
+        "meaning": "for kindness"
+      },
+      {
+        "language": "Urdu",
+        "form": "براہ مہربانی",
+        "period": "Modern",
+        "meaning": "excuse me"
+      }
+    ],
+    "cognates": [],
+    "notes": "براہ (for) + مہربانی (kindness). 'Please/excuse me'."
+  }
+}

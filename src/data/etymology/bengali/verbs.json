@@ -1,0 +1,514 @@
+{
+  "word_bn_hooya": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "भू (bhū)",
+        "period": "Vedic",
+        "meaning": "to be, become"
+      },
+      {
+        "language": "Bengali",
+        "form": "হওয়া",
+        "period": "Modern",
+        "meaning": "to be"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "होना",
+        "meaning": "to be"
+      }
+    ],
+    "notes": "From Sanskrit root भू (bhū)."
+  },
+  "word_bn_kora": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कृ (kṛ)",
+        "period": "Classical",
+        "meaning": "to do, make"
+      },
+      {
+        "language": "Bengali",
+        "form": "করা",
+        "period": "Modern",
+        "meaning": "to do"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "करना",
+        "meaning": "to do"
+      }
+    ],
+    "notes": "From Sanskrit कृ."
+  },
+  "word_bn_jawa": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "गम् (gam)",
+        "period": "Classical",
+        "meaning": "to go"
+      },
+      {
+        "language": "Bengali",
+        "form": "যাওয়া",
+        "period": "Modern",
+        "meaning": "to go"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit गम् (gam)."
+  },
+  "word_bn_asha": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "आगम् (āgam)",
+        "period": "Classical",
+        "meaning": "to come"
+      },
+      {
+        "language": "Bengali",
+        "form": "আসা",
+        "period": "Modern",
+        "meaning": "to come"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit prefix आ (ā) + गम् (gam)."
+  },
+  "word_bn_khaowa": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "खाद् (khād)",
+        "period": "Vedic",
+        "meaning": "to eat, chew"
+      },
+      {
+        "language": "Bengali",
+        "form": "খাওয়া",
+        "period": "Modern",
+        "meaning": "to eat"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit खाद्."
+  },
+  "word_bn_khaoa": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पा (pā)",
+        "period": "Vedic",
+        "meaning": "to drink"
+      },
+      {
+        "language": "Bengali",
+        "form": "খাওয়া",
+        "period": "Modern",
+        "meaning": "to drink/eat"
+      }
+    ],
+    "cognates": [],
+    "notes": "Bengali 'khāoā' (to make eat) from same root as 'to eat'. Note: 'drink' usually 'pān kora'."
+  },
+  "word_bn_dekha": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "दृश् (dṛś)",
+        "period": "Classical",
+        "meaning": "to see"
+      },
+      {
+        "language": "Bengali",
+        "form": "দেখা",
+        "period": "Modern",
+        "meaning": "to see"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit दृश्."
+  },
+  "word_bn_shona": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "श्रु (śru)",
+        "period": "Vedic",
+        "meaning": "to hear"
+      },
+      {
+        "language": "Bengali",
+        "form": "শোনা",
+        "period": "Modern",
+        "meaning": "to hear"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit श्रु."
+  },
+  "word_bn_bola": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वद् (vad)",
+        "period": "Classical",
+        "meaning": "to speak"
+      },
+      {
+        "language": "Bengali",
+        "form": "বলা",
+        "period": "Modern",
+        "meaning": "to speak"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit वद्."
+  },
+  "word_bn_pora": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पठ् (paṭh)",
+        "period": "Classical",
+        "meaning": "to read, recite"
+      },
+      {
+        "language": "Bengali",
+        "form": "পড়া",
+        "period": "Modern",
+        "meaning": "to read"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit पठ्."
+  },
+  "word_bn_likha": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "लिख् (likh)",
+        "period": "Classical",
+        "meaning": "to write"
+      },
+      {
+        "language": "Bengali",
+        "form": "লেখা",
+        "period": "Modern",
+        "meaning": "to write"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit लिख्."
+  },
+  "word_bn_dewa": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "दा (dā)",
+        "period": "Classical",
+        "meaning": "to give"
+      },
+      {
+        "language": "Bengali",
+        "form": "দেওয়া",
+        "period": "Modern",
+        "meaning": "to give"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit दा."
+  },
+  "word_bn_newa": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "नी (nī)",
+        "period": "Classical",
+        "meaning": "to take, lead"
+      },
+      {
+        "language": "Bengali",
+        "form": "নেওয়া",
+        "period": "Modern",
+        "meaning": "to take"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit नी."
+  },
+  "word_bn_ghumano": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "स्वप् (svap)",
+        "period": "Classical",
+        "meaning": "to sleep"
+      },
+      {
+        "language": "Bengali",
+        "form": "ঘুমানো",
+        "period": "Modern",
+        "meaning": "to sleep"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit स्वप्. 'Ghum' is native/Prakrit."
+  },
+  "word_bn_jeghe_otha": {
+    "languageOrigin": "Sanskrit/Bengali",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "जागृ (jāgṛ)",
+        "period": "Classical",
+        "meaning": "to wake"
+      },
+      {
+        "language": "Bengali",
+        "form": "জেগে ওঠা",
+        "period": "Modern",
+        "meaning": "to wake up"
+      }
+    ],
+    "cognates": [],
+    "notes": "জেগে (awake) + ওঠা (to rise)."
+  },
+  "word_bn_bosha": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "विश् (viś)",
+        "period": "Classical",
+        "meaning": "to enter, sit"
+      },
+      {
+        "language": "Bengali",
+        "form": "বসা",
+        "period": "Modern",
+        "meaning": "to sit"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit विश्/वस्."
+  },
+  "word_bn_daraano": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "स्था (sthā)",
+        "period": "Classical",
+        "meaning": "to stand"
+      },
+      {
+        "language": "Bengali",
+        "form": "দাঁড়ানো",
+        "period": "Modern",
+        "meaning": "to stand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit स्था."
+  },
+  "word_bn_horta_berano": {
+    "languageOrigin": "Sanskrit/Bengali",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "व्रज् (vraj)",
+        "period": "Classical",
+        "meaning": "to go, wander"
+      },
+      {
+        "language": "Bengali",
+        "form": "হাঁটাহাঁটি করা",
+        "period": "Modern",
+        "meaning": "to walk"
+      }
+    ],
+    "cognates": [],
+    "notes": "হাঁটা (walk) + iteration + করা (do)."
+  },
+  "word_bn_dourano": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "द्रु (dru)",
+        "period": "Classical",
+        "meaning": "to run"
+      },
+      {
+        "language": "Bengali",
+        "form": "দৌড়ানো",
+        "period": "Modern",
+        "meaning": "to run"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit द्रु."
+  },
+  "word_bn_hasha": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "हस् (has)",
+        "period": "Classical",
+        "meaning": "to laugh"
+      },
+      {
+        "language": "Bengali",
+        "form": "হাসা",
+        "period": "Modern",
+        "meaning": "to laugh"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit हस्."
+  },
+  "word_bn_kadna": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "रुद् (rud)",
+        "period": "Classical",
+        "meaning": "to cry, weep"
+      },
+      {
+        "language": "Bengali",
+        "form": "কাঁদা",
+        "period": "Modern",
+        "meaning": "to cry"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit रुद् (to weep)."
+  },
+  "word_bn_bujha": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "बुध् (budh)",
+        "period": "Classical",
+        "meaning": "to understand, awaken"
+      },
+      {
+        "language": "Bengali",
+        "form": "বুঝা",
+        "period": "Modern",
+        "meaning": "to understand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit बुध्."
+  },
+  "word_bn_chaowa": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "चर् (car) / इष् (iṣ)",
+        "period": "Classical",
+        "meaning": "to wish, seek"
+      },
+      {
+        "language": "Bengali",
+        "form": "চাওয়া",
+        "period": "Modern",
+        "meaning": "to want"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Prakrit 'chāvai'."
+  },
+  "word_bn_bhalobasha": {
+    "languageOrigin": "Sanskrit/Bengali",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "प्रीति (prīti)",
+        "period": "Classical",
+        "meaning": "love, affection"
+      },
+      {
+        "language": "Bengali",
+        "form": "ভালোবাসা",
+        "period": "Modern",
+        "meaning": "to love"
+      }
+    ],
+    "cognates": [],
+    "notes": "ভালো (good) + বাসা (to live/reside). 'To hold dear'."
+  },
+  "word_bn_kaj_kora": {
+    "languageOrigin": "Sanskrit/Bengali",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कर्म (karman)",
+        "period": "Classical",
+        "meaning": "work, deed"
+      },
+      {
+        "language": "Bengali",
+        "form": "কাজ করা",
+        "period": "Modern",
+        "meaning": "to work"
+      }
+    ],
+    "cognates": [],
+    "notes": "কাজ (kaj, work) from Persian 'kār' or Sanskrit 'karman' + করা (do)."
+  }
+}

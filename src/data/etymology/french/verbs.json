@@ -1,0 +1,502 @@
+{
+  "word_fr_etre": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sedēre / esse",
+        "period": "Classical",
+        "meaning": "to be"
+      },
+      {
+        "language": "Old French",
+        "form": "estre",
+        "period": "Medieval",
+        "meaning": "to be"
+      }
+    ],
+    "cognates": [],
+    "notes": "Suppletive from 'sedēre' (sum) and 'esse'."
+  },
+  "word_fr_faire": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "facere",
+        "period": "Classical",
+        "meaning": "to do, make"
+      },
+      {
+        "language": "Old French",
+        "form": "faire",
+        "period": "Medieval",
+        "meaning": "to do"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'facere'."
+  },
+  "word_fr_aller": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ambulāre",
+        "period": "Classical",
+        "meaning": "to walk"
+      },
+      {
+        "language": "Old French",
+        "form": "aler",
+        "period": "Medieval",
+        "meaning": "to go"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'ambulāre' (to walk)."
+  },
+  "word_fr_venir": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "venīre",
+        "period": "Classical",
+        "meaning": "to come"
+      },
+      {
+        "language": "Old French",
+        "form": "venir",
+        "period": "Medieval",
+        "meaning": "to come"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'venīre'."
+  },
+  "word_fr_manger": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "manducāre",
+        "period": "Classical",
+        "meaning": "to chew, eat"
+      },
+      {
+        "language": "Old French",
+        "form": "mangier",
+        "period": "Medieval",
+        "meaning": "to eat"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'manducāre' (to chew)."
+  },
+  "word_fr_boire": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "bibere",
+        "period": "Classical",
+        "meaning": "to drink"
+      },
+      {
+        "language": "Old French",
+        "form": "beivre",
+        "period": "Medieval",
+        "meaning": "to drink"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'bibere'."
+  },
+  "word_fr_voir": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "vidēre",
+        "period": "Classical",
+        "meaning": "to see"
+      },
+      {
+        "language": "Old French",
+        "form": "veoir",
+        "period": "Medieval",
+        "meaning": "to see"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'vidēre'."
+  },
+  "word_fr_entendre": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "audīre",
+        "period": "Classical",
+        "meaning": "to hear"
+      },
+      {
+        "language": "Old French",
+        "form": "entendre",
+        "period": "Medieval",
+        "meaning": "to hear"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'audīre'."
+  },
+  "word_fr_parler": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "parabolāre",
+        "period": "Late Latin",
+        "meaning": "to talk, tell stories"
+      },
+      {
+        "language": "Old French",
+        "form": "parler",
+        "period": "Medieval",
+        "meaning": "to speak"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'parabolāre'."
+  },
+  "word_fr_lire": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "legere",
+        "period": "Classical",
+        "meaning": "to read"
+      },
+      {
+        "language": "Old French",
+        "form": "lire",
+        "period": "Medieval",
+        "meaning": "to read"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'legere'."
+  },
+  "word_fr_ecrire": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "scribere",
+        "period": "Classical",
+        "meaning": "to write"
+      },
+      {
+        "language": "Old French",
+        "form": "escrire",
+        "period": "Medieval",
+        "meaning": "to write"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'scribere'."
+  },
+  "word_fr_donner": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "dōnāre",
+        "period": "Classical",
+        "meaning": "to give"
+      },
+      {
+        "language": "Old French",
+        "form": "donner",
+        "period": "Medieval",
+        "meaning": "to give"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'dōnāre' (to give as a gift)."
+  },
+  "word_fr_prendre": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "prehendere",
+        "period": "Classical",
+        "meaning": "to seize"
+      },
+      {
+        "language": "Old French",
+        "form": "prendre",
+        "period": "Medieval",
+        "meaning": "to take"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'prehendere'."
+  },
+  "word_fr_dormir": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "dormīre",
+        "period": "Classical",
+        "meaning": "to sleep"
+      },
+      {
+        "language": "French",
+        "form": "dormir",
+        "period": "Modern",
+        "meaning": "to sleep"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'dormīre'."
+  },
+  "word_fr_se_reveiller": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "re- + vigilāre",
+        "period": "Classical",
+        "meaning": "to wake again"
+      },
+      {
+        "language": "French",
+        "form": "se réveiller",
+        "period": "Modern",
+        "meaning": "to wake up"
+      }
+    ],
+    "cognates": [],
+    "notes": "Reflexive 'réveiller' from Latin 'vigilāre'."
+  },
+  "word_fr_s_asseoir": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sedēre",
+        "period": "Classical",
+        "meaning": "to sit"
+      },
+      {
+        "language": "French",
+        "form": "s'asseoir",
+        "period": "Modern",
+        "meaning": "to sit"
+      }
+    ],
+    "cognates": [],
+    "notes": "Reflexive 'asseoir' from 'assidēre'."
+  },
+  "word_fr_se_lever": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "levāre",
+        "period": "Classical",
+        "meaning": "to lift"
+      },
+      {
+        "language": "French",
+        "form": "se lever",
+        "period": "Modern",
+        "meaning": "to stand up"
+      }
+    ],
+    "cognates": [],
+    "notes": "Reflexive 'lever' from Latin 'levāre'."
+  },
+  "word_fr_marcher": {
+    "languageOrigin": "Frankish/Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Frankish",
+        "form": "*markōn",
+        "period": "Medieval",
+        "meaning": "to mark, step"
+      },
+      {
+        "language": "Old French",
+        "form": "marchier",
+        "period": "Medieval",
+        "meaning": "to walk"
+      }
+    ],
+    "cognates": [],
+    "notes": "Possibly from Frankish 'markōn' (to mark)."
+  },
+  "word_fr_courir": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "currere",
+        "period": "Classical",
+        "meaning": "to run"
+      },
+      {
+        "language": "Old French",
+        "form": "corir",
+        "period": "Medieval",
+        "meaning": "to run"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'currere'."
+  },
+  "word_fr_rire": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ridēre",
+        "period": "Classical",
+        "meaning": "to laugh"
+      },
+      {
+        "language": "French",
+        "form": "rire",
+        "period": "Modern",
+        "meaning": "to laugh"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'ridēre'."
+  },
+  "word_fr_pleurer": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "plorāre",
+        "period": "Classical",
+        "meaning": "to weep"
+      },
+      {
+        "language": "Old French",
+        "form": "plorer",
+        "period": "Medieval",
+        "meaning": "to cry"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'plorāre'."
+  },
+  "word_fr_comprendre": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "comprehendere",
+        "period": "Classical",
+        "meaning": "to grasp"
+      },
+      {
+        "language": "French",
+        "form": "comprendre",
+        "period": "Modern",
+        "meaning": "to understand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'comprehendere'."
+  },
+  "word_fr_vouloir": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "velle",
+        "period": "Classical",
+        "meaning": "to wish"
+      },
+      {
+        "language": "Old French",
+        "form": "voloir",
+        "period": "Medieval",
+        "meaning": "to want"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'velle'."
+  },
+  "word_fr_aimer": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "amāre",
+        "period": "Classical",
+        "meaning": "to love"
+      },
+      {
+        "language": "Old French",
+        "form": "amer",
+        "period": "Medieval",
+        "meaning": "to love"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'amāre'."
+  },
+  "word_fr_travailler": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "tripaliāre",
+        "period": "Late Latin",
+        "meaning": "to torture"
+      },
+      {
+        "language": "Old French",
+        "form": "travaillier",
+        "period": "Medieval",
+        "meaning": "to work, toil"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'tripaliāre' (to torture)."
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "word_ru_nol": {
+    "languageOrigin": "Arabic via Latin",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "nullus",
+        "period": "Classical",
+        "meaning": "none"
+      },
+      {
+        "language": "Russian",
+        "form": "ноль",
+        "period": "18th century",
+        "meaning": "zero"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "null",
+        "meaning": "none"
+      }
+    ],
+    "notes": "From Latin 'nullus' (none) via learned borrowing, influenced by Arabic zero concept."
+  },
+  "word_ru_odin": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*jedinŭ",
+        "period": "c. 500 CE",
+        "meaning": "one"
+      },
+      {
+        "language": "Old Russian",
+        "form": "одинъ",
+        "period": "Medieval",
+        "meaning": "one"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "unus",
+        "meaning": "one"
+      },
+      {
+        "language": "Sanskrit",
+        "word": "एक (eka)",
+        "meaning": "one"
+      }
+    ],
+    "notes": "From Proto-Slavic *jedinŭ. PIE *óynos."
+  },
+  "word_ru_dva": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*dŭva",
+        "period": "c. 500 CE",
+        "meaning": "two"
+      },
+      {
+        "language": "Old Russian",
+        "form": "дъва",
+        "period": "Medieval",
+        "meaning": "two"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "duo",
+        "meaning": "two"
+      }
+    ],
+    "notes": "From Proto-Slavic *dŭva. PIE *dwóh₁."
+  },
+  "word_ru_tri": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*trije",
+        "period": "c. 500 CE",
+        "meaning": "three"
+      },
+      {
+        "language": "Old Russian",
+        "form": "триѥ",
+        "period": "Medieval",
+        "meaning": "three"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "tres",
+        "meaning": "three"
+      }
+    ],
+    "notes": "From Proto-Slavic *trije. PIE *tréyes."
+  },
+  "word_ru_chetyre": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*četyre",
+        "period": "c. 500 CE",
+        "meaning": "four"
+      },
+      {
+        "language": "Old Russian",
+        "form": "четырѣ",
+        "period": "Medieval",
+        "meaning": "four"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Slavic *četyre. PIE *kʷetwóres."
+  },
+  "word_ru_pyat": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*pętĭ",
+        "period": "c. 500 CE",
+        "meaning": "five"
+      },
+      {
+        "language": "Old Russian",
+        "form": "пѧть",
+        "period": "Medieval",
+        "meaning": "five"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "quinque",
+        "meaning": "five"
+      }
+    ],
+    "notes": "From Proto-Slavic *pętĭ. PIE *pénkʷe."
+  },
+  "word_ru_shest": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*šestĭ",
+        "period": "c. 500 CE",
+        "meaning": "six"
+      },
+      {
+        "language": "Old Russian",
+        "form": "шесть",
+        "period": "Medieval",
+        "meaning": "six"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "sex",
+        "meaning": "six"
+      }
+    ],
+    "notes": "From Proto-Slavic *šestĭ. PIE *swéḱs."
+  },
+  "word_ru_sem": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*sedmĭ",
+        "period": "c. 500 CE",
+        "meaning": "seven"
+      },
+      {
+        "language": "Old Russian",
+        "form": "сѣдьмь",
+        "period": "Medieval",
+        "meaning": "seven"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "septem",
+        "meaning": "seven"
+      }
+    ],
+    "notes": "From Proto-Slavic *sedmĭ. PIE *septḿ̥."
+  },
+  "word_ru_vosem": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*osmĭ",
+        "period": "c. 500 CE",
+        "meaning": "eight"
+      },
+      {
+        "language": "Old Russian",
+        "form": "осмь",
+        "period": "Medieval",
+        "meaning": "eight"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "octo",
+        "meaning": "eight"
+      }
+    ],
+    "notes": "From Proto-Slavic *osmĭ. PIE *oḱtṓw."
+  },
+  "word_ru_devyat": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*devętĭ",
+        "period": "c. 500 CE",
+        "meaning": "nine"
+      },
+      {
+        "language": "Old Russian",
+        "form": "девѧть",
+        "period": "Medieval",
+        "meaning": "nine"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Sanskrit",
+        "word": "नव (nava)",
+        "meaning": "nine"
+      }
+    ],
+    "notes": "From Proto-Slavic *devętĭ. PIE *h₁néwn̥. Possibly related to 'new' as 'the new number' in a counting system."
+  },
+  "word_ru_desyat": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*desętĭ",
+        "period": "c. 500 CE",
+        "meaning": "ten"
+      },
+      {
+        "language": "Old Russian",
+        "form": "десѧть",
+        "period": "Medieval",
+        "meaning": "ten"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "decem",
+        "meaning": "ten"
+      }
+    ],
+    "notes": "From Proto-Slavic *desętĭ. PIE *déḱm̥t."
+  },
+  "word_ru_sto": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*sъto",
+        "period": "c. 500 CE",
+        "meaning": "hundred"
+      },
+      {
+        "language": "Old Russian",
+        "form": "сто",
+        "period": "Medieval",
+        "meaning": "hundred"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "centum",
+        "meaning": "hundred"
+      },
+      {
+        "language": "Greek",
+        "word": "ἑκατόν (hekaton)",
+        "meaning": "hundred"
+      }
+    ],
+    "notes": "From Proto-Slavic *sъto. PIE *ḱm̥tóm."
+  },
+  "word_ru_tysyacha": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*tysęšta",
+        "period": "c. 500 CE",
+        "meaning": "thousand"
+      },
+      {
+        "language": "Old Russian",
+        "form": "тысѧща",
+        "period": "Medieval",
+        "meaning": "thousand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Slavic *tysęšta. Of uncertain further origin."
+  },
+  "word_ru_million": {
+    "languageOrigin": "Italian/French",
+    "yearOfOrigin": "c. 18th century",
+    "timeline": [
+      {
+        "language": "Italian",
+        "form": "milione",
+        "period": "13th century",
+        "meaning": "million"
+      },
+      {
+        "language": "Russian",
+        "form": "миллион",
+        "period": "18th century",
+        "meaning": "million"
+      }
+    ],
+    "cognates": [],
+    "notes": "International learned borrowing from Italian 'milione'."
+  },
+  "word_ru_polovina": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "половина",
+        "period": "Medieval",
+        "meaning": "half"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'пол-' (half) + suffix '-овина'. Related to 'полный' (full) and 'половина' (half)."
+  }
+}

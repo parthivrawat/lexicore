@@ -1,0 +1,484 @@
+{
+  "word_es_yo": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ego",
+        "period": "Classical",
+        "meaning": "I"
+      },
+      {
+        "language": "Spanish",
+        "form": "yo",
+        "period": "Medieval",
+        "meaning": "I"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "ego",
+        "meaning": "I, self"
+      }
+    ],
+    "notes": "From Latin 'ego'. PIE *éǵh₂ (I)."
+  },
+  "word_es_tu": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "tu",
+        "period": "Classical",
+        "meaning": "you"
+      },
+      {
+        "language": "Spanish",
+        "form": "tú",
+        "period": "Medieval",
+        "meaning": "you"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "thou",
+        "meaning": "you (archaic)"
+      }
+    ],
+    "notes": "From Latin 'tu'. PIE *túh₂ (you)."
+  },
+  "word_es_usted": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Old Spanish",
+        "form": "vuestra merced",
+        "period": "Medieval",
+        "meaning": "your mercy/grace"
+      },
+      {
+        "language": "Spanish",
+        "form": "usted",
+        "period": "16th century",
+        "meaning": "you (formal)"
+      }
+    ],
+    "cognates": [],
+    "notes": "Contraction of 'vuestra merced' (your grace). Formal second person."
+  },
+  "word_es_el": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ille",
+        "period": "Classical",
+        "meaning": "that, he"
+      },
+      {
+        "language": "Spanish",
+        "form": "él",
+        "period": "Medieval",
+        "meaning": "he"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "il",
+        "meaning": "he"
+      }
+    ],
+    "notes": "From Latin 'ille' (that one)."
+  },
+  "word_es_ella": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "illa",
+        "period": "Classical",
+        "meaning": "that (f.), she"
+      },
+      {
+        "language": "Spanish",
+        "form": "ella",
+        "period": "Medieval",
+        "meaning": "she"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "elle",
+        "meaning": "she"
+      }
+    ],
+    "notes": "From Latin 'illa' (that one, feminine)."
+  },
+  "word_es_nosotros": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "nos + alteros",
+        "period": "Classical",
+        "meaning": "we and others"
+      },
+      {
+        "language": "Spanish",
+        "form": "nosotros",
+        "period": "Medieval",
+        "meaning": "we"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'nos' (we) + 'otros' (others). 'We others'."
+  },
+  "word_es_ellos": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "illi",
+        "period": "Classical",
+        "meaning": "those, they"
+      },
+      {
+        "language": "Spanish",
+        "form": "ellos",
+        "period": "Medieval",
+        "meaning": "they"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'illi' (those)."
+  },
+  "word_es_este": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "iste",
+        "period": "Classical",
+        "meaning": "this, that"
+      },
+      {
+        "language": "Spanish",
+        "form": "este",
+        "period": "Medieval",
+        "meaning": "this"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'iste' (this one, often contemptuous)."
+  },
+  "word_es_ese": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ipse",
+        "period": "Classical",
+        "meaning": "himself, that"
+      },
+      {
+        "language": "Spanish",
+        "form": "ese",
+        "period": "Medieval",
+        "meaning": "that"
+      }
+    ],
+    "cognates": [],
+    "notes": "Demonstrative 'that' (near listener). From Latin 'ipse' or 'is'."
+  },
+  "word_es_que": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quid",
+        "period": "Classical",
+        "meaning": "what"
+      },
+      {
+        "language": "Spanish",
+        "form": "qué",
+        "period": "Medieval",
+        "meaning": "what"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Sanskrit",
+        "word": "किम् (kim)",
+        "meaning": "what"
+      }
+    ],
+    "notes": "From Latin 'quid' (what). PIE *kʷid."
+  },
+  "word_es_quien": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quis",
+        "period": "Classical",
+        "meaning": "who"
+      },
+      {
+        "language": "Spanish",
+        "form": "quién",
+        "period": "Medieval",
+        "meaning": "who"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'quis' (who)."
+  },
+  "word_es_donde": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "unde",
+        "period": "Classical",
+        "meaning": "from where"
+      },
+      {
+        "language": "Spanish",
+        "form": "dónde",
+        "period": "Medieval",
+        "meaning": "where"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'unde' (whence/where)."
+  },
+  "word_es_cuando": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quando",
+        "period": "Classical",
+        "meaning": "when"
+      },
+      {
+        "language": "Spanish",
+        "form": "cuándo",
+        "period": "Medieval",
+        "meaning": "when"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'quando' (when)."
+  },
+  "word_es_por_que": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "propter quid",
+        "period": "Classical",
+        "meaning": "because of what"
+      },
+      {
+        "language": "Spanish",
+        "form": "por qué",
+        "period": "Medieval",
+        "meaning": "why"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'for what'. 'Por' from 'pro' + 'qué' from 'quid'."
+  },
+  "word_es_como": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quomodo",
+        "period": "Classical",
+        "meaning": "how, in what way"
+      },
+      {
+        "language": "Spanish",
+        "form": "cómo",
+        "period": "Medieval",
+        "meaning": "how"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'quomodo' (in what manner)."
+  },
+  "word_es_y": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "et",
+        "period": "Classical",
+        "meaning": "and"
+      },
+      {
+        "language": "Spanish",
+        "form": "y",
+        "period": "Medieval",
+        "meaning": "and"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "et cetera",
+        "meaning": "and so forth"
+      }
+    ],
+    "notes": "From Latin 'et' (and)."
+  },
+  "word_es_o": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "aut",
+        "period": "Classical",
+        "meaning": "or"
+      },
+      {
+        "language": "Spanish",
+        "form": "o",
+        "period": "Medieval",
+        "meaning": "or"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'aut' (or). Reduced to 'o'."
+  },
+  "word_es_pero": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "per hoc",
+        "period": "Classical",
+        "meaning": "by this"
+      },
+      {
+        "language": "Spanish",
+        "form": "pero",
+        "period": "Medieval",
+        "meaning": "but"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'per hoc' (for this)."
+  },
+  "word_es_si": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "si",
+        "period": "Classical",
+        "meaning": "if"
+      },
+      {
+        "language": "Spanish",
+        "form": "si",
+        "period": "Medieval",
+        "meaning": "if"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'si' (if)."
+  },
+  "word_es_porque": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "pro quid",
+        "period": "Classical",
+        "meaning": "for what"
+      },
+      {
+        "language": "Spanish",
+        "form": "porque",
+        "period": "Medieval",
+        "meaning": "because"
+      }
+    ],
+    "cognates": [],
+    "notes": "One-word conjunction 'because', from 'por qué' (why)."
+  },
+  "word_es_no": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "non",
+        "period": "Classical",
+        "meaning": "not"
+      },
+      {
+        "language": "Spanish",
+        "form": "no",
+        "period": "Medieval",
+        "meaning": "no"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "no",
+        "meaning": "no"
+      }
+    ],
+    "notes": "From Latin 'non' (not). PIE *ne (not)."
+  },
+  "word_es_si2": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sic",
+        "period": "Classical",
+        "meaning": "thus, yes"
+      },
+      {
+        "language": "Spanish",
+        "form": "sí",
+        "period": "Medieval",
+        "meaning": "yes"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'sic' (thus). Distinct from conditional 'si' (if)."
+  }
+}

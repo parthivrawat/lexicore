@@ -1,0 +1,526 @@
+{
+  "word_el_eimai": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*h₁es-",
+        "period": "c. 3000 BCE",
+        "meaning": "to be"
+      },
+      {
+        "language": "Ancient Greek",
+        "form": "εἰμί (eimi)",
+        "period": "Classical",
+        "meaning": "I am"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "είμαι",
+        "period": "Modern",
+        "meaning": "to be"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "is",
+        "meaning": "to be"
+      }
+    ],
+    "notes": "PIE *h₁es-."
+  },
+  "word_el_kano": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "κάμνω (kamnō)",
+        "period": "Classical",
+        "meaning": "to do, work"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "κάνω",
+        "period": "Modern",
+        "meaning": "to do"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek κάμνω."
+  },
+  "word_el_pao": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "πορεύομαι (poreuomai)",
+        "period": "Classical",
+        "meaning": "to go"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "πάω",
+        "period": "Modern",
+        "meaning": "to go"
+      }
+    ],
+    "cognates": [],
+    "notes": "Contracted from 'πηγαίνω'."
+  },
+  "word_el_erchomai": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἔρχομαι (erchomai)",
+        "period": "Classical",
+        "meaning": "to come, go"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "έρχομαι",
+        "period": "Modern",
+        "meaning": "to come"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ἔρχομαι."
+  },
+  "word_el_troo": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἐσθίω (esthiō)",
+        "period": "Classical",
+        "meaning": "to eat"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "τρώω",
+        "period": "Modern",
+        "meaning": "to eat"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ἐσθίω."
+  },
+  "word_el_pino": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "πίνω (pinō)",
+        "period": "Classical",
+        "meaning": "to drink"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "πίνω",
+        "period": "Modern",
+        "meaning": "to drink"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek πίνω."
+  },
+  "word_el_vlepo": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "βλέπω (blepō)",
+        "period": "Classical",
+        "meaning": "to see, look"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "βλέπω",
+        "period": "Modern",
+        "meaning": "to see"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek βλέπω."
+  },
+  "word_el_akouo": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἀκούω (akouō)",
+        "period": "Classical",
+        "meaning": "to hear"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "ακούω",
+        "period": "Modern",
+        "meaning": "to hear"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "acoustic",
+        "meaning": "of hearing"
+      }
+    ],
+    "notes": "From Ancient Greek ἀκούω."
+  },
+  "word_el_milao": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ὁμιλέω (homileō)",
+        "period": "Classical",
+        "meaning": "to converse, associate"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "μιλάω",
+        "period": "Modern",
+        "meaning": "to speak"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ὁμιλέω."
+  },
+  "word_el_diavazo": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "διαβάζω (diabazō)",
+        "period": "Classical",
+        "meaning": "to read out"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "διαβάζω",
+        "period": "Modern",
+        "meaning": "to read"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek διαβάζω."
+  },
+  "word_el_grafo": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "γράφω (graphō)",
+        "period": "Classical",
+        "meaning": "to write, draw"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "γράφω",
+        "period": "Modern",
+        "meaning": "to write"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "graphic",
+        "meaning": "written"
+      }
+    ],
+    "notes": "From Ancient Greek γράφω."
+  },
+  "word_el_dino": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "δίδωμι (didōmi)",
+        "period": "Classical",
+        "meaning": "to give"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "δίνω",
+        "period": "Modern",
+        "meaning": "to give"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek δίδωμι."
+  },
+  "word_el_pairno": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "λαμβάνω (lambanō)",
+        "period": "Classical",
+        "meaning": "to take, receive"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "παίρνω",
+        "period": "Modern",
+        "meaning": "to take"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek περιλαμβάνω/λαμβάνω."
+  },
+  "word_el_koimame": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "κοιμάομαι (koimaomai)",
+        "period": "Classical",
+        "meaning": "to sleep, lie down"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "κοιμάμαι",
+        "period": "Modern",
+        "meaning": "to sleep"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek κοιμάομαι."
+  },
+  "word_el_ksypnao": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ξυπνάω (xypnaō)",
+        "period": "Classical",
+        "meaning": "to wake up"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "ξυπνάω",
+        "period": "Modern",
+        "meaning": "to wake up"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ξυπνάω."
+  },
+  "word_el_kathomai": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "κάθημαι (kathēmai)",
+        "period": "Classical",
+        "meaning": "to sit"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "κάθομαι",
+        "period": "Modern",
+        "meaning": "to sit"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek κάθημαι."
+  },
+  "word_el_sikonomai": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἀνίστημι (anistēmi)",
+        "period": "Classical",
+        "meaning": "to raise, stand"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "σηκώνομαι",
+        "period": "Modern",
+        "meaning": "to stand up"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek σηκώνω/ἀνίστημι."
+  },
+  "word_el_perpatao": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "περίπατος (peripatos)",
+        "period": "Classical",
+        "meaning": "walk"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "περπατάω",
+        "period": "Modern",
+        "meaning": "to walk"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek περίπατος."
+  },
+  "word_el_trexo": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "τρέχω (trechō)",
+        "period": "Classical",
+        "meaning": "to run"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "τρέχω",
+        "period": "Modern",
+        "meaning": "to run"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek τρέχω."
+  },
+  "word_el_gelao": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "γελάω (gelaō)",
+        "period": "Classical",
+        "meaning": "to laugh"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "γελάω",
+        "period": "Modern",
+        "meaning": "to laugh"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek γελάω."
+  },
+  "word_el_klaio": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "κλαίω (klaiō)",
+        "period": "Classical",
+        "meaning": "to weep"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "κλαίω",
+        "period": "Modern",
+        "meaning": "to cry"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek κλαίω."
+  },
+  "word_el_katalavaino": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "καταλαμβάνω (katalambanō)",
+        "period": "Classical",
+        "meaning": "to seize, understand"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "καταλαβαίνω",
+        "period": "Modern",
+        "meaning": "to understand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek καταλαμβάνω."
+  },
+  "word_el_thelo": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἔθελον (ethelon)",
+        "period": "Classical",
+        "meaning": "to wish"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "θέλω",
+        "period": "Modern",
+        "meaning": "to want"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ἐθέλω."
+  },
+  "word_el_agapo": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἀγαπάω (agapaō)",
+        "period": "Classical",
+        "meaning": "to love"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "αγαπώ",
+        "period": "Modern",
+        "meaning": "to love"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ἀγαπάω."
+  },
+  "word_el_doulevo": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "δουλεύω (douleuō)",
+        "period": "Classical",
+        "meaning": "to work, serve"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "δουλεύω",
+        "period": "Modern",
+        "meaning": "to work"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek δουλεύω."
+  }
+}

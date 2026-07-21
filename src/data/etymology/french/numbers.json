@@ -1,0 +1,314 @@
+{
+  "word_fr_zero": {
+    "languageOrigin": "Italian/Arabic",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "ṣifr",
+        "period": "9th century",
+        "meaning": "zero"
+      },
+      {
+        "language": "Italian",
+        "form": "zero",
+        "period": "13th century",
+        "meaning": "zero"
+      },
+      {
+        "language": "French",
+        "form": "zéro",
+        "period": "14th century",
+        "meaning": "zero"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "zero",
+        "meaning": "zero"
+      }
+    ],
+    "notes": "From Arabic ṣifr via Italian."
+  },
+  "word_fr_un": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "unus",
+        "period": "Classical",
+        "meaning": "one"
+      },
+      {
+        "language": "Old French",
+        "form": "un",
+        "period": "Medieval",
+        "meaning": "one"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'unus'."
+  },
+  "word_fr_deux": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "duo",
+        "period": "Classical",
+        "meaning": "two"
+      },
+      {
+        "language": "Old French",
+        "form": "deus",
+        "period": "Medieval",
+        "meaning": "two"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'duo'."
+  },
+  "word_fr_trois": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "tres",
+        "period": "Classical",
+        "meaning": "three"
+      },
+      {
+        "language": "Old French",
+        "form": "trois",
+        "period": "Medieval",
+        "meaning": "three"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'tres'."
+  },
+  "word_fr_quatre": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quattuor",
+        "period": "Classical",
+        "meaning": "four"
+      },
+      {
+        "language": "Old French",
+        "form": "quatre",
+        "period": "Medieval",
+        "meaning": "four"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'quattuor'."
+  },
+  "word_fr_cinq": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quinque",
+        "period": "Classical",
+        "meaning": "five"
+      },
+      {
+        "language": "Old French",
+        "form": "cinc",
+        "period": "Medieval",
+        "meaning": "five"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'quinque'."
+  },
+  "word_fr_six": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sex",
+        "period": "Classical",
+        "meaning": "six"
+      },
+      {
+        "language": "French",
+        "form": "six",
+        "period": "Modern",
+        "meaning": "six"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'sex'."
+  },
+  "word_fr_sept": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "septem",
+        "period": "Classical",
+        "meaning": "seven"
+      },
+      {
+        "language": "Old French",
+        "form": "set",
+        "period": "Medieval",
+        "meaning": "seven"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'septem'."
+  },
+  "word_fr_huit": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "octo",
+        "period": "Classical",
+        "meaning": "eight"
+      },
+      {
+        "language": "Old French",
+        "form": "uit",
+        "period": "Medieval",
+        "meaning": "eight"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'octo'."
+  },
+  "word_fr_neuf": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "novem",
+        "period": "Classical",
+        "meaning": "nine"
+      },
+      {
+        "language": "Old French",
+        "form": "nef",
+        "period": "Medieval",
+        "meaning": "nine"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'novem'."
+  },
+  "word_fr_dix": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "decem",
+        "period": "Classical",
+        "meaning": "ten"
+      },
+      {
+        "language": "Old French",
+        "form": "dis",
+        "period": "Medieval",
+        "meaning": "ten"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'decem'."
+  },
+  "word_fr_cent": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "centum",
+        "period": "Classical",
+        "meaning": "hundred"
+      },
+      {
+        "language": "Old French",
+        "form": "cent",
+        "period": "Medieval",
+        "meaning": "hundred"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'centum'."
+  },
+  "word_fr_mille": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "mille",
+        "period": "Classical",
+        "meaning": "thousand"
+      },
+      {
+        "language": "French",
+        "form": "mille",
+        "period": "Modern",
+        "meaning": "thousand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'mille'."
+  },
+  "word_fr_million": {
+    "languageOrigin": "Italian",
+    "yearOfOrigin": "c. 13th century",
+    "timeline": [
+      {
+        "language": "Italian",
+        "form": "milione",
+        "period": "13th century",
+        "meaning": "million"
+      },
+      {
+        "language": "French",
+        "form": "million",
+        "period": "14th century",
+        "meaning": "million"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Italian 'milione'."
+  },
+  "word_fr_moitie": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "medietās",
+        "period": "Classical",
+        "meaning": "half"
+      },
+      {
+        "language": "Old French",
+        "form": "moitié",
+        "period": "Medieval",
+        "meaning": "half"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'medietās'."
+  }
+}

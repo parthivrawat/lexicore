@@ -1,0 +1,426 @@
+{
+  "word_fr_personne": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Etruscan/Greek",
+        "form": "phersu",
+        "period": "Ancient",
+        "meaning": "mask, actor"
+      },
+      {
+        "language": "Latin",
+        "form": "persona",
+        "period": "Classical",
+        "meaning": "mask, person"
+      },
+      {
+        "language": "Old French",
+        "form": "persone",
+        "period": "Medieval",
+        "meaning": "person"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'persona' (mask, character)."
+  },
+  "word_fr_enfant": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "infans",
+        "period": "Classical",
+        "meaning": "one who cannot speak, baby"
+      },
+      {
+        "language": "Old French",
+        "form": "enfant",
+        "period": "Medieval",
+        "meaning": "child"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "infant",
+        "meaning": "baby"
+      }
+    ],
+    "notes": "From Latin 'infans' (not speaking)."
+  },
+  "word_fr_maison": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "mansiō",
+        "period": "Classical",
+        "meaning": "dwelling, stopping place"
+      },
+      {
+        "language": "Old French",
+        "form": "maison",
+        "period": "Medieval",
+        "meaning": "house"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'mansiō' (dwelling)."
+  },
+  "word_fr_eau": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "aqua",
+        "period": "Classical",
+        "meaning": "water"
+      },
+      {
+        "language": "Old French",
+        "form": "ewe",
+        "period": "Medieval",
+        "meaning": "water"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'aqua'."
+  },
+  "word_fr_nourriture": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "nūtrīre",
+        "period": "Classical",
+        "meaning": "to feed, nourish"
+      },
+      {
+        "language": "Old French",
+        "form": "norriture",
+        "period": "Medieval",
+        "meaning": "food"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "nourishment",
+        "meaning": "food"
+      }
+    ],
+    "notes": "From Latin 'nūtrīre' (to nourish)."
+  },
+  "word_fr_temps": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "tempus",
+        "period": "Classical",
+        "meaning": "time"
+      },
+      {
+        "language": "Old French",
+        "form": "tens",
+        "period": "Medieval",
+        "meaning": "time, weather"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'tempus'."
+  },
+  "word_fr_jour": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "diēs",
+        "period": "Classical",
+        "meaning": "day"
+      },
+      {
+        "language": "Old French",
+        "form": "jor",
+        "period": "Medieval",
+        "meaning": "day"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'diurnum' (daily)."
+  },
+  "word_fr_annee": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "annus",
+        "period": "Classical",
+        "meaning": "year"
+      },
+      {
+        "language": "Old French",
+        "form": "an",
+        "period": "Medieval",
+        "meaning": "year"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'annus'."
+  },
+  "word_fr_main": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "manus",
+        "period": "Classical",
+        "meaning": "hand"
+      },
+      {
+        "language": "Old French",
+        "form": "main",
+        "period": "Medieval",
+        "meaning": "hand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'manus'."
+  },
+  "word_fr_oeil": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "oculus",
+        "period": "Classical",
+        "meaning": "eye"
+      },
+      {
+        "language": "Old French",
+        "form": "uel",
+        "period": "Medieval",
+        "meaning": "eye"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'oculus'."
+  },
+  "word_fr_tete": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "testa",
+        "period": "Classical",
+        "meaning": "pot, tile, head (slang)"
+      },
+      {
+        "language": "Old French",
+        "form": "teste",
+        "period": "Medieval",
+        "meaning": "head"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'testa' (pot) used colloquially for head."
+  },
+  "word_fr_livre": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "liber",
+        "period": "Classical",
+        "meaning": "book"
+      },
+      {
+        "language": "Old French",
+        "form": "livre",
+        "period": "Medieval",
+        "meaning": "book"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'liber' (bark, book)."
+  },
+  "word_fr_porte": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "porta",
+        "period": "Classical",
+        "meaning": "gate, door"
+      },
+      {
+        "language": "Old French",
+        "form": "porte",
+        "period": "Medieval",
+        "meaning": "door"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'porta'."
+  },
+  "word_fr_rue": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ruga",
+        "period": "Classical",
+        "meaning": "furrow, path"
+      },
+      {
+        "language": "Old French",
+        "form": "rue",
+        "period": "Medieval",
+        "meaning": "street"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'ruga' (furrow)."
+  },
+  "word_fr_ville": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "villa",
+        "period": "Classical",
+        "meaning": "country house, estate"
+      },
+      {
+        "language": "Old French",
+        "form": "ville",
+        "period": "Medieval",
+        "meaning": "town, city"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'villa'."
+  },
+  "word_fr_pays": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "pagus",
+        "period": "Classical",
+        "meaning": "country district"
+      },
+      {
+        "language": "Old French",
+        "form": "païs",
+        "period": "Medieval",
+        "meaning": "country"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'pagus' (district)."
+  },
+  "word_fr_ecole": {
+    "languageOrigin": "Greek via Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Greek",
+        "form": "σχολή (scholē)",
+        "period": "Ancient",
+        "meaning": "leisure, school"
+      },
+      {
+        "language": "Latin",
+        "form": "schola",
+        "period": "Classical",
+        "meaning": "school"
+      },
+      {
+        "language": "French",
+        "form": "école",
+        "period": "Modern",
+        "meaning": "school"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Greek 'scholē' via Latin 'schola'."
+  },
+  "word_fr_ami": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "amicus",
+        "period": "Classical",
+        "meaning": "friend"
+      },
+      {
+        "language": "Old French",
+        "form": "ami",
+        "period": "Medieval",
+        "meaning": "friend"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'amicus'."
+  },
+  "word_fr_famille": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "familia",
+        "period": "Classical",
+        "meaning": "household"
+      },
+      {
+        "language": "French",
+        "form": "famille",
+        "period": "Modern",
+        "meaning": "family"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'familia'."
+  },
+  "word_fr_nom": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "nomen",
+        "period": "Classical",
+        "meaning": "name"
+      },
+      {
+        "language": "Old French",
+        "form": "nom",
+        "period": "Medieval",
+        "meaning": "name"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'nomen'."
+  }
+}

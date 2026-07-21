@@ -1,0 +1,290 @@
+{
+  "word_ur_bohat": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "بسیار (besyār)",
+        "period": "Medieval",
+        "meaning": "much, very"
+      },
+      {
+        "language": "Urdu",
+        "form": "بہت",
+        "period": "Modern",
+        "meaning": "very"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian 'besyār' (much)."
+  },
+  "word_ur_bhi": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अपि (api)",
+        "period": "Classical",
+        "meaning": "also, even"
+      },
+      {
+        "language": "Urdu",
+        "form": "بھی",
+        "period": "Modern",
+        "meaning": "also"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit अपि."
+  },
+  "word_ur_sirf": {
+    "languageOrigin": "Arabic/Persian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "صرف (ṣarf)",
+        "period": "Classical",
+        "meaning": "only"
+      },
+      {
+        "language": "Urdu",
+        "form": "صرف",
+        "period": "Modern",
+        "meaning": "only"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic 'ṣarf' (only)."
+  },
+  "word_ur_hamesha": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "هميشه (hameša)",
+        "period": "Medieval",
+        "meaning": "always"
+      },
+      {
+        "language": "Urdu",
+        "form": "ہمیشہ",
+        "period": "Modern",
+        "meaning": "always"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian 'hameša'."
+  },
+  "word_ur_kabhi_nahi": {
+    "languageOrigin": "Sanskrit/Urdu",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कदाचित् (kadācit)",
+        "period": "Classical",
+        "meaning": "ever, never"
+      },
+      {
+        "language": "Urdu",
+        "form": "کبھی نہیں",
+        "period": "Modern",
+        "meaning": "never"
+      }
+    ],
+    "cognates": [],
+    "notes": "کبھی (ever) + نہیں (not)."
+  },
+  "word_ur_kabhi_kabhi": {
+    "languageOrigin": "Sanskrit/Urdu",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कदा (kadā)",
+        "period": "Classical",
+        "meaning": "when"
+      },
+      {
+        "language": "Urdu",
+        "form": "کبھی کبھی",
+        "period": "Modern",
+        "meaning": "sometimes"
+      }
+    ],
+    "cognates": [],
+    "notes": "Reduplication of کبھی (ever)."
+  },
+  "word_ur_aksar": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "أكثر (akthar)",
+        "period": "Classical",
+        "meaning": "most, often"
+      },
+      {
+        "language": "Urdu",
+        "form": "اکثر",
+        "period": "Modern",
+        "meaning": "often"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic 'akthar' (most)."
+  },
+  "word_ur_ab": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अद्य (adya)",
+        "period": "Classical",
+        "meaning": "today, now"
+      },
+      {
+        "language": "Urdu",
+        "form": "اب",
+        "period": "Modern",
+        "meaning": "now"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit adya/Prakrit 'abha'."
+  },
+  "word_ur_baad_main": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पश्चात् (paścāt)",
+        "period": "Classical",
+        "meaning": "after"
+      },
+      {
+        "language": "Urdu",
+        "form": "بعد میں",
+        "period": "Modern",
+        "meaning": "later"
+      }
+    ],
+    "cognates": [],
+    "notes": "بعد (after) + میں (in)."
+  },
+  "word_ur_kal": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "काल्य (kālya)",
+        "period": "Classical",
+        "meaning": "of yesterday/tomorrow"
+      },
+      {
+        "language": "Urdu",
+        "form": "کل",
+        "period": "Modern",
+        "meaning": "yesterday/tomorrow"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit काल्य. Means both yesterday and tomorrow."
+  },
+  "word_ur_aane_wala_kal": {
+    "languageOrigin": "Urdu",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Urdu",
+        "form": "آنے والا کل",
+        "period": "Modern",
+        "meaning": "coming tomorrow"
+      }
+    ],
+    "cognates": [],
+    "notes": "آنے والا (coming) + کل (tomorrow)."
+  },
+  "word_ur_abhi": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अद्यापि (adyāpi)",
+        "period": "Classical",
+        "meaning": "even now"
+      },
+      {
+        "language": "Urdu",
+        "form": "ابھی",
+        "period": "Modern",
+        "meaning": "already"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit अद्यापि."
+  },
+  "word_ur_abhi_tak_nahi": {
+    "languageOrigin": "Urdu",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Urdu",
+        "form": "ابھی تک نہیں",
+        "period": "Modern",
+        "meaning": "not yet"
+      }
+    ],
+    "cognates": [],
+    "notes": "ابھی (now) + تک (until) + نہیں (not)."
+  },
+  "word_ur_shayad": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "شاید (šāyad)",
+        "period": "Medieval",
+        "meaning": "perhaps"
+      },
+      {
+        "language": "Urdu",
+        "form": "شاید",
+        "period": "Modern",
+        "meaning": "maybe"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian 'šāyad'."
+  },
+  "word_ur_yaqeenan": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "يقين (yaqīn)",
+        "period": "Classical",
+        "meaning": "certainty"
+      },
+      {
+        "language": "Urdu",
+        "form": "یقیناً",
+        "period": "Modern",
+        "meaning": "certainly"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic 'yaqīn' (certainty)."
+  }
+}

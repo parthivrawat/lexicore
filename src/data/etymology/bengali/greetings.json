@@ -1,0 +1,293 @@
+{
+  "word_bn_namaskar": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "नमस्कार (namaskāra)",
+        "period": "Vedic",
+        "meaning": "salutation"
+      },
+      {
+        "language": "Bengali",
+        "form": "নমস্কার",
+        "period": "Modern",
+        "meaning": "hello"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "नमस्कार",
+        "meaning": "hello"
+      },
+      {
+        "language": "Marathi",
+        "word": "नमस्कार",
+        "meaning": "hello"
+      }
+    ],
+    "notes": "From Sanskrit नमस् (namas, bow) + कार (kāra)."
+  },
+  "word_bn_adaab": {
+    "languageOrigin": "Persian/Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "أدب (adab)",
+        "period": "Classical",
+        "meaning": "courtesy, respect"
+      },
+      {
+        "language": "Persian",
+        "form": "آداب (ādāb)",
+        "period": "Medieval",
+        "meaning": "respectful greeting"
+      },
+      {
+        "language": "Bengali",
+        "form": "আদাব",
+        "period": "Modern",
+        "meaning": "respectful hello"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Urdu",
+        "word": "آداب",
+        "meaning": "greeting"
+      }
+    ],
+    "notes": "Persian/Arabic greeting showing courtesy."
+  },
+  "word_bn_biday": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "विदा (vidā)",
+        "period": "Classical",
+        "meaning": "leave-taking"
+      },
+      {
+        "language": "Bengali",
+        "form": "বিদায়",
+        "period": "Modern",
+        "meaning": "goodbye"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "विदा",
+        "meaning": "farewell"
+      }
+    ],
+    "notes": "From Sanskrit विदा (vidā, leave-taking)."
+  },
+  "word_bn_dhonnobad": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "धन्यवाद (dhanyavāda)",
+        "period": "Classical",
+        "meaning": "expression of gratitude"
+      },
+      {
+        "language": "Bengali",
+        "form": "ধন্যবাদ",
+        "period": "Modern",
+        "meaning": "thank you"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "धन्यवाद",
+        "meaning": "thank you"
+      }
+    ],
+    "notes": "From Sanskrit धन्य (dhanya, blessed) + वाद (vāda)."
+  },
+  "word_bn_doyakore": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "दया (dayā)",
+        "period": "Classical",
+        "meaning": "mercy, kindness"
+      },
+      {
+        "language": "Bengali",
+        "form": "দয়া করে",
+        "period": "Modern",
+        "meaning": "please"
+      }
+    ],
+    "cognates": [],
+    "notes": "দয়া (mercy) + করে (does). 'Kindly do'."
+  },
+  "word_bn_kichu_mone_korben_na": {
+    "languageOrigin": "Bengali",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Bengali",
+        "form": "কিছু মনে করবেন না",
+        "period": "Modern",
+        "meaning": "don't mind it"
+      }
+    ],
+    "cognates": [],
+    "notes": "কিছু (anything) + মনে (mind) + করবেন না (don't do)."
+  },
+  "word_bn_dukkhito": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "दुःखित (duḥkhita)",
+        "period": "Classical",
+        "meaning": "sorrowful"
+      },
+      {
+        "language": "Bengali",
+        "form": "দুঃখিত",
+        "period": "Modern",
+        "meaning": "sorry"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit दुःख (duḥkha, suffering)."
+  },
+  "word_bn_kichu_hoyni": {
+    "languageOrigin": "Bengali",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Bengali",
+        "form": "কিছু হয়নি",
+        "period": "Modern",
+        "meaning": "nothing happened"
+      }
+    ],
+    "cognates": [],
+    "notes": "কিছু (anything) + হয়নি (did not happen). 'It's okay'."
+  },
+  "word_bn_abar_dekha_hobe": {
+    "languageOrigin": "Bengali",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Bengali",
+        "form": "আবার দেখা হবে",
+        "period": "Modern",
+        "meaning": "will meet again"
+      }
+    ],
+    "cognates": [],
+    "notes": "আবার (again) + দেখা (see) + হবে (will be)."
+  },
+  "word_bn_apni_kemon_achen": {
+    "languageOrigin": "Bengali",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Bengali",
+        "form": "আপনি কেমন আছেন",
+        "period": "Modern",
+        "meaning": "how are you"
+      }
+    ],
+    "cognates": [],
+    "notes": "আপনি (you) + কেমন (how) + আছেন (are)."
+  },
+  "word_bn_ami_bhalo_achi": {
+    "languageOrigin": "Sanskrit/Bengali",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "भद्र (bhadra)",
+        "period": "Classical",
+        "meaning": "good, auspicious"
+      },
+      {
+        "language": "Bengali",
+        "form": "আমি ভালো আছি",
+        "period": "Modern",
+        "meaning": "I am fine"
+      }
+    ],
+    "cognates": [],
+    "notes": "ভালো (bhalo, good) from Sanskrit भद्र. আমি (I) + আছি (am)."
+  },
+  "word_bn_shubho_rat": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "शुभ रात्रि (śubha rātri)",
+        "period": "Classical",
+        "meaning": "auspicious night"
+      },
+      {
+        "language": "Bengali",
+        "form": "শুভ রাত্রি",
+        "period": "Modern",
+        "meaning": "good night"
+      }
+    ],
+    "cognates": [],
+    "notes": "শুভ (śubha) + রাত্রি (rātri, night)."
+  },
+  "word_bn_sagotom": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "स्वागत (svāgata)",
+        "period": "Classical",
+        "meaning": "welcome"
+      },
+      {
+        "language": "Bengali",
+        "form": "স্বাগতম",
+        "period": "Modern",
+        "meaning": "welcome"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit स्वागत (svāgata) + Bengali emphasis '-ম'."
+  },
+  "word_bn_maf_korben": {
+    "languageOrigin": "Persian/Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "معاف (maʿāf)",
+        "period": "Classical",
+        "meaning": "forgiven"
+      },
+      {
+        "language": "Bengali",
+        "form": "মাফ করবেন",
+        "period": "Modern",
+        "meaning": "excuse me"
+      }
+    ],
+    "cognates": [],
+    "notes": "মাফ (pardon) + করবেন (will do)."
+  }
+}

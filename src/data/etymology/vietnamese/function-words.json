@@ -1,0 +1,422 @@
+{
+  "word_vi_toi": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "我 (tôi)",
+        "period": "Medieval",
+        "meaning": "I"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "tôi",
+        "period": "Modern",
+        "meaning": "I"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sino-Vietnamese 我 (wǒ) or 'tôi' is a pronoun of modest origin."
+  },
+  "word_vi_ban_pronoun": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "bạn",
+        "period": "Medieval",
+        "meaning": "friend, you"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "bạn",
+        "period": "Modern",
+        "meaning": "you"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'bạn' (friend)."
+  },
+  "word_vi_anh": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "兄 (anh)",
+        "period": "Medieval",
+        "meaning": "elder brother"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "anh",
+        "period": "Modern",
+        "meaning": "you (male)"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sino-Vietnamese 兄 (elder brother)."
+  },
+  "word_vi_co": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "姑 (cô)",
+        "period": "Medieval",
+        "meaning": "aunt"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "cô",
+        "period": "Modern",
+        "meaning": "she, you (female)"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sino-Vietnamese 姑 (aunt)."
+  },
+  "word_vi_chung_toi": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "chúng tôi",
+        "period": "Medieval",
+        "meaning": "we"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "chúng tôi",
+        "period": "Modern",
+        "meaning": "we"
+      }
+    ],
+    "cognates": [],
+    "notes": "chúng (plural marker) + tôi (I)."
+  },
+  "word_vi_ho": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "họ",
+        "period": "Medieval",
+        "meaning": "they"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "họ",
+        "period": "Modern",
+        "meaning": "they"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese pronoun."
+  },
+  "word_vi_nay": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "này",
+        "period": "Medieval",
+        "meaning": "this"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "này",
+        "period": "Modern",
+        "meaning": "this"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese demonstrative."
+  },
+  "word_vi_kia": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "kia",
+        "period": "Medieval",
+        "meaning": "that"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "kia",
+        "period": "Modern",
+        "meaning": "that"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese demonstrative."
+  },
+  "word_vi_gi": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "gì",
+        "period": "Medieval",
+        "meaning": "what"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "gì",
+        "period": "Modern",
+        "meaning": "what"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese interrogative."
+  },
+  "word_vi_ai": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "ai",
+        "period": "Medieval",
+        "meaning": "who"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "ai",
+        "period": "Modern",
+        "meaning": "who"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese interrogative."
+  },
+  "word_vi_o_dau": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "ở đâu",
+        "period": "Medieval",
+        "meaning": "where"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "ở đâu",
+        "period": "Modern",
+        "meaning": "where"
+      }
+    ],
+    "cognates": [],
+    "notes": "ở (at) + đâu (where)."
+  },
+  "word_vi_khi_nao": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "khi nào",
+        "period": "Medieval",
+        "meaning": "when"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "khi nào",
+        "period": "Modern",
+        "meaning": "when"
+      }
+    ],
+    "cognates": [],
+    "notes": "khi (time) + nào (which)."
+  },
+  "word_vi_tai_sao": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "為事 (tại sao)",
+        "period": "Medieval",
+        "meaning": "why"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "tại sao",
+        "period": "Modern",
+        "meaning": "why"
+      }
+    ],
+    "cognates": [],
+    "notes": "tại (because) + sao (what)."
+  },
+  "word_vi_the_nao": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "thế nào",
+        "period": "Medieval",
+        "meaning": "how"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "thế nào",
+        "period": "Modern",
+        "meaning": "how"
+      }
+    ],
+    "cognates": [],
+    "notes": "thế (thus) + nào (which)."
+  },
+  "word_vi_va": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "và",
+        "period": "Medieval",
+        "meaning": "and"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "và",
+        "period": "Modern",
+        "meaning": "and"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese conjunction."
+  },
+  "word_vi_hoac": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "或 (hoặc)",
+        "period": "Medieval",
+        "meaning": "or"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "hoặc",
+        "period": "Modern",
+        "meaning": "or"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Chinese 或 (huò)."
+  },
+  "word_vi_nhung": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "nhưng",
+        "period": "Medieval",
+        "meaning": "but"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "nhưng",
+        "period": "Modern",
+        "meaning": "but"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese conjunction."
+  },
+  "word_vi_neu": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "nếu",
+        "period": "Medieval",
+        "meaning": "if"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "nếu",
+        "period": "Modern",
+        "meaning": "if"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese conjunction."
+  },
+  "word_vi_vi": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "為 (vì)",
+        "period": "Medieval",
+        "meaning": "because"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "vì",
+        "period": "Modern",
+        "meaning": "because"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Chinese 為 (wèi)."
+  },
+  "word_vi_khong": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "空 (không)",
+        "period": "Medieval",
+        "meaning": "empty, no"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "không",
+        "period": "Modern",
+        "meaning": "no"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Chinese 空 (kōng)."
+  },
+  "word_vi_co_yes": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "có",
+        "period": "Medieval",
+        "meaning": "yes, have"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "có",
+        "period": "Modern",
+        "meaning": "yes"
+      }
+    ],
+    "cognates": [],
+    "notes": "Affirmative 'yes' from 'to have'."
+  }
+}

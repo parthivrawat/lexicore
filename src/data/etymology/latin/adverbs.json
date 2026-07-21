@@ -1,0 +1,224 @@
+{
+  "word_la_multum": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "multum",
+        "period": "Classical",
+        "meaning": "much, very"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "multitude",
+        "meaning": "many"
+      }
+    ],
+    "notes": "From Latin multum."
+  },
+  "word_la_etiam": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "etiam",
+        "period": "Classical",
+        "meaning": "also, even"
+      }
+    ],
+    "cognates": [],
+    "notes": "From et (and) + iam (now)."
+  },
+  "word_la_solum": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sōlum",
+        "period": "Classical",
+        "meaning": "only"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin sōlum."
+  },
+  "word_la_semper": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "semper",
+        "period": "Classical",
+        "meaning": "always"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin semper."
+  },
+  "word_la_numquam": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "numquam",
+        "period": "Classical",
+        "meaning": "never"
+      }
+    ],
+    "cognates": [],
+    "notes": "From ne- + umquam."
+  },
+  "word_la_aliquando": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "aliquandō",
+        "period": "Classical",
+        "meaning": "sometime"
+      }
+    ],
+    "cognates": [],
+    "notes": "From alius (some) + quando (when)."
+  },
+  "word_la_saepe": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "saepe",
+        "period": "Classical",
+        "meaning": "often"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin saepe."
+  },
+  "word_la_nunc": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "nunc",
+        "period": "Classical",
+        "meaning": "now"
+      }
+    ],
+    "cognates": [],
+    "notes": "From num (now) + -ce."
+  },
+  "word_la_postea": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "posteā",
+        "period": "Classical",
+        "meaning": "afterwards"
+      }
+    ],
+    "cognates": [],
+    "notes": "From post (after) + eā (there)."
+  },
+  "word_la_heri": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "heri",
+        "period": "Classical",
+        "meaning": "yesterday"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin heri."
+  },
+  "word_la_cras": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "crās",
+        "period": "Classical",
+        "meaning": "tomorrow"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin crās."
+  },
+  "word_la_iam": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "iam",
+        "period": "Classical",
+        "meaning": "already"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin iam."
+  },
+  "word_la_nondum": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "nōndum",
+        "period": "Classical",
+        "meaning": "not yet"
+      }
+    ],
+    "cognates": [],
+    "notes": "From nōn (not) + dum (yet)."
+  },
+  "word_la_fortasse": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "fortasse",
+        "period": "Classical",
+        "meaning": "perhaps"
+      }
+    ],
+    "cognates": [],
+    "notes": "From fors (chance) + -tasse."
+  },
+  "word_la_certe": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "certē",
+        "period": "Classical",
+        "meaning": "certainly"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "certainly",
+        "meaning": "surely"
+      }
+    ],
+    "notes": "From certus (certain)."
+  }
+}

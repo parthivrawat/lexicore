@@ -1,0 +1,302 @@
+{
+  "word_vi_khong": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "không",
+        "period": "Medieval",
+        "meaning": "zero, not"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "không",
+        "period": "Modern",
+        "meaning": "zero"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Chinese 空 (kōng, empty). Also means 'no/not'."
+  },
+  "word_vi_mot": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "một",
+        "period": "Medieval",
+        "meaning": "one"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "một",
+        "period": "Modern",
+        "meaning": "one"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Chinese 末 (mò) or native Mon-Khmer?"
+  },
+  "word_vi_hai": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "hai",
+        "period": "Medieval",
+        "meaning": "two"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "hai",
+        "period": "Modern",
+        "meaning": "two"
+      }
+    ],
+    "cognates": [],
+    "notes": "Possibly from Chinese 二 (èr) via Middle Chinese? Or native."
+  },
+  "word_vi_ba": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "ba",
+        "period": "Medieval",
+        "meaning": "three"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "ba",
+        "period": "Modern",
+        "meaning": "three"
+      }
+    ],
+    "cognates": [],
+    "notes": "Possibly from Chinese 三 (sān) or native."
+  },
+  "word_vi_bon": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "bốn",
+        "period": "Medieval",
+        "meaning": "four"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "bốn",
+        "period": "Modern",
+        "meaning": "four"
+      }
+    ],
+    "cognates": [],
+    "notes": "Possibly from Chinese 四 (sì) or native Austroasiatic."
+  },
+  "word_vi_nam": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "năm",
+        "period": "Medieval",
+        "meaning": "five"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "năm",
+        "period": "Modern",
+        "meaning": "five"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Chinese 五 (wǔ) or native?"
+  },
+  "word_vi_sau": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "sáu",
+        "period": "Medieval",
+        "meaning": "six"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "sáu",
+        "period": "Modern",
+        "meaning": "six"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Chinese 六 (liù)."
+  },
+  "word_vi_bay": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "bảy",
+        "period": "Medieval",
+        "meaning": "seven"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "bảy",
+        "period": "Modern",
+        "meaning": "seven"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Chinese 七 (qī) or native."
+  },
+  "word_vi_tam": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "tám",
+        "period": "Medieval",
+        "meaning": "eight"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "tám",
+        "period": "Modern",
+        "meaning": "eight"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Chinese 八 (bā)."
+  },
+  "word_vi_chin": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "chín",
+        "period": "Medieval",
+        "meaning": "nine"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "chín",
+        "period": "Modern",
+        "meaning": "nine"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Chinese 九 (jiǔ)."
+  },
+  "word_vi_muoi": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "mười",
+        "period": "Medieval",
+        "meaning": "ten"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "mười",
+        "period": "Modern",
+        "meaning": "ten"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Chinese 十 (shí) or native."
+  },
+  "word_vi_mot_tram": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "一百 (một trăm)",
+        "period": "Medieval",
+        "meaning": "hundred"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "một trăm",
+        "period": "Modern",
+        "meaning": "hundred"
+      }
+    ],
+    "cognates": [],
+    "notes": "một (one) + trăm (hundred), from Chinese 百 (bǎi)."
+  },
+  "word_vi_mot_ngan": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "一千 (một ngàn)",
+        "period": "Medieval",
+        "meaning": "thousand"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "một nghìn",
+        "period": "Modern",
+        "meaning": "thousand"
+      }
+    ],
+    "cognates": [],
+    "notes": "ngàn/nghìn from Chinese 千 (qiān)."
+  },
+  "word_vi_mot_trieu": {
+    "languageOrigin": "Sino-Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Chinese",
+        "form": "百萬 (bǎi wàn)",
+        "period": "Medieval",
+        "meaning": "million"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "một triệu",
+        "period": "Modern",
+        "meaning": "million"
+      }
+    ],
+    "cognates": [],
+    "notes": "triệu from Chinese 兆 (zhào) used as million."
+  },
+  "word_vi_mot_nua": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "半 (nửa)",
+        "period": "Medieval",
+        "meaning": "half"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "một nửa",
+        "period": "Modern",
+        "meaning": "half"
+      }
+    ],
+    "cognates": [],
+    "notes": "một (one) + nửa (half), from Chinese 半 (bàn)."
+  }
+}

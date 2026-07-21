@@ -1,0 +1,302 @@
+{
+  "word_tr_cok": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "çok",
+        "period": "Old Turkic",
+        "meaning": "many, much"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "çok",
+        "period": "Modern",
+        "meaning": "very"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic çok."
+  },
+  "word_tr_de": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "dä",
+        "period": "Old Turkic",
+        "meaning": "and, also"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "de/da",
+        "period": "Modern",
+        "meaning": "also"
+      }
+    ],
+    "cognates": [],
+    "notes": "Clitic postposition meaning 'also/too'."
+  },
+  "word_tr_sadece": {
+    "languageOrigin": "Turkic/Arabic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "صرف (ṣarf)",
+        "period": "Classical",
+        "meaning": "only"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "sadece",
+        "period": "Modern",
+        "meaning": "only"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic 'sadece' via Ottoman Turkish."
+  },
+  "word_tr_her_zaman": {
+    "languageOrigin": "Turkic/Arabic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "her zaman",
+        "period": "Ottoman",
+        "meaning": "every time"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "her zaman",
+        "period": "Modern",
+        "meaning": "always"
+      }
+    ],
+    "cognates": [],
+    "notes": "her (every) + zaman (time)."
+  },
+  "word_tr_hicbir_zaman": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "hiçbir zaman",
+        "period": "Ottoman",
+        "meaning": "no time"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "hiçbir zaman",
+        "period": "Modern",
+        "meaning": "never"
+      }
+    ],
+    "cognates": [],
+    "notes": "hiçbir (none) + zaman (time)."
+  },
+  "word_tr_bazen": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "bazan",
+        "period": "Old Turkic",
+        "meaning": "sometimes"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "bazen",
+        "period": "Modern",
+        "meaning": "sometimes"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic bazan."
+  },
+  "word_tr_sik_sik": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "sık",
+        "period": "Old Turkic",
+        "meaning": "dense, frequent"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "sık sık",
+        "period": "Modern",
+        "meaning": "often"
+      }
+    ],
+    "cognates": [],
+    "notes": "sık (dense/frequent) reduplication."
+  },
+  "word_tr_simdi": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "şimdi",
+        "period": "Old Turkic",
+        "meaning": "now"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "şimdi",
+        "period": "Modern",
+        "meaning": "now"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic şimdi."
+  },
+  "word_tr_sonra": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "sonra",
+        "period": "Old Turkic",
+        "meaning": "after"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "sonra",
+        "period": "Modern",
+        "meaning": "later"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic sonra."
+  },
+  "word_tr_dun": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "tün",
+        "period": "Old Turkic",
+        "meaning": "yesterday/night"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "dün",
+        "period": "Modern",
+        "meaning": "yesterday"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic tün/dün."
+  },
+  "word_tr_yarin": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "yarïn",
+        "period": "Old Turkic",
+        "meaning": "tomorrow"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "yarın",
+        "period": "Modern",
+        "meaning": "tomorrow"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic yarïn."
+  },
+  "word_tr_zaten": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "zaten",
+        "period": "Ottoman",
+        "meaning": "already"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "zaten",
+        "period": "Modern",
+        "meaning": "already"
+      }
+    ],
+    "cognates": [],
+    "notes": "zat (essence) + -en."
+  },
+  "word_tr_henuz_degil": {
+    "languageOrigin": "Turkic/Persian",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "هنوز (hanūz)",
+        "period": "Medieval",
+        "meaning": "still, yet"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "henüz değil",
+        "period": "Modern",
+        "meaning": "not yet"
+      }
+    ],
+    "cognates": [],
+    "notes": "henüz (yet/still) + değil (not)."
+  },
+  "word_tr_belki": {
+    "languageOrigin": "Persian/Turkic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "باری که (bāraki)?",
+        "period": "Medieval",
+        "meaning": "perhaps"
+      },
+      {
+        "language": "Ottoman Turkish",
+        "form": "belki",
+        "period": "Medieval",
+        "meaning": "maybe"
+      }
+    ],
+    "cognates": [],
+    "notes": "Of Persian origin."
+  },
+  "word_tr_kesinlikle": {
+    "languageOrigin": "Turkic/Arabic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "قَطع (qaṭʿ)",
+        "period": "Classical",
+        "meaning": "cutting, certainty"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "kesinlikle",
+        "period": "Modern",
+        "meaning": "certainly"
+      }
+    ],
+    "cognates": [],
+    "notes": "kesin (certain) + -lik (ness) + -le (with)."
+  }
+}

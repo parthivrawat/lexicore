@@ -1,0 +1,247 @@
+{
+  "word_ar_assalamu_alaikum": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "7th century CE",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "السلام عليكم",
+        "period": "7th century CE",
+        "meaning": "peace be upon you"
+      },
+      {
+        "language": "Modern Standard Arabic",
+        "form": "السلام عليكم",
+        "period": "Present",
+        "meaning": "peace be upon you (formal greeting)"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "שלום עליכם (shalom aleichem)",
+        "meaning": "peace be upon you"
+      },
+      {
+        "language": "Urdu",
+        "word": "السلام علیکم",
+        "meaning": "peace be upon you"
+      }
+    ],
+    "notes": "Islamic greeting derived from Quranic Arabic. Root س-ل-م (s-l-m) means peace/safety."
+  },
+  "word_ar_wa_alaikum_assalam": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "7th century CE",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "وعليكم السلام",
+        "period": "7th century CE",
+        "meaning": "and upon you peace"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "עליכם שלום (aleichem shalom)",
+        "meaning": "upon you peace"
+      }
+    ],
+    "notes": "Traditional response to 'As-salamu alaikum'. Same root س-ل-م (s-l-m)."
+  },
+  "word_ar_marhaba": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "مرحبا",
+        "period": "Pre-Islamic era",
+        "meaning": "welcome, hello"
+      }
+    ],
+    "cognates": [],
+    "notes": "From root ر-ح-ب (r-ḥ-b) meaning 'wide/spacious', conveying hospitality."
+  },
+  "word_ar_sabah_alkhair": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Medieval period",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "صباح الخير",
+        "period": "Medieval",
+        "meaning": "morning of goodness"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Urdu",
+        "word": "صبح بخیر",
+        "meaning": "good morning"
+      }
+    ],
+    "notes": "Compound: صباح (morning) + الخير (the good). Root ص-ب-ح (ṣ-b-ḥ) for morning."
+  },
+  "word_ar_shukran": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "7th century CE",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "شكرا",
+        "period": "7th century CE",
+        "meaning": "thanks"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "תודה (todah)",
+        "meaning": "thanks"
+      }
+    ],
+    "notes": "From root ش-ك-ر (sh-k-r) meaning 'to thank/be grateful'."
+  },
+  "word_ar_min_fadlak": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Medieval period",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "من فضلك",
+        "period": "Medieval",
+        "meaning": "from your favor"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: من (from) + فضل (favor/grace) + ك (your). Root ف-ض-ل (f-ḍ-l)."
+  },
+  "word_ar_afwan": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Medieval period",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "عفوا",
+        "period": "Medieval",
+        "meaning": "pardon, you're welcome"
+      }
+    ],
+    "cognates": [],
+    "notes": "From root ع-ف-و (ʕ-f-w) meaning 'to pardon/forgive'."
+  },
+  "word_ar_aasif": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Medieval period",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "آسف",
+        "period": "Medieval",
+        "meaning": "sorry, regretful"
+      }
+    ],
+    "cognates": [],
+    "notes": "From root أ-س-ف (ʔ-s-f) meaning 'to regret/be sorry'."
+  },
+  "word_ar_laa_baas": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Medieval period",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "لا بأس",
+        "period": "Medieval",
+        "meaning": "no harm/problem"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: لا (no) + بأس (harm). Root ب-أ-س (b-ʔ-s)."
+  },
+  "word_ar_maassalama": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Medieval period",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "مع السلامة",
+        "period": "Medieval",
+        "meaning": "with peace (goodbye)"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: مع (with) + السلامة (the safety/peace). Root س-ل-م (s-l-m)."
+  },
+  "word_ar_ila_alliqa": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Medieval period",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "إلى اللقاء",
+        "period": "Medieval",
+        "meaning": "until the meeting"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: إلى (until) + اللقاء (the meeting). Root ل-ق-ي (l-q-y)."
+  },
+  "word_ar_kayfa_haalak": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Medieval period",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "كيف حالك",
+        "period": "Medieval",
+        "meaning": "how is your condition"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: كيف (how) + حال (condition) + ك (your). Root ح-و-ل (ḥ-w-l)."
+  },
+  "word_ar_ana_bikhayr": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Medieval period",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "أنا بخير",
+        "period": "Medieval",
+        "meaning": "I am in goodness"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: أنا (I) + ب (in) + خير (goodness). Root خ-ي-ر (kh-y-r)."
+  },
+  "word_ar_tisbah_ala_khayr": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Medieval period",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "تصبح على خير",
+        "period": "Medieval",
+        "meaning": "may you wake upon goodness"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: تصبح (you wake) + على (upon) + خير (goodness). Root ص-ب-ح (ṣ-b-ḥ)."
+  },
+  "word_ar_ahlan_wa_sahlan": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "أهلا وسهلا",
+        "period": "Pre-Islamic era",
+        "meaning": "family and ease (welcome)"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: أهلا (family/people) + و (and) + سهلا (ease/plain). Traditional welcome phrase."
+  }
+}

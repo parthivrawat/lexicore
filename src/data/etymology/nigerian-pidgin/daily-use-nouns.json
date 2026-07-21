@@ -1,0 +1,402 @@
+{
+  "word_pcm_pesin": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "person",
+        "period": "17th century",
+        "meaning": "person"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "pesin",
+        "period": "Modern",
+        "meaning": "person"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'person'."
+  },
+  "word_pcm_pikin": {
+    "languageOrigin": "Portuguese/English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "Portuguese",
+        "form": "pequeno (small)",
+        "period": "17th century",
+        "meaning": "child"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "pikin",
+        "period": "Modern",
+        "meaning": "child"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Portuguese pequeno or English 'pickaninny'."
+  },
+  "word_pcm_house": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "house",
+        "period": "17th century",
+        "meaning": "house"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "house",
+        "period": "Modern",
+        "meaning": "house"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'house'."
+  },
+  "word_pcm_wata": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "water",
+        "period": "17th century",
+        "meaning": "water"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "wata",
+        "period": "Modern",
+        "meaning": "water"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'water'."
+  },
+  "word_pcm_chop": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "chop",
+        "period": "17th century",
+        "meaning": "food"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "chop",
+        "period": "Modern",
+        "meaning": "food"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'chop'."
+  },
+  "word_pcm_taim": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "time",
+        "period": "17th century",
+        "meaning": "time"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "taim",
+        "period": "Modern",
+        "meaning": "time"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'time'."
+  },
+  "word_pcm_dey": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "day",
+        "period": "17th century",
+        "meaning": "day"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "dey",
+        "period": "Modern",
+        "meaning": "day"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'day'."
+  },
+  "word_pcm_year": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "year",
+        "period": "17th century",
+        "meaning": "year"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "year",
+        "period": "Modern",
+        "meaning": "year"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'year'."
+  },
+  "word_pcm_hand": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "hand",
+        "period": "17th century",
+        "meaning": "hand"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "hand",
+        "period": "Modern",
+        "meaning": "hand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'hand'."
+  },
+  "word_pcm_eye": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "eye",
+        "period": "17th century",
+        "meaning": "eye"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "eye",
+        "period": "Modern",
+        "meaning": "eye"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'eye'."
+  },
+  "word_pcm_head": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "head",
+        "period": "17th century",
+        "meaning": "head"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "head",
+        "period": "Modern",
+        "meaning": "head"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'head'."
+  },
+  "word_pcm_book": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "book",
+        "period": "17th century",
+        "meaning": "book"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "book",
+        "period": "Modern",
+        "meaning": "book"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'book'."
+  },
+  "word_pcm_door": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "door",
+        "period": "17th century",
+        "meaning": "door"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "door",
+        "period": "Modern",
+        "meaning": "door"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'door'."
+  },
+  "word_pcm_street": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "street",
+        "period": "17th century",
+        "meaning": "street"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "street",
+        "period": "Modern",
+        "meaning": "street"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'street'."
+  },
+  "word_pcm_town": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "town",
+        "period": "17th century",
+        "meaning": "town/city"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "town",
+        "period": "Modern",
+        "meaning": "city"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'town'."
+  },
+  "word_pcm_kontri": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "country",
+        "period": "17th century",
+        "meaning": "country"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "kontri",
+        "period": "Modern",
+        "meaning": "country"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'country'."
+  },
+  "word_pcm_school": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "school",
+        "period": "17th century",
+        "meaning": "school"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "school",
+        "period": "Modern",
+        "meaning": "school"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'school'."
+  },
+  "word_pcm_padi": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "partner / paddy",
+        "period": "17th century",
+        "meaning": "friend"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "padi",
+        "period": "Modern",
+        "meaning": "friend"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'paddy/pal'."
+  },
+  "word_pcm_family": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "family",
+        "period": "17th century",
+        "meaning": "family"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "family",
+        "period": "Modern",
+        "meaning": "family"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'family'."
+  },
+  "word_pcm_name": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "name",
+        "period": "17th century",
+        "meaning": "name"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "name",
+        "period": "Modern",
+        "meaning": "name"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'name'."
+  }
+}

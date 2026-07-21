@@ -1,0 +1,302 @@
+{
+  "word_id_sangat": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "sangat",
+        "period": "Medieval",
+        "meaning": "very"
+      },
+      {
+        "language": "Indonesian",
+        "form": "sangat",
+        "period": "Modern",
+        "meaning": "very"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'sangat'."
+  },
+  "word_id_juga": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "juga",
+        "period": "Medieval",
+        "meaning": "also"
+      },
+      {
+        "language": "Indonesian",
+        "form": "juga",
+        "period": "Modern",
+        "meaning": "also"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'juga'."
+  },
+  "word_id_hanya": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "hanya",
+        "period": "Medieval",
+        "meaning": "only"
+      },
+      {
+        "language": "Indonesian",
+        "form": "hanya",
+        "period": "Modern",
+        "meaning": "only"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'hanya'."
+  },
+  "word_id_selalu": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "selalu",
+        "period": "Medieval",
+        "meaning": "always"
+      },
+      {
+        "language": "Indonesian",
+        "form": "selalu",
+        "period": "Modern",
+        "meaning": "always"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'selalu'."
+  },
+  "word_id_tidak_pernah": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "tidak pernah",
+        "period": "Medieval",
+        "meaning": "never"
+      },
+      {
+        "language": "Indonesian",
+        "form": "tidak pernah",
+        "period": "Modern",
+        "meaning": "never"
+      }
+    ],
+    "cognates": [],
+    "notes": "tidak (not) + pernah (ever)."
+  },
+  "word_id_kadang_kadang": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "kadang-kadang",
+        "period": "Medieval",
+        "meaning": "sometimes"
+      },
+      {
+        "language": "Indonesian",
+        "form": "kadang-kadang",
+        "period": "Modern",
+        "meaning": "sometimes"
+      }
+    ],
+    "cognates": [],
+    "notes": "Reduplication of 'kadang' (sometimes)."
+  },
+  "word_id_sering": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "sering",
+        "period": "Medieval",
+        "meaning": "often"
+      },
+      {
+        "language": "Indonesian",
+        "form": "sering",
+        "period": "Modern",
+        "meaning": "often"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'sering'."
+  },
+  "word_id_sekarang": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "sekarang",
+        "period": "Medieval",
+        "meaning": "now"
+      },
+      {
+        "language": "Indonesian",
+        "form": "sekarang",
+        "period": "Modern",
+        "meaning": "now"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'sekarang'."
+  },
+  "word_id_nanti": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "nanti",
+        "period": "Medieval",
+        "meaning": "later"
+      },
+      {
+        "language": "Indonesian",
+        "form": "nanti",
+        "period": "Modern",
+        "meaning": "later"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'nanti'."
+  },
+  "word_id_kemarin": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "kemarin",
+        "period": "Medieval",
+        "meaning": "yesterday"
+      },
+      {
+        "language": "Indonesian",
+        "form": "kemarin",
+        "period": "Modern",
+        "meaning": "yesterday"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'kemarin'."
+  },
+  "word_id_besok": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "besok",
+        "period": "Medieval",
+        "meaning": "tomorrow"
+      },
+      {
+        "language": "Indonesian",
+        "form": "besok",
+        "period": "Modern",
+        "meaning": "tomorrow"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'besok'."
+  },
+  "word_id_sudah": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "sudah",
+        "period": "Medieval",
+        "meaning": "already"
+      },
+      {
+        "language": "Indonesian",
+        "form": "sudah",
+        "period": "Modern",
+        "meaning": "already"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'sudah'."
+  },
+  "word_id_belum": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "belum",
+        "period": "Medieval",
+        "meaning": "not yet"
+      },
+      {
+        "language": "Indonesian",
+        "form": "belum",
+        "period": "Modern",
+        "meaning": "not yet"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'belum'."
+  },
+  "word_id_mungkin": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "mungkin",
+        "period": "Medieval",
+        "meaning": "maybe"
+      },
+      {
+        "language": "Indonesian",
+        "form": "mungkin",
+        "period": "Modern",
+        "meaning": "maybe"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'mungkin'."
+  },
+  "word_id_pasti": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "pasti",
+        "period": "Medieval",
+        "meaning": "certain"
+      },
+      {
+        "language": "Indonesian",
+        "form": "pasti",
+        "period": "Modern",
+        "meaning": "certainly"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'pasti'."
+  }
+}

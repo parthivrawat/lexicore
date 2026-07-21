@@ -1,0 +1,466 @@
+{
+  "word_pt_eu": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ego",
+        "period": "Classical",
+        "meaning": "I"
+      },
+      {
+        "language": "Portuguese",
+        "form": "eu",
+        "period": "Medieval",
+        "meaning": "I"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "ego",
+        "meaning": "I"
+      }
+    ],
+    "notes": "From Latin 'ego'."
+  },
+  "word_pt_tu": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "tu",
+        "period": "Classical",
+        "meaning": "you"
+      },
+      {
+        "language": "Portuguese",
+        "form": "tu",
+        "period": "Medieval",
+        "meaning": "you"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "thou",
+        "meaning": "you"
+      }
+    ],
+    "notes": "From Latin 'tu'."
+  },
+  "word_pt_voce": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "vos + vossa mercê",
+        "period": "Medieval",
+        "meaning": "your grace"
+      },
+      {
+        "language": "Portuguese",
+        "form": "você",
+        "period": "18th century",
+        "meaning": "you (formal)"
+      }
+    ],
+    "cognates": [],
+    "notes": "Contraction of 'vossemecê' (your mercy)."
+  },
+  "word_pt_ele": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ille",
+        "period": "Classical",
+        "meaning": "that, he"
+      },
+      {
+        "language": "Portuguese",
+        "form": "ele",
+        "period": "Medieval",
+        "meaning": "he"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Spanish",
+        "word": "él",
+        "meaning": "he"
+      }
+    ],
+    "notes": "From Latin 'ille'."
+  },
+  "word_pt_ela": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "illa",
+        "period": "Classical",
+        "meaning": "that (f.), she"
+      },
+      {
+        "language": "Portuguese",
+        "form": "ela",
+        "period": "Medieval",
+        "meaning": "she"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'illa'."
+  },
+  "word_pt_nos": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "nos",
+        "period": "Classical",
+        "meaning": "we"
+      },
+      {
+        "language": "Portuguese",
+        "form": "nós",
+        "period": "Medieval",
+        "meaning": "we"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Spanish",
+        "word": "nosotros",
+        "meaning": "we"
+      }
+    ],
+    "notes": "From Latin 'nos'."
+  },
+  "word_pt_eles": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "illi",
+        "period": "Classical",
+        "meaning": "those, they"
+      },
+      {
+        "language": "Portuguese",
+        "form": "eles",
+        "period": "Medieval",
+        "meaning": "they"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'illi'."
+  },
+  "word_pt_isto": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "istud",
+        "period": "Classical",
+        "meaning": "this"
+      },
+      {
+        "language": "Portuguese",
+        "form": "isto",
+        "period": "Medieval",
+        "meaning": "this"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'istud'."
+  },
+  "word_pt_isso": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "id",
+        "period": "Classical",
+        "meaning": "that"
+      },
+      {
+        "language": "Portuguese",
+        "form": "isso",
+        "period": "Medieval",
+        "meaning": "that"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'id' (it, that)."
+  },
+  "word_pt_o_que": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quid",
+        "period": "Classical",
+        "meaning": "what"
+      },
+      {
+        "language": "Portuguese",
+        "form": "o que",
+        "period": "Medieval",
+        "meaning": "what"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'quid'."
+  },
+  "word_pt_quem": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quis",
+        "period": "Classical",
+        "meaning": "who"
+      },
+      {
+        "language": "Portuguese",
+        "form": "quem",
+        "period": "Medieval",
+        "meaning": "who"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'quis'."
+  },
+  "word_pt_onde": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "unde",
+        "period": "Classical",
+        "meaning": "where"
+      },
+      {
+        "language": "Portuguese",
+        "form": "onde",
+        "period": "Medieval",
+        "meaning": "where"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'unde'."
+  },
+  "word_pt_quando": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quando",
+        "period": "Classical",
+        "meaning": "when"
+      },
+      {
+        "language": "Portuguese",
+        "form": "quando",
+        "period": "Medieval",
+        "meaning": "when"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'quando'."
+  },
+  "word_pt_por_que": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "propter quid",
+        "period": "Classical",
+        "meaning": "because of what"
+      },
+      {
+        "language": "Portuguese",
+        "form": "por que",
+        "period": "Medieval",
+        "meaning": "why"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'for what'."
+  },
+  "word_pt_como": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quomodo",
+        "period": "Classical",
+        "meaning": "how"
+      },
+      {
+        "language": "Portuguese",
+        "form": "como",
+        "period": "Medieval",
+        "meaning": "how"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'quomodo'."
+  },
+  "word_pt_e": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "et",
+        "period": "Classical",
+        "meaning": "and"
+      },
+      {
+        "language": "Portuguese",
+        "form": "e",
+        "period": "Medieval",
+        "meaning": "and"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'et'."
+  },
+  "word_pt_ou": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "aut",
+        "period": "Classical",
+        "meaning": "or"
+      },
+      {
+        "language": "Portuguese",
+        "form": "ou",
+        "period": "Medieval",
+        "meaning": "or"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'aut'."
+  },
+  "word_pt_mas": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "magis",
+        "period": "Classical",
+        "meaning": "more, but"
+      },
+      {
+        "language": "Portuguese",
+        "form": "mas",
+        "period": "Medieval",
+        "meaning": "but"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'magis' (more)."
+  },
+  "word_pt_se": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "si",
+        "period": "Classical",
+        "meaning": "if"
+      },
+      {
+        "language": "Portuguese",
+        "form": "se",
+        "period": "Medieval",
+        "meaning": "if"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'si'."
+  },
+  "word_pt_porque": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "pro quid",
+        "period": "Classical",
+        "meaning": "for what"
+      },
+      {
+        "language": "Portuguese",
+        "form": "porque",
+        "period": "Medieval",
+        "meaning": "because"
+      }
+    ],
+    "cognates": [],
+    "notes": "One-word conjunction 'because'."
+  },
+  "word_pt_nao": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "non",
+        "period": "Classical",
+        "meaning": "not"
+      },
+      {
+        "language": "Portuguese",
+        "form": "não",
+        "period": "Medieval",
+        "meaning": "no"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'non'."
+  },
+  "word_pt_sim": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sic",
+        "period": "Classical",
+        "meaning": "thus, yes"
+      },
+      {
+        "language": "Portuguese",
+        "form": "sim",
+        "period": "Medieval",
+        "meaning": "yes"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'sic' (thus)."
+  }
+}

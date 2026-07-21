@@ -1,0 +1,391 @@
+{
+  "word_de_null": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "nullus",
+        "period": "Classical",
+        "meaning": "none"
+      },
+      {
+        "language": "German",
+        "form": "Null",
+        "period": "17th century",
+        "meaning": "zero"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "null",
+        "meaning": "none"
+      }
+    ],
+    "notes": "From Latin 'nullus'. Replaced older 'Ziffer' for zero."
+  },
+  "word_de_eins": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*ainaz",
+        "period": "c. 500 BCE",
+        "meaning": "one"
+      },
+      {
+        "language": "Old High German",
+        "form": "ein",
+        "period": "8th century",
+        "meaning": "one"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "one",
+        "meaning": "one"
+      },
+      {
+        "language": "Latin",
+        "word": "unus",
+        "meaning": "one"
+      }
+    ],
+    "notes": "PIE *óynos."
+  },
+  "word_de_zwei": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*twai",
+        "period": "c. 500 BCE",
+        "meaning": "two"
+      },
+      {
+        "language": "Old High German",
+        "form": "zwei",
+        "period": "8th century",
+        "meaning": "two"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "two",
+        "meaning": "two"
+      }
+    ],
+    "notes": "PIE *dwóh₁."
+  },
+  "word_de_drei": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*þrīz",
+        "period": "c. 500 BCE",
+        "meaning": "three"
+      },
+      {
+        "language": "Old High German",
+        "form": "drī",
+        "period": "8th century",
+        "meaning": "three"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "three",
+        "meaning": "three"
+      }
+    ],
+    "notes": "PIE *tréyes."
+  },
+  "word_de_vier": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*fedwōr",
+        "period": "c. 500 BCE",
+        "meaning": "four"
+      },
+      {
+        "language": "Old High German",
+        "form": "fior",
+        "period": "8th century",
+        "meaning": "four"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "four",
+        "meaning": "four"
+      }
+    ],
+    "notes": "PIE *kʷetwóres."
+  },
+  "word_de_funf": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*fimf",
+        "period": "c. 500 BCE",
+        "meaning": "five"
+      },
+      {
+        "language": "Old High German",
+        "form": "fimf",
+        "period": "8th century",
+        "meaning": "five"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "five",
+        "meaning": "five"
+      }
+    ],
+    "notes": "PIE *pénkʷe."
+  },
+  "word_de_sechs": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*sehs",
+        "period": "c. 500 BCE",
+        "meaning": "six"
+      },
+      {
+        "language": "Old High German",
+        "form": "sehs",
+        "period": "8th century",
+        "meaning": "six"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "six",
+        "meaning": "six"
+      }
+    ],
+    "notes": "PIE *swéḱs."
+  },
+  "word_de_sieben": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*sibun",
+        "period": "c. 500 BCE",
+        "meaning": "seven"
+      },
+      {
+        "language": "Old High German",
+        "form": "sibun",
+        "period": "8th century",
+        "meaning": "seven"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "seven",
+        "meaning": "seven"
+      }
+    ],
+    "notes": "PIE *septḿ̥."
+  },
+  "word_de_acht": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*ahtōu",
+        "period": "c. 500 BCE",
+        "meaning": "eight"
+      },
+      {
+        "language": "Old High German",
+        "form": "ahto",
+        "period": "8th century",
+        "meaning": "eight"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "eight",
+        "meaning": "eight"
+      }
+    ],
+    "notes": "PIE *oḱtṓw."
+  },
+  "word_de_neun": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*newun",
+        "period": "c. 500 BCE",
+        "meaning": "nine"
+      },
+      {
+        "language": "Old High German",
+        "form": "niun",
+        "period": "8th century",
+        "meaning": "nine"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "nine",
+        "meaning": "nine"
+      }
+    ],
+    "notes": "PIE *h₁néwn̥."
+  },
+  "word_de_zehn": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*tehun",
+        "period": "c. 500 BCE",
+        "meaning": "ten"
+      },
+      {
+        "language": "Old High German",
+        "form": "zehan",
+        "period": "8th century",
+        "meaning": "ten"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "ten",
+        "meaning": "ten"
+      }
+    ],
+    "notes": "PIE *déḱm̥t."
+  },
+  "word_de_hundert": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*hundą + *rēdaną",
+        "period": "c. 500 BCE",
+        "meaning": "hundred"
+      },
+      {
+        "language": "Old High German",
+        "form": "hundar",
+        "period": "8th century",
+        "meaning": "hundred"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "hundred",
+        "meaning": "hundred"
+      }
+    ],
+    "notes": "Compound of *hundą (hundred) + *rēdaną (number). PIE *ḱm̥tóm."
+  },
+  "word_de_tausend": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*þūsundī",
+        "period": "c. 500 BCE",
+        "meaning": "thousand"
+      },
+      {
+        "language": "Old High German",
+        "form": "thūsunt",
+        "period": "8th century",
+        "meaning": "thousand"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "thousand",
+        "meaning": "thousand"
+      }
+    ],
+    "notes": "PIE *ǵʰeslo- (great thousand)."
+  },
+  "word_de_million": {
+    "languageOrigin": "Italian/French",
+    "yearOfOrigin": "c. 18th century",
+    "timeline": [
+      {
+        "language": "Italian",
+        "form": "milione",
+        "period": "13th century",
+        "meaning": "million"
+      },
+      {
+        "language": "German",
+        "form": "Million",
+        "period": "18th century",
+        "meaning": "million"
+      }
+    ],
+    "cognates": [],
+    "notes": "Borrowed from Italian 'milione'."
+  },
+  "word_de_halbe": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*halbaz",
+        "period": "c. 500 BCE",
+        "meaning": "half"
+      },
+      {
+        "language": "Old High German",
+        "form": "halp",
+        "period": "8th century",
+        "meaning": "half"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "half",
+        "meaning": "half"
+      }
+    ],
+    "notes": "PIE *sḱel- (to cut)."
+  }
+}

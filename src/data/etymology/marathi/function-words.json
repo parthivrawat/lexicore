@@ -1,0 +1,442 @@
+{
+  "word_mr_mi": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "माम् (mām)",
+        "period": "Vedic",
+        "meaning": "I (accusative)"
+      },
+      {
+        "language": "Marathi",
+        "form": "मी",
+        "period": "Modern",
+        "meaning": "I"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit first person."
+  },
+  "word_mr_tu": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "त्वम् (tvam)",
+        "period": "Vedic",
+        "meaning": "you"
+      },
+      {
+        "language": "Marathi",
+        "form": "तू",
+        "period": "Modern",
+        "meaning": "you"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit tvam."
+  },
+  "word_mr_tumhi": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "यूयम् (yūyam)",
+        "period": "Vedic",
+        "meaning": "you (plural)"
+      },
+      {
+        "language": "Marathi",
+        "form": "तुम्ही",
+        "period": "Modern",
+        "meaning": "you (formal/plural)"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit yūyam."
+  },
+  "word_mr_to": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "तत् (tat)",
+        "period": "Vedic",
+        "meaning": "it, that"
+      },
+      {
+        "language": "Marathi",
+        "form": "तो",
+        "period": "Modern",
+        "meaning": "he"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit tat."
+  },
+  "word_mr_ti": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "सा (sā)",
+        "period": "Vedic",
+        "meaning": "she"
+      },
+      {
+        "language": "Marathi",
+        "form": "ती",
+        "period": "Modern",
+        "meaning": "she"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit sā."
+  },
+  "word_mr_aamhi": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वयम् (vayam)",
+        "period": "Vedic",
+        "meaning": "we"
+      },
+      {
+        "language": "Marathi",
+        "form": "आम्ही",
+        "period": "Modern",
+        "meaning": "we"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit vayam."
+  },
+  "word_mr_te": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "ते (te)",
+        "period": "Vedic",
+        "meaning": "they"
+      },
+      {
+        "language": "Marathi",
+        "form": "ते",
+        "period": "Modern",
+        "meaning": "they"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit te."
+  },
+  "word_mr_haa": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अयम् (ayam)",
+        "period": "Vedic",
+        "meaning": "this"
+      },
+      {
+        "language": "Marathi",
+        "form": "हा",
+        "period": "Modern",
+        "meaning": "this"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit ayam."
+  },
+  "word_mr_to2": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "तत् (tat)",
+        "period": "Vedic",
+        "meaning": "that"
+      },
+      {
+        "language": "Marathi",
+        "form": "तो",
+        "period": "Modern",
+        "meaning": "that"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same as 'he'."
+  },
+  "word_mr_kay": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "किम् (kim)",
+        "period": "Vedic",
+        "meaning": "what"
+      },
+      {
+        "language": "Marathi",
+        "form": "काय",
+        "period": "Modern",
+        "meaning": "what"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit kim."
+  },
+  "word_mr_kon": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "क (ka)",
+        "period": "Vedic",
+        "meaning": "who"
+      },
+      {
+        "language": "Marathi",
+        "form": "कोण",
+        "period": "Modern",
+        "meaning": "who"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit ka."
+  },
+  "word_mr_kuthe": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कुत्र (kutra)",
+        "period": "Classical",
+        "meaning": "where"
+      },
+      {
+        "language": "Marathi",
+        "form": "कुठे",
+        "period": "Modern",
+        "meaning": "where"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit kutra."
+  },
+  "word_mr_kevha": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कदा (kadā)",
+        "period": "Classical",
+        "meaning": "when"
+      },
+      {
+        "language": "Marathi",
+        "form": "केव्हा",
+        "period": "Modern",
+        "meaning": "when"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit kadā."
+  },
+  "word_mr_kaaran": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "किम् (kim) कारण (kāraṇa)",
+        "period": "Classical",
+        "meaning": "what reason"
+      },
+      {
+        "language": "Marathi",
+        "form": "का",
+        "period": "Modern",
+        "meaning": "why"
+      }
+    ],
+    "cognates": [],
+    "notes": "Short form 'ka' from 'kim kāraṇam'."
+  },
+  "word_mr_kase": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कथम् (katham)",
+        "period": "Classical",
+        "meaning": "how"
+      },
+      {
+        "language": "Marathi",
+        "form": "कसे",
+        "period": "Modern",
+        "meaning": "how"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit katham."
+  },
+  "word_mr_ani": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अपि (api)",
+        "period": "Vedic",
+        "meaning": "and, also"
+      },
+      {
+        "language": "Marathi",
+        "form": "आणि",
+        "period": "Modern",
+        "meaning": "and"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit api."
+  },
+  "word_mr_kivaa": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "किं वा (kiṃ vā)",
+        "period": "Classical",
+        "meaning": "or"
+      },
+      {
+        "language": "Marathi",
+        "form": "किंवा",
+        "period": "Modern",
+        "meaning": "or"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit kiṃ vā."
+  },
+  "word_mr_pan": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "परन्तु (parantu)",
+        "period": "Classical",
+        "meaning": "but"
+      },
+      {
+        "language": "Marathi",
+        "form": "पण",
+        "period": "Modern",
+        "meaning": "but"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit parantu."
+  },
+  "word_mr_jar": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "यदि (yadi)",
+        "period": "Classical",
+        "meaning": "if"
+      },
+      {
+        "language": "Marathi",
+        "form": "जर",
+        "period": "Modern",
+        "meaning": "if"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit yadi."
+  },
+  "word_mr_caranya": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "यतः (yataḥ)",
+        "period": "Classical",
+        "meaning": "because"
+      },
+      {
+        "language": "Marathi",
+        "form": "कारण",
+        "period": "Modern",
+        "meaning": "because"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit yataḥ / kāraṇa."
+  },
+  "word_mr_nahin": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "न (na)",
+        "period": "Vedic",
+        "meaning": "no, not"
+      },
+      {
+        "language": "Marathi",
+        "form": "नाही",
+        "period": "Modern",
+        "meaning": "no"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit na."
+  },
+  "word_mr_ho": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "हम् (ham)",
+        "period": "Vedic",
+        "meaning": "yes, indeed"
+      },
+      {
+        "language": "Marathi",
+        "form": "हो",
+        "period": "Modern",
+        "meaning": "yes"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit ha/haṃ."
+  }
+}

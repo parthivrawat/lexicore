@@ -1,0 +1,442 @@
+{
+  "word_fr_je": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ego",
+        "period": "Classical",
+        "meaning": "I"
+      },
+      {
+        "language": "Old French",
+        "form": "jo",
+        "period": "Medieval",
+        "meaning": "I"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'ego'."
+  },
+  "word_fr_tu": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "tu",
+        "period": "Classical",
+        "meaning": "you"
+      },
+      {
+        "language": "French",
+        "form": "tu",
+        "period": "Modern",
+        "meaning": "you"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'tu'."
+  },
+  "word_fr_vous": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "vos",
+        "period": "Classical",
+        "meaning": "you (plural)"
+      },
+      {
+        "language": "Old French",
+        "form": "vos",
+        "period": "Medieval",
+        "meaning": "you (formal)"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'vos', used as formal singular and plural."
+  },
+  "word_fr_il": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ille",
+        "period": "Classical",
+        "meaning": "that, he"
+      },
+      {
+        "language": "Old French",
+        "form": "il",
+        "period": "Medieval",
+        "meaning": "he"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'ille'."
+  },
+  "word_fr_elle": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "illa",
+        "period": "Classical",
+        "meaning": "that (f.), she"
+      },
+      {
+        "language": "Old French",
+        "form": "ele",
+        "period": "Medieval",
+        "meaning": "she"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'illa'."
+  },
+  "word_fr_nous": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "nos",
+        "period": "Classical",
+        "meaning": "we"
+      },
+      {
+        "language": "Old French",
+        "form": "nos",
+        "period": "Medieval",
+        "meaning": "we"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'nos'."
+  },
+  "word_fr_ils": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "illi",
+        "period": "Classical",
+        "meaning": "those, they"
+      },
+      {
+        "language": "Old French",
+        "form": "ilz",
+        "period": "Medieval",
+        "meaning": "they"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'illi'."
+  },
+  "word_fr_ceci": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ecce + hic",
+        "period": "Classical",
+        "meaning": "this here"
+      },
+      {
+        "language": "French",
+        "form": "ceci",
+        "period": "Modern",
+        "meaning": "this"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'ce' + '-ci' (here)."
+  },
+  "word_fr_cela": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ecce + illud",
+        "period": "Classical",
+        "meaning": "that"
+      },
+      {
+        "language": "French",
+        "form": "cela",
+        "period": "Modern",
+        "meaning": "that"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'ce' + '-là' (there)."
+  },
+  "word_fr_que": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quid",
+        "period": "Classical",
+        "meaning": "what"
+      },
+      {
+        "language": "Old French",
+        "form": "que",
+        "period": "Medieval",
+        "meaning": "what, that"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'quid'."
+  },
+  "word_fr_qui": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quis",
+        "period": "Classical",
+        "meaning": "who"
+      },
+      {
+        "language": "Old French",
+        "form": "qui",
+        "period": "Medieval",
+        "meaning": "who"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'quis'."
+  },
+  "word_fr_ou": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ubi",
+        "period": "Classical",
+        "meaning": "where"
+      },
+      {
+        "language": "Old French",
+        "form": "ou",
+        "period": "Medieval",
+        "meaning": "where"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'ubi'."
+  },
+  "word_fr_quand": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quando",
+        "period": "Classical",
+        "meaning": "when"
+      },
+      {
+        "language": "Old French",
+        "form": "quant",
+        "period": "Medieval",
+        "meaning": "when"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'quando'."
+  },
+  "word_fr_pourquoi": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "propter quid",
+        "period": "Classical",
+        "meaning": "for what"
+      },
+      {
+        "language": "French",
+        "form": "pourquoi",
+        "period": "Modern",
+        "meaning": "why"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'for why'."
+  },
+  "word_fr_comment": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quomodo",
+        "period": "Classical",
+        "meaning": "how"
+      },
+      {
+        "language": "Old French",
+        "form": "comment",
+        "period": "Medieval",
+        "meaning": "how"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'quomodo'."
+  },
+  "word_fr_et": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "et",
+        "period": "Classical",
+        "meaning": "and"
+      },
+      {
+        "language": "Old French",
+        "form": "et",
+        "period": "Medieval",
+        "meaning": "and"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'et'."
+  },
+  "word_fr_ou_conjunction": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "aut",
+        "period": "Classical",
+        "meaning": "or"
+      },
+      {
+        "language": "French",
+        "form": "ou",
+        "period": "Modern",
+        "meaning": "or"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same spelling as 'où' (where) but different word. From Latin 'aut'."
+  },
+  "word_fr_mais": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "magis",
+        "period": "Classical",
+        "meaning": "more, but"
+      },
+      {
+        "language": "Old French",
+        "form": "mais",
+        "period": "Medieval",
+        "meaning": "but"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'magis'."
+  },
+  "word_fr_si": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "si",
+        "period": "Classical",
+        "meaning": "if"
+      },
+      {
+        "language": "French",
+        "form": "si",
+        "period": "Modern",
+        "meaning": "if"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'si'."
+  },
+  "word_fr_parce_que": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "per causam quod",
+        "period": "Late Latin",
+        "meaning": "by cause that"
+      },
+      {
+        "language": "French",
+        "form": "parce que",
+        "period": "Modern",
+        "meaning": "because"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'because that'."
+  },
+  "word_fr_non": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "non",
+        "period": "Classical",
+        "meaning": "not"
+      },
+      {
+        "language": "Old French",
+        "form": "non",
+        "period": "Medieval",
+        "meaning": "no"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'non'."
+  },
+  "word_fr_oui": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "hoc + ille",
+        "period": "Late Latin",
+        "meaning": "yes"
+      },
+      {
+        "language": "Old French",
+        "form": "oïl",
+        "period": "Medieval",
+        "meaning": "yes"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'hoc ille' (yes, that)."
+  }
+}

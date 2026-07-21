@@ -1,0 +1,302 @@
+{
+  "word_zh_ling": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "零",
+        "period": "Zhou dynasty",
+        "meaning": "zero, fragment, remnant"
+      },
+      {
+        "language": "Mandarin",
+        "form": "零",
+        "period": "Modern",
+        "meaning": "zero"
+      }
+    ],
+    "cognates": [],
+    "notes": "Originally meant 'small rain drops' or 'fragment'. Later used for zero under Indian/Arabic mathematical influence."
+  },
+  "word_zh_yi": {
+    "languageOrigin": "Old Chinese",
+    "yearOfOrigin": "c. 1200 BCE",
+    "timeline": [
+      {
+        "language": "Old Chinese",
+        "form": "一",
+        "period": "Shang dynasty",
+        "meaning": "one"
+      },
+      {
+        "language": "Mandarin",
+        "form": "一",
+        "period": "Modern",
+        "meaning": "one"
+      }
+    ],
+    "cognates": [],
+    "notes": "Pictograph of a single horizontal stroke. One of the simplest Chinese characters."
+  },
+  "word_zh_er": {
+    "languageOrigin": "Old Chinese",
+    "yearOfOrigin": "c. 1200 BCE",
+    "timeline": [
+      {
+        "language": "Old Chinese",
+        "form": "二",
+        "period": "Shang dynasty",
+        "meaning": "two"
+      },
+      {
+        "language": "Mandarin",
+        "form": "二",
+        "period": "Modern",
+        "meaning": "two"
+      }
+    ],
+    "cognates": [],
+    "notes": "Two horizontal strokes representing two. Also used in 两 (liǎng) for measure words."
+  },
+  "word_zh_san": {
+    "languageOrigin": "Old Chinese",
+    "yearOfOrigin": "c. 1200 BCE",
+    "timeline": [
+      {
+        "language": "Old Chinese",
+        "form": "三",
+        "period": "Shang dynasty",
+        "meaning": "three"
+      },
+      {
+        "language": "Mandarin",
+        "form": "三",
+        "period": "Modern",
+        "meaning": "three"
+      }
+    ],
+    "cognates": [],
+    "notes": "Three horizontal strokes. Pictographic numeral."
+  },
+  "word_zh_si": {
+    "languageOrigin": "Old Chinese",
+    "yearOfOrigin": "c. 1200 BCE",
+    "timeline": [
+      {
+        "language": "Old Chinese",
+        "form": "四",
+        "period": "Shang dynasty",
+        "meaning": "four"
+      },
+      {
+        "language": "Mandarin",
+        "form": "四",
+        "period": "Modern",
+        "meaning": "four"
+      }
+    ],
+    "cognates": [],
+    "notes": "Originally pictograph of nostrils/breathing, phonetically borrowed for number four. Homophone with 死 (death) in many dialects."
+  },
+  "word_zh_wu": {
+    "languageOrigin": "Old Chinese",
+    "yearOfOrigin": "c. 1200 BCE",
+    "timeline": [
+      {
+        "language": "Old Chinese",
+        "form": "五",
+        "period": "Shang dynasty",
+        "meaning": "five"
+      },
+      {
+        "language": "Mandarin",
+        "form": "五",
+        "period": "Modern",
+        "meaning": "five"
+      }
+    ],
+    "cognates": [],
+    "notes": "Originally depicted intersection of two lines, representing five."
+  },
+  "word_zh_liu": {
+    "languageOrigin": "Old Chinese",
+    "yearOfOrigin": "c. 1200 BCE",
+    "timeline": [
+      {
+        "language": "Old Chinese",
+        "form": "六",
+        "period": "Shang dynasty",
+        "meaning": "six"
+      },
+      {
+        "language": "Mandarin",
+        "form": "六",
+        "period": "Modern",
+        "meaning": "six"
+      }
+    ],
+    "cognates": [],
+    "notes": "Pictograph of a hut or shelter, phonetically borrowed for six."
+  },
+  "word_zh_qi": {
+    "languageOrigin": "Old Chinese",
+    "yearOfOrigin": "c. 1200 BCE",
+    "timeline": [
+      {
+        "language": "Old Chinese",
+        "form": "七",
+        "period": "Shang dynasty",
+        "meaning": "seven"
+      },
+      {
+        "language": "Mandarin",
+        "form": "七",
+        "period": "Modern",
+        "meaning": "seven"
+      }
+    ],
+    "cognates": [],
+    "notes": "Originally depicted cutting action, phonetically borrowed for seven."
+  },
+  "word_zh_ba": {
+    "languageOrigin": "Old Chinese",
+    "yearOfOrigin": "c. 1200 BCE",
+    "timeline": [
+      {
+        "language": "Old Chinese",
+        "form": "八",
+        "period": "Shang dynasty",
+        "meaning": "eight"
+      },
+      {
+        "language": "Mandarin",
+        "form": "八",
+        "period": "Modern",
+        "meaning": "eight"
+      }
+    ],
+    "cognates": [],
+    "notes": "Pictograph of two hands held apart, representing division/eight. Auspicious number."
+  },
+  "word_zh_jiu": {
+    "languageOrigin": "Old Chinese",
+    "yearOfOrigin": "c. 1200 BCE",
+    "timeline": [
+      {
+        "language": "Old Chinese",
+        "form": "九",
+        "period": "Shang dynasty",
+        "meaning": "nine"
+      },
+      {
+        "language": "Mandarin",
+        "form": "九",
+        "period": "Modern",
+        "meaning": "nine"
+      }
+    ],
+    "cognates": [],
+    "notes": "Originally a bent arm/elbow, phonetically borrowed for nine. Homophone with 久 (long time) and 酒 (alcohol)."
+  },
+  "word_zh_shi": {
+    "languageOrigin": "Old Chinese",
+    "yearOfOrigin": "c. 1200 BCE",
+    "timeline": [
+      {
+        "language": "Old Chinese",
+        "form": "十",
+        "period": "Shang dynasty",
+        "meaning": "ten"
+      },
+      {
+        "language": "Mandarin",
+        "form": "十",
+        "period": "Modern",
+        "meaning": "ten"
+      }
+    ],
+    "cognates": [],
+    "notes": "Pictograph of a vertical line crossed by a horizontal, representing ten or completion."
+  },
+  "word_zh_yibai": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "一百",
+        "period": "Zhou dynasty",
+        "meaning": "one hundred"
+      },
+      {
+        "language": "Mandarin",
+        "form": "一百",
+        "period": "Modern",
+        "meaning": "hundred"
+      }
+    ],
+    "cognates": [],
+    "notes": "百 (bǎi) is a pictograph of a mouth with grains, possibly representing a unit of grain measure. Means hundred."
+  },
+  "word_zh_yiqian": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "一千",
+        "period": "Zhou dynasty",
+        "meaning": "one thousand"
+      },
+      {
+        "language": "Mandarin",
+        "form": "一千",
+        "period": "Modern",
+        "meaning": "thousand"
+      }
+    ],
+    "cognates": [],
+    "notes": "千 (qiān) depicts a person with a horizontal line on leg, possibly representing a large number. Means thousand."
+  },
+  "word_zh_yiwan": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "一万",
+        "period": "Zhou dynasty",
+        "meaning": "ten thousand"
+      },
+      {
+        "language": "Mandarin",
+        "form": "一万",
+        "period": "Modern",
+        "meaning": "ten thousand"
+      }
+    ],
+    "cognates": [],
+    "notes": "万 (wàn) originally a scorpion pictograph, borrowed for ten thousand. Important cultural number meaning 'myriad'."
+  },
+  "word_zh_ban": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "半",
+        "period": "Zhou dynasty",
+        "meaning": "half"
+      },
+      {
+        "language": "Mandarin",
+        "form": "半",
+        "period": "Modern",
+        "meaning": "half"
+      }
+    ],
+    "cognates": [],
+    "notes": "Pictograph of a cow split in half, representing division. Means half."
+  }
+}

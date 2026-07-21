@@ -1,0 +1,302 @@
+{
+  "word_pcm_zero": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "zero",
+        "period": "17th century",
+        "meaning": "zero"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "zero",
+        "period": "Modern",
+        "meaning": "zero"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'zero'."
+  },
+  "word_pcm_one": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "one",
+        "period": "17th century",
+        "meaning": "one"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "one",
+        "period": "Modern",
+        "meaning": "one"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'one'."
+  },
+  "word_pcm_two": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "two",
+        "period": "17th century",
+        "meaning": "two"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "two",
+        "period": "Modern",
+        "meaning": "two"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'two'."
+  },
+  "word_pcm_three": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "three",
+        "period": "17th century",
+        "meaning": "three"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "three",
+        "period": "Modern",
+        "meaning": "three"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'three'."
+  },
+  "word_pcm_four": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "four",
+        "period": "17th century",
+        "meaning": "four"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "four",
+        "period": "Modern",
+        "meaning": "four"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'four'."
+  },
+  "word_pcm_five": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "five",
+        "period": "17th century",
+        "meaning": "five"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "five",
+        "period": "Modern",
+        "meaning": "five"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'five'."
+  },
+  "word_pcm_six": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "six",
+        "period": "17th century",
+        "meaning": "six"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "six",
+        "period": "Modern",
+        "meaning": "six"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'six'."
+  },
+  "word_pcm_seven": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "seven",
+        "period": "17th century",
+        "meaning": "seven"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "seven",
+        "period": "Modern",
+        "meaning": "seven"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'seven'."
+  },
+  "word_pcm_eight": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "eight",
+        "period": "17th century",
+        "meaning": "eight"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "eight",
+        "period": "Modern",
+        "meaning": "eight"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'eight'."
+  },
+  "word_pcm_nine": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "nine",
+        "period": "17th century",
+        "meaning": "nine"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "nine",
+        "period": "Modern",
+        "meaning": "nine"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'nine'."
+  },
+  "word_pcm_ten": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "ten",
+        "period": "17th century",
+        "meaning": "ten"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "ten",
+        "period": "Modern",
+        "meaning": "ten"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'ten'."
+  },
+  "word_pcm_hundred": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "hundred",
+        "period": "17th century",
+        "meaning": "hundred"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "hundred",
+        "period": "Modern",
+        "meaning": "hundred"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'hundred'."
+  },
+  "word_pcm_one_thousand": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "one thousand",
+        "period": "17th century",
+        "meaning": "thousand"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "one thousand",
+        "period": "Modern",
+        "meaning": "thousand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'one thousand'."
+  },
+  "word_pcm_one_million": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 20th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "one million",
+        "period": "20th century",
+        "meaning": "million"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "one million",
+        "period": "Modern",
+        "meaning": "million"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'one million'."
+  },
+  "word_pcm_half": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "half",
+        "period": "17th century",
+        "meaning": "half"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "half",
+        "period": "Modern",
+        "meaning": "half"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'half'."
+  }
+}

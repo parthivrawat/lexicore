@@ -1,0 +1,502 @@
+{
+  "word_tr_olmak": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "ol-",
+        "period": "Old Turkic",
+        "meaning": "to be, become"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "olmak",
+        "period": "Modern",
+        "meaning": "to be"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *ol- (to become, be)."
+  },
+  "word_tr_yapmak": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "yap-",
+        "period": "Old Turkic",
+        "meaning": "to make, do"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "yapmak",
+        "period": "Modern",
+        "meaning": "to do"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *yap- (to do, make)."
+  },
+  "word_tr_gitmek": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "keti-",
+        "period": "Old Turkic",
+        "meaning": "to go"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "gitmek",
+        "period": "Modern",
+        "meaning": "to go"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *keti- (to go)."
+  },
+  "word_tr_gelmek": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "kel-",
+        "period": "Old Turkic",
+        "meaning": "to come"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "gelmek",
+        "period": "Modern",
+        "meaning": "to come"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *gel- (to come)."
+  },
+  "word_tr_yemek_verb": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "ye-",
+        "period": "Old Turkic",
+        "meaning": "to eat"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "yemek",
+        "period": "Modern",
+        "meaning": "to eat"
+      }
+    ],
+    "cognates": [],
+    "notes": "Note: 'yemek' also means food. From Proto-Turkic *ye- (to eat)."
+  },
+  "word_tr_icmek": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "iç-",
+        "period": "Old Turkic",
+        "meaning": "to drink"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "içmek",
+        "period": "Modern",
+        "meaning": "to drink"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *iç- (to drink)."
+  },
+  "word_tr_gormek": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "gör-",
+        "period": "Old Turkic",
+        "meaning": "to see"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "görmek",
+        "period": "Modern",
+        "meaning": "to see"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *gör- (to see)."
+  },
+  "word_tr_duymak": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "dğu-",
+        "period": "Old Turkic",
+        "meaning": "to hear"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "duymak",
+        "period": "Modern",
+        "meaning": "to hear"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic root 'duyu' (sense, hear)."
+  },
+  "word_tr_konusmak": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "konuş-",
+        "period": "Old Turkic",
+        "meaning": "to speak"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "konuşmak",
+        "period": "Modern",
+        "meaning": "to speak"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Turkic *konuş- (to talk)."
+  },
+  "word_tr_okumak": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "oqu-",
+        "period": "Old Turkic",
+        "meaning": "to read"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "okumak",
+        "period": "Modern",
+        "meaning": "to read"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic oqu- (to read/recite)."
+  },
+  "word_tr_yazmak": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "yaz-",
+        "period": "Old Turkic",
+        "meaning": "to write"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "yazmak",
+        "period": "Modern",
+        "meaning": "to write"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Turkic *yaz- (to write)."
+  },
+  "word_tr_vermek": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "ber-",
+        "period": "Old Turkic",
+        "meaning": "to give"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "vermek",
+        "period": "Modern",
+        "meaning": "to give"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic ber- (to give)."
+  },
+  "word_tr_almak": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "al-",
+        "period": "Old Turkic",
+        "meaning": "to take, receive"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "almak",
+        "period": "Modern",
+        "meaning": "to take"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *al- (to take)."
+  },
+  "word_tr_uyumak": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "uyu-",
+        "period": "Old Turkic",
+        "meaning": "to sleep"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "uyumak",
+        "period": "Modern",
+        "meaning": "to sleep"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic uyu- (to sleep)."
+  },
+  "word_tr_uyanmak": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "uyan-",
+        "period": "Old Turkic",
+        "meaning": "to wake"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "uyanmak",
+        "period": "Modern",
+        "meaning": "to wake up"
+      }
+    ],
+    "cognates": [],
+    "notes": "uyu- (sleep) + -n- (reflexive) + -mak."
+  },
+  "word_tr_oturmak": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "otur-",
+        "period": "Old Turkic",
+        "meaning": "to sit"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "oturmak",
+        "period": "Modern",
+        "meaning": "to sit"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Turkic *otur- (to sit)."
+  },
+  "word_tr_kalkmak": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "kalk-",
+        "period": "Old Turkic",
+        "meaning": "to rise"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "kalkmak",
+        "period": "Modern",
+        "meaning": "to stand up"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Turkic *kalk- (to rise)."
+  },
+  "word_tr_yurumek": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "yörü-",
+        "period": "Old Turkic",
+        "meaning": "to walk"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "yürümek",
+        "period": "Modern",
+        "meaning": "to walk"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic yörü- (to walk)."
+  },
+  "word_tr_kosmak": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "köç-",
+        "period": "Old Turkic",
+        "meaning": "to move, run"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "koşmak",
+        "period": "Modern",
+        "meaning": "to run"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic köş- (to run)."
+  },
+  "word_tr_gulmek": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "gül-",
+        "period": "Old Turkic",
+        "meaning": "to laugh"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "gülmek",
+        "period": "Modern",
+        "meaning": "to laugh"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *gül- (to laugh)."
+  },
+  "word_tr_aglamak": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "ağla-",
+        "period": "Old Turkic",
+        "meaning": "to cry"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "ağlamak",
+        "period": "Modern",
+        "meaning": "to cry"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic ağla- (to cry)."
+  },
+  "word_tr_anlamak": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "anla-",
+        "period": "Old Turkic",
+        "meaning": "to understand"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "anlamak",
+        "period": "Modern",
+        "meaning": "to understand"
+      }
+    ],
+    "cognates": [],
+    "notes": "an (mind) + la (verb suffix)."
+  },
+  "word_tr_istemek": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "istä-",
+        "period": "Old Turkic",
+        "meaning": "to want"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "istemek",
+        "period": "Modern",
+        "meaning": "to want"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Turkic *istä- (to want)."
+  },
+  "word_tr_sevmek": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "sev-",
+        "period": "Old Turkic",
+        "meaning": "to love"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "sevmek",
+        "period": "Modern",
+        "meaning": "to love"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *sev- (to love)."
+  },
+  "word_tr_calismak": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "çalış-",
+        "period": "Old Turkic",
+        "meaning": "to work, strive"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "çalışmak",
+        "period": "Modern",
+        "meaning": "to work"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic çalış- (to work)."
+  }
+}

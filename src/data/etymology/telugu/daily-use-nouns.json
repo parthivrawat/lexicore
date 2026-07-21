@@ -1,0 +1,402 @@
+{
+  "word_te_manishi": {
+    "languageOrigin": "Sanskrit/Telugu",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "मनुष्य (manuṣya)",
+        "period": "Vedic",
+        "meaning": "human"
+      },
+      {
+        "language": "Telugu",
+        "form": "మనిషి",
+        "period": "Modern",
+        "meaning": "person"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit manuṣya."
+  },
+  "word_te_pap": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "పాప (pāpa)",
+        "period": "Medieval",
+        "meaning": "child, baby"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "పాప",
+        "period": "Modern",
+        "meaning": "child"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu pāpa."
+  },
+  "word_te_illu": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "ఇల్లు (illu)",
+        "period": "Medieval",
+        "meaning": "house"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "ఇల్లు",
+        "period": "Modern",
+        "meaning": "house"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *il."
+  },
+  "word_te_neeru": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "నీరు (nīru)",
+        "period": "Medieval",
+        "meaning": "water"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "నీరు",
+        "period": "Modern",
+        "meaning": "water"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *nīr."
+  },
+  "word_te_aaharam": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "आहार (āhāra)",
+        "period": "Vedic",
+        "meaning": "food"
+      },
+      {
+        "language": "Telugu",
+        "form": "ఆహారం",
+        "period": "Modern",
+        "meaning": "food"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit āhāra."
+  },
+  "word_te_samayam": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "समय (samaya)",
+        "period": "Vedic",
+        "meaning": "time"
+      },
+      {
+        "language": "Telugu",
+        "form": "సమయం",
+        "period": "Modern",
+        "meaning": "time"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit samaya."
+  },
+  "word_te_roju": {
+    "languageOrigin": "Sanskrit/Telugu",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "दिवस (divasa)",
+        "period": "Vedic",
+        "meaning": "day"
+      },
+      {
+        "language": "Telugu",
+        "form": "రోజు",
+        "period": "Modern",
+        "meaning": "day"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit divasa > Telugu rōju."
+  },
+  "word_te_samvatsaram": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "संवत्सर (saṃvatsara)",
+        "period": "Vedic",
+        "meaning": "year"
+      },
+      {
+        "language": "Telugu",
+        "form": "సంవత్సరం",
+        "period": "Modern",
+        "meaning": "year"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit saṃvatsara."
+  },
+  "word_te_cheyyi": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "చెయ్యి (ceyyi)",
+        "period": "Medieval",
+        "meaning": "hand"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "చేయి",
+        "period": "Modern",
+        "meaning": "hand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *kai."
+  },
+  "word_te_kannu": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "కన్ను (kannu)",
+        "period": "Medieval",
+        "meaning": "eye"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "కన్ను",
+        "period": "Modern",
+        "meaning": "eye"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *kaṇ."
+  },
+  "word_te_tala": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "తల (tala)",
+        "period": "Medieval",
+        "meaning": "head"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "తల",
+        "period": "Modern",
+        "meaning": "head"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *talai."
+  },
+  "word_te_pustakam": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पुस्तक (pustaka)",
+        "period": "Classical",
+        "meaning": "book"
+      },
+      {
+        "language": "Telugu",
+        "form": "పుస్తకం",
+        "period": "Modern",
+        "meaning": "book"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit pustaka."
+  },
+  "word_te_talupu": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "తలుపు (talupu)",
+        "period": "Medieval",
+        "meaning": "door"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "తలుపు",
+        "period": "Modern",
+        "meaning": "door"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu talupu."
+  },
+  "word_te_veedhi": {
+    "languageOrigin": "Sanskrit/Telugu",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वीथि (vīthi)",
+        "period": "Classical",
+        "meaning": "street"
+      },
+      {
+        "language": "Telugu",
+        "form": "వీధి",
+        "period": "Modern",
+        "meaning": "street"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit vīthi."
+  },
+  "word_te_nagaram": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "नगर (nagara)",
+        "period": "Classical",
+        "meaning": "city"
+      },
+      {
+        "language": "Telugu",
+        "form": "నగరం",
+        "period": "Modern",
+        "meaning": "city"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit nagara."
+  },
+  "word_te_desham": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "देश (deśa)",
+        "period": "Vedic",
+        "meaning": "country"
+      },
+      {
+        "language": "Telugu",
+        "form": "దేశం",
+        "period": "Modern",
+        "meaning": "country"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit deśa."
+  },
+  "word_te_paatasala": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पाठशाला (pāṭhaśālā)",
+        "period": "Classical",
+        "meaning": "school"
+      },
+      {
+        "language": "Telugu",
+        "form": "పాఠశాల",
+        "period": "Modern",
+        "meaning": "school"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit pāṭhaśālā."
+  },
+  "word_te_snehitudu": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "स्नेहित (snehita)",
+        "period": "Classical",
+        "meaning": "friend"
+      },
+      {
+        "language": "Telugu",
+        "form": "స్నేహితుడు",
+        "period": "Modern",
+        "meaning": "friend"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit snehita."
+  },
+  "word_te_kutumbam": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कुटुम्ब (kuṭumba)",
+        "period": "Classical",
+        "meaning": "family"
+      },
+      {
+        "language": "Telugu",
+        "form": "కుటుంబం",
+        "period": "Modern",
+        "meaning": "family"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit kuṭumba."
+  },
+  "word_te_peru": {
+    "languageOrigin": "Sanskrit/Telugu",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "नामन् (nāman)",
+        "period": "Vedic",
+        "meaning": "name"
+      },
+      {
+        "language": "Telugu",
+        "form": "పేరు",
+        "period": "Modern",
+        "meaning": "name"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit nāman? Telugu peru."
+  }
+}

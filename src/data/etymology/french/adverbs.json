@@ -1,0 +1,302 @@
+{
+  "word_fr_tres": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "trans",
+        "period": "Classical",
+        "meaning": "across, beyond (later 'very')"
+      },
+      {
+        "language": "Old French",
+        "form": "tres",
+        "period": "Medieval",
+        "meaning": "very"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'trans' (across)."
+  },
+  "word_fr_aussi": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "aliter + sic",
+        "period": "Classical",
+        "meaning": "in this manner too"
+      },
+      {
+        "language": "Old French",
+        "form": "ainsi",
+        "period": "Medieval",
+        "meaning": "also"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'ainsi' (so) used for 'also'."
+  },
+  "word_fr_seulement": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sola-mente",
+        "period": "Classical",
+        "meaning": "solely"
+      },
+      {
+        "language": "Old French",
+        "form": "seulement",
+        "period": "Medieval",
+        "meaning": "only"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'seul' (only) + '-ment' (adverb suffix)."
+  },
+  "word_fr_toujours": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "totum + diurnum",
+        "period": "Classical",
+        "meaning": "all day (all the time)"
+      },
+      {
+        "language": "Old French",
+        "form": "touz jors",
+        "period": "Medieval",
+        "meaning": "always"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'tous jours' (all days)."
+  },
+  "word_fr_jamais": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "iam + magis",
+        "period": "Classical",
+        "meaning": "now more (never)"
+      },
+      {
+        "language": "Old French",
+        "form": "jamais",
+        "period": "Medieval",
+        "meaning": "never"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'iam magis'. Used with 'ne' for never."
+  },
+  "word_fr_quelquefois": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "qualis + vice",
+        "period": "Classical",
+        "meaning": "at some times"
+      },
+      {
+        "language": "French",
+        "form": "quelquefois",
+        "period": "Modern",
+        "meaning": "sometimes"
+      }
+    ],
+    "cognates": [],
+    "notes": "quelque (some) + fois (times)."
+  },
+  "word_fr_souvent": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "subventus",
+        "period": "Classical",
+        "meaning": "frequent"
+      },
+      {
+        "language": "Old French",
+        "form": "sovent",
+        "period": "Medieval",
+        "meaning": "often"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'subventum'."
+  },
+  "word_fr_maintenant": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "manentem",
+        "period": "Classical",
+        "meaning": "remaining (present)"
+      },
+      {
+        "language": "Old French",
+        "form": "maintenant",
+        "period": "Medieval",
+        "meaning": "now"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'manentem' (remaining)."
+  },
+  "word_fr_plus_tard": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "tardus",
+        "period": "Classical",
+        "meaning": "late"
+      },
+      {
+        "language": "French",
+        "form": "plus tard",
+        "period": "Modern",
+        "meaning": "later"
+      }
+    ],
+    "cognates": [],
+    "notes": "plus (more) + tard (late)."
+  },
+  "word_fr_hier": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "heri",
+        "period": "Classical",
+        "meaning": "yesterday"
+      },
+      {
+        "language": "Old French",
+        "form": "ier",
+        "period": "Medieval",
+        "meaning": "yesterday"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'heri'."
+  },
+  "word_fr_demain": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "de mane",
+        "period": "Late Latin",
+        "meaning": "in the morning"
+      },
+      {
+        "language": "Old French",
+        "form": "deman",
+        "period": "Medieval",
+        "meaning": "tomorrow"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'de mane' (in the morning)."
+  },
+  "word_fr_deja": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "iam",
+        "period": "Classical",
+        "meaning": "already"
+      },
+      {
+        "language": "Old French",
+        "form": "ja",
+        "period": "Medieval",
+        "meaning": "already"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'iam'."
+  },
+  "word_fr_pas_encore": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "adhūc",
+        "period": "Classical",
+        "meaning": "still, yet"
+      },
+      {
+        "language": "French",
+        "form": "pas encore",
+        "period": "Modern",
+        "meaning": "not yet"
+      }
+    ],
+    "cognates": [],
+    "notes": "pas (not) + encore (still/yet)."
+  },
+  "word_fr_peut_etre": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "potest esse",
+        "period": "Classical",
+        "meaning": "it may be"
+      },
+      {
+        "language": "French",
+        "form": "peut-être",
+        "period": "Modern",
+        "meaning": "maybe"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'can be'."
+  },
+  "word_fr_certainement": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "certus",
+        "period": "Classical",
+        "meaning": "certain"
+      },
+      {
+        "language": "French",
+        "form": "certainement",
+        "period": "Modern",
+        "meaning": "certainly"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'certus' + adverb suffix."
+  }
+}

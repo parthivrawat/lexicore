@@ -1,0 +1,296 @@
+{
+  "word_de_sehr": {
+    "languageOrigin": "Old High German",
+    "yearOfOrigin": "c. 8th century",
+    "timeline": [
+      {
+        "language": "Old High German",
+        "form": "sēr",
+        "period": "8th century",
+        "meaning": "painful, very"
+      },
+      {
+        "language": "German",
+        "form": "sehr",
+        "period": "Modern",
+        "meaning": "very"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "sore",
+        "meaning": "painful"
+      }
+    ],
+    "notes": "Originally 'painful, sore', later intensifier 'very'."
+  },
+  "word_de_auch": {
+    "languageOrigin": "Old High German",
+    "yearOfOrigin": "c. 8th century",
+    "timeline": [
+      {
+        "language": "Old High German",
+        "form": "ouh",
+        "period": "8th century",
+        "meaning": "also"
+      },
+      {
+        "language": "German",
+        "form": "auch",
+        "period": "Modern",
+        "meaning": "also"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "eke",
+        "meaning": "also (archaic)"
+      }
+    ],
+    "notes": "PIE *h₂ewg- (to increase)."
+  },
+  "word_de_nur": {
+    "languageOrigin": "Old High German",
+    "yearOfOrigin": "c. 8th century",
+    "timeline": [
+      {
+        "language": "Old High German",
+        "form": "nūri",
+        "period": "8th century",
+        "meaning": "only"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'nūdum' (bare, only)? Or 'nur' from 'nur' (now)."
+  },
+  "word_de_immer": {
+    "languageOrigin": "Old High German",
+    "yearOfOrigin": "c. 8th century",
+    "timeline": [
+      {
+        "language": "Old High German",
+        "form": "io mēr",
+        "period": "8th century",
+        "meaning": "always more"
+      },
+      {
+        "language": "German",
+        "form": "immer",
+        "period": "Modern",
+        "meaning": "always"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'io' (ever) + 'mehr' (more)."
+  },
+  "word_de_nie": {
+    "languageOrigin": "Old High German",
+    "yearOfOrigin": "c. 8th century",
+    "timeline": [
+      {
+        "language": "Old High German",
+        "form": "niō wē",
+        "period": "8th century",
+        "meaning": "never"
+      },
+      {
+        "language": "German",
+        "form": "nie",
+        "period": "Modern",
+        "meaning": "never"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "never",
+        "meaning": "never"
+      }
+    ],
+    "notes": "From 'ni' (not) + 'io wē' (ever)."
+  },
+  "word_de_manchmal": {
+    "languageOrigin": "German",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "German",
+        "form": "manchmal",
+        "period": "17th century",
+        "meaning": "sometimes"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: 'manch' (many a) + 'Mal' (time)."
+  },
+  "word_de_oft": {
+    "languageOrigin": "Old High German",
+    "yearOfOrigin": "c. 8th century",
+    "timeline": [
+      {
+        "language": "Old High German",
+        "form": "ofto",
+        "period": "8th century",
+        "meaning": "often"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "often",
+        "meaning": "often"
+      }
+    ],
+    "notes": "From Proto-Germanic *ufta."
+  },
+  "word_de_jetzt": {
+    "languageOrigin": "Old High German",
+    "yearOfOrigin": "c. 8th century",
+    "timeline": [
+      {
+        "language": "Old High German",
+        "form": "io zu",
+        "period": "8th century",
+        "meaning": "now"
+      },
+      {
+        "language": "German",
+        "form": "jetzt",
+        "period": "Modern",
+        "meaning": "now"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle High German 'iezuo, ietzunt'."
+  },
+  "word_de_spater": {
+    "languageOrigin": "Old High German",
+    "yearOfOrigin": "c. 8th century",
+    "timeline": [
+      {
+        "language": "Old High German",
+        "form": "spāti",
+        "period": "8th century",
+        "meaning": "late"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "late",
+        "meaning": "late"
+      }
+    ],
+    "notes": "Comparative of 'spät' (late)."
+  },
+  "word_de_gestern": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*gesterdagaz",
+        "period": "c. 500 BCE",
+        "meaning": "yesterday"
+      },
+      {
+        "language": "Old High German",
+        "form": "gestern",
+        "period": "8th century",
+        "meaning": "yesterday"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "yesterday",
+        "meaning": "yesterday"
+      }
+    ],
+    "notes": "Compound: 'gestern' (last night) + 'Tag' (day)."
+  },
+  "word_de_morgen": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*murgīnaz",
+        "period": "c. 500 BCE",
+        "meaning": "morning, tomorrow"
+      },
+      {
+        "language": "Old High German",
+        "form": "morgan",
+        "period": "8th century",
+        "meaning": "morning"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "morrow",
+        "meaning": "morning"
+      }
+    ],
+    "notes": "PIE *h₂mr̥g- (morning). Means both 'morning' and 'tomorrow'."
+  },
+  "word_de_schon": {
+    "languageOrigin": "Old High German",
+    "yearOfOrigin": "c. 8th century",
+    "timeline": [
+      {
+        "language": "Old High German",
+        "form": "skōnō",
+        "period": "8th century",
+        "meaning": "beautifully"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same word as adjective 'schön' but as adverb 'already'. Same spelling, different meaning."
+  },
+  "word_de_noch_nicht": {
+    "languageOrigin": "Old High German",
+    "yearOfOrigin": "c. 8th century",
+    "timeline": [
+      {
+        "language": "Old High German",
+        "form": "nuoh niwiht",
+        "period": "8th century",
+        "meaning": "not yet"
+      }
+    ],
+    "cognates": [],
+    "notes": "noch (still) + nicht (not). 'Not yet'."
+  },
+  "word_de_vielleicht": {
+    "languageOrigin": "German",
+    "yearOfOrigin": "c. 16th century",
+    "timeline": [
+      {
+        "language": "German",
+        "form": "vielleicht",
+        "period": "16th century",
+        "meaning": "maybe"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: 'viel' (much) + 'leicht' (light/easy). 'May well be'."
+  },
+  "word_de_bestimmt": {
+    "languageOrigin": "German",
+    "yearOfOrigin": "c. 15th century",
+    "timeline": [
+      {
+        "language": "Middle High German",
+        "form": "bestimmet",
+        "period": "Medieval",
+        "meaning": "determined"
+      }
+    ],
+    "cognates": [],
+    "notes": "Past participle of 'bestimmen' (to determine). 'Certainly'."
+  }
+}

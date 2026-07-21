@@ -1,0 +1,174 @@
+{
+  "word_zh_zai": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "在",
+        "period": "Zhou dynasty",
+        "meaning": "to exist, at, in"
+      },
+      {
+        "language": "Mandarin",
+        "form": "在",
+        "period": "Modern",
+        "meaning": "in, at"
+      }
+    ],
+    "cognates": [],
+    "notes": "Earth 土 + 才 (talent). Originally 'to exist', now preposition 'at/in'."
+  },
+  "word_zh_qu": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "去",
+        "period": "Zhou dynasty",
+        "meaning": "to go, to"
+      },
+      {
+        "language": "Mandarin",
+        "form": "去",
+        "period": "Modern",
+        "meaning": "to"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same as verb 'to go', used as directional complement 'to'."
+  },
+  "word_zh_cong": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "從",
+        "period": "Zhou dynasty",
+        "meaning": "to follow, from"
+      },
+      {
+        "language": "Mandarin",
+        "form": "从",
+        "simplified": true,
+        "period": "Modern",
+        "meaning": "from"
+      }
+    ],
+    "cognates": [],
+    "notes": "Traditional 從 shows one person following another. Means 'from'."
+  },
+  "word_zh_gen": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "跟",
+        "period": "Modern",
+        "meaning": "with"
+      }
+    ],
+    "cognates": [],
+    "notes": "Foot 足 + 艮 (stopping). Originally 'heel', now 'with/follow'."
+  },
+  "word_zh_wei": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "為",
+        "period": "Zhou dynasty",
+        "meaning": "to do, for"
+      },
+      {
+        "language": "Mandarin",
+        "form": "为",
+        "simplified": true,
+        "period": "Modern",
+        "meaning": "for"
+      }
+    ],
+    "cognates": [],
+    "notes": "Pictograph of a hand leading an elephant, meaning 'to do/for'."
+  },
+  "word_zh_guanyu": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "关于",
+        "period": "Modern",
+        "meaning": "about"
+      }
+    ],
+    "cognates": [],
+    "notes": "关 (close/concern) + 于 (at). 'Concerning at', i.e., about."
+  },
+  "word_zh_meiyou": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "没有",
+        "period": "Modern",
+        "meaning": "without"
+      }
+    ],
+    "cognates": [],
+    "notes": "没 (not) + 有 (have). 'Not have', i.e., without."
+  },
+  "word_zh_yiqian": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "以前",
+        "period": "Modern",
+        "meaning": "before"
+      }
+    ],
+    "cognates": [],
+    "notes": "以 (with/before) + 前 (front). 'Before front'."
+  },
+  "word_zh_yihou_prep": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "以后",
+        "period": "Modern",
+        "meaning": "after"
+      }
+    ],
+    "cognates": [],
+    "notes": "以 + 后 (behind). 'After behind'."
+  },
+  "word_zh_shang": {
+    "languageOrigin": "Old Chinese",
+    "yearOfOrigin": "c. 1200 BCE",
+    "timeline": [
+      {
+        "language": "Old Chinese",
+        "form": "上",
+        "period": "Shang dynasty",
+        "meaning": "above, on"
+      },
+      {
+        "language": "Mandarin",
+        "form": "上",
+        "period": "Modern",
+        "meaning": "on"
+      }
+    ],
+    "cognates": [],
+    "notes": "Pictograph of a line above a base, representing 'above/on'."
+  }
+}

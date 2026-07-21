@@ -1,0 +1,360 @@
+{
+  "word_hi_namaste": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "नमस्ते (namaste)",
+        "period": "Vedic period",
+        "meaning": "I bow to you"
+      },
+      {
+        "language": "Hindi",
+        "form": "नमस्ते",
+        "period": "Modern",
+        "meaning": "hello, greetings"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Nepali",
+        "word": "नमस्ते",
+        "meaning": "hello"
+      },
+      {
+        "language": "Marathi",
+        "word": "नमस्ते",
+        "meaning": "hello"
+      }
+    ],
+    "notes": "From Sanskrit नमः (namas, bow) + ते (te, to you). Spiritual greeting meaning 'I bow to the divine in you'."
+  },
+  "word_hi_namaskar": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "नमस्कार (namaskāra)",
+        "period": "Vedic period",
+        "meaning": "bowing, salutation"
+      },
+      {
+        "language": "Hindi",
+        "form": "नमस्कार",
+        "period": "Modern",
+        "meaning": "formal greeting"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Marathi",
+        "word": "नमस्कार",
+        "meaning": "hello"
+      }
+    ],
+    "notes": "From Sanskrit नमस् (namas) + कार (kāra, making). More formal than namaste."
+  },
+  "word_hi_alvida": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval period",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "الوداع (alvadāʿ)",
+        "period": "Medieval",
+        "meaning": "goodbye"
+      },
+      {
+        "language": "Hindustani",
+        "form": "अलविदा",
+        "period": "Mughal era",
+        "meaning": "goodbye"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Urdu",
+        "word": "الوداع",
+        "meaning": "goodbye"
+      },
+      {
+        "language": "Arabic",
+        "word": "الوداع",
+        "meaning": "farewell"
+      }
+    ],
+    "notes": "Borrowed from Persian/Arabic during Mughal period. Root و-د-ع (w-d-ʿ)."
+  },
+  "word_hi_shukriya": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "Medieval period",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "شكرا (shukran)",
+        "period": "Classical",
+        "meaning": "thanks"
+      },
+      {
+        "language": "Persian",
+        "form": "شکریه",
+        "period": "Medieval",
+        "meaning": "thanks"
+      },
+      {
+        "language": "Hindi",
+        "form": "शुक्रिया",
+        "period": "Mughal era",
+        "meaning": "thank you"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Urdu",
+        "word": "شکریہ",
+        "meaning": "thank you"
+      }
+    ],
+    "notes": "From Arabic root ش-ك-ر (sh-k-r) via Persian. Persianized form with suffix -iya."
+  },
+  "word_hi_dhanyavaad": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "धन्यवाद (dhanyavāda)",
+        "period": "Classical Sanskrit",
+        "meaning": "expression of gratitude"
+      },
+      {
+        "language": "Hindi",
+        "form": "धन्यवाद",
+        "period": "Modern",
+        "meaning": "thank you"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Marathi",
+        "word": "धन्यवाद",
+        "meaning": "thank you"
+      }
+    ],
+    "notes": "From Sanskrit धन्य (dhanya, blessed) + वाद (vāda, saying). Pure Sanskrit alternative to shukr iya."
+  },
+  "word_hi_kripya": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कृपया (kṛpayā)",
+        "period": "Classical Sanskrit",
+        "meaning": "by grace, please"
+      },
+      {
+        "language": "Hindi",
+        "form": "कृपया",
+        "period": "Modern",
+        "meaning": "please"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Marathi",
+        "word": "कृपया",
+        "meaning": "please"
+      }
+    ],
+    "notes": "From Sanskrit कृपा (kṛpā, grace, mercy). Formal/written form."
+  },
+  "word_hi_meharbani": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval period",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "مهربانی (mehrbānī)",
+        "period": "Medieval",
+        "meaning": "kindness"
+      },
+      {
+        "language": "Hindi",
+        "form": "मेहरबानी",
+        "period": "Mughal era",
+        "meaning": "kindness, please"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Urdu",
+        "word": "مہربانی",
+        "meaning": "kindness"
+      }
+    ],
+    "notes": "From Persian مهر (mehr, love) + بانی (bānī, keeper). Used in 'meharbani karke' (please)."
+  },
+  "word_hi_koi_baat_nahi": {
+    "languageOrigin": "Hindi",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Hindi",
+        "form": "कोई बात नहीं",
+        "period": "Modern",
+        "meaning": "no matter, you're welcome"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound phrase: कोई (any) + बात (matter) + नहीं (not). Common colloquial expression."
+  },
+  "word_hi_maaf_kijiye": {
+    "languageOrigin": "Arabic via Persian",
+    "yearOfOrigin": "Medieval period",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "معاف (maʿāf)",
+        "period": "Classical",
+        "meaning": "forgiven"
+      },
+      {
+        "language": "Persian",
+        "form": "معاف",
+        "period": "Medieval",
+        "meaning": "forgiven"
+      },
+      {
+        "language": "Hindi",
+        "form": "माफ़ कीजिये",
+        "period": "Mughal era",
+        "meaning": "please forgive"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Urdu",
+        "word": "معاف کیجیے",
+        "meaning": "sorry"
+      }
+    ],
+    "notes": "Arabic root ع-ف-و (ʿ-f-w) + Hindi honorific verb कीजिये."
+  },
+  "word_hi_koi_baat_nahi_alt": {
+    "languageOrigin": "Hindi",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Hindi",
+        "form": "कोई बात नहीं",
+        "period": "Modern",
+        "meaning": "no problem"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same as 'you're welcome' usage. Versatile colloquial phrase."
+  },
+  "word_hi_phir_milenge": {
+    "languageOrigin": "Hindi",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पुनः (punaḥ)",
+        "period": "Classical",
+        "meaning": "again"
+      },
+      {
+        "language": "Hindi",
+        "form": "फिर मिलेंगे",
+        "period": "Modern",
+        "meaning": "we'll meet again"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: फिर (again, from Sanskrit पुनः) + मिलेंगे (will meet). Common goodbye."
+  },
+  "word_hi_aap_kaise_hain": {
+    "languageOrigin": "Hindi/Sanskrit",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Hindi",
+        "form": "आप कैसे हैं",
+        "period": "Modern",
+        "meaning": "how are you"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: आप (you, honorific) + कैसे (how) + हैं (are). Standard greeting question."
+  },
+  "word_hi_main_theek_hoon": {
+    "languageOrigin": "Hindi",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Hindi",
+        "form": "मैं ठीक हूँ",
+        "period": "Modern",
+        "meaning": "I am fine"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: मैं (I) + ठीक (fine, okay) + हूँ (am). Standard response."
+  },
+  "word_hi_shubh_ratri": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "शुभ रात्रि (śubha rātri)",
+        "period": "Classical Sanskrit",
+        "meaning": "auspicious night"
+      },
+      {
+        "language": "Hindi",
+        "form": "शुभ रात्रि",
+        "period": "Modern",
+        "meaning": "good night"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Marathi",
+        "word": "शुभ रात्री",
+        "meaning": "good night"
+      }
+    ],
+    "notes": "From Sanskrit शुभ (śubha, auspicious) + रात्रि (rātri, night)."
+  },
+  "word_hi_swagat_hai": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "स्वागत (svāgata)",
+        "period": "Classical Sanskrit",
+        "meaning": "welcome"
+      },
+      {
+        "language": "Hindi",
+        "form": "स्वागत है",
+        "period": "Modern",
+        "meaning": "welcome"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Marathi",
+        "word": "स्वागत",
+        "meaning": "welcome"
+      }
+    ],
+    "notes": "From Sanskrit सु (su, good) + आगत (āgata, arrived). Literally 'well-arrived'."
+  }
+}

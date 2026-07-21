@@ -1,0 +1,294 @@
+{
+  "word_ar_jayyid": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "جيد",
+        "period": "Pre-Islamic era",
+        "meaning": "good"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ج-و-د (j-w-d) meaning 'to be generous, good'."
+  },
+  "word_ar_sayyi": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "سيئ",
+        "period": "Pre-Islamic era",
+        "meaning": "bad"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root س-و-أ (s-w-ʔ) meaning 'to be bad, evil'."
+  },
+  "word_ar_kabir": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*kabir-",
+        "period": "c. 3000 BCE",
+        "meaning": "big, great"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "كبير",
+        "period": "Pre-Islamic era",
+        "meaning": "big"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "כביר (kabir)",
+        "meaning": "great"
+      }
+    ],
+    "notes": "Root ك-ب-ر (k-b-r) meaning 'to be great'. Allah is 'Akbar' (greatest)."
+  },
+  "word_ar_saghir": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "صغير",
+        "period": "Pre-Islamic era",
+        "meaning": "small"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ص-غ-ر (ṣ-gh-r) meaning 'to be small, young'."
+  },
+  "word_ar_tawil": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "طويل",
+        "period": "Pre-Islamic era",
+        "meaning": "long, tall"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ط-و-ل (ṭ-w-l) meaning 'to be long, extend'."
+  },
+  "word_ar_qasir": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "قصير",
+        "period": "Pre-Islamic era",
+        "meaning": "short"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ق-ص-ر (q-ṣ-r) meaning 'to be short, limit'."
+  },
+  "word_ar_aali": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "عالي",
+        "period": "Pre-Islamic era",
+        "meaning": "high, tall"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ع-ل-و (ʕ-l-w) meaning 'to be high, elevated'."
+  },
+  "word_ar_munkhafid": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "منخفض",
+        "period": "Medieval period",
+        "meaning": "low"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root خ-ف-ض (kh-f-ḍ) meaning 'to lower'. Form VII participle."
+  },
+  "word_ar_jadid": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "جديد",
+        "period": "Pre-Islamic era",
+        "meaning": "new"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ج-د-د (j-d-d) meaning 'to renew, be new'."
+  },
+  "word_ar_qadim": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "قديم",
+        "period": "Pre-Islamic era",
+        "meaning": "old, ancient"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ق-د-م (q-d-m) meaning 'to precede, be ancient'."
+  },
+  "word_ar_shaabb": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "شاب",
+        "period": "Pre-Islamic era",
+        "meaning": "young"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ش-ب-ب (sh-b-b) meaning 'to be young, youthful'."
+  },
+  "word_ar_ajooz": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "عجوز",
+        "period": "Pre-Islamic era",
+        "meaning": "old (person)"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ع-ج-ز (ʕ-j-z) meaning 'to be old, weak'."
+  },
+  "word_ar_jamil": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "جميل",
+        "period": "Pre-Islamic era",
+        "meaning": "beautiful"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ج-م-ل (j-m-l) meaning 'to be beautiful'. Also means 'camel'."
+  },
+  "word_ar_qabih": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "قبيح",
+        "period": "Pre-Islamic era",
+        "meaning": "ugly"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ق-ب-ح (q-b-ḥ) meaning 'to be ugly, shameful'."
+  },
+  "word_ar_haar": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "حار",
+        "period": "Pre-Islamic era",
+        "meaning": "hot"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ح-ر-ر (ḥ-r-r) meaning 'to be hot, free'."
+  },
+  "word_ar_baarid": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "بارد",
+        "period": "Pre-Islamic era",
+        "meaning": "cold"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ب-ر-د (b-r-d) meaning 'to be cold, cool'."
+  },
+  "word_ar_sareea": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "سريع",
+        "period": "Pre-Islamic era",
+        "meaning": "fast"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root س-ر-ع (s-r-ʕ) meaning 'to be fast, quick'."
+  },
+  "word_ar_bati": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "بطيء",
+        "period": "Pre-Islamic era",
+        "meaning": "slow"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ب-ط-أ (b-ṭ-ʔ) meaning 'to be slow'."
+  },
+  "word_ar_sahl": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "سهل",
+        "period": "Pre-Islamic era",
+        "meaning": "easy"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root س-ه-ل (s-h-l) meaning 'to be easy, plain'."
+  },
+  "word_ar_saab": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "صعب",
+        "period": "Pre-Islamic era",
+        "meaning": "difficult"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ص-ع-ب (ṣ-ʕ-b) meaning 'to be difficult, hard'."
+  }
+}

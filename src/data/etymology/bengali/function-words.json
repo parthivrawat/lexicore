@@ -1,0 +1,454 @@
+{
+  "word_bn_ami": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अहम् (aham)",
+        "period": "Vedic",
+        "meaning": "I"
+      },
+      {
+        "language": "Bengali",
+        "form": "আমি",
+        "period": "Modern",
+        "meaning": "I"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "मैं",
+        "meaning": "I"
+      }
+    ],
+    "notes": "PIE *éǵh₂."
+  },
+  "word_bn_tumi": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "त्वम् (tvam)",
+        "period": "Vedic",
+        "meaning": "you"
+      },
+      {
+        "language": "Bengali",
+        "form": "তুমি",
+        "period": "Modern",
+        "meaning": "you"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "तुम",
+        "meaning": "you"
+      }
+    ],
+    "notes": "PIE *túh₂."
+  },
+  "word_bn_apni": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "आत्मन् (ātman)",
+        "period": "Classical",
+        "meaning": "self"
+      },
+      {
+        "language": "Bengali",
+        "form": "আপনি",
+        "period": "Modern",
+        "meaning": "you (formal)"
+      }
+    ],
+    "cognates": [],
+    "notes": "Formal 'you' from 'self'."
+  },
+  "word_bn_se": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "स (sa)",
+        "period": "Vedic",
+        "meaning": "he, that"
+      },
+      {
+        "language": "Bengali",
+        "form": "সে",
+        "period": "Modern",
+        "meaning": "he/she"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit स."
+  },
+  "word_bn_tini": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "तत् (tat)",
+        "period": "Classical",
+        "meaning": "that"
+      },
+      {
+        "language": "Bengali",
+        "form": "তিনি",
+        "period": "Modern",
+        "meaning": "he/she (formal)"
+      }
+    ],
+    "cognates": [],
+    "notes": "Honorific third person pronoun."
+  },
+  "word_bn_amra": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "asmad (vayam)",
+        "period": "Classical",
+        "meaning": "we"
+      },
+      {
+        "language": "Bengali",
+        "form": "আমরা",
+        "period": "Modern",
+        "meaning": "we"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit वयम् (vayam)."
+  },
+  "word_bn_tara": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "तत् (tat) + plural",
+        "period": "Classical",
+        "meaning": "they"
+      },
+      {
+        "language": "Bengali",
+        "form": "তারা",
+        "period": "Modern",
+        "meaning": "they"
+      }
+    ],
+    "cognates": [],
+    "notes": "Plural of 'se' (he/she)."
+  },
+  "word_bn_ei": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "एतद् (etad)",
+        "period": "Vedic",
+        "meaning": "this"
+      },
+      {
+        "language": "Bengali",
+        "form": "এই",
+        "period": "Modern",
+        "meaning": "this"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit एतद्."
+  },
+  "word_bn_oi": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अदस् (adas)",
+        "period": "Vedic",
+        "meaning": "that"
+      },
+      {
+        "language": "Bengali",
+        "form": "ওই",
+        "period": "Modern",
+        "meaning": "that"
+      }
+    ],
+    "cognates": [],
+    "notes": "Demonstrative 'that' (distant)."
+  },
+  "word_bn_ki": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "किम् (kim)",
+        "period": "Vedic",
+        "meaning": "what"
+      },
+      {
+        "language": "Bengali",
+        "form": "কী",
+        "period": "Modern",
+        "meaning": "what"
+      }
+    ],
+    "cognates": [],
+    "notes": "PIE *kʷid."
+  },
+  "word_bn_ke": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "क (ka)",
+        "period": "Vedic",
+        "meaning": "who"
+      },
+      {
+        "language": "Bengali",
+        "form": "কে",
+        "period": "Modern",
+        "meaning": "who"
+      }
+    ],
+    "cognates": [],
+    "notes": "PIE *kʷis."
+  },
+  "word_bn_kothay": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कुत्र (kutra)",
+        "period": "Classical",
+        "meaning": "where"
+      },
+      {
+        "language": "Bengali",
+        "form": "কোথায়",
+        "period": "Modern",
+        "meaning": "where"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit कुत्र."
+  },
+  "word_bn_kokhon": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कदा (kadā)",
+        "period": "Classical",
+        "meaning": "when"
+      },
+      {
+        "language": "Bengali",
+        "form": "কখন",
+        "period": "Modern",
+        "meaning": "when"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit कदा."
+  },
+  "word_bn_keno": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "किम् निमित्त (kim nimitta)",
+        "period": "Classical",
+        "meaning": "for what reason"
+      },
+      {
+        "language": "Bengali",
+        "form": "কেন",
+        "period": "Modern",
+        "meaning": "why"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit किम् निमित्त or कथम्."
+  },
+  "word_bn_kibhabe": {
+    "languageOrigin": "Sanskrit/Bengali",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कथम् (katham)",
+        "period": "Classical",
+        "meaning": "how"
+      },
+      {
+        "language": "Bengali",
+        "form": "কীভাবে",
+        "period": "Modern",
+        "meaning": "how"
+      }
+    ],
+    "cognates": [],
+    "notes": "কী (what) + ভাবে (in manner)."
+  },
+  "word_bn_ar": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अपि (api)",
+        "period": "Classical",
+        "meaning": "and, also"
+      },
+      {
+        "language": "Bengali",
+        "form": "আর",
+        "period": "Modern",
+        "meaning": "and"
+      }
+    ],
+    "cognates": [],
+    "notes": "Conjunction 'and'."
+  },
+  "word_bn_ba": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वा (vā)",
+        "period": "Classical",
+        "meaning": "or"
+      },
+      {
+        "language": "Bengali",
+        "form": "বা",
+        "period": "Modern",
+        "meaning": "or"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit वा."
+  },
+  "word_bn_kintu": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "किम् तु (kim tu)",
+        "period": "Classical",
+        "meaning": "but, however"
+      },
+      {
+        "language": "Bengali",
+        "form": "কিন্তু",
+        "period": "Modern",
+        "meaning": "but"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit किन्तु."
+  },
+  "word_bn_jodi": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "यदि (yadi)",
+        "period": "Classical",
+        "meaning": "if"
+      },
+      {
+        "language": "Bengali",
+        "form": "যদি",
+        "period": "Modern",
+        "meaning": "if"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit यदि."
+  },
+  "word_bn_karon": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कारण (kāraṇa)",
+        "period": "Classical",
+        "meaning": "cause, reason"
+      },
+      {
+        "language": "Bengali",
+        "form": "কারণ",
+        "period": "Modern",
+        "meaning": "because"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit कारण."
+  },
+  "word_bn_na": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "न (na)",
+        "period": "Vedic",
+        "meaning": "not"
+      },
+      {
+        "language": "Bengali",
+        "form": "না",
+        "period": "Modern",
+        "meaning": "no"
+      }
+    ],
+    "cognates": [],
+    "notes": "PIE *ne."
+  },
+  "word_bn_hyan": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "एवम् (evam)",
+        "period": "Classical",
+        "meaning": "thus, yes"
+      },
+      {
+        "language": "Bengali",
+        "form": "হ্যাঁ",
+        "period": "Modern",
+        "meaning": "yes"
+      }
+    ],
+    "cognates": [],
+    "notes": "Affirmative 'yes'."
+  }
+}

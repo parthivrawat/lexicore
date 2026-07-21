@@ -1,0 +1,377 @@
+{
+  "word_zh_ren": {
+    "languageOrigin": "Old Chinese",
+    "yearOfOrigin": "c. 1200 BCE",
+    "timeline": [
+      {
+        "language": "Old Chinese",
+        "form": "人",
+        "period": "Shang dynasty",
+        "meaning": "person, human"
+      },
+      {
+        "language": "Mandarin",
+        "form": "人",
+        "period": "Modern",
+        "meaning": "person"
+      }
+    ],
+    "cognates": [],
+    "notes": "Pictograph of a standing person. One of the most common Chinese characters."
+  },
+  "word_zh_haizi": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "孩子",
+        "period": "Modern",
+        "meaning": "child"
+      }
+    ],
+    "cognates": [],
+    "notes": "子 (child) + 孩 (child). 子 is an ancient suffix for children."
+  },
+  "word_zh_fangzi": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "房子",
+        "period": "Zhou dynasty",
+        "meaning": "house, room"
+      },
+      {
+        "language": "Mandarin",
+        "form": "房子",
+        "period": "Modern",
+        "meaning": "house"
+      }
+    ],
+    "cognates": [],
+    "notes": "房 (house) + 子 (suffix). 房 originally a side room in a courtyard."
+  },
+  "word_zh_shui": {
+    "languageOrigin": "Old Chinese",
+    "yearOfOrigin": "c. 1200 BCE",
+    "timeline": [
+      {
+        "language": "Old Chinese",
+        "form": "水",
+        "period": "Shang dynasty",
+        "meaning": "water"
+      },
+      {
+        "language": "Mandarin",
+        "form": "水",
+        "period": "Modern",
+        "meaning": "water"
+      }
+    ],
+    "cognates": [],
+    "notes": "Pictograph of flowing water. One of the five classical elements."
+  },
+  "word_zh_fan": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "飯",
+        "period": "Zhou dynasty",
+        "meaning": "cooked rice, meal"
+      },
+      {
+        "language": "Mandarin",
+        "form": "饭",
+        "simplified": true,
+        "period": "Modern",
+        "meaning": "food"
+      }
+    ],
+    "cognates": [],
+    "notes": "Food 食 + 反 (return). Originally 'cooked rice', now general 'food/meal'."
+  },
+  "word_zh_shijian": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "时间",
+        "period": "Modern",
+        "meaning": "time"
+      }
+    ],
+    "cognates": [],
+    "notes": "时 (time) + 间 (interval, room). Modern compound for 'time'."
+  },
+  "word_zh_tian": {
+    "languageOrigin": "Old Chinese",
+    "yearOfOrigin": "c. 1200 BCE",
+    "timeline": [
+      {
+        "language": "Old Chinese",
+        "form": "天",
+        "period": "Shang dynasty",
+        "meaning": "sky, day, heaven"
+      },
+      {
+        "language": "Mandarin",
+        "form": "天",
+        "period": "Modern",
+        "meaning": "day"
+      }
+    ],
+    "cognates": [],
+    "notes": "Pictograph of a person with outstretched arms, representing heaven/sky. Also means 'day'."
+  },
+  "word_zh_nian": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "年",
+        "period": "Zhou dynasty",
+        "meaning": "harvest, year"
+      },
+      {
+        "language": "Mandarin",
+        "form": "年",
+        "period": "Modern",
+        "meaning": "year"
+      }
+    ],
+    "cognates": [],
+    "notes": "Originally a person carrying grain, representing harvest/annual cycle."
+  },
+  "word_zh_shou": {
+    "languageOrigin": "Old Chinese",
+    "yearOfOrigin": "c. 1200 BCE",
+    "timeline": [
+      {
+        "language": "Old Chinese",
+        "form": "手",
+        "period": "Shang dynasty",
+        "meaning": "hand"
+      },
+      {
+        "language": "Mandarin",
+        "form": "手",
+        "period": "Modern",
+        "meaning": "hand"
+      }
+    ],
+    "cognates": [],
+    "notes": "Pictograph of a hand with fingers. Common radical."
+  },
+  "word_zh_yanjing": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "眼睛",
+        "period": "Modern",
+        "meaning": "eye"
+      }
+    ],
+    "cognates": [],
+    "notes": "眼 (eye) + 睛 (eyeball). Compound for 'eye'."
+  },
+  "word_zh_tou": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "頭",
+        "period": "Zhou dynasty",
+        "meaning": "head"
+      },
+      {
+        "language": "Mandarin",
+        "form": "头",
+        "simplified": true,
+        "period": "Modern",
+        "meaning": "head"
+      }
+    ],
+    "cognates": [],
+    "notes": "Traditional 頭 contains head 首 + page 頁. Simplified to 头."
+  },
+  "word_zh_shu": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "書",
+        "period": "Zhou dynasty",
+        "meaning": "to write, document, book"
+      },
+      {
+        "language": "Mandarin",
+        "form": "书",
+        "simplified": true,
+        "period": "Modern",
+        "meaning": "book"
+      }
+    ],
+    "cognates": [],
+    "notes": "Traditional 聿 (brush) + 曰 (say). Means 'book, writing'."
+  },
+  "word_zh_men": {
+    "languageOrigin": "Old Chinese",
+    "yearOfOrigin": "c. 1200 BCE",
+    "timeline": [
+      {
+        "language": "Old Chinese",
+        "form": "門",
+        "period": "Shang dynasty",
+        "meaning": "gate, door"
+      },
+      {
+        "language": "Mandarin",
+        "form": "门",
+        "simplified": true,
+        "period": "Modern",
+        "meaning": "door"
+      }
+    ],
+    "cognates": [],
+    "notes": "Pictograph of two doors. Simplified to 门."
+  },
+  "word_zh_lu": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "路",
+        "period": "Zhou dynasty",
+        "meaning": "road, path"
+      },
+      {
+        "language": "Mandarin",
+        "form": "路",
+        "period": "Modern",
+        "meaning": "road"
+      }
+    ],
+    "cognates": [],
+    "notes": "Foot 足 + 各 (each). Means 'road, path'."
+  },
+  "word_zh_chengshi": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "城市",
+        "period": "Modern",
+        "meaning": "city"
+      }
+    ],
+    "cognates": [],
+    "notes": "城 (city wall) + 市 (market). 'Walled market', i.e., city."
+  },
+  "word_zh_guojia": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "國家",
+        "period": "Zhou dynasty",
+        "meaning": "state, country"
+      },
+      {
+        "language": "Mandarin",
+        "form": "国家",
+        "simplified": true,
+        "period": "Modern",
+        "meaning": "country"
+      }
+    ],
+    "cognates": [],
+    "notes": "國 (state) + 家 (family). 'State-family'. Simplified to 国家."
+  },
+  "word_zh_xuexiao": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "学校",
+        "period": "Modern",
+        "meaning": "school"
+      }
+    ],
+    "cognates": [],
+    "notes": "学 (learn) + 校 (school/field). 'Place of learning'."
+  },
+  "word_zh_pengyou": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "朋友",
+        "period": "Zhou dynasty",
+        "meaning": "friend"
+      },
+      {
+        "language": "Mandarin",
+        "form": "朋友",
+        "period": "Modern",
+        "meaning": "friend"
+      }
+    ],
+    "cognates": [],
+    "notes": "朋 (friend/classmate) + 友 (friend). 朋 originally shells strung together."
+  },
+  "word_zh_jiaren": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "家人",
+        "period": "Zhou dynasty",
+        "meaning": "family members"
+      },
+      {
+        "language": "Mandarin",
+        "form": "家人",
+        "period": "Modern",
+        "meaning": "family"
+      }
+    ],
+    "cognates": [],
+    "notes": "家 (house/family) + 人 (people). 'Family members'."
+  },
+  "word_zh_mingzi": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "名字",
+        "period": "Zhou dynasty",
+        "meaning": "name"
+      },
+      {
+        "language": "Mandarin",
+        "form": "名字",
+        "period": "Modern",
+        "meaning": "name"
+      }
+    ],
+    "cognates": [],
+    "notes": "名 (name) + 字 (character). Originally 'name and courtesy name'."
+  }
+}

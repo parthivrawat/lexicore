@@ -1,0 +1,236 @@
+{
+  "word_ja_totemo": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 18th century",
+    "timeline": [
+      {
+        "language": "Japanese",
+        "form": "とても",
+        "period": "Edo period",
+        "meaning": "very"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'totemo' (even if/taking). Adverbial intensifier."
+  },
+  "word_ja_mo": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "も (mo)",
+        "period": "Nara",
+        "meaning": "also"
+      }
+    ],
+    "cognates": [],
+    "notes": "Particle 'mo' (also, even)."
+  },
+  "word_ja_dake": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "丈 (take)",
+        "period": "Heian",
+        "meaning": "only, extent"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'dake' (only). 'Take' originally 'extent/length'."
+  },
+  "word_ja_itsumo": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "何時も (itsumo)",
+        "period": "Heian",
+        "meaning": "always"
+      }
+    ],
+    "cognates": [],
+    "notes": "何時 (itsu, when) + も (also). 'At any time'."
+  },
+  "word_ja_zenzen": {
+    "languageOrigin": "Chinese/Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Chinese",
+        "form": "全然 (quánrán)",
+        "period": "Tang dynasty",
+        "meaning": "completely"
+      },
+      {
+        "language": "Japanese",
+        "form": "全然 (zenzen)",
+        "period": "Heian",
+        "meaning": "not at all (with negative)"
+      }
+    ],
+    "cognates": [],
+    "notes": "Originally 'completely', in Japanese used mainly in negative: 'not at all'."
+  },
+  "word_ja_tokidoki": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "時々 (tokidoki)",
+        "period": "Heian",
+        "meaning": "sometimes"
+      }
+    ],
+    "cognates": [],
+    "notes": "Reduplication of 'toki' (time). 'From time to time'."
+  },
+  "word_ja_yoku": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "良く (yoku)",
+        "period": "Heian",
+        "meaning": "well, often"
+      }
+    ],
+    "cognates": [],
+    "notes": "Adverbial form of 'yoi' (good). Means 'often' or 'well'."
+  },
+  "word_ja_ima": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "今 (ima)",
+        "period": "Nara",
+        "meaning": "now"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native 'ima' (now)."
+  },
+  "word_ja_ato_de": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "後 (ato)",
+        "period": "Nara",
+        "meaning": "after, behind"
+      },
+      {
+        "language": "Japanese",
+        "form": "後で (ato de)",
+        "period": "Heian",
+        "meaning": "later"
+      }
+    ],
+    "cognates": [],
+    "notes": "後 (after) + で (at)."
+  },
+  "word_ja_kino": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "昨日 (kinō)",
+        "period": "Heian",
+        "meaning": "yesterday"
+      }
+    ],
+    "cognates": [],
+    "notes": "昨日 combines 'ki' (past) + 'nō' (day)."
+  },
+  "word_ja_ashita": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "明日 (ashita/asu)",
+        "period": "Heian",
+        "meaning": "tomorrow"
+      }
+    ],
+    "cognates": [],
+    "notes": "明日 (bright day). 'Ashita' is native reading."
+  },
+  "word_ja_mou": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "もう (mō)",
+        "period": "Heian",
+        "meaning": "already, more"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'mō' (already)."
+  },
+  "word_ja_mada": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "未だ (mada)",
+        "period": "Heian",
+        "meaning": "yet, still"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'mada' (still, yet)."
+  },
+  "word_ja_tabun": {
+    "languageOrigin": "Chinese/Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Chinese",
+        "form": "多分 (duōfèn)",
+        "period": "Tang dynasty",
+        "meaning": "probably"
+      },
+      {
+        "language": "Japanese",
+        "form": "多分 (tabun)",
+        "period": "Heian",
+        "meaning": "maybe"
+      }
+    ],
+    "cognates": [],
+    "notes": "多 (many) + 分 (part). 'Probably'."
+  },
+  "word_ja_zeitai_ni": {
+    "languageOrigin": "Chinese/Japanese",
+    "yearOfOrigin": "c. 19th century",
+    "timeline": [
+      {
+        "language": "Chinese",
+        "form": "絶対 (juéduì)",
+        "period": "Tang dynasty",
+        "meaning": "absolute"
+      },
+      {
+        "language": "Japanese",
+        "form": "絶対に (zettai ni)",
+        "period": "Modern",
+        "meaning": "certainly"
+      }
+    ],
+    "cognates": [],
+    "notes": "絶 (cut) + 対 (opposite) + に (adverbial). 'Absolutely'."
+  }
+}

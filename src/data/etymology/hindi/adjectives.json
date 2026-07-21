@@ -1,0 +1,324 @@
+{
+  "word_hi_achchha": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अच्छ (accha)",
+        "period": "Classical",
+        "meaning": "clear, transparent, good"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit अच्छ (accha). Means 'good, nice'."
+  },
+  "word_hi_bura": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "भूर (bhūra)",
+        "period": "Classical",
+        "meaning": "bad, evil"
+      }
+    ],
+    "cognates": [],
+    "notes": "Possibly from Sanskrit. Means 'bad'."
+  },
+  "word_hi_bada": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वृद्ध (vṛddha)",
+        "period": "Classical",
+        "meaning": "grown, big"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit वृध् (vṛdh, to grow). Means 'big'."
+  },
+  "word_hi_chhota": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "क्षुद्र (kṣudra)",
+        "period": "Classical",
+        "meaning": "small, petty"
+      }
+    ],
+    "cognates": [],
+    "notes": "Possibly from Sanskrit क्षुद्र. Means 'small'."
+  },
+  "word_hi_lamba": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "लम्ब (lamba)",
+        "period": "Classical",
+        "meaning": "hanging, long"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit लम्ब (lamba). Means 'long'."
+  },
+  "word_hi_chhota_alt": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "क्षुद्र (kṣudra)",
+        "period": "Classical",
+        "meaning": "small"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same as छोटा. Means 'short'."
+  },
+  "word_hi_ooncha": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "उच्च (ucca)",
+        "period": "Classical",
+        "meaning": "high, tall"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit उच्च (ucca). Means 'tall/high'."
+  },
+  "word_hi_neeche": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "नीच (nīca)",
+        "period": "Classical",
+        "meaning": "low"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit नीच (nīca). Means 'low'."
+  },
+  "word_hi_naya": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "नव (nava)",
+        "period": "Vedic",
+        "meaning": "new, young"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "novus",
+        "meaning": "new"
+      }
+    ],
+    "notes": "From Sanskrit नव (nava). PIE root *néwos (new)."
+  },
+  "word_hi_purana": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पुराण (purāṇa)",
+        "period": "Classical",
+        "meaning": "old, ancient"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit पुरा (purā, formerly). Means 'old'."
+  },
+  "word_hi_jawan": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "جوان (javān)",
+        "period": "Medieval",
+        "meaning": "young"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Urdu",
+        "word": "جوان",
+        "meaning": "young"
+      }
+    ],
+    "notes": "Borrowed from Persian. Means 'young'."
+  },
+  "word_hi_budha": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वृद्ध (vṛddha)",
+        "period": "Classical",
+        "meaning": "old (age)"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit वृध् (vṛdh, to grow). Means 'old (person)'."
+  },
+  "word_hi_sundar": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "सुन्दर (sundara)",
+        "period": "Classical",
+        "meaning": "beautiful"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit सु (su, good) + दर (dara, tearing). Means 'beautiful'."
+  },
+  "word_hi_badsurat": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "بدصورت (badsūrat)",
+        "period": "Medieval",
+        "meaning": "ugly"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Urdu",
+        "word": "بدصورت",
+        "meaning": "ugly"
+      }
+    ],
+    "notes": "From Persian بد (bad, bad) + صورت (sūrat, face). Means 'ugly'."
+  },
+  "word_hi_garam": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "گرم (garm)",
+        "period": "Medieval",
+        "meaning": "hot, warm"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Urdu",
+        "word": "گرم",
+        "meaning": "hot"
+      }
+    ],
+    "notes": "Borrowed from Persian. Means 'hot'."
+  },
+  "word_hi_thanda": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "शीत (śīta)",
+        "period": "Classical",
+        "meaning": "cold"
+      }
+    ],
+    "cognates": [],
+    "notes": "Possibly from Sanskrit. Means 'cold'."
+  },
+  "word_hi_tez": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "تیز (tēz)",
+        "period": "Medieval",
+        "meaning": "fast, sharp"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Urdu",
+        "word": "تیز",
+        "meaning": "fast"
+      }
+    ],
+    "notes": "Borrowed from Persian. Means 'fast'."
+  },
+  "word_hi_dheema": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "धीम (dhīma)",
+        "period": "Classical",
+        "meaning": "slow, gentle"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit. Means 'slow'."
+  },
+  "word_hi_aasaan": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "آسان (āsān)",
+        "period": "Medieval",
+        "meaning": "easy"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Urdu",
+        "word": "آسان",
+        "meaning": "easy"
+      }
+    ],
+    "notes": "Borrowed from Persian. Means 'easy'."
+  },
+  "word_hi_mushkil": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "مشكل (mushkil)",
+        "period": "Classical",
+        "meaning": "difficult"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Urdu",
+        "word": "مشکل",
+        "meaning": "difficult"
+      }
+    ],
+    "notes": "Borrowed from Arabic via Persian. Means 'difficult'."
+  }
+}

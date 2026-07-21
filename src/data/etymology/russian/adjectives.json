@@ -1,0 +1,318 @@
+{
+  "word_ru_khoroshiy": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "хорошии",
+        "period": "Medieval",
+        "meaning": "good"
+      }
+    ],
+    "cognates": [],
+    "notes": "Of uncertain etymology. Possibly from 'хоро' (dance/merry)."
+  },
+  "word_ru_plokhoy": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 16th century",
+    "timeline": [
+      {
+        "language": "Russian",
+        "form": "плохой",
+        "period": "16th century",
+        "meaning": "bad"
+      }
+    ],
+    "cognates": [],
+    "notes": "Of uncertain origin. Possibly from 'плохнуть' (to rot)."
+  },
+  "word_ru_bolshoy": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*boljьšь",
+        "period": "c. 500 CE",
+        "meaning": "bigger"
+      }
+    ],
+    "cognates": [],
+    "notes": "Comparative origin from *bol- (much, many)."
+  },
+  "word_ru_malenkiy": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 15th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "маленькии",
+        "period": "Medieval",
+        "meaning": "small"
+      }
+    ],
+    "cognates": [],
+    "notes": "Diminutive of 'малый' (small)."
+  },
+  "word_ru_dlinnyy": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*dlinŭ",
+        "period": "c. 500 CE",
+        "meaning": "long"
+      }
+    ],
+    "cognates": [],
+    "notes": "PIE? Possibly related to 'долгий' (long in time)."
+  },
+  "word_ru_korotkiy": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 15th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "краткіи",
+        "period": "Medieval",
+        "meaning": "short, brief"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "short",
+        "meaning": "short"
+      }
+    ],
+    "notes": "From Church Slavonic 'kratŭk' (short). Related to 'короткий'."
+  },
+  "word_ru_vysokiy": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*vysokŭ",
+        "period": "c. 500 CE",
+        "meaning": "high"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'высота' (height)."
+  },
+  "word_ru_nizkiy": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*nizŭkŭ",
+        "period": "c. 500 CE",
+        "meaning": "low"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'низ' (bottom)."
+  },
+  "word_ru_novyy": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*novŭ",
+        "period": "c. 500 CE",
+        "meaning": "new"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "novus",
+        "meaning": "new"
+      }
+    ],
+    "notes": "PIE *néwos (new)."
+  },
+  "word_ru_staryy": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*starŭ",
+        "period": "c. 500 CE",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "senex",
+        "meaning": "old"
+      }
+    ],
+    "notes": "Of uncertain origin, perhaps related to 'стоять' (to stand, endure)."
+  },
+  "word_ru_molodoy": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*molodŭ",
+        "period": "c. 500 CE",
+        "meaning": "young"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "mollis",
+        "meaning": "soft"
+      }
+    ],
+    "notes": "PIE *mold-? Possibly related to softness/tenderness."
+  },
+  "word_ru_pozhiloy": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Russian",
+        "form": "пожилой",
+        "period": "Modern",
+        "meaning": "elderly"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'пожить' (to live a while). Means 'having lived', i.e., elderly."
+  },
+  "word_ru_krasivyy": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "красныи",
+        "period": "Medieval",
+        "meaning": "red, beautiful"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'красный' (red, beautiful). In Old Russian 'red' meant 'beautiful'."
+  },
+  "word_ru_nekrasivyy": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 18th century",
+    "timeline": [
+      {
+        "language": "Russian",
+        "form": "некрасивый",
+        "period": "Modern",
+        "meaning": "ugly"
+      }
+    ],
+    "cognates": [],
+    "notes": "Negation prefix не- + красивый (beautiful)."
+  },
+  "word_ru_goryachiy": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*goręčĭ",
+        "period": "c. 500 CE",
+        "meaning": "hot, bitter"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'гореть' (to burn). Means 'hot' or 'bitter' (like hot)."
+  },
+  "word_ru_kholodnyy": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*xolodŭnŭ",
+        "period": "c. 500 CE",
+        "meaning": "cold"
+      }
+    ],
+    "cognates": [],
+    "notes": "PIE *kól-? Related to 'холод' (cold)."
+  },
+  "word_ru_bystry": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*bystrŭ",
+        "period": "c. 500 CE",
+        "meaning": "quick, fast"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'быть' root? Related to 'fast current' (быстрая вода)."
+  },
+  "word_ru_medlennyy": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "Russian",
+        "form": "медленный",
+        "period": "17th century",
+        "meaning": "slow"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'медь' (copper)? 'Like copper (heavy)'."
+  },
+  "word_ru_legkiy": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*lěgŭkŭ",
+        "period": "c. 500 CE",
+        "meaning": "light, easy"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "levis",
+        "meaning": "light"
+      }
+    ],
+    "notes": "PIE *h₁leńgʷʰ- (light). Means 'easy' or 'light'."
+  },
+  "word_ru_tyonelyy": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*tęžŭkŭ",
+        "period": "c. 500 CE",
+        "meaning": "heavy, difficult"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "tālis?",
+        "meaning": ""
+      }
+    ],
+    "notes": "From 'тяжкий' (heavy). Means 'difficult'."
+  }
+}

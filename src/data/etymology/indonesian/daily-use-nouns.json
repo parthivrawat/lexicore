@@ -1,0 +1,414 @@
+{
+  "word_id_orang": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Austronesian",
+        "form": "*qauRang",
+        "period": "c. 3000 BCE",
+        "meaning": "person"
+      },
+      {
+        "language": "Old Malay",
+        "form": "orang",
+        "period": "Medieval",
+        "meaning": "person"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Austronesian *qauRang."
+  },
+  "word_id_anak": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Austronesian",
+        "form": "*aNak",
+        "period": "c. 3000 BCE",
+        "meaning": "child"
+      },
+      {
+        "language": "Old Malay",
+        "form": "anak",
+        "period": "Medieval",
+        "meaning": "child"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Austronesian *aNak."
+  },
+  "word_id_rumah": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "rumah",
+        "period": "Medieval",
+        "meaning": "house"
+      },
+      {
+        "language": "Indonesian",
+        "form": "rumah",
+        "period": "Modern",
+        "meaning": "house"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'rumah'."
+  },
+  "word_id_air": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Austronesian",
+        "form": "*wair",
+        "period": "c. 3000 BCE",
+        "meaning": "water"
+      },
+      {
+        "language": "Old Malay",
+        "form": "air",
+        "period": "Medieval",
+        "meaning": "water"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Austronesian *wair."
+  },
+  "word_id_makanan": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "makanan",
+        "period": "Medieval",
+        "meaning": "food"
+      },
+      {
+        "language": "Indonesian",
+        "form": "makanan",
+        "period": "Modern",
+        "meaning": "food"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'makan' (to eat) + -an nominalizer."
+  },
+  "word_id_waktu": {
+    "languageOrigin": "Austronesian/Arabic",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "وقت (waqt)",
+        "period": "Classical",
+        "meaning": "time"
+      },
+      {
+        "language": "Old Malay",
+        "form": "waktu",
+        "period": "Medieval",
+        "meaning": "time"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic 'waqt'."
+  },
+  "word_id_hari": {
+    "languageOrigin": "Austronesian/Sanskrit",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "hari",
+        "period": "Classical",
+        "meaning": "day, lion"
+      },
+      {
+        "language": "Old Malay",
+        "form": "hari",
+        "period": "Medieval",
+        "meaning": "day"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit 'hari' (day/lion)."
+  },
+  "word_id_tahun": {
+    "languageOrigin": "Austronesian/Sanskrit",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "taḥun?",
+        "period": "Classical",
+        "meaning": "year"
+      },
+      {
+        "language": "Old Malay",
+        "form": "tahun",
+        "period": "Medieval",
+        "meaning": "year"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit 'varṣa'? Actually 'tahun' may be from Sanskrit 'varṣa' via Prakrit? Or native Austronesian."
+  },
+  "word_id_tangan": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Austronesian",
+        "form": "*taŋan",
+        "period": "c. 3000 BCE",
+        "meaning": "hand"
+      },
+      {
+        "language": "Old Malay",
+        "form": "tangan",
+        "period": "Medieval",
+        "meaning": "hand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Austronesian *taŋan."
+  },
+  "word_id_mata": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Austronesian",
+        "form": "*mata",
+        "period": "c. 3000 BCE",
+        "meaning": "eye"
+      },
+      {
+        "language": "Old Malay",
+        "form": "mata",
+        "period": "Medieval",
+        "meaning": "eye"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Austronesian *mata."
+  },
+  "word_id_kepala": {
+    "languageOrigin": "Austronesian/Sanskrit",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "kapāla",
+        "period": "Classical",
+        "meaning": "skull, head"
+      },
+      {
+        "language": "Old Malay",
+        "form": "kepala",
+        "period": "Medieval",
+        "meaning": "head"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit 'kapāla'."
+  },
+  "word_id_buku": {
+    "languageOrigin": "Sanskrit/Dutch",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "bhūṣaṇa?",
+        "period": "Classical",
+        "meaning": "ornament?"
+      },
+      {
+        "language": "Dutch",
+        "form": "boek",
+        "period": "17th century",
+        "meaning": "book"
+      },
+      {
+        "language": "Indonesian",
+        "form": "buku",
+        "period": "Modern",
+        "meaning": "book"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Dutch 'boek'."
+  },
+  "word_id_pintu": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "pintu",
+        "period": "Medieval",
+        "meaning": "door"
+      },
+      {
+        "language": "Indonesian",
+        "form": "pintu",
+        "period": "Modern",
+        "meaning": "door"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'pintu'."
+  },
+  "word_id_jalan": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "jalan",
+        "period": "Medieval",
+        "meaning": "street, road"
+      },
+      {
+        "language": "Indonesian",
+        "form": "jalan",
+        "period": "Modern",
+        "meaning": "street"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'jalan'."
+  },
+  "word_id_kota": {
+    "languageOrigin": "Sanskrit/Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "koṭṭa",
+        "period": "Classical",
+        "meaning": "fortress"
+      },
+      {
+        "language": "Old Malay",
+        "form": "kota",
+        "period": "Medieval",
+        "meaning": "city"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit 'koṭṭa' (fort)."
+  },
+  "word_id_negara": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "nagara",
+        "period": "Classical",
+        "meaning": "city, country"
+      },
+      {
+        "language": "Old Malay",
+        "form": "negara",
+        "period": "Medieval",
+        "meaning": "country"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit 'nagara'."
+  },
+  "word_id_sekolah": {
+    "languageOrigin": "Dutch",
+    "yearOfOrigin": "c. 19th century",
+    "timeline": [
+      {
+        "language": "Dutch",
+        "form": "school",
+        "period": "19th century",
+        "meaning": "school"
+      },
+      {
+        "language": "Indonesian",
+        "form": "sekolah",
+        "period": "Modern",
+        "meaning": "school"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "school",
+        "meaning": "school"
+      }
+    ],
+    "notes": "From Dutch 'school'."
+  },
+  "word_id_teman": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "teman",
+        "period": "Medieval",
+        "meaning": "friend"
+      },
+      {
+        "language": "Indonesian",
+        "form": "teman",
+        "period": "Modern",
+        "meaning": "friend"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'teman'."
+  },
+  "word_id_keluarga": {
+    "languageOrigin": "Austronesian/Sanskrit",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "kula-varga?",
+        "period": "Classical",
+        "meaning": "family"
+      },
+      {
+        "language": "Old Malay",
+        "form": "keluarga",
+        "period": "Medieval",
+        "meaning": "family"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit 'kula-varga' (family group)."
+  },
+  "word_id_nama": {
+    "languageOrigin": "Austronesian/Sanskrit",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "nāman",
+        "period": "Classical",
+        "meaning": "name"
+      },
+      {
+        "language": "Old Malay",
+        "form": "nama",
+        "period": "Medieval",
+        "meaning": "name"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit 'nāman'."
+  }
+}

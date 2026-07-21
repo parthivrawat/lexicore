@@ -1,0 +1,402 @@
+{
+  "word_vi_tot": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "tốt",
+        "period": "Medieval",
+        "meaning": "good"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "tốt",
+        "period": "Modern",
+        "meaning": "good"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Chinese 好? Or native? 'Tốt' from Chinese 好 (hǎo) or native?"
+  },
+  "word_vi_xau": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "xấu",
+        "period": "Medieval",
+        "meaning": "bad, ugly"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "xấu",
+        "period": "Modern",
+        "meaning": "bad"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese adjective."
+  },
+  "word_vi_lon": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "lớn",
+        "period": "Medieval",
+        "meaning": "big"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "lớn",
+        "period": "Modern",
+        "meaning": "big"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese adjective."
+  },
+  "word_vi_nho": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "nhỏ",
+        "period": "Medieval",
+        "meaning": "small"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "nhỏ",
+        "period": "Modern",
+        "meaning": "small"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese adjective."
+  },
+  "word_vi_dai": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "dài",
+        "period": "Medieval",
+        "meaning": "long"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "dài",
+        "period": "Modern",
+        "meaning": "long"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese adjective."
+  },
+  "word_vi_ngan": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "ngắn",
+        "period": "Medieval",
+        "meaning": "short"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "ngắn",
+        "period": "Modern",
+        "meaning": "short"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese adjective."
+  },
+  "word_vi_cao": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "高 (cao)",
+        "period": "Medieval",
+        "meaning": "high"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "cao",
+        "period": "Modern",
+        "meaning": "tall"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Chinese 高 (gāo)."
+  },
+  "word_vi_thap": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "低 (thấp)",
+        "period": "Medieval",
+        "meaning": "low"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "thấp",
+        "period": "Modern",
+        "meaning": "low"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Chinese 低 (dī)."
+  },
+  "word_vi_moi": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "mới",
+        "period": "Medieval",
+        "meaning": "new"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "mới",
+        "period": "Modern",
+        "meaning": "new"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese adjective."
+  },
+  "word_vi_cu": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "cũ",
+        "period": "Medieval",
+        "meaning": "old"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "cũ",
+        "period": "Modern",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese adjective."
+  },
+  "word_vi_tre": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "trẻ",
+        "period": "Medieval",
+        "meaning": "young"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "trẻ",
+        "period": "Modern",
+        "meaning": "young"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese adjective."
+  },
+  "word_vi_gia": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "già",
+        "period": "Medieval",
+        "meaning": "old"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "già",
+        "period": "Modern",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese adjective."
+  },
+  "word_vi_dep": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "đẹp",
+        "period": "Medieval",
+        "meaning": "beautiful"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "đẹp",
+        "period": "Modern",
+        "meaning": "beautiful"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese adjective."
+  },
+  "word_vi_xau_ugly": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "xấu",
+        "period": "Medieval",
+        "meaning": "ugly"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "xấu",
+        "period": "Modern",
+        "meaning": "ugly"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same word as xấu (bad)."
+  },
+  "word_vi_nong": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "nóng",
+        "period": "Medieval",
+        "meaning": "hot"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "nóng",
+        "period": "Modern",
+        "meaning": "hot"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese adjective."
+  },
+  "word_vi_lanh": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "lạnh",
+        "period": "Medieval",
+        "meaning": "cold"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "lạnh",
+        "period": "Modern",
+        "meaning": "cold"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese adjective."
+  },
+  "word_vi_nhanh": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "nhanh",
+        "period": "Medieval",
+        "meaning": "fast"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "nhanh",
+        "period": "Modern",
+        "meaning": "fast"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese adjective."
+  },
+  "word_vi_cham": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "chậm",
+        "period": "Medieval",
+        "meaning": "slow"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "chậm",
+        "period": "Modern",
+        "meaning": "slow"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese adjective."
+  },
+  "word_vi_de": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "dễ",
+        "period": "Medieval",
+        "meaning": "easy"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "dễ",
+        "period": "Modern",
+        "meaning": "easy"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese adjective."
+  },
+  "word_vi_kho": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "khó",
+        "period": "Medieval",
+        "meaning": "difficult"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "khó",
+        "period": "Modern",
+        "meaning": "difficult"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese adjective."
+  }
+}

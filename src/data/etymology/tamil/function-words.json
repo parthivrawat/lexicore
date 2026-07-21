@@ -1,0 +1,442 @@
+{
+  "word_ta_na": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "நான் (nāṉ)",
+        "period": "Sangam",
+        "meaning": "I"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "நான்",
+        "period": "Modern",
+        "meaning": "I"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil nāṉ."
+  },
+  "word_ta_nee": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "நீ (nī)",
+        "period": "Sangam",
+        "meaning": "you"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "நீ",
+        "period": "Modern",
+        "meaning": "you"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil nī."
+  },
+  "word_ta_neengal": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "நீங்கள் (nīṅkaḷ)",
+        "period": "Medieval",
+        "meaning": "you (plural/formal)"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "நீங்கள்",
+        "period": "Modern",
+        "meaning": "you (formal)"
+      }
+    ],
+    "cognates": [],
+    "notes": "nī (you) + -ṅkaḷ (plural)."
+  },
+  "word_ta_avan": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "அவன் (avaṉ)",
+        "period": "Sangam",
+        "meaning": "he"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "அவன்",
+        "period": "Modern",
+        "meaning": "he"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil avaṉ."
+  },
+  "word_ta_aval": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "அவள் (avaḷ)",
+        "period": "Sangam",
+        "meaning": "she"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "அவள்",
+        "period": "Modern",
+        "meaning": "she"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil avaḷ."
+  },
+  "word_ta_naangal": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "நாங்கள் (nāṅkaḷ)",
+        "period": "Medieval",
+        "meaning": "we"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "நாங்கள்",
+        "period": "Modern",
+        "meaning": "we"
+      }
+    ],
+    "cognates": [],
+    "notes": "nāṉ (I) + -ṅkaḷ (plural)."
+  },
+  "word_ta_avargal": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "அவர்கள் (avarkaḷ)",
+        "period": "Medieval",
+        "meaning": "they"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "அவர்கள்",
+        "period": "Modern",
+        "meaning": "they"
+      }
+    ],
+    "cognates": [],
+    "notes": "avar (they/respectful) + -kaḷ (plural)."
+  },
+  "word_ta_indha": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "இந்த (iṉta)",
+        "period": "Medieval",
+        "meaning": "this"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "இந்த",
+        "period": "Modern",
+        "meaning": "this"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil iṉ (this)."
+  },
+  "word_ta_andha": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "அந்த (anta)",
+        "period": "Medieval",
+        "meaning": "that"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "அந்த",
+        "period": "Modern",
+        "meaning": "that"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil aṉ (that)."
+  },
+  "word_ta_enna": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "என்ன (eṉṉa)",
+        "period": "Sangam",
+        "meaning": "what"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "என்ன",
+        "period": "Modern",
+        "meaning": "what"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil eṉṉa."
+  },
+  "word_ta_yaar": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "யார் (yār)",
+        "period": "Sangam",
+        "meaning": "who"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "யார்",
+        "period": "Modern",
+        "meaning": "who"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil yār."
+  },
+  "word_ta_enge": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "எங்கே (eṅkē)",
+        "period": "Sangam",
+        "meaning": "where"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "எங்கே",
+        "period": "Modern",
+        "meaning": "where"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil eṅkē."
+  },
+  "word_ta_eppozhudhu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "எப்பொழுது (eppoḻutu)",
+        "period": "Sangam",
+        "meaning": "when"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "எப்பொழுது",
+        "period": "Modern",
+        "meaning": "when"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil eppoḻutu."
+  },
+  "word_ta_yaen": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "ஏன் (ēṉ)",
+        "period": "Sangam",
+        "meaning": "why"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "ஏன்",
+        "period": "Modern",
+        "meaning": "why"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil ēṉ."
+  },
+  "word_ta_eppadi": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "எப்படி (eppaṭi)",
+        "period": "Sangam",
+        "meaning": "how"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "எப்படி",
+        "period": "Modern",
+        "meaning": "how"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil eppaṭi."
+  },
+  "word_ta_oum": {
+    "languageOrigin": "Tamil/Sanskrit",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "च (ca)",
+        "period": "Vedic",
+        "meaning": "and"
+      },
+      {
+        "language": "Tamil",
+        "form": "ஒரு (oru)",
+        "period": "Modern",
+        "meaning": "and"
+      }
+    ],
+    "cognates": [],
+    "notes": "Tamil uses 'ம்' clitic for 'and' (e.g., 'நானும்')."
+  },
+  "word_ta_athava": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "அல்லது (allatu)",
+        "period": "Medieval",
+        "meaning": "or"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "அல்லது",
+        "period": "Modern",
+        "meaning": "or"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil allatu."
+  },
+  "word_ta_aanaal": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "ஆனால் (āṉāl)",
+        "period": "Medieval",
+        "meaning": "but"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "ஆனால்",
+        "period": "Modern",
+        "meaning": "but"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil āṉāl."
+  },
+  "word_ta_endral": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "என்றால் (eṉṟāl)",
+        "period": "Medieval",
+        "meaning": "if"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "என்றால்",
+        "period": "Modern",
+        "meaning": "if"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil eṉṟāl."
+  },
+  "word_ta_endukku": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "ஏனெனில் (ēṉeṉil)",
+        "period": "Medieval",
+        "meaning": "because"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "ஏனெனில்",
+        "period": "Modern",
+        "meaning": "because"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil ēṉeṉil."
+  },
+  "word_ta_illai": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "இல் (il)",
+        "period": "Sangam",
+        "meaning": "not"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "இல்லை",
+        "period": "Modern",
+        "meaning": "no"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil il."
+  },
+  "word_ta_aamaam": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "ஆம் (ām)",
+        "period": "Medieval",
+        "meaning": "yes"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "ஆமாம்",
+        "period": "Modern",
+        "meaning": "yes"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil ām."
+  }
+}

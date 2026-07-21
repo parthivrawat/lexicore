@@ -1,0 +1,508 @@
+{
+  "word_id_adalah": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "adalah",
+        "period": "Medieval",
+        "meaning": "to be"
+      },
+      {
+        "language": "Indonesian",
+        "form": "adalah",
+        "period": "Modern",
+        "meaning": "to be"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'ada' (exist) + -lah (emphasis)."
+  },
+  "word_id_melakukan": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "lakukan",
+        "period": "Medieval",
+        "meaning": "to do"
+      },
+      {
+        "language": "Indonesian",
+        "form": "melakukan",
+        "period": "Modern",
+        "meaning": "to do"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Malay 'laku' (act) + me-...-kan."
+  },
+  "word_id_pergi": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "pirgi",
+        "period": "Medieval",
+        "meaning": "to go"
+      },
+      {
+        "language": "Indonesian",
+        "form": "pergi",
+        "period": "Modern",
+        "meaning": "to go"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'pirgi'."
+  },
+  "word_id_datang": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "datang",
+        "period": "Medieval",
+        "meaning": "to come"
+      },
+      {
+        "language": "Indonesian",
+        "form": "datang",
+        "period": "Modern",
+        "meaning": "to come"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'datang'."
+  },
+  "word_id_makan": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "makan",
+        "period": "Medieval",
+        "meaning": "to eat"
+      },
+      {
+        "language": "Indonesian",
+        "form": "makan",
+        "period": "Modern",
+        "meaning": "to eat"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'makan'."
+  },
+  "word_id_minum": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "minum",
+        "period": "Medieval",
+        "meaning": "to drink"
+      },
+      {
+        "language": "Indonesian",
+        "form": "minum",
+        "period": "Modern",
+        "meaning": "to drink"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'minum'."
+  },
+  "word_id_melihat": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "lihat",
+        "period": "Medieval",
+        "meaning": "to see"
+      },
+      {
+        "language": "Indonesian",
+        "form": "melihat",
+        "period": "Modern",
+        "meaning": "to see"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Malay 'lihat' with me- prefix."
+  },
+  "word_id_mendengar": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "dengar",
+        "period": "Medieval",
+        "meaning": "to hear"
+      },
+      {
+        "language": "Indonesian",
+        "form": "mendengar",
+        "period": "Modern",
+        "meaning": "to hear"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Malay 'dengar' with me- prefix."
+  },
+  "word_id_bicara": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "bicara",
+        "period": "Medieval",
+        "meaning": "to speak"
+      },
+      {
+        "language": "Indonesian",
+        "form": "bicara",
+        "period": "Modern",
+        "meaning": "to speak"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'bicara'."
+  },
+  "word_id_membaca": {
+    "languageOrigin": "Austronesian/Sanskrit",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "vac",
+        "period": "Classical",
+        "meaning": "to speak, read"
+      },
+      {
+        "language": "Old Malay",
+        "form": "baca",
+        "period": "Medieval",
+        "meaning": "to read"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Malay 'baca' with me- prefix; possibly from Sanskrit."
+  },
+  "word_id_menulis": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "tulis",
+        "period": "Medieval",
+        "meaning": "to write"
+      },
+      {
+        "language": "Indonesian",
+        "form": "menulis",
+        "period": "Modern",
+        "meaning": "to write"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Malay 'tulis' with me- prefix."
+  },
+  "word_id_memberi": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "beri",
+        "period": "Medieval",
+        "meaning": "to give"
+      },
+      {
+        "language": "Indonesian",
+        "form": "memberi",
+        "period": "Modern",
+        "meaning": "to give"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Malay 'beri' with me- prefix."
+  },
+  "word_id_mengambil": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "ambil",
+        "period": "Medieval",
+        "meaning": "to take"
+      },
+      {
+        "language": "Indonesian",
+        "form": "mengambil",
+        "period": "Modern",
+        "meaning": "to take"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Malay 'ambil' with meng- prefix."
+  },
+  "word_id_tidur": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "tidur",
+        "period": "Medieval",
+        "meaning": "to sleep"
+      },
+      {
+        "language": "Indonesian",
+        "form": "tidur",
+        "period": "Modern",
+        "meaning": "to sleep"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'tidur'."
+  },
+  "word_id_bangun": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "bangun",
+        "period": "Medieval",
+        "meaning": "to wake, build"
+      },
+      {
+        "language": "Indonesian",
+        "form": "bangun",
+        "period": "Modern",
+        "meaning": "to wake up"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'bangun'."
+  },
+  "word_id_duduk": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "duduk",
+        "period": "Medieval",
+        "meaning": "to sit"
+      },
+      {
+        "language": "Indonesian",
+        "form": "duduk",
+        "period": "Modern",
+        "meaning": "to sit"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'duduk'."
+  },
+  "word_id_berdiri": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "diri",
+        "period": "Medieval",
+        "meaning": "to stand"
+      },
+      {
+        "language": "Indonesian",
+        "form": "berdiri",
+        "period": "Modern",
+        "meaning": "to stand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Malay 'diri' with ber- prefix."
+  },
+  "word_id_berjalan": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "jalan",
+        "period": "Medieval",
+        "meaning": "to walk, road"
+      },
+      {
+        "language": "Indonesian",
+        "form": "berjalan",
+        "period": "Modern",
+        "meaning": "to walk"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Malay 'jalan' (road/walk) with ber- prefix."
+  },
+  "word_id_berlari": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "lari",
+        "period": "Medieval",
+        "meaning": "to run"
+      },
+      {
+        "language": "Indonesian",
+        "form": "berlari",
+        "period": "Modern",
+        "meaning": "to run"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Malay 'lari' with ber- prefix."
+  },
+  "word_id_tawa": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "tawa",
+        "period": "Medieval",
+        "meaning": "to laugh"
+      },
+      {
+        "language": "Indonesian",
+        "form": "tawa",
+        "period": "Modern",
+        "meaning": "to laugh"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'tawa'."
+  },
+  "word_id_menangis": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "tangis",
+        "period": "Medieval",
+        "meaning": "to cry"
+      },
+      {
+        "language": "Indonesian",
+        "form": "menangis",
+        "period": "Modern",
+        "meaning": "to cry"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Malay 'tangis' with me- prefix."
+  },
+  "word_id_mengerti": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "ngerti",
+        "period": "Medieval",
+        "meaning": "to understand"
+      },
+      {
+        "language": "Indonesian",
+        "form": "mengerti",
+        "period": "Modern",
+        "meaning": "to understand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Malay 'ngerti' with meng- prefix."
+  },
+  "word_id_ingin": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "ingin",
+        "period": "Medieval",
+        "meaning": "to want"
+      },
+      {
+        "language": "Indonesian",
+        "form": "ingin",
+        "period": "Modern",
+        "meaning": "to want"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'ingin'."
+  },
+  "word_id_cinta": {
+    "languageOrigin": "Sanskrit/Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "cintā",
+        "period": "Classical",
+        "meaning": "thought, love"
+      },
+      {
+        "language": "Old Malay",
+        "form": "cinta",
+        "period": "Medieval",
+        "meaning": "to love"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit 'cintā' (thought/love)."
+  },
+  "word_id_bekerja": {
+    "languageOrigin": "Dutch/Austronesian",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "Dutch",
+        "form": "werk",
+        "period": "17th century",
+        "meaning": "work"
+      },
+      {
+        "language": "Indonesian",
+        "form": "bekerja",
+        "period": "Modern",
+        "meaning": "to work"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "work",
+        "meaning": "work"
+      }
+    ],
+    "notes": "From Dutch 'werk' with be- prefix? Actually 'kerja' is Malay, be- prefix."
+  }
+}

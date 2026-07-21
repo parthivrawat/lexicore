@@ -1,0 +1,486 @@
+{
+  "word_ur_insan": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "إنسان (insān)",
+        "period": "Classical",
+        "meaning": "human"
+      },
+      {
+        "language": "Urdu",
+        "form": "انسان",
+        "period": "Modern",
+        "meaning": "person"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic 'insān'."
+  },
+  "word_ur_bacha": {
+    "languageOrigin": "Persian/Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वत्स (vatsa)",
+        "period": "Classical",
+        "meaning": "child, calf"
+      },
+      {
+        "language": "Persian",
+        "form": "بچه (bacce)",
+        "period": "Medieval",
+        "meaning": "child"
+      },
+      {
+        "language": "Urdu",
+        "form": "بچہ",
+        "period": "Modern",
+        "meaning": "child"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian 'bacche' or Sanskrit 'vatsa'."
+  },
+  "word_ur_ghar": {
+    "languageOrigin": "Sanskrit/Persian",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "गृह (gṛha)",
+        "period": "Classical",
+        "meaning": "house"
+      },
+      {
+        "language": "Persian",
+        "form": "گھر (gār)",
+        "period": "Medieval",
+        "meaning": "house"
+      },
+      {
+        "language": "Urdu",
+        "form": "گھر",
+        "period": "Modern",
+        "meaning": "house"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit गृह via Persian."
+  },
+  "word_ur_pani": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पानीय (pānīya)",
+        "period": "Vedic",
+        "meaning": "water"
+      },
+      {
+        "language": "Urdu",
+        "form": "پانی",
+        "period": "Modern",
+        "meaning": "water"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "पानी",
+        "meaning": "water"
+      }
+    ],
+    "notes": "From Sanskrit पानीय."
+  },
+  "word_ur_khana": {
+    "languageOrigin": "Persian/Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "खादन (khādana)",
+        "period": "Classical",
+        "meaning": "food"
+      },
+      {
+        "language": "Persian",
+        "form": "خانه (xāna)",
+        "period": "Medieval",
+        "meaning": "house, food?"
+      },
+      {
+        "language": "Urdu",
+        "form": "کھانا",
+        "period": "Modern",
+        "meaning": "food"
+      }
+    ],
+    "cognates": [],
+    "notes": "Persian xāna (house) used as 'food' in Urdu/Hindi."
+  },
+  "word_ur_waqt": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "وقت (waqt)",
+        "period": "Classical",
+        "meaning": "time"
+      },
+      {
+        "language": "Urdu",
+        "form": "وقت",
+        "period": "Modern",
+        "meaning": "time"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic 'waqt'."
+  },
+  "word_ur_din": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "दिन (dina)",
+        "period": "Vedic",
+        "meaning": "day"
+      },
+      {
+        "language": "Urdu",
+        "form": "دن",
+        "period": "Modern",
+        "meaning": "day"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "दिन",
+        "meaning": "day"
+      }
+    ],
+    "notes": "From Sanskrit दिन."
+  },
+  "word_ur_saalgirah": {
+    "languageOrigin": "Persian/Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वर्ष (varṣa)",
+        "period": "Classical",
+        "meaning": "year, rain"
+      },
+      {
+        "language": "Persian",
+        "form": "سال (sāl) + گشت (gast)",
+        "period": "Medieval",
+        "meaning": "anniversary"
+      },
+      {
+        "language": "Urdu",
+        "form": "سالگرہ",
+        "period": "Modern",
+        "meaning": "year"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian 'sālgirah' (anniversary)."
+  },
+  "word_ur_haath": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "हस्त (hasta)",
+        "period": "Vedic",
+        "meaning": "hand"
+      },
+      {
+        "language": "Urdu",
+        "form": "ہاتھ",
+        "period": "Modern",
+        "meaning": "hand"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "हाथ",
+        "meaning": "hand"
+      }
+    ],
+    "notes": "From Sanskrit हस्त."
+  },
+  "word_ur_aankh": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अक्षि (akṣi)",
+        "period": "Classical",
+        "meaning": "eye"
+      },
+      {
+        "language": "Urdu",
+        "form": "آنکھ",
+        "period": "Modern",
+        "meaning": "eye"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "आँख",
+        "meaning": "eye"
+      }
+    ],
+    "notes": "From Sanskrit अक्षि."
+  },
+  "word_ur_sar": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "शिरस् (śiras)",
+        "period": "Vedic",
+        "meaning": "head"
+      },
+      {
+        "language": "Urdu",
+        "form": "سر",
+        "period": "Modern",
+        "meaning": "head"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "सिर",
+        "meaning": "head"
+      }
+    ],
+    "notes": "From Sanskrit शिरस्."
+  },
+  "word_ur_kitaab": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "كتاب (kitāb)",
+        "period": "Classical",
+        "meaning": "book"
+      },
+      {
+        "language": "Urdu",
+        "form": "کتاب",
+        "period": "Modern",
+        "meaning": "book"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic 'kitāb'."
+  },
+  "word_ur_darwaza": {
+    "languageOrigin": "Persian/Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "द्वार (dvāra)",
+        "period": "Classical",
+        "meaning": "door"
+      },
+      {
+        "language": "Persian",
+        "form": "دروازه (darvāza)",
+        "period": "Medieval",
+        "meaning": "door"
+      },
+      {
+        "language": "Urdu",
+        "form": "دروازہ",
+        "period": "Modern",
+        "meaning": "door"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian 'darvāza'."
+  },
+  "word_ur_sarak": {
+    "languageOrigin": "Sanskrit/Persian",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "शृङ्खला (śṛṅkhalā)?",
+        "period": "Classical",
+        "meaning": "chain, road"
+      },
+      {
+        "language": "Persian",
+        "form": "سرک (sarak)",
+        "period": "Medieval",
+        "meaning": "street"
+      },
+      {
+        "language": "Urdu",
+        "form": " سڑک",
+        "period": "Modern",
+        "meaning": "street"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian 'sarak'."
+  },
+  "word_ur_shahar": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पुर (pura)",
+        "period": "Classical",
+        "meaning": "city, fortress"
+      },
+      {
+        "language": "Urdu",
+        "form": "شہر",
+        "period": "Modern",
+        "meaning": "city"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit पुर via Prakrit."
+  },
+  "word_ur_mulk": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "ملك (mulk)",
+        "period": "Classical",
+        "meaning": "kingdom, country"
+      },
+      {
+        "language": "Urdu",
+        "form": "ملک",
+        "period": "Modern",
+        "meaning": "country"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic 'mulk' (kingdom)."
+  },
+  "word_ur_school": {
+    "languageOrigin": "Greek via English",
+    "yearOfOrigin": "c. 19th century",
+    "timeline": [
+      {
+        "language": "Greek",
+        "form": "σχολή (scholē)",
+        "period": "Ancient",
+        "meaning": "school"
+      },
+      {
+        "language": "English",
+        "form": "school",
+        "period": "Modern",
+        "meaning": "school"
+      },
+      {
+        "language": "Urdu",
+        "form": "سکول",
+        "period": "Modern",
+        "meaning": "school"
+      }
+    ],
+    "cognates": [],
+    "notes": "Modern loan from English."
+  },
+  "word_ur_dost": {
+    "languageOrigin": "Persian/Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "दृष्ट (dṛṣṭa)?",
+        "period": "Classical",
+        "meaning": "seen, friend"
+      },
+      {
+        "language": "Persian",
+        "form": "دوست (dūst)",
+        "period": "Medieval",
+        "meaning": "friend"
+      },
+      {
+        "language": "Urdu",
+        "form": "دوست",
+        "period": "Modern",
+        "meaning": "friend"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian 'dūst' (friend)."
+  },
+  "word_ur_khaandaan": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "خاندان (xāndān)",
+        "period": "Medieval",
+        "meaning": "family, household"
+      },
+      {
+        "language": "Urdu",
+        "form": "خاندان",
+        "period": "Modern",
+        "meaning": "family"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian 'xāndān' (household)."
+  },
+  "word_ur_naam": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "नामन् (nāman)",
+        "period": "Vedic",
+        "meaning": "name"
+      },
+      {
+        "language": "Urdu",
+        "form": "نام",
+        "period": "Modern",
+        "meaning": "name"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "नाम",
+        "meaning": "name"
+      }
+    ],
+    "notes": "From Sanskrit नामन्."
+  }
+}

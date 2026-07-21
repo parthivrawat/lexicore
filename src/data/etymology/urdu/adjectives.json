@@ -1,0 +1,438 @@
+{
+  "word_ur_acha": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "भद्र (bhadra)",
+        "period": "Classical",
+        "meaning": "good"
+      },
+      {
+        "language": "Urdu",
+        "form": "اچھا",
+        "period": "Modern",
+        "meaning": "good"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "अच्छा",
+        "meaning": "good"
+      }
+    ],
+    "notes": "From Sanskrit भद्र."
+  },
+  "word_ur_bura": {
+    "languageOrigin": "Sanskrit/Persian",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "भद्र (bhadra)",
+        "period": "Classical",
+        "meaning": "good"
+      },
+      {
+        "language": "Persian",
+        "form": "بد (bad)",
+        "period": "Medieval",
+        "meaning": "bad"
+      },
+      {
+        "language": "Urdu",
+        "form": "بُرا",
+        "period": "Modern",
+        "meaning": "bad"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian 'bad' (bad)."
+  },
+  "word_ur_bara": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वृद्ध (vṛddha)",
+        "period": "Classical",
+        "meaning": "big, old"
+      },
+      {
+        "language": "Urdu",
+        "form": "بڑا",
+        "period": "Modern",
+        "meaning": "big"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "बड़ा",
+        "meaning": "big"
+      }
+    ],
+    "notes": "From Sanskrit वृद्ध."
+  },
+  "word_ur_chhota": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "क्षुद्र (kṣudra)",
+        "period": "Classical",
+        "meaning": "small"
+      },
+      {
+        "language": "Urdu",
+        "form": "چھوٹا",
+        "period": "Modern",
+        "meaning": "small"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "छोटा",
+        "meaning": "small"
+      }
+    ],
+    "notes": "From Sanskrit क्षुद्र."
+  },
+  "word_ur_lamba": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "लम्ब (lamba)",
+        "period": "Classical",
+        "meaning": "long"
+      },
+      {
+        "language": "Urdu",
+        "form": "لمبا",
+        "period": "Modern",
+        "meaning": "long"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit लम्ब."
+  },
+  "word_ur_chota2": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "क्षुद्र (kṣudra)",
+        "period": "Classical",
+        "meaning": "small"
+      },
+      {
+        "language": "Urdu",
+        "form": "چھوٹا",
+        "period": "Modern",
+        "meaning": "short"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same as چھوٹا (small/short)."
+  },
+  "word_ur_uncha": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "उच्च (ucca)",
+        "period": "Classical",
+        "meaning": "high"
+      },
+      {
+        "language": "Urdu",
+        "form": "اونچا",
+        "period": "Modern",
+        "meaning": "tall"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit उच्च."
+  },
+  "word_ur_nicha": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "नीच (nīca)",
+        "period": "Classical",
+        "meaning": "low"
+      },
+      {
+        "language": "Urdu",
+        "form": "نیچا",
+        "period": "Modern",
+        "meaning": "low"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit नीच."
+  },
+  "word_ur_naya": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "नव (nava)",
+        "period": "Classical",
+        "meaning": "new"
+      },
+      {
+        "language": "Urdu",
+        "form": "نیا",
+        "period": "Modern",
+        "meaning": "new"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit नव."
+  },
+  "word_ur_purana": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पुराण (purāṇa)",
+        "period": "Classical",
+        "meaning": "ancient, old"
+      },
+      {
+        "language": "Urdu",
+        "form": "پران",
+        "period": "Modern",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit पुराण."
+  },
+  "word_ur_jawan": {
+    "languageOrigin": "Sanskrit/Persian",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "युवान (yuvāna)",
+        "period": "Classical",
+        "meaning": "youth"
+      },
+      {
+        "language": "Persian",
+        "form": "جوان (javān)",
+        "period": "Medieval",
+        "meaning": "young"
+      },
+      {
+        "language": "Urdu",
+        "form": "جوان",
+        "period": "Modern",
+        "meaning": "young"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian 'javān'."
+  },
+  "word_ur_buzurg": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "بزرگ (buzurg)",
+        "period": "Medieval",
+        "meaning": "great, elder"
+      },
+      {
+        "language": "Urdu",
+        "form": "بزرگ",
+        "period": "Modern",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian 'buzurg' (great, elder)."
+  },
+  "word_ur_khoobsurat": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "خوبصورت (xūbsūrat)",
+        "period": "Medieval",
+        "meaning": "beautiful"
+      },
+      {
+        "language": "Urdu",
+        "form": "خوبصورت",
+        "period": "Modern",
+        "meaning": "beautiful"
+      }
+    ],
+    "cognates": [],
+    "notes": "خوب (good) + صورت (face/form)."
+  },
+  "word_ur_bad_soorat": {
+    "languageOrigin": "Persian/Urdu",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "بد صورت (bad sūrat)",
+        "period": "Medieval",
+        "meaning": "ugly"
+      },
+      {
+        "language": "Urdu",
+        "form": "بدصورت",
+        "period": "Modern",
+        "meaning": "ugly"
+      }
+    ],
+    "cognates": [],
+    "notes": "بد (bad) + صورت (face). 'Bad face'."
+  },
+  "word_ur_garam": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "घर्म (gharma)",
+        "period": "Classical",
+        "meaning": "heat"
+      },
+      {
+        "language": "Urdu",
+        "form": "گرم",
+        "period": "Modern",
+        "meaning": "hot"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit घर्म."
+  },
+  "word_ur_thanda": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "स्थाण्ड (sthāṇḍa)?",
+        "period": "Classical",
+        "meaning": "cold"
+      },
+      {
+        "language": "Urdu",
+        "form": "ٹھنڈا",
+        "period": "Modern",
+        "meaning": "cold"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Prakrit 'thanda'."
+  },
+  "word_ur_tez": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "تيز (tēz)",
+        "period": "Medieval",
+        "meaning": "sharp, fast"
+      },
+      {
+        "language": "Urdu",
+        "form": "تیز",
+        "period": "Modern",
+        "meaning": "fast"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian 'tēz' (sharp/fast)."
+  },
+  "word_ur_dheema": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "धीमन् (dhīman)?",
+        "period": "Classical",
+        "meaning": "slow"
+      },
+      {
+        "language": "Urdu",
+        "form": "دھیما",
+        "period": "Modern",
+        "meaning": "slow"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit धीर/दीम."
+  },
+  "word_ur_aasan": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "सुलभ (sulabha)",
+        "period": "Classical",
+        "meaning": "easy"
+      },
+      {
+        "language": "Persian",
+        "form": "آسان (āsān)",
+        "period": "Medieval",
+        "meaning": "easy"
+      },
+      {
+        "language": "Urdu",
+        "form": "آسان",
+        "period": "Modern",
+        "meaning": "easy"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian 'āsān' (easy)."
+  },
+  "word_ur_mushkil": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "مشكل (mushkil)",
+        "period": "Classical",
+        "meaning": "difficult, problem"
+      },
+      {
+        "language": "Urdu",
+        "form": "مشکل",
+        "period": "Modern",
+        "meaning": "difficult"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic 'mushkil' (difficult/problem)."
+  }
+}

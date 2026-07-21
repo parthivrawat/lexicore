@@ -1,0 +1,390 @@
+{
+  "word_te_manchi": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "మంచి (mañci)",
+        "period": "Medieval",
+        "meaning": "good"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "మంచి",
+        "period": "Modern",
+        "meaning": "good"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *mañ."
+  },
+  "word_te_chedda": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "చెడ్డ (ceḍḍa)",
+        "period": "Medieval",
+        "meaning": "bad"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "చెడ్ద",
+        "period": "Modern",
+        "meaning": "bad"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *ceṭ."
+  },
+  "word_te_pedda": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "పెద్ద (pedda)",
+        "period": "Medieval",
+        "meaning": "big"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "పెద్ద",
+        "period": "Modern",
+        "meaning": "big"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *per."
+  },
+  "word_te_chinna": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "చిన్న (cinna)",
+        "period": "Medieval",
+        "meaning": "small"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "చిన్న",
+        "period": "Modern",
+        "meaning": "small"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *ciṉ."
+  },
+  "word_te_poddugani": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "పొడవైన (poḍavaina)",
+        "period": "Medieval",
+        "meaning": "long"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "పొడవైన",
+        "period": "Modern",
+        "meaning": "long"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu poḍugu (length)."
+  },
+  "word_te_poddugani_short": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "చిన్నది (cinnadi)",
+        "period": "Medieval",
+        "meaning": "short"
+      }
+    ],
+    "cognates": [],
+    "notes": "Short is often 'cinnadi' (small) or 'kuṟupaina' in Telugu."
+  },
+  "word_te_ettugani": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "ఎత్తైన (ettaina)",
+        "period": "Medieval",
+        "meaning": "tall"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "ఎత్తైన",
+        "period": "Modern",
+        "meaning": "tall"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu ettu (height)."
+  },
+  "word_te_takkuva": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "తక్కువ (takkuva)",
+        "period": "Medieval",
+        "meaning": "low, less"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "తక్కువ",
+        "period": "Modern",
+        "meaning": "low"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu takkuva."
+  },
+  "word_te_kotta": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "కొత్త (kotta)",
+        "period": "Medieval",
+        "meaning": "new"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "కొత్త",
+        "period": "Modern",
+        "meaning": "new"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu kotta."
+  },
+  "word_te_purathana": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पुरातन (purātana)",
+        "period": "Classical",
+        "meaning": "old, ancient"
+      },
+      {
+        "language": "Telugu",
+        "form": "పురాతన",
+        "period": "Modern",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit purātana."
+  },
+  "word_te_yuvakudu": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "युवक (yuvaka)",
+        "period": "Classical",
+        "meaning": "young"
+      },
+      {
+        "language": "Telugu",
+        "form": "యువకుడు",
+        "period": "Modern",
+        "meaning": "young"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit yuvaka."
+  },
+  "word_te_vruddhudu": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वृद्ध (vṛddha)",
+        "period": "Classical",
+        "meaning": "old"
+      },
+      {
+        "language": "Telugu",
+        "form": "వృద్ధుడు",
+        "period": "Modern",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit vṛddha."
+  },
+  "word_te_andamaina": {
+    "languageOrigin": "Sanskrit/Telugu",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "आन्द (ānda)?",
+        "period": "Classical",
+        "meaning": "beautiful"
+      },
+      {
+        "language": "Telugu",
+        "form": "అందమైన",
+        "period": "Modern",
+        "meaning": "beautiful"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu anda (beauty)."
+  },
+  "word_te_chirakuganu": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Telugu",
+        "form": "అందంగా లేని",
+        "period": "Modern",
+        "meaning": "ugly"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'not beautiful'."
+  },
+  "word_te_vedi": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "వేడి (vēḍi)",
+        "period": "Medieval",
+        "meaning": "hot"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "వేడి",
+        "period": "Modern",
+        "meaning": "hot"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu vēḍi."
+  },
+  "word_te_chali": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "చలి (cali)",
+        "period": "Medieval",
+        "meaning": "cold"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "చలి",
+        "period": "Modern",
+        "meaning": "cold"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu cali."
+  },
+  "word_te_vegamaina": {
+    "languageOrigin": "Sanskrit/Telugu",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वेग (vēga)",
+        "period": "Classical",
+        "meaning": "speed"
+      },
+      {
+        "language": "Telugu",
+        "form": "వేగమైన",
+        "period": "Modern",
+        "meaning": "fast"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit vēga."
+  },
+  "word_te_nidhanam": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "निधान (nidhāna)",
+        "period": "Classical",
+        "meaning": "slow"
+      },
+      {
+        "language": "Telugu",
+        "form": "నిదానం",
+        "period": "Modern",
+        "meaning": "slow"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit nidhāna."
+  },
+  "word_te_sulabham": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "सुलभ (sulabha)",
+        "period": "Classical",
+        "meaning": "easy"
+      },
+      {
+        "language": "Telugu",
+        "form": "సులభం",
+        "period": "Modern",
+        "meaning": "easy"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit sulabha."
+  },
+  "word_te_kastam": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कष्ट (kaṣṭa)",
+        "period": "Classical",
+        "meaning": "difficult"
+      },
+      {
+        "language": "Telugu",
+        "form": "కష్టం",
+        "period": "Modern",
+        "meaning": "difficult"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit kaṣṭa."
+  }
+}

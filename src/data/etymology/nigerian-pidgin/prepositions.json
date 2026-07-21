@@ -1,0 +1,202 @@
+{
+  "word_pcm_in": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "in",
+        "period": "17th century",
+        "meaning": "in"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "in",
+        "period": "Modern",
+        "meaning": "in"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'in'."
+  },
+  "word_pcm_go": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "go",
+        "period": "17th century",
+        "meaning": "to"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "go",
+        "period": "Modern",
+        "meaning": "to"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'go' used as directional."
+  },
+  "word_pcm_from": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "from",
+        "period": "17th century",
+        "meaning": "from"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "from",
+        "period": "Modern",
+        "meaning": "from"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'from'."
+  },
+  "word_pcm_wit": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "with",
+        "period": "17th century",
+        "meaning": "with"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "wit",
+        "period": "Modern",
+        "meaning": "with"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'with'."
+  },
+  "word_pcm_for": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "for",
+        "period": "17th century",
+        "meaning": "for"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "for",
+        "period": "Modern",
+        "meaning": "for"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'for'."
+  },
+  "word_pcm_abaut": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "about",
+        "period": "17th century",
+        "meaning": "about"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "abaut",
+        "period": "Modern",
+        "meaning": "about"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'about'."
+  },
+  "word_pcm_witaut": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "without",
+        "period": "17th century",
+        "meaning": "without"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "witaut",
+        "period": "Modern",
+        "meaning": "without"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'without'."
+  },
+  "word_pcm_bifor": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "before",
+        "period": "17th century",
+        "meaning": "before"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "bifor",
+        "period": "Modern",
+        "meaning": "before"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'before'."
+  },
+  "word_pcm_afta": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "after",
+        "period": "17th century",
+        "meaning": "after"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "afta",
+        "period": "Modern",
+        "meaning": "after"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'after'."
+  },
+  "word_pcm_ontop": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "on top",
+        "period": "17th century",
+        "meaning": "on top"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "on top",
+        "period": "Modern",
+        "meaning": "on top of"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'on top'."
+  }
+}

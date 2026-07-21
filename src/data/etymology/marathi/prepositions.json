@@ -1,0 +1,202 @@
+{
+  "word_mr_madhye": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "मध्ये (madhye)",
+        "period": "Classical",
+        "meaning": "in the middle"
+      },
+      {
+        "language": "Marathi",
+        "form": "मध्ये",
+        "period": "Modern",
+        "meaning": "in"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit madhye."
+  },
+  "word_mr_kade": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कडे",
+        "period": "Classical",
+        "meaning": "towards"
+      },
+      {
+        "language": "Marathi",
+        "form": "कडे",
+        "period": "Modern",
+        "meaning": "to"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit? Marathi postposition."
+  },
+  "word_mr_pasun": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "प्रभृति (prabhṛti)",
+        "period": "Classical",
+        "meaning": "from"
+      },
+      {
+        "language": "Marathi",
+        "form": "पासून",
+        "period": "Modern",
+        "meaning": "from"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit prabhṛti."
+  },
+  "word_mr_sobat": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "सह (saha)",
+        "period": "Vedic",
+        "meaning": "with"
+      },
+      {
+        "language": "Marathi",
+        "form": "सोबत",
+        "period": "Modern",
+        "meaning": "with"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit saha."
+  },
+  "word_mr_sathi": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अर्थ (artha)",
+        "period": "Classical",
+        "meaning": "purpose, for"
+      },
+      {
+        "language": "Marathi",
+        "form": "साठी",
+        "period": "Modern",
+        "meaning": "for"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit artha/sākṣāt? 'sathi' means for."
+  },
+  "word_mr_baddal": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "बद्धल?",
+        "period": "Classical",
+        "meaning": "about"
+      },
+      {
+        "language": "Marathi",
+        "form": "बद्दल",
+        "period": "Modern",
+        "meaning": "about"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit baddha? Or derived."
+  },
+  "word_mr_shivay": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "शिवाय (śivāya)",
+        "period": "Classical",
+        "meaning": "except, without"
+      },
+      {
+        "language": "Marathi",
+        "form": "शिवाय",
+        "period": "Modern",
+        "meaning": "without"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit śivāya."
+  },
+  "word_mr_adhi": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अग्रे (agre)",
+        "period": "Classical",
+        "meaning": "before"
+      },
+      {
+        "language": "Marathi",
+        "form": "आधी",
+        "period": "Modern",
+        "meaning": "before"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit agre/ādau."
+  },
+  "word_mr_mag": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पश्चात् (paścāt)",
+        "period": "Classical",
+        "meaning": "after"
+      },
+      {
+        "language": "Marathi",
+        "form": "मागे",
+        "period": "Modern",
+        "meaning": "after"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit paścāt."
+  },
+  "word_mr_ava": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "उपरि (upari)",
+        "period": "Classical",
+        "meaning": "above"
+      },
+      {
+        "language": "Marathi",
+        "form": "अवर",
+        "period": "Modern",
+        "meaning": "on top of"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit upari."
+  }
+}

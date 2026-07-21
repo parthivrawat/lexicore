@@ -1,0 +1,422 @@
+{
+  "word_tr_ben": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "ben",
+        "period": "Old Turkic",
+        "meaning": "I"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "ben",
+        "period": "Modern",
+        "meaning": "I"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *ben."
+  },
+  "word_tr_sen": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "sen",
+        "period": "Old Turkic",
+        "meaning": "you"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "sen",
+        "period": "Modern",
+        "meaning": "you"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *sen."
+  },
+  "word_tr_siz": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "siz",
+        "period": "Old Turkic",
+        "meaning": "you (plural/formal)"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "siz",
+        "period": "Modern",
+        "meaning": "you (formal/plural)"
+      }
+    ],
+    "cognates": [],
+    "notes": "Plural/formal 'you'."
+  },
+  "word_tr_o": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "ol",
+        "period": "Old Turkic",
+        "meaning": "he/she/it"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "o",
+        "period": "Modern",
+        "meaning": "he/she"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic ol/o."
+  },
+  "word_tr_biz": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "biz",
+        "period": "Old Turkic",
+        "meaning": "we"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "biz",
+        "period": "Modern",
+        "meaning": "we"
+      }
+    ],
+    "cognates": [],
+    "notes": "Proto-Turkic *biz."
+  },
+  "word_tr_onlar": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "olar",
+        "period": "Old Turkic",
+        "meaning": "they"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "onlar",
+        "period": "Modern",
+        "meaning": "they"
+      }
+    ],
+    "cognates": [],
+    "notes": "o (he/she) + -lar (plural)."
+  },
+  "word_tr_bu": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "bu",
+        "period": "Old Turkic",
+        "meaning": "this"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "bu",
+        "period": "Modern",
+        "meaning": "this"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic bu."
+  },
+  "word_tr_su": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "şu",
+        "period": "Old Turkic",
+        "meaning": "that"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "şu",
+        "period": "Modern",
+        "meaning": "that"
+      }
+    ],
+    "cognates": [],
+    "notes": "Demonstrative 'that' (medial)."
+  },
+  "word_tr_ne": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "nä",
+        "period": "Old Turkic",
+        "meaning": "what"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "ne",
+        "period": "Modern",
+        "meaning": "what"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic nä/ne."
+  },
+  "word_tr_kim": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "kim",
+        "period": "Old Turkic",
+        "meaning": "who"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "kim",
+        "period": "Modern",
+        "meaning": "who"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic kim."
+  },
+  "word_tr_nereye": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "närä",
+        "period": "Old Turkic",
+        "meaning": "where"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "nereye",
+        "period": "Modern",
+        "meaning": "where"
+      }
+    ],
+    "cognates": [],
+    "notes": "nere (where) + -ye (dative)."
+  },
+  "word_tr_ne_zaman": {
+    "languageOrigin": "Turkic/Arabic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "ne zaman",
+        "period": "Ottoman",
+        "meaning": "what time"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "ne zaman",
+        "period": "Modern",
+        "meaning": "when"
+      }
+    ],
+    "cognates": [],
+    "notes": "ne (what) + zaman (time)."
+  },
+  "word_tr_neden": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "nēden",
+        "period": "Old Turkic",
+        "meaning": "why, from what"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "neden",
+        "period": "Modern",
+        "meaning": "why"
+      }
+    ],
+    "cognates": [],
+    "notes": "ne (what) + -den (from/ablative). 'From what?'."
+  },
+  "word_tr_nasil": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "nasıl",
+        "period": "Old Turkic",
+        "meaning": "how"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "nasıl",
+        "period": "Modern",
+        "meaning": "how"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic nasıl."
+  },
+  "word_tr_ve": {
+    "languageOrigin": "Arabic/Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "و (wa)",
+        "period": "Classical",
+        "meaning": "and"
+      },
+      {
+        "language": "Ottoman Turkish",
+        "form": "ve",
+        "period": "Medieval",
+        "meaning": "and"
+      }
+    ],
+    "cognates": [],
+    "notes": "Borrowed from Arabic 'wa'."
+  },
+  "word_tr_ya_da": {
+    "languageOrigin": "Turkic/Persian",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "یا (yā)",
+        "period": "Medieval",
+        "meaning": "or"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "ya da",
+        "period": "Modern",
+        "meaning": "or"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian 'yā' (or)."
+  },
+  "word_tr_ama": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "أما (ammā)",
+        "period": "Classical",
+        "meaning": "but, as for"
+      },
+      {
+        "language": "Ottoman Turkish",
+        "form": "ama",
+        "period": "Medieval",
+        "meaning": "but"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic ammā."
+  },
+  "word_tr_eger": {
+    "languageOrigin": "Persian",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Persian",
+        "form": "اگر (agar)",
+        "period": "Medieval",
+        "meaning": "if"
+      },
+      {
+        "language": "Ottoman Turkish",
+        "form": "eğer",
+        "period": "Medieval",
+        "meaning": "if"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian agar."
+  },
+  "word_tr_cunku": {
+    "languageOrigin": "Arabic/Turkic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "لأن (li-anna)",
+        "period": "Classical",
+        "meaning": "because"
+      },
+      {
+        "language": "Ottoman Turkish",
+        "form": "çünkü",
+        "period": "Medieval",
+        "meaning": "because"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian/Arabic 'çün' (for) + 'ki' (that)."
+  },
+  "word_tr_hayir": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "خير (khayr)",
+        "period": "Classical",
+        "meaning": "good, no (negative)"
+      },
+      {
+        "language": "Ottoman Turkish",
+        "form": "hayır",
+        "period": "Medieval",
+        "meaning": "no"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic khayr, used as 'no' in Turkish."
+  },
+  "word_tr_evet": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "evet",
+        "period": "Old Turkic",
+        "meaning": "yes"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "evet",
+        "period": "Modern",
+        "meaning": "yes"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic evet."
+  }
+}

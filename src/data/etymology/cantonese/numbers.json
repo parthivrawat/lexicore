@@ -1,0 +1,302 @@
+{
+  "word_yue_ling4": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "零",
+        "period": "c. 7th century CE",
+        "meaning": "zero"
+      },
+      {
+        "language": "Cantonese",
+        "form": "零 (ling4)",
+        "period": "Modern",
+        "meaning": "zero"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 零 (leng)."
+  },
+  "word_yue_jat1": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "一",
+        "period": "c. 7th century CE",
+        "meaning": "one"
+      },
+      {
+        "language": "Cantonese",
+        "form": "一 (jat1)",
+        "period": "Modern",
+        "meaning": "one"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 一 (ʔit)."
+  },
+  "word_yue_ji6": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "二",
+        "period": "c. 7th century CE",
+        "meaning": "two"
+      },
+      {
+        "language": "Cantonese",
+        "form": "二 (ji6)",
+        "period": "Modern",
+        "meaning": "two"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 二 (nyi)."
+  },
+  "word_yue_saam1": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "三",
+        "period": "c. 7th century CE",
+        "meaning": "three"
+      },
+      {
+        "language": "Cantonese",
+        "form": "三 (saam1)",
+        "period": "Modern",
+        "meaning": "three"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 三 (sam)."
+  },
+  "word_yue_sei3": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "四",
+        "period": "c. 7th century CE",
+        "meaning": "four"
+      },
+      {
+        "language": "Cantonese",
+        "form": "四 (sei3)",
+        "period": "Modern",
+        "meaning": "four"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 四 (si)."
+  },
+  "word_yue_ng5": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "五",
+        "period": "c. 7th century CE",
+        "meaning": "five"
+      },
+      {
+        "language": "Cantonese",
+        "form": "五 (ng5)",
+        "period": "Modern",
+        "meaning": "five"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 五 (ngu)."
+  },
+  "word_yue_luk6": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "六",
+        "period": "c. 7th century CE",
+        "meaning": "six"
+      },
+      {
+        "language": "Cantonese",
+        "form": "六 (luk6)",
+        "period": "Modern",
+        "meaning": "six"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 六 (ljuwk)."
+  },
+  "word_yue_cat1": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "七",
+        "period": "c. 7th century CE",
+        "meaning": "seven"
+      },
+      {
+        "language": "Cantonese",
+        "form": "七 (cat1)",
+        "period": "Modern",
+        "meaning": "seven"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 七 (tshit)."
+  },
+  "word_yue_baat3": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "八",
+        "period": "c. 7th century CE",
+        "meaning": "eight"
+      },
+      {
+        "language": "Cantonese",
+        "form": "八 (baat3)",
+        "period": "Modern",
+        "meaning": "eight"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 八 (pɛt)."
+  },
+  "word_yue_gau2": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "九",
+        "period": "c. 7th century CE",
+        "meaning": "nine"
+      },
+      {
+        "language": "Cantonese",
+        "form": "九 (gau2)",
+        "period": "Modern",
+        "meaning": "nine"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 九 (kjuw)."
+  },
+  "word_yue_sap6": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "十",
+        "period": "c. 7th century CE",
+        "meaning": "ten"
+      },
+      {
+        "language": "Cantonese",
+        "form": "十 (sap6)",
+        "period": "Modern",
+        "meaning": "ten"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 十 (dzyip)."
+  },
+  "word_yue_jat1_baak3": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "一百",
+        "period": "c. 7th century CE",
+        "meaning": "hundred"
+      },
+      {
+        "language": "Cantonese",
+        "form": "一百 (jat1 baak3)",
+        "period": "Modern",
+        "meaning": "hundred"
+      }
+    ],
+    "cognates": [],
+    "notes": "一 (one) + 百 (hundred)."
+  },
+  "word_yue_jat1_cin1": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "一千",
+        "period": "c. 7th century CE",
+        "meaning": "thousand"
+      },
+      {
+        "language": "Cantonese",
+        "form": "一千 (jat1 cin1)",
+        "period": "Modern",
+        "meaning": "thousand"
+      }
+    ],
+    "cognates": [],
+    "notes": "一 (one) + 千 (thousand)."
+  },
+  "word_yue_jat1_maan6": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "一萬",
+        "period": "c. 7th century CE",
+        "meaning": "ten thousand"
+      },
+      {
+        "language": "Cantonese",
+        "form": "一萬 (jat1 maan6)",
+        "period": "Modern",
+        "meaning": "million?"
+      }
+    ],
+    "cognates": [],
+    "notes": "一萬 is ten thousand, not million. But the vocabulary uses 'million' loosely as 'maan6' (ten thousand)."
+  },
+  "word_yue_bun3": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "半",
+        "period": "c. 7th century CE",
+        "meaning": "half"
+      },
+      {
+        "language": "Cantonese",
+        "form": "半 (bun3)",
+        "period": "Modern",
+        "meaning": "half"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 半 (pan)."
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "word_ta_romba": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "மிக (mika)",
+        "period": "Sangam",
+        "meaning": "very"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "மிகவும்",
+        "period": "Modern",
+        "meaning": "very"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil mika."
+  },
+  "word_ta_serthukollum": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "சேர் (cēr)",
+        "period": "Sangam",
+        "meaning": "to join"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "சேர்த்துக்கொள்ளும்",
+        "period": "Modern",
+        "meaning": "also"
+      }
+    ],
+    "cognates": [],
+    "notes": "cēr (join) + koḷ (take). 'Including'."
+  },
+  "word_ta_matram": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "மட்டும் (maṭṭum)",
+        "period": "Medieval",
+        "meaning": "only"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "மட்டும்",
+        "period": "Modern",
+        "meaning": "only"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil maṭṭum."
+  },
+  "word_ta_ennudaiyum": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "எப்பொழுதும் (eppoḻutum)",
+        "period": "Medieval",
+        "meaning": "always"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "எப்பொழுதும்",
+        "period": "Modern",
+        "meaning": "always"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil eppozhudum."
+  },
+  "word_ta_orraikkalum": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "ஒருக்காலும் (orukkālum)",
+        "period": "Medieval",
+        "meaning": "never"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "ஒருக்காலும்",
+        "period": "Modern",
+        "meaning": "never"
+      }
+    ],
+    "cognates": [],
+    "notes": "oru (one) + kālam (time)."
+  },
+  "word_ta_pala_muraigal": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "சில நேரங்களில் (cila nēraṅkaḷil)",
+        "period": "Medieval",
+        "meaning": "sometimes"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "சில நேரங்களில்",
+        "period": "Modern",
+        "meaning": "sometimes"
+      }
+    ],
+    "cognates": [],
+    "notes": "cila (some) + nēram (time)."
+  },
+  "word_ta_sagala_muraigal": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "அடிக்கடி (aṭikaṭi)",
+        "period": "Medieval",
+        "meaning": "often"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "அடிக்கடி",
+        "period": "Modern",
+        "meaning": "often"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil aṭikaṭi."
+  },
+  "word_ta_ippo": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "இப்போது (ippōtu)",
+        "period": "Medieval",
+        "meaning": "now"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "இப்போது",
+        "period": "Modern",
+        "meaning": "now"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil ippōtu."
+  },
+  "word_ta_pinbu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "பின் (piṉ)",
+        "period": "Sangam",
+        "meaning": "after"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "பின்பு",
+        "period": "Modern",
+        "meaning": "later"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil piṉ."
+  },
+  "word_ta_neetru": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "நேற்று (nēṟṟu)",
+        "period": "Medieval",
+        "meaning": "yesterday"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "நேற்று",
+        "period": "Modern",
+        "meaning": "yesterday"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil nēṟṟu."
+  },
+  "word_ta_naalaikku": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "நாளைக்கு (nāḷaikku)",
+        "period": "Medieval",
+        "meaning": "tomorrow"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "நாளைக்கு",
+        "period": "Modern",
+        "meaning": "tomorrow"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil nāḷai."
+  },
+  "word_ta_ire": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "ஏற்கெனவே (ēṟkeṉavē)",
+        "period": "Medieval",
+        "meaning": "already"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "ஏற்கெனவே",
+        "period": "Modern",
+        "meaning": "already"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil ēṟkeṉavē."
+  },
+  "word_ta_innum_illai": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "இன்னும் இல்லை",
+        "period": "Medieval",
+        "meaning": "not yet"
+      }
+    ],
+    "cognates": [],
+    "notes": "iṉṉum (still) + illai (not)."
+  },
+  "word_ta_urudhi_illai": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "ஒருவேளை (oruvēḷai)",
+        "period": "Medieval",
+        "meaning": "perhaps"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "ஒருவேளை",
+        "period": "Modern",
+        "meaning": "maybe"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil oruvēḷai."
+  },
+  "word_ta_nichayam": {
+    "languageOrigin": "Tamil/Sanskrit",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "निश्चय (niścaya)",
+        "period": "Classical",
+        "meaning": "certainty"
+      },
+      {
+        "language": "Tamil",
+        "form": "நிச்சயமாக",
+        "period": "Modern",
+        "meaning": "certainly"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit niścaya."
+  }
+}

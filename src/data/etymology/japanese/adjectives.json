@@ -1,0 +1,294 @@
+{
+  "word_ja_ii": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "良し (yoshi)",
+        "period": "Nara",
+        "meaning": "good"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "いい",
+        "period": "Modern",
+        "meaning": "good"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'yoi' (good), with colloquial form 'ii'."
+  },
+  "word_ja_warui": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "悪し (warushi)",
+        "period": "Nara",
+        "meaning": "bad"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'warui' (bad). 'Waru' stem."
+  },
+  "word_ja_ookii": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "大きし (ōkishi)",
+        "period": "Nara",
+        "meaning": "big"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'ōki' (big). Sino-Japanese 'dai' also exists."
+  },
+  "word_ja_chiisai": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "小さし (chisakishi)",
+        "period": "Nara",
+        "meaning": "small"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'chiisai' (small). Sino-Japanese 'shō' also exists."
+  },
+  "word_ja_nagai": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "長し (nagashi)",
+        "period": "Heian",
+        "meaning": "long"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'nagai' (long)."
+  },
+  "word_ja_mijikai": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "短し (mijikashi)",
+        "period": "Heian",
+        "meaning": "short"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'mijikai' (short)."
+  },
+  "word_ja_takai": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "高し (takashi)",
+        "period": "Nara",
+        "meaning": "high, tall"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'takai' (high/tall). Sino-Japanese 'kō' also exists."
+  },
+  "word_ja_hikui": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "低し (hikukushi)",
+        "period": "Heian",
+        "meaning": "low"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'hikui' (low)."
+  },
+  "word_ja_atarashii": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "新し (atarashishi)",
+        "period": "Heian",
+        "meaning": "new"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'atarashii' (new)."
+  },
+  "word_ja_furui": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "古し (furushishi)",
+        "period": "Nara",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'furui' (old). Sino-Japanese 'kyū' also exists."
+  },
+  "word_ja_wakai": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "若し (wakakushi)",
+        "period": "Heian",
+        "meaning": "young"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'wakai' (young)."
+  },
+  "word_ja_toshiori": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 14th century CE",
+    "timeline": [
+      {
+        "language": "Japanese",
+        "form": "年寄り (toshiyori)",
+        "period": "Muromachi",
+        "meaning": "old person"
+      }
+    ],
+    "cognates": [],
+    "notes": "年 (toshi, year) + 寄り (yori, close to). 'Close in years'."
+  },
+  "word_ja_kirei": {
+    "languageOrigin": "Chinese/Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Chinese",
+        "form": "綺麗 (qǐlì)",
+        "period": "Tang dynasty",
+        "meaning": "beautiful"
+      },
+      {
+        "language": "Japanese",
+        "form": "綺麗 (kirei)",
+        "period": "Heian",
+        "meaning": "beautiful"
+      }
+    ],
+    "cognates": [],
+    "notes": "Sino-Japanese 'kirei' (beautiful). Also means 'clean'."
+  },
+  "word_ja_minikui": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "醜し (minikushishi)",
+        "period": "Heian",
+        "meaning": "ugly"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'minikui' (ugly)."
+  },
+  "word_ja_atatakai": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "暖かし (atatakashishi)",
+        "period": "Nara",
+        "meaning": "warm"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'atatakai' (warm). 'Atata' root."
+  },
+  "word_ja_samui": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "寒し (samushishi)",
+        "period": "Nara",
+        "meaning": "cold"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'samui' (cold)."
+  },
+  "word_ja_hayai": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "早し (hayakushi)",
+        "period": "Nara",
+        "meaning": "fast, early"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'hayai' (fast). Also means 'early'."
+  },
+  "word_ja_osoi": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "遅し (osokushi)",
+        "period": "Heian",
+        "meaning": "slow, late"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'osoi' (slow/late)."
+  },
+  "word_ja_yasashii": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "易し (yasashishi)",
+        "period": "Heian",
+        "meaning": "easy, gentle"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'yasashii' (easy/gentle). Sino-Japanese 'kan' (easy) also exists."
+  },
+  "word_ja_muzukashii": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 14th century CE",
+    "timeline": [
+      {
+        "language": "Japanese",
+        "form": "難しい (muzukashii)",
+        "period": "Muromachi",
+        "meaning": "difficult"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'muzukashii' (difficult). Possibly from 'musubu' (to tie) + 'kashii' (hard)."
+  }
+}

@@ -1,0 +1,508 @@
+{
+  "word_de_ich": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*ek",
+        "period": "c. 500 BCE",
+        "meaning": "I"
+      },
+      {
+        "language": "Old High German",
+        "form": "ih",
+        "period": "8th century",
+        "meaning": "I"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "I",
+        "meaning": "I"
+      }
+    ],
+    "notes": "PIE *éǵh₂."
+  },
+  "word_de_du": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*þū",
+        "period": "c. 500 BCE",
+        "meaning": "you"
+      },
+      {
+        "language": "Old High German",
+        "form": "dū",
+        "period": "8th century",
+        "meaning": "you"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "thou",
+        "meaning": "you"
+      }
+    ],
+    "notes": "PIE *túh₂."
+  },
+  "word_de_sie": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*sī",
+        "period": "c. 500 BCE",
+        "meaning": "they/she"
+      },
+      {
+        "language": "Old High German",
+        "form": "sie",
+        "period": "8th century",
+        "meaning": "she/they/you (formal)"
+      }
+    ],
+    "cognates": [],
+    "notes": "Used for she, they, and formal you (capitalized 'Sie')."
+  },
+  "word_de_er": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*iz",
+        "period": "c. 500 BCE",
+        "meaning": "he"
+      },
+      {
+        "language": "Old High German",
+        "form": "ēr",
+        "period": "8th century",
+        "meaning": "he"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "he",
+        "meaning": "he"
+      }
+    ],
+    "notes": "PIE *éy (he)."
+  },
+  "word_de_sie2": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*sī",
+        "period": "c. 500 BCE",
+        "meaning": "she"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same as 'sie'. Used for 'she'."
+  },
+  "word_de_wir": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*wīz",
+        "period": "c. 500 BCE",
+        "meaning": "we"
+      },
+      {
+        "language": "Old High German",
+        "form": "wir",
+        "period": "8th century",
+        "meaning": "we"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "we",
+        "meaning": "we"
+      }
+    ],
+    "notes": "PIE *wéy."
+  },
+  "word_de_sie3": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*sīz",
+        "period": "c. 500 BCE",
+        "meaning": "they"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same as 'sie'. Used for 'they'."
+  },
+  "word_de_dieser": {
+    "languageOrigin": "Old High German",
+    "yearOfOrigin": "c. 8th century",
+    "timeline": [
+      {
+        "language": "Old High German",
+        "form": "dieser",
+        "period": "8th century",
+        "meaning": "this"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "this",
+        "meaning": "this"
+      }
+    ],
+    "notes": "From Proto-Germanic *þisaz."
+  },
+  "word_de_das": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*þat",
+        "period": "c. 500 BCE",
+        "meaning": "that"
+      },
+      {
+        "language": "Old High German",
+        "form": "daz",
+        "period": "8th century",
+        "meaning": "that"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "that",
+        "meaning": "that"
+      }
+    ],
+    "notes": "PIE *tód."
+  },
+  "word_de_was": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*hwat",
+        "period": "c. 500 BCE",
+        "meaning": "what"
+      },
+      {
+        "language": "Old High German",
+        "form": "hwaz",
+        "period": "8th century",
+        "meaning": "what"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "what",
+        "meaning": "what"
+      }
+    ],
+    "notes": "PIE *kʷod (what)."
+  },
+  "word_de_wer": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*hwar",
+        "period": "c. 500 BCE",
+        "meaning": "who"
+      },
+      {
+        "language": "Old High German",
+        "form": "hwēr",
+        "period": "8th century",
+        "meaning": "who"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "who",
+        "meaning": "who"
+      }
+    ],
+    "notes": "PIE *kʷis (who)."
+  },
+  "word_de_wo": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*hwar",
+        "period": "c. 500 BCE",
+        "meaning": "where"
+      },
+      {
+        "language": "Old High German",
+        "form": "hwār",
+        "period": "8th century",
+        "meaning": "where"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "where",
+        "meaning": "where"
+      }
+    ],
+    "notes": "PIE *kʷe-r (where)."
+  },
+  "word_de_wann": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*hwannē",
+        "period": "c. 500 BCE",
+        "meaning": "when"
+      },
+      {
+        "language": "Old High German",
+        "form": "hwanne",
+        "period": "8th century",
+        "meaning": "when"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "when",
+        "meaning": "when"
+      }
+    ],
+    "notes": "PIE *kʷeh₁-n (when)."
+  },
+  "word_de_warum": {
+    "languageOrigin": "German",
+    "yearOfOrigin": "c. 16th century",
+    "timeline": [
+      {
+        "language": "German",
+        "form": "warum",
+        "period": "16th century",
+        "meaning": "why"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'wo' (where) + 'um' (around). 'Wherefore'."
+  },
+  "word_de_wie": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*hwī",
+        "period": "c. 500 BCE",
+        "meaning": "how"
+      },
+      {
+        "language": "Old High German",
+        "form": "wīo",
+        "period": "8th century",
+        "meaning": "how"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "how",
+        "meaning": "how"
+      }
+    ],
+    "notes": "PIE *kʷeh₁- (how)."
+  },
+  "word_de_und": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*andi",
+        "period": "c. 500 BCE",
+        "meaning": "and"
+      },
+      {
+        "language": "Old High German",
+        "form": "unti",
+        "period": "8th century",
+        "meaning": "and"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "and",
+        "meaning": "and"
+      }
+    ],
+    "notes": "PIE *h₂énti (before, also)."
+  },
+  "word_de_oder": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*aþþala",
+        "period": "c. 500 BCE",
+        "meaning": "or"
+      },
+      {
+        "language": "Old High German",
+        "form": "odar",
+        "period": "8th century",
+        "meaning": "or"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "or",
+        "meaning": "or"
+      }
+    ],
+    "notes": "PIE *ótrōs (other)."
+  },
+  "word_de_aber": {
+    "languageOrigin": "Old High German",
+    "yearOfOrigin": "c. 8th century",
+    "timeline": [
+      {
+        "language": "Old High German",
+        "form": "aber",
+        "period": "8th century",
+        "meaning": "but, again"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "after",
+        "meaning": "after"
+      }
+    ],
+    "notes": "PIE *h₂epo (away, again)."
+  },
+  "word_de_wenn": {
+    "languageOrigin": "Old High German",
+    "yearOfOrigin": "c. 8th century",
+    "timeline": [
+      {
+        "language": "Old High German",
+        "form": "wenn",
+        "period": "8th century",
+        "meaning": "if, when"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "when",
+        "meaning": "when"
+      }
+    ],
+    "notes": "Originally 'when', also 'if'."
+  },
+  "word_de_weil": {
+    "languageOrigin": "Old High German",
+    "yearOfOrigin": "c. 8th century",
+    "timeline": [
+      {
+        "language": "Old High German",
+        "form": "wīla",
+        "period": "8th century",
+        "meaning": "while, time"
+      },
+      {
+        "language": "German",
+        "form": "weil",
+        "period": "Modern",
+        "meaning": "because"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "while",
+        "meaning": "time"
+      }
+    ],
+    "notes": "Originally 'while', now 'because'."
+  },
+  "word_de_nicht": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*ne + *wiht",
+        "period": "c. 500 BCE",
+        "meaning": "not a thing"
+      },
+      {
+        "language": "Old High German",
+        "form": "niwiht",
+        "period": "8th century",
+        "meaning": "not"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "not",
+        "meaning": "not"
+      }
+    ],
+    "notes": "Originally 'not a thing' (ne + wiht)."
+  },
+  "word_de_ja": {
+    "languageOrigin": "Old High German",
+    "yearOfOrigin": "c. 8th century",
+    "timeline": [
+      {
+        "language": "Old High German",
+        "form": "jā",
+        "period": "8th century",
+        "meaning": "yes"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "yea",
+        "meaning": "yes"
+      }
+    ],
+    "notes": "PIE *yē (yes)."
+  }
+}

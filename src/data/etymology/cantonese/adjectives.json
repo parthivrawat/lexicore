@@ -1,0 +1,396 @@
+{
+  "word_yue_hou2": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "好",
+        "period": "c. 7th century CE",
+        "meaning": "good"
+      },
+      {
+        "language": "Cantonese",
+        "form": "好 (hou2)",
+        "period": "Modern",
+        "meaning": "good"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 好 (xawX)."
+  },
+  "word_yue_m4_hou2": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Cantonese",
+        "form": "唔好",
+        "period": "Modern",
+        "meaning": "not good"
+      }
+    ],
+    "cognates": [],
+    "notes": "m4 (not) + hou2 (good)."
+  },
+  "word_yue_daai6": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "大",
+        "period": "c. 7th century CE",
+        "meaning": "big"
+      },
+      {
+        "language": "Cantonese",
+        "form": "大 (daai6)",
+        "period": "Modern",
+        "meaning": "big"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 大 (dajH)."
+  },
+  "word_yue_sai2": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "細",
+        "period": "c. 7th century CE",
+        "meaning": "small, fine"
+      },
+      {
+        "language": "Cantonese",
+        "form": "細 (sai3)",
+        "period": "Modern",
+        "meaning": "small"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 細 (sejH)."
+  },
+  "word_yue_coeng4": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "長",
+        "period": "c. 7th century CE",
+        "meaning": "long"
+      },
+      {
+        "language": "Cantonese",
+        "form": "長 (coeng4)",
+        "period": "Modern",
+        "meaning": "long"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 長 (trjang)."
+  },
+  "word_yue_dyun2": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "短",
+        "period": "c. 7th century CE",
+        "meaning": "short"
+      },
+      {
+        "language": "Cantonese",
+        "form": "短 (dyun2)",
+        "period": "Modern",
+        "meaning": "short"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 短 (twonX)."
+  },
+  "word_yue_gou1": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "高",
+        "period": "c. 7th century CE",
+        "meaning": "high, tall"
+      },
+      {
+        "language": "Cantonese",
+        "form": "高 (gou1)",
+        "period": "Modern",
+        "meaning": "tall"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 高 (kaw)."
+  },
+  "word_yue_dai1": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "低",
+        "period": "c. 7th century CE",
+        "meaning": "low"
+      },
+      {
+        "language": "Cantonese",
+        "form": "低 (dai1)",
+        "period": "Modern",
+        "meaning": "low"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 低 (tej)."
+  },
+  "word_yue_san1": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "新",
+        "period": "c. 7th century CE",
+        "meaning": "new"
+      },
+      {
+        "language": "Cantonese",
+        "form": "新 (san1)",
+        "period": "Modern",
+        "meaning": "new"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 新 (sin)."
+  },
+  "word_yue_gau6": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "舊",
+        "period": "c. 7th century CE",
+        "meaning": "old"
+      },
+      {
+        "language": "Cantonese",
+        "form": "舊 (gau6)",
+        "period": "Modern",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 舊 (gjuwH)."
+  },
+  "word_yue_nin4_hei3": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "年輕",
+        "period": "c. 7th century CE",
+        "meaning": "young"
+      },
+      {
+        "language": "Cantonese",
+        "form": "年輕 (nin4 hing1)",
+        "period": "Modern",
+        "meaning": "young"
+      }
+    ],
+    "cognates": [],
+    "notes": "nin4 (year) + hing1 (light)."
+  },
+  "word_yue_lou5": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "老",
+        "period": "c. 7th century CE",
+        "meaning": "old"
+      },
+      {
+        "language": "Cantonese",
+        "form": "老 (lou5)",
+        "period": "Modern",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 老 (lawX)."
+  },
+  "word_yue_piu3_leng3": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "漂亮",
+        "period": "c. 7th century CE",
+        "meaning": "beautiful"
+      },
+      {
+        "language": "Cantonese",
+        "form": "靚 (leng3)",
+        "period": "Modern",
+        "meaning": "beautiful"
+      }
+    ],
+    "cognates": [],
+    "notes": "Cantonese uses 靚 (leng3) or 漂亮 (piu3 loeng6)."
+  },
+  "word_yue_cau3": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "醜",
+        "period": "c. 7th century CE",
+        "meaning": "ugly"
+      },
+      {
+        "language": "Cantonese",
+        "form": "醜 (cau2)",
+        "period": "Modern",
+        "meaning": "ugly"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 醜 (trhjuwX)."
+  },
+  "word_yue_jit6": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "熱",
+        "period": "c. 7th century CE",
+        "meaning": "hot"
+      },
+      {
+        "language": "Cantonese",
+        "form": "熱 (jit6)",
+        "period": "Modern",
+        "meaning": "hot"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 熱 (nyet)."
+  },
+  "word_yue_dong3": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "凍",
+        "period": "c. 7th century CE",
+        "meaning": "cold"
+      },
+      {
+        "language": "Cantonese",
+        "form": "凍 (dung3)",
+        "period": "Modern",
+        "meaning": "cold"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 凍 (tuwngH)."
+  },
+  "word_yue_faai3": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "快",
+        "period": "c. 7th century CE",
+        "meaning": "fast"
+      },
+      {
+        "language": "Cantonese",
+        "form": "快 (faai3)",
+        "period": "Modern",
+        "meaning": "fast"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 快 (khwajH)."
+  },
+  "word_yue_maan6": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "慢",
+        "period": "c. 7th century CE",
+        "meaning": "slow"
+      },
+      {
+        "language": "Cantonese",
+        "form": "慢 (maan6)",
+        "period": "Modern",
+        "meaning": "slow"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 慢 (manH)."
+  },
+  "word_yue_ji4_ging1": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "容易",
+        "period": "c. 7th century CE",
+        "meaning": "easy"
+      },
+      {
+        "language": "Cantonese",
+        "form": "容易 (jung4 ji6)",
+        "period": "Modern",
+        "meaning": "easy"
+      }
+    ],
+    "cognates": [],
+    "notes": "jung4 (allow) + ji6 (easy)."
+  },
+  "word_yue_naahn4": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "難",
+        "period": "c. 7th century CE",
+        "meaning": "difficult"
+      },
+      {
+        "language": "Cantonese",
+        "form": "難 (naan4)",
+        "period": "Modern",
+        "meaning": "difficult"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 難 (nan)."
+  }
+}

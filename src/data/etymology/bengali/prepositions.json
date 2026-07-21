@@ -1,0 +1,202 @@
+{
+  "word_bn_e": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अन्तर् (antar)?",
+        "period": "Classical",
+        "meaning": "in"
+      },
+      {
+        "language": "Bengali",
+        "form": "এ",
+        "period": "Modern",
+        "meaning": "in"
+      }
+    ],
+    "cognates": [],
+    "notes": "Locative postposition 'e' (in, at)."
+  },
+  "word_bn_te": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "-त्र (locative suffix)",
+        "period": "Classical",
+        "meaning": "at, in"
+      },
+      {
+        "language": "Bengali",
+        "form": "তে",
+        "period": "Modern",
+        "meaning": "to, at"
+      }
+    ],
+    "cognates": [],
+    "notes": "Locative/directional postposition 'te'."
+  },
+  "word_bn_theke": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "स्था (sthā)",
+        "period": "Classical",
+        "meaning": "to stand, from"
+      },
+      {
+        "language": "Bengali",
+        "form": "থেকে",
+        "period": "Modern",
+        "meaning": "from"
+      }
+    ],
+    "cognates": [],
+    "notes": "Postposition 'theke' (from)."
+  },
+  "word_bn_shong_shonge": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "सह (saha)",
+        "period": "Classical",
+        "meaning": "with"
+      },
+      {
+        "language": "Bengali",
+        "form": "সঙ্গে সঙ্গে",
+        "period": "Modern",
+        "meaning": "with"
+      }
+    ],
+    "cognates": [],
+    "notes": "সঙ্গ (companion) + এ. 'Together with'."
+  },
+  "word_bn_jonno": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "जनन (janana)",
+        "period": "Classical",
+        "meaning": "birth, for"
+      },
+      {
+        "language": "Bengali",
+        "form": "জন্য",
+        "period": "Modern",
+        "meaning": "for"
+      }
+    ],
+    "cognates": [],
+    "notes": "Postposition 'jannya' (for)."
+  },
+  "word_bn_somporkhe": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "सम्बन्ध (sambandha)",
+        "period": "Classical",
+        "meaning": "relation, about"
+      },
+      {
+        "language": "Bengali",
+        "form": "সম্পর্কে",
+        "period": "Modern",
+        "meaning": "about"
+      }
+    ],
+    "cognates": [],
+    "notes": "সম্পর্ক (relation) + এ. 'Regarding'."
+  },
+  "word_bn_bina": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "विना (vinā)",
+        "period": "Classical",
+        "meaning": "without"
+      },
+      {
+        "language": "Bengali",
+        "form": "বিনা",
+        "period": "Modern",
+        "meaning": "without"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit विना."
+  },
+  "word_bn_age": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अग्र (agra)",
+        "period": "Classical",
+        "meaning": "front, before"
+      },
+      {
+        "language": "Bengali",
+        "form": "আগে",
+        "period": "Modern",
+        "meaning": "before"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit अग्र."
+  },
+  "word_bn_pore_prep": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पश्चात् (paścāt)",
+        "period": "Classical",
+        "meaning": "after"
+      },
+      {
+        "language": "Bengali",
+        "form": "পরে",
+        "period": "Modern",
+        "meaning": "after"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same as adverb 'pare'. Preposition/postposition 'after'."
+  },
+  "word_bn_opore": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "उपरि (upari)",
+        "period": "Classical",
+        "meaning": "above, over"
+      },
+      {
+        "language": "Bengali",
+        "form": "উপরে",
+        "period": "Modern",
+        "meaning": "on top of"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit उपरि."
+  }
+}

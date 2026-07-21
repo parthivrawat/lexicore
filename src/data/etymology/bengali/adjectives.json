@@ -1,0 +1,408 @@
+{
+  "word_bn_bhalo": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "भद्र (bhadra)",
+        "period": "Classical",
+        "meaning": "good, auspicious"
+      },
+      {
+        "language": "Bengali",
+        "form": "ভালো",
+        "period": "Modern",
+        "meaning": "good"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "भला",
+        "meaning": "good"
+      }
+    ],
+    "notes": "From Sanskrit भद्र."
+  },
+  "word_bn_kharap": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "खरब (kharab)",
+        "period": "Classical",
+        "meaning": "bad, rough"
+      },
+      {
+        "language": "Persian",
+        "form": "خراب (kharāb)",
+        "period": "Medieval",
+        "meaning": "ruined, bad"
+      },
+      {
+        "language": "Bengali",
+        "form": "খারাপ",
+        "period": "Modern",
+        "meaning": "bad"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian خراب (ruined) or Sanskrit खरब."
+  },
+  "word_bn_boro": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वृद्ध (vṛddha)",
+        "period": "Classical",
+        "meaning": "big, old"
+      },
+      {
+        "language": "Bengali",
+        "form": "বড়",
+        "period": "Modern",
+        "meaning": "big"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit वृद्ध."
+  },
+  "word_bn_choto": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "क्षुद्र (kṣudra)",
+        "period": "Classical",
+        "meaning": "small, mean"
+      },
+      {
+        "language": "Bengali",
+        "form": "ছোট",
+        "period": "Modern",
+        "meaning": "small"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit क्षुद्र."
+  },
+  "word_bn_lomba": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "लम्ब (lamba)",
+        "period": "Classical",
+        "meaning": "long, hanging"
+      },
+      {
+        "language": "Bengali",
+        "form": "লম্বা",
+        "period": "Modern",
+        "meaning": "long"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit लम्ब."
+  },
+  "word_bn_chhoto2": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "क्षुद्र (kṣudra)",
+        "period": "Classical",
+        "meaning": "small"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same as ছোট (short)."
+  },
+  "word_bn_uchu": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "उच्च (ucca)",
+        "period": "Classical",
+        "meaning": "high, lofty"
+      },
+      {
+        "language": "Bengali",
+        "form": "উঁচু",
+        "period": "Modern",
+        "meaning": "tall"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit उच्च."
+  },
+  "word_bn_nicha": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "नीच (nīca)",
+        "period": "Classical",
+        "meaning": "low, base"
+      },
+      {
+        "language": "Bengali",
+        "form": "নিচু",
+        "period": "Modern",
+        "meaning": "low"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit नीच."
+  },
+  "word_bn_notun": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "नूतन (nūtana)",
+        "period": "Classical",
+        "meaning": "new"
+      },
+      {
+        "language": "Bengali",
+        "form": "নতুন",
+        "period": "Modern",
+        "meaning": "new"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit नूतन."
+  },
+  "word_bn_puran": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पुरातन (purātana)",
+        "period": "Classical",
+        "meaning": "old, ancient"
+      },
+      {
+        "language": "Bengali",
+        "form": "পুরনো",
+        "period": "Modern",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit पुरातन."
+  },
+  "word_bn_jubok": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "युवक (yuvaka)",
+        "period": "Classical",
+        "meaning": "young man"
+      },
+      {
+        "language": "Bengali",
+        "form": "যুবক",
+        "period": "Modern",
+        "meaning": "young"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit युवक."
+  },
+  "word_bn_bridho": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वृद्ध (vṛddha)",
+        "period": "Classical",
+        "meaning": "old, grown"
+      },
+      {
+        "language": "Bengali",
+        "form": "বৃদ্ধ",
+        "period": "Modern",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit वृद्ध."
+  },
+  "word_bn_sundor": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "सुन्दर (sundara)",
+        "period": "Classical",
+        "meaning": "beautiful"
+      },
+      {
+        "language": "Bengali",
+        "form": "সুন্দর",
+        "period": "Modern",
+        "meaning": "beautiful"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit सुन्दर."
+  },
+  "word_bn_khub_kharap": {
+    "languageOrigin": "Sanskrit/Bengali",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कु (ku) + खरब (kharab)",
+        "period": "Classical",
+        "meaning": "very bad"
+      },
+      {
+        "language": "Bengali",
+        "form": "খুব খারাপ",
+        "period": "Modern",
+        "meaning": "ugly"
+      }
+    ],
+    "cognates": [],
+    "notes": "খুব (very) + খারাপ (bad). 'Very bad'."
+  },
+  "word_bn_gorom": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "घर्म (gharma)",
+        "period": "Classical",
+        "meaning": "heat"
+      },
+      {
+        "language": "Bengali",
+        "form": "গরম",
+        "period": "Modern",
+        "meaning": "hot"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit घर्म."
+  },
+  "word_bn_thanda": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "स्थाण्ड (sthāṇḍa)?",
+        "period": "Classical",
+        "meaning": "cold"
+      },
+      {
+        "language": "Bengali",
+        "form": "ঠান্ডা",
+        "period": "Modern",
+        "meaning": "cold"
+      }
+    ],
+    "cognates": [],
+    "notes": "Probably from Prakrit 'thanda'."
+  },
+  "word_bn_drota": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "द्रुत (druta)",
+        "period": "Classical",
+        "meaning": "quick"
+      },
+      {
+        "language": "Bengali",
+        "form": "দ্রুত",
+        "period": "Modern",
+        "meaning": "fast"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit द्रुत."
+  },
+  "word_bn_dheere": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "धीर (dhīra)",
+        "period": "Classical",
+        "meaning": "slow, steady"
+      },
+      {
+        "language": "Bengali",
+        "form": "ধীরে",
+        "period": "Modern",
+        "meaning": "slow"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit धीर."
+  },
+  "word_bn_sohoj": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "सहज (sahaja)",
+        "period": "Classical",
+        "meaning": "easy, natural"
+      },
+      {
+        "language": "Bengali",
+        "form": "সহজ",
+        "period": "Modern",
+        "meaning": "easy"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit सहज."
+  },
+  "word_bn_kothin": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कठिन (kaṭhina)",
+        "period": "Classical",
+        "meaning": "hard, difficult"
+      },
+      {
+        "language": "Bengali",
+        "form": "কঠিন",
+        "period": "Modern",
+        "meaning": "difficult"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit कठिन."
+  }
+}

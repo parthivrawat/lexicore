@@ -1,0 +1,659 @@
+{
+  "word_es_ser": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sedere",
+        "period": "Classical",
+        "meaning": "to sit"
+      },
+      {
+        "language": "Vulgar Latin",
+        "form": "*essere",
+        "period": "Late Latin",
+        "meaning": "to be"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "ser",
+        "period": "Medieval",
+        "meaning": "to be"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Portuguese",
+        "word": "ser",
+        "meaning": "to be"
+      },
+      {
+        "language": "French",
+        "word": "être",
+        "meaning": "to be"
+      }
+    ],
+    "notes": "From Latin 'sedere' (to sit), influenced by 'esse' (to be). Used for permanent/essential states."
+  },
+  "word_es_hacer": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "facere",
+        "period": "Classical",
+        "meaning": "to do, make"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "facer",
+        "period": "Medieval",
+        "meaning": "to do"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "fact",
+        "meaning": "deed"
+      }
+    ],
+    "notes": "From Latin 'facere'. Initial f- > h- in Spanish."
+  },
+  "word_es_ir": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ire",
+        "period": "Classical",
+        "meaning": "to go"
+      },
+      {
+        "language": "Vulgar Latin",
+        "form": "*ire",
+        "period": "Late Latin",
+        "meaning": "to go"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "ir",
+        "period": "Medieval",
+        "meaning": "to go"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "French",
+        "word": "aller",
+        "meaning": "to go"
+      },
+      {
+        "language": "Italian",
+        "word": "andare",
+        "meaning": "to go"
+      }
+    ],
+    "notes": "From Latin 'ire'. 'Voy/vas/va' from another Latin verb 'vadere' (to go)."
+  },
+  "word_es_venir": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "venire",
+        "period": "Classical",
+        "meaning": "to come"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "venir",
+        "period": "Medieval",
+        "meaning": "to come"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "venue",
+        "meaning": "place one comes to"
+      },
+      {
+        "language": "French",
+        "word": "venir",
+        "meaning": "to come"
+      }
+    ],
+    "notes": "From Latin 'venire'. PIE *gʷem- (to come)."
+  },
+  "word_es_comer": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "comedere",
+        "period": "Classical",
+        "meaning": "to eat up"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "comer",
+        "period": "Medieval",
+        "meaning": "to eat"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "comestible",
+        "meaning": "edible"
+      }
+    ],
+    "notes": "From Latin 'comedere' (to eat completely)."
+  },
+  "word_es_beber": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "bibere",
+        "period": "Classical",
+        "meaning": "to drink"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "beber",
+        "period": "Medieval",
+        "meaning": "to drink"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "imbibe",
+        "meaning": "to drink"
+      }
+    ],
+    "notes": "From Latin 'bibere'. PIE *poh₃-i-?"
+  },
+  "word_es_ver": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "vidēre",
+        "period": "Classical",
+        "meaning": "to see"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "ver",
+        "period": "Medieval",
+        "meaning": "to see"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "video",
+        "meaning": "I see"
+      },
+      {
+        "language": "Sanskrit",
+        "word": "विद् (vid)",
+        "meaning": "to know/see"
+      }
+    ],
+    "notes": "From Latin 'vidēre'. PIE *weyd- (to see)."
+  },
+  "word_es_escuchar": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "auscultare",
+        "period": "Classical",
+        "meaning": "to listen"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "escuchar",
+        "period": "Medieval",
+        "meaning": "to listen"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Italian",
+        "word": "ascoltare",
+        "meaning": "to listen"
+      }
+    ],
+    "notes": "From Latin 'auscultare' (to listen). 'Oír' is from 'audīre'."
+  },
+  "word_es_hablar": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "fabulari",
+        "period": "Classical",
+        "meaning": "to tell stories"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "fablar",
+        "period": "Medieval",
+        "meaning": "to speak"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "fable",
+        "meaning": "story"
+      }
+    ],
+    "notes": "From Latin 'fabulari' (to tell fables)."
+  },
+  "word_es_leer": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "legere",
+        "period": "Classical",
+        "meaning": "to read, gather"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "leer",
+        "period": "Medieval",
+        "meaning": "to read"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "legible",
+        "meaning": "readable"
+      }
+    ],
+    "notes": "From Latin 'legere' (to read, select)."
+  },
+  "word_es_escribir": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "scribere",
+        "period": "Classical",
+        "meaning": "to write"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "escribir",
+        "period": "Medieval",
+        "meaning": "to write"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "scribe",
+        "meaning": "writer"
+      }
+    ],
+    "notes": "From Latin 'scribere'. PIE *skreibh- (to scratch, write)."
+  },
+  "word_es_dar": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "dare",
+        "period": "Classical",
+        "meaning": "to give"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "dar",
+        "period": "Medieval",
+        "meaning": "to give"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "donate",
+        "meaning": "to give"
+      }
+    ],
+    "notes": "From Latin 'dare'. PIE *deh₃- (to give)."
+  },
+  "word_es_tomar": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "tumare",
+        "period": "Late Latin",
+        "meaning": "to take"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "tomar",
+        "period": "Medieval",
+        "meaning": "to take"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "tome",
+        "meaning": "large book"
+      }
+    ],
+    "notes": "Possibly from Latin 'tumare' or Greek 'tome'."
+  },
+  "word_es_dormir": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "dormire",
+        "period": "Classical",
+        "meaning": "to sleep"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "dormir",
+        "period": "Medieval",
+        "meaning": "to sleep"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "dormitory",
+        "meaning": "sleeping place"
+      },
+      {
+        "language": "French",
+        "word": "dormir",
+        "meaning": "to sleep"
+      }
+    ],
+    "notes": "From Latin 'dormire'. PIE *drem-?"
+  },
+  "word_es_despertar": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "expavescere",
+        "period": "Classical",
+        "meaning": "to be startled awake"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "despertar",
+        "period": "Medieval",
+        "meaning": "to wake up"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'expavescere' via 'despertar'. Prefix des- + 'pertar'."
+  },
+  "word_es_sentarse": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sedere",
+        "period": "Classical",
+        "meaning": "to sit"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "sentar",
+        "period": "Medieval",
+        "meaning": "to seat/sit"
+      }
+    ],
+    "cognates": [],
+    "notes": "Reflexive 'sentarse' from Latin 'sedere'. Same root as 'ser'."
+  },
+  "word_es_pararse": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "parare",
+        "period": "Classical",
+        "meaning": "to prepare, set"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "parar",
+        "period": "Medieval",
+        "meaning": "to stop, stand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'parare' (to prepare). Reflexive 'pararse' means 'to stand up'."
+  },
+  "word_es_caminar": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "caminare",
+        "period": "Late Latin",
+        "meaning": "to walk on a road"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "caminar",
+        "period": "Medieval",
+        "meaning": "to walk"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "camino",
+        "meaning": "road"
+      }
+    ],
+    "notes": "From Latin 'caminare' (to walk), from 'camino' (road)."
+  },
+  "word_es_correr": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "currere",
+        "period": "Classical",
+        "meaning": "to run"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "correr",
+        "period": "Medieval",
+        "meaning": "to run"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "current",
+        "meaning": "flow"
+      }
+    ],
+    "notes": "From Latin 'currere'. PIE *kʷrs- (to run)."
+  },
+  "word_es_reir": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ridere",
+        "period": "Classical",
+        "meaning": "to laugh"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "reír",
+        "period": "Medieval",
+        "meaning": "to laugh"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'ridēre'."
+  },
+  "word_es_llorar": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "plorare",
+        "period": "Classical",
+        "meaning": "to cry out, weep"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "llorar",
+        "period": "Medieval",
+        "meaning": "to cry"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "implore",
+        "meaning": "to beg"
+      }
+    ],
+    "notes": "From Latin 'plorare' (to weep)."
+  },
+  "word_es_entender": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "intellegere",
+        "period": "Classical",
+        "meaning": "to understand"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "entender",
+        "period": "Medieval",
+        "meaning": "to understand"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "intelligent",
+        "meaning": "understanding"
+      }
+    ],
+    "notes": "From Latin 'intellegere' (inter- + legere, to choose between)."
+  },
+  "word_es_querer": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quaerere",
+        "period": "Classical",
+        "meaning": "to seek, ask"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "querer",
+        "period": "Medieval",
+        "meaning": "to want, love"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "query",
+        "meaning": "question"
+      }
+    ],
+    "notes": "From Latin 'quaerere' (to seek). Means both 'to want' and 'to love'."
+  },
+  "word_es_amar": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "amare",
+        "period": "Classical",
+        "meaning": "to love"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "amar",
+        "period": "Medieval",
+        "meaning": "to love"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "amorous",
+        "meaning": "loving"
+      }
+    ],
+    "notes": "From Latin 'amare'. PIE *h₂em-?"
+  },
+  "word_es_trabajar": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "tripaliare",
+        "period": "Late Latin",
+        "meaning": "to torture with a trepalium"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "trabajar",
+        "period": "Medieval",
+        "meaning": "to work"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'tripaliare' (to torture on a three-staked frame), later softened to 'to work'."
+  }
+}

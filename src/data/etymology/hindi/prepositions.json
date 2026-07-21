@@ -1,0 +1,148 @@
+{
+  "word_hi_mein": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "मध्ये (madhye)",
+        "period": "Vedic",
+        "meaning": "in the middle, in"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit मध्य (madhya, middle). Means 'in/at'."
+  },
+  "word_hi_ko": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कृते (kṛte)",
+        "period": "Classical",
+        "meaning": "for, to"
+      }
+    ],
+    "cognates": [],
+    "notes": "Postposition from Sanskrit. Means 'to'."
+  },
+  "word_hi_se": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "सह (saha)",
+        "period": "Classical",
+        "meaning": "with, from"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit सह (saha). Means 'from/with'."
+  },
+  "word_hi_ke_saath": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "सह (saha)",
+        "period": "Classical",
+        "meaning": "with, together"
+      }
+    ],
+    "cognates": [],
+    "notes": "साथ from Sanskrit सह. Means 'with'."
+  },
+  "word_hi_ke_liye": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "लिए",
+        "period": "Classical",
+        "meaning": "for, taken"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit ला (lā, to take). Means 'for'."
+  },
+  "word_hi_ke_baare_mein": {
+    "languageOrigin": "Arabic/Sanskrit",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "بارے (bāre)",
+        "period": "Medieval",
+        "meaning": "about, concerning"
+      }
+    ],
+    "cognates": [],
+    "notes": "बारे from Persian/Arabic. Means 'about'."
+  },
+  "word_hi_ke_bina": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "विना (vinā)",
+        "period": "Classical",
+        "meaning": "without"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit विना (vinā). Means 'without'."
+  },
+  "word_hi_se_pahle": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पूर्व (pūrva)",
+        "period": "Classical",
+        "meaning": "before, earlier"
+      }
+    ],
+    "cognates": [],
+    "notes": "पहले from Sanskrit पूर्व. Means 'before'."
+  },
+  "word_hi_ke_baad": {
+    "languageOrigin": "Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "بعد (baʿd)",
+        "period": "Classical",
+        "meaning": "after"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Urdu",
+        "word": "بعد",
+        "meaning": "after"
+      }
+    ],
+    "notes": "Borrowed from Arabic. Means 'after'."
+  },
+  "word_hi_par": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पर (para)",
+        "period": "Vedic",
+        "meaning": "on, upon, other"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit पर (para). Means 'on/above'."
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "word_ja_konnichiwa": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 15th century",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "今日は (kon nichi wa)",
+        "period": "Classical",
+        "meaning": "as for today"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "こんにちは",
+        "period": "Meiji era onward",
+        "meaning": "hello"
+      }
+    ],
+    "cognates": [],
+    "notes": "Original full greeting: 'konnichi wa gokigen ikaga desuka' (how are you today?). Truncated to 'konnichiwa'."
+  },
+  "word_ja_konbanwa": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 15th century",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "今晩は (kon ban wa)",
+        "period": "Classical",
+        "meaning": "as for this evening"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "こんばんは",
+        "period": "Modern",
+        "meaning": "good evening"
+      }
+    ],
+    "cognates": [],
+    "notes": "Analogous to 'konnichiwa' but for evening."
+  },
+  "word_ja_sayonara": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 14th century",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "左様なら (sayō nara)",
+        "period": "Muromachi",
+        "meaning": "if that is so"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "さようなら",
+        "period": "Modern",
+        "meaning": "goodbye"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'sayō' (so) + 'nara' (if). Literally 'if that's the way it is'."
+  },
+  "word_ja_arigatou": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 15th century",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "有り難し (arigatashi)",
+        "period": "Classical",
+        "meaning": "rare, precious, thankful"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "ありがとう",
+        "period": "Modern",
+        "meaning": "thank you"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'ari' (to exist) + 'gatashi' (rare, difficult). 'Hard to have'."
+  },
+  "word_ja_onegaishimasu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 14th century",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "お願い申す (onegai mōsu)",
+        "period": "Classical",
+        "meaning": "I humbly request"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "お願いします",
+        "period": "Modern",
+        "meaning": "please"
+      }
+    ],
+    "cognates": [],
+    "notes": "Honorific 'o-' + 'negai' (wish/request) + polite 'shimasu'."
+  },
+  "word_ja_douitashimashite": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 18th century",
+    "timeline": [
+      {
+        "language": "Japanese",
+        "form": "どう致しまして",
+        "period": "Edo period",
+        "meaning": "I have done as much"
+      }
+    ],
+    "cognates": [],
+    "notes": "Humble form of 'do' (how) + 'itasu' (to do). 'I did no more than I should'."
+  },
+  "word_ja_sumimasen": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 16th century",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "済まぬ (sumanu)",
+        "period": "Classical",
+        "meaning": "not settled, incomplete"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "すみません",
+        "period": "Modern",
+        "meaning": "sorry/excuse me"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'sumu' (to settle/end) + negative. 'It won't end/I'm unfinished'."
+  },
+  "word_ja_daijoubu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 18th century",
+    "timeline": [
+      {
+        "language": "Japanese",
+        "form": "大丈夫 (daijōbu)",
+        "period": "Edo period",
+        "meaning": "all right, safe"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Chinese 大丈夫 (dàzhàngfu, great man). Means 'it's okay' in Japanese."
+  },
+  "word_ja_mata_ne": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Japanese",
+        "form": "またね",
+        "period": "Modern",
+        "meaning": "see you later"
+      }
+    ],
+    "cognates": [],
+    "notes": "また (again) + ね (particle). 'Again, right?'"
+  },
+  "word_ja_ja_mata": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Japanese",
+        "form": "じゃまた",
+        "period": "Modern",
+        "meaning": "see you again"
+      }
+    ],
+    "cognates": [],
+    "notes": "じゃ (well then) + また (again)."
+  },
+  "word_ja_ogenki_desu_ka": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 19th century",
+    "timeline": [
+      {
+        "language": "Japanese",
+        "form": "お元気ですか",
+        "period": "Modern",
+        "meaning": "how are you"
+      }
+    ],
+    "cognates": [],
+    "notes": "お (honorific) + 元気 (genki, healthy/spirits) + ですか (is it?)."
+  },
+  "word_ja_genki_desu": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 19th century",
+    "timeline": [
+      {
+        "language": "Japanese",
+        "form": "元気です",
+        "period": "Modern",
+        "meaning": "I am fine"
+      }
+    ],
+    "cognates": [],
+    "notes": "元気 (healthy/spirits) + です (is). 'I'm healthy'."
+  },
+  "word_ja_oyasumi_nasai": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 18th century",
+    "timeline": [
+      {
+        "language": "Japanese",
+        "form": "お休みなさい",
+        "period": "Edo period",
+        "meaning": "please rest"
+      }
+    ],
+    "cognates": [],
+    "notes": "お (honorific) + 休み (yasumi, rest) + なさい (imperative)."
+  },
+  "word_ja_youkoso": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 15th century",
+    "timeline": [
+      {
+        "language": "Japanese",
+        "form": "ようこそ",
+        "period": "Muromachi",
+        "meaning": "welcome"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'yoku' (well) + 'koso' (indeed). 'You have come well'."
+  },
+  "word_ja_chotto_sumimasen": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Japanese",
+        "form": "ちょっとすみません",
+        "period": "Modern",
+        "meaning": "excuse me"
+      }
+    ],
+    "cognates": [],
+    "notes": "ちょっと (a little) + すみません (sorry). Polite attention-getter."
+  }
+}

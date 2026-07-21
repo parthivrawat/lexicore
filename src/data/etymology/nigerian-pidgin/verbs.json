@@ -1,0 +1,502 @@
+{
+  "word_pcm_dey": {
+    "languageOrigin": "English/Nigerian Pidgin",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "they / there",
+        "period": "17th century",
+        "meaning": "to be (copula)"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "dey",
+        "period": "Modern",
+        "meaning": "to be"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'they' or 'there' used as copula."
+  },
+  "word_pcm_do": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "do",
+        "period": "17th century",
+        "meaning": "to do"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "do",
+        "period": "Modern",
+        "meaning": "to do"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'do'."
+  },
+  "word_pcm_go": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "go",
+        "period": "17th century",
+        "meaning": "to go"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "go",
+        "period": "Modern",
+        "meaning": "to go"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'go'."
+  },
+  "word_pcm_come": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "come",
+        "period": "17th century",
+        "meaning": "to come"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "come",
+        "period": "Modern",
+        "meaning": "to come"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'come'."
+  },
+  "word_pcm_chop": {
+    "languageOrigin": "English/Nigerian Pidgin",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "chop",
+        "period": "17th century",
+        "meaning": "to cut, eat"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "chop",
+        "period": "Modern",
+        "meaning": "to eat"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'chop' (to eat)."
+  },
+  "word_pcm_drink": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "drink",
+        "period": "17th century",
+        "meaning": "to drink"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "drink",
+        "period": "Modern",
+        "meaning": "to drink"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'drink'."
+  },
+  "word_pcm_see": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "see",
+        "period": "17th century",
+        "meaning": "to see"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "see",
+        "period": "Modern",
+        "meaning": "to see"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'see'."
+  },
+  "word_pcm_hear": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "hear",
+        "period": "17th century",
+        "meaning": "to hear"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "hear",
+        "period": "Modern",
+        "meaning": "to hear"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'hear'."
+  },
+  "word_pcm_talk": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "talk",
+        "period": "17th century",
+        "meaning": "to talk"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "talk",
+        "period": "Modern",
+        "meaning": "to speak"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'talk'."
+  },
+  "word_pcm_read": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "read",
+        "period": "17th century",
+        "meaning": "to read"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "read",
+        "period": "Modern",
+        "meaning": "to read"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'read'."
+  },
+  "word_pcm_write": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "write",
+        "period": "17th century",
+        "meaning": "to write"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "write",
+        "period": "Modern",
+        "meaning": "to write"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'write'."
+  },
+  "word_pcm_give": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "give",
+        "period": "17th century",
+        "meaning": "to give"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "give",
+        "period": "Modern",
+        "meaning": "to give"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'give'."
+  },
+  "word_pcm_take": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "take",
+        "period": "17th century",
+        "meaning": "to take"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "take",
+        "period": "Modern",
+        "meaning": "to take"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'take'."
+  },
+  "word_pcm_sleep": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "sleep",
+        "period": "17th century",
+        "meaning": "to sleep"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "sleep",
+        "period": "Modern",
+        "meaning": "to sleep"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'sleep'."
+  },
+  "word_pcm_wake": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "wake",
+        "period": "17th century",
+        "meaning": "to wake"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "wake",
+        "period": "Modern",
+        "meaning": "to wake up"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'wake'."
+  },
+  "word_pcm_sidon": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "sit down",
+        "period": "17th century",
+        "meaning": "to sit down"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "sidon",
+        "period": "Modern",
+        "meaning": "to sit"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'sit down'."
+  },
+  "word_pcm_stand": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "stand",
+        "period": "17th century",
+        "meaning": "to stand"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "stand",
+        "period": "Modern",
+        "meaning": "to stand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'stand'."
+  },
+  "word_pcm_waka": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "walk",
+        "period": "17th century",
+        "meaning": "to walk"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "waka",
+        "period": "Modern",
+        "meaning": "to walk"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'walk' or 'walker'."
+  },
+  "word_pcm_run": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "run",
+        "period": "17th century",
+        "meaning": "to run"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "run",
+        "period": "Modern",
+        "meaning": "to run"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'run'."
+  },
+  "word_pcm_laff": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "laugh",
+        "period": "17th century",
+        "meaning": "to laugh"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "laff",
+        "period": "Modern",
+        "meaning": "to laugh"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'laugh'."
+  },
+  "word_pcm_cry": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "cry",
+        "period": "17th century",
+        "meaning": "to cry"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "cry",
+        "period": "Modern",
+        "meaning": "to cry"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'cry'."
+  },
+  "word_pcm_undersand": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "understand",
+        "period": "17th century",
+        "meaning": "to understand"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "undersand",
+        "period": "Modern",
+        "meaning": "to understand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'understand'."
+  },
+  "word_pcm_want": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "want",
+        "period": "17th century",
+        "meaning": "to want"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "want",
+        "period": "Modern",
+        "meaning": "to want"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'want'."
+  },
+  "word_pcm_love": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "love",
+        "period": "17th century",
+        "meaning": "to love"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "love",
+        "period": "Modern",
+        "meaning": "to love"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'love'."
+  },
+  "word_pcm_work": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "work",
+        "period": "17th century",
+        "meaning": "to work"
+      },
+      {
+        "language": "Nigerian Pidgin",
+        "form": "work",
+        "period": "Modern",
+        "meaning": "to work"
+      }
+    ],
+    "cognates": [],
+    "notes": "From English 'work'."
+  }
+}

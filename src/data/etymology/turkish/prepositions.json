@@ -1,0 +1,202 @@
+{
+  "word_tr_icinde": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "içinde",
+        "period": "Old Turkic",
+        "meaning": "inside"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "içinde",
+        "period": "Modern",
+        "meaning": "in"
+      }
+    ],
+    "cognates": [],
+    "notes": "iç (inside) + -in (locative) + -de (in)."
+  },
+  "word_tr_e": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "-a/-ä",
+        "period": "Old Turkic",
+        "meaning": "to (dative suffix)"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "-e/-a",
+        "period": "Modern",
+        "meaning": "to"
+      }
+    ],
+    "cognates": [],
+    "notes": "Turkish dative case suffix 'e/a'."
+  },
+  "word_tr_dan": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "-dän/-tan",
+        "period": "Old Turkic",
+        "meaning": "from (ablative suffix)"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "-dan/-ten",
+        "period": "Modern",
+        "meaning": "from"
+      }
+    ],
+    "cognates": [],
+    "notes": "Turkish ablative case suffix."
+  },
+  "word_tr_ile": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "ilä",
+        "period": "Old Turkic",
+        "meaning": "with"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "ile",
+        "period": "Modern",
+        "meaning": "with"
+      }
+    ],
+    "cognates": [],
+    "notes": "Instrumental/comitative postposition 'ile'."
+  },
+  "word_tr_icin": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "içün",
+        "period": "Old Turkic",
+        "meaning": "for"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "için",
+        "period": "Modern",
+        "meaning": "for"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic içün (for)."
+  },
+  "word_tr_hakkinda": {
+    "languageOrigin": "Turkic/Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "حق (ḥaqq)",
+        "period": "Classical",
+        "meaning": "truth, right"
+      },
+      {
+        "language": "Ottoman Turkish",
+        "form": "hakkında",
+        "period": "Medieval",
+        "meaning": "about"
+      }
+    ],
+    "cognates": [],
+    "notes": "hak (right) + -ında (in). 'Regarding'."
+  },
+  "word_tr_olmadan": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "-mazdan",
+        "period": "Old Turkic",
+        "meaning": "without"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "-madan/-meden",
+        "period": "Modern",
+        "meaning": "without"
+      }
+    ],
+    "cognates": [],
+    "notes": "Negative ablative gerund: 'without doing'."
+  },
+  "word_tr_once": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": " önce",
+        "period": "Old Turkic",
+        "meaning": "before"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "önce",
+        "period": "Modern",
+        "meaning": "before"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Turkic önce."
+  },
+  "word_tr_sonra_prep": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "sonra",
+        "period": "Old Turkic",
+        "meaning": "after"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "sonra",
+        "period": "Modern",
+        "meaning": "after"
+      }
+    ],
+    "cognates": [],
+    "notes": "son (end) + -ra."
+  },
+  "word_tr_uzerinde": {
+    "languageOrigin": "Turkic",
+    "yearOfOrigin": "c. 5th century",
+    "timeline": [
+      {
+        "language": "Old Turkic",
+        "form": "üzä",
+        "period": "Old Turkic",
+        "meaning": "on, top"
+      },
+      {
+        "language": "Modern Turkish",
+        "form": "üzerinde",
+        "period": "Modern",
+        "meaning": "on top of"
+      }
+    ],
+    "cognates": [],
+    "notes": "üzer (top/surface) + -inde (locative)."
+  }
+}

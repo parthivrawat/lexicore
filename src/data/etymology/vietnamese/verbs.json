@@ -1,0 +1,496 @@
+{
+  "word_vi_la": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "là",
+        "period": "Medieval",
+        "meaning": "to be"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "là",
+        "period": "Modern",
+        "meaning": "to be"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese copula."
+  },
+  "word_vi_lam": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "作 (làm)",
+        "period": "Medieval",
+        "meaning": "to do, make"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "làm",
+        "period": "Modern",
+        "meaning": "to do"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Chinese 作/做 (zuò)."
+  },
+  "word_vi_di": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "đi",
+        "period": "Medieval",
+        "meaning": "to go"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "đi",
+        "period": "Modern",
+        "meaning": "to go"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese verb."
+  },
+  "word_vi_den": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "đến",
+        "period": "Medieval",
+        "meaning": "to come"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "đến",
+        "period": "Modern",
+        "meaning": "to come"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese verb."
+  },
+  "word_vi_an": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "ăn",
+        "period": "Medieval",
+        "meaning": "to eat"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "ăn",
+        "period": "Modern",
+        "meaning": "to eat"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Mon-Khmer origin?"
+  },
+  "word_vi_uong": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "uống",
+        "period": "Medieval",
+        "meaning": "to drink"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "uống",
+        "period": "Modern",
+        "meaning": "to drink"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese verb."
+  },
+  "word_vi_nhin": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "視 (nhìn)",
+        "period": "Medieval",
+        "meaning": "to look"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "nhìn",
+        "period": "Modern",
+        "meaning": "to see"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Chinese 視 (shì) to look."
+  },
+  "word_vi_nghe": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "聽 (nghe)",
+        "period": "Medieval",
+        "meaning": "to hear"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "nghe",
+        "period": "Modern",
+        "meaning": "to hear"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Chinese 聽 (tīng)."
+  },
+  "word_vi_noi": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "nói",
+        "period": "Medieval",
+        "meaning": "to speak"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "nói",
+        "period": "Modern",
+        "meaning": "to speak"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese verb."
+  },
+  "word_vi_doc": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "讀 (đọc)",
+        "period": "Medieval",
+        "meaning": "to read"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "đọc",
+        "period": "Modern",
+        "meaning": "to read"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Chinese 讀 (dú)."
+  },
+  "word_vi_viet": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "寫 (viết)",
+        "period": "Medieval",
+        "meaning": "to write"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "viết",
+        "period": "Modern",
+        "meaning": "to write"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Chinese 寫 (xiě)."
+  },
+  "word_vi_cho": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "cho",
+        "period": "Medieval",
+        "meaning": "to give"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "cho",
+        "period": "Modern",
+        "meaning": "to give"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese verb."
+  },
+  "word_vi_lay": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "lấy",
+        "period": "Medieval",
+        "meaning": "to take"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "lấy",
+        "period": "Modern",
+        "meaning": "to take"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese verb."
+  },
+  "word_vi_ngu": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "ngủ",
+        "period": "Medieval",
+        "meaning": "to sleep"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "ngủ",
+        "period": "Modern",
+        "meaning": "to sleep"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese verb."
+  },
+  "word_vi_thuc_day": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "睡醒 (thức dậy)",
+        "period": "Medieval",
+        "meaning": "wake up"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "thức dậy",
+        "period": "Modern",
+        "meaning": "to wake up"
+      }
+    ],
+    "cognates": [],
+    "notes": "thức (awake) from Chinese 醒 + dậy (rise)."
+  },
+  "word_vi_ngoi": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "ngồi",
+        "period": "Medieval",
+        "meaning": "to sit"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "ngồi",
+        "period": "Modern",
+        "meaning": "to sit"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese verb."
+  },
+  "word_vi_dung": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "đứng",
+        "period": "Medieval",
+        "meaning": "to stand"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "đứng",
+        "period": "Modern",
+        "meaning": "to stand"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese verb."
+  },
+  "word_vi_di_bo": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Modern Vietnamese",
+        "form": "đi bộ",
+        "period": "Modern",
+        "meaning": "to walk"
+      }
+    ],
+    "cognates": [],
+    "notes": "đi (go) + bộ (foot/infantry)."
+  },
+  "word_vi_chay": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "chạy",
+        "period": "Medieval",
+        "meaning": "to run"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "chạy",
+        "period": "Modern",
+        "meaning": "to run"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese verb."
+  },
+  "word_vi_cuoi": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "cười",
+        "period": "Medieval",
+        "meaning": "to laugh"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "cười",
+        "period": "Modern",
+        "meaning": "to laugh"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese verb."
+  },
+  "word_vi_khoc": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "khóc",
+        "period": "Medieval",
+        "meaning": "to cry"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "khóc",
+        "period": "Modern",
+        "meaning": "to cry"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese verb."
+  },
+  "word_vi_hieu": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "曉 (hiểu)",
+        "period": "Medieval",
+        "meaning": "to understand"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "hiểu",
+        "period": "Modern",
+        "meaning": "to understand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Chinese 曉 (xiǎo) to know."
+  },
+  "word_vi_muon": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "muốn",
+        "period": "Medieval",
+        "meaning": "to want"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "muốn",
+        "period": "Modern",
+        "meaning": "to want"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese verb."
+  },
+  "word_vi_yeu": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "愛 (yêu)",
+        "period": "Medieval",
+        "meaning": "to love"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "yêu",
+        "period": "Modern",
+        "meaning": "to love"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Chinese 愛 (ài)."
+  },
+  "word_vi_lam_viec": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "作事 (làm việc)",
+        "period": "Medieval",
+        "meaning": "do work"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "làm việc",
+        "period": "Modern",
+        "meaning": "to work"
+      }
+    ],
+    "cognates": [],
+    "notes": "làm (do) + việc (work, from Chinese 事/務)."
+  }
+}

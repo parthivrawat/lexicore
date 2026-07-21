@@ -1,0 +1,436 @@
+{
+  "word_te_nenu": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "నేను (nēnu)",
+        "period": "Medieval",
+        "meaning": "I"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "నేను",
+        "period": "Modern",
+        "meaning": "I"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *nān."
+  },
+  "word_te_nuvvu": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "నీవు (nīvu)",
+        "period": "Medieval",
+        "meaning": "you"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "నువ్వు",
+        "period": "Modern",
+        "meaning": "you"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *nīn."
+  },
+  "word_te_meeru": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "మీరు (mīru)",
+        "period": "Medieval",
+        "meaning": "you (formal)"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "మీరు",
+        "period": "Modern",
+        "meaning": "you (formal)"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *nīr."
+  },
+  "word_te_atanu": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "అతను (atanu)",
+        "period": "Medieval",
+        "meaning": "he"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "అతను",
+        "period": "Modern",
+        "meaning": "he"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu a- (that) + -tanu."
+  },
+  "word_te_aame": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "ఆమె (āme)",
+        "period": "Medieval",
+        "meaning": "she"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "ఆమె",
+        "period": "Modern",
+        "meaning": "she"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu ā- (that) + -me."
+  },
+  "word_te_memu": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "మేము (mēmu)",
+        "period": "Medieval",
+        "meaning": "we"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "మేము",
+        "period": "Modern",
+        "meaning": "we"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu mēmu."
+  },
+  "word_te_vallu": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "వారు (vāru)",
+        "period": "Medieval",
+        "meaning": "they"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "వాళ్ళు",
+        "period": "Modern",
+        "meaning": "they"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu vāḷḷu."
+  },
+  "word_te_idi": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "ఇది (idi)",
+        "period": "Medieval",
+        "meaning": "this"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "ఇది",
+        "period": "Modern",
+        "meaning": "this"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu idi."
+  },
+  "word_te_adi": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "అది (adi)",
+        "period": "Medieval",
+        "meaning": "that"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "అది",
+        "period": "Modern",
+        "meaning": "that"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu adi."
+  },
+  "word_te_emi": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "ఏమి (ēmi)",
+        "period": "Medieval",
+        "meaning": "what"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "ఏమి",
+        "period": "Modern",
+        "meaning": "what"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu ēmi."
+  },
+  "word_te_evaru": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "ఎవరు (evaru)",
+        "period": "Medieval",
+        "meaning": "who"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "ఎవరు",
+        "period": "Modern",
+        "meaning": "who"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu evaru."
+  },
+  "word_te_ekkada": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "ఎక్కడ (ekkaḍa)",
+        "period": "Medieval",
+        "meaning": "where"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "ఎక్కడ",
+        "period": "Modern",
+        "meaning": "where"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu ekkaḍa."
+  },
+  "word_te_eppudu": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "ఎప్పుడు (eppuḍu)",
+        "period": "Medieval",
+        "meaning": "when"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "ఎప్పుడు",
+        "period": "Modern",
+        "meaning": "when"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu eppuḍu."
+  },
+  "word_te_enduku": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "ఎందుకు (enduku)",
+        "period": "Medieval",
+        "meaning": "why"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "ఎందుకు",
+        "period": "Modern",
+        "meaning": "why"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu endu (what) + ku."
+  },
+  "word_te_elaa": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "ఎలా (elā)",
+        "period": "Medieval",
+        "meaning": "how"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "ఎలా",
+        "period": "Modern",
+        "meaning": "how"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu elā."
+  },
+  "word_te_mariyu": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "मर्यादा? (maryādā)",
+        "period": "Classical",
+        "meaning": "and, also"
+      },
+      {
+        "language": "Telugu",
+        "form": "మరియు",
+        "period": "Modern",
+        "meaning": "and"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit maryādā? or mārga?"
+  },
+  "word_te_leda": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "లేదా (lēdā)",
+        "period": "Medieval",
+        "meaning": "or"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "లేదా",
+        "period": "Modern",
+        "meaning": "or"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu lēdā."
+  },
+  "word_te_kaani": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "किन्तु (kintu)",
+        "period": "Classical",
+        "meaning": "but"
+      },
+      {
+        "language": "Telugu",
+        "form": "కాని",
+        "period": "Modern",
+        "meaning": "but"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit kintu."
+  },
+  "word_te_aithe": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "यदि (yadi)",
+        "period": "Classical",
+        "meaning": "if"
+      },
+      {
+        "language": "Telugu",
+        "form": "అయితే",
+        "period": "Modern",
+        "meaning": "if"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit yadi > Telugu aite."
+  },
+  "word_te_endukante": {
+    "languageOrigin": "Proto-Dravidian/Sanskrit",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Telugu",
+        "form": "ఎందుకంటే",
+        "period": "Modern",
+        "meaning": "because"
+      }
+    ],
+    "cognates": [],
+    "notes": "enduku (why) + aṅṭē (since)."
+  },
+  "word_te_kaadu": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "కాదు (kādu)",
+        "period": "Medieval",
+        "meaning": "no, not"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "కాదు",
+        "period": "Modern",
+        "meaning": "no"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu kādu."
+  },
+  "word_te_avaunu": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "एवम् (evam)",
+        "period": "Vedic",
+        "meaning": "thus, yes"
+      },
+      {
+        "language": "Telugu",
+        "form": "అవును",
+        "period": "Modern",
+        "meaning": "yes"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit evam."
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "word_el_yassas": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ὑγίεια (hygieia)",
+        "period": "Classical",
+        "meaning": "health"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "γειά σας (yiá sas)",
+        "period": "Modern",
+        "meaning": "hello (formal)"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "hygiene",
+        "meaning": "health practices"
+      }
+    ],
+    "notes": "From Ancient Greek ὑγίεια (health). 'To your health'."
+  },
+  "word_el_yassou": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ὑγίεια (hygieia)",
+        "period": "Classical",
+        "meaning": "health"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "γειά σου (yiá su)",
+        "period": "Modern",
+        "meaning": "hello (informal)"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "hygiene",
+        "meaning": "health practices"
+      }
+    ],
+    "notes": "Informal singular form of γειά σας."
+  },
+  "word_el_antio": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἀντίοι (antíoi)",
+        "period": "Classical",
+        "meaning": "farewell"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "αντίο",
+        "period": "Modern",
+        "meaning": "goodbye"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ἀντίοι (farewell)."
+  },
+  "word_el_efcharisto": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "εὐχαριστέω (eucharisteō)",
+        "period": "Classical",
+        "meaning": "to be grateful"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "ευχαριστώ (efcharistó)",
+        "period": "Modern",
+        "meaning": "thank you"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "Eucharist",
+        "meaning": "thanksgiving"
+      }
+    ],
+    "notes": "From εὖ (well) + χάρις (grace)."
+  },
+  "word_el_parakalo": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "παρακαλέω (parakaleō)",
+        "period": "Classical",
+        "meaning": "to request, implore"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "παρακαλώ (parakaló)",
+        "period": "Modern",
+        "meaning": "please"
+      }
+    ],
+    "cognates": [],
+    "notes": "From παρά (beside) + καλέω (to call)."
+  },
+  "word_el_tipota": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "τι + ποτέ (ti pote)",
+        "period": "Classical",
+        "meaning": "anything ever"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "τίποτα",
+        "period": "Modern",
+        "meaning": "nothing"
+      }
+    ],
+    "cognates": [],
+    "notes": "Originally 'anything'; used as 'nothing' in Modern Greek. 'It was nothing'."
+  },
+  "word_el_siggnomi": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "συγγνώμη (syngnōmē)",
+        "period": "Classical",
+        "meaning": "forgiveness"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "συγγνώμη (syngnómi)",
+        "period": "Modern",
+        "meaning": "sorry"
+      }
+    ],
+    "cognates": [],
+    "notes": "From συν (with) + γνώμη (judgment/opinion). 'To share opinion/ to pardon'."
+  },
+  "word_el_den_peirazei": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "πειράζω (peirazō)",
+        "period": "Classical",
+        "meaning": "to try, annoy"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "δεν πειράζει",
+        "period": "Modern",
+        "meaning": "it doesn't matter"
+      }
+    ],
+    "cognates": [],
+    "notes": "δεν (not) + πειράζει (it bothers). 'It doesn't bother'."
+  },
+  "word_el_ta_leme": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Modern Greek",
+        "form": "τα λέμε",
+        "period": "Modern",
+        "meaning": "we'll talk"
+      }
+    ],
+    "cognates": [],
+    "notes": "τα (them) + λέμε (we speak). 'See you later'."
+  },
+  "word_el_ti_kanis": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "τί κάμνεις (ti kamneis)",
+        "period": "Classical",
+        "meaning": "what are you doing"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "τι κάνεις",
+        "period": "Modern",
+        "meaning": "how are you"
+      }
+    ],
+    "cognates": [],
+    "notes": "τι (what) + κάνεις (you do). 'What are you doing?'."
+  },
+  "word_el_ime_kala": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "εἰμί καλῶς (eimi kalōs)",
+        "period": "Classical",
+        "meaning": "I am well"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "είμαι καλά",
+        "period": "Modern",
+        "meaning": "I am fine"
+      }
+    ],
+    "cognates": [],
+    "notes": "είμαι (I am) + καλά (well)."
+  },
+  "word_el_kalinichta": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "καλός + νύξ (kalos + nyx)",
+        "period": "Classical",
+        "meaning": "good night"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "καληνύχτα",
+        "period": "Modern",
+        "meaning": "good night"
+      }
+    ],
+    "cognates": [],
+    "notes": "καλός (good) + νύχτα (night)."
+  },
+  "word_el_kalos_orises": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "καλῶς ὁρίζειν (kalōs horizein)",
+        "period": "Classical",
+        "meaning": "to define well, welcome"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "καλώς όρισες",
+        "period": "Modern",
+        "meaning": "welcome"
+      }
+    ],
+    "cognates": [],
+    "notes": "καλός (good) + όρισες (you defined/arrived). 'Well come'."
+  },
+  "word_el_mipos": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "μή + που (mē + pou)",
+        "period": "Classical",
+        "meaning": "lest, perhaps"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "μήπως",
+        "period": "Modern",
+        "meaning": "excuse me"
+      }
+    ],
+    "cognates": [],
+    "notes": "Originally 'perhaps', used as polite 'excuse me'."
+  }
+}

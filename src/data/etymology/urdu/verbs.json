@@ -1,0 +1,532 @@
+{
+  "word_ur_hona": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "भू (bhū)",
+        "period": "Vedic",
+        "meaning": "to be, become"
+      },
+      {
+        "language": "Urdu",
+        "form": "ہونا",
+        "period": "Modern",
+        "meaning": "to be"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "होना",
+        "meaning": "to be"
+      }
+    ],
+    "notes": "From Sanskrit root भू."
+  },
+  "word_ur_karna": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कृ (kṛ)",
+        "period": "Classical",
+        "meaning": "to do, make"
+      },
+      {
+        "language": "Urdu",
+        "form": "کرنا",
+        "period": "Modern",
+        "meaning": "to do"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "करना",
+        "meaning": "to do"
+      }
+    ],
+    "notes": "From Sanskrit कृ."
+  },
+  "word_ur_jana": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "गम् (gam)",
+        "period": "Classical",
+        "meaning": "to go"
+      },
+      {
+        "language": "Urdu",
+        "form": "جانا",
+        "period": "Modern",
+        "meaning": "to go"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "जाना",
+        "meaning": "to go"
+      }
+    ],
+    "notes": "From Sanskrit गम्."
+  },
+  "word_ur_aana": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "आगम् (āgam)",
+        "period": "Classical",
+        "meaning": "to come"
+      },
+      {
+        "language": "Urdu",
+        "form": "آنا",
+        "period": "Modern",
+        "meaning": "to come"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "आना",
+        "meaning": "to come"
+      }
+    ],
+    "notes": "From Sanskrit prefix आ + गम्."
+  },
+  "word_ur_khana": {
+    "languageOrigin": "Sanskrit/Persian",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "खाद् (khād)",
+        "period": "Vedic",
+        "meaning": "to eat"
+      },
+      {
+        "language": "Persian",
+        "form": "خوردن (xordan)",
+        "period": "Medieval",
+        "meaning": "to eat"
+      },
+      {
+        "language": "Urdu",
+        "form": "کھانا",
+        "period": "Modern",
+        "meaning": "to eat"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Persian 'xordan' (to eat)."
+  },
+  "word_ur_peena": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पा (pā)",
+        "period": "Vedic",
+        "meaning": "to drink"
+      },
+      {
+        "language": "Urdu",
+        "form": "پینا",
+        "period": "Modern",
+        "meaning": "to drink"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit पा."
+  },
+  "word_ur_dekhna": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "दृश् (dṛś)",
+        "period": "Classical",
+        "meaning": "to see"
+      },
+      {
+        "language": "Urdu",
+        "form": "دیکھنا",
+        "period": "Modern",
+        "meaning": "to see"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit दृश्."
+  },
+  "word_ur_sunna": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "श्रु (śru)",
+        "period": "Vedic",
+        "meaning": "to hear"
+      },
+      {
+        "language": "Urdu",
+        "form": "سننا",
+        "period": "Modern",
+        "meaning": "to hear"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit श्रु."
+  },
+  "word_ur_bolna": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वद् (vad)",
+        "period": "Classical",
+        "meaning": "to speak"
+      },
+      {
+        "language": "Urdu",
+        "form": "بولنا",
+        "period": "Modern",
+        "meaning": "to speak"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit वद्."
+  },
+  "word_ur_parhna": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पठ् (paṭh)",
+        "period": "Classical",
+        "meaning": "to read, recite"
+      },
+      {
+        "language": "Urdu",
+        "form": "پڑھنا",
+        "period": "Modern",
+        "meaning": "to read"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit पठ्."
+  },
+  "word_ur_likhna": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "लिख् (likh)",
+        "period": "Classical",
+        "meaning": "to write"
+      },
+      {
+        "language": "Urdu",
+        "form": "لکھنا",
+        "period": "Modern",
+        "meaning": "to write"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit लिख्."
+  },
+  "word_ur_dena": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "दा (dā)",
+        "period": "Classical",
+        "meaning": "to give"
+      },
+      {
+        "language": "Urdu",
+        "form": "دینا",
+        "period": "Modern",
+        "meaning": "to give"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit दा."
+  },
+  "word_ur_lena": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "नी (nī)",
+        "period": "Classical",
+        "meaning": "to take"
+      },
+      {
+        "language": "Urdu",
+        "form": "لینا",
+        "period": "Modern",
+        "meaning": "to take"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit नी."
+  },
+  "word_ur_sona": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "स्वप् (svap)",
+        "period": "Classical",
+        "meaning": "to sleep"
+      },
+      {
+        "language": "Urdu",
+        "form": "سونا",
+        "period": "Modern",
+        "meaning": "to sleep"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit स्वप्."
+  },
+  "word_ur_jagna": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "जागृ (jāgṛ)",
+        "period": "Classical",
+        "meaning": "to wake"
+      },
+      {
+        "language": "Urdu",
+        "form": "جاگنا",
+        "period": "Modern",
+        "meaning": "to wake up"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit जागृ."
+  },
+  "word_ur_baithna": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "विश् (viś)",
+        "period": "Classical",
+        "meaning": "to sit, enter"
+      },
+      {
+        "language": "Urdu",
+        "form": "بیٹھنا",
+        "period": "Modern",
+        "meaning": "to sit"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit विश्/वस्."
+  },
+  "word_ur_khara_hona": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "स्था (sthā)",
+        "period": "Classical",
+        "meaning": "to stand"
+      },
+      {
+        "language": "Urdu",
+        "form": "کھڑا ہونا",
+        "period": "Modern",
+        "meaning": "to stand"
+      }
+    ],
+    "cognates": [],
+    "notes": "کھڑا (standing) + ہونا (to be)."
+  },
+  "word_ur_chalna": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "चर् (car)",
+        "period": "Classical",
+        "meaning": "to move, walk"
+      },
+      {
+        "language": "Urdu",
+        "form": "چلنا",
+        "period": "Modern",
+        "meaning": "to walk"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit चर्."
+  },
+  "word_ur_daurna": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "द्रु (dru)",
+        "period": "Classical",
+        "meaning": "to run"
+      },
+      {
+        "language": "Urdu",
+        "form": "دوڑنا",
+        "period": "Modern",
+        "meaning": "to run"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit द्रु."
+  },
+  "word_ur_hansna": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "हस् (has)",
+        "period": "Classical",
+        "meaning": "to laugh"
+      },
+      {
+        "language": "Urdu",
+        "form": "ہنسنا",
+        "period": "Modern",
+        "meaning": "to laugh"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit हस्."
+  },
+  "word_ur_rona": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "रुद् (rud)",
+        "period": "Classical",
+        "meaning": "to cry"
+      },
+      {
+        "language": "Urdu",
+        "form": "رونا",
+        "period": "Modern",
+        "meaning": "to cry"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit रुद्."
+  },
+  "word_ur_samajhna": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "संज्ञा (saṃjñā)",
+        "period": "Classical",
+        "meaning": "to understand"
+      },
+      {
+        "language": "Urdu",
+        "form": "سمجھنا",
+        "period": "Modern",
+        "meaning": "to understand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit संज्ञा/समझ."
+  },
+  "word_ur_chahna": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "चर् (car) / इष् (iṣ)",
+        "period": "Classical",
+        "meaning": "to wish, seek"
+      },
+      {
+        "language": "Urdu",
+        "form": "چاہنا",
+        "period": "Modern",
+        "meaning": "to want"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Prakrit 'chāh-'."
+  },
+  "word_ur_pyaar_karna": {
+    "languageOrigin": "Sanskrit/Urdu",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "प्रीति (prīti)",
+        "period": "Classical",
+        "meaning": "love, affection"
+      },
+      {
+        "language": "Urdu",
+        "form": "پیار کرنا",
+        "period": "Modern",
+        "meaning": "to love"
+      }
+    ],
+    "cognates": [],
+    "notes": "پیار (love) from Sanskrit प्रिय (dear) + کرنا (do)."
+  },
+  "word_ur_kaam_karna": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कर्म (karman)",
+        "period": "Classical",
+        "meaning": "work, deed"
+      },
+      {
+        "language": "Urdu",
+        "form": "کام کرنا",
+        "period": "Modern",
+        "meaning": "to work"
+      }
+    ],
+    "cognates": [],
+    "notes": "کام (kām, work) from Persian/Sanskrit + کرنا (do)."
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "word_ru_ochen": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 16th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "очень",
+        "period": "Medieval",
+        "meaning": "very, much"
+      }
+    ],
+    "cognates": [],
+    "notes": "Originally an adverb 'очень' from 'очи' (eyes)? Expressive origin."
+  },
+  "word_ru_takzhe": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Russian",
+        "form": "также",
+        "period": "Modern",
+        "meaning": "also"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: так (so) + же (also)."
+  },
+  "word_ru_tolko": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 15th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "только",
+        "period": "Medieval",
+        "meaning": "only"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'толико' (so much). 'Only'."
+  },
+  "word_ru_vsegda": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "вьсегда",
+        "period": "Medieval",
+        "meaning": "always"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: вьсе (all) + гда (when). 'All times'."
+  },
+  "word_ru_nikogda": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "никогда",
+        "period": "Medieval",
+        "meaning": "never"
+      }
+    ],
+    "cognates": [],
+    "notes": "ни (not) + когда (when). 'Never'."
+  },
+  "word_ru_inogda": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "иногда",
+        "period": "Medieval",
+        "meaning": "sometimes"
+      }
+    ],
+    "cognates": [],
+    "notes": "ино (other) + когда (when). 'At other times'."
+  },
+  "word_ru_chasto": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*čęsto",
+        "period": "c. 500 CE",
+        "meaning": "often, thick"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'густой' root? Means 'often' or 'dense'."
+  },
+  "word_ru_seychas": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 16th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "сей час",
+        "period": "Medieval",
+        "meaning": "this hour"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: сей (this) + час (hour). 'Now'."
+  },
+  "word_ru_potom": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "потомъ",
+        "period": "Medieval",
+        "meaning": "after, later"
+      }
+    ],
+    "cognates": [],
+    "notes": "по- + том (that). 'After that'."
+  },
+  "word_ru_vchera": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*vьčera",
+        "period": "c. 500 CE",
+        "meaning": "yesterday"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'вечер' (evening) + temporal suffix. 'Last evening'."
+  },
+  "word_ru_zavtra": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "завьтра",
+        "period": "Medieval",
+        "meaning": "tomorrow"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'за утро' (after morning). 'Tomorrow'."
+  },
+  "word_ru_uzhe": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "ужє",
+        "period": "Medieval",
+        "meaning": "already"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'уже' (already)."
+  },
+  "word_ru_esche_ne": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Russian",
+        "form": "ещё не",
+        "period": "Modern",
+        "meaning": "not yet"
+      }
+    ],
+    "cognates": [],
+    "notes": "ещё (still) + не (not). 'Not yet'."
+  },
+  "word_ru_mozhet_byt": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 18th century",
+    "timeline": [
+      {
+        "language": "Russian",
+        "form": "может быть",
+        "period": "Modern",
+        "meaning": "maybe"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'it can be'."
+  },
+  "word_ru_opegolno": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Russian",
+        "form": "определённо",
+        "period": "Modern",
+        "meaning": "certainly"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'определённый' (definite). Adverb 'certainly'."
+  }
+}

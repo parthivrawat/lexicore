@@ -1,0 +1,514 @@
+{
+  "word_mr_ahay": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अस् (as)",
+        "period": "Vedic",
+        "meaning": "to be"
+      },
+      {
+        "language": "Marathi",
+        "form": "आहे",
+        "period": "Modern",
+        "meaning": "to be"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "है",
+        "meaning": "is"
+      }
+    ],
+    "notes": "From Sanskrit as."
+  },
+  "word_mr_karay": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कृ (kṛ)",
+        "period": "Vedic",
+        "meaning": "to do, make"
+      },
+      {
+        "language": "Marathi",
+        "form": "करणे",
+        "period": "Modern",
+        "meaning": "to do"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hindi",
+        "word": "करना",
+        "meaning": "to do"
+      }
+    ],
+    "notes": "From Sanskrit kṛ."
+  },
+  "word_mr_jay": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "गम् (gam)",
+        "period": "Vedic",
+        "meaning": "to go"
+      },
+      {
+        "language": "Marathi",
+        "form": "जाणे",
+        "period": "Modern",
+        "meaning": "to go"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit gam > gacchati."
+  },
+  "word_mr_yay": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "या (yā)",
+        "period": "Vedic",
+        "meaning": "to come"
+      },
+      {
+        "language": "Marathi",
+        "form": "येणे",
+        "period": "Modern",
+        "meaning": "to come"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit yā."
+  },
+  "word_mr_khay": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "खाद् (khād)",
+        "period": "Vedic",
+        "meaning": "to eat"
+      },
+      {
+        "language": "Marathi",
+        "form": "खाणे",
+        "period": "Modern",
+        "meaning": "to eat"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit khād."
+  },
+  "word_mr_peya": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पा (pā)",
+        "period": "Vedic",
+        "meaning": "to drink"
+      },
+      {
+        "language": "Marathi",
+        "form": "पिणे",
+        "period": "Modern",
+        "meaning": "to drink"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit pā."
+  },
+  "word_mr_pahay": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पश्यति (paśyati)",
+        "period": "Vedic",
+        "meaning": "to see"
+      },
+      {
+        "language": "Marathi",
+        "form": "पाहणे",
+        "period": "Modern",
+        "meaning": "to see"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit paśyati."
+  },
+  "word_mr_aikay": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "श्रु (śru)",
+        "period": "Vedic",
+        "meaning": "to hear"
+      },
+      {
+        "language": "Marathi",
+        "form": "ऐकणे",
+        "period": "Modern",
+        "meaning": "to hear"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit śru."
+  },
+  "word_mr_bolay": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वद् (vad)",
+        "period": "Vedic",
+        "meaning": "to speak"
+      },
+      {
+        "language": "Marathi",
+        "form": "बोलणे",
+        "period": "Modern",
+        "meaning": "to speak"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit vad."
+  },
+  "word_mr_wachay": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पठ् (paṭh)",
+        "period": "Vedic",
+        "meaning": "to read, recite"
+      },
+      {
+        "language": "Marathi",
+        "form": "वाचणे",
+        "period": "Modern",
+        "meaning": "to read"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit paṭh."
+  },
+  "word_mr_lihay": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "लिख् (likh)",
+        "period": "Vedic",
+        "meaning": "to write"
+      },
+      {
+        "language": "Marathi",
+        "form": "लिहिणे",
+        "period": "Modern",
+        "meaning": "to write"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit likh."
+  },
+  "word_mr_day": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "दा (dā)",
+        "period": "Vedic",
+        "meaning": "to give"
+      },
+      {
+        "language": "Marathi",
+        "form": "देणे",
+        "period": "Modern",
+        "meaning": "to give"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit dā."
+  },
+  "word_mr_ghey": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "ग्रह् (grah)",
+        "period": "Vedic",
+        "meaning": "to seize, take"
+      },
+      {
+        "language": "Marathi",
+        "form": "घेणे",
+        "period": "Modern",
+        "meaning": "to take"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit grah."
+  },
+  "word_mr_zop": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "स्वप् (svap)",
+        "period": "Vedic",
+        "meaning": "to sleep"
+      },
+      {
+        "language": "Marathi",
+        "form": "झोपणे",
+        "period": "Modern",
+        "meaning": "to sleep"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit svap."
+  },
+  "word_mr_zagay": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "जागृति (jāgṛti)",
+        "period": "Vedic",
+        "meaning": "to wake"
+      },
+      {
+        "language": "Marathi",
+        "form": "जागणे",
+        "period": "Modern",
+        "meaning": "to wake up"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit jāgṛ."
+  },
+  "word_mr_basay": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "विश् (viś)",
+        "period": "Vedic",
+        "meaning": "to enter, sit"
+      },
+      {
+        "language": "Marathi",
+        "form": "बसणे",
+        "period": "Modern",
+        "meaning": "to sit"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit viś."
+  },
+  "word_mr_ubharay": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "स्था (sthā)",
+        "period": "Vedic",
+        "meaning": "to stand"
+      },
+      {
+        "language": "Marathi",
+        "form": "उभे राहणे",
+        "period": "Modern",
+        "meaning": "to stand up"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit sthā."
+  },
+  "word_mr_chaalay": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "चर् (car)",
+        "period": "Vedic",
+        "meaning": "to move, walk"
+      },
+      {
+        "language": "Marathi",
+        "form": "चालणे",
+        "period": "Modern",
+        "meaning": "to walk"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit car."
+  },
+  "word_mr_dhaway": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "धाव् (dhāv)",
+        "period": "Vedic",
+        "meaning": "to run"
+      },
+      {
+        "language": "Marathi",
+        "form": "धावणे",
+        "period": "Modern",
+        "meaning": "to run"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit dhāv."
+  },
+  "word_mr_hasay": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "हस् (has)",
+        "period": "Vedic",
+        "meaning": "to laugh"
+      },
+      {
+        "language": "Marathi",
+        "form": "हसणे",
+        "period": "Modern",
+        "meaning": "to laugh"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit has."
+  },
+  "word_mr_raday": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "रुद् (rud)",
+        "period": "Vedic",
+        "meaning": "to weep"
+      },
+      {
+        "language": "Marathi",
+        "form": "रडणे",
+        "period": "Modern",
+        "meaning": "to cry"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit rud."
+  },
+  "word_mr_samjhay": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "सम्-ज्ञा (sam-jñā)",
+        "period": "Vedic",
+        "meaning": "to understand"
+      },
+      {
+        "language": "Marathi",
+        "form": "समजणे",
+        "period": "Modern",
+        "meaning": "to understand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit sam-√jñā."
+  },
+  "word_mr_pahijay": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "इष् (iṣ)",
+        "period": "Vedic",
+        "meaning": "to wish"
+      },
+      {
+        "language": "Marathi",
+        "form": "पाहिजे",
+        "period": "Modern",
+        "meaning": "to want"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit iṣ (desire). 'पाहिजे' means 'is wanted'."
+  },
+  "word_mr_prem_karay": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "प्रेम (prema)",
+        "period": "Classical",
+        "meaning": "love"
+      },
+      {
+        "language": "Marathi",
+        "form": "प्रेम करणे",
+        "period": "Modern",
+        "meaning": "to love"
+      }
+    ],
+    "cognates": [],
+    "notes": "प्रेम (love) + करणे (do)."
+  },
+  "word_mr_kaam_karay": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कर्म (karma)",
+        "period": "Vedic",
+        "meaning": "work, deed"
+      },
+      {
+        "language": "Marathi",
+        "form": "काम करणे",
+        "period": "Modern",
+        "meaning": "to work"
+      }
+    ],
+    "cognates": [],
+    "notes": "काम (work) + करणे (do)."
+  }
+}

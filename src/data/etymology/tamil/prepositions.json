@@ -1,0 +1,202 @@
+{
+  "word_ta_ulle": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "உள் (uḷ)",
+        "period": "Sangam",
+        "meaning": "inside"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "உள்ளே",
+        "period": "Modern",
+        "meaning": "in"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil uḷ."
+  },
+  "word_ta_ku": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "க்கு (-kku)",
+        "period": "Sangam",
+        "meaning": "to (dative suffix)"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "க்கு",
+        "period": "Modern",
+        "meaning": "to"
+      }
+    ],
+    "cognates": [],
+    "notes": "Tamil dative case suffix."
+  },
+  "word_ta_irundhu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "இருந்து (iruntu)",
+        "period": "Sangam",
+        "meaning": "from"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "இருந்து",
+        "period": "Modern",
+        "meaning": "from"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil iru (be) + ntu."
+  },
+  "word_ta_udan": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "உடன் (uṭaṉ)",
+        "period": "Sangam",
+        "meaning": "with"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "உடன்",
+        "period": "Modern",
+        "meaning": "with"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil uṭaṉ."
+  },
+  "word_ta_kaga": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "க்காக (-kāka)",
+        "period": "Medieval",
+        "meaning": "for"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "க்காக",
+        "period": "Modern",
+        "meaning": "for"
+      }
+    ],
+    "cognates": [],
+    "notes": "Tamil dative-benefactive suffix."
+  },
+  "word_ta_patthi": {
+    "languageOrigin": "Tamil/Sanskrit",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पक्ष (pakṣa)",
+        "period": "Classical",
+        "meaning": "side, about"
+      },
+      {
+        "language": "Tamil",
+        "form": "பற்றி (paṟṟi)",
+        "period": "Medieval",
+        "meaning": "about"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil paṟṟu (hold/grasp) + i."
+  },
+  "word_ta_illai": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "இல்லாமல் (illāmal)",
+        "period": "Sangam",
+        "meaning": "without"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "இல்லாமல்",
+        "period": "Modern",
+        "meaning": "without"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil illai (not) + āmal."
+  },
+  "word_ta_mun": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "முன் (muṉ)",
+        "period": "Sangam",
+        "meaning": "before"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "முன்",
+        "period": "Modern",
+        "meaning": "before"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil muṉ."
+  },
+  "word_ta_pin": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "பின் (piṉ)",
+        "period": "Sangam",
+        "meaning": "after"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "பின்",
+        "period": "Modern",
+        "meaning": "after"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil piṉ."
+  },
+  "word_ta_mel": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "மேல் (mēl)",
+        "period": "Sangam",
+        "meaning": "above"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "மேலே",
+        "period": "Modern",
+        "meaning": "on top of"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil mēl."
+  }
+}

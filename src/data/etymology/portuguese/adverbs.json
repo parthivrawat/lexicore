@@ -1,0 +1,302 @@
+{
+  "word_pt_muito": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "multum",
+        "period": "Classical",
+        "meaning": "much"
+      },
+      {
+        "language": "Portuguese",
+        "form": "muito",
+        "period": "Medieval",
+        "meaning": "very"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Spanish",
+        "word": "mucho",
+        "meaning": "much"
+      }
+    ],
+    "notes": "From Latin 'multum'."
+  },
+  "word_pt_tambem": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "tamen + bene",
+        "period": "Classical",
+        "meaning": "also"
+      },
+      {
+        "language": "Portuguese",
+        "form": "também",
+        "period": "Medieval",
+        "meaning": "also"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'tan bem' (so well)."
+  },
+  "word_pt_somente": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sub-mente",
+        "period": "Classical",
+        "meaning": "only, alone"
+      },
+      {
+        "language": "Portuguese",
+        "form": "somente",
+        "period": "Medieval",
+        "meaning": "only"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'só' (only) + '-mente'."
+  },
+  "word_pt_sempre": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "semper",
+        "period": "Classical",
+        "meaning": "always"
+      },
+      {
+        "language": "Portuguese",
+        "form": "sempre",
+        "period": "Medieval",
+        "meaning": "always"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'semper'."
+  },
+  "word_pt_nunca": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "numquam",
+        "period": "Classical",
+        "meaning": "never"
+      },
+      {
+        "language": "Portuguese",
+        "form": "nunca",
+        "period": "Medieval",
+        "meaning": "never"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'numquam'."
+  },
+  "word_pt_as_vezes": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ad vices",
+        "period": "Classical",
+        "meaning": "at times"
+      },
+      {
+        "language": "Portuguese",
+        "form": "às vezes",
+        "period": "Medieval",
+        "meaning": "sometimes"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'at times'. 'Vez' from Latin 'vice'."
+  },
+  "word_pt_muitas_vezes": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "multa vice",
+        "period": "Classical",
+        "meaning": "many times"
+      },
+      {
+        "language": "Portuguese",
+        "form": "muitas vezes",
+        "period": "Medieval",
+        "meaning": "often"
+      }
+    ],
+    "cognates": [],
+    "notes": "Many times."
+  },
+  "word_pt_agora": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "hac hora",
+        "period": "Late Latin",
+        "meaning": "this hour"
+      },
+      {
+        "language": "Portuguese",
+        "form": "agora",
+        "period": "Medieval",
+        "meaning": "now"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'hac hora'."
+  },
+  "word_pt_depois": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "post",
+        "period": "Classical",
+        "meaning": "after"
+      },
+      {
+        "language": "Portuguese",
+        "form": "depois",
+        "period": "Medieval",
+        "meaning": "later"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'de ex' + 'post'."
+  },
+  "word_pt_ontem": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "heri",
+        "period": "Classical",
+        "meaning": "yesterday"
+      },
+      {
+        "language": "Portuguese",
+        "form": "ontem",
+        "period": "Medieval",
+        "meaning": "yesterday"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'heri'."
+  },
+  "word_pt_amanha": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "mane",
+        "period": "Classical",
+        "meaning": "in the morning"
+      },
+      {
+        "language": "Portuguese",
+        "form": "amanhã",
+        "period": "Medieval",
+        "meaning": "tomorrow"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'mane' (morning)."
+  },
+  "word_pt_ja": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "iam",
+        "period": "Classical",
+        "meaning": "already"
+      },
+      {
+        "language": "Portuguese",
+        "form": "já",
+        "period": "Medieval",
+        "meaning": "already"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'iam'."
+  },
+  "word_pt_ainda_nao": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Portuguese",
+        "form": "ainda não",
+        "period": "Medieval",
+        "meaning": "not yet"
+      }
+    ],
+    "cognates": [],
+    "notes": "ainda (still) + não (not)."
+  },
+  "word_pt_talvez": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "talis",
+        "period": "Classical",
+        "meaning": "such"
+      },
+      {
+        "language": "Portuguese",
+        "form": "talvez",
+        "period": "Medieval",
+        "meaning": "maybe"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'tal vez' (such a time)."
+  },
+  "word_pt_claro": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "clarus",
+        "period": "Classical",
+        "meaning": "clear"
+      },
+      {
+        "language": "Portuguese",
+        "form": "claro",
+        "period": "Medieval",
+        "meaning": "clear, certainly"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'clarus'."
+  }
+}

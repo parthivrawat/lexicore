@@ -1,0 +1,402 @@
+{
+  "word_yue_jan4": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "人",
+        "period": "c. 7th century CE",
+        "meaning": "person"
+      },
+      {
+        "language": "Cantonese",
+        "form": "人 (jan4)",
+        "period": "Modern",
+        "meaning": "person"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 人 (nyin)."
+  },
+  "word_yue_zai2": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "仔",
+        "period": "c. 7th century CE",
+        "meaning": "child"
+      },
+      {
+        "language": "Cantonese",
+        "form": "仔 (zai2)",
+        "period": "Modern",
+        "meaning": "child"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 仔 (tseiX)."
+  },
+  "word_yue_uk1": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "屋",
+        "period": "c. 7th century CE",
+        "meaning": "house"
+      },
+      {
+        "language": "Cantonese",
+        "form": "屋 (uk1)",
+        "period": "Modern",
+        "meaning": "house"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 屋 (ʔuwk)."
+  },
+  "word_yue_seoi2": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "水",
+        "period": "c. 7th century CE",
+        "meaning": "water"
+      },
+      {
+        "language": "Cantonese",
+        "form": "水 (seoi2)",
+        "period": "Modern",
+        "meaning": "water"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 水 (śyjX)."
+  },
+  "word_yue_sik6_maat6": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "食物",
+        "period": "c. 7th century CE",
+        "meaning": "food"
+      },
+      {
+        "language": "Cantonese",
+        "form": "食物 (sik6 mat6)",
+        "period": "Modern",
+        "meaning": "food"
+      }
+    ],
+    "cognates": [],
+    "notes": "sik6 (eat) + mat6 (thing)."
+  },
+  "word_yue_si4_gaan3": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "時間",
+        "period": "c. 7th century CE",
+        "meaning": "time"
+      },
+      {
+        "language": "Cantonese",
+        "form": "時間 (si4 gaan3)",
+        "period": "Modern",
+        "meaning": "time"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 時間."
+  },
+  "word_yue_jat6": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "日",
+        "period": "c. 7th century CE",
+        "meaning": "day, sun"
+      },
+      {
+        "language": "Cantonese",
+        "form": "日 (jat6)",
+        "period": "Modern",
+        "meaning": "day"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 日 (nyit)."
+  },
+  "word_yue_nin4": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "年",
+        "period": "c. 7th century CE",
+        "meaning": "year"
+      },
+      {
+        "language": "Cantonese",
+        "form": "年 (nin4)",
+        "period": "Modern",
+        "meaning": "year"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 年 (nen)."
+  },
+  "word_yue_sau2": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "手",
+        "period": "c. 7th century CE",
+        "meaning": "hand"
+      },
+      {
+        "language": "Cantonese",
+        "form": "手 (sau2)",
+        "period": "Modern",
+        "meaning": "hand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 手 (śjuwX)."
+  },
+  "word_yue_ngaan5": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "眼",
+        "period": "c. 7th century CE",
+        "meaning": "eye"
+      },
+      {
+        "language": "Cantonese",
+        "form": "眼 (ngaan5)",
+        "period": "Modern",
+        "meaning": "eye"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 眼 (ŋɛnX)."
+  },
+  "word_yue_tau4": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "頭",
+        "period": "c. 7th century CE",
+        "meaning": "head"
+      },
+      {
+        "language": "Cantonese",
+        "form": "頭 (tau4)",
+        "period": "Modern",
+        "meaning": "head"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 頭 (duw)."
+  },
+  "word_yue_syut3": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "書",
+        "period": "c. 7th century CE",
+        "meaning": "book"
+      },
+      {
+        "language": "Cantonese",
+        "form": "書 (syu1)",
+        "period": "Modern",
+        "meaning": "book"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 書 (śjo)."
+  },
+  "word_yue_mun4": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "門",
+        "period": "c. 7th century CE",
+        "meaning": "door, gate"
+      },
+      {
+        "language": "Cantonese",
+        "form": "門 (mun4)",
+        "period": "Modern",
+        "meaning": "door"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 門 (mwon)."
+  },
+  "word_yue_gaai1": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "街",
+        "period": "c. 7th century CE",
+        "meaning": "street"
+      },
+      {
+        "language": "Cantonese",
+        "form": "街 (gaai1)",
+        "period": "Modern",
+        "meaning": "street"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 街 (kɛ)."
+  },
+  "word_yue_sing4": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "城",
+        "period": "c. 7th century CE",
+        "meaning": "city wall, city"
+      },
+      {
+        "language": "Cantonese",
+        "form": "城 (sing4)",
+        "period": "Modern",
+        "meaning": "city"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 城 (dzyeng)."
+  },
+  "word_yue_gwok3": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "國",
+        "period": "c. 7th century CE",
+        "meaning": "country"
+      },
+      {
+        "language": "Cantonese",
+        "form": "國 (gwok3)",
+        "period": "Modern",
+        "meaning": "country"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 國 (kwək)."
+  },
+  "word_yue_hok6_haau6": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "學校",
+        "period": "c. 7th century CE",
+        "meaning": "school"
+      },
+      {
+        "language": "Cantonese",
+        "form": "學校 (hok6 haau6)",
+        "period": "Modern",
+        "meaning": "school"
+      }
+    ],
+    "cognates": [],
+    "notes": "hok6 (learn) + haau6 (school)."
+  },
+  "word_yue_pang4_jau5": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "朋友",
+        "period": "c. 7th century CE",
+        "meaning": "friend"
+      },
+      {
+        "language": "Cantonese",
+        "form": "朋友 (pang4 jau5)",
+        "period": "Modern",
+        "meaning": "friend"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 朋友."
+  },
+  "word_yue_gaa1_ting4": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "家庭",
+        "period": "c. 7th century CE",
+        "meaning": "family"
+      },
+      {
+        "language": "Cantonese",
+        "form": "家庭 (gaa1 ting4)",
+        "period": "Modern",
+        "meaning": "family"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 家庭."
+  },
+  "word_yue_meng2": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "名",
+        "period": "c. 7th century CE",
+        "meaning": "name"
+      },
+      {
+        "language": "Cantonese",
+        "form": "名 (meng4)",
+        "period": "Modern",
+        "meaning": "name"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 名 (mjɛŋ)."
+  }
+}

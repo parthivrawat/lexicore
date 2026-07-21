@@ -1,0 +1,382 @@
+{
+  "word_ru_ya": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*azŭ",
+        "period": "c. 500 CE",
+        "meaning": "I"
+      },
+      {
+        "language": "Old Russian",
+        "form": "азъ",
+        "period": "Medieval",
+        "meaning": "I"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "I",
+        "meaning": "I"
+      }
+    ],
+    "notes": "PIE *éǵh₂ (I). Modern 'я' from unstressed/shortening of 'азъ'."
+  },
+  "word_ru_ty": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*ty",
+        "period": "c. 500 CE",
+        "meaning": "you"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "tu",
+        "meaning": "you"
+      }
+    ],
+    "notes": "PIE *túh₂ (you)."
+  },
+  "word_ru_vy": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 18th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "вы",
+        "period": "Medieval",
+        "meaning": "you (pl.)"
+      },
+      {
+        "language": "Russian",
+        "form": "вы",
+        "period": "Modern",
+        "meaning": "you (formal)"
+      }
+    ],
+    "cognates": [],
+    "notes": "Originally plural 'you'. Used as formal singular."
+  },
+  "word_ru_on": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*onŭ",
+        "period": "c. 500 CE",
+        "meaning": "he"
+      }
+    ],
+    "cognates": [],
+    "notes": "PIE *h₂en- (that) or *an-?"
+  },
+  "word_ru_ona": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*ona",
+        "period": "c. 500 CE",
+        "meaning": "she"
+      }
+    ],
+    "cognates": [],
+    "notes": "Feminine of 'он'."
+  },
+  "word_ru_my": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*my",
+        "period": "c. 500 CE",
+        "meaning": "we"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "we",
+        "meaning": "we"
+      }
+    ],
+    "notes": "PIE *wéy (we)."
+  },
+  "word_ru_oni": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*oni",
+        "period": "c. 500 CE",
+        "meaning": "they"
+      }
+    ],
+    "cognates": [],
+    "notes": "Plural of 'он'."
+  },
+  "word_ru_eto": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "сє",
+        "period": "Medieval",
+        "meaning": "this"
+      }
+    ],
+    "cognates": [],
+    "notes": "Neuter nominative of 'этот'. From Old Church Slavonic 'сє' (this)."
+  },
+  "word_ru_to": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*to",
+        "period": "c. 500 CE",
+        "meaning": "that"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "is/tālis",
+        "meaning": "that"
+      }
+    ],
+    "notes": "Demonstrative and relative pronoun."
+  },
+  "word_ru_chto": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*čьto",
+        "period": "c. 500 CE",
+        "meaning": "what"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "quid",
+        "meaning": "what"
+      }
+    ],
+    "notes": "PIE *kʷid (what)."
+  },
+  "word_ru_kto": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*kъto",
+        "period": "c. 500 CE",
+        "meaning": "who"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "quis",
+        "meaning": "who"
+      }
+    ],
+    "notes": "PIE *kʷis (who)."
+  },
+  "word_ru_gde": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*kъde",
+        "period": "c. 500 CE",
+        "meaning": "where"
+      }
+    ],
+    "cognates": [],
+    "notes": "Interrogative of place."
+  },
+  "word_ru_kogda": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "когда",
+        "period": "Medieval",
+        "meaning": "when"
+      }
+    ],
+    "cognates": [],
+    "notes": "ко (when?) + гда (when). 'When'."
+  },
+  "word_ru_pochemu": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 15th century",
+    "timeline": [
+      {
+        "language": "Russian",
+        "form": "почему",
+        "period": "Medieval",
+        "meaning": "why"
+      }
+    ],
+    "cognates": [],
+    "notes": "по (by) + чему (what dative). 'By what'."
+  },
+  "word_ru_kak": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*kako",
+        "period": "c. 500 CE",
+        "meaning": "how"
+      }
+    ],
+    "cognates": [],
+    "notes": "Interrogative of manner."
+  },
+  "word_ru_i": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*i",
+        "period": "c. 500 CE",
+        "meaning": "and"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "et",
+        "meaning": "and"
+      }
+    ],
+    "notes": "PIE *-i (and)."
+  },
+  "word_ru_ili": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*ili",
+        "period": "c. 500 CE",
+        "meaning": "or"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'и' (and) + 'ли' (whether). 'Or'."
+  },
+  "word_ru_no": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*no",
+        "period": "c. 500 CE",
+        "meaning": "but"
+      }
+    ],
+    "cognates": [],
+    "notes": "PIE *no (but, now)."
+  },
+  "word_ru_esli": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "аще",
+        "period": "Medieval",
+        "meaning": "if"
+      },
+      {
+        "language": "Russian",
+        "form": "если",
+        "period": "Modern",
+        "meaning": "if"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'есть ли' (is it?). 'If'."
+  },
+  "word_ru_potomu_chto": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Russian",
+        "form": "потому что",
+        "period": "Modern",
+        "meaning": "because"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'therefore that' = because."
+  },
+  "word_ru_net": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "нѣтъ",
+        "period": "Medieval",
+        "meaning": "there is not, no"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "ne",
+        "meaning": "not"
+      }
+    ],
+    "notes": "Contraction of 'не есть' (is not)."
+  },
+  "word_ru_da": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*da",
+        "period": "c. 500 CE",
+        "meaning": "yes, give"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "da",
+        "meaning": "give"
+      }
+    ],
+    "notes": "PIE *deh₃- (to give). Used as 'yes'."
+  }
+}

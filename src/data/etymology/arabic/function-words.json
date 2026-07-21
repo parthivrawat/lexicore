@@ -1,0 +1,472 @@
+{
+  "word_ar_ana": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*ʔanā",
+        "period": "c. 3000 BCE",
+        "meaning": "I"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "أنا",
+        "period": "Pre-Islamic era",
+        "meaning": "I"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "אני (ani)",
+        "meaning": "I"
+      }
+    ],
+    "notes": "First person singular pronoun."
+  },
+  "word_ar_anta": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*ʔanta",
+        "period": "c. 3000 BCE",
+        "meaning": "you (m.)"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "أنت",
+        "period": "Pre-Islamic era",
+        "meaning": "you"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "אתה (atah)",
+        "meaning": "you (m.)"
+      }
+    ],
+    "notes": "Second person singular masculine pronoun."
+  },
+  "word_ar_anti": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*ʔanti",
+        "period": "c. 3000 BCE",
+        "meaning": "you (f.)"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "أنت",
+        "period": "Pre-Islamic era",
+        "meaning": "you (f.)"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "את (at)",
+        "meaning": "you (f.)"
+      }
+    ],
+    "notes": "Second person singular feminine pronoun."
+  },
+  "word_ar_huwa": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*huwa",
+        "period": "c. 3000 BCE",
+        "meaning": "he"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "هو",
+        "period": "Pre-Islamic era",
+        "meaning": "he"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "הוא (hu)",
+        "meaning": "he"
+      }
+    ],
+    "notes": "Third person singular masculine pronoun."
+  },
+  "word_ar_hiya": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*hiya",
+        "period": "c. 3000 BCE",
+        "meaning": "she"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "هي",
+        "period": "Pre-Islamic era",
+        "meaning": "she"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "היא (hi)",
+        "meaning": "she"
+      }
+    ],
+    "notes": "Third person singular feminine pronoun."
+  },
+  "word_ar_nahnu": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*naḥnu",
+        "period": "c. 3000 BCE",
+        "meaning": "we"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "نحن",
+        "period": "Pre-Islamic era",
+        "meaning": "we"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "אנחנו (anachnu)",
+        "meaning": "we"
+      }
+    ],
+    "notes": "First person plural pronoun."
+  },
+  "word_ar_hum": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*hum",
+        "period": "c. 3000 BCE",
+        "meaning": "they (m.)"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "هم",
+        "period": "Pre-Islamic era",
+        "meaning": "they"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "הם (hem)",
+        "meaning": "they (m.)"
+      }
+    ],
+    "notes": "Third person plural masculine pronoun."
+  },
+  "word_ar_hadha": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*ḏā",
+        "period": "c. 3000 BCE",
+        "meaning": "this"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "هذا",
+        "period": "Pre-Islamic era",
+        "meaning": "this"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "זה (zeh)",
+        "meaning": "this"
+      }
+    ],
+    "notes": "Demonstrative pronoun (masculine)."
+  },
+  "word_ar_dhalika": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "ذلك",
+        "period": "Pre-Islamic era",
+        "meaning": "that"
+      }
+    ],
+    "cognates": [],
+    "notes": "Demonstrative pronoun (masculine). Compound form."
+  },
+  "word_ar_ma": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*mā",
+        "period": "c. 3000 BCE",
+        "meaning": "what"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "ما",
+        "period": "Pre-Islamic era",
+        "meaning": "what"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "מה (mah)",
+        "meaning": "what"
+      }
+    ],
+    "notes": "Interrogative pronoun."
+  },
+  "word_ar_man": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*man",
+        "period": "c. 3000 BCE",
+        "meaning": "who"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "من",
+        "period": "Pre-Islamic era",
+        "meaning": "who"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "מי (mi)",
+        "meaning": "who"
+      }
+    ],
+    "notes": "Interrogative pronoun for persons."
+  },
+  "word_ar_ayna": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*ʔayn-",
+        "period": "c. 3000 BCE",
+        "meaning": "where"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "أين",
+        "period": "Pre-Islamic era",
+        "meaning": "where"
+      }
+    ],
+    "cognates": [],
+    "notes": "Interrogative adverb of place."
+  },
+  "word_ar_mata": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "متى",
+        "period": "Pre-Islamic era",
+        "meaning": "when"
+      }
+    ],
+    "cognates": [],
+    "notes": "Interrogative adverb of time."
+  },
+  "word_ar_limadha": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "لماذا",
+        "period": "Pre-Islamic era",
+        "meaning": "why"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: لـ (for) + ماذا (what). Interrogative."
+  },
+  "word_ar_kayfa": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "كيف",
+        "period": "Pre-Islamic era",
+        "meaning": "how"
+      }
+    ],
+    "cognates": [],
+    "notes": "Interrogative adverb of manner."
+  },
+  "word_ar_wa": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*wa-",
+        "period": "c. 3000 BCE",
+        "meaning": "and"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "و",
+        "period": "Pre-Islamic era",
+        "meaning": "and"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "ו (ve)",
+        "meaning": "and"
+      }
+    ],
+    "notes": "Coordinating conjunction."
+  },
+  "word_ar_aw": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*ʔaw",
+        "period": "c. 3000 BCE",
+        "meaning": "or"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "أو",
+        "period": "Pre-Islamic era",
+        "meaning": "or"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "או (o)",
+        "meaning": "or"
+      }
+    ],
+    "notes": "Disjunctive conjunction."
+  },
+  "word_ar_lakin": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "لكن",
+        "period": "Pre-Islamic era",
+        "meaning": "but"
+      }
+    ],
+    "cognates": [],
+    "notes": "Adversative conjunction."
+  },
+  "word_ar_idha": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "إذا",
+        "period": "Pre-Islamic era",
+        "meaning": "if"
+      }
+    ],
+    "cognates": [],
+    "notes": "Conditional particle."
+  },
+  "word_ar_lianna": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "لأن",
+        "period": "Pre-Islamic era",
+        "meaning": "because"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: لـ (for) + أن (that). Causal conjunction."
+  },
+  "word_ar_la": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*lā",
+        "period": "c. 3000 BCE",
+        "meaning": "no, not"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "لا",
+        "period": "Pre-Islamic era",
+        "meaning": "no"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "לא (lo)",
+        "meaning": "no"
+      }
+    ],
+    "notes": "Negative particle."
+  },
+  "word_ar_naam": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "نعم",
+        "period": "Pre-Islamic era",
+        "meaning": "yes"
+      }
+    ],
+    "cognates": [],
+    "notes": "Affirmative particle. Root ن-ع-م (n-ʕ-m) meaning 'blessing, yes'."
+  }
+}

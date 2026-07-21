@@ -1,0 +1,468 @@
+{
+  "word_el_atomos": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἄτομον (atomon)",
+        "period": "Classical",
+        "meaning": "indivisible, individual"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "άτομο",
+        "period": "Modern",
+        "meaning": "person"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "atom",
+        "meaning": "indivisible particle"
+      }
+    ],
+    "notes": "From Ancient Greek ἄτομον."
+  },
+  "word_el_paidi": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "παιδίον (paidion)",
+        "period": "Classical",
+        "meaning": "child"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "παιδί",
+        "period": "Modern",
+        "meaning": "child"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "pediatric",
+        "meaning": "child-related"
+      }
+    ],
+    "notes": "From Ancient Greek παιδίον."
+  },
+  "word_el_spiti": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Byzantine Greek",
+        "form": "ἑστία (hestia)",
+        "period": "Byzantine",
+        "meaning": "hearth, home"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "σπίτι",
+        "period": "Modern",
+        "meaning": "house"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Byzantine/Neo-Greek 'σπίτι'."
+  },
+  "word_el_nero": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "νερόν (neron)",
+        "period": "Classical",
+        "meaning": "fresh water"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "νερό",
+        "period": "Modern",
+        "meaning": "water"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek νερόν."
+  },
+  "word_el_fagito": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "φάγω (phagō)",
+        "period": "Classical",
+        "meaning": "I will eat"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "φαγητό",
+        "period": "Modern",
+        "meaning": "food"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek φαγεῖν (to eat)."
+  },
+  "word_el_ora": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ὥρα (hōra)",
+        "period": "Classical",
+        "meaning": "hour, season"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "ώρα",
+        "period": "Modern",
+        "meaning": "time"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "hour",
+        "meaning": "hour"
+      }
+    ],
+    "notes": "From Ancient Greek ὥρα."
+  },
+  "word_el_mera": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἡμέρα (hēmera)",
+        "period": "Classical",
+        "meaning": "day"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "μέρα",
+        "period": "Modern",
+        "meaning": "day"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ἡμέρα."
+  },
+  "word_el_chronos": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "χρόνος (chronos)",
+        "period": "Classical",
+        "meaning": "time, year"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "χρόνος",
+        "period": "Modern",
+        "meaning": "year"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "chronic",
+        "meaning": "long-lasting"
+      }
+    ],
+    "notes": "From Ancient Greek χρόνος."
+  },
+  "word_el_cheri": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "χείρ (cheir)",
+        "period": "Classical",
+        "meaning": "hand"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "χέρι",
+        "period": "Modern",
+        "meaning": "hand"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "chiropractic",
+        "meaning": "hand treatment"
+      }
+    ],
+    "notes": "From Ancient Greek χείρ."
+  },
+  "word_el_mati": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ὄμμα (omma)",
+        "period": "Classical",
+        "meaning": "eye"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "μάτι",
+        "period": "Modern",
+        "meaning": "eye"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ὄμμα/μάτιον."
+  },
+  "word_el_kefali": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "κεφαλή (kephalē)",
+        "period": "Classical",
+        "meaning": "head"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "κεφάλι",
+        "period": "Modern",
+        "meaning": "head"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "cephalic",
+        "meaning": "of the head"
+      }
+    ],
+    "notes": "From Ancient Greek κεφαλή."
+  },
+  "word_el_vivlio": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "βιβλίον (biblion)",
+        "period": "Classical",
+        "meaning": "book, scroll"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "βιβλίο",
+        "period": "Modern",
+        "meaning": "book"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "Bible",
+        "meaning": "the book"
+      }
+    ],
+    "notes": "From Ancient Greek βιβλίον."
+  },
+  "word_el_porta": {
+    "languageOrigin": "Latin/Greek",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "porta",
+        "period": "Classical",
+        "meaning": "gate, door"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "πόρτα",
+        "period": "Modern",
+        "meaning": "door"
+      }
+    ],
+    "cognates": [],
+    "notes": "Borrowed from Latin 'porta'."
+  },
+  "word_el_dromos": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "δρόμος (dromos)",
+        "period": "Classical",
+        "meaning": "running, road"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "δρόμος",
+        "period": "Modern",
+        "meaning": "street"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek δρόμος."
+  },
+  "word_el_poli": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "πόλις (polis)",
+        "period": "Classical",
+        "meaning": "city-state"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "πόλη",
+        "period": "Modern",
+        "meaning": "city"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "police",
+        "meaning": "city affairs"
+      }
+    ],
+    "notes": "From Ancient Greek πόλις."
+  },
+  "word_el_chora": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "χώρα (chōra)",
+        "period": "Classical",
+        "meaning": "land, country"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "χώρα",
+        "period": "Modern",
+        "meaning": "country"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek χώρα."
+  },
+  "word_el_scholeio": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "σχολεῖον (scholeion)",
+        "period": "Classical",
+        "meaning": "school"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "σχολείο",
+        "period": "Modern",
+        "meaning": "school"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "school",
+        "meaning": "school"
+      }
+    ],
+    "notes": "From Ancient Greek σχολεῖον."
+  },
+  "word_el_filos": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "φίλος (philos)",
+        "period": "Classical",
+        "meaning": "friend, beloved"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "φίλος",
+        "period": "Modern",
+        "meaning": "friend"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "philosophy",
+        "meaning": "love of wisdom"
+      }
+    ],
+    "notes": "From Ancient Greek φίλος."
+  },
+  "word_el_oikogeneia": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "οἰκογένεια (oikogeneia)",
+        "period": "Classical",
+        "meaning": "family"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "οικογένεια",
+        "period": "Modern",
+        "meaning": "family"
+      }
+    ],
+    "cognates": [],
+    "notes": "οἶκος (house) + γένος (race)."
+  },
+  "word_el_onoma": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ὄνομα (onoma)",
+        "period": "Classical",
+        "meaning": "name"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "όνομα",
+        "period": "Modern",
+        "meaning": "name"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "onomastics",
+        "meaning": "study of names"
+      }
+    ],
+    "notes": "From Ancient Greek ὄνομα."
+  }
+}

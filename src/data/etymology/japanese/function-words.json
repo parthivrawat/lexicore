@@ -1,0 +1,302 @@
+{
+  "word_ja_watashi": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "私 (watakushi)",
+        "period": "Heian",
+        "meaning": "I, private"
+      },
+      {
+        "language": "Modern Japanese",
+        "form": "私 (watashi)",
+        "period": "Modern",
+        "meaning": "I"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'watakushi' (private) shortened to 'watashi'. Gender-neutral polite."
+  },
+  "word_ja_anata": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "貴方 (anata)",
+        "period": "Heian",
+        "meaning": "you, that direction"
+      }
+    ],
+    "cognates": [],
+    "notes": "貴 (honorable) + 方 (direction/person). 'You'."
+  },
+  "word_ja_kare": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "彼 (kare)",
+        "period": "Heian",
+        "meaning": "he, that one"
+      }
+    ],
+    "cognates": [],
+    "notes": "Originally 'that (person/thing)'. Now 'he'."
+  },
+  "word_ja_kanojo": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 19th century",
+    "timeline": [
+      {
+        "language": "Japanese",
+        "form": "彼女 (kanojo)",
+        "period": "Meiji era",
+        "meaning": "she"
+      }
+    ],
+    "cognates": [],
+    "notes": "彼 (he) + 女 (woman). 'She'."
+  },
+  "word_ja_watashitachi": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "私達 (watakushi-tachi)",
+        "period": "Heian",
+        "meaning": "we"
+      }
+    ],
+    "cognates": [],
+    "notes": "私 (I) + 達 (tachi, plural)."
+  },
+  "word_ja_karera": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 19th century",
+    "timeline": [
+      {
+        "language": "Japanese",
+        "form": "彼ら (karera)",
+        "period": "Meiji era",
+        "meaning": "they"
+      }
+    ],
+    "cognates": [],
+    "notes": "彼 (he) + ら (plural)."
+  },
+  "word_ja_kore": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "此れ (kore)",
+        "period": "Nara",
+        "meaning": "this"
+      }
+    ],
+    "cognates": [],
+    "notes": "Demonstrative 'this' (near speaker)."
+  },
+  "word_ja_sore": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "其れ (sore)",
+        "period": "Nara",
+        "meaning": "that"
+      }
+    ],
+    "cognates": [],
+    "notes": "Demonstrative 'that' (near listener)."
+  },
+  "word_ja_nani": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "何 (nani)",
+        "period": "Nara",
+        "meaning": "what"
+      }
+    ],
+    "cognates": [],
+    "notes": "Interrogative 'what'."
+  },
+  "word_ja_dare": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "誰 (tare/dare)",
+        "period": "Nara",
+        "meaning": "who"
+      }
+    ],
+    "cognates": [],
+    "notes": "Interrogative 'who'."
+  },
+  "word_ja_doko": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "何処 (doko)",
+        "period": "Nara",
+        "meaning": "where"
+      }
+    ],
+    "cognates": [],
+    "notes": "何 (what) + 処 (place)."
+  },
+  "word_ja_itsu": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "何時 (itsu)",
+        "period": "Nara",
+        "meaning": "when"
+      }
+    ],
+    "cognates": [],
+    "notes": "何 (what) + 時 (time)."
+  },
+  "word_ja_naze": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "何故 (naze)",
+        "period": "Heian",
+        "meaning": "why"
+      }
+    ],
+    "cognates": [],
+    "notes": "何 (what) + 故 (reason). 'Why'."
+  },
+  "word_ja_dou": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "如何 (ikaga/dō)",
+        "period": "Nara",
+        "meaning": "how, in what way"
+      }
+    ],
+    "cognates": [],
+    "notes": "Interrogative 'how'."
+  },
+  "word_ja_to": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "と (to)",
+        "period": "Nara",
+        "meaning": "and, with"
+      }
+    ],
+    "cognates": [],
+    "notes": "Conjunctive/quotative particle."
+  },
+  "word_ja_ka": {
+    "languageOrigin": "Old Japanese",
+    "yearOfOrigin": "c. 8th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "か (ka)",
+        "period": "Nara",
+        "meaning": "or, question"
+      }
+    ],
+    "cognates": [],
+    "notes": "Question/or particle."
+  },
+  "word_ja_demo": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "でも (demo)",
+        "period": "Heian",
+        "meaning": "but, however"
+      }
+    ],
+    "cognates": [],
+    "notes": "Contraction of 'de mo' (even if)."
+  },
+  "word_ja_moshi": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "若し (moshi)",
+        "period": "Heian",
+        "meaning": "if"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'moshikuwa' (if)."
+  },
+  "word_ja_dakara": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Japanese",
+        "form": "だから (dakara)",
+        "period": "Heian",
+        "meaning": "therefore"
+      }
+    ],
+    "cognates": [],
+    "notes": "だ (copula) + から (from). 'That's why'."
+  },
+  "word_ja_iiie": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "否 (iya/īe)",
+        "period": "Heian",
+        "meaning": "no"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'iya' (unpleasant). Polite 'no'."
+  },
+  "word_ja_hai": {
+    "languageOrigin": "Japanese",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Old Japanese",
+        "form": "はい (hai)",
+        "period": "Heian",
+        "meaning": "yes"
+      }
+    ],
+    "cognates": [],
+    "notes": "Polite affirmative. Possibly from 'ha' (to be/yes)."
+  }
+}

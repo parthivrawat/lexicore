@@ -1,0 +1,363 @@
+{
+  "word_ru_chelovek": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*čelověkŭ",
+        "period": "c. 500 CE",
+        "meaning": "human"
+      },
+      {
+        "language": "Old Russian",
+        "form": "человѣкъ",
+        "period": "Medieval",
+        "meaning": "person"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: 'чело' (brow/forehead) + 'век' (age/being). Possibly 'one of the age'."
+  },
+  "word_ru_rebenok": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 15th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "ребенокъ",
+        "period": "Medieval",
+        "meaning": "child, infant"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'ребро' (rib/side) + diminutive '-ёнок'. Originally 'babe, one from the side'."
+  },
+  "word_ru_dom": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*domŭ",
+        "period": "c. 500 CE",
+        "meaning": "house"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "domus",
+        "meaning": "house"
+      },
+      {
+        "language": "Sanskrit",
+        "word": "दमु (damu)",
+        "meaning": "house"
+      }
+    ],
+    "notes": "PIE *dṓm (house)."
+  },
+  "word_ru_voda": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*voda",
+        "period": "c. 500 CE",
+        "meaning": "water"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "water",
+        "meaning": "water"
+      },
+      {
+        "language": "Sanskrit",
+        "word": "उदन् (udan)",
+        "meaning": "water"
+      }
+    ],
+    "notes": "PIE *wódr̥ (water)."
+  },
+  "word_ru_eda": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 16th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "ѣда",
+        "period": "Medieval",
+        "meaning": "food"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'есть' (to eat). Related to 'едок' (eater)."
+  },
+  "word_ru_vremya": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*vrěme",
+        "period": "c. 500 CE",
+        "meaning": "time"
+      }
+    ],
+    "cognates": [],
+    "notes": "Of uncertain origin. PIE? Possibly related to 'vręsti' (to turn)."
+  },
+  "word_ru_den": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*dĭnĭ",
+        "period": "c. 500 CE",
+        "meaning": "day"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "dies",
+        "meaning": "day"
+      },
+      {
+        "language": "Sanskrit",
+        "word": "दिवस (divasa)",
+        "meaning": "day"
+      }
+    ],
+    "notes": "PIE *dyew- (to shine, day)."
+  },
+  "word_ru_god": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*godŭ",
+        "period": "c. 500 CE",
+        "meaning": "year, time, suitable time"
+      }
+    ],
+    "cognates": [],
+    "notes": "Originally 'suitable/favorable time', later 'year'."
+  },
+  "word_ru_ruka": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*roka",
+        "period": "c. 500 CE",
+        "meaning": "hand, arm"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "manus",
+        "meaning": "hand"
+      }
+    ],
+    "notes": "PIE *rewh₁- (to dig/grab)."
+  },
+  "word_ru_glaz": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "глазъ",
+        "period": "Medieval",
+        "meaning": "eye"
+      }
+    ],
+    "cognates": [],
+    "notes": "Inherited from Proto-Slavic *glazъ. Related to 'glass, gleam'."
+  },
+  "word_ru_golova": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*golva",
+        "period": "c. 500 CE",
+        "meaning": "head"
+      }
+    ],
+    "cognates": [],
+    "notes": "Of uncertain origin. Possibly related to 'gola' (bald)."
+  },
+  "word_ru_kniga": {
+    "languageOrigin": "Greek via Gothic/Old Church Slavonic",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Greek",
+        "form": "κιβωτός (kibōtos)",
+        "period": "Ancient",
+        "meaning": "ark, chest"
+      },
+      {
+        "language": "Old Church Slavonic",
+        "form": "кънига",
+        "period": "10th century",
+        "meaning": "book"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Greek 'kibōtos' or related to Germanic 'book'."
+  },
+  "word_ru_dver": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*dveri",
+        "period": "c. 500 CE",
+        "meaning": "door"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Sanskrit",
+        "word": "द्वार (dvāra)",
+        "meaning": "door"
+      }
+    ],
+    "notes": "PIE *dʰwer- (door)."
+  },
+  "word_ru_doroga": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*doroga",
+        "period": "c. 500 CE",
+        "meaning": "road"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'dorog' (dear/valuable) + suffix. 'The valuable way'."
+  },
+  "word_ru_gorod": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*gorodŭ",
+        "period": "c. 500 CE",
+        "meaning": "town, fortified place"
+      }
+    ],
+    "cognates": [],
+    "notes": "Originally 'enclosure/garden' or 'fortified settlement'."
+  },
+  "word_ru_strana": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*strana",
+        "period": "c. 500 CE",
+        "meaning": "side, country"
+      }
+    ],
+    "cognates": [],
+    "notes": "Originally 'side, direction'. Later 'land, country'."
+  },
+  "word_ru_shkola": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Greek",
+        "form": "σχολή (scholē)",
+        "period": "Ancient",
+        "meaning": "leisure, school"
+      },
+      {
+        "language": "Russian",
+        "form": "школа",
+        "period": "Modern",
+        "meaning": "school"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "school",
+        "meaning": "school"
+      }
+    ],
+    "notes": "From Greek 'scholē' via Church Slavonic."
+  },
+  "word_ru_drug": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*drugŭ",
+        "period": "c. 500 CE",
+        "meaning": "friend, companion"
+      }
+    ],
+    "cognates": [],
+    "notes": "PIE *dʰrewg- (companion)."
+  },
+  "word_ru_semya": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*sěmja",
+        "period": "c. 500 CE",
+        "meaning": "seed, family"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "semen",
+        "meaning": "seed"
+      }
+    ],
+    "notes": "PIE *sēmen- (seed). 'Family' via 'seed/clan'."
+  },
+  "word_ru_imya": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*jьmę",
+        "period": "c. 500 CE",
+        "meaning": "name"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "nomen",
+        "meaning": "name"
+      }
+    ],
+    "notes": "PIE *h₁nómn̥ (name)."
+  }
+}

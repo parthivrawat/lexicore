@@ -1,0 +1,220 @@
+{
+  "word_ar_fi": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*fi",
+        "period": "c. 3000 BCE",
+        "meaning": "in"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "في",
+        "period": "Pre-Islamic era",
+        "meaning": "in"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "ב (be)",
+        "meaning": "in"
+      }
+    ],
+    "notes": "Basic locative preposition in Arabic."
+  },
+  "word_ar_ila": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*ʔil-",
+        "period": "c. 3000 BCE",
+        "meaning": "to, towards"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "إلى",
+        "period": "Pre-Islamic era",
+        "meaning": "to"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "אל (el)",
+        "meaning": "to"
+      }
+    ],
+    "notes": "Directional preposition."
+  },
+  "word_ar_min": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*min",
+        "period": "c. 3000 BCE",
+        "meaning": "from"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "من",
+        "period": "Pre-Islamic era",
+        "meaning": "from"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "מן (min)",
+        "meaning": "from"
+      }
+    ],
+    "notes": "Source/origin preposition."
+  },
+  "word_ar_maa": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*ʕim-",
+        "period": "c. 3000 BCE",
+        "meaning": "with"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "مع",
+        "period": "Pre-Islamic era",
+        "meaning": "with"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "עם (im)",
+        "meaning": "with"
+      }
+    ],
+    "notes": "Accompaniment preposition."
+  },
+  "word_ar_li": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*li-",
+        "period": "c. 3000 BCE",
+        "meaning": "to, for"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "لـ",
+        "period": "Pre-Islamic era",
+        "meaning": "for"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "ל (le)",
+        "meaning": "to, for"
+      }
+    ],
+    "notes": "Benefactive/dative preposition."
+  },
+  "word_ar_aan": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "عن",
+        "period": "Pre-Islamic era",
+        "meaning": "about, from"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ع-ن-ي (ʕ-n-y) meaning 'to concern, mean'."
+  },
+  "word_ar_bidun": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "بدون",
+        "period": "Pre-Islamic era",
+        "meaning": "without"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: ب (with) + دون (without). Root د-و-ن (d-w-n)."
+  },
+  "word_ar_qabl": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*qabl-",
+        "period": "c. 3000 BCE",
+        "meaning": "before"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "قبل",
+        "period": "Pre-Islamic era",
+        "meaning": "before"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ق-ب-ل (q-b-l) meaning 'to face, accept'."
+  },
+  "word_ar_baad": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "بعد",
+        "period": "Pre-Islamic era",
+        "meaning": "after"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ب-ع-د (b-ʕ-d) meaning 'distance, remoteness'."
+  },
+  "word_ar_ala": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*ʕal-",
+        "period": "c. 3000 BCE",
+        "meaning": "upon, on"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "على",
+        "period": "Pre-Islamic era",
+        "meaning": "on"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "על (al)",
+        "meaning": "on"
+      }
+    ],
+    "notes": "Locative preposition meaning 'on, upon'."
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "word_pt_ola": {
+    "languageOrigin": "Portuguese",
+    "yearOfOrigin": "c. 14th-16th century",
+    "timeline": [
+      {
+        "language": "Old Portuguese",
+        "form": "olá",
+        "period": "15th century",
+        "meaning": "hello"
+      },
+      {
+        "language": "Modern Portuguese",
+        "form": "olá",
+        "period": "Present",
+        "meaning": "hello"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Spanish",
+        "word": "hola",
+        "meaning": "hello"
+      },
+      {
+        "language": "English",
+        "word": "hello",
+        "meaning": "hello"
+      }
+    ],
+    "notes": "From a maritime/call interjection. Possibly related to 'olhar' (to look)."
+  },
+  "word_pt_bom_dia": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "bonus dies",
+        "period": "Classical",
+        "meaning": "good day"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "bom dia",
+        "period": "Medieval",
+        "meaning": "good morning"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Spanish",
+        "word": "buenos días",
+        "meaning": "good morning"
+      },
+      {
+        "language": "Italian",
+        "word": "buongiorno",
+        "meaning": "good morning"
+      }
+    ],
+    "notes": "From Latin 'bonus dies' (good day)."
+  },
+  "word_pt_adeus": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ad deum",
+        "period": "Classical",
+        "meaning": "to God"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "adeus",
+        "period": "Medieval",
+        "meaning": "goodbye"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Spanish",
+        "word": "adiós",
+        "meaning": "goodbye"
+      }
+    ],
+    "notes": "Contraction of 'a Deus' (to God)."
+  },
+  "word_pt_obrigado": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "obligatus",
+        "period": "Classical",
+        "meaning": "obligated, bound"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "obrigado",
+        "period": "Medieval",
+        "meaning": "thank you"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "obliged",
+        "meaning": "thankful"
+      }
+    ],
+    "notes": "Past participle of 'obrigar' (to oblige). 'I am obliged'."
+  },
+  "word_pt_por_favor": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "pro favor",
+        "period": "Classical",
+        "meaning": "for favor"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "por favor",
+        "period": "Medieval",
+        "meaning": "please"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Spanish",
+        "word": "por favor",
+        "meaning": "please"
+      }
+    ],
+    "notes": "Literally 'for favor'."
+  },
+  "word_pt_de_nada": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Old Portuguese",
+        "form": "de nada",
+        "period": "Medieval",
+        "meaning": "of nothing"
+      },
+      {
+        "language": "Modern Portuguese",
+        "form": "de nada",
+        "period": "Present",
+        "meaning": "you're welcome"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'of nothing'."
+  },
+  "word_pt_desculpe": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "disculpāre",
+        "period": "Classical",
+        "meaning": "to excuse"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "desculpar",
+        "period": "Medieval",
+        "meaning": "to excuse"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "exculpate",
+        "meaning": "to clear of blame"
+      }
+    ],
+    "notes": "From Latin 'disculpāre' (to remove blame)."
+  },
+  "word_pt_nao_importa": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "importāre",
+        "period": "Classical",
+        "meaning": "to matter, import"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "não importa",
+        "period": "Medieval",
+        "meaning": "it doesn't matter"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'it does not matter'."
+  },
+  "word_pt_ate_logo": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ad istam horam",
+        "period": "Classical",
+        "meaning": "until that hour"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "até logo",
+        "period": "Medieval",
+        "meaning": "until later"
+      }
+    ],
+    "cognates": [],
+    "notes": "Literally 'until later'."
+  },
+  "word_pt_vemo_nos": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "vidēre",
+        "period": "Classical",
+        "meaning": "to see"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "vemo-nos",
+        "period": "Medieval",
+        "meaning": "we see each other"
+      }
+    ],
+    "cognates": [],
+    "notes": "Reflexive phrase: 'we see each other'."
+  },
+  "word_pt_como_esta": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "quomodo stās",
+        "period": "Classical",
+        "meaning": "how you stand"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "como está",
+        "period": "Medieval",
+        "meaning": "how are you"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Spanish",
+        "word": "¿cómo estás?",
+        "meaning": "how are you"
+      }
+    ],
+    "notes": "From Latin 'quomodo stās'. 'Estar' from Latin 'stāre'."
+  },
+  "word_pt_estou_bem": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "stō bene",
+        "period": "Classical",
+        "meaning": "I stand well"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "estou bem",
+        "period": "Medieval",
+        "meaning": "I am well"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin 'stāre' (to stand) and 'bene' (well)."
+  },
+  "word_pt_boa_noite": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "bona nox",
+        "period": "Classical",
+        "meaning": "good night"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "boa noite",
+        "period": "Medieval",
+        "meaning": "good night"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Spanish",
+        "word": "buenas noches",
+        "meaning": "good night"
+      }
+    ],
+    "notes": "From Latin 'bona nox'. 'Noite' from 'nox, noctis'."
+  },
+  "word_pt_bem_vindo": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "bene venīre",
+        "period": "Classical",
+        "meaning": "to come well"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "bem-vindo",
+        "period": "Medieval",
+        "meaning": "welcome"
+      }
+    ],
+    "cognates": [],
+    "notes": "Past participle of 'bem-vindo' (well come)."
+  },
+  "word_pt_perdao": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "perdōnāre",
+        "period": "Late Latin",
+        "meaning": "to forgive"
+      },
+      {
+        "language": "Old Portuguese",
+        "form": "perdão",
+        "period": "Medieval",
+        "meaning": "pardon"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "pardon",
+        "meaning": "pardon"
+      }
+    ],
+    "notes": "From Latin 'perdōnāre' (to forgive completely)."
+  }
+}

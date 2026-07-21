@@ -1,0 +1,224 @@
+{
+  "word_zh_nihao": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "20th century",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "你好",
+        "period": "20th century",
+        "meaning": "hello"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Cantonese",
+        "word": "你好 (nei5 hou2)",
+        "meaning": "hello"
+      }
+    ],
+    "notes": "Compound: 你 (you) + 好 (good). Modern standard greeting in Putonghua."
+  },
+  "word_zh_nin_hao": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "20th century",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "您好",
+        "period": "20th century",
+        "meaning": "hello (formal)"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: 您 (you, honorific) + 好 (good). Polite form using 您."
+  },
+  "word_zh_zaoshang_hao": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "20th century",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "早上好",
+        "period": "20th century",
+        "meaning": "good morning"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: 早上 (morning) + 好 (good). Calque of Western greeting."
+  },
+  "word_zh_xiexie": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "谢谢",
+        "period": "Modern",
+        "meaning": "thank you"
+      }
+    ],
+    "cognates": [],
+    "notes": "Reduplicated 谢 meaning 'to thank, decline'. 谢谢 is an intensified 'thanks'."
+  },
+  "word_zh_qing": {
+    "languageOrigin": "Classical Chinese",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Classical Chinese",
+        "form": "請",
+        "period": "Zhou dynasty",
+        "meaning": "to ask, invite, please"
+      },
+      {
+        "language": "Mandarin",
+        "form": "请",
+        "period": "Modern",
+        "meaning": "please"
+      }
+    ],
+    "cognates": [],
+    "notes": "Originally 'to request, invite'. Used as polite 'please'."
+  },
+  "word_zh_bu_keqi": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "不客气",
+        "period": "Modern",
+        "meaning": "you're welcome"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: 不 (not) + 客气 (polite/strained). 'Don't be polite'."
+  },
+  "word_zh_duibuqi": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "对不起",
+        "period": "Modern",
+        "meaning": "sorry"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: 对 (face, towards) + 不 (not) + 起 (rise). 'Cannot face/answer to'."
+  },
+  "word_zh_meiguanxi": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "没关系",
+        "period": "Modern",
+        "meaning": "it doesn't matter"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: 没 (not have) + 关系 (relation, matter). 'No relation'."
+  },
+  "word_zh_zaijian": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "再见",
+        "period": "Modern",
+        "meaning": "goodbye"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: 再 (again) + 见 (to see). 'See again'."
+  },
+  "word_zh_huitou_jian": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "回头见",
+        "period": "Modern",
+        "meaning": "see you later"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: 回头 (turn head, later) + 见 (see). Colloquial."
+  },
+  "word_zh_ni_hao_ma": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "20th century",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "你好吗？",
+        "period": "20th century",
+        "meaning": "how are you"
+      }
+    ],
+    "cognates": [],
+    "notes": "你 (you) + 好 (good) + 吗 (question particle). Textbook phrase."
+  },
+  "word_zh_wo_hen_hao": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "我很好",
+        "period": "Modern",
+        "meaning": "I am very well"
+      }
+    ],
+    "cognates": [],
+    "notes": "我 (I) + 很 (very) + 好 (good). Standard response."
+  },
+  "word_zh_wanan": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "20th century",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "晚安",
+        "period": "20th century",
+        "meaning": "good night"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: 晚 (evening) + 安 (peace). 'Peaceful evening'."
+  },
+  "word_zh_huanying": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "欢迎",
+        "period": "Modern",
+        "meaning": "welcome"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: 欢 (joyful) + 迎 (welcome). 'Joyfully welcome'."
+  },
+  "word_zh_qing_wen": {
+    "languageOrigin": "Mandarin Chinese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Mandarin",
+        "form": "请问",
+        "period": "Modern",
+        "meaning": "excuse me, may I ask"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: 请 (please) + 问 (ask). Polite preface to questions."
+  }
+}

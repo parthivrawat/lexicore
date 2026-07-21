@@ -1,0 +1,402 @@
+{
+  "word_vi_nguoi": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "người",
+        "period": "Medieval",
+        "meaning": "person"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "người",
+        "period": "Modern",
+        "meaning": "person"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese noun."
+  },
+  "word_vi_tre_em": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "trẻ em",
+        "period": "Medieval",
+        "meaning": "child"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "trẻ em",
+        "period": "Modern",
+        "meaning": "child"
+      }
+    ],
+    "cognates": [],
+    "notes": "trẻ (young) + em (sibling/young one)."
+  },
+  "word_vi_nha": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "nhà",
+        "period": "Medieval",
+        "meaning": "house"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "nhà",
+        "period": "Modern",
+        "meaning": "house"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese noun."
+  },
+  "word_vi_nuoc": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "nước",
+        "period": "Medieval",
+        "meaning": "water, country"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "nước",
+        "period": "Modern",
+        "meaning": "water"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese noun; also means country."
+  },
+  "word_vi_thuc_an": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "食物 (thức ăn)",
+        "period": "Medieval",
+        "meaning": "food"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "thức ăn",
+        "period": "Modern",
+        "meaning": "food"
+      }
+    ],
+    "cognates": [],
+    "notes": "thức (to awaken, from Chinese 食) + ăn (eat)."
+  },
+  "word_vi_thoi_gian": {
+    "languageOrigin": "Sino-Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Chinese",
+        "form": "時間 (shíjiān)",
+        "period": "Medieval",
+        "meaning": "time"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "thời gian",
+        "period": "Modern",
+        "meaning": "time"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sino-Vietnamese 時間."
+  },
+  "word_vi_ngay": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "ngày",
+        "period": "Medieval",
+        "meaning": "day"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "ngày",
+        "period": "Modern",
+        "meaning": "day"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese noun."
+  },
+  "word_vi_nam": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "年 (năm)",
+        "period": "Medieval",
+        "meaning": "year"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "năm",
+        "period": "Modern",
+        "meaning": "year"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same as number five? In Vietnamese 'năm' is both five and year, distinguished by tone."
+  },
+  "word_vi_tay": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "tay",
+        "period": "Medieval",
+        "meaning": "hand"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "tay",
+        "period": "Modern",
+        "meaning": "hand"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese noun."
+  },
+  "word_vi_mat": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "目 (mắt)",
+        "period": "Medieval",
+        "meaning": "eye"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "mắt",
+        "period": "Modern",
+        "meaning": "eye"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sino-Vietnamese 目 (mù)."
+  },
+  "word_vi_dau": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "đầu",
+        "period": "Medieval",
+        "meaning": "head"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "đầu",
+        "period": "Modern",
+        "meaning": "head"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese noun."
+  },
+  "word_vi_sach": {
+    "languageOrigin": "Sino-Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Chinese",
+        "form": "冊 (sách)",
+        "period": "Medieval",
+        "meaning": "book"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "sách",
+        "period": "Modern",
+        "meaning": "book"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Chinese 冊/書 (sách)."
+  },
+  "word_vi_cua": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "cửa",
+        "period": "Medieval",
+        "meaning": "door"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "cửa",
+        "period": "Modern",
+        "meaning": "door"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese noun."
+  },
+  "word_vi_duong": {
+    "languageOrigin": "Sino-Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Chinese",
+        "form": "堂 (đường)",
+        "period": "Medieval",
+        "meaning": "hall, way"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "đường",
+        "period": "Modern",
+        "meaning": "street"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sino-Vietnamese 堂/唐? Actually 'đường' from Chinese 堂 or 唐?"
+  },
+  "word_vi_thanh_pho": {
+    "languageOrigin": "Sino-Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Chinese",
+        "form": "城鋪? / 城市 (thành phố)",
+        "period": "Medieval",
+        "meaning": "city"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "thành phố",
+        "period": "Modern",
+        "meaning": "city"
+      }
+    ],
+    "cognates": [],
+    "notes": "thành (city wall) + phố (market street). Sino-Vietnamese."
+  },
+  "word_vi_dat_nuoc": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "đất nước",
+        "period": "Medieval",
+        "meaning": "land water/country"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "đất nước",
+        "period": "Modern",
+        "meaning": "country"
+      }
+    ],
+    "cognates": [],
+    "notes": "đất (land) + nước (water/country)."
+  },
+  "word_vi_truong_hoc": {
+    "languageOrigin": "Sino-Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Chinese",
+        "form": "學校 (trường học)",
+        "period": "Medieval",
+        "meaning": "school"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "trường học",
+        "period": "Modern",
+        "meaning": "school"
+      }
+    ],
+    "cognates": [],
+    "notes": "trường (school) + học (study)."
+  },
+  "word_vi_ban": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "bạn",
+        "period": "Medieval",
+        "meaning": "friend"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "bạn",
+        "period": "Modern",
+        "meaning": "friend"
+      }
+    ],
+    "cognates": [],
+    "notes": "Native Vietnamese noun."
+  },
+  "word_vi_gia_dinh": {
+    "languageOrigin": "Sino-Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Chinese",
+        "form": "家庭 (gia đình)",
+        "period": "Medieval",
+        "meaning": "family"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "gia đình",
+        "period": "Modern",
+        "meaning": "family"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sino-Vietnamese 家庭."
+  },
+  "word_vi_ten": {
+    "languageOrigin": "Sino-Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Chinese",
+        "form": "名 (tên)",
+        "period": "Medieval",
+        "meaning": "name"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "tên",
+        "period": "Modern",
+        "meaning": "name"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sino-Vietnamese 名 (míng)."
+  }
+}

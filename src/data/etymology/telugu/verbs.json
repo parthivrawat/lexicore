@@ -1,0 +1,502 @@
+{
+  "word_te_undatam": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "ఉండు (uṇḍu)",
+        "period": "Medieval",
+        "meaning": "to be"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "ఉండటం",
+        "period": "Modern",
+        "meaning": "to be"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *uḷ/uṇ."
+  },
+  "word_te_cheyatam": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "చేయు (cēyu)",
+        "period": "Medieval",
+        "meaning": "to do"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "చేయటం",
+        "period": "Modern",
+        "meaning": "to do"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *cēy."
+  },
+  "word_te_vellatam": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "వెళ్ళు (veḷḷu)",
+        "period": "Medieval",
+        "meaning": "to go"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "వెళ్ళటం",
+        "period": "Modern",
+        "meaning": "to go"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *vel."
+  },
+  "word_te_ravatam": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "రా (rā)",
+        "period": "Medieval",
+        "meaning": "to come"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "రావటం",
+        "period": "Modern",
+        "meaning": "to come"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *vā."
+  },
+  "word_te_tinadam": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "తిను (tinu)",
+        "period": "Medieval",
+        "meaning": "to eat"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "తినడం",
+        "period": "Modern",
+        "meaning": "to eat"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *tiṉ."
+  },
+  "word_te_tagadam": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "తాగు (tāgu)",
+        "period": "Medieval",
+        "meaning": "to drink"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "తాగడం",
+        "period": "Modern",
+        "meaning": "to drink"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *tāy/tāk."
+  },
+  "word_te_chudatam": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "చూడు (cūḍu)",
+        "period": "Medieval",
+        "meaning": "to see"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "చూడటం",
+        "period": "Modern",
+        "meaning": "to see"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *cūṭ."
+  },
+  "word_te_vinadam": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "విను (vinu)",
+        "period": "Medieval",
+        "meaning": "to hear"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "వినడం",
+        "period": "Modern",
+        "meaning": "to hear"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *viṉ."
+  },
+  "word_te_matladatam": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "మాట్లాడు (māṭlāḍu)",
+        "period": "Medieval",
+        "meaning": "to speak"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "మాట్లాడటం",
+        "period": "Modern",
+        "meaning": "to speak"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Telugu māṭa (word) + lāḍu."
+  },
+  "word_te_chadavadam": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "చదవు (cadavu)",
+        "period": "Medieval",
+        "meaning": "to read"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "చదవడం",
+        "period": "Modern",
+        "meaning": "to read"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *caṭuv."
+  },
+  "word_te_rayatam": {
+    "languageOrigin": "Sanskrit/Dravidian",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "लिख् (likh)",
+        "period": "Vedic",
+        "meaning": "to write"
+      },
+      {
+        "language": "Old Telugu",
+        "form": "రాయు (rāyu)",
+        "period": "Medieval",
+        "meaning": "to write"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit likh."
+  },
+  "word_te_ivvatam": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "ఇవ్వు (ivvu)",
+        "period": "Medieval",
+        "meaning": "to give"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "ఇవ్వటం",
+        "period": "Modern",
+        "meaning": "to give"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *iḷ."
+  },
+  "word_te_tisukovatam": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "తీసుకో (tīsukō)",
+        "period": "Medieval",
+        "meaning": "to take"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "తీసుకోవటం",
+        "period": "Modern",
+        "meaning": "to take"
+      }
+    ],
+    "cognates": [],
+    "notes": "tī (take) + kō (take/accept)."
+  },
+  "word_te_pani_ekotam": {
+    "languageOrigin": "Sanskrit/Dravidian",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "स्वप् (svap)",
+        "period": "Vedic",
+        "meaning": "to sleep"
+      },
+      {
+        "language": "Telugu",
+        "form": "పడుకోవటం",
+        "period": "Modern",
+        "meaning": "to sleep"
+      }
+    ],
+    "cognates": [],
+    "notes": "Telugu 'paḍukōvaṭaṃ' to sleep; 'pani' is not."
+  },
+  "word_te_levagottam": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "లేచు (lēcu)",
+        "period": "Medieval",
+        "meaning": "to rise"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "లేవగొట్టడం / లేవడం",
+        "period": "Modern",
+        "meaning": "to wake up"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *lēc."
+  },
+  "word_te_kurchovadam": {
+    "languageOrigin": "Sanskrit/Dravidian",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कुर्च्? (kurch)",
+        "period": "Medieval",
+        "meaning": "to squat/sit"
+      },
+      {
+        "language": "Telugu",
+        "form": "కూర్చోవడం",
+        "period": "Modern",
+        "meaning": "to sit"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit/Prakrit kurch?"
+  },
+  "word_te_nilabadatam": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "నిలబడు (nilabaḍu)",
+        "period": "Medieval",
+        "meaning": "to stand"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "నిలబడటం",
+        "period": "Modern",
+        "meaning": "to stand"
+      }
+    ],
+    "cognates": [],
+    "notes": "nilu (stand) + baḍu."
+  },
+  "word_te_nadavatam": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "నడువు (naḍuvu)",
+        "period": "Medieval",
+        "meaning": "to walk"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "నడవటం",
+        "period": "Modern",
+        "meaning": "to walk"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *naṭ."
+  },
+  "word_te_parigettatam": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "పరిగెట్టు (parigeṭṭu)",
+        "period": "Medieval",
+        "meaning": "to run"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "పరిగెట్టటం",
+        "period": "Modern",
+        "meaning": "to run"
+      }
+    ],
+    "cognates": [],
+    "notes": "pari (around) + geṭṭu."
+  },
+  "word_te_navvadam": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "నవ్వు (navvu)",
+        "period": "Medieval",
+        "meaning": "to laugh"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "నవ్వడం",
+        "period": "Modern",
+        "meaning": "to laugh"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *nav."
+  },
+  "word_te_edavatam": {
+    "languageOrigin": "Proto-Dravidian",
+    "yearOfOrigin": "c. 2000 BCE",
+    "timeline": [
+      {
+        "language": "Old Telugu",
+        "form": "ఏడవు (ēḍavu)",
+        "period": "Medieval",
+        "meaning": "to cry"
+      },
+      {
+        "language": "Modern Telugu",
+        "form": "ఏడవడం",
+        "period": "Modern",
+        "meaning": "to cry"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Proto-Dravidian *ēḷ."
+  },
+  "word_te_artham_chesukovatam": {
+    "languageOrigin": "Sanskrit/Telugu",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "अर्थ (artha)",
+        "period": "Vedic",
+        "meaning": "meaning"
+      },
+      {
+        "language": "Telugu",
+        "form": "అర్థం చేసుకోవడం",
+        "period": "Modern",
+        "meaning": "to understand"
+      }
+    ],
+    "cognates": [],
+    "notes": "artha (meaning) + cēsukōvaṭaṃ (do for oneself)."
+  },
+  "word_te_korukovatam": {
+    "languageOrigin": "Sanskrit/Telugu",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कौरव? / काम (kāma)",
+        "period": "Vedic",
+        "meaning": "desire"
+      },
+      {
+        "language": "Telugu",
+        "form": "కోరుకోవడం",
+        "period": "Modern",
+        "meaning": "to want"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit kāma?"
+  },
+  "word_te_preminchatam": {
+    "languageOrigin": "Sanskrit",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "प्रेम (prema)",
+        "period": "Classical",
+        "meaning": "love"
+      },
+      {
+        "language": "Telugu",
+        "form": "ప్రేమించడం",
+        "period": "Modern",
+        "meaning": "to love"
+      }
+    ],
+    "cognates": [],
+    "notes": "prema (love) + -incu (verbalizer)."
+  },
+  "word_te_pani_cheyatam": {
+    "languageOrigin": "Sanskrit/Telugu",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "पणि (paṇi)",
+        "period": "Vedic",
+        "meaning": "work"
+      },
+      {
+        "language": "Telugu",
+        "form": "పని చేయడం",
+        "period": "Modern",
+        "meaning": "to work"
+      }
+    ],
+    "cognates": [],
+    "notes": "pani (work) + cēya (do)."
+  }
+}

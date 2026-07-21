@@ -1,0 +1,402 @@
+{
+  "word_id_baik": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "baik",
+        "period": "Medieval",
+        "meaning": "good"
+      },
+      {
+        "language": "Indonesian",
+        "form": "baik",
+        "period": "Modern",
+        "meaning": "good"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'baik'."
+  },
+  "word_id_buruk": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "buruk",
+        "period": "Medieval",
+        "meaning": "bad"
+      },
+      {
+        "language": "Indonesian",
+        "form": "buruk",
+        "period": "Modern",
+        "meaning": "bad"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'buruk'."
+  },
+  "word_id_besar": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "besar",
+        "period": "Medieval",
+        "meaning": "big"
+      },
+      {
+        "language": "Indonesian",
+        "form": "besar",
+        "period": "Modern",
+        "meaning": "big"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'besar'."
+  },
+  "word_id_kecil": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "kecil",
+        "period": "Medieval",
+        "meaning": "small"
+      },
+      {
+        "language": "Indonesian",
+        "form": "kecil",
+        "period": "Modern",
+        "meaning": "small"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'kecil'."
+  },
+  "word_id_panjang": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "panjang",
+        "period": "Medieval",
+        "meaning": "long"
+      },
+      {
+        "language": "Indonesian",
+        "form": "panjang",
+        "period": "Modern",
+        "meaning": "long"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'panjang'."
+  },
+  "word_id_pendek": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "pendek",
+        "period": "Medieval",
+        "meaning": "short"
+      },
+      {
+        "language": "Indonesian",
+        "form": "pendek",
+        "period": "Modern",
+        "meaning": "short"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'pendek'."
+  },
+  "word_id_tinggi": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "tinggi",
+        "period": "Medieval",
+        "meaning": "high, tall"
+      },
+      {
+        "language": "Indonesian",
+        "form": "tinggi",
+        "period": "Modern",
+        "meaning": "tall"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'tinggi'."
+  },
+  "word_id_rendah": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "rendah",
+        "period": "Medieval",
+        "meaning": "low"
+      },
+      {
+        "language": "Indonesian",
+        "form": "rendah",
+        "period": "Modern",
+        "meaning": "low"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'rendah'."
+  },
+  "word_id_baru": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "baru",
+        "period": "Medieval",
+        "meaning": "new"
+      },
+      {
+        "language": "Indonesian",
+        "form": "baru",
+        "period": "Modern",
+        "meaning": "new"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'baru'."
+  },
+  "word_id_lama": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "lama",
+        "period": "Medieval",
+        "meaning": "old, long time"
+      },
+      {
+        "language": "Indonesian",
+        "form": "lama",
+        "period": "Modern",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'lama'."
+  },
+  "word_id_muda": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "muda",
+        "period": "Medieval",
+        "meaning": "young"
+      },
+      {
+        "language": "Indonesian",
+        "form": "muda",
+        "period": "Modern",
+        "meaning": "young"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'muda'."
+  },
+  "word_id_tua": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "tua",
+        "period": "Medieval",
+        "meaning": "old"
+      },
+      {
+        "language": "Indonesian",
+        "form": "tua",
+        "period": "Modern",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'tua'."
+  },
+  "word_id_cantik": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "cantik",
+        "period": "Medieval",
+        "meaning": "beautiful"
+      },
+      {
+        "language": "Indonesian",
+        "form": "cantik",
+        "period": "Modern",
+        "meaning": "beautiful"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'cantik'."
+  },
+  "word_id_jelek": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "jelek",
+        "period": "Medieval",
+        "meaning": "ugly"
+      },
+      {
+        "language": "Indonesian",
+        "form": "jelek",
+        "period": "Modern",
+        "meaning": "ugly"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'jelek'."
+  },
+  "word_id_panas": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "panas",
+        "period": "Medieval",
+        "meaning": "hot"
+      },
+      {
+        "language": "Indonesian",
+        "form": "panas",
+        "period": "Modern",
+        "meaning": "hot"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'panas'."
+  },
+  "word_id_dingin": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "dingin",
+        "period": "Medieval",
+        "meaning": "cold"
+      },
+      {
+        "language": "Indonesian",
+        "form": "dingin",
+        "period": "Modern",
+        "meaning": "cold"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'dingin'."
+  },
+  "word_id_cepat": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "cepat",
+        "period": "Medieval",
+        "meaning": "fast"
+      },
+      {
+        "language": "Indonesian",
+        "form": "cepat",
+        "period": "Modern",
+        "meaning": "fast"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'cepat'."
+  },
+  "word_id_lambat": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "lambat",
+        "period": "Medieval",
+        "meaning": "slow"
+      },
+      {
+        "language": "Indonesian",
+        "form": "lambat",
+        "period": "Modern",
+        "meaning": "slow"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'lambat'."
+  },
+  "word_id_mudah": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "mudah",
+        "period": "Medieval",
+        "meaning": "easy"
+      },
+      {
+        "language": "Indonesian",
+        "form": "mudah",
+        "period": "Modern",
+        "meaning": "easy"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'mudah'."
+  },
+  "word_id_sulit": {
+    "languageOrigin": "Austronesian",
+    "yearOfOrigin": "c. 7th century",
+    "timeline": [
+      {
+        "language": "Old Malay",
+        "form": "sulit",
+        "period": "Medieval",
+        "meaning": "difficult"
+      },
+      {
+        "language": "Indonesian",
+        "form": "sulit",
+        "period": "Modern",
+        "meaning": "difficult"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Malay 'sulit'."
+  }
+}

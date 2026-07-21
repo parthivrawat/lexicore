@@ -1,0 +1,478 @@
+{
+  "word_la_sum": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "PIE",
+        "form": "*h₁es-",
+        "period": "c. 3000 BCE",
+        "meaning": "to be"
+      },
+      {
+        "language": "Latin",
+        "form": "sum",
+        "period": "Classical",
+        "meaning": "I am"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "is",
+        "meaning": "is"
+      }
+    ],
+    "notes": "Irregular verb from PIE *h₁es-."
+  },
+  "word_la_facere": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "facere",
+        "period": "Classical",
+        "meaning": "to do, make"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "factory",
+        "meaning": "place of making"
+      }
+    ],
+    "notes": "Root of many English words (fact, factory)."
+  },
+  "word_la_ire": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "īre",
+        "period": "Classical",
+        "meaning": "to go"
+      }
+    ],
+    "cognates": [],
+    "notes": "Suppletive verb with forms from vadō, eō."
+  },
+  "word_la_venire": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "venīre",
+        "period": "Classical",
+        "meaning": "to come"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "venue",
+        "meaning": "place one comes to"
+      }
+    ],
+    "notes": "From Latin venīre."
+  },
+  "word_la_edere": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ēdere",
+        "period": "Classical",
+        "meaning": "to eat"
+      }
+    ],
+    "cognates": [],
+    "notes": "From ēsse (to eat)."
+  },
+  "word_la_bibere": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "bibere",
+        "period": "Classical",
+        "meaning": "to drink"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "imbibe",
+        "meaning": "to drink in"
+      }
+    ],
+    "notes": "From Latin bibere."
+  },
+  "word_la_videre": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "vidēre",
+        "period": "Classical",
+        "meaning": "to see"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "video",
+        "meaning": "I see"
+      }
+    ],
+    "notes": "From Latin vidēre."
+  },
+  "word_la_audire": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "audīre",
+        "period": "Classical",
+        "meaning": "to hear"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "audience",
+        "meaning": "listeners"
+      }
+    ],
+    "notes": "From Latin audīre."
+  },
+  "word_la_loqui": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "loqui",
+        "period": "Classical",
+        "meaning": "to speak"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "loquacious",
+        "meaning": "talkative"
+      }
+    ],
+    "notes": "Deponent verb from Latin loqui."
+  },
+  "word_la_legere": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "legere",
+        "period": "Classical",
+        "meaning": "to read, gather"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "legible",
+        "meaning": "readable"
+      }
+    ],
+    "notes": "From Latin legere."
+  },
+  "word_la_scribere": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "scribere",
+        "period": "Classical",
+        "meaning": "to write"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "scribe",
+        "meaning": "writer"
+      }
+    ],
+    "notes": "From Latin scribere."
+  },
+  "word_la_dare": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "dare",
+        "period": "Classical",
+        "meaning": "to give"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "donate",
+        "meaning": "to give"
+      }
+    ],
+    "notes": "From Latin dare."
+  },
+  "word_la_sumere": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sūmere",
+        "period": "Classical",
+        "meaning": "to take"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "assume",
+        "meaning": "to take up"
+      }
+    ],
+    "notes": "From sub- (up) + emere (to take/buy)."
+  },
+  "word_la_dormire": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "dormīre",
+        "period": "Classical",
+        "meaning": "to sleep"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "dormitory",
+        "meaning": "sleeping place"
+      }
+    ],
+    "notes": "From Latin dormīre."
+  },
+  "word_la_evigilare": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ēvigilāre",
+        "period": "Classical",
+        "meaning": "to wake up"
+      }
+    ],
+    "cognates": [],
+    "notes": "ēx- + vigilāre (to be awake)."
+  },
+  "word_la_sedere": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "sedēre",
+        "period": "Classical",
+        "meaning": "to sit"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "sedentary",
+        "meaning": "sitting"
+      }
+    ],
+    "notes": "From Latin sedēre."
+  },
+  "word_la_stare": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "stāre",
+        "period": "Classical",
+        "meaning": "to stand"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "static",
+        "meaning": "standing still"
+      }
+    ],
+    "notes": "From Latin stāre."
+  },
+  "word_la_ambulare": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ambulāre",
+        "period": "Classical",
+        "meaning": "to walk"
+      }
+    ],
+    "cognates": [],
+    "notes": "From amb- (around) + -ulāre."
+  },
+  "word_la_currere": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "currere",
+        "period": "Classical",
+        "meaning": "to run"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "current",
+        "meaning": "flow"
+      }
+    ],
+    "notes": "From Latin currere."
+  },
+  "word_la_ridere": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "ridēre",
+        "period": "Classical",
+        "meaning": "to laugh"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "ridiculous",
+        "meaning": "laughable"
+      }
+    ],
+    "notes": "From Latin ridēre."
+  },
+  "word_la_plorare": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "plorāre",
+        "period": "Classical",
+        "meaning": "to cry, weep"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Latin plorāre."
+  },
+  "word_la_intellegere": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "intellegere",
+        "period": "Classical",
+        "meaning": "to understand"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "intelligent",
+        "meaning": "understanding"
+      }
+    ],
+    "notes": "inter- + legere (to pick among)."
+  },
+  "word_la_velle": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "velle",
+        "period": "Classical",
+        "meaning": "to wish"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "volition",
+        "meaning": "will"
+      }
+    ],
+    "notes": "Irregular verb."
+  },
+  "word_la_amare": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "amāre",
+        "period": "Classical",
+        "meaning": "to love"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "amorous",
+        "meaning": "loving"
+      }
+    ],
+    "notes": "From Latin amāre."
+  },
+  "word_la_laborare": {
+    "languageOrigin": "Latin",
+    "yearOfOrigin": "c. 1st century BCE",
+    "timeline": [
+      {
+        "language": "Latin",
+        "form": "laborāre",
+        "period": "Classical",
+        "meaning": "to work, toil"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "labor",
+        "meaning": "work"
+      }
+    ],
+    "notes": "From Latin labor (work)."
+  }
+}

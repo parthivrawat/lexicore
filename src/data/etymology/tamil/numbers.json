@@ -1,0 +1,302 @@
+{
+  "word_ta_sunjam": {
+    "languageOrigin": "Sanskrit/Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "शून्य (śūnya)",
+        "period": "Vedic",
+        "meaning": "zero"
+      },
+      {
+        "language": "Tamil",
+        "form": "சுழியம் (suḻiyam)",
+        "period": "Medieval",
+        "meaning": "zero"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit śūnya."
+  },
+  "word_ta_onru": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "ஒன்று (oṉṟu)",
+        "period": "Sangam",
+        "meaning": "one"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "ஒன்று",
+        "period": "Modern",
+        "meaning": "one"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil oṉṟu."
+  },
+  "word_ta_irandu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "இரண்டு (iraṇṭu)",
+        "period": "Sangam",
+        "meaning": "two"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "இரண்டு",
+        "period": "Modern",
+        "meaning": "two"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil iraṇṭu."
+  },
+  "word_ta_moonru": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "மூன்று (mūṉṟu)",
+        "period": "Sangam",
+        "meaning": "three"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "மூன்று",
+        "period": "Modern",
+        "meaning": "three"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil mūṉṟu."
+  },
+  "word_ta_naalgu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "நான்கு (nāṉku)",
+        "period": "Sangam",
+        "meaning": "four"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "நான்கு",
+        "period": "Modern",
+        "meaning": "four"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil nāṉku."
+  },
+  "word_ta_aindhu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "ஐந்து (aintu)",
+        "period": "Sangam",
+        "meaning": "five"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "ஐந்து",
+        "period": "Modern",
+        "meaning": "five"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil aintu."
+  },
+  "word_ta_aaru": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "ஆறு (āṟu)",
+        "period": "Sangam",
+        "meaning": "six"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "ஆறு",
+        "period": "Modern",
+        "meaning": "six"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil āṟu."
+  },
+  "word_ta_ezhu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "ஏழு (ēḻu)",
+        "period": "Sangam",
+        "meaning": "seven"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "ஏழு",
+        "period": "Modern",
+        "meaning": "seven"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil ēḻu."
+  },
+  "word_ta_etdu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "எட்டு (eṭṭu)",
+        "period": "Sangam",
+        "meaning": "eight"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "எட்டு",
+        "period": "Modern",
+        "meaning": "eight"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil eṭṭu."
+  },
+  "word_ta_onbadhu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "ஒன்பது (oṉpatu)",
+        "period": "Sangam",
+        "meaning": "nine"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "ஒன்பது",
+        "period": "Modern",
+        "meaning": "nine"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil oṉpatu."
+  },
+  "word_ta_pathu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "பத்து (pattu)",
+        "period": "Sangam",
+        "meaning": "ten"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "பத்து",
+        "period": "Modern",
+        "meaning": "ten"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil pattu."
+  },
+  "word_ta_nooru": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "நூறு (nūṟu)",
+        "period": "Sangam",
+        "meaning": "hundred"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "நூறு",
+        "period": "Modern",
+        "meaning": "hundred"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil nūṟu."
+  },
+  "word_ta_aayiram": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "ஆயிரம் (āyiram)",
+        "period": "Sangam",
+        "meaning": "thousand"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "ஆயிரம்",
+        "period": "Modern",
+        "meaning": "thousand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil āyiram."
+  },
+  "word_ta_milliom": {
+    "languageOrigin": "English",
+    "yearOfOrigin": "c. 20th century",
+    "timeline": [
+      {
+        "language": "English",
+        "form": "million",
+        "period": "20th century",
+        "meaning": "million"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "மில்லியன்",
+        "period": "Modern",
+        "meaning": "million"
+      }
+    ],
+    "cognates": [],
+    "notes": "Loan from English 'million'."
+  },
+  "word_ta_arai": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "அரை (arai)",
+        "period": "Sangam",
+        "meaning": "half"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "அரை",
+        "period": "Modern",
+        "meaning": "half"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil arai."
+  }
+}

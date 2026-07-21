@@ -1,0 +1,172 @@
+{
+  "word_ru_v": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*vъ",
+        "period": "c. 500 CE",
+        "meaning": "in, into"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "in",
+        "meaning": "in"
+      }
+    ],
+    "notes": "PIE *h₁en (in). Also 'во' before certain consonants."
+  },
+  "word_ru_v_prep": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*vъ",
+        "period": "c. 500 CE",
+        "meaning": "to, into"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same as 'в' but used with accusative for 'to/into'."
+  },
+  "word_ru_iz": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*jьz",
+        "period": "c. 500 CE",
+        "meaning": "from out of"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "out",
+        "meaning": "out"
+      }
+    ],
+    "notes": "PIE *h₁eǵʰ- (out)."
+  },
+  "word_ru_s": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*sъ(n)",
+        "period": "c. 500 CE",
+        "meaning": "with"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "cum",
+        "meaning": "with"
+      }
+    ],
+    "notes": "PIE *ḱom (with). Also 'со' before certain consonants."
+  },
+  "word_ru_dlya": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "для",
+        "period": "Medieval",
+        "meaning": "for"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'долѧ' (share, portion). 'For the sake of'."
+  },
+  "word_ru_o": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*o",
+        "period": "c. 500 CE",
+        "meaning": "about, concerning"
+      }
+    ],
+    "cognates": [],
+    "notes": "Also 'об/обо' before certain forms."
+  },
+  "word_ru_bez": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*bez",
+        "period": "c. 500 CE",
+        "meaning": "without"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "sine",
+        "meaning": "without"
+      }
+    ],
+    "notes": "PIE *h₁ne (without)?"
+  },
+  "word_ru_do": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*do",
+        "period": "c. 500 CE",
+        "meaning": "to, until"
+      }
+    ],
+    "cognates": [],
+    "notes": "PIE *do (to)."
+  },
+  "word_ru_posle": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 14th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "послѣ",
+        "period": "Medieval",
+        "meaning": "after"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'после' (after). Related to 'след' (trace)."
+  },
+  "word_ru_nad": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*nadъ",
+        "period": "c. 500 CE",
+        "meaning": "above, over"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "over",
+        "meaning": "above"
+      }
+    ],
+    "notes": "PIE *uper (over)."
+  }
+}

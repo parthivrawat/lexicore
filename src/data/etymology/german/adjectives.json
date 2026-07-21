@@ -1,0 +1,462 @@
+{
+  "word_de_gut": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*gōdaz",
+        "period": "c. 500 BCE",
+        "meaning": "good"
+      },
+      {
+        "language": "Old High German",
+        "form": "guot",
+        "period": "8th century",
+        "meaning": "good"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "good",
+        "meaning": "good"
+      }
+    ],
+    "notes": "PIE *gʰedʰ- (to unite, good)."
+  },
+  "word_de_schlecht": {
+    "languageOrigin": "Old High German",
+    "yearOfOrigin": "c. 9th century",
+    "timeline": [
+      {
+        "language": "Old High German",
+        "form": "sleht",
+        "period": "9th century",
+        "meaning": "bad, smooth"
+      },
+      {
+        "language": "German",
+        "form": "schlecht",
+        "period": "Modern",
+        "meaning": "bad"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "sleight",
+        "meaning": "dexterity"
+      }
+    ],
+    "notes": "Originally 'smooth, even', later 'bad'."
+  },
+  "word_de_gross": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*grautaz",
+        "period": "c. 500 BCE",
+        "meaning": "coarse, big"
+      },
+      {
+        "language": "Old High German",
+        "form": "grōz",
+        "period": "8th century",
+        "meaning": "big"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "great",
+        "meaning": "big"
+      }
+    ],
+    "notes": "PIE *gʰrewd- (coarse, thick)."
+  },
+  "word_de_klein": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*klainiz",
+        "period": "c. 500 BCE",
+        "meaning": "small"
+      },
+      {
+        "language": "Old High German",
+        "form": "kleini",
+        "period": "8th century",
+        "meaning": "small"
+      }
+    ],
+    "cognates": [],
+    "notes": "PIE? Possibly related to 'klei-' (fine, small)."
+  },
+  "word_de_lang": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*langaz",
+        "period": "c. 500 BCE",
+        "meaning": "long"
+      },
+      {
+        "language": "Old High German",
+        "form": "lang",
+        "period": "8th century",
+        "meaning": "long"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "long",
+        "meaning": "long"
+      }
+    ],
+    "notes": "PIE *dl̥h₁gʰ- (long)."
+  },
+  "word_de_kurz": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*kurzaz",
+        "period": "c. 500 BCE",
+        "meaning": "short"
+      },
+      {
+        "language": "Old High German",
+        "form": "kurz",
+        "period": "8th century",
+        "meaning": "short"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "short",
+        "meaning": "short"
+      }
+    ],
+    "notes": "From Latin 'curtus' (short) via Germanic."
+  },
+  "word_de_hoch": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*hauhaz",
+        "period": "c. 500 BCE",
+        "meaning": "high"
+      },
+      {
+        "language": "Old High German",
+        "form": "hōh",
+        "period": "8th century",
+        "meaning": "high"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "high",
+        "meaning": "high"
+      }
+    ],
+    "notes": "PIE *kewk-?"
+  },
+  "word_de_niedrig": {
+    "languageOrigin": "German",
+    "yearOfOrigin": "c. 15th century",
+    "timeline": [
+      {
+        "language": "Middle High German",
+        "form": "nider",
+        "period": "Medieval",
+        "meaning": "low"
+      },
+      {
+        "language": "German",
+        "form": "niedrig",
+        "period": "Modern",
+        "meaning": "low"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "nether",
+        "meaning": "lower"
+      }
+    ],
+    "notes": "From 'nieder' (down) + suffix '-ig'."
+  },
+  "word_de_neu": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*nawaz",
+        "period": "c. 500 BCE",
+        "meaning": "new"
+      },
+      {
+        "language": "Old High German",
+        "form": "niuwi",
+        "period": "8th century",
+        "meaning": "new"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "new",
+        "meaning": "new"
+      }
+    ],
+    "notes": "PIE *néwos."
+  },
+  "word_de_alt": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*aldaz",
+        "period": "c. 500 BCE",
+        "meaning": "old"
+      },
+      {
+        "language": "Old High German",
+        "form": "alt",
+        "period": "8th century",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "old",
+        "meaning": "old"
+      }
+    ],
+    "notes": "PIE *h₂elt- (to grow, feed)."
+  },
+  "word_de_jung": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*jungaz",
+        "period": "c. 500 BCE",
+        "meaning": "young"
+      },
+      {
+        "language": "Old High German",
+        "form": "jung",
+        "period": "8th century",
+        "meaning": "young"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "young",
+        "meaning": "young"
+      }
+    ],
+    "notes": "PIE *h₂yuh₁en- (young)."
+  },
+  "word_de_alt2": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*aldaz",
+        "period": "c. 500 BCE",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "old",
+        "meaning": "old"
+      }
+    ],
+    "notes": "Same as 'alt'. Used for old (age)."
+  },
+  "word_de_schon": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*skōniz",
+        "period": "c. 500 BCE",
+        "meaning": "beautiful"
+      },
+      {
+        "language": "Old High German",
+        "form": "scōni",
+        "period": "8th century",
+        "meaning": "beautiful"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "sheen",
+        "meaning": "brightness"
+      }
+    ],
+    "notes": "PIE *skōh₁- (to shine)."
+  },
+  "word_de_hasslich": {
+    "languageOrigin": "German",
+    "yearOfOrigin": "c. 15th century",
+    "timeline": [
+      {
+        "language": "Middle High German",
+        "form": "hæselich",
+        "period": "Medieval",
+        "meaning": "ugly"
+      }
+    ],
+    "cognates": [],
+    "notes": "Originally 'frightening, causing fear'."
+  },
+  "word_de_heiss": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*haitaz",
+        "period": "c. 500 BCE",
+        "meaning": "hot"
+      },
+      {
+        "language": "Old High German",
+        "form": "heiz",
+        "period": "8th century",
+        "meaning": "hot"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "hot",
+        "meaning": "hot"
+      }
+    ],
+    "notes": "PIE *keh₂y- (hot)."
+  },
+  "word_de_kalt": {
+    "languageOrigin": "Proto-Germanic",
+    "yearOfOrigin": "c. 500 BCE",
+    "timeline": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*kaldaz",
+        "period": "c. 500 BCE",
+        "meaning": "cold"
+      },
+      {
+        "language": "Old High German",
+        "form": "kalt",
+        "period": "8th century",
+        "meaning": "cold"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "cold",
+        "meaning": "cold"
+      }
+    ],
+    "notes": "PIE *gel- (cold)."
+  },
+  "word_de_schnell": {
+    "languageOrigin": "Old High German",
+    "yearOfOrigin": "c. 9th century",
+    "timeline": [
+      {
+        "language": "Old High German",
+        "form": "snel",
+        "period": "9th century",
+        "meaning": "brave, quick"
+      },
+      {
+        "language": "German",
+        "form": "schnell",
+        "period": "Modern",
+        "meaning": "fast"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "snell",
+        "meaning": "quick"
+      }
+    ],
+    "notes": "Originally 'brave, active', later 'fast'."
+  },
+  "word_de_langsam": {
+    "languageOrigin": "German",
+    "yearOfOrigin": "c. 15th century",
+    "timeline": [
+      {
+        "language": "Middle High German",
+        "form": "langsam",
+        "period": "Medieval",
+        "meaning": "slow"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: 'lang' (long) + 'sam' (like). 'Long-like', i.e., slow."
+  },
+  "word_de_einfach": {
+    "languageOrigin": "German",
+    "yearOfOrigin": "c. 16th century",
+    "timeline": [
+      {
+        "language": "Middle High German",
+        "form": "einfache",
+        "period": "Medieval",
+        "meaning": "simple"
+      }
+    ],
+    "cognates": [],
+    "notes": "Compound: 'ein' (one) + 'fach' (fold). 'Single-fold', i.e., easy."
+  },
+  "word_de_schwierig": {
+    "languageOrigin": "German",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "German",
+        "form": "schwierig",
+        "period": "17th century",
+        "meaning": "difficult"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'Schwier' (difficulty, obstacle)."
+  }
+}

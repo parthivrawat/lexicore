@@ -1,0 +1,264 @@
+{
+  "word_vi_xin_chao": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "請朝 (thỉnh triều)?",
+        "period": "Medieval",
+        "meaning": "salutation"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "xin chào",
+        "period": "Modern",
+        "meaning": "hello"
+      }
+    ],
+    "cognates": [],
+    "notes": "xin (please) + chào (greeting). 'Chào' possibly from Chinese 招 (zhāo) or natively Vietnamese."
+  },
+  "word_vi_chao": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Vietnamese",
+        "form": "chào",
+        "period": "Medieval",
+        "meaning": "greeting"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "chào",
+        "period": "Modern",
+        "meaning": "hello/hi"
+      }
+    ],
+    "cognates": [],
+    "notes": "Informal greeting."
+  },
+  "word_vi_tam_biet": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "暫別 (tạm biệt)",
+        "period": "Medieval",
+        "meaning": "temporary parting"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "tạm biệt",
+        "period": "Modern",
+        "meaning": "goodbye"
+      }
+    ],
+    "cognates": [],
+    "notes": "tạm (temporary) + biệt (part). From Sino-Vietnamese 暫別."
+  },
+  "word_vi_cam_on": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "感恩 (cảm ơn)",
+        "period": "Medieval",
+        "meaning": "grateful"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "cảm ơn",
+        "period": "Modern",
+        "meaning": "thank you"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sino-Vietnamese 感恩 (to feel gratitude)."
+  },
+  "word_vi_lam_on": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "勞煩 (lao phiền)",
+        "period": "Medieval",
+        "meaning": "to trouble"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "làm ơn",
+        "period": "Modern",
+        "meaning": "please"
+      }
+    ],
+    "cognates": [],
+    "notes": "làm (do) + ơn (favor/grace). 'Do me a favor'."
+  },
+  "word_vi_khong_co_chi": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Modern Vietnamese",
+        "form": "không có chi",
+        "period": "Modern",
+        "meaning": "it's nothing"
+      }
+    ],
+    "cognates": [],
+    "notes": "không (not) + có (have) + chi (anything)."
+  },
+  "word_vi_xin_loi": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "謝 (lỗi)?",
+        "period": "Medieval",
+        "meaning": "fault"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "xin lỗi",
+        "period": "Modern",
+        "meaning": "sorry"
+      }
+    ],
+    "cognates": [],
+    "notes": "xin (please) + lỗi (fault). 'Pardon my fault'."
+  },
+  "word_vi_khong_sao": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Modern Vietnamese",
+        "form": "không sao",
+        "period": "Modern",
+        "meaning": "it's okay"
+      }
+    ],
+    "cognates": [],
+    "notes": "không (not) + sao (what/any matter). 'No matter'."
+  },
+  "word_vi_hen_gap_lai": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "Modern",
+    "timeline": [
+      {
+        "language": "Modern Vietnamese",
+        "form": "hẹn gặp lại",
+        "period": "Modern",
+        "meaning": "see you again"
+      }
+    ],
+    "cognates": [],
+    "notes": "hẹn (promise) + gặp (meet) + lại (again)."
+  },
+  "word_vi_ban_khoe_khong": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "康 (khỏe)",
+        "period": "Medieval",
+        "meaning": "healthy"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "bạn khỏe không",
+        "period": "Modern",
+        "meaning": "how are you"
+      }
+    ],
+    "cognates": [],
+    "notes": "bạn (friend/you) + khỏe (well) + không (not). 'Are you well?'."
+  },
+  "word_vi_toi_khoe": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "康 (khỏe)",
+        "period": "Medieval",
+        "meaning": "healthy"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "tôi khỏe",
+        "period": "Modern",
+        "meaning": "I am fine"
+      }
+    ],
+    "cognates": [],
+    "notes": "tôi (I) + khỏe (well)."
+  },
+  "word_vi_ngu_ngon": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Vietnamese",
+        "form": "ngủ + ngon",
+        "period": "Medieval",
+        "meaning": "sleep well"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "ngủ ngon",
+        "period": "Modern",
+        "meaning": "good night"
+      }
+    ],
+    "cognates": [],
+    "notes": "ngủ (sleep) + ngon (delicious/well)."
+  },
+  "word_vi_chao_mung": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "歡迎 (hoan nghênh)",
+        "period": "Medieval",
+        "meaning": "welcome"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "chào mừng",
+        "period": "Modern",
+        "meaning": "welcome"
+      }
+    ],
+    "cognates": [],
+    "notes": "chào (greet) + mừng (rejoice)."
+  },
+  "word_vi_xin_hoi": {
+    "languageOrigin": "Vietnamese",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Sino-Vietnamese",
+        "form": "問 (hỏi)",
+        "period": "Medieval",
+        "meaning": "ask"
+      },
+      {
+        "language": "Modern Vietnamese",
+        "form": "xin hỏi",
+        "period": "Modern",
+        "meaning": "excuse me"
+      }
+    ],
+    "cognates": [],
+    "notes": "xin (please) + hỏi (ask). 'May I ask?'."
+  }
+}

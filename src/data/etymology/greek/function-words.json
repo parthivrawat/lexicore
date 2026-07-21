@@ -1,0 +1,448 @@
+{
+  "word_el_ego": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἐγώ (egō)",
+        "period": "Classical",
+        "meaning": "I"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "εγώ",
+        "period": "Modern",
+        "meaning": "I"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "ego",
+        "meaning": "I"
+      }
+    ],
+    "notes": "From Ancient Greek ἐγώ."
+  },
+  "word_el_esy": {
+    "languageOrigin": "Proto-Indo-European",
+    "yearOfOrigin": "c. 3000 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "σύ (su)",
+        "period": "Classical",
+        "meaning": "you"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "εσύ",
+        "period": "Modern",
+        "meaning": "you"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek σύ."
+  },
+  "word_el_esy_plural": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ὑμεῖς (hymeis)",
+        "period": "Classical",
+        "meaning": "you (plural)"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "εσείς",
+        "period": "Modern",
+        "meaning": "you (formal)"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ὑμεῖς."
+  },
+  "word_el_autos": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "αὐτός (autos)",
+        "period": "Classical",
+        "meaning": "he, self, same"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "αυτός",
+        "period": "Modern",
+        "meaning": "he"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek αὐτός."
+  },
+  "word_el_auti": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "αὐτή (autē)",
+        "period": "Classical",
+        "meaning": "she"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "αυτή",
+        "period": "Modern",
+        "meaning": "she"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek αὐτή."
+  },
+  "word_el_emis": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἡμεῖς (hēmeis)",
+        "period": "Classical",
+        "meaning": "we"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "εμείς",
+        "period": "Modern",
+        "meaning": "we"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ἡμεῖς."
+  },
+  "word_el_autoi": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "αὐτοί (autoi)",
+        "period": "Classical",
+        "meaning": "they"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "αυτοί",
+        "period": "Modern",
+        "meaning": "they"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek αὐτοί."
+  },
+  "word_el_autos_pronoun": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "αὐτός (autos)",
+        "period": "Classical",
+        "meaning": "this, he"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "αυτός",
+        "period": "Modern",
+        "meaning": "this"
+      }
+    ],
+    "cognates": [],
+    "notes": "Demonstrative 'this'."
+  },
+  "word_el_ekinos": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἐκεῖνος (ekeinos)",
+        "period": "Classical",
+        "meaning": "that"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "εκείνος",
+        "period": "Modern",
+        "meaning": "that"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ἐκεῖνος."
+  },
+  "word_el_ti": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "τί (ti)",
+        "period": "Classical",
+        "meaning": "what"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "τι",
+        "period": "Modern",
+        "meaning": "what"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek τί."
+  },
+  "word_el_pios": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "τίς (tis)",
+        "period": "Classical",
+        "meaning": "who"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "ποιος",
+        "period": "Modern",
+        "meaning": "who"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek τίς."
+  },
+  "word_el_pou": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ποῦ (pou)",
+        "period": "Classical",
+        "meaning": "where"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "πού",
+        "period": "Modern",
+        "meaning": "where"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ποῦ."
+  },
+  "word_el_pote_interrog": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "πότε (pote)",
+        "period": "Classical",
+        "meaning": "when"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "πότε",
+        "period": "Modern",
+        "meaning": "when"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek πότε."
+  },
+  "word_el_giati": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἰδίᾳ τί (idia ti)?",
+        "period": "Classical",
+        "meaning": "for what"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "γιατί",
+        "period": "Modern",
+        "meaning": "why"
+      }
+    ],
+    "cognates": [],
+    "notes": "From 'για' (for) + 'τί' (what)."
+  },
+  "word_el_pos": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "πῶς (pōs)",
+        "period": "Classical",
+        "meaning": "how"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "πώς",
+        "period": "Modern",
+        "meaning": "how"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek πῶς."
+  },
+  "word_el_kai": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "καί (kai)",
+        "period": "Classical",
+        "meaning": "and, also"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "και",
+        "period": "Modern",
+        "meaning": "and"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek καί."
+  },
+  "word_el_i": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἤ (ē)",
+        "period": "Classical",
+        "meaning": "or"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "ή",
+        "period": "Modern",
+        "meaning": "or"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ἤ."
+  },
+  "word_el_alla": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἀλλά (alla)",
+        "period": "Classical",
+        "meaning": "but"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "αλλά",
+        "period": "Modern",
+        "meaning": "but"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ἀλλά."
+  },
+  "word_el_an": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ἐάν (ean)",
+        "period": "Classical",
+        "meaning": "if"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "αν",
+        "period": "Modern",
+        "meaning": "if"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ἐάν."
+  },
+  "word_el_giati_because": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 5th century BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "διότι (dioti)",
+        "period": "Classical",
+        "meaning": "because"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "γιατί",
+        "period": "Modern",
+        "meaning": "because"
+      }
+    ],
+    "cognates": [],
+    "notes": "Same word as 'why' but used as 'because' in statements."
+  },
+  "word_el_ochi": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "οὐχί (ouchi)",
+        "period": "Classical",
+        "meaning": "not at all"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "όχι",
+        "period": "Modern",
+        "meaning": "no"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek οὐχί."
+  },
+  "word_el_nai": {
+    "languageOrigin": "Greek",
+    "yearOfOrigin": "c. 1500 BCE",
+    "timeline": [
+      {
+        "language": "Ancient Greek",
+        "form": "ναί (nai)",
+        "period": "Classical",
+        "meaning": "yes"
+      },
+      {
+        "language": "Modern Greek",
+        "form": "ναι",
+        "period": "Modern",
+        "meaning": "yes"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Ancient Greek ναί."
+  }
+}

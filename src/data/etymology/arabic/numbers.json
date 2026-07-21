@@ -1,0 +1,373 @@
+{
+  "word_ar_sifr": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "9th century CE",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "صفر",
+        "period": "9th century CE",
+        "meaning": "empty, zero"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "zephirum",
+        "meaning": "zero (borrowed from Arabic)"
+      },
+      {
+        "language": "English",
+        "word": "cipher",
+        "meaning": "zero, code"
+      }
+    ],
+    "notes": "Root ص-ف-ر (ṣ-f-r) meaning 'empty'. Arabic mathematicians introduced the concept of zero to Europe."
+  },
+  "word_ar_wahid": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "واحد",
+        "period": "Pre-Islamic era",
+        "meaning": "one, single"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "אחד (echad)",
+        "meaning": "one"
+      }
+    ],
+    "notes": "Root و-ح-د (w-ḥ-d) meaning 'to be alone/unique'. Used in Islamic theology for God's oneness."
+  },
+  "word_ar_ithnan": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*θin-",
+        "period": "c. 3000 BCE",
+        "meaning": "two"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "اثنان",
+        "period": "Pre-Islamic era",
+        "meaning": "two"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "שניים (shnayim)",
+        "meaning": "two"
+      }
+    ],
+    "notes": "From Proto-Semitic numeral system."
+  },
+  "word_ar_thalatha": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*θalaθ-",
+        "period": "c. 3000 BCE",
+        "meaning": "three"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "ثلاثة",
+        "period": "Pre-Islamic era",
+        "meaning": "three"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "שלושה (shlosha)",
+        "meaning": "three"
+      }
+    ],
+    "notes": "Root ث-ل-ث (th-l-th). Related to 'third' (ثالث)."
+  },
+  "word_ar_arbaaa": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*ʔarbaʕ-",
+        "period": "c. 3000 BCE",
+        "meaning": "four"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "أربعة",
+        "period": "Pre-Islamic era",
+        "meaning": "four"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "ארבעה (arba'a)",
+        "meaning": "four"
+      }
+    ],
+    "notes": "Root ر-ب-ع (r-b-ʕ). Related to 'quarter' (ربع)."
+  },
+  "word_ar_khamsa": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*ḫams-",
+        "period": "c. 3000 BCE",
+        "meaning": "five"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "خمسة",
+        "period": "Pre-Islamic era",
+        "meaning": "five"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "חמישה (chamisha)",
+        "meaning": "five"
+      }
+    ],
+    "notes": "Root خ-م-س (kh-m-s). Related to 'fifth' (خامس)."
+  },
+  "word_ar_sitta": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*šidθ-",
+        "period": "c. 3000 BCE",
+        "meaning": "six"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "ستة",
+        "period": "Pre-Islamic era",
+        "meaning": "six"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "שישה (shisha)",
+        "meaning": "six"
+      }
+    ],
+    "notes": "Root س-ت-ت (s-t-t). Related to 'sixth' (سادس)."
+  },
+  "word_ar_sabaa": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*sabʕ-",
+        "period": "c. 3000 BCE",
+        "meaning": "seven"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "سبعة",
+        "period": "Pre-Islamic era",
+        "meaning": "seven"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "שבעה (shiv'a)",
+        "meaning": "seven"
+      }
+    ],
+    "notes": "Root س-ب-ع (s-b-ʕ). Sacred number in Islamic tradition."
+  },
+  "word_ar_thamaniya": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*θaman-",
+        "period": "c. 3000 BCE",
+        "meaning": "eight"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "ثمانية",
+        "period": "Pre-Islamic era",
+        "meaning": "eight"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "שמונה (shmona)",
+        "meaning": "eight"
+      }
+    ],
+    "notes": "Root ث-م-ن (th-m-n). Related to 'eighth' (ثامن)."
+  },
+  "word_ar_tisaa": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*tisʕ-",
+        "period": "c. 3000 BCE",
+        "meaning": "nine"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "تسعة",
+        "period": "Pre-Islamic era",
+        "meaning": "nine"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "תשעה (tish'a)",
+        "meaning": "nine"
+      }
+    ],
+    "notes": "Root ت-س-ع (t-s-ʕ). Related to 'ninth' (تاسع)."
+  },
+  "word_ar_aashara": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*ʕaśar-",
+        "period": "c. 3000 BCE",
+        "meaning": "ten"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "عشرة",
+        "period": "Pre-Islamic era",
+        "meaning": "ten"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "עשרה (asara)",
+        "meaning": "ten"
+      }
+    ],
+    "notes": "Root ع-ش-ر (ʕ-sh-r). Base of decimal system."
+  },
+  "word_ar_miaa": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*miʔat-",
+        "period": "c. 3000 BCE",
+        "meaning": "hundred"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "مئة",
+        "period": "Pre-Islamic era",
+        "meaning": "hundred"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "מאה (me'a)",
+        "meaning": "hundred"
+      }
+    ],
+    "notes": "Root م-ء-ي (m-ʔ-y)."
+  },
+  "word_ar_alf": {
+    "languageOrigin": "Proto-Semitic",
+    "yearOfOrigin": "Ancient",
+    "timeline": [
+      {
+        "language": "Proto-Semitic",
+        "form": "*ʔalp-",
+        "period": "c. 3000 BCE",
+        "meaning": "thousand, cattle"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "ألف",
+        "period": "Pre-Islamic era",
+        "meaning": "thousand"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Hebrew",
+        "word": "אלף (elef)",
+        "meaning": "thousand"
+      }
+    ],
+    "notes": "Root أ-ل-ف (ʔ-l-f). Originally meant 'cattle' as unit of wealth."
+  },
+  "word_ar_million": {
+    "languageOrigin": "European (via Ottoman Turkish)",
+    "yearOfOrigin": "19th century",
+    "timeline": [
+      {
+        "language": "Italian",
+        "form": "milione",
+        "period": "13th century",
+        "meaning": "million"
+      },
+      {
+        "language": "Ottoman Turkish",
+        "form": "milyon",
+        "period": "19th century",
+        "meaning": "million"
+      },
+      {
+        "language": "Modern Arabic",
+        "form": "مليون",
+        "period": "19th-20th century",
+        "meaning": "million"
+      }
+    ],
+    "cognates": [],
+    "notes": "Borrowed from European languages during modernization period."
+  },
+  "word_ar_nisf": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Pre-Islamic",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "نصف",
+        "period": "Pre-Islamic era",
+        "meaning": "half"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ن-ص-ف (n-ṣ-f) meaning 'to halve/divide'."
+  }
+}

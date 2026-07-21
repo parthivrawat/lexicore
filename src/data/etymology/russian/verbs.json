@@ -1,0 +1,481 @@
+{
+  "word_ru_byt": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*byti",
+        "period": "c. 500 CE",
+        "meaning": "to be"
+      },
+      {
+        "language": "Old Russian",
+        "form": "быти",
+        "period": "Medieval",
+        "meaning": "to be"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "fuī",
+        "meaning": "I was"
+      }
+    ],
+    "notes": "PIE *bʰuH- (to be, become). The present 'есть' comes from a different root."
+  },
+  "word_ru_delat": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "делати",
+        "period": "Medieval",
+        "meaning": "to do, make"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "English",
+        "word": "do",
+        "meaning": "to do"
+      }
+    ],
+    "notes": "From Common Slavic *dělati (to do, work). PIE *dʰeh₁-l-?"
+  },
+  "word_ru_idti": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*jьti",
+        "period": "c. 500 CE",
+        "meaning": "to go"
+      },
+      {
+        "language": "Old Russian",
+        "form": "ити",
+        "period": "Medieval",
+        "meaning": "to go"
+      }
+    ],
+    "cognates": [],
+    "notes": "Suppletive verb: present 'иду' from *jьd- and past 'шёл' from a different root."
+  },
+  "word_ru_prihodit": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*hoditi",
+        "period": "c. 500 CE",
+        "meaning": "to go, walk"
+      },
+      {
+        "language": "Old Russian",
+        "form": "ходити",
+        "period": "Medieval",
+        "meaning": "to walk"
+      }
+    ],
+    "cognates": [],
+    "notes": "Prefixed verb: при- (to/toward) + ходить (to walk/go). Means 'to come'."
+  },
+  "word_ru_est": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*ěsti",
+        "period": "c. 500 CE",
+        "meaning": "to eat"
+      },
+      {
+        "language": "Old Russian",
+        "form": "ѣсти",
+        "period": "Medieval",
+        "meaning": "to eat"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "edere",
+        "meaning": "to eat"
+      },
+      {
+        "language": "Sanskrit",
+        "word": "अत्ति (atti)",
+        "meaning": "he eats"
+      }
+    ],
+    "notes": "PIE *h₁éd- (to eat)."
+  },
+  "word_ru_pit": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*piti",
+        "period": "c. 500 CE",
+        "meaning": "to drink"
+      },
+      {
+        "language": "Old Russian",
+        "form": "пити",
+        "period": "Medieval",
+        "meaning": "to drink"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "bibere",
+        "meaning": "to drink"
+      }
+    ],
+    "notes": "PIE *poh₃-i- (to drink)."
+  },
+  "word_ru_videt": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*viděti",
+        "period": "c. 500 CE",
+        "meaning": "to see"
+      },
+      {
+        "language": "Old Russian",
+        "form": "видѣти",
+        "period": "Medieval",
+        "meaning": "to see"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "vidēre",
+        "meaning": "to see"
+      }
+    ],
+    "notes": "PIE *weyd- (to see)."
+  },
+  "word_ru_slishat": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*slyšati",
+        "period": "c. 500 CE",
+        "meaning": "to hear"
+      },
+      {
+        "language": "Old Russian",
+        "form": "слышати",
+        "period": "Medieval",
+        "meaning": "to hear"
+      }
+    ],
+    "cognates": [],
+    "notes": "PIE *ḱlew- (to hear)."
+  },
+  "word_ru_govorit": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 15th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "говорити",
+        "period": "Medieval",
+        "meaning": "to speak, chat"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Common Slavic *govoriti. Related to 'govor' (speech)."
+  },
+  "word_ru_chitat": {
+    "languageOrigin": "Old Church Slavonic",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Old Church Slavonic",
+        "form": "читати",
+        "period": "10th century",
+        "meaning": "to read, count"
+      },
+      {
+        "language": "Russian",
+        "form": "читать",
+        "period": "Modern",
+        "meaning": "to read"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Church Slavonic 'čitati' (to read, count)."
+  },
+  "word_ru_pisat": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*pisati",
+        "period": "c. 500 CE",
+        "meaning": "to write"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "pingere",
+        "meaning": "to paint"
+      }
+    ],
+    "notes": "From Proto-Slavic *pisati (to write). PIE *peyḱ- (to paint)."
+  },
+  "word_ru_davat": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*dati",
+        "period": "c. 500 CE",
+        "meaning": "to give"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "dare",
+        "meaning": "to give"
+      }
+    ],
+    "notes": "PIE *deh₃- (to give). 'Дать' is the perfective, 'давать' imperfective."
+  },
+  "word_ru_brat": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*běrati",
+        "period": "c. 500 CE",
+        "meaning": "to take, gather"
+      }
+    ],
+    "cognates": [],
+    "notes": "PIE *bʰer- (to bear, take). 'Брать' means 'to take'."
+  },
+  "word_ru_spat": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "спати",
+        "period": "Medieval",
+        "meaning": "to sleep"
+      }
+    ],
+    "cognates": [],
+    "notes": "PIE *swep- (to sleep). Related to 'сон' (sleep, dream)."
+  },
+  "word_ru_prosypatsya": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 15th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "просыпатися",
+        "period": "Medieval",
+        "meaning": "to wake up"
+      }
+    ],
+    "cognates": [],
+    "notes": "Prefix про- (through, away) + сыпать (to pour) + reflexive. Idiomatic for waking."
+  },
+  "word_ru_sidet": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*sěděti",
+        "period": "c. 500 CE",
+        "meaning": "to sit"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "sedēre",
+        "meaning": "to sit"
+      },
+      {
+        "language": "Sanskrit",
+        "word": "सीदति (sīdati)",
+        "meaning": "he sits"
+      }
+    ],
+    "notes": "PIE *sed- (to sit)."
+  },
+  "word_ru_stoyat": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*stojati",
+        "period": "c. 500 CE",
+        "meaning": "to stand"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Latin",
+        "word": "stāre",
+        "meaning": "to stand"
+      },
+      {
+        "language": "Sanskrit",
+        "word": "तिष्ठति (tiṣṭhati)",
+        "meaning": "he stands"
+      }
+    ],
+    "notes": "PIE *steh₂- (to stand)."
+  },
+  "word_ru_gulyat": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 17th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "гуляти",
+        "period": "Medieval",
+        "meaning": "to walk, stroll"
+      }
+    ],
+    "cognates": [],
+    "notes": "Of onomatopoetic/expressive origin. Related to 'гуляка' (reveler)."
+  },
+  "word_ru_bezhat": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*běžati",
+        "period": "c. 500 CE",
+        "meaning": "to run"
+      }
+    ],
+    "cognates": [],
+    "notes": "PIE *gʷʰes- (to run). Cognate with 'bēgati' (to flee)."
+  },
+  "word_ru_smejatsya": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*smějati sę",
+        "period": "c. 500 CE",
+        "meaning": "to laugh"
+      }
+    ],
+    "cognates": [],
+    "notes": "PIE *smei- (to laugh, smile)."
+  },
+  "word_ru_plakat": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*plakati",
+        "period": "c. 500 CE",
+        "meaning": "to cry, weep"
+      }
+    ],
+    "cognates": [],
+    "notes": "Of imitative origin. PIE *plāk-?"
+  },
+  "word_ru_ponimat": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 15th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "понимати",
+        "period": "Medieval",
+        "meaning": "to understand"
+      }
+    ],
+    "cognates": [],
+    "notes": "Prefix по- + 'нять' (to take, grasp). 'To take in, grasp'."
+  },
+  "word_ru_khotet": {
+    "languageOrigin": "Russian",
+    "yearOfOrigin": "c. 12th century",
+    "timeline": [
+      {
+        "language": "Old Russian",
+        "form": "хотѣти",
+        "period": "Medieval",
+        "meaning": "to want"
+      }
+    ],
+    "cognates": [],
+    "notes": "Of disputed etymology; possibly related to 'heat' (desire)."
+  },
+  "word_ru_lyubit": {
+    "languageOrigin": "Proto-Slavic",
+    "yearOfOrigin": "c. 500 CE",
+    "timeline": [
+      {
+        "language": "Proto-Slavic",
+        "form": "*ljubiti",
+        "period": "c. 500 CE",
+        "meaning": "to love, like"
+      }
+    ],
+    "cognates": [
+      {
+        "language": "Sanskrit",
+        "word": "लुभ्यति (lubhyati)",
+        "meaning": "he desires"
+      }
+    ],
+    "notes": "PIE *lewbʰ- (to like, love)."
+  },
+  "word_ru_rabotat": {
+    "languageOrigin": "Arabic/Greek via Church Slavonic",
+    "yearOfOrigin": "c. 10th century",
+    "timeline": [
+      {
+        "language": "Arabic",
+        "form": "ربطة (rabata)",
+        "period": "Medieval",
+        "meaning": "to bind, serve"
+      },
+      {
+        "language": "Old Church Slavonic",
+        "form": "работати",
+        "period": "10th century",
+        "meaning": "to work, serve"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Arabic/Byzantine Greek 'rabata' (to serve) via Church Slavonic. Related to 'раб' (slave)."
+  }
+}

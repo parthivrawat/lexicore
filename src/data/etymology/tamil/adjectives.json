@@ -1,0 +1,402 @@
+{
+  "word_ta_nalla": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "நல் (nal)",
+        "period": "Sangam",
+        "meaning": "good"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "நல்ல",
+        "period": "Modern",
+        "meaning": "good"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil nal."
+  },
+  "word_ta_tappu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "தப்பு (tappu)",
+        "period": "Medieval",
+        "meaning": "wrong, bad"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "தப்பு",
+        "period": "Modern",
+        "meaning": "bad"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil tappu (mistake)."
+  },
+  "word_ta_periya": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "பெரிய (periya)",
+        "period": "Sangam",
+        "meaning": "big"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "பெரிய",
+        "period": "Modern",
+        "meaning": "big"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil periya."
+  },
+  "word_ta_chinna": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "சின்ன (ciṉṉa)",
+        "period": "Medieval",
+        "meaning": "small"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "சின்ன",
+        "period": "Modern",
+        "meaning": "small"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil ciṉṉa."
+  },
+  "word_ta_neelamana": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "நீளமான (nīḷamāṉa)",
+        "period": "Medieval",
+        "meaning": "long"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "நீளமான",
+        "period": "Modern",
+        "meaning": "long"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil nīḷam (length)."
+  },
+  "word_ta_kurukiya": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "குறுகிய (kuṟukiya)",
+        "period": "Medieval",
+        "meaning": "short"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "குறுகிய",
+        "period": "Modern",
+        "meaning": "short"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil kuṟuku (shorten)."
+  },
+  "word_ta_uyaramana": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "உயரமான (uyaramāṉa)",
+        "period": "Medieval",
+        "meaning": "tall"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "உயரமான",
+        "period": "Modern",
+        "meaning": "tall"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil uyaram (height)."
+  },
+  "word_ta_kizhamaiyana": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "குறைவான (kuṟaivāṉa)",
+        "period": "Medieval",
+        "meaning": "low, less"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "குறைவான",
+        "period": "Modern",
+        "meaning": "low"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil kuṟai (lack/less)."
+  },
+  "word_ta_puthiya": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "புதிய (putiya)",
+        "period": "Sangam",
+        "meaning": "new"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "புதிய",
+        "period": "Modern",
+        "meaning": "new"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil putiya."
+  },
+  "word_ta_pazhaya": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "பழைய (paḻaiya)",
+        "period": "Sangam",
+        "meaning": "old"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "பழைய",
+        "period": "Modern",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil paḻaiya."
+  },
+  "word_ta_elum": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "இளம் (iḷam)",
+        "period": "Sangam",
+        "meaning": "young, tender"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "இளம்",
+        "period": "Modern",
+        "meaning": "young"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil iḷam."
+  },
+  "word_ta_mootha": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "மூத்த (mūtta)",
+        "period": "Medieval",
+        "meaning": "old, elder"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "மூத்த",
+        "period": "Modern",
+        "meaning": "old"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil mū (to mature)."
+  },
+  "word_ta_azhagaana": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "அழகான (aḻakāṉa)",
+        "period": "Medieval",
+        "meaning": "beautiful"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "அழகான",
+        "period": "Modern",
+        "meaning": "beautiful"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil aḻaku (beauty)."
+  },
+  "word_ta_azhagillatha": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "அழகில்லாத (aḻakillāta)",
+        "period": "Medieval",
+        "meaning": "ugly"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "அழகில்லாத",
+        "period": "Modern",
+        "meaning": "ugly"
+      }
+    ],
+    "cognates": [],
+    "notes": "aḻaku (beauty) + illāta (without)."
+  },
+  "word_ta_soodana": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "சூடான (cūṭāṉa)",
+        "period": "Medieval",
+        "meaning": "hot"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "சூடான",
+        "period": "Modern",
+        "meaning": "hot"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil cūṭu (heat)."
+  },
+  "word_ta_thaniyaana": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "குளிர்ந்த (kuḷirnta)",
+        "period": "Medieval",
+        "meaning": "cold"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "குளிர்ந்த",
+        "period": "Modern",
+        "meaning": "cold"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil kuḷir (cold)."
+  },
+  "word_ta_vegamaana": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "வேகமான (vēkamāṉa)",
+        "period": "Medieval",
+        "meaning": "fast"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "வேகமான",
+        "period": "Modern",
+        "meaning": "fast"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil vēkam (speed)."
+  },
+  "word_ta_medhuvana": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "மெதுவான (mētevāṉa)",
+        "period": "Medieval",
+        "meaning": "slow"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "மெதுவான",
+        "period": "Modern",
+        "meaning": "slow"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil mētu (soft/slow)."
+  },
+  "word_ta_eluppamaana": {
+    "languageOrigin": "Tamil/Sanskrit",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "लघु (laghu)",
+        "period": "Classical",
+        "meaning": "light, easy"
+      },
+      {
+        "language": "Tamil",
+        "form": "எளிதான (eḷitāṉa)",
+        "period": "Medieval",
+        "meaning": "easy"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil eḷitu (ease)."
+  },
+  "word_ta_kashtamaana": {
+    "languageOrigin": "Tamil/Sanskrit",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "कष्ट (kaṣṭa)",
+        "period": "Classical",
+        "meaning": "difficult"
+      },
+      {
+        "language": "Tamil",
+        "form": "கடினமான (kaṭiṉamāṉa)",
+        "period": "Medieval",
+        "meaning": "difficult"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Sanskrit kaṣṭa/Tamil kaṭiṉam."
+  }
+}

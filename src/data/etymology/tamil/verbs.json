@@ -1,0 +1,502 @@
+{
+  "word_ta_irukkirathu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "இரு (iru)",
+        "period": "Sangam",
+        "meaning": "to be, exist"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "இருக்கிறது",
+        "period": "Modern",
+        "meaning": "to be"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil iru."
+  },
+  "word_ta_seyvathu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "செய் (cey)",
+        "period": "Sangam",
+        "meaning": "to do"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "செய்வது",
+        "period": "Modern",
+        "meaning": "to do"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil cey."
+  },
+  "word_ta_poguvathu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "போ (pō)",
+        "period": "Sangam",
+        "meaning": "to go"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "போவது",
+        "period": "Modern",
+        "meaning": "to go"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil pō."
+  },
+  "word_ta_varuvathu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "வா (vā)",
+        "period": "Sangam",
+        "meaning": "to come"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "வருவது",
+        "period": "Modern",
+        "meaning": "to come"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil vā."
+  },
+  "word_ta_sapida": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "சாப்பிடு (cāppiṭu)",
+        "period": "Medieval",
+        "meaning": "to eat"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "சாப்பிடுவது",
+        "period": "Modern",
+        "meaning": "to eat"
+      }
+    ],
+    "cognates": [],
+    "notes": "cāppiṭu (to eat) from cāṭu?"
+  },
+  "word_ta_kudikkum": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "குடி (kuṭi)",
+        "period": "Sangam",
+        "meaning": "to drink"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "குடிக்கும்",
+        "period": "Modern",
+        "meaning": "to drink"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil kuṭi."
+  },
+  "word_ta_paarkkirathu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "பார் (pār)",
+        "period": "Sangam",
+        "meaning": "to see"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "பார்க்கிறது",
+        "period": "Modern",
+        "meaning": "to see"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil pār."
+  },
+  "word_ta_kelvithu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "கேள் (kēḷ)",
+        "period": "Sangam",
+        "meaning": "to hear, ask"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "கேட்கிறது",
+        "period": "Modern",
+        "meaning": "to hear"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil kēḷ."
+  },
+  "word_ta_pesuvathu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "பேசு (pēcu)",
+        "period": "Medieval",
+        "meaning": "to speak"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "பேசுவது",
+        "period": "Modern",
+        "meaning": "to speak"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil pēcu."
+  },
+  "word_ta_padikkum": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "படி (paṭi)",
+        "period": "Sangam",
+        "meaning": "to read, study"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "படிக்கும்",
+        "period": "Modern",
+        "meaning": "to read"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil paṭi."
+  },
+  "word_ta_eluthum": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "எழுது (eḻutu)",
+        "period": "Sangam",
+        "meaning": "to write"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "எழுதும்",
+        "period": "Modern",
+        "meaning": "to write"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil eḻutu."
+  },
+  "word_ta_kodukum": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "கொடு (koṭu)",
+        "period": "Sangam",
+        "meaning": "to give"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "கொடுக்கும்",
+        "period": "Modern",
+        "meaning": "to give"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil koṭu."
+  },
+  "word_ta_edukkum": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "எடு (eṭu)",
+        "period": "Sangam",
+        "meaning": "to take"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "எடுக்கும்",
+        "period": "Modern",
+        "meaning": "to take"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil eṭu."
+  },
+  "word_ta_uranguvathu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "உறங்கு (uṟaṅku)",
+        "period": "Sangam",
+        "meaning": "to sleep"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "உறங்குவது",
+        "period": "Modern",
+        "meaning": "to sleep"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil uṟaṅku."
+  },
+  "word_ta_ezhuvathu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "எழு (eḻu)",
+        "period": "Sangam",
+        "meaning": "to rise"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "எழுவது",
+        "period": "Modern",
+        "meaning": "to wake up"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil eḻu."
+  },
+  "word_ta_ukkaarum": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "உட்கார் (uṭkār)",
+        "period": "Medieval",
+        "meaning": "to sit"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "உட்காரும்",
+        "period": "Modern",
+        "meaning": "to sit"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Tamil uṭkār."
+  },
+  "word_ta_niluvathu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Old Tamil",
+        "form": "நில் (nil)",
+        "period": "Sangam",
+        "meaning": "to stand"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "நிற்பது",
+        "period": "Modern",
+        "meaning": "to stand"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil nil."
+  },
+  "word_ta_nadaikkum": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "நடை (naṭai)",
+        "period": "Sangam",
+        "meaning": "to walk"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "நடைக்கும்",
+        "period": "Modern",
+        "meaning": "to walk"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil naṭai."
+  },
+  "word_ta_ottikkum": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "ஓடு (ōṭu)",
+        "period": "Sangam",
+        "meaning": "to run"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "ஓடிக்கும்",
+        "period": "Modern",
+        "meaning": "to run"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil ōṭu."
+  },
+  "word_ta_sirikkum": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "சிரி (ciri)",
+        "period": "Sangam",
+        "meaning": "to laugh"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "சிரிக்கும்",
+        "period": "Modern",
+        "meaning": "to laugh"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil ciri."
+  },
+  "word_ta_azhuvathu": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "அழு (aḻu)",
+        "period": "Sangam",
+        "meaning": "to cry"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "அழுவது",
+        "period": "Modern",
+        "meaning": "to cry"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil aḻu."
+  },
+  "word_ta_purindhu_kollum": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "புரி (puri)",
+        "period": "Sangam",
+        "meaning": "to understand"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "புரிந்து கொள்ளும்",
+        "period": "Modern",
+        "meaning": "to understand"
+      }
+    ],
+    "cognates": [],
+    "notes": "puri (understand) + koḷ (take)."
+  },
+  "word_ta_virumpum": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "விரும்பு (virumpu)",
+        "period": "Sangam",
+        "meaning": "to desire"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "விரும்பும்",
+        "period": "Modern",
+        "meaning": "to want"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil virumpu."
+  },
+  "word_ta_kathalikum": {
+    "languageOrigin": "Tamil",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Tamil",
+        "form": "காதலி (kātali)",
+        "period": "Sangam",
+        "meaning": "to love"
+      },
+      {
+        "language": "Modern Tamil",
+        "form": "காதலிக்கும்",
+        "period": "Modern",
+        "meaning": "to love"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Old Tamil kātali."
+  },
+  "word_ta_velai_seyvathu": {
+    "languageOrigin": "Tamil/Sanskrit",
+    "yearOfOrigin": "c. 3rd century BCE",
+    "timeline": [
+      {
+        "language": "Sanskrit",
+        "form": "वेलायाम् (velāyām)",
+        "period": "Classical",
+        "meaning": "at the time"
+      },
+      {
+        "language": "Tamil",
+        "form": "வேலை செய்வது",
+        "period": "Modern",
+        "meaning": "to work"
+      }
+    ],
+    "cognates": [],
+    "notes": "vēlai (work) from Sanskrit velā + cey (do)."
+  }
+}

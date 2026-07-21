@@ -388,5 +388,603 @@
       }
     ],
     "relatedRootIds": []
+  },
+  {
+    "id": "root_la_bene",
+    "root": "bene-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "well",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "be.ne"
+      }
+    ],
+    "examples": [
+      {
+        "word": "bene",
+        "meaning": "well",
+        "sentence": "Bene loquitur."
+      },
+      {
+        "word": "benefacere",
+        "meaning": "to do good",
+        "sentence": "Benefacit amīcīs."
+      }
+    ],
+    "relatedRootIds": ["root_la_bon"]
+  },
+  {
+    "id": "root_la_bon",
+    "root": "bon-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "good",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "bon"
+      }
+    ],
+    "examples": [
+      {
+        "word": "bonus",
+        "meaning": "good",
+        "sentence": "Bonus est vir."
+      },
+      {
+        "word": "bonum",
+        "meaning": "good thing",
+        "sentence": "Bonum facere volō."
+      }
+    ],
+    "relatedRootIds": ["root_la_bene"]
+  },
+  {
+    "id": "root_la_com",
+    "root": "com-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "with, together",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "kom"
+      }
+    ],
+    "examples": [
+      {
+        "word": "committere",
+        "meaning": "to send together; entrust",
+        "sentence": "Committit omnia illī."
+      },
+      {
+        "word": "comparāre",
+        "meaning": "to prepare",
+        "sentence": "Cōpiās comparat."
+      }
+    ],
+    "relatedRootIds": ["root_la_con", "root_la_cum"]
+  },
+  {
+    "id": "root_la_contra",
+    "root": "contrā-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "against, opposite",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "kon.traː"
+      }
+    ],
+    "examples": [
+      {
+        "word": "contrā",
+        "meaning": "against",
+        "sentence": "Contrā hostem stat."
+      },
+      {
+        "word": "contrādīcere",
+        "meaning": "to contradict",
+        "sentence": "Nōlī contrādīcere."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_extra",
+    "root": "extrā-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "outside, beyond",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ek.traː"
+      }
+    ],
+    "examples": [
+      {
+        "word": "extrā",
+        "meaning": "outside",
+        "sentence": "Extrā mūrōs est."
+      },
+      {
+        "word": "extrahere",
+        "meaning": "to draw out",
+        "sentence": "Lībrum extrahit."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_in",
+    "root": "in-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "in, into; not",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "in"
+      }
+    ],
+    "examples": [
+      {
+        "word": "in",
+        "meaning": "in, into",
+        "sentence": "In urbe habitō."
+      },
+      {
+        "word": "invalidus",
+        "meaning": "not strong",
+        "sentence": "Aeger invalidus est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_intra",
+    "root": "intrā-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "within",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "in.traː"
+      }
+    ],
+    "examples": [
+      {
+        "word": "intrā",
+        "meaning": "within",
+        "sentence": "Intrā domum manet."
+      },
+      {
+        "word": "intrāre",
+        "meaning": "to enter",
+        "sentence": "Intrāmus templum."
+      }
+    ],
+    "relatedRootIds": ["root_la_inter"]
+  },
+  {
+    "id": "root_la_male",
+    "root": "male-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "badly",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ma.le"
+      }
+    ],
+    "examples": [
+      {
+        "word": "male",
+        "meaning": "badly",
+        "sentence": "Male respondet."
+      },
+      {
+        "word": "malevolus",
+        "meaning": "ill-wishing",
+        "sentence": "Homō malevolus est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_milli",
+    "root": "mīlli-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "thousand",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "miːl.li"
+      }
+    ],
+    "examples": [
+      {
+        "word": "mīlle",
+        "meaning": "thousand",
+        "sentence": "Mīlle passuum ambulāvit."
+      },
+      {
+        "word": "mīllēsimus",
+        "meaning": "thousandth",
+        "sentence": "Mīllēsimus diēs est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_min",
+    "root": "min-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "small, less",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "min"
+      }
+    ],
+    "examples": [
+      {
+        "word": "minor",
+        "meaning": "smaller",
+        "sentence": "Fīlius minor est."
+      },
+      {
+        "word": "minimus",
+        "meaning": "smallest",
+        "sentence": "Minimum est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_multi",
+    "root": "multī-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "many",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "mul.tiː"
+      }
+    ],
+    "examples": [
+      {
+        "word": "multī",
+        "meaning": "many",
+        "sentence": "Multī hominēs veniunt."
+      },
+      {
+        "word": "multum",
+        "meaning": "much",
+        "sentence": "Multum labōris est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_non",
+    "root": "nōn-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "not",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "noːn"
+      }
+    ],
+    "examples": [
+      {
+        "word": "nōn",
+        "meaning": "not",
+        "sentence": "Nōn possum venīre."
+      },
+      {
+        "word": "nōnnūllī",
+        "meaning": "some",
+        "sentence": "Nōnnūllī adsunt."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_omni",
+    "root": "omnī-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "all",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "om.niː"
+      }
+    ],
+    "examples": [
+      {
+        "word": "omnis",
+        "meaning": "all",
+        "sentence": "Omnis homō mortālis est."
+      },
+      {
+        "word": "omnīpotēns",
+        "meaning": "all-powerful",
+        "sentence": "Deus omnīpotēns est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_per",
+    "root": "per-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "through",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "per"
+      }
+    ],
+    "examples": [
+      {
+        "word": "per",
+        "meaning": "through",
+        "sentence": "Per viam ambulat."
+      },
+      {
+        "word": "pervenīre",
+        "meaning": "to arrive",
+        "sentence": "Ad urbem pervēnit."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_pro",
+    "root": "pro-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "forward, for",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "pro"
+      }
+    ],
+    "examples": [
+      {
+        "word": "pro",
+        "meaning": "for, in front of",
+        "sentence": "Pro patria pugnat."
+      },
+      {
+        "word": "prōcēdere",
+        "meaning": "to go forward",
+        "sentence": "Cautē prōcēdit."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_quadr",
+    "root": "quadr-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "four",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "kwadr"
+      }
+    ],
+    "examples": [
+      {
+        "word": "quadrupēs",
+        "meaning": "four-footed",
+        "sentence": "Equus quadrupēs est."
+      },
+      {
+        "word": "quadrātus",
+        "meaning": "square",
+        "sentence": "Area quadrāta est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_quasi",
+    "root": "quasi-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "as if",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "kwa.si"
+      }
+    ],
+    "examples": [
+      {
+        "word": "quasi",
+        "meaning": "as if",
+        "sentence": "Quasi nihil accidisset."
+      },
+      {
+        "word": "quasi",
+        "meaning": "as if",
+        "sentence": "Quasi puer errat."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_retro",
+    "root": "retrō-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "backward, back",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "re.troː"
+      }
+    ],
+    "examples": [
+      {
+        "word": "retrō",
+        "meaning": "back",
+        "sentence": "Retrō spectat."
+      },
+      {
+        "word": "retrō",
+        "meaning": "back",
+        "sentence": "Retrō pedem fert."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_semi",
+    "root": "semī-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "half",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "se.miː"
+      }
+    ],
+    "examples": [
+      {
+        "word": "semianimis",
+        "meaning": "half-alive",
+        "sentence": "Hominēs semianimēs iacent."
+      },
+      {
+        "word": "semimortuus",
+        "meaning": "half-dead",
+        "sentence": "Hostis semimortuus iacet."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_super",
+    "root": "super-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "above, over",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "su.per"
+      }
+    ],
+    "examples": [
+      {
+        "word": "super",
+        "meaning": "above",
+        "sentence": "Avēs super nōs volant."
+      },
+      {
+        "word": "superāre",
+        "meaning": "to overcome",
+        "sentence": "Hostēs superāmus."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_trans",
+    "root": "trāns-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "across, beyond",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "traːns"
+      }
+    ],
+    "examples": [
+      {
+        "word": "trāns",
+        "meaning": "across",
+        "sentence": "Trāns flūmen īmus."
+      },
+      {
+        "word": "trānsīre",
+        "meaning": "to cross",
+        "sentence": "Pontem trānsīre possumus."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_ultra",
+    "root": "ultrā-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "beyond",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ul.traː"
+      }
+    ],
+    "examples": [
+      {
+        "word": "ultrā",
+        "meaning": "beyond",
+        "sentence": "Ultrā mūrōs est."
+      },
+      {
+        "word": "ultrā",
+        "meaning": "beyond",
+        "sentence": "Hostis ultrā flūmen fugit."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_uni",
+    "root": "ūnī-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "one",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "uː.niː"
+      }
+    ],
+    "examples": [
+      {
+        "word": "ūnus",
+        "meaning": "one",
+        "sentence": "Ūnus homō venit."
+      },
+      {
+        "word": "ūnicornis",
+        "meaning": "one-horned",
+        "sentence": "Ūnicornis in fabulīs est."
+      }
+    ],
+    "relatedRootIds": ["root_la_duo"]
   }
 ]

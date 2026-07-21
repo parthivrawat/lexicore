@@ -284,5 +284,317 @@
       }
     ],
     "relatedRootIds": ["root_el_scop"]
+  },
+  {
+    "id": "root_el_ac",
+    "root": "-ακός",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "relating to, pertaining to",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "a.kos"
+      }
+    ],
+    "examples": [
+      {
+        "word": "καρδιακός",
+        "meaning": "cardiac",
+        "sentence": "Ο καρδιακός παλμός είναι σταθερός."
+      },
+      {
+        "word": "μανιακός",
+        "meaning": "maniac",
+        "sentence": "Ο μανιακός άνεμος δυνάμωσε."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_kratia",
+    "root": "-κρατία",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "rule, government",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "kra.ti.a"
+      }
+    ],
+    "examples": [
+      {
+        "word": "δημοκρατία",
+        "meaning": "democracy",
+        "sentence": "Η δημοκρατία προστατεύει τους πολίτες."
+      },
+      {
+        "word": "αυτοκρατία",
+        "meaning": "autocracy",
+        "sentence": "Η αυτοκρατία συγκεντρώνει την εξουσία."
+      }
+    ],
+    "relatedRootIds": ["root_el_krates"]
+  },
+  {
+    "id": "root_el_krates",
+    "root": "-κράτης",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "ruler, one who rules",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "kra.tis"
+      }
+    ],
+    "examples": [
+      {
+        "word": "δημοκράτης",
+        "meaning": "democrat",
+        "sentence": "Ο δημοκράτης υποστηρίζει τη λαϊκή εξουσία."
+      },
+      {
+        "word": "αυτοκράτης",
+        "meaning": "autocrat",
+        "sentence": "Ο αυτοκράτης κυβερνά μόνος του."
+      }
+    ],
+    "relatedRootIds": ["root_el_kratia"]
+  },
+  {
+    "id": "root_el_kyklos",
+    "root": "-κύκλος",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "circle, wheel",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ki.klos"
+      }
+    ],
+    "examples": [
+      {
+        "word": "δίκυκλος",
+        "meaning": "bicycle",
+        "sentence": "Το δίκυκλος είναι χρήσιμο μέσο."
+      },
+      {
+        "word": "μοτοσικλέτα",
+        "meaning": "motorcycle",
+        "sentence": "Η μοτοσικλέτα είναι γρήγορη."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_gonia",
+    "root": "-γωνία",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "angle",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ɣo.ɲi.a"
+      }
+    ],
+    "examples": [
+      {
+        "word": "πολυγωνία",
+        "meaning": "polygon",
+        "sentence": "Η πολυγωνία έχει πολλές πλευρές."
+      },
+      {
+        "word": "εξάγωνο",
+        "meaning": "hexagon",
+        "sentence": "Το εξάγωνο έχει έξι πλευρές."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_iasi",
+    "root": "-ίαση",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "condition, disease",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "i.a.si"
+      }
+    ],
+    "examples": [
+      {
+        "word": "ελεφαντίαση",
+        "meaning": "elephantiasis",
+        "sentence": "Η ελεφαντίαση είναι σπάνια ασθένεια."
+      },
+      {
+        "word": "αμοιβαδίαση",
+        "meaning": "amoebiasis",
+        "sentence": "Η αμοιβαδίαση προκαλείται από πρωτόζωα."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_izo",
+    "root": "-ίζω",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "to make, to cause to be",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "i.zo"
+      }
+    ],
+    "examples": [
+      {
+        "word": "εκσυγχρονίζω",
+        "meaning": "to modernize",
+        "sentence": "Εκσυγχρονίζω το σύστημα."
+      },
+      {
+        "word": "βαπτίζω",
+        "meaning": "to baptize",
+        "sentence": "Βαπτίζω το παιδί στην εκκλησία."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_ites",
+    "root": "-ίτης",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "one who, native of, adherent",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "i.tis"
+      }
+    ],
+    "examples": [
+      {
+        "word": "Ισραηλίτης",
+        "meaning": "Israelite",
+        "sentence": "Ο Ισραηλίτης ακολουθεί τις παραδόσεις."
+      },
+      {
+        "word": "Λευίτης",
+        "meaning": "Levite",
+        "sentence": "Ο Λευίτης υπηρετεί στο ιερό."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_logos",
+    "root": "-λόγος",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "one who studies or speaks; speech, study",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "lo.ɣos"
+      }
+    ],
+    "examples": [
+      {
+        "word": "βιολόγος",
+        "meaning": "biologist",
+        "sentence": "Ο βιολόγος μελετά τη ζωή."
+      },
+      {
+        "word": "διάλογος",
+        "meaning": "dialogue",
+        "sentence": "Ο διάλογος είναι εποικοδομητικός."
+      }
+    ],
+    "relatedRootIds": ["root_el_logia"]
+  },
+  {
+    "id": "root_el_oeides",
+    "root": "-οειδές",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "resembling, like",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "o.i.ðes"
+      }
+    ],
+    "examples": [
+      {
+        "word": "σφαιροειδές",
+        "meaning": "spheroid",
+        "sentence": "Το σφαιροειδές σώμα κυλά."
+      },
+      {
+        "word": "ανθρωποειδές",
+        "meaning": "humanoid",
+        "sentence": "Το ανθρωποειδές ρομπότ κινείται."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_oma",
+    "root": "-ωμα",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "tumor, swelling, mass",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "o.ma"
+      }
+    ],
+    "examples": [
+      {
+        "word": "καρκίνωμα",
+        "meaning": "carcinoma",
+        "sentence": "Το καρκίνωμα απαιτεί θεραπεία."
+      },
+      {
+        "word": "λέμφωμα",
+        "meaning": "lymphoma",
+        "sentence": "Το λέμφωμα επηρεάζει το λεμφικό σύστημα."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_on",
+    "root": "-ον",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "thing, unit, particle",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "on"
+      }
+    ],
+    "examples": [
+      {
+        "word": "πρωτόνιο",
+        "meaning": "proton",
+        "sentence": "Το πρωτόνιο είναι θετικό."
+      },
+      {
+        "word": "ηλεκτρόνιο",
+        "meaning": "electron",
+        "sentence": "Το ηλεκτρόνιο είναι αρνητικό."
+      }
+    ],
+    "relatedRootIds": []
   }
 ]

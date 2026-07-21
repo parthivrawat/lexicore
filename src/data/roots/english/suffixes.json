@@ -272,40 +272,6 @@
     "relatedRootIds": ["root_ation"]
   },
   {
-    "id": "root_cy",
-    "root": "-cy",
-    "type": "suffix",
-    "languageOrigin": "Greek",
-    "meaning": "state of, condition of",
-    "pronunciationVariants": [
-      {
-        "accent": "american",
-        "ipa": "i"
-      },
-      {
-        "accent": "british",
-        "ipa": "i"
-      },
-      {
-        "accent": "australian",
-        "ipa": "i"
-      }
-    ],
-    "examples": [
-      {
-        "word": "accuracy",
-        "meaning": "state of being accurate",
-        "sentence": "Check the accuracy of the data."
-      },
-      {
-        "word": "privacy",
-        "meaning": "state of being private",
-        "sentence": "Respect their privacy."
-      }
-    ],
-    "relatedRootIds": []
-  },
-  {
     "id": "root_dom",
     "root": "-dom",
     "type": "suffix",
@@ -3050,35 +3016,6 @@
         "word": "hypnosis",
         "meaning": "condition of sleep",
         "sentence": "Hypnosis can help."
-      }
-    ],
-    "relatedRootIds": []
-  },
-  {
-    "id": "root_ost",
-    "root": "-ost",
-    "type": "suffix",
-    "languageOrigin": "Greek",
-    "meaning": "relating to",
-    "pronunciationVariants": [
-      {
-        "accent": "american",
-        "ipa": "ɑst"
-      },
-      {
-        "accent": "british",
-        "ipa": "ɒst"
-      },
-      {
-        "accent": "australian",
-        "ipa": "ɒst"
-      }
-    ],
-    "examples": [
-      {
-        "word": "cost",
-        "meaning": "relating to cost",
-        "sentence": "The cost is high."
       }
     ],
     "relatedRootIds": []

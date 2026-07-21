@@ -414,5 +414,291 @@
       }
     ],
     "relatedRootIds": []
+  },
+  {
+    "id": "root_el_macro",
+    "root": "macro-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "large, long",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ma.kro"
+      }
+    ],
+    "examples": [
+      {
+        "word": "μακροσκοπικός",
+        "meaning": "macroscopic",
+        "sentence": "Το μακροσκοπικό επίπεδο είναι ορατό."
+      },
+      {
+        "word": "μακροοικονομία",
+        "meaning": "macroeconomics",
+        "sentence": "Η μακροοικονομία μελετά το σύνολο."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_micro",
+    "root": "micro-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "small",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "mi.kro"
+      }
+    ],
+    "examples": [
+      {
+        "word": "μικροσκόπιο",
+        "meaning": "microscope",
+        "sentence": "Το μικροσκόπιο μεγεθύνει."
+      },
+      {
+        "word": "μικροοικονομία",
+        "meaning": "microeconomics",
+        "sentence": "Η μικροοικονομία μελετά μονάδες."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_para",
+    "root": "para-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "beside, beyond",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "pa.ra"
+      }
+    ],
+    "examples": [
+      {
+        "word": "παράγραφος",
+        "meaning": "paragraph",
+        "sentence": "Ο παράγραφος είναι σαφής."
+      },
+      {
+        "word": "παράλληλος",
+        "meaning": "parallel",
+        "sentence": "Οι δρόμοι είναι παράλληλοι."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_pseudo",
+    "root": "pseudo-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "false",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "pse.ðo"
+      }
+    ],
+    "examples": [
+      {
+        "word": "ψευδοεπιστήμη",
+        "meaning": "pseudoscience",
+        "sentence": "Η ψευδοεπιστήμη δεν έχει τεκμήρια."
+      },
+      {
+        "word": "ψευδώνυμο",
+        "meaning": "pseudonym",
+        "sentence": "Το ψευδώνυμο κρύβει το όνομα."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_tele",
+    "root": "tele-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "far, distant",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "te.le"
+      }
+    ],
+    "examples": [
+      {
+        "word": "τηλεόραση",
+        "meaning": "television",
+        "sentence": "Η τηλεόραση είναι ανοικτή."
+      },
+      {
+        "word": "τηλέφωνο",
+        "meaning": "telephone",
+        "sentence": "Το τηλέφωνο χτυπάει."
+      }
+    ],
+    "relatedRootIds": ["root_el_tele_2"]
+  },
+  {
+    "id": "root_el_deca",
+    "root": "deca-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "ten",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ðe.ka"
+      }
+    ],
+    "examples": [
+      {
+        "word": "δεκαετία",
+        "meaning": "decade",
+        "sentence": "Η δεκαετία πέρασε γρήγορα."
+      },
+      {
+        "word": "δεκάδα",
+        "meaning": "group of ten",
+        "sentence": "Μία δεκάδα είναι δέκα μονάδες."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_exo",
+    "root": "exo-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "outside, external",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "e.ksο"
+      }
+    ],
+    "examples": [
+      {
+        "word": "εξωγήινος",
+        "meaning": "extraterrestrial",
+        "sentence": "Ο εξωγήινος είναι μυθικός."
+      },
+      {
+        "word": "εξωτερικός",
+        "meaning": "external",
+        "sentence": "Το εξωτερικό χρώμα είναι μπλε."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_hetero",
+    "root": "hetero-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "different, other",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "e.te.ro"
+      }
+    ],
+    "examples": [
+      {
+        "word": "ετερογενής",
+        "meaning": "heterogeneous",
+        "sentence": "Το μείγμα είναι ετερογενές."
+      },
+      {
+        "word": "ετερόδοξος",
+        "meaning": "heterodox",
+        "sentence": "Η ετερόδοξη άποψη συζητήθηκε."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_homo",
+    "root": "homo-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "same",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "o.mo"
+      }
+    ],
+    "examples": [
+      {
+        "word": "ομοιογενής",
+        "meaning": "homogeneous",
+        "sentence": "Το υγρό είναι ομοιογενές."
+      },
+      {
+        "word": "ομοφωνία",
+        "meaning": "unanimity",
+        "sentence": "Η ομοφωνία ήταν πλήρης."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_neo",
+    "root": "neo-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "new, recent",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ne.o"
+      }
+    ],
+    "examples": [
+      {
+        "word": "νεολαία",
+        "meaning": "youth",
+        "sentence": "Η νεολαία είναι δυναμική."
+      },
+      {
+        "word": "νεοφυτός",
+        "meaning": "neophyte",
+        "sentence": "Ο νεοφυτός μαθητεύει."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_peri",
+    "root": "peri-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "around",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "pe.ri"
+      }
+    ],
+    "examples": [
+      {
+        "word": "περίμετρος",
+        "meaning": "perimeter",
+        "sentence": "Η περίμετρος του κήπου είναι μεγάλη."
+      },
+      {
+        "word": "περίγραμμα",
+        "meaning": "outline",
+        "sentence": "Το περίγραμμα είναι σαφές."
+      }
+    ],
+    "relatedRootIds": []
   }
 ]

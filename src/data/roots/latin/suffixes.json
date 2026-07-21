@@ -336,5 +336,785 @@
       }
     ],
     "relatedRootIds": []
+  },
+  {
+    "id": "root_la_atia",
+    "root": "-ātia",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "quality or state of",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "aː.ti.a"
+      }
+    ],
+    "examples": [
+      {
+        "word": "fallācia",
+        "meaning": "fallacy",
+        "sentence": "Fallācia eius nōbīs nōta est."
+      },
+      {
+        "word": "contumācia",
+        "meaning": "contumacy",
+        "sentence": "Contumācia mīlitum dēprehēnsa est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_aticum",
+    "root": "-āticum",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "collection or place related to",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "aː.ti.kum"
+      }
+    ],
+    "examples": [
+      {
+        "word": "hereditāticum",
+        "meaning": "inheritance tax",
+        "sentence": "Hereditāticum solvit."
+      },
+      {
+        "word": "vīllāticum",
+        "meaning": "farm produce",
+        "sentence": "Vīllāticum ad urbem mittitur."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_alis",
+    "root": "-ālis",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "relating to",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "aː.lis"
+      }
+    ],
+    "examples": [
+      {
+        "word": "rēgālis",
+        "meaning": "royal",
+        "sentence": "Rēgālis cēna parātur."
+      },
+      {
+        "word": "aestīvālis",
+        "meaning": "summer",
+        "sentence": "Diēs aestīvālis est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_anus",
+    "root": "-ānus",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "belonging to, relating to",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "aː.nus"
+      }
+    ],
+    "examples": [
+      {
+        "word": "Rōmānus",
+        "meaning": "Roman",
+        "sentence": "Cīvis Rōmānus sum."
+      },
+      {
+        "word": "urbānus",
+        "meaning": "urban",
+        "sentence": "Mōrēs urbānī sunt."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_antia",
+    "root": "-antia",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "state or quality of doing",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "an.ti.a"
+      }
+    ],
+    "examples": [
+      {
+        "word": "ēloquentia",
+        "meaning": "eloquence",
+        "sentence": "Ēloquentia orātōris mīrābilis est."
+      },
+      {
+        "word": "pertinācia",
+        "meaning": "pertinacity",
+        "sentence": "Pertinācia eius laudātur."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_entia",
+    "root": "-entia",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "state or quality of being",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "en.ti.a"
+      }
+    ],
+    "examples": [
+      {
+        "word": "differentia",
+        "meaning": "difference",
+        "sentence": "Differentia inter rēs clāra est."
+      },
+      {
+        "word": "absentia",
+        "meaning": "absence",
+        "sentence": "Absentia eius dolenda est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_atus",
+    "root": "-ātus",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "past participle or state of",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "aː.tus"
+      }
+    ],
+    "examples": [
+      {
+        "word": "beātus",
+        "meaning": "blessed",
+        "sentence": "Beātus vir quī timet Dominum."
+      },
+      {
+        "word": "creatus",
+        "meaning": "created",
+        "sentence": "Hōminēs ā Deō creatī sunt."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_atio",
+    "root": "-ātiō",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "action or result",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "aː.ti.oː"
+      }
+    ],
+    "examples": [
+      {
+        "word": "creātiō",
+        "meaning": "creation",
+        "sentence": "Creātiō mundī mīrābilis est."
+      },
+      {
+        "word": "laudātiō",
+        "meaning": "praise",
+        "sentence": "Laudātiō patriae fit."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_itio",
+    "root": "-ītiō",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "action or state",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "iː.ti.oː"
+      }
+    ],
+    "examples": [
+      {
+        "word": "competītiō",
+        "meaning": "competition",
+        "sentence": "Competītiō inter athlētās est."
+      },
+      {
+        "word": "partītiō",
+        "meaning": "partition",
+        "sentence": "Partītiō terrae facta est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_cida",
+    "root": "-cīda",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "killer",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "kiː.da"
+      }
+    ],
+    "examples": [
+      {
+        "word": "homicīda",
+        "meaning": "homicide, murderer",
+        "sentence": "Homicīda captus est."
+      },
+      {
+        "word": "parricīda",
+        "meaning": "parricide",
+        "sentence": "Parricīdam poena manet."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_culus",
+    "root": "-culus",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "small, diminutive",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ku.lus"
+      }
+    ],
+    "examples": [
+      {
+        "word": "homunculus",
+        "meaning": "little man",
+        "sentence": "Homunculus sē occultat."
+      },
+      {
+        "word": "avunculus",
+        "meaning": "maternal uncle",
+        "sentence": "Avunculus mē docet."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_escentia",
+    "root": "-ēscentia",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "state of beginning to be",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "eː.sken.ti.a"
+      }
+    ],
+    "examples": [
+      {
+        "word": "adolescentia",
+        "meaning": "adolescence",
+        "sentence": "Adolescentia brevis est."
+      },
+      {
+        "word": "īrāscentia",
+        "meaning": "tendency to anger",
+        "sentence": "Īrāscentia eius nōta est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_ficus",
+    "root": "-ficus",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "making, doing",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "fi.kus"
+      }
+    ],
+    "examples": [
+      {
+        "word": "magnificus",
+        "meaning": "magnificent",
+        "sentence": "Spectāculum magnificum est."
+      },
+      {
+        "word": "pacificus",
+        "meaning": "peaceful",
+        "sentence": "Rēx pacificus colitur."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_ficatio",
+    "root": "-ficātiō",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "act of making",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "fi.kaː.ti.oː"
+      }
+    ],
+    "examples": [
+      {
+        "word": "clārificātiō",
+        "meaning": "clarification",
+        "sentence": "Clārificātiō rērum necesse est."
+      },
+      {
+        "word": "simplificātiō",
+        "meaning": "simplification",
+        "sentence": "Simplificātiō difficilis est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_formis",
+    "root": "-fōrmis",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "shaped like",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "for.mis"
+      }
+    ],
+    "examples": [
+      {
+        "word": "crucifōrmis",
+        "meaning": "cross-shaped",
+        "sentence": "Crux crucifōrmis est."
+      },
+      {
+        "word": "uniformis",
+        "meaning": "uniform",
+        "sentence": "Vestis uniformis est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_ficare",
+    "root": "-ficāre",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "to make, cause to be",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "fi.kaː.re"
+      }
+    ],
+    "examples": [
+      {
+        "word": "clārificāre",
+        "meaning": "to clarify",
+        "sentence": "Aquam clārificat."
+      },
+      {
+        "word": "simplificāre",
+        "meaning": "to simplify",
+        "sentence": "Problema simplificat."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_ia",
+    "root": "-ia",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "state, condition, place",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "i.a"
+      }
+    ],
+    "examples": [
+      {
+        "word": "victōria",
+        "meaning": "victory",
+        "sentence": "Victōria populī cāra est."
+      },
+      {
+        "word": "Gallia",
+        "meaning": "Gaul",
+        "sentence": "Gallia est omnis dīvīsa in partēs trēs."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_idus",
+    "root": "-īdus",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "having the quality of",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "iː.dus"
+      }
+    ],
+    "examples": [
+      {
+        "word": "acidus",
+        "meaning": "sour",
+        "sentence": "Vīnum acidum est."
+      },
+      {
+        "word": "placidus",
+        "meaning": "placid",
+        "sentence": "Mare placidum est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_inus",
+    "root": "-īnus",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "of, relating to",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "iː.nus"
+      }
+    ],
+    "examples": [
+      {
+        "word": "fēminīnus",
+        "meaning": "feminine",
+        "sentence": "Genus fēminīnum est."
+      },
+      {
+        "word": "crystallīnus",
+        "meaning": "crystalline",
+        "sentence": "Aqua crystallīna est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_io",
+    "root": "-iō",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "action, state, or result",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "i.oː"
+      }
+    ],
+    "examples": [
+      {
+        "word": "legiō",
+        "meaning": "legion",
+        "sentence": "Legiō in castrīs stat."
+      },
+      {
+        "word": "sēditiō",
+        "meaning": "sedition",
+        "sentence": "Sēditiō in urbe orta est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_itivus",
+    "root": "-ītīvus",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "tending to",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "iː.tiː.wus"
+      }
+    ],
+    "examples": [
+      {
+        "word": "competitīvus",
+        "meaning": "competitive",
+        "sentence": "Athlēta competitīvus est."
+      },
+      {
+        "word": "nutritīvus",
+        "meaning": "nutritive",
+        "sentence": "Cibus nutritīvus valet."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_itor",
+    "root": "-itor",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "one who does",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "i.tor"
+      }
+    ],
+    "examples": [
+      {
+        "word": "audītor",
+        "meaning": "auditor, hearer",
+        "sentence": "Audītor attentus est."
+      },
+      {
+        "word": "competītor",
+        "meaning": "competitor",
+        "sentence": "Competītor fortis vincit."
+      }
+    ],
+    "relatedRootIds": ["root_la_tor"]
+  },
+  {
+    "id": "root_la_itudo",
+    "root": "-itūdō",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "state or quality",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "iː.tu.doː"
+      }
+    ],
+    "examples": [
+      {
+        "word": "multitūdō",
+        "meaning": "multitude",
+        "sentence": "Multitūdō hominum venit."
+      },
+      {
+        "word": "solitūdō",
+        "meaning": "solitude",
+        "sentence": "Solitūdō montium placet."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_monium",
+    "root": "-mōnium",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "state or function",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "moː.ni.um"
+      }
+    ],
+    "examples": [
+      {
+        "word": "testimōnium",
+        "meaning": "testimony",
+        "sentence": "Testimōnium vērum est."
+      },
+      {
+        "word": "matrimōnium",
+        "meaning": "matrimony",
+        "sentence": "Matrimōnium saecrāmentum est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_orius",
+    "root": "-ōrius",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "relating to, place for",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "oː.ri.us"
+      }
+    ],
+    "examples": [
+      {
+        "word": "audītōrium",
+        "meaning": "auditorium",
+        "sentence": "Audītōrium plēnum est."
+      },
+      {
+        "word": "dormītōrium",
+        "meaning": "dormitory",
+        "sentence": "Dormītōrium discipulōrum est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_tudo",
+    "root": "-tūdō",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "state or quality",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "tu.doː"
+      }
+    ],
+    "examples": [
+      {
+        "word": "lātitūdō",
+        "meaning": "latitude",
+        "sentence": "Lātitūdō terrae mēnsūrātur."
+      },
+      {
+        "word": "magnitūdō",
+        "meaning": "magnitude",
+        "sentence": "Magnitūdō maris immēnsa est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_ularis",
+    "root": "-ulāris",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "relating to",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "u.laː.ris"
+      }
+    ],
+    "examples": [
+      {
+        "word": "rēgulāris",
+        "meaning": "regular",
+        "sentence": "Vīta rēgulāris est."
+      },
+      {
+        "word": "cellulāris",
+        "meaning": "cellular",
+        "sentence": "Structūra cellulāris est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_ulus",
+    "root": "-ulus",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "small, diminutive",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "u.lus"
+      }
+    ],
+    "examples": [
+      {
+        "word": "globulus",
+        "meaning": "globule",
+        "sentence": "Globulus aureus est."
+      },
+      {
+        "word": "malleolus",
+        "meaning": "little hammer",
+        "sentence": "Malleolus ferreus est."
+      }
+    ],
+    "relatedRootIds": ["root_la_culus"]
+  },
+  {
+    "id": "root_la_ellus",
+    "root": "-ellus",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "small, diminutive",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "el.lus"
+      }
+    ],
+    "examples": [
+      {
+        "word": "porcellus",
+        "meaning": "piglet",
+        "sentence": "Porcellus in lūdō est."
+      },
+      {
+        "word": "libellus",
+        "meaning": "little book",
+        "sentence": "Libellus manū scrīptus est."
+      }
+    ],
+    "relatedRootIds": ["root_la_culus"]
+  },
+  {
+    "id": "root_la_itas",
+    "root": "-itās",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "state or quality of",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "iː.taːs"
+      }
+    ],
+    "examples": [
+      {
+        "word": "cīvitās",
+        "meaning": "state, city",
+        "sentence": "Cīvitās Rōmāna magna est."
+      },
+      {
+        "word": "aeternitās",
+        "meaning": "eternity",
+        "sentence": "Aeternitās dēōrum est."
+      }
+    ],
+    "relatedRootIds": []
   }
 ]

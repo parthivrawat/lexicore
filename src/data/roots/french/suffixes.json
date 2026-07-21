@@ -1222,5 +1222,175 @@
       }
     ],
     "relatedRootIds": []
+  },
+  {
+    "id": "root_ade_fr",
+    "root": "-ade",
+    "type": "suffix",
+    "languageOrigin": "French",
+    "meaning": "action, product, or collective",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "ad"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "ad"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "ad"
+      }
+    ],
+    "examples": [
+      {
+        "word": "limonade",
+        "meaning": "lemonade",
+        "sentence": "Je bois une limonade fraîche."
+      },
+      {
+        "word": "promenade",
+        "meaning": "walk, stroll",
+        "sentence": "La promenade le long de la rivière est agréable."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_e_fr",
+    "root": "-é",
+    "type": "suffix",
+    "languageOrigin": "French",
+    "meaning": "one who receives the action",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "e"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "e"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "e"
+      }
+    ],
+    "examples": [
+      {
+        "word": "employé",
+        "meaning": "employee",
+        "sentence": "L'employé travaille dur."
+      },
+      {
+        "word": "réfugié",
+        "meaning": "refugee",
+        "sentence": "Le réfugié a besoin d'aide."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_esque_fr",
+    "root": "-esque",
+    "type": "suffix",
+    "languageOrigin": "French",
+    "meaning": "in the style of, resembling",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "ɛsk"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "ɛsk"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "ɛsk"
+      }
+    ],
+    "examples": [
+      {
+        "word": "pittoresque",
+        "meaning": "picturesque",
+        "sentence": "Le village est pittoresque."
+      },
+      {
+        "word": "gigantesque",
+        "meaning": "gigantic",
+        "sentence": "La statue est gigantesque."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_fier_fr",
+    "root": "-fier",
+    "type": "suffix",
+    "languageOrigin": "French",
+    "meaning": "to make, to cause to be",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "fje"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "fje"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "fje"
+      }
+    ],
+    "examples": [
+      {
+        "word": "pacifier",
+        "meaning": "to pacify",
+        "sentence": "Il faut pacifier la région."
+      },
+      {
+        "word": "amplifier",
+        "meaning": "to amplify",
+        "sentence": "L'appareil amplifie le son."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_let_fr",
+    "root": "-let",
+    "type": "suffix",
+    "languageOrigin": "French",
+    "meaning": "small",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "lɛ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "lɛ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "lɛ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "mantelet",
+        "meaning": "mantlet",
+        "sentence": "Le mantelet protège des flèches."
+      },
+      {
+        "word": "feuillet",
+        "meaning": "leaflet",
+        "sentence": "Le feuillet tombe de l'arbre."
+      }
+    ],
+    "relatedRootIds": []
   }
 ]

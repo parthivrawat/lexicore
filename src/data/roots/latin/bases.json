@@ -908,5 +908,1097 @@
       }
     ],
     "relatedRootIds": []
+  },
+  {
+    "id": "root_la_act",
+    "root": "act-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "do, drive",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "akt"
+      }
+    ],
+    "examples": [
+      {
+        "word": "agere",
+        "meaning": "to do, drive",
+        "sentence": "Agō labōrem meum."
+      },
+      {
+        "word": "actus",
+        "meaning": "a deed",
+        "sentence": "Actus virī laudandī sunt."
+      }
+    ],
+    "relatedRootIds": ["root_la_fact"]
+  },
+  {
+    "id": "root_la_agri",
+    "root": "agri-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "field",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "a.gri"
+      }
+    ],
+    "examples": [
+      {
+        "word": "ager",
+        "meaning": "field",
+        "sentence": "Ager fertilis est."
+      },
+      {
+        "word": "agricola",
+        "meaning": "farmer",
+        "sentence": "Agricola in agrō labōrat."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_alt",
+    "root": "alt-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "high",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "alt"
+      }
+    ],
+    "examples": [
+      {
+        "word": "altus",
+        "meaning": "high, tall, deep",
+        "sentence": "Mōns altus est."
+      },
+      {
+        "word": "altitudo",
+        "meaning": "height",
+        "sentence": "Altitudo caelī magna est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_anim",
+    "root": "anim-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "breath, soul, mind",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "a.nim"
+      }
+    ],
+    "examples": [
+      {
+        "word": "anima",
+        "meaning": "soul, breath",
+        "sentence": "Anima immortālis est."
+      },
+      {
+        "word": "animus",
+        "meaning": "mind, spirit",
+        "sentence": "Animus fortis est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_ann",
+    "root": "ann-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "year",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ann"
+      }
+    ],
+    "examples": [
+      {
+        "word": "annus",
+        "meaning": "year",
+        "sentence": "Annus novus incipit."
+      },
+      {
+        "word": "annālis",
+        "meaning": "yearly",
+        "sentence": "Annales legō."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_apt",
+    "root": "apt-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "fit",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "apt"
+      }
+    ],
+    "examples": [
+      {
+        "word": "aptus",
+        "meaning": "fit, suitable",
+        "sentence": "Hoc aptum est."
+      },
+      {
+        "word": "aptāre",
+        "meaning": "to fit",
+        "sentence": "Tēlam aptat."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_bell",
+    "root": "bell-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "war",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "bel"
+      }
+    ],
+    "examples": [
+      {
+        "word": "bellum",
+        "meaning": "war",
+        "sentence": "Bellum est malum."
+      },
+      {
+        "word": "bellātor",
+        "meaning": "warrior",
+        "sentence": "Bellātor fortis pugnat."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_brev",
+    "root": "brev-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "short",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "brew"
+      }
+    ],
+    "examples": [
+      {
+        "word": "brevis",
+        "meaning": "short",
+        "sentence": "Via brevis est."
+      },
+      {
+        "word": "brevitās",
+        "meaning": "shortness",
+        "sentence": "Brevitās tempōris mīrābilis est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_cred",
+    "root": "cred-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "believe",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "kred"
+      }
+    ],
+    "examples": [
+      {
+        "word": "crēdere",
+        "meaning": "to believe",
+        "sentence": "Tibi crēdō."
+      },
+      {
+        "word": "crēditus",
+        "meaning": "believed",
+        "sentence": "Crēditus est omnibus."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_curr",
+    "root": "curr-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "run",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "kur"
+      }
+    ],
+    "examples": [
+      {
+        "word": "currere",
+        "meaning": "to run",
+        "sentence": "Celeriter currunt."
+      },
+      {
+        "word": "concursus",
+        "meaning": "running together",
+        "sentence": "Concursus populī magnus erat."
+      }
+    ],
+    "relatedRootIds": ["root_la_curs"]
+  },
+  {
+    "id": "root_la_curs",
+    "root": "curs-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "run, course",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "kurs"
+      }
+    ],
+    "examples": [
+      {
+        "word": "cursus",
+        "meaning": "course, running",
+        "sentence": "Cursus flūminis longus est."
+      },
+      {
+        "word": "excursus",
+        "meaning": "excursion",
+        "sentence": "Excursus in montēs facimus."
+      }
+    ],
+    "relatedRootIds": ["root_la_curr"]
+  },
+  {
+    "id": "root_la_flect",
+    "root": "flect-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "bend",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "flekt"
+      }
+    ],
+    "examples": [
+      {
+        "word": "flectere",
+        "meaning": "to bend",
+        "sentence": "Tēlam flectit."
+      },
+      {
+        "word": "reflectere",
+        "meaning": "to bend back",
+        "sentence": "Imāgō in aquā reflectitur."
+      }
+    ],
+    "relatedRootIds": ["root_la_flex"]
+  },
+  {
+    "id": "root_la_flex",
+    "root": "flex-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "bend",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "fleks"
+      }
+    ],
+    "examples": [
+      {
+        "word": "flexus",
+        "meaning": "bent",
+        "sentence": "Rīpa flūminis flexa est."
+      },
+      {
+        "word": "reflexus",
+        "meaning": "bent back",
+        "sentence": "Reflexus lucis clārus est."
+      }
+    ],
+    "relatedRootIds": ["root_la_flect"]
+  },
+  {
+    "id": "root_la_form",
+    "root": "form-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "shape",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "form"
+      }
+    ],
+    "examples": [
+      {
+        "word": "forma",
+        "meaning": "shape, form",
+        "sentence": "Forma rērum variā est."
+      },
+      {
+        "word": "formāre",
+        "meaning": "to shape",
+        "sentence": "Statuam ex līgnō format."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_gress",
+    "root": "gress-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "step, go",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "gres"
+      }
+    ],
+    "examples": [
+      {
+        "word": "gressus",
+        "meaning": "step, gait",
+        "sentence": "Gressus eius lentī sunt."
+      },
+      {
+        "word": "prōgressus",
+        "meaning": "advance",
+        "sentence": "Prōgressus societātis laetus est."
+      }
+    ],
+    "relatedRootIds": ["root_la_grad"]
+  },
+  {
+    "id": "root_la_grad",
+    "root": "grad-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "step, go",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "grad"
+      }
+    ],
+    "examples": [
+      {
+        "word": "gradus",
+        "meaning": "step, degree",
+        "sentence": "Gradus ascendit."
+      },
+      {
+        "word": "gradī",
+        "meaning": "to step, go",
+        "sentence": "Per viam graditur."
+      }
+    ],
+    "relatedRootIds": ["root_la_gress"]
+  },
+  {
+    "id": "root_la_grat",
+    "root": "grat-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "pleasing, thank",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "grat"
+      }
+    ],
+    "examples": [
+      {
+        "word": "gratus",
+        "meaning": "pleasing, thankful",
+        "sentence": "Gratus tibi sum."
+      },
+      {
+        "word": "grātia",
+        "meaning": "thanks, grace",
+        "sentence": "Grātiam tibi habeō."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_lumin",
+    "root": "lumin-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "light",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "lu.min"
+      }
+    ],
+    "examples": [
+      {
+        "word": "lūmen",
+        "meaning": "light",
+        "sentence": "Lūmen in tenebrīs lucet."
+      },
+      {
+        "word": "lumināre",
+        "meaning": "to illuminate",
+        "sentence": "Cārum luminat aedem."
+      }
+    ],
+    "relatedRootIds": ["root_la_luc"]
+  },
+  {
+    "id": "root_la_lustr",
+    "root": "lustr-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "purify, illuminate",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "lus.tr"
+      }
+    ],
+    "examples": [
+      {
+        "word": "lūstrāre",
+        "meaning": "to purify, illuminate",
+        "sentence": "Flāmen urbem lūstrat."
+      },
+      {
+        "word": "lustrum",
+        "meaning": "purification, five years",
+        "sentence": "Lustrum novum incipit."
+      }
+    ],
+    "relatedRootIds": ["root_la_luc"]
+  },
+  {
+    "id": "root_la_manu",
+    "root": "manu-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "hand",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ma.nu"
+      }
+    ],
+    "examples": [
+      {
+        "word": "manus",
+        "meaning": "hand",
+        "sentence": "Manus mea tremit."
+      },
+      {
+        "word": "manuālis",
+        "meaning": "manual",
+        "sentence": "Labōrēs manuālēs sunt."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_miss",
+    "root": "miss-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "send",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "mis"
+      }
+    ],
+    "examples": [
+      {
+        "word": "missus",
+        "meaning": "sent",
+        "sentence": "Legātus missus est."
+      },
+      {
+        "word": "missiō",
+        "meaning": "sending",
+        "sentence": "Missiō pācis laeta est."
+      }
+    ],
+    "relatedRootIds": ["root_la_mit"]
+  },
+  {
+    "id": "root_la_mot",
+    "root": "mot-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "move",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "moːt"
+      }
+    ],
+    "examples": [
+      {
+        "word": "mōtus",
+        "meaning": "moved, motion",
+        "sentence": "Mōtus populī celer est."
+      },
+      {
+        "word": "mōtiō",
+        "meaning": "motion",
+        "sentence": "Mōtiō corporis vidētur."
+      }
+    ],
+    "relatedRootIds": ["root_la_mov"]
+  },
+  {
+    "id": "root_la_mov",
+    "root": "mov-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "move",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "moːw"
+      }
+    ],
+    "examples": [
+      {
+        "word": "movēre",
+        "meaning": "to move",
+        "sentence": "Saxum movēre conātur."
+      },
+      {
+        "word": "movēns",
+        "meaning": "moving",
+        "sentence": "Imāgō semper movēns est."
+      }
+    ],
+    "relatedRootIds": ["root_la_mot"]
+  },
+  {
+    "id": "root_la_pon",
+    "root": "pon-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "put, place",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "pon"
+      }
+    ],
+    "examples": [
+      {
+        "word": "pōnere",
+        "meaning": "to put, place",
+        "sentence": "Librum in mēnsā pōnit."
+      },
+      {
+        "word": "compōnere",
+        "meaning": "to compose",
+        "sentence": "Carmen dulce compōnit."
+      }
+    ],
+    "relatedRootIds": ["root_la_posit"]
+  },
+  {
+    "id": "root_la_posit",
+    "root": "posit-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "put, place",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "po.zit"
+      }
+    ],
+    "examples": [
+      {
+        "word": "positus",
+        "meaning": "placed",
+        "sentence": "Castra in collibus posita sunt."
+      },
+      {
+        "word": "positiō",
+        "meaning": "position",
+        "sentence": "Positiō exercitūs bona est."
+      }
+    ],
+    "relatedRootIds": ["root_la_pon"]
+  },
+  {
+    "id": "root_la_quaer",
+    "root": "quaer-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "ask, seek",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "kweːr"
+      }
+    ],
+    "examples": [
+      {
+        "word": "quaerere",
+        "meaning": "to seek, ask",
+        "sentence": "Veritatem quaerimus."
+      },
+      {
+        "word": "quaestiō",
+        "meaning": "question",
+        "sentence": "Quaestiō difficilis est."
+      }
+    ],
+    "relatedRootIds": ["root_la_ques", "root_la_quisit"]
+  },
+  {
+    "id": "root_la_ques",
+    "root": "ques-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "ask, seek",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "kwes"
+      }
+    ],
+    "examples": [
+      {
+        "word": "quaestus",
+        "meaning": "gain, quest",
+        "sentence": "Quaestus eius magnus est."
+      },
+      {
+        "word": "quaestor",
+        "meaning": "quaestor",
+        "sentence": "Quaestor pecūniam cūrāvit."
+      }
+    ],
+    "relatedRootIds": ["root_la_quaer", "root_la_quisit"]
+  },
+  {
+    "id": "root_la_quisit",
+    "root": "quisit-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "ask, seek",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "kwi.sit"
+      }
+    ],
+    "examples": [
+      {
+        "word": "acquīsītus",
+        "meaning": "acquired",
+        "sentence": "Rēs acquīsītae servātae sunt."
+      },
+      {
+        "word": "inquisītiō",
+        "meaning": "inquisition",
+        "sentence": "Inquisītiō veritātis est."
+      }
+    ],
+    "relatedRootIds": ["root_la_quaer", "root_la_ques"]
+  },
+  {
+    "id": "root_la_sec",
+    "root": "sec-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "cut",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "sek"
+      }
+    ],
+    "examples": [
+      {
+        "word": "secāre",
+        "meaning": "to cut",
+        "sentence": "Pānem secat."
+      },
+      {
+        "word": "secāns",
+        "meaning": "cutting",
+        "sentence": "Gladius secāns est."
+      }
+    ],
+    "relatedRootIds": ["root_la_sect"]
+  },
+  {
+    "id": "root_la_sect",
+    "root": "sect-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "cut",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "sekt"
+      }
+    ],
+    "examples": [
+      {
+        "word": "sectus",
+        "meaning": "cut",
+        "sentence": "Līgnum sectum est."
+      },
+      {
+        "word": "sectiō",
+        "meaning": "cutting, section",
+        "sentence": "Sectiō terrae mira est."
+      }
+    ],
+    "relatedRootIds": ["root_la_sec"]
+  },
+  {
+    "id": "root_la_sent",
+    "root": "sent-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "feel, think",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "sent"
+      }
+    ],
+    "examples": [
+      {
+        "word": "sentīre",
+        "meaning": "to feel",
+        "sentence": "Gaudium sentiō."
+      },
+      {
+        "word": "sentiēns",
+        "meaning": "feeling",
+        "sentence": "Animālia sentientia sunt."
+      }
+    ],
+    "relatedRootIds": ["root_la_sens"]
+  },
+  {
+    "id": "root_la_sens",
+    "root": "sens-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "feel, think",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "sens"
+      }
+    ],
+    "examples": [
+      {
+        "word": "sensus",
+        "meaning": "sense, feeling",
+        "sentence": "Sensus eius acer est."
+      },
+      {
+        "word": "sensibilis",
+        "meaning": "sensible",
+        "sentence": "Hoc est sensibile."
+      }
+    ],
+    "relatedRootIds": ["root_la_sent"]
+  },
+  {
+    "id": "root_la_tang",
+    "root": "tang-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "touch",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "taŋ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "tangere",
+        "meaning": "to touch",
+        "sentence": "Mē nē tangā!"
+      },
+      {
+        "word": "tangēns",
+        "meaning": "touching",
+        "sentence": "Linea tangēns est."
+      }
+    ],
+    "relatedRootIds": ["root_la_tact"]
+  },
+  {
+    "id": "root_la_tact",
+    "root": "tact-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "touch",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "takt"
+      }
+    ],
+    "examples": [
+      {
+        "word": "tactus",
+        "meaning": "touched, touch",
+        "sentence": "Tactus mollis est."
+      },
+      {
+        "word": "contingere",
+        "meaning": "to touch together",
+        "sentence": "Nōs contingere nōlī."
+      }
+    ],
+    "relatedRootIds": ["root_la_tang"]
+  },
+  {
+    "id": "root_la_temp",
+    "root": "temp-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "time",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "temp"
+      }
+    ],
+    "examples": [
+      {
+        "word": "tempus",
+        "meaning": "time",
+        "sentence": "Tempus fugit."
+      },
+      {
+        "word": "temporālis",
+        "meaning": "temporal",
+        "sentence": "Rēs temporālis est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_vent",
+    "root": "vent-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "come",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "went"
+      }
+    ],
+    "examples": [
+      {
+        "word": "ventus",
+        "meaning": "come, wind",
+        "sentence": "Ventus ab oriente venit."
+      },
+      {
+        "word": "adventus",
+        "meaning": "arrival",
+        "sentence": "Adventus rēgis laetus est."
+      }
+    ],
+    "relatedRootIds": ["root_la_ven"]
+  },
+  {
+    "id": "root_la_vers",
+    "root": "vers-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "turn",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "wers"
+      }
+    ],
+    "examples": [
+      {
+        "word": "versus",
+        "meaning": "turned",
+        "sentence": "Versus est iter suum."
+      },
+      {
+        "word": "conversus",
+        "meaning": "converted",
+        "sentence": "Conversus est ad bonum."
+      }
+    ],
+    "relatedRootIds": ["root_la_vert"]
+  },
+  {
+    "id": "root_la_vis",
+    "root": "vis-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "see",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "wiːs"
+      }
+    ],
+    "examples": [
+      {
+        "word": "vīsus",
+        "meaning": "seen",
+        "sentence": "Spectāculum vīsum est omnibus."
+      },
+      {
+        "word": "vīsiō",
+        "meaning": "vision",
+        "sentence": "Vīsiō in somniō fuit."
+      }
+    ],
+    "relatedRootIds": ["root_la_vid"]
+  },
+  {
+    "id": "root_la_volv",
+    "root": "volv-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "roll, turn",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "wolw"
+      }
+    ],
+    "examples": [
+      {
+        "word": "volvere",
+        "meaning": "to roll",
+        "sentence": "Saxum volvit."
+      },
+      {
+        "word": "volūbilis",
+        "meaning": "rolling",
+        "sentence": "Līngua volūbilis est."
+      }
+    ],
+    "relatedRootIds": ["root_la_volut"]
+  },
+  {
+    "id": "root_la_volut",
+    "root": "volut-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "roll, turn",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "wo.lut"
+      }
+    ],
+    "examples": [
+      {
+        "word": "volūtus",
+        "meaning": "rolled",
+        "sentence": "Corpus volūtum est."
+      },
+      {
+        "word": "evolvere",
+        "meaning": "to unroll",
+        "sentence": "Lībrum evolvit."
+      }
+    ],
+    "relatedRootIds": ["root_la_volv"]
+  },
+  {
+    "id": "root_la_script",
+    "root": "script-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "write",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "skript"
+      }
+    ],
+    "examples": [
+      {
+        "word": "scriptus",
+        "meaning": "written",
+        "sentence": "Epistula scripta est."
+      },
+      {
+        "word": "scrīptūra",
+        "meaning": "writing",
+        "sentence": "Scrīptūra sacra est."
+      }
+    ],
+    "relatedRootIds": ["root_la_scrib"]
+  },
+  {
+    "id": "root_la_duct",
+    "root": "duct-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "lead",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "dukt"
+      }
+    ],
+    "examples": [
+      {
+        "word": "ductus",
+        "meaning": "led, drawn",
+        "sentence": "Exercitus ductus est."
+      },
+      {
+        "word": "condūctus",
+        "meaning": "conducted",
+        "sentence": "Condūctus eius rēctus est."
+      }
+    ],
+    "relatedRootIds": ["root_la_duc"]
   }
 ]

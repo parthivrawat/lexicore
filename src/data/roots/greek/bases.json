@@ -988,5 +988,239 @@
       }
     ],
     "relatedRootIds": ["root_el_dia", "root_el_syn"]
+  },
+  {
+    "id": "root_el_arch",
+    "root": "arch-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "chief, ruler, first",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ar.x"
+      }
+    ],
+    "examples": [
+      {
+        "word": "άρχοντας",
+        "meaning": "ruler",
+        "sentence": "Ο άρχοντας κυβερνά το κράτος."
+      },
+      {
+        "word": "μονάρχης",
+        "meaning": "monarch",
+        "sentence": "Ο μονάρχης κληρονομεί τον θρόνο."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_aster",
+    "root": "aster-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "star",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "a.ster"
+      }
+    ],
+    "examples": [
+      {
+        "word": "αστέρι",
+        "meaning": "star",
+        "sentence": "Το αστέρι είναι φωτεινό."
+      },
+      {
+        "word": "αστεροειδής",
+        "meaning": "asteroid",
+        "sentence": "Ο αστεροειδής κινείται στο διάστημα."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_aut",
+    "root": "aut-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "self",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "af.t"
+      }
+    ],
+    "examples": [
+      {
+        "word": "αυτόματο",
+        "meaning": "automatic",
+        "sentence": "Το αυτόματο άνοιγε μόνο του."
+      },
+      {
+        "word": "αυτοκίνητο",
+        "meaning": "automobile",
+        "sentence": "Το αυτοκίνητο είναι γρήγορο."
+      }
+    ],
+    "relatedRootIds": ["root_el_auto"]
+  },
+  {
+    "id": "root_el_biblio",
+    "root": "biblio-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "book",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "vi.vli.o"
+      }
+    ],
+    "examples": [
+      {
+        "word": "βιβλίο",
+        "meaning": "book",
+        "sentence": "Το βιβλίο είναι ενδιαφέρον."
+      },
+      {
+        "word": "βιβλιοθήκη",
+        "meaning": "library",
+        "sentence": "Η βιβλιοθήκη είναι μεγάλη."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_morph",
+    "root": "morph-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "form, shape",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "mor.f"
+      }
+    ],
+    "examples": [
+      {
+        "word": "μορφή",
+        "meaning": "form",
+        "sentence": "Η μορφή του έργου είναι ωραία."
+      },
+      {
+        "word": "μετάμορφωση",
+        "meaning": "metamorphosis",
+        "sentence": "Η μετάμορφωση είναι πλήρης."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_path",
+    "root": "path-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "feeling, suffering, disease",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "pa.θ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "πάθος",
+        "meaning": "passion, suffering",
+        "sentence": "Το πάθος είναι δυνατό."
+      },
+      {
+        "word": "συμπάθεια",
+        "meaning": "sympathy",
+        "sentence": "Η συμπάθεια είναι ανθρώπινη."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_psych",
+    "root": "psych-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "mind, soul, spirit",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "psi.x"
+      }
+    ],
+    "examples": [
+      {
+        "word": "ψυχή",
+        "meaning": "soul",
+        "sentence": "Η ψυχή είναι αθάνατη."
+      },
+      {
+        "word": "ψυχολογία",
+        "meaning": "psychology",
+        "sentence": "Η ψυχολογία μελετά τον νου."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_techn",
+    "root": "techn-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "art, skill, craft",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "te.xn"
+      }
+    ],
+    "examples": [
+      {
+        "word": "τέχνη",
+        "meaning": "art, skill",
+        "sentence": "Η τέχνη απαιτεί εξάσκηση."
+      },
+      {
+        "word": "τεχνολογία",
+        "meaning": "technology",
+        "sentence": "Η τεχνολογία προχωρά γρήγορα."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_tele_2",
+    "root": "tele-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "far, distant",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "te.le"
+      }
+    ],
+    "examples": [
+      {
+        "word": "τηλέφωνο",
+        "meaning": "telephone",
+        "sentence": "Το τηλέφωνο χτυπάει."
+      },
+      {
+        "word": "τηλεόραση",
+        "meaning": "television",
+        "sentence": "Η τηλεόραση είναι ανοικτή."
+      }
+    ],
+    "relatedRootIds": ["root_el_tele"]
   }
 ]

@@ -702,5 +702,165 @@
         "ipa": "jal"
       }
     ]
+  },
+  {
+    "id": "hi_base_jan",
+    "root": "जन्",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "birth; produce",
+    "examples": [
+      {
+        "word": "जन्म",
+        "meaning": "birth",
+        "sentence": "जन्मदिन मनाया।"
+      },
+      {
+        "word": "जननी",
+        "meaning": "mother",
+        "sentence": "जननी की ममता बड़ी होती है।"
+      },
+      {
+        "word": "जनक",
+        "meaning": "father",
+        "sentence": "जनक ने संस्कार दिए।"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/dʒən/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "jan"
+      }
+    ]
+  },
+  {
+    "id": "hi_base_mar",
+    "root": "मर्",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "die",
+    "examples": [
+      {
+        "word": "मरण",
+        "meaning": "death",
+        "sentence": "मरण अटल है।"
+      },
+      {
+        "word": "मृत्यु",
+        "meaning": "death",
+        "sentence": "मृत्यु दुखद थी।"
+      },
+      {
+        "word": "मरना",
+        "meaning": "to die",
+        "sentence": "मरना जीवन का हिस्सा है।"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/mər/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "mar"
+      }
+    ]
+  },
+  {
+    "id": "hi_base_vach",
+    "root": "वच्",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "speak; say",
+    "examples": [
+      {
+        "word": "वचन",
+        "meaning": "promise; speech",
+        "sentence": "अपना वचन निभाओ।"
+      },
+      {
+        "word": "वाक्य",
+        "meaning": "sentence",
+        "sentence": "यह वाक्य सही है।"
+      },
+      {
+        "word": "वाचा",
+        "meaning": "speech",
+        "sentence": "वाचा शक्ति बड़ी होती है।"
+      }
+    ],
+    "relatedRootIds": ["hi_base_vad"],
+    "pronunciationIpa": "/ʋətʃ/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "vach"
+      }
+    ]
+  },
+  {
+    "id": "hi_base_yuj",
+    "root": "युज्",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "join; yoke",
+    "examples": [
+      {
+        "word": "योग",
+        "meaning": "yoga; union",
+        "sentence": "योग शरीर को मजबूत बनाता है।"
+      },
+      {
+        "word": "योजना",
+        "meaning": "plan",
+        "sentence": "योजना अच्छी है।"
+      },
+      {
+        "word": "युक्त",
+        "meaning": "joined; equipped",
+        "sentence": "दोनों युक्त हो गए।"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/judʒ/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "yuj"
+      }
+    ]
+  },
+  {
+    "id": "hi_base_bhr",
+    "root": "भृ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "carry; support",
+    "examples": [
+      {
+        "word": "भार",
+        "meaning": "load",
+        "sentence": "भार उठाना मुश्किल है।"
+      },
+      {
+        "word": "भरण",
+        "meaning": "maintenance",
+        "sentence": "परिवार का भरण करना पड़ता है।"
+      },
+      {
+        "word": "भरना",
+        "meaning": "to fill; to carry",
+        "sentence": "कलश भरना होगा।"
+      }
+    ],
+    "relatedRootIds": ["hi_base_vah"],
+    "pronunciationIpa": "/bʰr̩/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "bhr"
+      }
+    ]
   }
 ]

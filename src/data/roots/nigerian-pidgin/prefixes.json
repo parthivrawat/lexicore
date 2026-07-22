@@ -190,5 +190,165 @@
         "ipa": "mis"
       }
     ]
+  },
+  {
+    "id": "pcm_prefix_pre",
+    "root": "pre-",
+    "type": "prefix",
+    "languageOrigin": "English",
+    "meaning": "before",
+    "examples": [
+      {
+        "word": "prepare",
+        "meaning": "get ready",
+        "sentence": "Make we prepare for di exam."
+      },
+      {
+        "word": "preview",
+        "meaning": "look before",
+        "sentence": "I wan preview di film."
+      },
+      {
+        "word": "preach",
+        "meaning": "preach",
+        "sentence": "Pastor dey preach today."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/pɹi/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "pre"
+      }
+    ]
+  },
+  {
+    "id": "pcm_prefix_out",
+    "root": "out-",
+    "type": "prefix",
+    "languageOrigin": "English",
+    "meaning": "surpass; outdo",
+    "examples": [
+      {
+        "word": "outrun",
+        "meaning": "run faster than",
+        "sentence": "He fit outrun you for race."
+      },
+      {
+        "word": "outdo",
+        "meaning": "do better than",
+        "sentence": "She dey outdo herself."
+      },
+      {
+        "word": "outsell",
+        "meaning": "sell more than",
+        "sentence": "Dis product dey outsell others."
+      }
+    ],
+    "relatedRootIds": ["pcm_base_run"],
+    "pronunciationIpa": "/aʊt/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "out"
+      }
+    ]
+  },
+  {
+    "id": "pcm_prefix_up",
+    "root": "up-",
+    "type": "prefix",
+    "languageOrigin": "English",
+    "meaning": "upward; higher",
+    "examples": [
+      {
+        "word": "upgrade",
+        "meaning": "improve",
+        "sentence": "I wan upgrade my phone."
+      },
+      {
+        "word": "uplift",
+        "meaning": "lift up",
+        "sentence": "Music dey uplift my soul."
+      },
+      {
+        "word": "upload",
+        "meaning": "upload",
+        "sentence": "Upload di file for me."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ʌp/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "up"
+      }
+    ]
+  },
+  {
+    "id": "pcm_prefix_down",
+    "root": "down-",
+    "type": "prefix",
+    "languageOrigin": "English",
+    "meaning": "downward; lower",
+    "examples": [
+      {
+        "word": "download",
+        "meaning": "download",
+        "sentence": "Download di song."
+      },
+      {
+        "word": "downgrade",
+        "meaning": "reduce in rank",
+        "sentence": "Dem downgrade am for work."
+      },
+      {
+        "word": "downplay",
+        "meaning": "make light of",
+        "sentence": "No downplay di matter."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/daʊn/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "down"
+      }
+    ]
+  },
+  {
+    "id": "pcm_prefix_anti",
+    "root": "anti-",
+    "type": "prefix",
+    "languageOrigin": "English",
+    "meaning": "against; opposed",
+    "examples": [
+      {
+        "word": "anti-government",
+        "meaning": "against government",
+        "sentence": "Dem be anti-government group."
+      },
+      {
+        "word": "antibody",
+        "meaning": "body defence",
+        "sentence": "Antibody dey fight infection."
+      },
+      {
+        "word": "antivirus",
+        "meaning": "anti-virus",
+        "sentence": "Install antivirus for di laptop."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ˈæn.ti/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "anti"
+      }
+    ]
   }
 ]

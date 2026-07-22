@@ -254,5 +254,165 @@
         "ipa": "ati"
       }
     ]
+  },
+  {
+    "id": "te_prefix_prati",
+    "root": "ప్రతి",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "against; toward; each",
+    "examples": [
+      {
+        "word": "ప్రతికూలం",
+        "meaning": "adverse",
+        "sentence": "అతను ప్రతికూల పరిస్థితుల్లో ఉన్నాడు."
+      },
+      {
+        "word": "ప్రతిబింబం",
+        "meaning": "reflection",
+        "sentence": "ఆమె ప్రతిబింబాన్ని చూసింది."
+      },
+      {
+        "word": "ప్రతినిధి",
+        "meaning": "representative",
+        "sentence": "అతను ప్రతినిధి."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/pɾati/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "prati"
+      }
+    ]
+  },
+  {
+    "id": "te_prefix_sama",
+    "root": "సమ",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "same; equal",
+    "examples": [
+      {
+        "word": "సమానం",
+        "meaning": "equal",
+        "sentence": "ఇవి రెండూ సమానం."
+      },
+      {
+        "word": "సంబంధం",
+        "meaning": "relation",
+        "sentence": "వారికి సంబంధం ఉంది."
+      },
+      {
+        "word": "సముద్రం",
+        "meaning": "ocean",
+        "sentence": "సముద్రం పెద్దది."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/sɐmɐ/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "sama"
+      }
+    ]
+  },
+  {
+    "id": "te_prefix_apa",
+    "root": "అప",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "away; off",
+    "examples": [
+      {
+        "word": "అపహరణం",
+        "meaning": "abduction",
+        "sentence": "అపహరణం శిక్షార్హమైనది."
+      },
+      {
+        "word": "అపకారం",
+        "meaning": "harm",
+        "sentence": "అపకారం చేయవద్దు."
+      },
+      {
+        "word": "అపరాధం",
+        "meaning": "offense",
+        "sentence": "అతను అపరాధం చేశాడు."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ɐpɐ/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "apa"
+      }
+    ]
+  },
+  {
+    "id": "te_prefix_upa",
+    "root": "ఉప",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "near; subordinate; secondary",
+    "examples": [
+      {
+        "word": "ఉపదేశం",
+        "meaning": "advice; instruction",
+        "sentence": "ఉపదేశం ఉపయోగపడుతుంది."
+      },
+      {
+        "word": "ఉపకారం",
+        "meaning": "help",
+        "sentence": "ఉపకారం చేయి."
+      },
+      {
+        "word": "ఉపన్యాసం",
+        "meaning": "lecture",
+        "sentence": "ఉపన్యాసం జరిగింది."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/upɐ/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "upa"
+      }
+    ]
+  },
+  {
+    "id": "te_prefix_ava",
+    "root": "అవ",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "off; down; away",
+    "examples": [
+      {
+        "word": "అవకాశం",
+        "meaning": "space; time",
+        "sentence": "అవకాశం ఇవ్వు."
+      },
+      {
+        "word": "అవమానం",
+        "meaning": "humiliation",
+        "sentence": "అవమానం తప్పించుకో."
+      },
+      {
+        "word": "అవధానం",
+        "meaning": "attention",
+        "sentence": "అవధానంగా విను."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ɐʋɐ/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "ava"
+      }
+    ]
   }
 ]

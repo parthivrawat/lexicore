@@ -734,5 +734,165 @@
         "ipa": "kam"
       }
     ]
+  },
+  {
+    "id": "mr_base_has",
+    "root": "हस",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "laugh",
+    "examples": [
+      {
+        "word": "हसतो",
+        "meaning": "laughs",
+        "sentence": "तो नेहमी हसतो."
+      },
+      {
+        "word": "हसणे",
+        "meaning": "to laugh",
+        "sentence": "हसणे आरोग्यासाठी चांगले."
+      },
+      {
+        "word": "हसरा",
+        "meaning": "cheerful",
+        "sentence": "तो खूप हसरा आहे."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/həs/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "has"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_khel",
+    "root": "खेळ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "play",
+    "examples": [
+      {
+        "word": "खेळतो",
+        "meaning": "plays",
+        "sentence": "तो क्रिकेट खेळतो."
+      },
+      {
+        "word": "खेळणे",
+        "meaning": "to play",
+        "sentence": "मुलांना खेळणे आवडते."
+      },
+      {
+        "word": "खेळाडू",
+        "meaning": "player",
+        "sentence": "खेळाडू प्रसिद्ध आहे."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/kʰeːɭ/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "khel"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_nach",
+    "root": "नाच",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "dance",
+    "examples": [
+      {
+        "word": "नाचतो",
+        "meaning": "dances",
+        "sentence": "तो नृत्य नाचतो."
+      },
+      {
+        "word": "नाचणे",
+        "meaning": "to dance",
+        "sentence": "तिला नाचणे आवडते."
+      },
+      {
+        "word": "नर्तक",
+        "meaning": "dancer",
+        "sentence": "नर्तक अंगदेखी आहे."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/naːtʃ/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "nach"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_gaa",
+    "root": "गा",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "sing",
+    "examples": [
+      {
+        "word": "गातो",
+        "meaning": "sings",
+        "sentence": "तो गाणे गातो."
+      },
+      {
+        "word": "गाणे",
+        "meaning": "to sing; song",
+        "sentence": "हे गाणे सुंदर आहे."
+      },
+      {
+        "word": "गायक",
+        "meaning": "singer",
+        "sentence": "गायक प्रसिद्ध आहे."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/gaː/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "gaa"
+      }
+    ]
+  },
+  {
+    "id": "mr_base_uth",
+    "root": "उठ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "wake up; rise",
+    "examples": [
+      {
+        "word": "उठतो",
+        "meaning": "wakes up",
+        "sentence": "तो लवकर उठतो."
+      },
+      {
+        "word": "उठणे",
+        "meaning": "to wake up; to rise",
+        "sentence": "उठणे आरोग्यासाठी चांगले."
+      },
+      {
+        "word": "उठाव",
+        "meaning": "rising; movement",
+        "sentence": "उठाव झाला."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/uʈʰ/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "uth"
+      }
+    ]
   }
 ]

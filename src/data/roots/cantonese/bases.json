@@ -679,5 +679,165 @@
         "ipa": "bun1"
       }
     ]
+  },
+  {
+    "id": "yue_base_haan6",
+    "root": "行",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "walk; go",
+    "examples": [
+      {
+        "word": "行路",
+        "meaning": "walk",
+        "sentence": "我行路返屋企。"
+      },
+      {
+        "word": "行街",
+        "meaning": "go shopping; stroll",
+        "sentence": "我行街買嘢。"
+      },
+      {
+        "word": "銀行",
+        "meaning": "bank",
+        "sentence": "我去銀行。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/haaŋ/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "haan6"
+      }
+    ]
+  },
+  {
+    "id": "yue_base_paau2",
+    "root": "跑",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "run",
+    "examples": [
+      {
+        "word": "跑步",
+        "meaning": "run",
+        "sentence": "我每日跑步。"
+      },
+      {
+        "word": "跑馬",
+        "meaning": "horse racing",
+        "sentence": "跑馬好刺激。"
+      },
+      {
+        "word": "跑得快",
+        "meaning": "run fast",
+        "sentence": "佢跑得好快。"
+      }
+    ],
+    "relatedRootIds": ["yue_base_haan6"],
+    "pronunciationIpa": "/pʰaːu/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "paau2"
+      }
+    ]
+  },
+  {
+    "id": "yue_base_fan3",
+    "root": "瞓",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "sleep",
+    "examples": [
+      {
+        "word": "瞓覺",
+        "meaning": "sleep",
+        "sentence": "我瞓覺。"
+      },
+      {
+        "word": "瞓著",
+        "meaning": "fall asleep",
+        "sentence": "佢瞓著咗。"
+      },
+      {
+        "word": "早瞓",
+        "meaning": "sleep early",
+        "sentence": "今晚早瞓。"
+      }
+    ],
+    "relatedRootIds": ["yue_suffix_zo2"],
+    "pronunciationIpa": "/fɐn/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "fan3"
+      }
+    ]
+  },
+  {
+    "id": "yue_base_siu3",
+    "root": "笑",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "laugh; smile",
+    "examples": [
+      {
+        "word": "笑話",
+        "meaning": "joke",
+        "sentence": "呢個笑話好笑。"
+      },
+      {
+        "word": "微笑",
+        "meaning": "smile",
+        "sentence": "佢微笑。"
+      },
+      {
+        "word": "大笑",
+        "meaning": "laugh loudly",
+        "sentence": "大家大笑。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/siu/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "siu3"
+      }
+    ]
+  },
+  {
+    "id": "yue_base_maan6",
+    "root": "問",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "ask",
+    "examples": [
+      {
+        "word": "問題",
+        "meaning": "question",
+        "sentence": "呢個問題好難。"
+      },
+      {
+        "word": "問路",
+        "meaning": "ask the way",
+        "sentence": "我問路。"
+      },
+      {
+        "word": "問候",
+        "meaning": "greet",
+        "sentence": "問候家人。"
+      }
+    ],
+    "relatedRootIds": ["yue_suffix_maa3"],
+    "pronunciationIpa": "/mɐn/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "maan6"
+      }
+    ]
   }
 ]

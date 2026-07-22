@@ -318,5 +318,165 @@
         "ipa": "an"
       }
     ]
+  },
+  {
+    "id": "ar_suffix_ha",
+    "root": "ها",
+    "type": "suffix",
+    "languageOrigin": "Arabic",
+    "meaning": "her (-hā)",
+    "examples": [
+      {
+        "word": "كتابها",
+        "meaning": "her book",
+        "sentence": "هذا كتابها."
+      },
+      {
+        "word": "بيتها",
+        "meaning": "her house",
+        "sentence": "بيتها جميل."
+      },
+      {
+        "word": "اسمها",
+        "meaning": "her name",
+        "sentence": "اسمها فاطمة."
+      }
+    ],
+    "relatedRootIds": ["ar_base_ktb"],
+    "pronunciationIpa": "/ha/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ha"
+      }
+    ]
+  },
+  {
+    "id": "ar_suffix_kum",
+    "root": "كم",
+    "type": "suffix",
+    "languageOrigin": "Arabic",
+    "meaning": "your (m. pl.) (-kum)",
+    "examples": [
+      {
+        "word": "كتابكم",
+        "meaning": "your book (pl.)",
+        "sentence": "كتابكم هنا."
+      },
+      {
+        "word": "بيتكم",
+        "meaning": "your house (pl.)",
+        "sentence": "بيتكم كبير."
+      },
+      {
+        "word": "اسمكم",
+        "meaning": "your name (pl.)",
+        "sentence": "ما اسمكم؟"
+      }
+    ],
+    "relatedRootIds": ["ar_base_ktb"],
+    "pronunciationIpa": "/kum/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "kum"
+      }
+    ]
+  },
+  {
+    "id": "ar_suffix_kunna",
+    "root": "كن",
+    "type": "suffix",
+    "languageOrigin": "Arabic",
+    "meaning": "your (f. pl.) (-kunna)",
+    "examples": [
+      {
+        "word": "كتابكن",
+        "meaning": "your book (f. pl.)",
+        "sentence": "كتابكن مفيد."
+      },
+      {
+        "word": "بيتكن",
+        "meaning": "your house (f. pl.)",
+        "sentence": "بيتكن واسع."
+      },
+      {
+        "word": "اسمكن",
+        "meaning": "your name (f. pl.)",
+        "sentence": "اسمكن جميل."
+      }
+    ],
+    "relatedRootIds": ["ar_base_ktb"],
+    "pronunciationIpa": "/kunna/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "kunna"
+      }
+    ]
+  },
+  {
+    "id": "ar_suffix_hunna",
+    "root": "هن",
+    "type": "suffix",
+    "languageOrigin": "Arabic",
+    "meaning": "their (f. pl.) (-hunna)",
+    "examples": [
+      {
+        "word": "كتابهن",
+        "meaning": "their book (f. pl.)",
+        "sentence": "كتابهن غائب."
+      },
+      {
+        "word": "بيتهن",
+        "meaning": "their house (f. pl.)",
+        "sentence": "بيتهن قريب."
+      },
+      {
+        "word": "اسمهن",
+        "meaning": "their name (f. pl.)",
+        "sentence": "اسمهن معروف."
+      }
+    ],
+    "relatedRootIds": ["ar_base_ktb"],
+    "pronunciationIpa": "/hunna/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "hunna"
+      }
+    ]
+  },
+  {
+    "id": "ar_suffix_na",
+    "root": "نا",
+    "type": "suffix",
+    "languageOrigin": "Arabic",
+    "meaning": "our (-nā)",
+    "examples": [
+      {
+        "word": "كتابنا",
+        "meaning": "our book",
+        "sentence": "كتابنا مفيد."
+      },
+      {
+        "word": "بيتنا",
+        "meaning": "our house",
+        "sentence": "بيتنا كبير."
+      },
+      {
+        "word": "اسمنا",
+        "meaning": "our name",
+        "sentence": "اسمنا معروف."
+      }
+    ],
+    "relatedRootIds": ["ar_base_ktb"],
+    "pronunciationIpa": "/naː/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "na"
+      }
+    ]
   }
 ]

@@ -222,5 +222,165 @@
         "ipa": "zyu6"
       }
     ]
+  },
+  {
+    "id": "yue_suffix_maa3",
+    "root": "嗎",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "question particle",
+    "examples": [
+      {
+        "word": "食飽嗎",
+        "meaning": "are you full?",
+        "sentence": "你食飽嗎？"
+      },
+      {
+        "word": "去嗎",
+        "meaning": "are you going?",
+        "sentence": "你去嗎？"
+      },
+      {
+        "word": "好嗎",
+        "meaning": "is it good?",
+        "sentence": "呢個好嗎？"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ma/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "maa3"
+      }
+    ]
+  },
+  {
+    "id": "yue_suffix_aa3",
+    "root": "啊",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "exclamation or softening particle",
+    "examples": [
+      {
+        "word": "係啊",
+        "meaning": "yes (indeed)",
+        "sentence": "係啊，我會去。"
+      },
+      {
+        "word": "好啊",
+        "meaning": "okay then",
+        "sentence": "好啊，聽你。"
+      },
+      {
+        "word": "食啊",
+        "meaning": "eat up (encouragement)",
+        "sentence": "食啊，唔好客氣。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/a/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "aa3"
+      }
+    ]
+  },
+  {
+    "id": "yue_suffix_ze1",
+    "root": "啫",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "only; simply; just",
+    "examples": [
+      {
+        "word": "兩蚊啫",
+        "meaning": "only two dollars",
+        "sentence": "呢個兩蚊啫。"
+      },
+      {
+        "word": "係啫",
+        "meaning": "just is",
+        "sentence": "佢小氣啫。"
+      },
+      {
+        "word": "等陣啫",
+        "meaning": "just wait a moment",
+        "sentence": "等陣啫。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/tsɛ/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "ze1"
+      }
+    ]
+  },
+  {
+    "id": "yue_suffix_me1",
+    "root": "咩",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "disbelief or rhetorical question particle",
+    "examples": [
+      {
+        "word": "真係咩",
+        "meaning": "really?",
+        "sentence": "你真係去咗咩？"
+      },
+      {
+        "word": "唔係咩",
+        "meaning": "isn't it?",
+        "sentence": "唔係咩？"
+      },
+      {
+        "word": "好咩",
+        "meaning": "is it good? (skeptical)",
+        "sentence": "呢個好咩？"
+      }
+    ],
+    "relatedRootIds": ["yue_suffix_maa3"],
+    "pronunciationIpa": "/mɛ/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "me1"
+      }
+    ]
+  },
+  {
+    "id": "yue_suffix_laa3",
+    "root": "啦",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "suggestion or change-of-state particle",
+    "examples": [
+      {
+        "word": "走啦",
+        "meaning": "let's go",
+        "sentence": "我哋走啦。"
+      },
+      {
+        "word": "食啦",
+        "meaning": "eat now",
+        "sentence": "食飯啦。"
+      },
+      {
+        "word": "好啦",
+        "meaning": "alright then",
+        "sentence": "好啦，唔好再講。"
+      }
+    ],
+    "relatedRootIds": ["yue_suffix_aa3"],
+    "pronunciationIpa": "/la/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "laa3"
+      }
+    ]
   }
 ]

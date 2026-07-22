@@ -414,5 +414,577 @@
       }
     ],
     "relatedRootIds": []
+  },
+  {
+    "id": "root_es_ante",
+    "root": "ante-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "before",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈante"
+      }
+    ],
+    "examples": [
+      {
+        "word": "anteayer",
+        "meaning": "the day before yesterday",
+        "sentence": "Llegó anteayer por la tarde."
+      },
+      {
+        "word": "antebrazo",
+        "meaning": "forearm",
+        "sentence": "Me duele el antebrazo."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_bi",
+    "root": "bi-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "two",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "bi"
+      }
+    ],
+    "examples": [
+      {
+        "word": "bicicleta",
+        "meaning": "bicycle",
+        "sentence": "La bicicleta es roja."
+      },
+      {
+        "word": "bilingüe",
+        "meaning": "bilingual",
+        "sentence": "Es bilingüe en español e inglés."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_cent",
+    "root": "cent-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "hundred",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "θent"
+      }
+    ],
+    "examples": [
+      {
+        "word": "centímetro",
+        "meaning": "centimeter",
+        "sentence": "Mide un centímetro."
+      },
+      {
+        "word": "centenar",
+        "meaning": "group of a hundred",
+        "sentence": "Un centenar de personas asistió."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_contra",
+    "root": "contra-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "against",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈkontɾa"
+      }
+    ],
+    "examples": [
+      {
+        "word": "contraataque",
+        "meaning": "counterattack",
+        "sentence": "El equipo hizo un rápido contraataque."
+      },
+      {
+        "word": "contrapeso",
+        "meaning": "counterweight",
+        "sentence": "Necesito un contrapeso."
+      }
+    ],
+    "relatedRootIds": ["root_es_anti"]
+  },
+  {
+    "id": "root_es_dis",
+    "root": "dis-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "not, reverse",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "dis"
+      }
+    ],
+    "examples": [
+      {
+        "word": "disonancia",
+        "meaning": "dissonance",
+        "sentence": "Hay una disonancia en la música."
+      },
+      {
+        "word": "discordia",
+        "meaning": "discord",
+        "sentence": "La discordia dividió al grupo."
+      }
+    ],
+    "relatedRootIds": ["root_es_des"]
+  },
+  {
+    "id": "root_es_entre",
+    "root": "entre-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "between, among",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈentɾe"
+      }
+    ],
+    "examples": [
+      {
+        "word": "entremeter",
+        "meaning": "to meddle",
+        "sentence": "No te entremetas en mis asuntos."
+      },
+      {
+        "word": "entreabierto",
+        "meaning": "half-open",
+        "sentence": "La puerta quedó entreabierta."
+      }
+    ],
+    "relatedRootIds": ["root_es_inter"]
+  },
+  {
+    "id": "root_es_homo",
+    "root": "homo-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "same",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈomo"
+      }
+    ],
+    "examples": [
+      {
+        "word": "homónimo",
+        "meaning": "homonym",
+        "sentence": "Tienen nombres homónimos."
+      },
+      {
+        "word": "homólogo",
+        "meaning": "homologous",
+        "sentence": "Son organismos homólogos."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_in",
+    "root": "in-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "not, opposite",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "in"
+      }
+    ],
+    "examples": [
+      {
+        "word": "incapaz",
+        "meaning": "incapable",
+        "sentence": "Me siento incapaz de hacerlo."
+      },
+      {
+        "word": "inaudible",
+        "meaning": "inaudible",
+        "sentence": "El sonido era inaudible."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_mal",
+    "root": "mal-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "bad",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "mal"
+      }
+    ],
+    "examples": [
+      {
+        "word": "maltratar",
+        "meaning": "to mistreat",
+        "sentence": "No debes maltratar a los animales."
+      },
+      {
+        "word": "malpensado",
+        "meaning": "malicious",
+        "sentence": "Es un malpensado."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_mono",
+    "root": "mono-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "one",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈmono"
+      }
+    ],
+    "examples": [
+      {
+        "word": "monótono",
+        "meaning": "monotonous",
+        "sentence": "El discurso fue monótono."
+      },
+      {
+        "word": "monopolio",
+        "meaning": "monopoly",
+        "sentence": "Tiene un monopolio del mercado."
+      }
+    ],
+    "relatedRootIds": ["root_es_uni"]
+  },
+  {
+    "id": "root_es_multi",
+    "root": "multi-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "many",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈmulti"
+      }
+    ],
+    "examples": [
+      {
+        "word": "multinacional",
+        "meaning": "multinational",
+        "sentence": "Es una multinacional importante."
+      },
+      {
+        "word": "multilingüe",
+        "meaning": "multilingual",
+        "sentence": "Es multilingüe."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_para",
+    "root": "para-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "together, with, for",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈpaɾa"
+      }
+    ],
+    "examples": [
+      {
+        "word": "paramédico",
+        "meaning": "paramedic",
+        "sentence": "Llamaron a un paramédico."
+      },
+      {
+        "word": "paraguas",
+        "meaning": "umbrella",
+        "sentence": "No olvides el paraguas."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_post",
+    "root": "post-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "after, behind",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "post"
+      }
+    ],
+    "examples": [
+      {
+        "word": "posponer",
+        "meaning": "to postpone",
+        "sentence": "Voy a posponer la reunión."
+      },
+      {
+        "word": "postbélico",
+        "meaning": "postwar",
+        "sentence": "La era postbélica fue difícil."
+      }
+    ],
+    "relatedRootIds": ["root_es_pre"]
+  },
+  {
+    "id": "root_es_pro",
+    "root": "pro-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "in favor of, for",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "pɾo"
+      }
+    ],
+    "examples": [
+      {
+        "word": "proponer",
+        "meaning": "to propose",
+        "sentence": "Voy a proponer una solución."
+      },
+      {
+        "word": "pronombre",
+        "meaning": "pronoun",
+        "sentence": "El pronombre es personal."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_semi",
+    "root": "semi-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "half",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈsemi"
+      }
+    ],
+    "examples": [
+      {
+        "word": "semicírculo",
+        "meaning": "semicircle",
+        "sentence": "Dibuja un semicírculo."
+      },
+      {
+        "word": "semifinalista",
+        "meaning": "semifinalist",
+        "sentence": "Es semifinalista del torneo."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_seudo",
+    "root": "seudo-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "false",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈseu̯do"
+      }
+    ],
+    "examples": [
+      {
+        "word": "seudónimo",
+        "meaning": "pseudonym",
+        "sentence": "Escribe bajo un seudónimo."
+      },
+      {
+        "word": "seudociencia",
+        "meaning": "pseudoscience",
+        "sentence": "Eso es seudociencia."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_sobre",
+    "root": "sobre-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "over, excessive",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈsoβɾe"
+      }
+    ],
+    "examples": [
+      {
+        "word": "sobrevivir",
+        "meaning": "to survive",
+        "sentence": "Logró sobrevivir al accidente."
+      },
+      {
+        "word": "sobredosis",
+        "meaning": "overdose",
+        "sentence": "La sobredosis es peligrosa."
+      }
+    ],
+    "relatedRootIds": ["root_es_super"]
+  },
+  {
+    "id": "root_es_super",
+    "root": "super-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "above, beyond",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈsupeɾ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "supermercado",
+        "meaning": "supermarket",
+        "sentence": "Voy al supermercado."
+      },
+      {
+        "word": "superhombre",
+        "meaning": "superman",
+        "sentence": "Es un superhombre."
+      }
+    ],
+    "relatedRootIds": ["root_es_sobre"]
+  },
+  {
+    "id": "root_es_tele",
+    "root": "tele-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "far, distant",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈtele"
+      }
+    ],
+    "examples": [
+      {
+        "word": "teléfono",
+        "meaning": "telephone",
+        "sentence": "Contesta el teléfono."
+      },
+      {
+        "word": "telescopio",
+        "meaning": "telescope",
+        "sentence": "Mira por el telescopio."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_tri",
+    "root": "tri-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "three",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "tɾi"
+      }
+    ],
+    "examples": [
+      {
+        "word": "triciclo",
+        "meaning": "tricycle",
+        "sentence": "El niño tiene un triciclo."
+      },
+      {
+        "word": "tripartito",
+        "meaning": "tripartite",
+        "sentence": "El acuerdo es tripartito."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_ultra",
+    "root": "ultra-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "beyond, extreme",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈultɾa"
+      }
+    ],
+    "examples": [
+      {
+        "word": "ultrasecreto",
+        "meaning": "top secret",
+        "sentence": "Es un proyecto ultrasecreto."
+      },
+      {
+        "word": "ultrasónico",
+        "meaning": "ultrasonic",
+        "sentence": "El sonido es ultrasónico."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_uni",
+    "root": "uni-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "one",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈuni"
+      }
+    ],
+    "examples": [
+      {
+        "word": "unificación",
+        "meaning": "unification",
+        "sentence": "La unificación es necesaria."
+      },
+      {
+        "word": "unisexo",
+        "meaning": "unisex",
+        "sentence": "Es un producto unisexo."
+      }
+    ],
+    "relatedRootIds": ["root_es_mono"]
   }
 ]

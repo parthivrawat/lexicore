@@ -3352,5 +3352,209 @@
       }
     ],
     "relatedRootIds": ["root_ique_fr"]
+  },
+  {
+    "id": "root_duc_fr",
+    "root": "duc-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "conduire (to lead)",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "dyk"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "dyk"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "dyk"
+      }
+    ],
+    "examples": [
+      {
+        "word": "conduire",
+        "meaning": "to drive, to lead",
+        "sentence": "Je conduis prudemment."
+      },
+      {
+        "word": "déduire",
+        "meaning": "to deduce",
+        "sentence": "On déduit la réponse."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_gen_fr",
+    "root": "gen-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "naissance, origine (birth, origin)",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "ʒɛn"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "ʒɛn"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "ʒɛn"
+      }
+    ],
+    "examples": [
+      {
+        "word": "générer",
+        "meaning": "to generate",
+        "sentence": "Cette machine génère de l'électricité."
+      },
+      {
+        "word": "génération",
+        "meaning": "generation",
+        "sentence": "La nouvelle génération est prête."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_jur_fr",
+    "root": "jur-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "droit, serment (law, oath)",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "ʒyʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "ʒyʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "ʒyʁ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "jurer",
+        "meaning": "to swear",
+        "sentence": "Je jure de dire la vérité."
+      },
+      {
+        "word": "jury",
+        "meaning": "jury",
+        "sentence": "Le jury a décidé."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_lev_fr",
+    "root": "lev-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "lever, élever (to lift, to raise)",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "lev"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "lev"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "lev"
+      }
+    ],
+    "examples": [
+      {
+        "word": "lever",
+        "meaning": "to lift",
+        "sentence": "Je lève la main."
+      },
+      {
+        "word": "élever",
+        "meaning": "to raise",
+        "sentence": "Il faut élever les enfants."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_sens_fr",
+    "root": "sens-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "sentir, percevoir (to feel, to perceive)",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "sɑ̃s"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "sɑ̃s"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "sɑ̃s"
+      }
+    ],
+    "examples": [
+      {
+        "word": "sensation",
+        "meaning": "sensation",
+        "sentence": "La sensation est étrange."
+      },
+      {
+        "word": "sensible",
+        "meaning": "sensitive",
+        "sentence": "Elle est très sensible."
+      }
+    ],
+    "relatedRootIds": ["root_sentir_fr"]
+  },
+  {
+    "id": "root_vac_fr",
+    "root": "vac-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "vide (empty)",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "vak"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "vak"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "vak"
+      }
+    ],
+    "examples": [
+      {
+        "word": "vide",
+        "meaning": "empty",
+        "sentence": "La maison est vide."
+      },
+      {
+        "word": "vacant",
+        "meaning": "vacant",
+        "sentence": "Le poste est vacant."
+      }
+    ],
+    "relatedRootIds": []
   }
 ]

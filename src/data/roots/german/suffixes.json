@@ -318,5 +318,165 @@
         "ipa": "tum"
       }
     ]
+  },
+  {
+    "id": "de_suffix_keit",
+    "root": "-keit",
+    "type": "suffix",
+    "languageOrigin": "Germanic",
+    "meaning": "abstract quality; -ness",
+    "examples": [
+      {
+        "word": "Möglichkeit",
+        "meaning": "possibility",
+        "sentence": "Das ist eine gute Möglichkeit."
+      },
+      {
+        "word": "Schwierigkeit",
+        "meaning": "difficulty",
+        "sentence": "Die Schwierigkeit ist gering."
+      },
+      {
+        "word": "Wichtigkeit",
+        "meaning": "importance",
+        "sentence": "Die Wichtigkeit ist klar."
+      }
+    ],
+    "relatedRootIds": ["de_suffix_heit"],
+    "pronunciationIpa": "/kaɪ̯t/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "keit"
+      }
+    ]
+  },
+  {
+    "id": "de_suffix_in",
+    "root": "-in",
+    "type": "suffix",
+    "languageOrigin": "Germanic",
+    "meaning": "female counterpart; -ess",
+    "examples": [
+      {
+        "word": "Lehrerin",
+        "meaning": "teacher (female)",
+        "sentence": "Die Lehrerin erklärt die Aufgabe."
+      },
+      {
+        "word": "Ärztin",
+        "meaning": "doctor (female)",
+        "sentence": "Die Ärztin hilft Patienten."
+      },
+      {
+        "word": "Freundin",
+        "meaning": "girlfriend; female friend",
+        "sentence": "Meine Freundin kommt aus Berlin."
+      }
+    ],
+    "relatedRootIds": ["de_suffix_er"],
+    "pronunciationIpa": "/ɪn/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "in"
+      }
+    ]
+  },
+  {
+    "id": "de_suffix_ig",
+    "root": "-ig",
+    "type": "suffix",
+    "languageOrigin": "Germanic",
+    "meaning": "-y; -ish; adjective forming",
+    "examples": [
+      {
+        "word": "sonnig",
+        "meaning": "sunny",
+        "sentence": "Das Wetter ist sonnig."
+      },
+      {
+        "word": "mutig",
+        "meaning": "brave",
+        "sentence": "Sei mutig!"
+      },
+      {
+        "word": "königlich",
+        "meaning": "royal",
+        "sentence": "Das ist ein königliches Geschenk."
+      }
+    ],
+    "relatedRootIds": ["de_suffix_lich"],
+    "pronunciationIpa": "/ɪç/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ig"
+      }
+    ]
+  },
+  {
+    "id": "de_suffix_isch",
+    "root": "-isch",
+    "type": "suffix",
+    "languageOrigin": "Germanic",
+    "meaning": "-ish; -ic; relating to",
+    "examples": [
+      {
+        "word": "typisch",
+        "meaning": "typical",
+        "sentence": "Das ist typisch deutsch."
+      },
+      {
+        "word": "romantisch",
+        "meaning": "romantic",
+        "sentence": "Der Film ist romantisch."
+      },
+      {
+        "word": "politisch",
+        "meaning": "political",
+        "sentence": "Die Frage ist politisch."
+      }
+    ],
+    "relatedRootIds": ["de_suffix_lich"],
+    "pronunciationIpa": "/ɪʃ/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "isch"
+      }
+    ]
+  },
+  {
+    "id": "de_suffix_ment",
+    "root": "-ment",
+    "type": "suffix",
+    "languageOrigin": "Germanic",
+    "meaning": "result; means; abstract",
+    "examples": [
+      {
+        "word": "Instrument",
+        "meaning": "instrument",
+        "sentence": "Das Instrument ist laut."
+      },
+      {
+        "word": "Dokument",
+        "meaning": "document",
+        "sentence": "Das Dokument ist wichtig."
+      },
+      {
+        "word": "Experiment",
+        "meaning": "experiment",
+        "sentence": "Das Experiment gelingt."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/mɛnt/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ment"
+      }
+    ]
   }
 ]

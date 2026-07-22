@@ -190,5 +190,165 @@
         "ipa": "er"
       }
     ]
+  },
+  {
+    "id": "pcm_suffix_ly",
+    "root": "-ly",
+    "type": "suffix",
+    "languageOrigin": "English",
+    "meaning": "in a ... manner",
+    "examples": [
+      {
+        "word": "quickly",
+        "meaning": "fast",
+        "sentence": "E run quickly go house."
+      },
+      {
+        "word": "slowly",
+        "meaning": "slow",
+        "sentence": "Drive slowly for dis road."
+      },
+      {
+        "word": "happily",
+        "meaning": "with happiness",
+        "sentence": "Dem dey live happily."
+      }
+    ],
+    "relatedRootIds": ["pcm_suffix_ness"],
+    "pronunciationIpa": "/li/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "ly"
+      }
+    ]
+  },
+  {
+    "id": "pcm_suffix_y",
+    "root": "-y",
+    "type": "suffix",
+    "languageOrigin": "English",
+    "meaning": "having quality of",
+    "examples": [
+      {
+        "word": "rainy",
+        "meaning": "full of rain",
+        "sentence": "Today go be rainy day."
+      },
+      {
+        "word": "sunny",
+        "meaning": "full of sun",
+        "sentence": "Di sun dey sunny well."
+      },
+      {
+        "word": "dirty",
+        "meaning": "not clean",
+        "sentence": "Dis cloth dirty well well."
+      }
+    ],
+    "relatedRootIds": ["pcm_suffix_ness"],
+    "pronunciationIpa": "/i/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "y"
+      }
+    ]
+  },
+  {
+    "id": "pcm_suffix_ed",
+    "root": "-ed",
+    "type": "suffix",
+    "languageOrigin": "English",
+    "meaning": "past tense/adjective",
+    "examples": [
+      {
+        "word": "played",
+        "meaning": "finished playing",
+        "sentence": "We don played di match."
+      },
+      {
+        "word": "tired",
+        "meaning": "exhausted",
+        "sentence": "I dey tired today."
+      },
+      {
+        "word": "finished",
+        "meaning": "done",
+        "sentence": "Di work don finished."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/d/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "ed"
+      }
+    ]
+  },
+  {
+    "id": "pcm_suffix_ing",
+    "root": "-ing",
+    "type": "suffix",
+    "languageOrigin": "English",
+    "meaning": "present participle",
+    "examples": [
+      {
+        "word": "going",
+        "meaning": "in the act of going",
+        "sentence": "I dey going market."
+      },
+      {
+        "word": "eating",
+        "meaning": "in the act of eating",
+        "sentence": "Dem dey eating rice."
+      },
+      {
+        "word": "running",
+        "meaning": "in the act of running",
+        "sentence": "E dey running fast."
+      }
+    ],
+    "relatedRootIds": ["pcm_base_go"],
+    "pronunciationIpa": "/ɪŋ/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "ing"
+      }
+    ]
+  },
+  {
+    "id": "pcm_suffix_able",
+    "root": "-able",
+    "type": "suffix",
+    "languageOrigin": "English",
+    "meaning": "capable of being",
+    "examples": [
+      {
+        "word": "drinkable",
+        "meaning": "safe to drink",
+        "sentence": "Dis water drinkable."
+      },
+      {
+        "word": "readable",
+        "meaning": "can be read",
+        "sentence": "Di note readable well."
+      },
+      {
+        "word": "lovable",
+        "meaning": "easy to love",
+        "sentence": "Pikin dey lovable."
+      }
+    ],
+    "relatedRootIds": ["pcm_base_drink", "pcm_base_rid", "pcm_base_lov"],
+    "pronunciationIpa": "/əbəl/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "able"
+      }
+    ]
   }
 ]

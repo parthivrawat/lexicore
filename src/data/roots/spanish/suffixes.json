@@ -362,5 +362,265 @@
       }
     ],
     "relatedRootIds": []
+  },
+  {
+    "id": "root_es_anza",
+    "root": "-anza",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "action, result",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈanθa"
+      }
+    ],
+    "examples": [
+      {
+        "word": "enseñanza",
+        "meaning": "teaching, education",
+        "sentence": "La enseñanza es una vocación."
+      },
+      {
+        "word": "alabanza",
+        "meaning": "praise",
+        "sentence": "Su alabanza fue sincera."
+      }
+    ],
+    "relatedRootIds": ["root_es_cion"]
+  },
+  {
+    "id": "root_es_ario",
+    "root": "-ario",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "profession, place, relation",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈaɾjo"
+      }
+    ],
+    "examples": [
+      {
+        "word": "bancario",
+        "meaning": "banking",
+        "sentence": "Trabaja en el sector bancario."
+      },
+      {
+        "word": "secretario",
+        "meaning": "secretary",
+        "sentence": "El secretario escribió la carta."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_cida",
+    "root": "-cida",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "killer",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈsiða"
+      }
+    ],
+    "examples": [
+      {
+        "word": "homicida",
+        "meaning": "homicide, murderer",
+        "sentence": "El homicida fue arrestado."
+      },
+      {
+        "word": "insecticida",
+        "meaning": "insecticide",
+        "sentence": "Usa insecticida en el jardín."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_ncia",
+    "root": "-ncia",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "quality, state",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "nθja"
+      }
+    ],
+    "examples": [
+      {
+        "word": "importancia",
+        "meaning": "importance",
+        "sentence": "La importancia del agua es vital."
+      },
+      {
+        "word": "independencia",
+        "meaning": "independence",
+        "sentence": "La independencia fue declarada."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_triz",
+    "root": "-triz",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "female agent",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈtɾis"
+      }
+    ],
+    "examples": [
+      {
+        "word": "actriz",
+        "meaning": "actress",
+        "sentence": "La actriz ganó un premio."
+      },
+      {
+        "word": "conductriz",
+        "meaning": "female driver",
+        "sentence": "La conductriz manejaba bien."
+      }
+    ],
+    "relatedRootIds": ["root_es_ador"]
+  },
+  {
+    "id": "root_es_al",
+    "root": "-al",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "grove, place",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "al"
+      }
+    ],
+    "examples": [
+      {
+        "word": "naranjal",
+        "meaning": "orange grove",
+        "sentence": "El naranjal produce mucha fruta."
+      },
+      {
+        "word": "rosal",
+        "meaning": "rose bed",
+        "sentence": "El rosal es hermoso."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_eria",
+    "root": "-ería",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "place where something is sold or made",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "eˈɾia"
+      }
+    ],
+    "examples": [
+      {
+        "word": "panadería",
+        "meaning": "bakery",
+        "sentence": "La panadería abre temprano."
+      },
+      {
+        "word": "zapatería",
+        "meaning": "shoe store",
+        "sentence": "Voy a la zapatería."
+      }
+    ],
+    "relatedRootIds": ["root_es_ero"]
+  },
+  {
+    "id": "root_es_eza",
+    "root": "-eza",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "quality, state",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈeθa"
+      }
+    ],
+    "examples": [
+      {
+        "word": "pureza",
+        "meaning": "purity",
+        "sentence": "La pureza del agua es notable."
+      },
+      {
+        "word": "tristeza",
+        "meaning": "sadness",
+        "sentence": "La tristeza es profunda."
+      }
+    ],
+    "relatedRootIds": ["root_es_dad"]
+  },
+  {
+    "id": "root_es_itis",
+    "root": "-itis",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "inflammation",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈitis"
+      }
+    ],
+    "examples": [
+      {
+        "word": "apendicitis",
+        "meaning": "appendicitis",
+        "sentence": "Tiene apendicitis."
+      },
+      {
+        "word": "conjuntivitis",
+        "meaning": "conjunctivitis",
+        "sentence": "La conjuntivitis es contagiosa."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_fono",
+    "root": "-fono",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "sound, voice",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈfono"
+      }
+    ],
+    "examples": [
+      {
+        "word": "teléfono",
+        "meaning": "telephone",
+        "sentence": "Contesta el teléfono."
+      },
+      {
+        "word": "megáfono",
+        "meaning": "megaphone",
+        "sentence": "Usa un megáfono."
+      }
+    ],
+    "relatedRootIds": []
   }
 ]

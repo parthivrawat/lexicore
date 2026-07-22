@@ -638,5 +638,165 @@
         "ipa": "pani"
       }
     ]
+  },
+  {
+    "id": "te_base_paduko",
+    "root": "పడుకో",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "sleep; lie down",
+    "examples": [
+      {
+        "word": "పడుకుంటాడు",
+        "meaning": "sleeps",
+        "sentence": "అతను రాత్రి పడుకుంటాడు."
+      },
+      {
+        "word": "పడుకోవడం",
+        "meaning": "sleeping",
+        "sentence": "పడుకోవడం మంచిది."
+      },
+      {
+        "word": "నిద్ర",
+        "meaning": "sleep",
+        "sentence": "నిద్ర ముఖ్యం."
+      }
+    ],
+    "relatedRootIds": ["te_suffix_vadu"],
+    "pronunciationIpa": "/pɐɖukoː/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "paduko"
+      }
+    ]
+  },
+  {
+    "id": "te_base_parigettu",
+    "root": "పరిగెత్తు",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "run",
+    "examples": [
+      {
+        "word": "పరిగెత్తుతాడు",
+        "meaning": "runs",
+        "sentence": "అతను వేగంగా పరిగెత్తుతాడు."
+      },
+      {
+        "word": "పరుగు",
+        "meaning": "a run",
+        "sentence": "పరుగు పెట్టాడు."
+      },
+      {
+        "word": "పరిగెత్తేవాడు",
+        "meaning": "runner",
+        "sentence": "అతను వేగవంతమైన పరిగెత్తేవాడు."
+      }
+    ],
+    "relatedRootIds": ["te_suffix_vadu"],
+    "pronunciationIpa": "/pɐɾigeʈʈu/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "parigettu"
+      }
+    ]
+  },
+  {
+    "id": "te_base_nadacu",
+    "root": "నడచు",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "walk; behave",
+    "examples": [
+      {
+        "word": "నడుస్తాడు",
+        "meaning": "walks",
+        "sentence": "అతను రోడ్డుపై నడుస్తాడు."
+      },
+      {
+        "word": "నడవడం",
+        "meaning": "walking",
+        "sentence": "నడవడం ఆరోగ్యానికి మంచిది."
+      },
+      {
+        "word": "నడత",
+        "meaning": "conduct; gait",
+        "sentence": "అతని నడత బాగుంది."
+      }
+    ],
+    "relatedRootIds": ["te_suffix_vadu"],
+    "pronunciationIpa": "/nɐɖɐtɕu/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "nadacu"
+      }
+    ]
+  },
+  {
+    "id": "te_base_puttu",
+    "root": "పుట్టు",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "be born; arise",
+    "examples": [
+      {
+        "word": "పుడ్తాడు",
+        "meaning": "is born",
+        "sentence": "అతను ఈ గ్రామంలో పుట్టాడు."
+      },
+      {
+        "word": "పుట్టుక",
+        "meaning": "birth",
+        "sentence": "అతని పుట్టుక ఇక్కడే."
+      },
+      {
+        "word": "పుట్టుకొచ్చిన",
+        "meaning": "born here",
+        "sentence": "అతను పుట్టుకొచ్చిన వాడు."
+      }
+    ],
+    "relatedRootIds": ["te_suffix_vadu"],
+    "pronunciationIpa": "/puʈʈu/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "puttu"
+      }
+    ]
+  },
+  {
+    "id": "te_base_aadu",
+    "root": "ఆడు",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "play; dance",
+    "examples": [
+      {
+        "word": "ఆడుతాడు",
+        "meaning": "plays",
+        "sentence": "పిల్లవాడు గార్డెన్లో ఆడుతాడు."
+      },
+      {
+        "word": "ఆట",
+        "meaning": "game",
+        "sentence": "ఆట ఆనందంగా ఉంది."
+      },
+      {
+        "word": "ఆడేవాడు",
+        "meaning": "player",
+        "sentence": "అతను మంచి ఆడేవాడు."
+      }
+    ],
+    "relatedRootIds": ["te_suffix_vadu"],
+    "pronunciationIpa": "/aːɖu/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "aadu"
+      }
+    ]
   }
 ]

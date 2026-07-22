@@ -254,5 +254,165 @@
         "ipa": "qua"
       }
     ]
+  },
+  {
+    "id": "vi_prefix_ban",
+    "root": "bán",
+    "type": "prefix",
+    "languageOrigin": "Sino-Vietnamese",
+    "meaning": "half",
+    "examples": [
+      {
+        "word": "bán nguyệt",
+        "meaning": "semicircular; half-moon",
+        "sentence": "Mặt trăng bán nguyệt đẹp."
+      },
+      {
+        "word": "bán đảo",
+        "meaning": "peninsula",
+        "sentence": "Việt Nam nằm trên bán đảo Đông Dương."
+      },
+      {
+        "word": "bán thân",
+        "meaning": "half body",
+        "sentence": "Anh ấy bị thương bán thân."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ban/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ban"
+      }
+    ]
+  },
+  {
+    "id": "vi_prefix_kha",
+    "root": "khả",
+    "type": "prefix",
+    "languageOrigin": "Sino-Vietnamese",
+    "meaning": "able; possible; -able",
+    "examples": [
+      {
+        "word": "khả kính",
+        "meaning": "respectable",
+        "sentence": "Ông ấy là người khả kính."
+      },
+      {
+        "word": "khả quan",
+        "meaning": "satisfactory",
+        "sentence": "Kết quả khả quan."
+      },
+      {
+        "word": "khả thi",
+        "meaning": "feasible",
+        "sentence": "Kế hoạch này khả thi."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/xa/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "kha"
+      }
+    ]
+  },
+  {
+    "id": "vi_prefix_phan",
+    "root": "phản",
+    "type": "prefix",
+    "languageOrigin": "Sino-Vietnamese",
+    "meaning": "counter; anti; against",
+    "examples": [
+      {
+        "word": "phản cách mạng",
+        "meaning": "counter-revolutionary",
+        "sentence": "Kẻ phản cách mạng bị bắt."
+      },
+      {
+        "word": "phản chiến",
+        "meaning": "anti-war",
+        "sentence": "Phong trào phản chiến mạnh."
+      },
+      {
+        "word": "phản đối",
+        "meaning": "oppose",
+        "sentence": "Tôi phản đối quyết định này."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/fan/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "phan"
+      }
+    ]
+  },
+  {
+    "id": "vi_prefix_phi",
+    "root": "phi",
+    "type": "prefix",
+    "languageOrigin": "Sino-Vietnamese",
+    "meaning": "not; un-; non-",
+    "examples": [
+      {
+        "word": "phi nghĩa",
+        "meaning": "unethical",
+        "sentence": "Hành động phi nghĩa."
+      },
+      {
+        "word": "phi chính phủ",
+        "meaning": "non-governmental",
+        "sentence": "Tổ chức phi chính phủ."
+      },
+      {
+        "word": "phi lý",
+        "meaning": "irrational",
+        "sentence": "Lập luận phi lý."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/fi/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "phi"
+      }
+    ]
+  },
+  {
+    "id": "vi_prefix_sieu",
+    "root": "siêu",
+    "type": "prefix",
+    "languageOrigin": "Sino-Vietnamese",
+    "meaning": "super; above; ultra",
+    "examples": [
+      {
+        "word": "siêu thị",
+        "meaning": "supermarket",
+        "sentence": "Tôi đi siêu thị."
+      },
+      {
+        "word": "siêu đẳng",
+        "meaning": "outstanding",
+        "sentence": "Kỹ năng siêu đẳng."
+      },
+      {
+        "word": "siêu âm",
+        "meaning": "ultrasound",
+        "sentence": "Bác sĩ làm siêu âm."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/siə/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "sieu"
+      }
+    ]
   }
 ]

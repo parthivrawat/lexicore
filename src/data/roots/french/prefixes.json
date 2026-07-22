@@ -1290,5 +1290,209 @@
       }
     ],
     "relatedRootIds": []
+  },
+  {
+    "id": "root_ex_fr",
+    "root": "ex-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "hors de, ancien (out of, former)",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "ɛks"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "ɛks"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "ɛks"
+      }
+    ],
+    "examples": [
+      {
+        "word": "exporter",
+        "meaning": "to export",
+        "sentence": "L'entreprise exporte des produits."
+      },
+      {
+        "word": "ex-président",
+        "meaning": "ex-president",
+        "sentence": "L'ex-président est parti."
+      }
+    ],
+    "relatedRootIds": ["root_extra_fr"]
+  },
+  {
+    "id": "root_non_fr",
+    "root": "non-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "pas, négation (not, negation)",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "nɔ̃"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "nɔ̃"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "nɔ̃"
+      }
+    ],
+    "examples": [
+      {
+        "word": "non-fumeur",
+        "meaning": "non-smoker",
+        "sentence": "C'est un restaurant non-fumeur."
+      },
+      {
+        "word": "non-violent",
+        "meaning": "non-violent",
+        "sentence": "Il est non-violent."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_ante_fr",
+    "root": "ante-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "avant (before)",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "ɑ̃t"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "ɑ̃t"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "ɑ̃t"
+      }
+    ],
+    "examples": [
+      {
+        "word": "antérieur",
+        "meaning": "anterior, previous",
+        "sentence": "La porte antérieure est ouverte."
+      },
+      {
+        "word": "antériorité",
+        "meaning": "priority in time",
+        "sentence": "L'antériorité de ce fait est prouvée."
+      }
+    ],
+    "relatedRootIds": ["root_pre_fr"]
+  },
+  {
+    "id": "root_bi_fr",
+    "root": "bi-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "deux (two)",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "bi"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "bi"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "bi"
+      }
+    ],
+    "examples": [
+      {
+        "word": "bicyclette",
+        "meaning": "bicycle",
+        "sentence": "Il roule en bicyclette."
+      },
+      {
+        "word": "bilingue",
+        "meaning": "bilingual",
+        "sentence": "Elle est bilingue."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_semi_fr",
+    "root": "semi-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "demi (half)",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "sɛmi"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "sɛmi"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "sɛmi"
+      }
+    ],
+    "examples": [
+      {
+        "word": "semi-remorque",
+        "meaning": "semi-trailer",
+        "sentence": "Le camion est un semi-remorque."
+      },
+      {
+        "word": "semi-circulaire",
+        "meaning": "semicircular",
+        "sentence": "La forme est semi-circulaire."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_para_fr",
+    "root": "para-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "protection, contre (protection, against)",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "paʁa"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "paʁa"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "paʁa"
+      }
+    ],
+    "examples": [
+      {
+        "word": "parapluie",
+        "meaning": "umbrella",
+        "sentence": "J'ouvre mon parapluie."
+      },
+      {
+        "word": "parachute",
+        "meaning": "parachute",
+        "sentence": "Le parachute s'ouvre."
+      }
+    ],
+    "relatedRootIds": []
   }
 ]

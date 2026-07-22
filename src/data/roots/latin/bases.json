@@ -2000,5 +2000,160 @@
       }
     ],
     "relatedRootIds": ["root_la_duc"]
+  },
+  {
+    "id": "root_la_gen",
+    "root": "gen-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "birth, kind",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "gen"
+      }
+    ],
+    "examples": [
+      {
+        "word": "genus",
+        "meaning": "birth, race",
+        "sentence": "Genus hūmānum est."
+      },
+      {
+        "word": "generāre",
+        "meaning": "to beget",
+        "sentence": "Arborēs fructūs generant."
+      },
+      {
+        "word": "generōsus",
+        "meaning": "noble",
+        "sentence": "Vir generōsus est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_doc",
+    "root": "doc-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "teach",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "dok"
+      }
+    ],
+    "examples": [
+      {
+        "word": "docēre",
+        "meaning": "to teach",
+        "sentence": "Magister discipulōs docet."
+      },
+      {
+        "word": "doctor",
+        "meaning": "teacher",
+        "sentence": "Doctor sapientia est."
+      },
+      {
+        "word": "doctrīna",
+        "meaning": "teaching",
+        "sentence": "Doctrīna clāra est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_pac",
+    "root": "pac-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "peace",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "pak"
+      }
+    ],
+    "examples": [
+      {
+        "word": "pax",
+        "meaning": "peace",
+        "sentence": "Pax Rōmāna fuit."
+      },
+      {
+        "word": "pacāre",
+        "meaning": "to pacify",
+        "sentence": "Hostēs pacant."
+      },
+      {
+        "word": "pacificus",
+        "meaning": "peaceful",
+        "sentence": "Rēx pacificus est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_vac",
+    "root": "vac-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "empty",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "wak"
+      }
+    ],
+    "examples": [
+      {
+        "word": "vacuus",
+        "meaning": "empty",
+        "sentence": "Domus vacua est."
+      },
+      {
+        "word": "vacāre",
+        "meaning": "to be empty",
+        "sentence": "Locus vacat."
+      },
+      {
+        "word": "ēvacuāre",
+        "meaning": "to empty out",
+        "sentence": "Aquam ēvacuant."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_jur",
+    "root": "jur-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "law, oath, right",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "juɾ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "jūs",
+        "meaning": "law, right",
+        "sentence": "Jūs et aequum sequimur."
+      },
+      {
+        "word": "jūdex",
+        "meaning": "judge",
+        "sentence": "Jūdex vērum dīcere dēbet."
+      },
+      {
+        "word": "jūrāre",
+        "meaning": "to swear",
+        "sentence": "Mīlēs per deōs jūrat."
+      }
+    ],
+    "relatedRootIds": []
   }
 ]

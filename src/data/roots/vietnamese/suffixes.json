@@ -254,5 +254,165 @@
         "ipa": "vao"
       }
     ]
+  },
+  {
+    "id": "vi_suffix_gia",
+    "root": "gia",
+    "type": "suffix",
+    "languageOrigin": "Sino-Vietnamese",
+    "meaning": "professional; specialist",
+    "examples": [
+      {
+        "word": "chính trị gia",
+        "meaning": "politician",
+        "sentence": "Ông ấy là chính trị gia."
+      },
+      {
+        "word": "khoa học gia",
+        "meaning": "scientist",
+        "sentence": "Khoa học gia nổi tiếng."
+      },
+      {
+        "word": "âm nhạc gia",
+        "meaning": "musician",
+        "sentence": "Âm nhạc gia tài năng."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ʒa/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "gia"
+      }
+    ]
+  },
+  {
+    "id": "vi_suffix_hoa",
+    "root": "hóa",
+    "type": "suffix",
+    "languageOrigin": "Sino-Vietnamese",
+    "meaning": "-ize; -ify; make into",
+    "examples": [
+      {
+        "word": "axit hóa",
+        "meaning": "acidify",
+        "sentence": "Quá trình axit hóa xảy ra."
+      },
+      {
+        "word": "Mỹ hóa",
+        "meaning": "americanize",
+        "sentence": "Văn hóa Mỹ hóa đang lan rộng."
+      },
+      {
+        "word": "hiện đại hóa",
+        "meaning": "modernize",
+        "sentence": "Đất nước cần hiện đại hóa."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/hwa/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "hoa"
+      }
+    ]
+  },
+  {
+    "id": "vi_suffix_hoc",
+    "root": "học",
+    "type": "suffix",
+    "languageOrigin": "Sino-Vietnamese",
+    "meaning": "study of; -ology",
+    "examples": [
+      {
+        "word": "ngôn ngữ học",
+        "meaning": "linguistics",
+        "sentence": "Tôi học ngôn ngữ học."
+      },
+      {
+        "word": "động vật học",
+        "meaning": "zoology",
+        "sentence": "Động vật học thú vị."
+      },
+      {
+        "word": "thiên văn học",
+        "meaning": "astronomy",
+        "sentence": "Thiên văn học rất rộng lớn."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/hɔk/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "hoc"
+      }
+    ]
+  },
+  {
+    "id": "vi_suffix_si",
+    "root": "sĩ",
+    "type": "suffix",
+    "languageOrigin": "Sino-Vietnamese",
+    "meaning": "expert; scholar; -ist",
+    "examples": [
+      {
+        "word": "họa sĩ",
+        "meaning": "artist",
+        "sentence": "Họa sĩ vẽ tranh đẹp."
+      },
+      {
+        "word": "văn sĩ",
+        "meaning": "writer",
+        "sentence": "Văn sĩ nổi tiếng."
+      },
+      {
+        "word": "y sĩ",
+        "meaning": "physician",
+        "sentence": "Y sĩ khám bệnh."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/si/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "si"
+      }
+    ]
+  },
+  {
+    "id": "vi_suffix_su",
+    "root": "sư",
+    "type": "suffix",
+    "languageOrigin": "Sino-Vietnamese",
+    "meaning": "master; teacher",
+    "examples": [
+      {
+        "word": "giáo sư",
+        "meaning": "professor",
+        "sentence": "Giáo sư giảng bài."
+      },
+      {
+        "word": "luật sư",
+        "meaning": "lawyer",
+        "sentence": "Luật sư bào chữa."
+      },
+      {
+        "word": "kiến trúc sư",
+        "meaning": "architect",
+        "sentence": "Kiến trúc sư thiết kế nhà."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/su/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "su"
+      }
+    ]
   }
 ]

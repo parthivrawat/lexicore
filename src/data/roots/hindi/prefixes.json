@@ -478,5 +478,165 @@
         "ipa": "nir"
       }
     ]
+  },
+  {
+    "id": "hi_prefix_pari",
+    "root": "परि",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "around; about",
+    "examples": [
+      {
+        "word": "परिचय",
+        "meaning": "introduction",
+        "sentence": "मित्र से परिचय हुआ।"
+      },
+      {
+        "word": "परिधान",
+        "meaning": "clothing",
+        "sentence": "परिधान साफ़ रखें।"
+      },
+      {
+        "word": "परिवार",
+        "meaning": "family",
+        "sentence": "मेरा परिवार बड़ा है।"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/pəri/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "pari"
+      }
+    ]
+  },
+  {
+    "id": "hi_prefix_para",
+    "root": "परा",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "beyond; opposite; defeated",
+    "examples": [
+      {
+        "word": "पराधीन",
+        "meaning": "dependent",
+        "sentence": "पराधीनता से मुक्ति चाहिए।"
+      },
+      {
+        "word": "पराभव",
+        "meaning": "defeat",
+        "sentence": "पराभव से सीख मिलती है।"
+      },
+      {
+        "word": "परावर्तन",
+        "meaning": "reflection",
+        "sentence": "दर्पण में परावर्तन होता है।"
+      }
+    ],
+    "relatedRootIds": ["hi_prefix_pra"],
+    "pronunciationIpa": "/pəraː/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "para"
+      }
+    ]
+  },
+  {
+    "id": "hi_prefix_bahu",
+    "root": "बहु",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "many; much",
+    "examples": [
+      {
+        "word": "बहुसंख्यक",
+        "meaning": "majority",
+        "sentence": "बहुसंख्यक लोग सहमत हैं।"
+      },
+      {
+        "word": "बहुमुखी",
+        "meaning": "versatile",
+        "sentence": "वह बहुमुखी प्रतिभा है।"
+      },
+      {
+        "word": "बहुभाषी",
+        "meaning": "multilingual",
+        "sentence": "वह बहुभाषी है।"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/bəhu/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "bahu"
+      }
+    ]
+  },
+  {
+    "id": "hi_prefix_antar",
+    "root": "अंतर्",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "between; within; inner",
+    "examples": [
+      {
+        "word": "अंतरराष्ट्रीय",
+        "meaning": "international",
+        "sentence": "यह अंतरराष्ट्रीय मुद्दा है।"
+      },
+      {
+        "word": "अंतरिक्ष",
+        "meaning": "space",
+        "sentence": "अंतरिक्ष में तारे चमकते हैं।"
+      },
+      {
+        "word": "अंतरात्मा",
+        "meaning": "inner soul",
+        "sentence": "अंतरात्मा की आवाज़ सुनो।"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/əntər/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "antar"
+      }
+    ]
+  },
+  {
+    "id": "hi_prefix_adhi",
+    "root": "अधि",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "over; above; authority",
+    "examples": [
+      {
+        "word": "अधिकार",
+        "meaning": "authority; right",
+        "sentence": "अधिकार का सही उपयोग करो।"
+      },
+      {
+        "word": "अधिनियम",
+        "meaning": "act; law",
+        "sentence": "नया अधिनियम पारित हुआ।"
+      },
+      {
+        "word": "अधिक",
+        "meaning": "more",
+        "sentence": "अधिक मेहनत करनी होगी।"
+      }
+    ],
+    "relatedRootIds": ["hi_prefix_a"],
+    "pronunciationIpa": "/ədʰi/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "adhi"
+      }
+    ]
   }
 ]

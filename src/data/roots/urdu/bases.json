@@ -670,5 +670,165 @@
         "ipa": "kaam"
       }
     ]
+  },
+  {
+    "id": "ur_base_mar",
+    "root": "مار",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "hit; kill; die",
+    "examples": [
+      {
+        "word": "مارا",
+        "meaning": "hit; killed",
+        "sentence": "اس نے سانپ مارا۔"
+      },
+      {
+        "word": "مارنا",
+        "meaning": "to hit; to kill",
+        "sentence": "مجھے مارنا مت۔"
+      },
+      {
+        "word": "مارنےوالا",
+        "meaning": "killer; hitter",
+        "sentence": "وہ مارنےوالا ہے۔"
+      }
+    ],
+    "relatedRootIds": ["ur_suffix_wala", "ur_suffix_a"],
+    "pronunciationIpa": "/maːɾ/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "mar"
+      }
+    ]
+  },
+  {
+    "id": "ur_base_son",
+    "root": "سون",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "sleep",
+    "examples": [
+      {
+        "word": "سوتا",
+        "meaning": "sleeps",
+        "sentence": "وہ رات کو سوتا ہے۔"
+      },
+      {
+        "word": "سونا",
+        "meaning": "to sleep",
+        "sentence": "مجھے جلدی سونا ہے۔"
+      },
+      {
+        "word": "نیند",
+        "meaning": "sleep",
+        "sentence": "نیند ضروری ہے۔"
+      }
+    ],
+    "relatedRootIds": ["ur_suffix_a"],
+    "pronunciationIpa": "/soːn/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "son"
+      }
+    ]
+  },
+  {
+    "id": "ur_base_daur",
+    "root": "دوڑ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "run",
+    "examples": [
+      {
+        "word": "دوڑا",
+        "meaning": "ran",
+        "sentence": "وہ تیز دوڑا۔"
+      },
+      {
+        "word": "دوڑنا",
+        "meaning": "to run",
+        "sentence": "وہ ہر صبح دوڑتا ہے۔"
+      },
+      {
+        "word": "دوڑنےوالا",
+        "meaning": "runner",
+        "sentence": "وہ اچھا دوڑنےوالا ہے۔"
+      }
+    ],
+    "relatedRootIds": ["ur_suffix_wala", "ur_suffix_a"],
+    "pronunciationIpa": "/d̪oːɽ/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "daur"
+      }
+    ]
+  },
+  {
+    "id": "ur_base_khel",
+    "root": "کھیل",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "play",
+    "examples": [
+      {
+        "word": "کھیلا",
+        "meaning": "played",
+        "sentence": "بچوں نے کھیلا۔"
+      },
+      {
+        "word": "کھیلنا",
+        "meaning": "to play",
+        "sentence": "وہ باہر کھیلتا ہے۔"
+      },
+      {
+        "word": "کھیلنےوالا",
+        "meaning": "player",
+        "sentence": "وہ اچھا کھیلنےوالا ہے۔"
+      }
+    ],
+    "relatedRootIds": ["ur_suffix_wala", "ur_suffix_a"],
+    "pronunciationIpa": "/kʰeːl/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "khel"
+      }
+    ]
+  },
+  {
+    "id": "ur_base_nach",
+    "root": "ناچ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "dance",
+    "examples": [
+      {
+        "word": "ناچا",
+        "meaning": "danced",
+        "sentence": "اس نے خوب ناچا۔"
+      },
+      {
+        "word": "ناچنا",
+        "meaning": "to dance",
+        "sentence": "وہ موسیقی پر ناچتا ہے۔"
+      },
+      {
+        "word": "ناچنےوالا",
+        "meaning": "dancer",
+        "sentence": "وہ اچھا ناچنےوالا ہے۔"
+      }
+    ],
+    "relatedRootIds": ["ur_suffix_wala", "ur_suffix_a"],
+    "pronunciationIpa": "/naːtʃ/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "nach"
+      }
+    ]
   }
 ]

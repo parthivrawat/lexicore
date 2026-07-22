@@ -638,5 +638,165 @@
         "ipa": "bah"
       }
     ]
+  },
+  {
+    "id": "bn_base_bola",
+    "root": "বল",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "say; speak",
+    "examples": [
+      {
+        "word": "বলা",
+        "meaning": "to say",
+        "sentence": "আমি সত্য বলি।"
+      },
+      {
+        "word": "বক্তব্য",
+        "meaning": "speech; statement",
+        "sentence": "বক্তব্য সংক্ষিপ্ত ছিল।"
+      },
+      {
+        "word": "বাক্য",
+        "meaning": "sentence",
+        "sentence": "বাক্যটি সুন্দর।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_kari"],
+    "pronunciationIpa": "/bɔl/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "bol"
+      }
+    ]
+  },
+  {
+    "id": "bn_base_khala",
+    "root": "খেল",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "play",
+    "examples": [
+      {
+        "word": "খেলা",
+        "meaning": "to play; play",
+        "sentence": "বাচ্চারা মাঠে খেলা করে।"
+      },
+      {
+        "word": "খেলোয়াড়",
+        "meaning": "player",
+        "sentence": "খেলোয়াড় দ্রুত দৌড়াল।"
+      },
+      {
+        "word": "খেলনা",
+        "meaning": "toy",
+        "sentence": "খেলনা দিয়ে খেলছে।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_ko"],
+    "pronunciationIpa": "/kʰel/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "khel"
+      }
+    ]
+  },
+  {
+    "id": "bn_base_sova",
+    "root": "শুয়া",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "sleep; lie down",
+    "examples": [
+      {
+        "word": "শোয়া",
+        "meaning": "to sleep; to lie",
+        "sentence": "আমি বিছানায় শুয়ে আছি।"
+      },
+      {
+        "word": "শয়ন",
+        "meaning": "sleeping",
+        "sentence": "শয়ন কক্ষে ঘুমাও।"
+      },
+      {
+        "word": "শুয়োর",
+        "meaning": "pig (one that lies down)",
+        "sentence": "শুয়োর গৃহপালিত পশু।"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ʃu̯a/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "shua"
+      }
+    ]
+  },
+  {
+    "id": "bn_base_dour",
+    "root": "দৌড়",
+    "type": "base",
+    "languageOrigin": "Bengali",
+    "meaning": "run",
+    "examples": [
+      {
+        "word": "দৌড়ানো",
+        "meaning": "to run",
+        "sentence": "ছেলেটি দৌড়াচ্ছে।"
+      },
+      {
+        "word": "দৌড়",
+        "meaning": "run; race",
+        "sentence": "দৌড়ে প্রথম হলো।"
+      },
+      {
+        "word": "দৌড়বিদ",
+        "meaning": "runner",
+        "sentence": "দৌড়বিদ দ্রুত।"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/d̪ɔuɽ/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dour"
+      }
+    ]
+  },
+  {
+    "id": "bn_base_nac",
+    "root": "নাচ",
+    "type": "base",
+    "languageOrigin": "Sanskrit",
+    "meaning": "dance",
+    "examples": [
+      {
+        "word": "নাচা",
+        "meaning": "to dance",
+        "sentence": "মেয়েটি সুন্দর নাচছে।"
+      },
+      {
+        "word": "নৃত্য",
+        "meaning": "dance (art)",
+        "sentence": "নৃত্য দেখতে গেলাম।"
+      },
+      {
+        "word": "নৃত্যশিল্পী",
+        "meaning": "dancer",
+        "sentence": "নৃত্যশিল্পী মঞ্চে উঠল।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_kari"],
+    "pronunciationIpa": "/natʃ/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "nach"
+      }
+    ]
   }
 ]

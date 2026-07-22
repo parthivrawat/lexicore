@@ -222,5 +222,165 @@
         "ipa": "lah"
       }
     ]
+  },
+  {
+    "id": "id_suffix_pun",
+    "root": "-pun",
+    "type": "suffix",
+    "languageOrigin": "Indonesian",
+    "meaning": "even; also; any",
+    "examples": [
+      {
+        "word": "siapapun",
+        "meaning": "anyone",
+        "sentence": "Siapapun boleh masuk."
+      },
+      {
+        "word": "meskipun",
+        "meaning": "although",
+        "sentence": "Meskipun hujan, saya pergi."
+      },
+      {
+        "word": "kapanpun",
+        "meaning": "whenever",
+        "sentence": "Kapanpun kamu siap, kita berangkat."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/pun/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "pun"
+      }
+    ]
+  },
+  {
+    "id": "id_suffix_kah",
+    "root": "-kah",
+    "type": "suffix",
+    "languageOrigin": "Indonesian",
+    "meaning": "question particle",
+    "examples": [
+      {
+        "word": "apakah",
+        "meaning": "whether; is it",
+        "sentence": "Apakah dia sudah datang?"
+      },
+      {
+        "word": "siapakah",
+        "meaning": "who (question)",
+        "sentence": "Siapakah orang itu?"
+      },
+      {
+        "word": "mengapakah",
+        "meaning": "why (formal)",
+        "sentence": "Mengapakah kamu pergi?"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/kah/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "kah"
+      }
+    ]
+  },
+  {
+    "id": "id_suffix_wan",
+    "root": "-wan",
+    "type": "suffix",
+    "languageOrigin": "Indonesian",
+    "meaning": "person; specialist",
+    "examples": [
+      {
+        "word": "ilmuwan",
+        "meaning": "scientist",
+        "sentence": "Ilmuwan itu menemukan vaksin."
+      },
+      {
+        "word": "seniman",
+        "meaning": "artist",
+        "sentence": "Seniman itu terkenal."
+      },
+      {
+        "word": "warga negara",
+        "meaning": "citizen",
+        "sentence": "Warga negara memiliki hak."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/wan/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "wan"
+      }
+    ]
+  },
+  {
+    "id": "id_suffix_wati",
+    "root": "-wati",
+    "type": "suffix",
+    "languageOrigin": "Indonesian",
+    "meaning": "female person; specialist",
+    "examples": [
+      {
+        "word": "seniwati",
+        "meaning": "female artist",
+        "sentence": "Seniwati itu berbakat."
+      },
+      {
+        "word": "ilmuwati",
+        "meaning": "female scientist",
+        "sentence": "Ilmuwati itu meneliti hutan."
+      },
+      {
+        "word": "pahlawanwati",
+        "meaning": "heroine",
+        "sentence": "Pahlawanwati itu dihormati."
+      }
+    ],
+    "relatedRootIds": ["id_suffix_wan"],
+    "pronunciationIpa": "/wa.ti/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "wati"
+      }
+    ]
+  },
+  {
+    "id": "id_suffix_saja",
+    "root": "-saja",
+    "type": "suffix",
+    "languageOrigin": "Indonesian",
+    "meaning": "only; just",
+    "examples": [
+      {
+        "word": "saya saja",
+        "meaning": "just me",
+        "sentence": "Yang datang saya saja."
+      },
+      {
+        "word": "ini saja",
+        "meaning": "only this",
+        "sentence": "Beli ini saja."
+      },
+      {
+        "word": "satu saja",
+        "meaning": "only one",
+        "sentence": "Satu saja cukup."
+      }
+    ],
+    "relatedRootIds": ["id_suffix_pun"],
+    "pronunciationIpa": "/sa.dʒa/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "saja"
+      }
+    ]
   }
 ]

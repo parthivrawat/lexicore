@@ -254,5 +254,165 @@
         "ipa": "vi"
       }
     ]
+  },
+  {
+    "id": "ta_prefix_prati",
+    "root": "ப்ரதி",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "against; toward; each",
+    "examples": [
+      {
+        "word": "ப்ரதிகூலம்",
+        "meaning": "adverse",
+        "sentence": "அவன் ப்ரதிகூலமான சூழலில் இருந்தான்."
+      },
+      {
+        "word": "ப்ரதிபா",
+        "meaning": "reflection",
+        "sentence": "அவள் ப்ரதிபை கண்டாள்."
+      },
+      {
+        "word": "ப்ரதிநிதி",
+        "meaning": "representative",
+        "sentence": "அவர் ஒரு ப்ரதிநிதி."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/pɾati/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "prati"
+      }
+    ]
+  },
+  {
+    "id": "ta_prefix_sama",
+    "root": "சம",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "same; equal",
+    "examples": [
+      {
+        "word": "சமானம்",
+        "meaning": "equal",
+        "sentence": "இரண்டும் சமானம்."
+      },
+      {
+        "word": "சம்பந்தம்",
+        "meaning": "relation",
+        "sentence": "அவர்களுக்கு சம்பந்தம் உள்ளது."
+      },
+      {
+        "word": "சமுத்திரம்",
+        "meaning": "ocean",
+        "sentence": "சமுத்திரம் பெரியது."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/sɐmɐ/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "sama"
+      }
+    ]
+  },
+  {
+    "id": "ta_prefix_apa",
+    "root": "அப",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "away; off",
+    "examples": [
+      {
+        "word": "அபஹரணம்",
+        "meaning": "abduction",
+        "sentence": "அபஹரணம் தண்டனைக்குரியது."
+      },
+      {
+        "word": "அபகாரம்",
+        "meaning": "harm",
+        "sentence": "அபகாரம் செய்யாதே."
+      },
+      {
+        "word": "அபராதம்",
+        "meaning": "offense",
+        "sentence": "அவன் அபராதம் செய்தான்."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ɐpɐ/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "apa"
+      }
+    ]
+  },
+  {
+    "id": "ta_prefix_upa",
+    "root": "உப",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "near; subordinate; secondary",
+    "examples": [
+      {
+        "word": "உபதேசம்",
+        "meaning": "advice; instruction",
+        "sentence": "உபதேசம் பயனுள்ளது."
+      },
+      {
+        "word": "உபகாரம்",
+        "meaning": "help",
+        "sentence": "உபகாரம் செய்."
+      },
+      {
+        "word": "உபநியாசம்",
+        "meaning": "lecture",
+        "sentence": "உபநியாசம் நடந்தது."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/upɐ/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "upa"
+      }
+    ]
+  },
+  {
+    "id": "ta_prefix_ava",
+    "root": "அவ",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "off; down; away",
+    "examples": [
+      {
+        "word": "அவகாசம்",
+        "meaning": "space; time",
+        "sentence": "அவகாசம் கொடு."
+      },
+      {
+        "word": "அவமானம்",
+        "meaning": "humiliation",
+        "sentence": "அவமானம் தவிர்."
+      },
+      {
+        "word": "அவதானம்",
+        "meaning": "attention",
+        "sentence": "அவதானமாக கேள்."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ɐʋɐ/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "ava"
+      }
+    ]
   }
 ]

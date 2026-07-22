@@ -318,5 +318,165 @@
         "ipa": "ra"
       }
     ]
+  },
+  {
+    "id": "bn_suffix_ti",
+    "root": "টি",
+    "type": "suffix",
+    "languageOrigin": "Bengali",
+    "meaning": "definite/classifier for inanimates",
+    "examples": [
+      {
+        "word": "বইটি",
+        "meaning": "the book",
+        "sentence": "বইটি টেবিলে আছে।"
+      },
+      {
+        "word": "গাছটি",
+        "meaning": "the tree",
+        "sentence": "গাছটি সবুজ।"
+      },
+      {
+        "word": "ঘরটি",
+        "meaning": "the room",
+        "sentence": "ঘরটি পরিষ্কার।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_gulo"],
+    "pronunciationIpa": "/ʈi/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ti"
+      }
+    ]
+  },
+  {
+    "id": "bn_suffix_guli",
+    "root": "গুলি",
+    "type": "suffix",
+    "languageOrigin": "Bengali",
+    "meaning": "inanimate plural (definite, alternative)",
+    "examples": [
+      {
+        "word": "বইগুলি",
+        "meaning": "the books",
+        "sentence": "বইগুলি টেবিলে আছে।"
+      },
+      {
+        "word": "গাছগুলি",
+        "meaning": "the trees",
+        "sentence": "গাছগুলি সবুজ।"
+      },
+      {
+        "word": "ঘরগুলি",
+        "meaning": "the rooms",
+        "sentence": "ঘরগুলি বড়।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_gulo", "bn_suffix_ti"],
+    "pronunciationIpa": "/guli/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "guli"
+      }
+    ]
+  },
+  {
+    "id": "bn_suffix_der",
+    "root": "দের",
+    "type": "suffix",
+    "languageOrigin": "Bengali",
+    "meaning": "plural animate genitive/dative",
+    "examples": [
+      {
+        "word": "ছেলেদের",
+        "meaning": "of the boys / to the boys",
+        "sentence": "ছেলেদের খেলার সময় হয়েছে।"
+      },
+      {
+        "word": "মেয়েদের",
+        "meaning": "of the girls / to the girls",
+        "sentence": "মেয়েদের গান গাইতে দেখলাম।"
+      },
+      {
+        "word": "লোকদের",
+        "meaning": "of the people / to the people",
+        "sentence": "লোকদের সাহায্য করলাম।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_ra"],
+    "pronunciationIpa": "/der/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "der"
+      }
+    ]
+  },
+  {
+    "id": "bn_suffix_i",
+    "root": "ই",
+    "type": "suffix",
+    "languageOrigin": "Bengali",
+    "meaning": "emphatic or focus particle",
+    "examples": [
+      {
+        "word": "তুমিই",
+        "meaning": "you only",
+        "sentence": "তুমিই পারবে।"
+      },
+      {
+        "word": "আমিই",
+        "meaning": "I myself",
+        "sentence": "আমিই করেছি।"
+      },
+      {
+        "word": "এটিই",
+        "meaning": "this very one",
+        "sentence": "এটিই চাই।"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/i/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "i"
+      }
+    ]
+  },
+  {
+    "id": "bn_suffix_o",
+    "root": "ও",
+    "type": "suffix",
+    "languageOrigin": "Bengali",
+    "meaning": "also; too",
+    "examples": [
+      {
+        "word": "আমিও",
+        "meaning": "me too",
+        "sentence": "আমিও যাব।"
+      },
+      {
+        "word": "তুমিও",
+        "meaning": "you too",
+        "sentence": "তুমিও পারবে।"
+      },
+      {
+        "word": "বইও",
+        "meaning": "the book too",
+        "sentence": "বইও কিনব।"
+      }
+    ],
+    "relatedRootIds": ["bn_suffix_i"],
+    "pronunciationIpa": "/o/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "o"
+      }
+    ]
   }
 ]

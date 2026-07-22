@@ -222,5 +222,165 @@
         "ipa": "ki"
       }
     ]
+  },
+  {
+    "id": "te_suffix_chaeta",
+    "root": "చేత",
+    "type": "suffix",
+    "languageOrigin": "Dravidian",
+    "meaning": "by; through; instrumental",
+    "examples": [
+      {
+        "word": "అతనిచేత",
+        "meaning": "by him",
+        "sentence": "ఇది అతనిచేత చేయబడింది."
+      },
+      {
+        "word": "చేతిచేత",
+        "meaning": "by hand",
+        "sentence": "అతను చేతిచేత రాశాడు."
+      },
+      {
+        "word": "కారణంచేత",
+        "meaning": "because of reason",
+        "sentence": "కారణంచేత అతను ఆలస్యమయ్యాడు."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/tɕeːtɐ/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "chaeta"
+      }
+    ]
+  },
+  {
+    "id": "te_suffix_kante",
+    "root": "కంటే",
+    "type": "suffix",
+    "languageOrigin": "Dravidian",
+    "meaning": "than; comparative",
+    "examples": [
+      {
+        "word": "అతనికంటే",
+        "meaning": "than him",
+        "sentence": "నేను అతనికంటే పొడవు."
+      },
+      {
+        "word": "ఇంటికంటే",
+        "meaning": "than home",
+        "sentence": "పాఠశాల ఇంటికంటే బాగుంది."
+      },
+      {
+        "word": "మంచిదికంటే",
+        "meaning": "than the good one",
+        "sentence": "అది మంచిదికంటే ఎక్కువ."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/kɐnʈe/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "kante"
+      }
+    ]
+  },
+  {
+    "id": "te_suffix_lopala",
+    "root": "లోపల",
+    "type": "suffix",
+    "languageOrigin": "Dravidian",
+    "meaning": "inside",
+    "examples": [
+      {
+        "word": "ఇంట్లోపల",
+        "meaning": "inside the house",
+        "sentence": "ఇంట్లోపల ఉండు."
+      },
+      {
+        "word": "పాఠశాలలోపల",
+        "meaning": "inside the school",
+        "sentence": "పాఠశాలలోపల చదువు."
+      },
+      {
+        "word": "పెట్టెలోపల",
+        "meaning": "inside the box",
+        "sentence": "బొమ్మ పెట్టెలోపల ఉంది."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/loːpɐlɐ/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "lopala"
+      }
+    ]
+  },
+  {
+    "id": "te_suffix_vaipu",
+    "root": "వైపు",
+    "type": "suffix",
+    "languageOrigin": "Dravidian",
+    "meaning": "toward; side; direction",
+    "examples": [
+      {
+        "word": "అతనివైపు",
+        "meaning": "toward him",
+        "sentence": "అందరూ అతనివైపు చూశారు."
+      },
+      {
+        "word": "ఇంటివైపు",
+        "meaning": "toward the house",
+        "sentence": "అతను ఇంటివైపు నడిచాడు."
+      },
+      {
+        "word": "తూర్పువైపు",
+        "meaning": "toward the east",
+        "sentence": "సూర్యుడు తూర్పువైపు ఉదయిస్తాడు."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ʋaipu/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "vaipu"
+      }
+    ]
+  },
+  {
+    "id": "te_suffix_leni",
+    "root": "లేని",
+    "type": "suffix",
+    "languageOrigin": "Dravidian",
+    "meaning": "without; -less",
+    "examples": [
+      {
+        "word": "సంతోషంలేని",
+        "meaning": "without happiness",
+        "sentence": "సంతోషంలేని జీవితం."
+      },
+      {
+        "word": "డబ్బులేని",
+        "meaning": "without money",
+        "sentence": "అతను డబ్బులేనివాడు."
+      },
+      {
+        "word": "అറివిలేని",
+        "meaning": "without knowledge",
+        "sentence": "అறివిలేని చర్య."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/leːni/",
+    "pronunciationVariants": [
+      {
+        "accent": "telugu",
+        "ipa": "leni"
+      }
+    ]
   }
 ]

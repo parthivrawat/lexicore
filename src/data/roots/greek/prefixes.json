@@ -700,5 +700,135 @@
       }
     ],
     "relatedRootIds": []
+  },
+  {
+    "id": "root_el_proto",
+    "root": "proto-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "first, original",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "pro.to"
+      }
+    ],
+    "examples": [
+      {
+        "word": "πρωτόγονος",
+        "meaning": "primitive",
+        "sentence": "Η πρωτόγονη κοινωνία ήταν απλή."
+      },
+      {
+        "word": "πρωτότυπο",
+        "meaning": "prototype",
+        "sentence": "Αυτό είναι το πρωτότυπο."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_cata",
+    "root": "cata-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "down, against",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ka.ta"
+      }
+    ],
+    "examples": [
+      {
+        "word": "κατακόρυφος",
+        "meaning": "vertical",
+        "sentence": "Η πτώση είναι κατακόρυφη."
+      },
+      {
+        "word": "καταστροφή",
+        "meaning": "destruction",
+        "sentence": "Η καταστροφή ήταν μεγάλη."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_apo",
+    "root": "apo-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "away from, off",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "a.po"
+      }
+    ],
+    "examples": [
+      {
+        "word": "αποχώρηση",
+        "meaning": "departure",
+        "sentence": "Η αποχώρηση του ήταν ήσυχη."
+      },
+      {
+        "word": "απόσταση",
+        "meaning": "distance",
+        "sentence": "Η απόσταση είναι μικρή."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_endo",
+    "root": "endo-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "within, inside",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "en.ðo"
+      }
+    ],
+    "examples": [
+      {
+        "word": "ενδοσκόπιο",
+        "meaning": "endoscope",
+        "sentence": "Το ενδοσκόπιο ελέγχει το εσωτερικό."
+      },
+      {
+        "word": "ενδογάμιος",
+        "meaning": "endogamous",
+        "sentence": "Ο ενδογάμιος γάμος είναι εσωτερικός."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_el_amphi",
+    "root": "amphi-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "both, around",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "am.fi"
+      }
+    ],
+    "examples": [
+      {
+        "word": "αμφιβολία",
+        "meaning": "doubt",
+        "sentence": "Έχω αμφιβολία."
+      },
+      {
+        "word": "αμφίβιο",
+        "meaning": "amphibian",
+        "sentence": "Το αμφίβιο ζει σε νερό και στεριά."
+      }
+    ],
+    "relatedRootIds": []
   }
 ]

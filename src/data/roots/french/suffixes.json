@@ -1392,5 +1392,175 @@
       }
     ],
     "relatedRootIds": []
+  },
+  {
+    "id": "root_aire_fr",
+    "root": "-aire",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "relatif à, celui qui (relating to, one who)",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "ɛʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "ɛʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "ɛʁ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "militaire",
+        "meaning": "military",
+        "sentence": "Il est militaire."
+      },
+      {
+        "word": "bibliothécaire",
+        "meaning": "librarian",
+        "sentence": "La bibliothécaire aide les lecteurs."
+      }
+    ],
+    "relatedRootIds": ["root_al_fr"]
+  },
+  {
+    "id": "root_ition_fr",
+    "root": "-ition",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "action, état (action, state)",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "isjɔ̃"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "isjɔ̃"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "isjɔ̃"
+      }
+    ],
+    "examples": [
+      {
+        "word": "addition",
+        "meaning": "addition",
+        "sentence": "L'addition est correcte."
+      },
+      {
+        "word": "partition",
+        "meaning": "partition",
+        "sentence": "La partition est difficile."
+      }
+    ],
+    "relatedRootIds": ["root_tion_fr"]
+  },
+  {
+    "id": "root_esse_fr",
+    "root": "-esse",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "qualité, état (quality, state)",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "ɛs"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "ɛs"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "ɛs"
+      }
+    ],
+    "examples": [
+      {
+        "word": "tristesse",
+        "meaning": "sadness",
+        "sentence": "La tristesse est profonde."
+      },
+      {
+        "word": "richesse",
+        "meaning": "riches",
+        "sentence": "La richesse ne fait pas le bonheur."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_ie_fr",
+    "root": "-ie",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "maladie, qualité, science (disease, quality, science)",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "i"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "i"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "i"
+      }
+    ],
+    "examples": [
+      {
+        "word": "anarchie",
+        "meaning": "anarchy",
+        "sentence": "L'anarchie règne."
+      },
+      {
+        "word": "poésie",
+        "meaning": "poetry",
+        "sentence": "La poésie est belle."
+      }
+    ],
+    "relatedRootIds": ["root_ite_fr"]
+  },
+  {
+    "id": "root_iere_fr",
+    "root": "-ière",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "lieu, contenu (place, container)",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "jɛʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "jɛʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "jɛʁ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "cimetière",
+        "meaning": "cemetery",
+        "sentence": "Le cimetière est ancien."
+      },
+      {
+        "word": "verrière",
+        "meaning": "glass roof",
+        "sentence": "La verrière laisse entrer la lumière."
+      }
+    ],
+    "relatedRootIds": ["root_oire_fr"]
   }
 ]

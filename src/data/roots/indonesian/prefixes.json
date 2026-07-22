@@ -286,5 +286,165 @@
         "ipa": "pra"
       }
     ]
+  },
+  {
+    "id": "id_prefix_ke",
+    "root": "ke-",
+    "type": "prefix",
+    "languageOrigin": "Indonesian",
+    "meaning": "to; toward; become; too",
+    "examples": [
+      {
+        "word": "pergi",
+        "meaning": "go (with ke- in compounds like kepergian)",
+        "sentence": "Kepergiannya mengejutkan."
+      },
+      {
+        "word": "besar",
+        "meaning": "big (ke- forms excessive)",
+        "sentence": "Kebesaran hati."
+      },
+      {
+        "word": "cil",
+        "meaning": "small (ke- forms too small)",
+        "sentence": "Kecilnya tubuhnya."
+      }
+    ],
+    "relatedRootIds": ["id_base_pergi", "id_base_besar", "id_base_kecil"],
+    "pronunciationIpa": "/kə/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "ke"
+      }
+    ]
+  },
+  {
+    "id": "id_prefix_tak",
+    "root": "tak-",
+    "type": "prefix",
+    "languageOrigin": "Indonesian",
+    "meaning": "not (literary/negative)",
+    "examples": [
+      {
+        "word": "takut",
+        "meaning": "afraid",
+        "sentence": "Saya takut gelap."
+      },
+      {
+        "word": "takut",
+        "meaning": "fear",
+        "sentence": "Takutnya berlebihan."
+      },
+      {
+        "word": "takhta",
+        "meaning": "throne",
+        "sentence": "Raja duduk di takhta."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ta/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "tak"
+      }
+    ]
+  },
+  {
+    "id": "id_prefix_non",
+    "root": "non-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "non-",
+    "examples": [
+      {
+        "word": "nonaktif",
+        "meaning": "inactive",
+        "sentence": "Akunnya nonaktif."
+      },
+      {
+        "word": "nonfiksi",
+        "meaning": "non-fiction",
+        "sentence": "Buku ini nonfiksi."
+      },
+      {
+        "word": "nonmigas",
+        "meaning": "non oil and gas",
+        "sentence": "Ekonomi nonmigas tumbuh."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/nɔn/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "non"
+      }
+    ]
+  },
+  {
+    "id": "id_prefix_anti",
+    "root": "anti-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "anti; against",
+    "examples": [
+      {
+        "word": "antibiotik",
+        "meaning": "antibiotic",
+        "sentence": "Dokter memberi antibiotik."
+      },
+      {
+        "word": "antikorupsi",
+        "meaning": "anti-corruption",
+        "sentence": "Gerakan antikorupsi kuat."
+      },
+      {
+        "word": "antidepresan",
+        "meaning": "antidepressant",
+        "sentence": "Obat antidepresan itu aman."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/an.ti/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "anti"
+      }
+    ]
+  },
+  {
+    "id": "id_prefix_juru",
+    "root": "juru-",
+    "type": "prefix",
+    "languageOrigin": "Indonesian",
+    "meaning": "expert in; specialist",
+    "examples": [
+      {
+        "word": "juru masak",
+        "meaning": "cook",
+        "sentence": "Juru masak itu hebat."
+      },
+      {
+        "word": "juru bicara",
+        "meaning": "spokesperson",
+        "sentence": "Juru bicara memberi keterangan."
+      },
+      {
+        "word": "juru tulis",
+        "meaning": "clerk",
+        "sentence": "Juru tulis mencatat semuanya."
+      }
+    ],
+    "relatedRootIds": ["id_base_bicara", "id_base_tulis"],
+    "pronunciationIpa": "/dʒu.ru/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "juru"
+      }
+    ]
   }
 ]

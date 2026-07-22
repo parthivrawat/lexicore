@@ -318,5 +318,165 @@
         "ipa": "chu1"
       }
     ]
+  },
+  {
+    "id": "zh_prefix_da",
+    "root": "大",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "big; great",
+    "examples": [
+      {
+        "word": "大家",
+        "meaning": "everyone",
+        "sentence": "大家好。"
+      },
+      {
+        "word": "大学",
+        "meaning": "university",
+        "sentence": "我在大学学习。"
+      },
+      {
+        "word": "大概",
+        "meaning": "probably; approximate",
+        "sentence": "他大概不来了。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_da"],
+    "pronunciationIpa": "/ta⁵¹/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "da4"
+      }
+    ]
+  },
+  {
+    "id": "zh_prefix_duo",
+    "root": "多",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "many; much; multi-",
+    "examples": [
+      {
+        "word": "多少",
+        "meaning": "how much/many",
+        "sentence": "你有多少钱？"
+      },
+      {
+        "word": "多元",
+        "meaning": "diverse; pluralistic",
+        "sentence": "这个社会很多元。"
+      },
+      {
+        "word": "多年",
+        "meaning": "many years",
+        "sentence": "我们认识多年了。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/tu̯ɔ⁵⁵/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "duo1"
+      }
+    ]
+  },
+  {
+    "id": "zh_prefix_wu",
+    "root": "无",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "without; no; non-",
+    "examples": [
+      {
+        "word": "无数",
+        "meaning": "countless",
+        "sentence": "天上有无数星星。"
+      },
+      {
+        "word": "无聊",
+        "meaning": "bored; boring",
+        "sentence": "他觉得很无聊。"
+      },
+      {
+        "word": "无效",
+        "meaning": "invalid; ineffective",
+        "sentence": "这张票无效。"
+      }
+    ],
+    "relatedRootIds": ["zh_prefix_bu"],
+    "pronunciationIpa": "/u³⁵/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "wu2"
+      }
+    ]
+  },
+  {
+    "id": "zh_prefix_ban",
+    "root": "半",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "half; semi-",
+    "examples": [
+      {
+        "word": "半天",
+        "meaning": "half a day",
+        "sentence": "我等了半天。"
+      },
+      {
+        "word": "半价",
+        "meaning": "half price",
+        "sentence": "今天半价优惠。"
+      },
+      {
+        "word": "半路",
+        "meaning": "halfway",
+        "sentence": "我们在半路遇到了。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/pan⁵¹/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "ban4"
+      }
+    ]
+  },
+  {
+    "id": "zh_prefix_xin",
+    "root": "新",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "new; neo-",
+    "examples": [
+      {
+        "word": "新年",
+        "meaning": "new year",
+        "sentence": "新年快乐！"
+      },
+      {
+        "word": "新闻",
+        "meaning": "news",
+        "sentence": "这条新闻很重要。"
+      },
+      {
+        "word": "新鲜",
+        "meaning": "fresh",
+        "sentence": "这些水果很新鲜。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ɕin⁵⁵/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "xin1"
+      }
+    ]
   }
 ]

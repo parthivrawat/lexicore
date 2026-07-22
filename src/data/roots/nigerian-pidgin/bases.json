@@ -702,5 +702,165 @@
         "ipa": "rayt"
       }
     ]
+  },
+  {
+    "id": "pcm_base_waka",
+    "root": "waka",
+    "type": "base",
+    "languageOrigin": "English",
+    "meaning": "walk; go",
+    "examples": [
+      {
+        "word": "waka",
+        "meaning": "to walk; to go",
+        "sentence": "I dey waka go market."
+      },
+      {
+        "word": "waka about",
+        "meaning": "walk around",
+        "sentence": "E dey waka about for town."
+      },
+      {
+        "word": "waka pass",
+        "meaning": "walk past",
+        "sentence": "Dem waka pass my house."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/waˈka/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "waka"
+      }
+    ]
+  },
+  {
+    "id": "pcm_base_run",
+    "root": "run",
+    "type": "base",
+    "languageOrigin": "English",
+    "meaning": "run",
+    "examples": [
+      {
+        "word": "run",
+        "meaning": "to run",
+        "sentence": "I dey run fast."
+      },
+      {
+        "word": "run away",
+        "meaning": "escape",
+        "sentence": "Thief run away."
+      },
+      {
+        "word": "run for",
+        "meaning": "run toward",
+        "sentence": "E run for di car."
+      }
+    ],
+    "relatedRootIds": ["pcm_prefix_out"],
+    "pronunciationIpa": "/ɹʌn/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "run"
+      }
+    ]
+  },
+  {
+    "id": "pcm_base_slip",
+    "root": "slip",
+    "type": "base",
+    "languageOrigin": "English",
+    "meaning": "sleep",
+    "examples": [
+      {
+        "word": "slip",
+        "meaning": "to sleep",
+        "sentence": "I wan slip small."
+      },
+      {
+        "word": "slip well",
+        "meaning": "sleep well",
+        "sentence": "Make you slip well."
+      },
+      {
+        "word": "sleeping place",
+        "meaning": "place to sleep",
+        "sentence": "Where be your sleeping place?"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/slip/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "slip"
+      }
+    ]
+  },
+  {
+    "id": "pcm_base_laf",
+    "root": "laf",
+    "type": "base",
+    "languageOrigin": "English",
+    "meaning": "laugh",
+    "examples": [
+      {
+        "word": "laf",
+        "meaning": "to laugh",
+        "sentence": "No laf me."
+      },
+      {
+        "word": "laf well",
+        "meaning": "laugh heartily",
+        "sentence": "Dem dey laf well."
+      },
+      {
+        "word": "make laf",
+        "meaning": "make laugh",
+        "sentence": "Comedian dey make laf."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/laf/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "laf"
+      }
+    ]
+  },
+  {
+    "id": "pcm_base_sing",
+    "root": "sing",
+    "type": "base",
+    "languageOrigin": "English",
+    "meaning": "sing",
+    "examples": [
+      {
+        "word": "sing",
+        "meaning": "to sing",
+        "sentence": "She sabi sing well."
+      },
+      {
+        "word": "sing song",
+        "meaning": "sing a song",
+        "sentence": "Make we sing song."
+      },
+      {
+        "word": "singer",
+        "meaning": "one who sings",
+        "sentence": "Di singer popular."
+      }
+    ],
+    "relatedRootIds": ["pcm_suffix_er"],
+    "pronunciationIpa": "/sɪŋ/",
+    "pronunciationVariants": [
+      {
+        "accent": "nigerian-pidgin",
+        "ipa": "sing"
+      }
+    ]
   }
 ]

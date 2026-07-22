@@ -659,5 +659,165 @@
         "ipa": "hoc"
       }
     ]
+  },
+  {
+    "id": "vi_base_chay",
+    "root": "chạy",
+    "type": "base",
+    "languageOrigin": "Vietnamese",
+    "meaning": "run",
+    "examples": [
+      {
+        "word": "chạy nhanh",
+        "meaning": "run fast",
+        "sentence": "Anh ấy chạy nhanh."
+      },
+      {
+        "word": "chạy xe",
+        "meaning": "drive",
+        "sentence": "Tôi chạy xe đạp."
+      },
+      {
+        "word": "chạy đi",
+        "meaning": "run away",
+        "sentence": "Chạy đi!"
+      }
+    ],
+    "relatedRootIds": ["vi_suffix_di"],
+    "pronunciationIpa": "/tʃaːi/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "chay"
+      }
+    ]
+  },
+  {
+    "id": "vi_base_ngu",
+    "root": "ngủ",
+    "type": "base",
+    "languageOrigin": "Vietnamese",
+    "meaning": "sleep",
+    "examples": [
+      {
+        "word": "ngủ ngon",
+        "meaning": "sleep well",
+        "sentence": "Chúc ngủ ngon."
+      },
+      {
+        "word": "đi ngủ",
+        "meaning": "go to sleep",
+        "sentence": "Tôi đi ngủ."
+      },
+      {
+        "word": "ngủ dậy",
+        "meaning": "wake up",
+        "sentence": "Tôi ngủ dậy sớm."
+      }
+    ],
+    "relatedRootIds": ["vi_base_di"],
+    "pronunciationIpa": "/ŋu/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "ngu"
+      }
+    ]
+  },
+  {
+    "id": "vi_base_choi",
+    "root": "chơi",
+    "type": "base",
+    "languageOrigin": "Vietnamese",
+    "meaning": "play",
+    "examples": [
+      {
+        "word": "chơi game",
+        "meaning": "play games",
+        "sentence": "Trẻ em chơi game."
+      },
+      {
+        "word": "đi chơi",
+        "meaning": "go out for fun",
+        "sentence": "Chúng tôi đi chơi."
+      },
+      {
+        "word": "chơi thể thao",
+        "meaning": "play sports",
+        "sentence": "Tôi chơi thể thao."
+      }
+    ],
+    "relatedRootIds": ["vi_base_di"],
+    "pronunciationIpa": "/tʃəi/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "choi"
+      }
+    ]
+  },
+  {
+    "id": "vi_base_nhay",
+    "root": "nhảy",
+    "type": "base",
+    "languageOrigin": "Vietnamese",
+    "meaning": "jump; dance",
+    "examples": [
+      {
+        "word": "nhảy múa",
+        "meaning": "dance",
+        "sentence": "Cô ấy nhảy múa đẹp."
+      },
+      {
+        "word": "nhảy cao",
+        "meaning": "high jump",
+        "sentence": "Anh ấy nhảy cao."
+      },
+      {
+        "word": "nhảy dây",
+        "meaning": "jump rope",
+        "sentence": "Trẻ con nhảy dây."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ɲaːi/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "nhay"
+      }
+    ]
+  },
+  {
+    "id": "vi_base_dung",
+    "root": "đứng",
+    "type": "base",
+    "languageOrigin": "Vietnamese",
+    "meaning": "stand",
+    "examples": [
+      {
+        "word": "đứng lên",
+        "meaning": "stand up",
+        "sentence": "Mọi người đứng lên."
+      },
+      {
+        "word": "đứng đây",
+        "meaning": "stand here",
+        "sentence": "Đứng đây chờ tôi."
+      },
+      {
+        "word": "đứng yên",
+        "meaning": "stand still",
+        "sentence": "Xin đứng yên."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ɗuŋ/",
+    "pronunciationVariants": [
+      {
+        "accent": "vietnamese",
+        "ipa": "dung"
+      }
+    ]
   }
 ]

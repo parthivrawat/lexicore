@@ -670,5 +670,165 @@
         "ipa": "velai"
       }
     ]
+  },
+  {
+    "id": "ta_base_thoongu",
+    "root": "தூங்கு",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "sleep",
+    "examples": [
+      {
+        "word": "தூங்குகிறான்",
+        "meaning": "sleeps",
+        "sentence": "அவன் இரவு தூங்குகிறான்."
+      },
+      {
+        "word": "தூக்கம்",
+        "meaning": "sleep",
+        "sentence": "தூக்கம் முக்கியம்."
+      },
+      {
+        "word": "தூங்குபவன்",
+        "meaning": "one who sleeps",
+        "sentence": "அவன் ஆழமாக தூங்குபவன்."
+      }
+    ],
+    "relatedRootIds": ["ta_suffix_pavan"],
+    "pronunciationIpa": "/t̪uːŋɡu/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "thoongu"
+      }
+    ]
+  },
+  {
+    "id": "ta_base_odu",
+    "root": "ஓடு",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "run",
+    "examples": [
+      {
+        "word": "ஓடுகிறான்",
+        "meaning": "runs",
+        "sentence": "அவன் வேகமாக ஓடுகிறான்."
+      },
+      {
+        "word": "ஓட்டம்",
+        "meaning": "race",
+        "sentence": "ஓட்டம் நடந்தது."
+      },
+      {
+        "word": "ஓடுபவன்",
+        "meaning": "runner",
+        "sentence": "அவன் வேகமான ஓடுபவன்."
+      }
+    ],
+    "relatedRootIds": ["ta_suffix_pavan"],
+    "pronunciationIpa": "/oːɖu/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "odu"
+      }
+    ]
+  },
+  {
+    "id": "ta_base_nada",
+    "root": "நட",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "walk; act",
+    "examples": [
+      {
+        "word": "நடக்கிறான்",
+        "meaning": "walks",
+        "sentence": "அவன் சாலையில் நடக்கிறான்."
+      },
+      {
+        "word": "நடப்பு",
+        "meaning": "current state",
+        "sentence": "நடப்பு செய்திகள்."
+      },
+      {
+        "word": "நடிப்பு",
+        "meaning": "acting",
+        "sentence": "அவன் நடிப்பு அருமை."
+      }
+    ],
+    "relatedRootIds": ["ta_suffix_pavan"],
+    "pronunciationIpa": "/nɐɖɐ/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "nada"
+      }
+    ]
+  },
+  {
+    "id": "ta_base_eri",
+    "root": "எரி",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "burn",
+    "examples": [
+      {
+        "word": "எரிகிறது",
+        "meaning": "burns",
+        "sentence": "தீ எரிகிறது."
+      },
+      {
+        "word": "எரிப்பு",
+        "meaning": "burning",
+        "sentence": "எரிப்பு வலுவானது."
+      },
+      {
+        "word": "எரிபொருள்",
+        "meaning": "fuel",
+        "sentence": "எரிபொருள் தேவை."
+      }
+    ],
+    "relatedRootIds": ["ta_suffix_pavan"],
+    "pronunciationIpa": "/eɾi/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "eri"
+      }
+    ]
+  },
+  {
+    "id": "ta_base_nikka",
+    "root": "நில்",
+    "type": "base",
+    "languageOrigin": "Dravidian",
+    "meaning": "stand; stop",
+    "examples": [
+      {
+        "word": "நிற்கிறான்",
+        "meaning": "stands",
+        "sentence": "அவன் கடையில் நிற்கிறான்."
+      },
+      {
+        "word": "நிறுத்து",
+        "meaning": "stop",
+        "sentence": "பேருந்தை நிறுத்து."
+      },
+      {
+        "word": "நிலை",
+        "meaning": "state; position",
+        "sentence": "அவனது நிலை மாறியது."
+      }
+    ],
+    "relatedRootIds": ["ta_suffix_pavan"],
+    "pronunciationIpa": "/ɳiːl/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "nil"
+      }
+    ]
   }
 ]

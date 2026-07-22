@@ -318,5 +318,165 @@
         "ipa": "at"
       }
     ]
+  },
+  {
+    "id": "ru_suffix_ist",
+    "root": "ист",
+    "type": "suffix",
+    "languageOrigin": "Russian",
+    "meaning": "specialist; adherent",
+    "examples": [
+      {
+        "word": "гитарист",
+        "meaning": "guitarist",
+        "sentence": "Гитарист играет соло."
+      },
+      {
+        "word": "артист",
+        "meaning": "artist; performer",
+        "sentence": "Артист вышел на сцену."
+      },
+      {
+        "word": "специалист",
+        "meaning": "specialist",
+        "sentence": "Специалист дал совет."
+      }
+    ],
+    "relatedRootIds": ["ru_suffix_tel"],
+    "pronunciationIpa": "/ist/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ist"
+      }
+    ]
+  },
+  {
+    "id": "ru_suffix_izm",
+    "root": "изм",
+    "type": "suffix",
+    "languageOrigin": "Russian",
+    "meaning": "doctrine; -ism",
+    "examples": [
+      {
+        "word": "капитализм",
+        "meaning": "capitalism",
+        "sentence": "Капитализм — экономическая система."
+      },
+      {
+        "word": "социализм",
+        "meaning": "socialism",
+        "sentence": "Социализм — политическая идея."
+      },
+      {
+        "word": "героизм",
+        "meaning": "heroism",
+        "sentence": "Героизм вдохновляет."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/izm/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "izm"
+      }
+    ]
+  },
+  {
+    "id": "ru_suffix_tsia",
+    "root": "ция",
+    "type": "suffix",
+    "languageOrigin": "Russian",
+    "meaning": "action/state noun (-tion)",
+    "examples": [
+      {
+        "word": "лекция",
+        "meaning": "lecture",
+        "sentence": "Лекция была интересной."
+      },
+      {
+        "word": "акция",
+        "meaning": "action; promotion",
+        "sentence": "Акция продлится неделю."
+      },
+      {
+        "word": "информация",
+        "meaning": "information",
+        "sentence": "Информация проверена."
+      }
+    ],
+    "relatedRootIds": ["ru_suffix_nie"],
+    "pronunciationIpa": "/tsɨjə/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "tsia"
+      }
+    ]
+  },
+  {
+    "id": "ru_suffix_ka",
+    "root": "ка",
+    "type": "suffix",
+    "languageOrigin": "Russian",
+    "meaning": "feminine; person; thing",
+    "examples": [
+      {
+        "word": "ученика",
+        "meaning": "student (f.)",
+        "sentence": "Ученица ответила."
+      },
+      {
+        "word": "кружка",
+        "meaning": "mug",
+        "sentence": "Кружка чая горяча."
+      },
+      {
+        "word": "ложка",
+        "meaning": "spoon",
+        "sentence": "Ложка на столе."
+      }
+    ],
+    "relatedRootIds": ["ru_suffix_nik"],
+    "pronunciationIpa": "/kə/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ka"
+      }
+    ]
+  },
+  {
+    "id": "ru_suffix_ec",
+    "root": "ец",
+    "type": "suffix",
+    "languageOrigin": "Russian",
+    "meaning": "person of origin/nationality",
+    "examples": [
+      {
+        "word": "американец",
+        "meaning": "American (male)",
+        "sentence": "Американец говорит по-английски."
+      },
+      {
+        "word": "австриец",
+        "meaning": "Austrian",
+        "sentence": "Австриец любит горы."
+      },
+      {
+        "word": "купец",
+        "meaning": "merchant",
+        "sentence": "Купец продавал товары."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ɛts/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ets"
+      }
+    ]
   }
 ]

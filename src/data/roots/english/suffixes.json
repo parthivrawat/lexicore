@@ -3393,5 +3393,175 @@
       }
     ],
     "relatedRootIds": []
+  },
+  {
+    "id": "root_ics",
+    "root": "-ics",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "study of, science of",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɪks"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɪks"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɪks"
+      }
+    ],
+    "examples": [
+      {
+        "word": "physics",
+        "meaning": "study of matter and energy",
+        "sentence": "Physics explains how the world works."
+      },
+      {
+        "word": "linguistics",
+        "meaning": "study of language",
+        "sentence": "Linguistics fascinates her."
+      }
+    ],
+    "relatedRootIds": ["root_ology"]
+  },
+  {
+    "id": "root_ette",
+    "root": "-ette",
+    "type": "suffix",
+    "languageOrigin": "French",
+    "meaning": "small, feminine",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɛt"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɛt"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɛt"
+      }
+    ],
+    "examples": [
+      {
+        "word": "kitchenette",
+        "meaning": "small kitchen",
+        "sentence": "The apartment has a kitchenette."
+      },
+      {
+        "word": "statuette",
+        "meaning": "small statue",
+        "sentence": "The statuette was made of bronze."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_ess",
+    "root": "-ess",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "female",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɪs"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɪs"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɪs"
+      }
+    ],
+    "examples": [
+      {
+        "word": "actress",
+        "meaning": "female actor",
+        "sentence": "The actress won an award."
+      },
+      {
+        "word": "hostess",
+        "meaning": "female host",
+        "sentence": "The hostess welcomed guests."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_ish_2",
+    "root": "-ish",
+    "type": "suffix",
+    "languageOrigin": "Old English",
+    "meaning": "somewhat, like",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ɪʃ"
+      },
+      {
+        "accent": "british",
+        "ipa": "ɪʃ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ɪʃ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "childish",
+        "meaning": "like a child",
+        "sentence": "His behavior was childish."
+      },
+      {
+        "word": "reddish",
+        "meaning": "somewhat red",
+        "sentence": "The sky turned reddish."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_ure",
+    "root": "-ure",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "act, result, state",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ʊər"
+      },
+      {
+        "accent": "british",
+        "ipa": "ʊə"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ʊə"
+      }
+    ],
+    "examples": [
+      {
+        "word": "pressure",
+        "meaning": "state of pressing",
+        "sentence": "The pressure increased."
+      },
+      {
+        "word": "failure",
+        "meaning": "result of failing",
+        "sentence": "Failure is a learning opportunity."
+      }
+    ],
+    "relatedRootIds": []
   }
 ]

@@ -734,5 +734,165 @@
         "ipa": "br"
       }
     ]
+  },
+  {
+    "id": "ru_base_mog",
+    "root": "мог",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "be able; can",
+    "examples": [
+      {
+        "word": "мочь",
+        "meaning": "to be able; can",
+        "sentence": "Я могу помочь."
+      },
+      {
+        "word": "могучий",
+        "meaning": "powerful; mighty",
+        "sentence": "Могучий поток реки."
+      },
+      {
+        "word": "возможно",
+        "meaning": "possibly; maybe",
+        "sentence": "Возможно, он придёт."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/mok/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "mog"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_zhiv",
+    "root": "жив",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "live; alive",
+    "examples": [
+      {
+        "word": "жить",
+        "meaning": "to live",
+        "sentence": "Я живу в городе."
+      },
+      {
+        "word": "живой",
+        "meaning": "alive; lively",
+        "sentence": "Он чувствует себя живым."
+      },
+      {
+        "word": "выжить",
+        "meaning": "to survive",
+        "sentence": "Он выжил в аварии."
+      }
+    ],
+    "relatedRootIds": ["ru_prefix_vy"],
+    "pronunciationIpa": "/ʐɨf/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "zhiv"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_stoy",
+    "root": "стой",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "stand",
+    "examples": [
+      {
+        "word": "стоять",
+        "meaning": "to stand",
+        "sentence": "Он стоит у окна."
+      },
+      {
+        "word": "стойкий",
+        "meaning": "stable; resistant",
+        "sentence": "Он стойкий к стрессу."
+      },
+      {
+        "word": "остановка",
+        "meaning": "stop; bus stop",
+        "sentence": "Автобусная остановка рядом."
+      }
+    ],
+    "relatedRootIds": ["ru_prefix_ot"],
+    "pronunciationIpa": "/stoj/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "stoy"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_lezh",
+    "root": "леж",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "lie",
+    "examples": [
+      {
+        "word": "лежать",
+        "meaning": "to lie",
+        "sentence": "Книга лежит на столе."
+      },
+      {
+        "word": "лежак",
+        "meaning": "sunbed",
+        "sentence": "Лежак у бассейна."
+      },
+      {
+        "word": "полежать",
+        "meaning": "to lie for a while",
+        "sentence": "Я полежал немного."
+      }
+    ],
+    "relatedRootIds": ["ru_prefix_po"],
+    "pronunciationIpa": "/lʲeʐ/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "lezh"
+      }
+    ]
+  },
+  {
+    "id": "ru_base_ezd",
+    "root": "езд",
+    "type": "base",
+    "languageOrigin": "Russian",
+    "meaning": "ride; travel",
+    "examples": [
+      {
+        "word": "ездить",
+        "meaning": "to ride; to go",
+        "sentence": "Я езжу на велосипеде."
+      },
+      {
+        "word": "поезд",
+        "meaning": "train",
+        "sentence": "Поезд прибыл вовремя."
+      },
+      {
+        "word": "выезд",
+        "meaning": "departure; exit",
+        "sentence": "Выезд на шоссе рядом."
+      }
+    ],
+    "relatedRootIds": ["ru_prefix_vy", "ru_prefix_pri"],
+    "pronunciationIpa": "/jest/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ezd"
+      }
+    ]
   }
 ]

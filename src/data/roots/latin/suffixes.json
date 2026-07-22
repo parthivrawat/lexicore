@@ -1116,5 +1116,135 @@
       }
     ],
     "relatedRootIds": []
+  },
+  {
+    "id": "root_la_ax",
+    "root": "-āx",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "inclined to",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "aːks"
+      }
+    ],
+    "examples": [
+      {
+        "word": "audāx",
+        "meaning": "bold",
+        "sentence": "Vir audāx est."
+      },
+      {
+        "word": "pellāx",
+        "meaning": "persuasive",
+        "sentence": "Ōrātor pellāx est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_bundus",
+    "root": "-bundus",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "inclined to",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "bun.dus"
+      }
+    ],
+    "examples": [
+      {
+        "word": "moribundus",
+        "meaning": "about to die",
+        "sentence": "Homō moribundus iacet."
+      },
+      {
+        "word": "tremibundus",
+        "meaning": "trembling",
+        "sentence": "Membra tremibunda sunt."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_arium",
+    "root": "-ārium",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "place for",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "aː.ri.um"
+      }
+    ],
+    "examples": [
+      {
+        "word": "aquārium",
+        "meaning": "aquarium",
+        "sentence": "Aquārium plēnum est piscium."
+      },
+      {
+        "word": "naufrāgārium",
+        "meaning": "shipwreck place",
+        "sentence": "Naufrāgārium perīculōsum est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_orium",
+    "root": "-ōrium",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "place for",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "oː.ri.um"
+      }
+    ],
+    "examples": [
+      {
+        "word": "dormītōrium",
+        "meaning": "dormitory",
+        "sentence": "Dormītōrium discipulōrum est."
+      },
+      {
+        "word": "audītōrium",
+        "meaning": "auditorium",
+        "sentence": "Audītōrium plēnum est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_vorus",
+    "root": "-vorus",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "devouring",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "wo.rus"
+      }
+    ],
+    "examples": [
+      {
+        "word": "carnīvor",
+        "meaning": "carnivore",
+        "sentence": "Lēō carnīvor est."
+      },
+      {
+        "word": "herbīvor",
+        "meaning": "herbivore",
+        "sentence": "Bōs herbīvor est."
+      }
+    ],
+    "relatedRootIds": []
   }
 ]

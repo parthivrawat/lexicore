@@ -596,5 +596,135 @@
       }
     ],
     "relatedRootIds": []
+  },
+  {
+    "id": "root_el_graphia",
+    "root": "-γραφία",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "writing, recording",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ɣra.fi.a"
+      }
+    ],
+    "examples": [
+      {
+        "word": "βιογραφία",
+        "meaning": "biography",
+        "sentence": "Η βιογραφία του είναι ενδιαφέρουσα."
+      },
+      {
+        "word": "γεωγραφία",
+        "meaning": "geography",
+        "sentence": "Η γεωγραφία μελετά τη γη."
+      }
+    ],
+    "relatedRootIds": ["root_el_graph"]
+  },
+  {
+    "id": "root_el_phagos",
+    "root": "-φάγος",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "eating, devouring",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "fa.ɣos"
+      }
+    ],
+    "examples": [
+      {
+        "word": "σαρκοφάγος",
+        "meaning": "carnivorous",
+        "sentence": "Ο σαρκοφάγος είναι επικίνδυνος."
+      },
+      {
+        "word": "χορτοφάγος",
+        "meaning": "herbivorous",
+        "sentence": "Ο χορτοφάγος τρώει φυτά."
+      }
+    ],
+    "relatedRootIds": ["root_el_phag"]
+  },
+  {
+    "id": "root_el_phoros",
+    "root": "-φόρος",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "bearer, carrier",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "fo.ros"
+      }
+    ],
+    "examples": [
+      {
+        "word": "φωτοφόρος",
+        "meaning": "luminous",
+        "sentence": "Το φωτοφόρο ψάρι λάμπει."
+      },
+      {
+        "word": "μεταφορέας",
+        "meaning": "carrier",
+        "sentence": "Ο μεταφορέας κουβαλάει αντικείμενα."
+      }
+    ],
+    "relatedRootIds": ["root_el_pher"]
+  },
+  {
+    "id": "root_el_derma",
+    "root": "-δερμα",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "skin",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ðer.ma"
+      }
+    ],
+    "examples": [
+      {
+        "word": "παχύδερμο",
+        "meaning": "pachyderm",
+        "sentence": "Το παχύδερμο έχει παχύ δέρμα."
+      },
+      {
+        "word": "ξηροδερμία",
+        "meaning": "xeroderma",
+        "sentence": "Η ξηροδερμία είναι ασθένεια του δέρματος."
+      }
+    ],
+    "relatedRootIds": ["root_el_derm"]
+  },
+  {
+    "id": "root_el_soma",
+    "root": "-σώμα",
+    "type": "suffix",
+    "languageOrigin": "Greek",
+    "meaning": "body",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "so.ma"
+      }
+    ],
+    "examples": [
+      {
+        "word": "χρωμόσωμα",
+        "meaning": "chromosome",
+        "sentence": "Το χρωμόσωμα κουβαλάει γονίδια."
+      },
+      {
+        "word": "ριβόσωμα",
+        "meaning": "ribosome",
+        "sentence": "Το ριβόσωμα συνθέτει πρωτεΐνες."
+      }
+    ],
+    "relatedRootIds": []
   }
 ]

@@ -254,5 +254,165 @@
         "ipa": "ecek"
       }
     ]
+  },
+  {
+    "id": "tr_suffix_dan",
+    "root": "-dan",
+    "type": "suffix",
+    "languageOrigin": "Turkic",
+    "meaning": "from; ablative",
+    "examples": [
+      {
+        "word": "evden",
+        "meaning": "from home",
+        "sentence": "Evden çıktım."
+      },
+      {
+        "word": "okuldan",
+        "meaning": "from school",
+        "sentence": "Okuldan geldim."
+      },
+      {
+        "word": "arkadaşımdan",
+        "meaning": "from my friend",
+        "sentence": "Arkadaşımdan aldım."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/dan/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "dan"
+      }
+    ]
+  },
+  {
+    "id": "tr_suffix_de",
+    "root": "-de",
+    "type": "suffix",
+    "languageOrigin": "Turkic",
+    "meaning": "in; on; at; locative",
+    "examples": [
+      {
+        "word": "evde",
+        "meaning": "at home",
+        "sentence": "Evdeyim."
+      },
+      {
+        "word": "okulda",
+        "meaning": "at school",
+        "sentence": "Okuldayım."
+      },
+      {
+        "word": "masada",
+        "meaning": "on the table",
+        "sentence": "Kitap masada."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/de/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "de"
+      }
+    ]
+  },
+  {
+    "id": "tr_suffix_e",
+    "root": "-e",
+    "type": "suffix",
+    "languageOrigin": "Turkic",
+    "meaning": "to; toward; dative",
+    "examples": [
+      {
+        "word": "eve",
+        "meaning": "to home",
+        "sentence": "Eve gidiyorum."
+      },
+      {
+        "word": "okula",
+        "meaning": "to school",
+        "sentence": "Okula gidiyorum."
+      },
+      {
+        "word": "arkadaşa",
+        "meaning": "to friend",
+        "sentence": "Arkadaşa hediye aldım."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/e/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "e"
+      }
+    ]
+  },
+  {
+    "id": "tr_suffix_in",
+    "root": "-in",
+    "type": "suffix",
+    "languageOrigin": "Turkic",
+    "meaning": "of; genitive",
+    "examples": [
+      {
+        "word": "evin",
+        "meaning": "of the house",
+        "sentence": "Evin rengi güzel."
+      },
+      {
+        "word": "okulun",
+        "meaning": "of the school",
+        "sentence": "Okulun bahçesi büyük."
+      },
+      {
+        "word": "arkadaşın",
+        "meaning": "of the friend",
+        "sentence": "Arkadaşın kitabı."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/in/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "in"
+      }
+    ]
+  },
+  {
+    "id": "tr_suffix_ler",
+    "root": "-ler",
+    "type": "suffix",
+    "languageOrigin": "Turkic",
+    "meaning": "plural",
+    "examples": [
+      {
+        "word": "evler",
+        "meaning": "houses",
+        "sentence": "Evler büyük."
+      },
+      {
+        "word": "kitaplar",
+        "meaning": "books",
+        "sentence": "Kitaplar masada."
+      },
+      {
+        "word": "arkadaşlar",
+        "meaning": "friends",
+        "sentence": "Arkadaşlar geldi."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/leɾ/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ler"
+      }
+    ]
   }
 ]

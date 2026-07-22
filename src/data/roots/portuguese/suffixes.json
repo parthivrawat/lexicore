@@ -478,5 +478,165 @@
         "ipa": "agem"
       }
     ]
+  },
+  {
+    "id": "pt_suffix_ura",
+    "root": "-ura",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "state; result; quality",
+    "examples": [
+      {
+        "word": "doçura",
+        "meaning": "sweetness",
+        "sentence": "A doçura do mel é boa."
+      },
+      {
+        "word": "fritura",
+        "meaning": "fry; fried food",
+        "sentence": "A fritura é crocante."
+      },
+      {
+        "word": "escritura",
+        "meaning": "scripture; writing",
+        "sentence": "A escritura é antiga."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_dade"],
+    "pronunciationIpa": "/ˈuɾɐ/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ura"
+      }
+    ]
+  },
+  {
+    "id": "pt_suffix_ico",
+    "root": "-ico",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "relating to; -ic",
+    "examples": [
+      {
+        "word": "histórico",
+        "meaning": "historical",
+        "sentence": "O evento é histórico."
+      },
+      {
+        "word": "político",
+        "meaning": "political",
+        "sentence": "O político falou."
+      },
+      {
+        "word": "músico",
+        "meaning": "musical; musician",
+        "sentence": "O músico tocou piano."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_al", "pt_suffix_ista"],
+    "pronunciationIpa": "/ˈikɔ/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ico"
+      }
+    ]
+  },
+  {
+    "id": "pt_suffix_ivo",
+    "root": "-ivo",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "tending to; -ive",
+    "examples": [
+      {
+        "word": "nutritivo",
+        "meaning": "nutritive",
+        "sentence": "O alimento é nutritivo."
+      },
+      {
+        "word": "ativo",
+        "meaning": "active",
+        "sentence": "Ele é ativo."
+      },
+      {
+        "word": "passivo",
+        "meaning": "passive",
+        "sentence": "O papel é passivo."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_avel"],
+    "pronunciationIpa": "/ˈivɔ/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ivo"
+      }
+    ]
+  },
+  {
+    "id": "pt_suffix_ente",
+    "root": "-ente",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "being; -ing; -ent",
+    "examples": [
+      {
+        "word": "inteligente",
+        "meaning": "intelligent",
+        "sentence": "Ela é inteligente."
+      },
+      {
+        "word": "doente",
+        "meaning": "sick; patient",
+        "sentence": "O doente descansa."
+      },
+      {
+        "word": "existente",
+        "meaning": "existing",
+        "sentence": "O problema é existente."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_dor"],
+    "pronunciationIpa": "/ˈẽtɨ/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ente"
+      }
+    ]
+  },
+  {
+    "id": "pt_suffix_ada",
+    "root": "-ada",
+    "type": "suffix",
+    "languageOrigin": "Latin",
+    "meaning": "collective; action; blow",
+    "examples": [
+      {
+        "word": "caminhada",
+        "meaning": "walk; hike",
+        "sentence": "A caminhada foi longa."
+      },
+      {
+        "word": "jogada",
+        "meaning": "play; move",
+        "sentence": "A jogada foi boa."
+      },
+      {
+        "word": "falada",
+        "meaning": "talk; manner of speaking",
+        "sentence": "A falada dele é engraçada."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_cao"],
+    "pronunciationIpa": "/ˈadɐ/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ada"
+      }
+    ]
   }
 ]

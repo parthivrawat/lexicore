@@ -222,5 +222,165 @@
         "ipa": "um"
       }
     ]
+  },
+  {
+    "id": "ta_suffix_aal",
+    "root": "ஆல்",
+    "type": "suffix",
+    "languageOrigin": "Dravidian",
+    "meaning": "by; with; instrumental",
+    "examples": [
+      {
+        "word": "அவனால்",
+        "meaning": "by him",
+        "sentence": "இது அவனால் செய்யப்பட்டது."
+      },
+      {
+        "word": "காரணத்தால்",
+        "meaning": "because of reason",
+        "sentence": "காரணத்தால் அவன் தாமதமானான்."
+      },
+      {
+        "word": "கையால்",
+        "meaning": "by hand",
+        "sentence": "அவன் கையால் எழுதினான்."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/aːl/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "aal"
+      }
+    ]
+  },
+  {
+    "id": "ta_suffix_kku",
+    "root": "க்கு",
+    "type": "suffix",
+    "languageOrigin": "Dravidian",
+    "meaning": "to; for; dative",
+    "examples": [
+      {
+        "word": "அவனுக்கு",
+        "meaning": "to him",
+        "sentence": "நான் அவனுக்கு புத்தகம் கொடுத்தேன்."
+      },
+      {
+        "word": "பள்ளிக்கு",
+        "meaning": "to school",
+        "sentence": "அவன் பள்ளிக்கு போகிறான்."
+      },
+      {
+        "word": "மரத்துக்கு",
+        "meaning": "to the tree",
+        "sentence": "அவன் மரத்துக்கு ஏறினான்."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/kːu/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "kku"
+      }
+    ]
+  },
+  {
+    "id": "ta_suffix_il",
+    "root": "இல்",
+    "type": "suffix",
+    "languageOrigin": "Dravidian",
+    "meaning": "in; on; locative",
+    "examples": [
+      {
+        "word": "வீட்டில்",
+        "meaning": "in the house",
+        "sentence": "நான் வீட்டில் இருக்கிறேன்."
+      },
+      {
+        "word": "மேசையில்",
+        "meaning": "on the table",
+        "sentence": "புத்தகம் மேசையில் உள்ளது."
+      },
+      {
+        "word": "நகரத்தில்",
+        "meaning": "in the city",
+        "sentence": "அவன் நகரத்தில் வசிக்கிறான்."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/il/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "il"
+      }
+    ]
+  },
+  {
+    "id": "ta_suffix_aana",
+    "root": "ஆன",
+    "type": "suffix",
+    "languageOrigin": "Dravidian",
+    "meaning": "adjectival; one who/which is",
+    "examples": [
+      {
+        "word": "நல்லான",
+        "meaning": "good one",
+        "sentence": "அவன் நல்லானவன்."
+      },
+      {
+        "word": "பெரியான",
+        "meaning": "big one",
+        "sentence": "அது ஒரு பெரியான மரம்."
+      },
+      {
+        "word": "கறுப்பான",
+        "meaning": "black one",
+        "sentence": "அது கறுப்பான பூனை."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/aːnɐ/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "aana"
+      }
+    ]
+  },
+  {
+    "id": "ta_suffix_aai",
+    "root": "ஐ",
+    "type": "suffix",
+    "languageOrigin": "Dravidian",
+    "meaning": "accusative; object marker",
+    "examples": [
+      {
+        "word": "அவனை",
+        "meaning": "him (object)",
+        "sentence": "நான் அவனை பார்த்தேன்."
+      },
+      {
+        "word": "பழத்தை",
+        "meaning": "the fruit",
+        "sentence": "அவன் பழத்தை சாப்பிட்டான்."
+      },
+      {
+        "word": "மரத்தை",
+        "meaning": "the tree",
+        "sentence": "அவன் மரத்தை வெட்டினான்."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/aj/",
+    "pronunciationVariants": [
+      {
+        "accent": "tamil",
+        "ipa": "aai"
+      }
+    ]
   }
 ]

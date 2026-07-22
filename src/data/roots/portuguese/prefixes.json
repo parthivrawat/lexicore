@@ -318,5 +318,165 @@
         "ipa": "co"
       }
     ]
+  },
+  {
+    "id": "pt_prefix_ex",
+    "root": "ex-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "out; former",
+    "examples": [
+      {
+        "word": "exportar",
+        "meaning": "to export",
+        "sentence": "Vamos exportar café."
+      },
+      {
+        "word": "ex-presidente",
+        "meaning": "former president",
+        "sentence": "O ex-presidente viajou."
+      },
+      {
+        "word": "excluir",
+        "meaning": "to exclude",
+        "sentence": "Não vou excluir ninguém."
+      }
+    ],
+    "relatedRootIds": ["pt_prefix_re"],
+    "pronunciationIpa": "/ɛks/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ex"
+      }
+    ]
+  },
+  {
+    "id": "pt_prefix_pro",
+    "root": "pro-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "forward; in favor of",
+    "examples": [
+      {
+        "word": "propor",
+        "meaning": "to propose",
+        "sentence": "Vou propor uma ideia."
+      },
+      {
+        "word": "proteger",
+        "meaning": "to protect",
+        "sentence": "Devemos proteger a natureza."
+      },
+      {
+        "word": "provável",
+        "meaning": "probable",
+        "sentence": "É provável que chova."
+      }
+    ],
+    "relatedRootIds": ["pt_prefix_pre"],
+    "pronunciationIpa": "/pɾɔ/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "pro"
+      }
+    ]
+  },
+  {
+    "id": "pt_prefix_contra",
+    "root": "contra-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "against; opposite",
+    "examples": [
+      {
+        "word": "contratar",
+        "meaning": "to hire; contract",
+        "sentence": "Vou contratar um funcionário."
+      },
+      {
+        "word": "contraindicar",
+        "meaning": "to contraindicate",
+        "sentence": "O remédio é contraindicado."
+      },
+      {
+        "word": "contra-ataque",
+        "meaning": "counterattack",
+        "sentence": "O time fez o contra-ataque."
+      }
+    ],
+    "relatedRootIds": ["pt_prefix_anti"],
+    "pronunciationIpa": "/ˈkõtɾɐ/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "contra"
+      }
+    ]
+  },
+  {
+    "id": "pt_prefix_auto",
+    "root": "auto-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "self",
+    "examples": [
+      {
+        "word": "automóvel",
+        "meaning": "automobile",
+        "sentence": "O automóvel é rápido."
+      },
+      {
+        "word": "automático",
+        "meaning": "automatic",
+        "sentence": "A porta é automática."
+      },
+      {
+        "word": "autoridade",
+        "meaning": "authority",
+        "sentence": "A autoridade decidiu."
+      }
+    ],
+    "relatedRootIds": ["pt_prefix_co"],
+    "pronunciationIpa": "/ˈawtɔ/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "auto"
+      }
+    ]
+  },
+  {
+    "id": "pt_prefix_bi",
+    "root": "bi-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "two",
+    "examples": [
+      {
+        "word": "bilingue",
+        "meaning": "bilingual",
+        "sentence": "Ela é bilingue."
+      },
+      {
+        "word": "bicicleta",
+        "meaning": "bicycle",
+        "sentence": "A bicicleta é nova."
+      },
+      {
+        "word": "bissexual",
+        "meaning": "bisexual",
+        "sentence": "Ele é bissexual."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/bi/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "bi"
+      }
+    ]
   }
 ]

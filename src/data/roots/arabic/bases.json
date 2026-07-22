@@ -958,5 +958,165 @@
         "ipa": "hamala"
       }
     ]
+  },
+  {
+    "id": "ar_base_kwn",
+    "root": "ك و ن",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "be; exist (k-w-n)",
+    "examples": [
+      {
+        "word": "كان",
+        "meaning": "he was",
+        "sentence": "كان الطالب مجتهداً."
+      },
+      {
+        "word": "يكون",
+        "meaning": "he is / he will be",
+        "sentence": "سيكون الطقس جميلاً."
+      },
+      {
+        "word": "كون",
+        "meaning": "being; universe",
+        "sentence": "الكون واسع."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_sa", "ar_prefix_ya"],
+    "pronunciationIpa": "/kaːna/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "kana"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_mwt",
+    "root": "م و ت",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "die (m-w-t)",
+    "examples": [
+      {
+        "word": "مات",
+        "meaning": "he died",
+        "sentence": "مات الرجل مساءً."
+      },
+      {
+        "word": "موت",
+        "meaning": "death",
+        "sentence": "الموت حق."
+      },
+      {
+        "word": "ميت",
+        "meaning": "dead",
+        "sentence": "العصفور ميت."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/maːta/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "mata"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_qwm",
+    "root": "ق و م",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "stand; rise; establish (q-w-m)",
+    "examples": [
+      {
+        "word": "قام",
+        "meaning": "he stood; he rose",
+        "sentence": "قام الطالب مبكراً."
+      },
+      {
+        "word": "يقوم",
+        "meaning": "he stands",
+        "sentence": "يقوم الرجل كل صباح."
+      },
+      {
+        "word": "مقام",
+        "meaning": "position; standing",
+        "sentence": "مقامه رفيع."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_ya", "ar_prefix_m"],
+    "pronunciationIpa": "/qaːma/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "qama"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_l3b",
+    "root": "ل ع ب",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "play (l-ʿ-b)",
+    "examples": [
+      {
+        "word": "لعب",
+        "meaning": "he played",
+        "sentence": "لعب الأطفال في الحديقة."
+      },
+      {
+        "word": "لعبة",
+        "meaning": "game; toy",
+        "sentence": "اللعبة ممتعة."
+      },
+      {
+        "word": "ملعب",
+        "meaning": "playground; stadium",
+        "sentence": "الملعب كبير."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_m", "ar_suffix_ta"],
+    "pronunciationIpa": "/laʕiba/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "laiba"
+      }
+    ]
+  },
+  {
+    "id": "ar_base_nwm",
+    "root": "ن و م",
+    "type": "base",
+    "languageOrigin": "Arabic",
+    "meaning": "sleep (n-w-m)",
+    "examples": [
+      {
+        "word": "نام",
+        "meaning": "he slept",
+        "sentence": "نام الطفل باكراً."
+      },
+      {
+        "word": "نوم",
+        "meaning": "sleep",
+        "sentence": "النوم ضروري."
+      },
+      {
+        "word": "منام",
+        "meaning": "place of sleep; dream",
+        "sentence": "المنام هادئ."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_m"],
+    "pronunciationIpa": "/naːma/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "nama"
+      }
+    ]
   }
 ]

@@ -254,5 +254,165 @@
         "ipa": "vi"
       }
     ]
+  },
+  {
+    "id": "mr_prefix_abhi",
+    "root": "अभि",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "towards; over; against",
+    "examples": [
+      {
+        "word": "अभिमान",
+        "meaning": "pride",
+        "sentence": "त्याला अभिमान आहे."
+      },
+      {
+        "word": "अभिप्राय",
+        "meaning": "opinion",
+        "sentence": "तुमचा अभिप्राय काय आहे?"
+      },
+      {
+        "word": "अभिवादन",
+        "meaning": "greeting",
+        "sentence": "त्याने अभिवादन केले."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/əbʱi/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "abhi"
+      }
+    ]
+  },
+  {
+    "id": "mr_prefix_upa",
+    "root": "उप",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "near; sub-; accessory",
+    "examples": [
+      {
+        "word": "उपयोग",
+        "meaning": "use",
+        "sentence": "हे मशीन उपयोगी आहे."
+      },
+      {
+        "word": "उपक्रम",
+        "meaning": "initiative",
+        "sentence": "हा उपक्रम चांगला आहे."
+      },
+      {
+        "word": "उपनगर",
+        "meaning": "suburb",
+        "sentence": "तो उपनगरात राहतो."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/upə/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "upa"
+      }
+    ]
+  },
+  {
+    "id": "mr_prefix_ni",
+    "root": "नि",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "down; without; into",
+    "examples": [
+      {
+        "word": "निर्धार",
+        "meaning": "determination",
+        "sentence": "निर्धार महत्त्वाचा आहे."
+      },
+      {
+        "word": "निर्विकल्प",
+        "meaning": "without doubt",
+        "sentence": "तो निर्विकल्प आहे."
+      },
+      {
+        "word": "निःशब्द",
+        "meaning": "silent",
+        "sentence": "वातावरण निःशब्द होते."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ni/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ni"
+      }
+    ]
+  },
+  {
+    "id": "mr_prefix_sam",
+    "root": "सम",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "together; equal; complete",
+    "examples": [
+      {
+        "word": "समान",
+        "meaning": "equal",
+        "sentence": "सर्व माणसे समान आहेत."
+      },
+      {
+        "word": "समर्थ",
+        "meaning": "capable",
+        "sentence": "तो खूप समर्थ आहे."
+      },
+      {
+        "word": "समाज",
+        "meaning": "society",
+        "sentence": "समाज प्रगती करतो."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/səm/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "sam"
+      }
+    ]
+  },
+  {
+    "id": "mr_prefix_ava",
+    "root": "अव",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "down; off; away",
+    "examples": [
+      {
+        "word": "अवकाश",
+        "meaning": "space; leave",
+        "sentence": "मला अवकाश हवा आहे."
+      },
+      {
+        "word": "अवतार",
+        "meaning": "incarnation",
+        "sentence": "देवाचा अवतार."
+      },
+      {
+        "word": "अवरोध",
+        "meaning": "obstacle",
+        "sentence": "अवरोध दूर करा."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/əʋə/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ava"
+      }
+    ]
   }
 ]

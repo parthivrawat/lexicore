@@ -3194,5 +3194,175 @@
       }
     ],
     "relatedRootIds": ["root_ious", "root_y"]
+  },
+  {
+    "id": "root_chron_2",
+    "root": "chron",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "time",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "krɒn"
+      },
+      {
+        "accent": "british",
+        "ipa": "krɒn"
+      },
+      {
+        "accent": "australian",
+        "ipa": "krɒn"
+      }
+    ],
+    "examples": [
+      {
+        "word": "chronology",
+        "meaning": "study of time order",
+        "sentence": "The chronology of events is clear."
+      },
+      {
+        "word": "chronic",
+        "meaning": "lasting a long time",
+        "sentence": "He has a chronic condition."
+      }
+    ],
+    "relatedRootIds": ["root_ics"]
+  },
+  {
+    "id": "root_therm",
+    "root": "therm",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "heat",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "θɜːrm"
+      },
+      {
+        "accent": "british",
+        "ipa": "θɜːm"
+      },
+      {
+        "accent": "australian",
+        "ipa": "θɜːm"
+      }
+    ],
+    "examples": [
+      {
+        "word": "thermometer",
+        "meaning": "heat measure",
+        "sentence": "The thermometer reads 30 degrees."
+      },
+      {
+        "word": "thermal",
+        "meaning": "relating to heat",
+        "sentence": "Wear thermal clothing in winter."
+      }
+    ],
+    "relatedRootIds": ["root_meter"]
+  },
+  {
+    "id": "root_hydr",
+    "root": "hydr",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "water",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "haɪdr"
+      },
+      {
+        "accent": "british",
+        "ipa": "haɪdr"
+      },
+      {
+        "accent": "australian",
+        "ipa": "haɪdr"
+      }
+    ],
+    "examples": [
+      {
+        "word": "hydrate",
+        "meaning": "combine with water",
+        "sentence": "Drink water to hydrate."
+      },
+      {
+        "word": "hydraulic",
+        "meaning": "operated by water pressure",
+        "sentence": "The hydraulic lift is powerful."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_meter",
+    "root": "meter",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "measure",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈmiːtər"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈmiːtə"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈmiːtə"
+      }
+    ],
+    "examples": [
+      {
+        "word": "thermometer",
+        "meaning": "heat measure",
+        "sentence": "The thermometer reads 30 degrees."
+      },
+      {
+        "word": "barometer",
+        "meaning": "pressure measure",
+        "sentence": "The barometer is falling."
+      }
+    ],
+    "relatedRootIds": ["root_therm"]
+  },
+  {
+    "id": "root_photo",
+    "root": "photo",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "light",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈfoʊtoʊ"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈfəʊtəʊ"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈfəʊtəʊ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "photograph",
+        "meaning": "light writing",
+        "sentence": "Take a photograph of the scene."
+      },
+      {
+        "word": "photosynthesis",
+        "meaning": "light synthesis",
+        "sentence": "Plants use photosynthesis."
+      }
+    ],
+    "relatedRootIds": ["root_graph_2"]
   }
 ]

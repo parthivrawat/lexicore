@@ -254,5 +254,165 @@
         "ipa": "arka"
       }
     ]
+  },
+  {
+    "id": "tr_prefix_dis",
+    "root": "dış-",
+    "type": "prefix",
+    "languageOrigin": "Turkic",
+    "meaning": "outside; external",
+    "examples": [
+      {
+        "word": "dış kapı",
+        "meaning": "outer door",
+        "sentence": "Dış kapı kapalı."
+      },
+      {
+        "word": "dışarı",
+        "meaning": "outside",
+        "sentence": "Dışarı çıkıyorum."
+      },
+      {
+        "word": "dış politika",
+        "meaning": "foreign policy",
+        "sentence": "Dış politika önemli."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/dɯʃ/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "dis"
+      }
+    ]
+  },
+  {
+    "id": "tr_prefix_ic",
+    "root": "iç-",
+    "type": "prefix",
+    "languageOrigin": "Turkic",
+    "meaning": "inside; internal",
+    "examples": [
+      {
+        "word": "iç kapı",
+        "meaning": "inner door",
+        "sentence": "İç kapı açık."
+      },
+      {
+        "word": "içerisi",
+        "meaning": "inside",
+        "sentence": "İçerisi sıcak."
+      },
+      {
+        "word": "iç politika",
+        "meaning": "domestic policy",
+        "sentence": "İç politika tartışılıyor."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/itʃ/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ic"
+      }
+    ]
+  },
+  {
+    "id": "tr_prefix_son",
+    "root": "son-",
+    "type": "prefix",
+    "languageOrigin": "Turkic",
+    "meaning": "end; last",
+    "examples": [
+      {
+        "word": "sonuç",
+        "meaning": "result",
+        "sentence": "Sonuç bekleniyor."
+      },
+      {
+        "word": "sonradan",
+        "meaning": "afterwards",
+        "sentence": "Sonradan anladım."
+      },
+      {
+        "word": "son dakika",
+        "meaning": "last minute",
+        "sentence": "Son dakika haberi."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/son/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "son"
+      }
+    ]
+  },
+  {
+    "id": "tr_prefix_orta",
+    "root": "orta-",
+    "type": "prefix",
+    "languageOrigin": "Turkic",
+    "meaning": "middle",
+    "examples": [
+      {
+        "word": "ortanca",
+        "meaning": "middle one",
+        "sentence": "Ortanca kardeş."
+      },
+      {
+        "word": "ortaokul",
+        "meaning": "middle school",
+        "sentence": "Ortaokul yakın."
+      },
+      {
+        "word": "ortak",
+        "meaning": "common; partner",
+        "sentence": "Ortak hedef var."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/oɾta/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "orta"
+      }
+    ]
+  },
+  {
+    "id": "tr_prefix_tek",
+    "root": "tek-",
+    "type": "prefix",
+    "languageOrigin": "Turkic",
+    "meaning": "single; one",
+    "examples": [
+      {
+        "word": "tek başına",
+        "meaning": "alone",
+        "sentence": "Tek başına gidiyor."
+      },
+      {
+        "word": "tekerlek",
+        "meaning": "wheel",
+        "sentence": "Tekerlek dönüyor."
+      },
+      {
+        "word": "teknik",
+        "meaning": "technique",
+        "sentence": "Teknik mümkün."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/tek/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "tek"
+      }
+    ]
   }
 ]

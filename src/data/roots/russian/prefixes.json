@@ -382,5 +382,165 @@
         "ipa": "s"
       }
     ]
+  },
+  {
+    "id": "ru_prefix_do",
+    "root": "до",
+    "type": "prefix",
+    "languageOrigin": "Russian",
+    "meaning": "up to; until; to completion",
+    "examples": [
+      {
+        "word": "доехать",
+        "meaning": "to reach (by vehicle)",
+        "sentence": "Я доехал до дома."
+      },
+      {
+        "word": "дочитать",
+        "meaning": "to finish reading",
+        "sentence": "Он дочитал книгу."
+      },
+      {
+        "word": "договорить",
+        "meaning": "to finish saying",
+        "sentence": "Я договорил мысль."
+      }
+    ],
+    "relatedRootIds": ["ru_base_khod", "ru_base_chit", "ru_base_govor"],
+    "pronunciationIpa": "/dɔ/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "do"
+      }
+    ]
+  },
+  {
+    "id": "ru_prefix_pri",
+    "root": "при",
+    "type": "prefix",
+    "languageOrigin": "Russian",
+    "meaning": "to; at; attach; arrival",
+    "examples": [
+      {
+        "word": "прийти",
+        "meaning": "to come; arrive",
+        "sentence": "Он пришёл вовремя."
+      },
+      {
+        "word": "приготовить",
+        "meaning": "to prepare",
+        "sentence": "Я приготовил ужин."
+      },
+      {
+        "word": "привезти",
+        "meaning": "to bring (by vehicle)",
+        "sentence": "Они привезли подарки."
+      }
+    ],
+    "relatedRootIds": ["ru_base_khod"],
+    "pronunciationIpa": "/prʲi/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "pri"
+      }
+    ]
+  },
+  {
+    "id": "ru_prefix_u",
+    "root": "у",
+    "type": "prefix",
+    "languageOrigin": "Russian",
+    "meaning": "away; off",
+    "examples": [
+      {
+        "word": "уйти",
+        "meaning": "to go away",
+        "sentence": "Я ушёл рано."
+      },
+      {
+        "word": "уехать",
+        "meaning": "to leave (by vehicle)",
+        "sentence": "Она уехала в Москву."
+      },
+      {
+        "word": "услышать",
+        "meaning": "to hear (pf.)",
+        "sentence": "Я услышал музыку."
+      }
+    ],
+    "relatedRootIds": ["ru_base_khod", "ru_base_slysh"],
+    "pronunciationIpa": "/u/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "u"
+      }
+    ]
+  },
+  {
+    "id": "ru_prefix_raz",
+    "root": "раз",
+    "type": "prefix",
+    "languageOrigin": "Russian",
+    "meaning": "apart; in different directions",
+    "examples": [
+      {
+        "word": "разбить",
+        "meaning": "to break",
+        "sentence": "Он разбил вазу."
+      },
+      {
+        "word": "разбудить",
+        "meaning": "to wake",
+        "sentence": "Я разбудил друга."
+      },
+      {
+        "word": "разделить",
+        "meaning": "to divide",
+        "sentence": "Давайте разделим работу."
+      }
+    ],
+    "relatedRootIds": ["ru_base_del"],
+    "pronunciationIpa": "/ras/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "raz"
+      }
+    ]
+  },
+  {
+    "id": "ru_prefix_ob",
+    "root": "об",
+    "type": "prefix",
+    "languageOrigin": "Russian",
+    "meaning": "around; about",
+    "examples": [
+      {
+        "word": "обойти",
+        "meaning": "to go around",
+        "sentence": "Я обошёл дом."
+      },
+      {
+        "word": "обдумать",
+        "meaning": "to think over",
+        "sentence": "Я обдумал решение."
+      },
+      {
+        "word": "объяснить",
+        "meaning": "to explain",
+        "sentence": "Он объяснил правило."
+      }
+    ],
+    "relatedRootIds": ["ru_base_khod", "ru_base_dum"],
+    "pronunciationIpa": "/ɐb/",
+    "pronunciationVariants": [
+      {
+        "accent": "russian",
+        "ipa": "ob"
+      }
+    ]
   }
 ]

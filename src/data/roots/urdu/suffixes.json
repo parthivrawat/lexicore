@@ -350,5 +350,165 @@
         "ipa": "ai"
       }
     ]
+  },
+  {
+    "id": "ur_suffix_mand",
+    "root": "مند",
+    "type": "suffix",
+    "languageOrigin": "Persian",
+    "meaning": "possessing; endowed with",
+    "examples": [
+      {
+        "word": "دانشمند",
+        "meaning": "wise",
+        "sentence": "وہ دانشمند آدمی ہے۔"
+      },
+      {
+        "word": "قدرتمند",
+        "meaning": "powerful",
+        "sentence": "وہ قدرتمند ہے۔"
+      },
+      {
+        "word": "عزتمند",
+        "meaning": "honorable",
+        "sentence": "وہ عزتمند شخص ہے۔"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/mənd/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "mand"
+      }
+    ]
+  },
+  {
+    "id": "ur_suffix_baz",
+    "root": "باز",
+    "type": "suffix",
+    "languageOrigin": "Persian",
+    "meaning": "again; re-",
+    "examples": [
+      {
+        "word": "بازگشت",
+        "meaning": "return",
+        "sentence": "بازگشت کا وقت ہے۔"
+      },
+      {
+        "word": "بازپرس",
+        "meaning": "inquiry",
+        "sentence": "بازپرس جاری ہے۔"
+      },
+      {
+        "word": "بازآمد",
+        "meaning": "coming back",
+        "sentence": "اس کی بازآمد خوش آئند ہے۔"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/baːz/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "baz"
+      }
+    ]
+  },
+  {
+    "id": "ur_suffix_nama",
+    "root": "نامہ",
+    "type": "suffix",
+    "languageOrigin": "Persian",
+    "meaning": "letter; document; register",
+    "examples": [
+      {
+        "word": "خبرنامہ",
+        "meaning": "newspaper",
+        "sentence": "خبرنامہ پڑھو۔"
+      },
+      {
+        "word": "شکایتنامہ",
+        "meaning": "petition; complaint",
+        "sentence": "اس نے شکایتنامہ دیا۔"
+      },
+      {
+        "word": "دستخطنامہ",
+        "meaning": "signed document",
+        "sentence": "دستخطنامہ تیار ہے۔"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/naːmə/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "nama"
+      }
+    ]
+  },
+  {
+    "id": "ur_suffix_khana",
+    "root": "خانہ",
+    "type": "suffix",
+    "languageOrigin": "Persian",
+    "meaning": "place; house; repository",
+    "examples": [
+      {
+        "word": "کتابخانہ",
+        "meaning": "library",
+        "sentence": "کتابخانہ میں پڑھو۔"
+      },
+      {
+        "word": "دواخانہ",
+        "meaning": "hospital",
+        "sentence": "دواخانہ ساف ہے۔"
+      },
+      {
+        "word": "اشیاخانہ",
+        "meaning": "store room",
+        "sentence": "اشیاخانہ بھرا ہوا ہے۔"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/xaːna/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "khana"
+      }
+    ]
+  },
+  {
+    "id": "ur_suffix_dan",
+    "root": "دان",
+    "type": "suffix",
+    "languageOrigin": "Persian",
+    "meaning": "knower; expert; holder",
+    "examples": [
+      {
+        "word": "ہنردان",
+        "meaning": "expert; connoisseur",
+        "sentence": "وہ موسیقی کا ہنردان ہے۔"
+      },
+      {
+        "word": "داندان",
+        "meaning": "knowledgeable",
+        "sentence": "وہ بہت داندان ہے۔"
+      },
+      {
+        "word": "زبان دان",
+        "meaning": "linguist",
+        "sentence": "وہ زبان دان ہے۔"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/daːn/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "dan"
+      }
+    ]
   }
 ]

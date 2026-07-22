@@ -254,5 +254,165 @@
         "ipa": "an"
       }
     ]
+  },
+  {
+    "id": "ur_prefix_ba",
+    "root": "با",
+    "type": "prefix",
+    "languageOrigin": "Persian",
+    "meaning": "with; possessing; having",
+    "examples": [
+      {
+        "word": "بااختیار",
+        "meaning": "authorized",
+        "sentence": "وہ بااختیار اہلکار ہے۔"
+      },
+      {
+        "word": "باتعلق",
+        "meaning": "related",
+        "sentence": "یہ باتعلق معلومات ہیں۔"
+      },
+      {
+        "word": "باکمال",
+        "meaning": "perfect",
+        "sentence": "یہ کام باکمال ہے۔"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/baː/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "ba"
+      }
+    ]
+  },
+  {
+    "id": "ur_prefix_besh",
+    "root": "بیش",
+    "type": "prefix",
+    "languageOrigin": "Persian",
+    "meaning": "more; excessive",
+    "examples": [
+      {
+        "word": "بیشمار",
+        "meaning": "countless",
+        "sentence": "اس کے بیشمار فوائد ہیں۔"
+      },
+      {
+        "word": "بیشتر",
+        "meaning": "most; mostly",
+        "sentence": "بیشتر لوگ آ گئے۔"
+      },
+      {
+        "word": "بیش بہا",
+        "meaning": "priceless",
+        "sentence": "یہ تحفہ بیش بہا ہے۔"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/beːʃ/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "besh"
+      }
+    ]
+  },
+  {
+    "id": "ur_prefix_kam",
+    "root": "کم",
+    "type": "prefix",
+    "languageOrigin": "Persian",
+    "meaning": "less; little",
+    "examples": [
+      {
+        "word": "کمزور",
+        "meaning": "weak",
+        "sentence": "وہ کمزور ہے۔"
+      },
+      {
+        "word": "کمینہ",
+        "meaning": "mean; lowly",
+        "sentence": "وہ کمینہ آدمی ہے۔"
+      },
+      {
+        "word": "کم عمر",
+        "meaning": "young",
+        "sentence": "یہ بچہ کم عمر ہے۔"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/kəm/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "kam"
+      }
+    ]
+  },
+  {
+    "id": "ur_prefix_har",
+    "root": "ہر",
+    "type": "prefix",
+    "languageOrigin": "Persian",
+    "meaning": "every; each",
+    "examples": [
+      {
+        "word": "ہرروز",
+        "meaning": "every day",
+        "sentence": "وہ ہرروز آتا ہے۔"
+      },
+      {
+        "word": "ہرگز",
+        "meaning": "never",
+        "sentence": "میں ہرگز نہیں بھولوں گا۔"
+      },
+      {
+        "word": "ہرچند",
+        "meaning": "although",
+        "sentence": "ہرچند وہ آیا، پھر بھی دیر ہو گئی۔"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/həɾ/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "har"
+      }
+    ]
+  },
+  {
+    "id": "ur_prefix_khub",
+    "root": "خوب",
+    "type": "prefix",
+    "languageOrigin": "Persian",
+    "meaning": "good; well; very",
+    "examples": [
+      {
+        "word": "خوبصورت",
+        "meaning": "beautiful",
+        "sentence": "یہ منظر خوبصورت ہے۔"
+      },
+      {
+        "word": "خوبرو",
+        "meaning": "beautiful-faced",
+        "sentence": "وہ خوبرو لڑکی ہے۔"
+      },
+      {
+        "word": "خوبی",
+        "meaning": "goodness",
+        "sentence": "اس کی خوبی یہ ہے کہ وہ ایماندار ہے۔"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/xuːb/",
+    "pronunciationVariants": [
+      {
+        "accent": "urdu",
+        "ipa": "khub"
+      }
+    ]
   }
 ]

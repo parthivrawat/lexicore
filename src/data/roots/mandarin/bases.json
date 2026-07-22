@@ -1054,5 +1054,165 @@
         "ipa": "xie3"
       }
     ]
+  },
+  {
+    "id": "zh_base_yi",
+    "root": "意",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "meaning; idea; intent",
+    "examples": [
+      {
+        "word": "意思",
+        "meaning": "meaning",
+        "sentence": "这个词是什么意思？"
+      },
+      {
+        "word": "满意",
+        "meaning": "satisfied",
+        "sentence": "我对结果很满意。"
+      },
+      {
+        "word": "注意",
+        "meaning": "pay attention",
+        "sentence": "请注意安全。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_xin"],
+    "pronunciationIpa": "/i⁵¹/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "yi4"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_yu",
+    "root": "语",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "language; speech",
+    "examples": [
+      {
+        "word": "语言",
+        "meaning": "language",
+        "sentence": "语言是交流的工具。"
+      },
+      {
+        "word": "汉语",
+        "meaning": "Chinese language",
+        "sentence": "我在学习汉语。"
+      },
+      {
+        "word": "英语",
+        "meaning": "English",
+        "sentence": "他会说英语。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_hua"],
+    "pronunciationIpa": "/y²¹⁴/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "yu3"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_jian",
+    "root": "见",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "see; perceive; meet",
+    "examples": [
+      {
+        "word": "看见",
+        "meaning": "see",
+        "sentence": "我看见一只鸟。"
+      },
+      {
+        "word": "听见",
+        "meaning": "hear",
+        "sentence": "我听见你的声音。"
+      },
+      {
+        "word": "见面",
+        "meaning": "meet",
+        "sentence": "我们明天见面。"
+      }
+    ],
+    "relatedRootIds": ["zh_base_kan", "zh_base_ting"],
+    "pronunciationIpa": "/tɕi̯ɛn⁵¹/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "jian4"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_li",
+    "root": "力",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "power; strength; force",
+    "examples": [
+      {
+        "word": "力量",
+        "meaning": "strength; power",
+        "sentence": "团结就是力量。"
+      },
+      {
+        "word": "努力",
+        "meaning": "effort; hard work",
+        "sentence": "你要努力学习。"
+      },
+      {
+        "word": "能力",
+        "meaning": "ability",
+        "sentence": "他有能力完成。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/li⁵¹/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "li4"
+      }
+    ]
+  },
+  {
+    "id": "zh_base_qi",
+    "root": "气",
+    "type": "base",
+    "languageOrigin": "Chinese",
+    "meaning": "air; gas; energy; spirit",
+    "examples": [
+      {
+        "word": "天气",
+        "meaning": "weather",
+        "sentence": "今天天气很好。"
+      },
+      {
+        "word": "生气",
+        "meaning": "angry",
+        "sentence": "不要生气。"
+      },
+      {
+        "word": "空气",
+        "meaning": "air",
+        "sentence": "这里的空气很新鲜。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/tɕʰi⁵¹/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "qi4"
+      }
+    ]
   }
 ]

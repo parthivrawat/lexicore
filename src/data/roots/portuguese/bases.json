@@ -862,5 +862,165 @@
         "ipa": "labor"
       }
     ]
+  },
+  {
+    "id": "pt_base_cant",
+    "root": "cant-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "sing",
+    "examples": [
+      {
+        "word": "cantar",
+        "meaning": "to sing",
+        "sentence": "Vou cantar uma canção."
+      },
+      {
+        "word": "canto",
+        "meaning": "song; singing",
+        "sentence": "O canto é lindo."
+      },
+      {
+        "word": "cantor",
+        "meaning": "singer",
+        "sentence": "O cantor é famoso."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_dor", "pt_suffix_ar"],
+    "pronunciationIpa": "/kɐ̃t/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "cant"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_curr",
+    "root": "curr-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "run",
+    "examples": [
+      {
+        "word": "correr",
+        "meaning": "to run",
+        "sentence": "Vou correr no parque."
+      },
+      {
+        "word": "corrente",
+        "meaning": "current; chain",
+        "sentence": "A corrente é forte."
+      },
+      {
+        "word": "ocorrer",
+        "meaning": "to occur",
+        "sentence": "Pode ocorrer um erro."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_ente"],
+    "pronunciationIpa": "/kuʁ/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "curr"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_cresc",
+    "root": "cresc-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "grow",
+    "examples": [
+      {
+        "word": "crescer",
+        "meaning": "to grow",
+        "sentence": "As crianças crescem rápido."
+      },
+      {
+        "word": "crescimento",
+        "meaning": "growth",
+        "sentence": "O crescimento é evidente."
+      },
+      {
+        "word": "crescente",
+        "meaning": "growing; crescent",
+        "sentence": "A lua é crescente."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_mento", "pt_suffix_ente"],
+    "pronunciationIpa": "/kɾɛsk/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "cresc"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_cred",
+    "root": "cred-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "believe; trust",
+    "examples": [
+      {
+        "word": "crer",
+        "meaning": "to believe",
+        "sentence": "Eu creio em você."
+      },
+      {
+        "word": "crédito",
+        "meaning": "credit",
+        "sentence": "O crédito foi aprovado."
+      },
+      {
+        "word": "incrível",
+        "meaning": "incredible",
+        "sentence": "A vista é incrível."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_avel"],
+    "pronunciationIpa": "/kɾɛd/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "cred"
+      }
+    ]
+  },
+  {
+    "id": "pt_base_ped",
+    "root": "ped-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "foot",
+    "examples": [
+      {
+        "word": "pé",
+        "meaning": "foot",
+        "sentence": "Meu pé dói."
+      },
+      {
+        "word": "pedal",
+        "meaning": "pedal",
+        "sentence": "O pedal da bicicleta quebrou."
+      },
+      {
+        "word": "pedestre",
+        "meaning": "pedestrian",
+        "sentence": "O pedestre atravessa a rua."
+      }
+    ],
+    "relatedRootIds": ["pt_suffix_ente"],
+    "pronunciationIpa": "/pɛd/",
+    "pronunciationVariants": [
+      {
+        "accent": "portuguese",
+        "ipa": "ped"
+      }
+    ]
   }
 ]

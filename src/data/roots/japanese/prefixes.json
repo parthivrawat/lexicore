@@ -254,5 +254,165 @@
         "ipa": "o"
       }
     ]
+  },
+  {
+    "id": "ja_prefix_dai",
+    "root": "大",
+    "type": "prefix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "big; great",
+    "examples": [
+      {
+        "word": "大学",
+        "meaning": "university",
+        "sentence": "大学に行く。"
+      },
+      {
+        "word": "大切",
+        "meaning": "important",
+        "sentence": "これは大切なものだ。"
+      },
+      {
+        "word": "大成功",
+        "meaning": "great success",
+        "sentence": "大成功を収めた。"
+      }
+    ],
+    "relatedRootIds": ["ja_base_gaku"],
+    "pronunciationIpa": "/dai/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "dai"
+      }
+    ]
+  },
+  {
+    "id": "ja_prefix_shou",
+    "root": "小",
+    "type": "prefix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "small; little",
+    "examples": [
+      {
+        "word": "小学校",
+        "meaning": "elementary school",
+        "sentence": "小学校の先生だ。"
+      },
+      {
+        "word": "小型",
+        "meaning": "small-sized",
+        "sentence": "小型のカメラだ。"
+      },
+      {
+        "word": "小説",
+        "meaning": "novel",
+        "sentence": "小説を読む。"
+      }
+    ],
+    "relatedRootIds": ["ja_base_gaku"],
+    "pronunciationIpa": "/ɕoː/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "shou"
+      }
+    ]
+  },
+  {
+    "id": "ja_prefix_zen",
+    "root": "全",
+    "type": "prefix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "all; whole",
+    "examples": [
+      {
+        "word": "全部",
+        "meaning": "all",
+        "sentence": "全部食べた。"
+      },
+      {
+        "word": "全国",
+        "meaning": "whole country",
+        "sentence": "全国に店がある。"
+      },
+      {
+        "word": "全員",
+        "meaning": "all members",
+        "sentence": "全員が出席した。"
+      }
+    ],
+    "relatedRootIds": ["ja_suffix_in"],
+    "pronunciationIpa": "/zeɴ/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "zen"
+      }
+    ]
+  },
+  {
+    "id": "ja_prefix_sai_most",
+    "root": "最",
+    "type": "prefix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "most; -est",
+    "examples": [
+      {
+        "word": "最高",
+        "meaning": "best; highest",
+        "sentence": "気分が最高だ。"
+      },
+      {
+        "word": "最新",
+        "meaning": "newest",
+        "sentence": "最新のニュースだ。"
+      },
+      {
+        "word": "最後",
+        "meaning": "last",
+        "sentence": "最後の問題だ。"
+      }
+    ],
+    "relatedRootIds": ["ja_base_kou"],
+    "pronunciationIpa": "/sai/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "sai"
+      }
+    ]
+  },
+  {
+    "id": "ja_prefix_han_half",
+    "root": "半",
+    "type": "prefix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "half; semi",
+    "examples": [
+      {
+        "word": "半分",
+        "meaning": "half",
+        "sentence": "半分食べた。"
+      },
+      {
+        "word": "半年",
+        "meaning": "half a year",
+        "sentence": "半年が経った。"
+      },
+      {
+        "word": "半額",
+        "meaning": "half price",
+        "sentence": "半額で買った。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/haɴ/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "han"
+      }
+    ]
   }
 ]

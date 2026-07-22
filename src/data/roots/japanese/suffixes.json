@@ -318,5 +318,165 @@
         "ipa": "ya"
       }
     ]
+  },
+  {
+    "id": "ja_suffix_chuu",
+    "root": "中",
+    "type": "suffix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "during; throughout; in",
+    "examples": [
+      {
+        "word": "会議中",
+        "meaning": "in a meeting",
+        "sentence": "会議中です。"
+      },
+      {
+        "word": "日本中",
+        "meaning": "all over Japan",
+        "sentence": "日本中を旅行する。"
+      },
+      {
+        "word": "一年中",
+        "meaning": "all year round",
+        "sentence": "一年中働く。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/tɕuː/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "chuu"
+      }
+    ]
+  },
+  {
+    "id": "ja_suffix_zen",
+    "root": "前",
+    "type": "suffix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "before; in front of",
+    "examples": [
+      {
+        "word": "名前",
+        "meaning": "name",
+        "sentence": "名前を書く。"
+      },
+      {
+        "word": "午前",
+        "meaning": "morning; a.m.",
+        "sentence": "午前中に会う。"
+      },
+      {
+        "word": "食前",
+        "meaning": "before a meal",
+        "sentence": "食前に薬を飲む。"
+      }
+    ],
+    "relatedRootIds": ["ja_suffix_chuu"],
+    "pronunciationIpa": "/zeɴ/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "zen"
+      }
+    ]
+  },
+  {
+    "id": "ja_suffix_kou",
+    "root": "後",
+    "type": "suffix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "after; behind",
+    "examples": [
+      {
+        "word": "午後",
+        "meaning": "afternoon; p.m.",
+        "sentence": "午後に出かける。"
+      },
+      {
+        "word": "食後",
+        "meaning": "after a meal",
+        "sentence": "食後にコーヒーを飲む。"
+      },
+      {
+        "word": "最後",
+        "meaning": "last; end",
+        "sentence": "最後まで頑張る。"
+      }
+    ],
+    "relatedRootIds": ["ja_suffix_zen"],
+    "pronunciationIpa": "/koː/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "kou"
+      }
+    ]
+  },
+  {
+    "id": "ja_suffix_ten",
+    "root": "店",
+    "type": "suffix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "shop; store",
+    "examples": [
+      {
+        "word": "喫茶店",
+        "meaning": "coffee shop",
+        "sentence": "喫茶店で休む。"
+      },
+      {
+        "word": "書店",
+        "meaning": "bookstore",
+        "sentence": "書店で本を買う。"
+      },
+      {
+        "word": "薬店",
+        "meaning": "pharmacy",
+        "sentence": "薬店で薬を買う。"
+      }
+    ],
+    "relatedRootIds": ["ja_suffix_ya"],
+    "pronunciationIpa": "/teɴ/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "ten"
+      }
+    ]
+  },
+  {
+    "id": "ja_suffix_in",
+    "root": "員",
+    "type": "suffix",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "member; staff",
+    "examples": [
+      {
+        "word": "会員",
+        "meaning": "member",
+        "sentence": "会員になった。"
+      },
+      {
+        "word": "全員",
+        "meaning": "all members",
+        "sentence": "全員が集まった。"
+      },
+      {
+        "word": "店員",
+        "meaning": "shop clerk",
+        "sentence": "店員に聞いた。"
+      }
+    ],
+    "relatedRootIds": ["ja_suffix_ya", "ja_suffix_ten"],
+    "pronunciationIpa": "/iɴ/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "in"
+      }
+    ]
   }
 ]

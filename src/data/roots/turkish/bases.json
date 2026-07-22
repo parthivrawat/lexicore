@@ -740,5 +740,165 @@
         "ipa": "dinle"
       }
     ]
+  },
+  {
+    "id": "tr_base_ol",
+    "root": "ol",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "be; become",
+    "examples": [
+      {
+        "word": "olmak",
+        "meaning": "to be; to become",
+        "sentence": "Doktor olmak istiyorum."
+      },
+      {
+        "word": "oluş",
+        "meaning": "formation",
+        "sentence": "Oluş hızlı oldu."
+      },
+      {
+        "word": "olan",
+        "meaning": "existing; what is",
+        "sentence": "Olanları unut."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_en"],
+    "pronunciationIpa": "/oɫ/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "ol"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_et",
+    "root": "et",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "do; make",
+    "examples": [
+      {
+        "word": "etmek",
+        "meaning": "to do; to make",
+        "sentence": "Yardım et."
+      },
+      {
+        "word": "etki",
+        "meaning": "effect",
+        "sentence": "Etki büyük."
+      },
+      {
+        "word": "etken",
+        "meaning": "factor",
+        "sentence": "Etken belirsiz."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_en"],
+    "pronunciationIpa": "/et/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "et"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_kos",
+    "root": "koş",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "run",
+    "examples": [
+      {
+        "word": "koşmak",
+        "meaning": "to run",
+        "sentence": "Her sabah koşuyorum."
+      },
+      {
+        "word": "koşu",
+        "meaning": "running race",
+        "sentence": "Koşu başladı."
+      },
+      {
+        "word": "koşan",
+        "meaning": "runner",
+        "sentence": "Koşan hızlı."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_en"],
+    "pronunciationIpa": "/koʃ/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "kos"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_yat",
+    "root": "yat",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "lie down; sleep",
+    "examples": [
+      {
+        "word": "yatmak",
+        "meaning": "to lie down; to sleep",
+        "sentence": "Yatakta yatıyor."
+      },
+      {
+        "word": "yatak",
+        "meaning": "bed",
+        "sentence": "Yatak rahat."
+      },
+      {
+        "word": "yatan",
+        "meaning": "one who lies",
+        "sentence": "Yatan hasta."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_en"],
+    "pronunciationIpa": "/jat/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "yat"
+      }
+    ]
+  },
+  {
+    "id": "tr_base_bak",
+    "root": "bak",
+    "type": "base",
+    "languageOrigin": "Turkic",
+    "meaning": "look",
+    "examples": [
+      {
+        "word": "bakmak",
+        "meaning": "to look",
+        "sentence": "Pencereden bakıyorum."
+      },
+      {
+        "word": "bakış",
+        "meaning": "glance",
+        "sentence": "Bakış anlamlı."
+      },
+      {
+        "word": "bakan",
+        "meaning": "one who looks",
+        "sentence": "Bakan memur."
+      }
+    ],
+    "relatedRootIds": ["tr_suffix_mek", "tr_suffix_en"],
+    "pronunciationIpa": "/bak/",
+    "pronunciationVariants": [
+      {
+        "accent": "turkish",
+        "ipa": "bak"
+      }
+    ]
   }
 ]

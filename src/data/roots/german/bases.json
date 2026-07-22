@@ -734,5 +734,165 @@
         "ipa": "trag"
       }
     ]
+  },
+  {
+    "id": "de_base_frag",
+    "root": "frag",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "ask",
+    "examples": [
+      {
+        "word": "fragen",
+        "meaning": "to ask",
+        "sentence": "Ich frage dich."
+      },
+      {
+        "word": "Frage",
+        "meaning": "question",
+        "sentence": "Ich habe eine Frage."
+      },
+      {
+        "word": "befragen",
+        "meaning": "to question",
+        "sentence": "Die Polizei befragt Zeugen."
+      }
+    ],
+    "relatedRootIds": ["de_prefix_be"],
+    "pronunciationIpa": "/fʁaːk/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "frag"
+      }
+    ]
+  },
+  {
+    "id": "de_base_helf",
+    "root": "helf",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "help",
+    "examples": [
+      {
+        "word": "helfen",
+        "meaning": "to help",
+        "sentence": "Kannst du mir helfen?"
+      },
+      {
+        "word": "Hilfe",
+        "meaning": "help",
+        "sentence": "Ich brauche Hilfe."
+      },
+      {
+        "word": "helfend",
+        "meaning": "helping",
+        "sentence": "Er ist eine helfende Hand."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/hɛlf/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "helf"
+      }
+    ]
+  },
+  {
+    "id": "de_base_wohn",
+    "root": "wohn",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "live; reside",
+    "examples": [
+      {
+        "word": "wohnen",
+        "meaning": "to live",
+        "sentence": "Ich wohne in Berlin."
+      },
+      {
+        "word": "Wohnung",
+        "meaning": "apartment",
+        "sentence": "Die Wohnung ist klein."
+      },
+      {
+        "word": "Mitbewohner",
+        "meaning": "roommate",
+        "sentence": "Mein Mitbewohner ist nett."
+      }
+    ],
+    "relatedRootIds": ["de_suffix_ung", "de_prefix_mit"],
+    "pronunciationIpa": "/voːn/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "wohn"
+      }
+    ]
+  },
+  {
+    "id": "de_base_lauf",
+    "root": "lauf",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "run; walk",
+    "examples": [
+      {
+        "word": "laufen",
+        "meaning": "to run; to walk",
+        "sentence": "Ich laufe jeden Tag."
+      },
+      {
+        "word": "Lauf",
+        "meaning": "run; course",
+        "sentence": "Der Lauf dauert zehn Minuten."
+      },
+      {
+        "word": "ablaufen",
+        "meaning": "to expire; run off",
+        "sentence": "Die Frist läuft ab."
+      }
+    ],
+    "relatedRootIds": ["de_prefix_ab"],
+    "pronunciationIpa": "/laʊ̯f/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "lauf"
+      }
+    ]
+  },
+  {
+    "id": "de_base_find",
+    "root": "find",
+    "type": "base",
+    "languageOrigin": "Germanic",
+    "meaning": "find",
+    "examples": [
+      {
+        "word": "finden",
+        "meaning": "to find",
+        "sentence": "Ich finde meinen Schlüssel."
+      },
+      {
+        "word": "Fund",
+        "meaning": "find; finding",
+        "sentence": "Der Fund ist wichtig."
+      },
+      {
+        "word": "befinden",
+        "meaning": "to be located",
+        "sentence": "Wo befindet sich das Hotel?"
+      }
+    ],
+    "relatedRootIds": ["de_prefix_be"],
+    "pronunciationIpa": "/fɪnt/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "find"
+      }
+    ]
   }
 ]

@@ -254,5 +254,165 @@
         "ipa": "yukta"
       }
     ]
+  },
+  {
+    "id": "mr_suffix_ta",
+    "root": "ता",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "-ness; state; quality",
+    "examples": [
+      {
+        "word": "महानता",
+        "meaning": "greatness",
+        "sentence": "त्याच्या महानतेची प्रशंसा करा."
+      },
+      {
+        "word": "मित्रता",
+        "meaning": "friendship",
+        "sentence": "आमच्यात मित्रता आहे."
+      },
+      {
+        "word": "शक्तिमत्ता",
+        "meaning": "powerfulness",
+        "sentence": "त्याची शक्तिमत्ता दिसते."
+      }
+    ],
+    "relatedRootIds": ["mr_suffix_pana"],
+    "pronunciationIpa": "/taː/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "ta"
+      }
+    ]
+  },
+  {
+    "id": "mr_suffix_tva",
+    "root": "त्व",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "-ness; -ity",
+    "examples": [
+      {
+        "word": "मित्रत्व",
+        "meaning": "friendship",
+        "sentence": "मित्रत्व पवित्र आहे."
+      },
+      {
+        "word": "सत्यत्व",
+        "meaning": "truthfulness",
+        "sentence": "त्याच्या बोलण्यात सत्यत्व आहे."
+      },
+      {
+        "word": "निर्मळत्व",
+        "meaning": "purity",
+        "sentence": "पाण्याचे निर्मळत्व महत्त्वाचे."
+      }
+    ],
+    "relatedRootIds": ["mr_suffix_ta"],
+    "pronunciationIpa": "/tʋə/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "tva"
+      }
+    ]
+  },
+  {
+    "id": "mr_suffix_i",
+    "root": "ई",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "feminine; abstract noun",
+    "examples": [
+      {
+        "word": "मित्राई",
+        "meaning": "female friend; friendship",
+        "sentence": "त्यांची मित्राई जुनी आहे."
+      },
+      {
+        "word": "देवी",
+        "meaning": "goddess",
+        "sentence": "देवीची आराधना करा."
+      },
+      {
+        "word": "नदी",
+        "meaning": "river",
+        "sentence": "नदी स्वच्छ आहे."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/iː/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "i"
+      }
+    ]
+  },
+  {
+    "id": "mr_suffix_kar",
+    "root": "कर",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "doer; maker",
+    "examples": [
+      {
+        "word": "कारक",
+        "meaning": "doer; factor",
+        "sentence": "हे कारक महत्त्वाचे आहे."
+      },
+      {
+        "word": "धनुर्धारक",
+        "meaning": "archer",
+        "sentence": "धनुर्धारक लक्ष्य भेदतो."
+      },
+      {
+        "word": "आरोपक",
+        "meaning": "accuser",
+        "sentence": "आरोपक कोर्टात उपस्थित."
+      }
+    ],
+    "relatedRootIds": ["mr_base_kar"],
+    "pronunciationIpa": "/kər/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "kar"
+      }
+    ]
+  },
+  {
+    "id": "mr_suffix_gar",
+    "root": "गार",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "worker; doer",
+    "examples": [
+      {
+        "word": "कामगार",
+        "meaning": "worker",
+        "sentence": "कामगार मेहनती आहेत."
+      },
+      {
+        "word": "भूमिपुत्र",
+        "meaning": "son of the soil",
+        "sentence": "तो खरा भूमिपुत्र आहे."
+      },
+      {
+        "word": "मजूर",
+        "meaning": "labourer",
+        "sentence": "मजूर काम करतो."
+      }
+    ],
+    "relatedRootIds": ["mr_base_kam"],
+    "pronunciationIpa": "/gaːr/",
+    "pronunciationVariants": [
+      {
+        "accent": "marathi",
+        "ipa": "gar"
+      }
+    ]
   }
 ]

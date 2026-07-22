@@ -798,5 +798,169 @@
         "ipa": "un"
       }
     ]
+  },
+  {
+    "id": "ja_base_den",
+    "root": "電",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "electricity",
+    "examples": [
+      {
+        "word": "電話",
+        "meaning": "telephone",
+        "sentence": "電話をかける。"
+      },
+      {
+        "word": "電車",
+        "meaning": "train",
+        "sentence": "電車で行く。"
+      },
+      {
+        "word": "電気",
+        "meaning": "electricity",
+        "sentence": "電気を消す。"
+      }
+    ],
+    "relatedRootIds": ["ja_base_wa"],
+    "pronunciationIpa": "/deɴ/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "den"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_yama",
+    "root": "山",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "mountain",
+    "examples": [
+      {
+        "word": "山",
+        "meaning": "mountain",
+        "sentence": "山に登る。"
+      },
+      {
+        "word": "火山",
+        "meaning": "volcano",
+        "sentence": "火山が噴火した。"
+      },
+      {
+        "word": "山田",
+        "meaning": "Yamada (surname)",
+        "sentence": "山田さんは友達だ。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/sɑɴ/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "san"
+      },
+      {
+        "accent": "japanese",
+        "ipa": "yama"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_te",
+    "root": "手",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "hand",
+    "examples": [
+      {
+        "word": "手",
+        "meaning": "hand",
+        "sentence": "手を洗う。"
+      },
+      {
+        "word": "手紙",
+        "meaning": "letter",
+        "sentence": "手紙を書く。"
+      },
+      {
+        "word": "上手",
+        "meaning": "skillful",
+        "sentence": "彼は上手だ。"
+      }
+    ],
+    "relatedRootIds": ["ja_base_sho"],
+    "pronunciationIpa": "/te/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "te"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_kokoro",
+    "root": "心",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "heart; mind",
+    "examples": [
+      {
+        "word": "心",
+        "meaning": "heart; mind",
+        "sentence": "心が温まる。"
+      },
+      {
+        "word": "心配",
+        "meaning": "worry",
+        "sentence": "心配しないで。"
+      },
+      {
+        "word": "安心",
+        "meaning": "relief",
+        "sentence": "安心した。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/kokoro/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "kokoro"
+      }
+    ]
+  },
+  {
+    "id": "ja_base_hito",
+    "root": "人",
+    "type": "base",
+    "languageOrigin": "Sino-Japanese",
+    "meaning": "person; people",
+    "examples": [
+      {
+        "word": "人",
+        "meaning": "person",
+        "sentence": "人が多い。"
+      },
+      {
+        "word": "人口",
+        "meaning": "population",
+        "sentence": "人口が増える。"
+      },
+      {
+        "word": "人気",
+        "meaning": "popularity",
+        "sentence": "人気がある。"
+      }
+    ],
+    "relatedRootIds": ["ja_suffix_jin"],
+    "pronunciationIpa": "/çito/",
+    "pronunciationVariants": [
+      {
+        "accent": "japanese",
+        "ipa": "hito"
+      }
+    ]
   }
 ]

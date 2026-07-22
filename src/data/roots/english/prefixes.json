@@ -2766,5 +2766,175 @@
       }
     ],
     "relatedRootIds": []
+  },
+  {
+    "id": "root_ambi",
+    "root": "ambi-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "both, around",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈæmbi"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈæmbi"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈæmbi"
+      }
+    ],
+    "examples": [
+      {
+        "word": "ambiguous",
+        "meaning": "open to more than one interpretation",
+        "sentence": "The sentence is ambiguous."
+      },
+      {
+        "word": "ambidextrous",
+        "meaning": "able to use both hands",
+        "sentence": "She is ambidextrous."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_ante",
+    "root": "ante-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "before",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈænti"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈænti"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈænti"
+      }
+    ],
+    "examples": [
+      {
+        "word": "antebellum",
+        "meaning": "before the war",
+        "sentence": "The antebellum mansion was restored."
+      },
+      {
+        "word": "antecedent",
+        "meaning": "going before",
+        "sentence": "The antecedent events shaped history."
+      }
+    ],
+    "relatedRootIds": ["root_pre"]
+  },
+  {
+    "id": "root_counter",
+    "root": "counter-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "against, opposite",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈkaʊntər"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈkaʊntər"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈkaʊntər"
+      }
+    ],
+    "examples": [
+      {
+        "word": "counteract",
+        "meaning": "act against",
+        "sentence": "We must counteract the effects."
+      },
+      {
+        "word": "counterpart",
+        "meaning": "matching opposite",
+        "sentence": "She met her counterpart in London."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_epi",
+    "root": "epi-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "upon, above, beside",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈɛpi"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈɛpi"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈɛpi"
+      }
+    ],
+    "examples": [
+      {
+        "word": "epidermis",
+        "meaning": "upon the skin",
+        "sentence": "The epidermis protects the body."
+      },
+      {
+        "word": "epitaph",
+        "meaning": "upon the tomb",
+        "sentence": "The epitaph was beautifully written."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_hemi",
+    "root": "hemi-",
+    "type": "prefix",
+    "languageOrigin": "Greek",
+    "meaning": "half",
+    "pronunciationVariants": [
+      {
+        "accent": "american",
+        "ipa": "ˈhɛmi"
+      },
+      {
+        "accent": "british",
+        "ipa": "ˈhɛmi"
+      },
+      {
+        "accent": "australian",
+        "ipa": "ˈhɛmi"
+      }
+    ],
+    "examples": [
+      {
+        "word": "hemisphere",
+        "meaning": "half of a sphere",
+        "sentence": "Earth has two hemispheres."
+      },
+      {
+        "word": "hemiplegia",
+        "meaning": "paralysis of half the body",
+        "sentence": "Hemiplegia affects one side."
+      }
+    ],
+    "relatedRootIds": ["root_semi"]
   }
 ]

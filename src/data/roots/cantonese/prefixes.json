@@ -254,5 +254,165 @@
         "ipa": "zi6"
       }
     ]
+  },
+  {
+    "id": "yue_prefix_mou5",
+    "root": "冇",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "to not have (negative possessive/perfect)",
+    "examples": [
+      {
+        "word": "冇錢",
+        "meaning": "no money",
+        "sentence": "我冇錢。"
+      },
+      {
+        "word": "冇去",
+        "meaning": "didn't go",
+        "sentence": "佢冇去。"
+      },
+      {
+        "word": "冇食",
+        "meaning": "didn't eat",
+        "sentence": "我冇食早餐。"
+      }
+    ],
+    "relatedRootIds": ["yue_base_sik6", "yue_base_heoi3"],
+    "pronunciationIpa": "/mou/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "mou5"
+      }
+    ]
+  },
+  {
+    "id": "yue_prefix_hai6",
+    "root": "係",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "to be (copula/cleft marker)",
+    "examples": [
+      {
+        "word": "係我",
+        "meaning": "it's me",
+        "sentence": "呢個係我。"
+      },
+      {
+        "word": "係你",
+        "meaning": "it's you",
+        "sentence": "係你呀？"
+      },
+      {
+        "word": "係佢",
+        "meaning": "it's him/her",
+        "sentence": "係佢講嘅。"
+      }
+    ],
+    "relatedRootIds": ["yue_base_gong2"],
+    "pronunciationIpa": "/hai/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "hai6"
+      }
+    ]
+  },
+  {
+    "id": "yue_prefix_ho2",
+    "root": "可",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "can; possible; -able",
+    "examples": [
+      {
+        "word": "可以",
+        "meaning": "can; may",
+        "sentence": "我可以去。"
+      },
+      {
+        "word": "可能",
+        "meaning": "possible",
+        "sentence": "佢可能會嚟。"
+      },
+      {
+        "word": "可笑",
+        "meaning": "ridiculous",
+        "sentence": "呢件事好可笑。"
+      }
+    ],
+    "relatedRootIds": ["yue_base_heoi3", "yue_base_lai4"],
+    "pronunciationIpa": "/hɔ/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "ho2"
+      }
+    ]
+  },
+  {
+    "id": "yue_prefix_jau5",
+    "root": "有",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "have; exist",
+    "examples": [
+      {
+        "word": "有錢",
+        "meaning": "have money",
+        "sentence": "我有一個鐘。"
+      },
+      {
+        "word": "有時間",
+        "meaning": "have time",
+        "sentence": "我冇時間。"
+      },
+      {
+        "word": "有無",
+        "meaning": "have or not",
+        "sentence": "你有無？"
+      }
+    ],
+    "relatedRootIds": ["yue_prefix_mou5"],
+    "pronunciationIpa": "/jɐu/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "jau5"
+      }
+    ]
+  },
+  {
+    "id": "yue_prefix_zung6",
+    "root": "仲",
+    "type": "prefix",
+    "languageOrigin": "Chinese",
+    "meaning": "still; yet; even more",
+    "examples": [
+      {
+        "word": "仲未",
+        "meaning": "not yet",
+        "sentence": "佢仲未到。"
+      },
+      {
+        "word": "仲有",
+        "meaning": "still have; also",
+        "sentence": "仲有冇？"
+      },
+      {
+        "word": "仲好",
+        "meaning": "even better",
+        "sentence": "呢個仲好。"
+      }
+    ],
+    "relatedRootIds": ["yue_prefix_jau5"],
+    "pronunciationIpa": "/tsʊŋ/",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "zung6"
+      }
+    ]
   }
 ]

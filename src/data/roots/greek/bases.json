@@ -1222,5 +1222,160 @@
       }
     ],
     "relatedRootIds": ["root_el_tele"]
+  },
+  {
+    "id": "root_el_neur",
+    "root": "neur-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "nerve",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "nev.r"
+      }
+    ],
+    "examples": [
+      {
+        "word": "νεύρο",
+        "meaning": "nerve",
+        "sentence": "Το νεύρο μεταδίδει σήματα."
+      },
+      {
+        "word": "νευρικός",
+        "meaning": "nervous",
+        "sentence": "Είναι πολύ νευρικός."
+      },
+      {
+        "word": "νευρολόγος",
+        "meaning": "neurologist",
+        "sentence": "Ο νευρολόγος εξετάζει τον ασθενή."
+      }
+    ],
+    "relatedRootIds": ["root_el_logos"]
+  },
+  {
+    "id": "root_el_card",
+    "root": "card-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "heart",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "kaɾð"
+      }
+    ],
+    "examples": [
+      {
+        "word": "καρδιά",
+        "meaning": "heart",
+        "sentence": "Η καρδιά χτυπά δυνατά."
+      },
+      {
+        "word": "καρδιολόγος",
+        "meaning": "cardiologist",
+        "sentence": "Ο καρδιολόγος κάνει εξέταση."
+      },
+      {
+        "word": "καρδιογράφημα",
+        "meaning": "cardiogram",
+        "sentence": "Το καρδιογράφημα είναι φυσιολογικό."
+      }
+    ],
+    "relatedRootIds": ["root_el_logos", "root_el_graph"]
+  },
+  {
+    "id": "root_el_derm",
+    "root": "derm-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "skin",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "ðer.m"
+      }
+    ],
+    "examples": [
+      {
+        "word": "δέρμα",
+        "meaning": "skin",
+        "sentence": "Το δέρμα είναι το μεγαλύτερο όργανο."
+      },
+      {
+        "word": "δερματολόγος",
+        "meaning": "dermatologist",
+        "sentence": "Η δερματολόγος εξετάζει το δέρμα."
+      },
+      {
+        "word": "υποδερμικά",
+        "meaning": "subcutaneous",
+        "sentence": "Η ένεση είναι υποδερμικά."
+      }
+    ],
+    "relatedRootIds": ["root_el_logos", "root_el_hypo"]
+  },
+  {
+    "id": "root_el_oste",
+    "root": "oste-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "bone",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "o.ste"
+      }
+    ],
+    "examples": [
+      {
+        "word": "κόκκαλο",
+        "meaning": "bone",
+        "sentence": "Το κόκκαλο είναι σκληρό."
+      },
+      {
+        "word": "οστεοπόρωση",
+        "meaning": "osteoporosis",
+        "sentence": "Η οστεοπόρωση αφορά τα κόκκαλα."
+      },
+      {
+        "word": "οστεολόγος",
+        "meaning": "osteologist",
+        "sentence": "Ο οστεολόγος μελετά κόκκαλα."
+      }
+    ],
+    "relatedRootIds": ["root_el_logos"]
+  },
+  {
+    "id": "root_el_pod",
+    "root": "pod-",
+    "type": "base",
+    "languageOrigin": "Greek",
+    "meaning": "foot",
+    "pronunciationVariants": [
+      {
+        "accent": "greek",
+        "ipa": "po.ð"
+      }
+    ],
+    "examples": [
+      {
+        "word": "πόδι",
+        "meaning": "foot",
+        "sentence": "Το πόδι πονάει."
+      },
+      {
+        "word": "ποδήλατο",
+        "meaning": "bicycle",
+        "sentence": "Το ποδήλατο είναι γρήγορο."
+      },
+      {
+        "word": "τρίποδο",
+        "meaning": "tripod",
+        "sentence": "Το τρίποδο είναι σταθερό."
+      }
+    ],
+    "relatedRootIds": ["root_el_kyklos"]
   }
 ]

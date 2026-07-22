@@ -446,5 +446,165 @@
         "ipa": "i"
       }
     ]
+  },
+  {
+    "id": "hi_suffix_as",
+    "root": "आस",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "state; quality; -ness",
+    "examples": [
+      {
+        "word": "मिठास",
+        "meaning": "sweetness",
+        "sentence": "मिठास ज़ुबान पर रहती है।"
+      },
+      {
+        "word": "खटास",
+        "meaning": "bitterness",
+        "sentence": "खटास बोझिल लगती है।"
+      },
+      {
+        "word": "प्यास",
+        "meaning": "thirst",
+        "sentence": "प्यास बुझ गई।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_pan"],
+    "pronunciationIpa": "/aːs/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "aas"
+      }
+    ]
+  },
+  {
+    "id": "hi_suffix_in",
+    "root": "ईन",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "possessing; full of",
+    "examples": [
+      {
+        "word": "रंगीन",
+        "meaning": "colorful",
+        "sentence": "फूल रंगीन हैं।"
+      },
+      {
+        "word": "कुलीन",
+        "meaning": "noble",
+        "sentence": "वह कुलीन परिवार से है।"
+      },
+      {
+        "word": "कठिन",
+        "meaning": "hard; difficult",
+        "sentence": "यह कठिन काम है।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_i"],
+    "pronunciationIpa": "/iːn/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "in"
+      }
+    ]
+  },
+  {
+    "id": "hi_suffix_may",
+    "root": "मय",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "full of; made of; -ous",
+    "examples": [
+      {
+        "word": "स्वर्णमय",
+        "meaning": "golden",
+        "sentence": "स्वर्णमय मूर्ति खूबसूरत है।"
+      },
+      {
+        "word": "रहस्यमय",
+        "meaning": "mysterious",
+        "sentence": "रहस्यमय कहानी रोचक है।"
+      },
+      {
+        "word": "आनंदमय",
+        "meaning": "blissful",
+        "sentence": "आनंदमय पल याद रहता है।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_alu"],
+    "pronunciationIpa": "/məj/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "may"
+      }
+    ]
+  },
+  {
+    "id": "hi_suffix_ey",
+    "root": "एय",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "relating to; belonging to",
+    "examples": [
+      {
+        "word": "आग्नेय",
+        "meaning": "related to fire",
+        "sentence": "आग्नेय अस्त्र शक्तिशाली था।"
+      },
+      {
+        "word": "गांगेय",
+        "meaning": "of the Ganga",
+        "sentence": "गांगेय भीष्म कहलाए।"
+      },
+      {
+        "word": "राधेय",
+        "meaning": "son of Radha",
+        "sentence": "राधेय कर्ण थे।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_ik"],
+    "pronunciationIpa": "/eːj/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ey"
+      }
+    ]
+  },
+  {
+    "id": "hi_suffix_ima",
+    "root": "इमा",
+    "type": "suffix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "quality; -ness; greatness",
+    "examples": [
+      {
+        "word": "महिमा",
+        "meaning": "glory",
+        "sentence": "भगवान की महिमा अपार है।"
+      },
+      {
+        "word": "गरिमा",
+        "meaning": "dignity",
+        "sentence": "गरिमा बनाए रखो।"
+      },
+      {
+        "word": "लालिमा",
+        "meaning": "redness",
+        "sentence": "पूर्व में लालिमा दिख रही थी।"
+      }
+    ],
+    "relatedRootIds": ["hi_suffix_ta"],
+    "pronunciationIpa": "/iːmaː/",
+    "pronunciationVariants": [
+      {
+        "accent": "hindi",
+        "ipa": "ima"
+      }
+    ]
   }
 ]

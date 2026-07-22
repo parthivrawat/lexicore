@@ -318,5 +318,165 @@
         "ipa": "xue2"
       }
     ]
+  },
+  {
+    "id": "zh_suffix_le",
+    "root": "了",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "completed action marker",
+    "examples": [
+      {
+        "word": "吃了",
+        "meaning": "ate",
+        "sentence": "我吃了饭。"
+      },
+      {
+        "word": "来了",
+        "meaning": "came",
+        "sentence": "他来了。"
+      },
+      {
+        "word": "买了",
+        "meaning": "bought",
+        "sentence": "我买了书。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/lə/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "le"
+      }
+    ]
+  },
+  {
+    "id": "zh_suffix_guo",
+    "root": "过",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "past experience marker",
+    "examples": [
+      {
+        "word": "去过",
+        "meaning": "have been to",
+        "sentence": "我去过北京。"
+      },
+      {
+        "word": "吃过",
+        "meaning": "have eaten",
+        "sentence": "我吃过这个。"
+      },
+      {
+        "word": "见过",
+        "meaning": "have seen",
+        "sentence": "我们见过面。"
+      }
+    ],
+    "relatedRootIds": ["zh_suffix_le"],
+    "pronunciationIpa": "/ɡu̯ɔ⁵¹/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "guo4"
+      }
+    ]
+  },
+  {
+    "id": "zh_suffix_zhe_particle",
+    "root": "着",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "continuous action marker",
+    "examples": [
+      {
+        "word": "看着",
+        "meaning": "looking",
+        "sentence": "他看着电视。"
+      },
+      {
+        "word": "听着",
+        "meaning": "listening",
+        "sentence": "我听着音乐。"
+      },
+      {
+        "word": "走着",
+        "meaning": "walking",
+        "sentence": "我们走着去学校。"
+      }
+    ],
+    "relatedRootIds": ["zh_suffix_le"],
+    "pronunciationIpa": "/ʈʂɤ/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "zhe"
+      }
+    ]
+  },
+  {
+    "id": "zh_suffix_er",
+    "root": "儿",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "diminutive; noun suffix",
+    "examples": [
+      {
+        "word": "这儿",
+        "meaning": "here",
+        "sentence": "你在这儿吗？"
+      },
+      {
+        "word": "那儿",
+        "meaning": "there",
+        "sentence": "他在那儿。"
+      },
+      {
+        "word": "一会儿",
+        "meaning": "a while",
+        "sentence": "我等一会儿。"
+      }
+    ],
+    "relatedRootIds": ["zh_suffix_zi"],
+    "pronunciationIpa": "/aɹ/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "er"
+      }
+    ]
+  },
+  {
+    "id": "zh_suffix_de",
+    "root": "地",
+    "type": "suffix",
+    "languageOrigin": "Chinese",
+    "meaning": "adverb marker; -ly",
+    "examples": [
+      {
+        "word": "慢慢地",
+        "meaning": "slowly",
+        "sentence": "他慢慢地走。"
+      },
+      {
+        "word": "高兴地",
+        "meaning": "happily",
+        "sentence": "她高兴地笑了。"
+      },
+      {
+        "word": "认真地",
+        "meaning": "seriously; carefully",
+        "sentence": "他认真地工作。"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/tə/",
+    "pronunciationVariants": [
+      {
+        "accent": "mandarin",
+        "ipa": "de"
+      }
+    ]
   }
 ]

@@ -318,5 +318,165 @@
         "ipa": "lam"
       }
     ]
+  },
+  {
+    "id": "ar_prefix_bi",
+    "root": "ب",
+    "type": "prefix",
+    "languageOrigin": "Arabic",
+    "meaning": "in; with; by",
+    "examples": [
+      {
+        "word": "بالقلم",
+        "meaning": "with the pen",
+        "sentence": "كتبت بالقلم."
+      },
+      {
+        "word": "بالبيت",
+        "meaning": "in the house",
+        "sentence": "أنا بالبيت."
+      },
+      {
+        "word": "بالماء",
+        "meaning": "with water",
+        "sentence": "غسلت اليد بالماء."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_al", "ar_base_ktb", "ar_base_mya"],
+    "pronunciationIpa": "/bi/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "bi"
+      }
+    ]
+  },
+  {
+    "id": "ar_prefix_ka",
+    "root": "ك",
+    "type": "prefix",
+    "languageOrigin": "Arabic",
+    "meaning": "like; as",
+    "examples": [
+      {
+        "word": "كالأسد",
+        "meaning": "like a lion",
+        "sentence": "شجاع كالأسد."
+      },
+      {
+        "word": "كالبيت",
+        "meaning": "like a house",
+        "sentence": "كبير كالبيت."
+      },
+      {
+        "word": "كالكتاب",
+        "meaning": "like the book",
+        "sentence": "مفيد كالكتاب."
+      }
+    ],
+    "relatedRootIds": ["ar_prefix_al"],
+    "pronunciationIpa": "/ka/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ka"
+      }
+    ]
+  },
+  {
+    "id": "ar_prefix_fa",
+    "root": "ف",
+    "type": "prefix",
+    "languageOrigin": "Arabic",
+    "meaning": "so; then; and so",
+    "examples": [
+      {
+        "word": "فذهب",
+        "meaning": "so he went",
+        "sentence": "جاء فذهب."
+      },
+      {
+        "word": "فقال",
+        "meaning": "so he said",
+        "sentence": "سأله فقال."
+      },
+      {
+        "word": "فكتب",
+        "meaning": "so he wrote",
+        "sentence": "فهم فكتب."
+      }
+    ],
+    "relatedRootIds": ["ar_base_dhb", "ar_base_qwl", "ar_base_ktb"],
+    "pronunciationIpa": "/fa/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "fa"
+      }
+    ]
+  },
+  {
+    "id": "ar_prefix_la",
+    "root": "لا",
+    "type": "prefix",
+    "languageOrigin": "Arabic",
+    "meaning": "no; not",
+    "examples": [
+      {
+        "word": "لا أذهب",
+        "meaning": "I do not go",
+        "sentence": "لا أذهب إلى المدرسة."
+      },
+      {
+        "word": "لا تأكل",
+        "meaning": "do not eat",
+        "sentence": "لا تأكل بيدك."
+      },
+      {
+        "word": "لا يكتب",
+        "meaning": "he does not write",
+        "sentence": "هو لا يكتب الآن."
+      }
+    ],
+    "relatedRootIds": ["ar_base_dhb", "ar_base_akl", "ar_base_ktb"],
+    "pronunciationIpa": "/laː/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "la"
+      }
+    ]
+  },
+  {
+    "id": "ar_prefix_wa",
+    "root": "و",
+    "type": "prefix",
+    "languageOrigin": "Arabic",
+    "meaning": "and",
+    "examples": [
+      {
+        "word": "والبيت",
+        "meaning": "and the house",
+        "sentence": "جاء الكتاب والبيت بعيد."
+      },
+      {
+        "word": "وذهب",
+        "meaning": "and he went",
+        "sentence": "أكل وذهب."
+      },
+      {
+        "word": "وكتب",
+        "meaning": "and he wrote",
+        "sentence": "قرأ وكتب."
+      }
+    ],
+    "relatedRootIds": ["ar_base_dhb", "ar_base_ktb"],
+    "pronunciationIpa": "/wa/",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "wa"
+      }
+    ]
   }
 ]

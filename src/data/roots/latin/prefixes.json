@@ -986,5 +986,135 @@
       }
     ],
     "relatedRootIds": ["root_la_duo"]
+  },
+  {
+    "id": "root_la_dis",
+    "root": "dis-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "apart, away, not",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "dis"
+      }
+    ],
+    "examples": [
+      {
+        "word": "discedere",
+        "meaning": "to depart",
+        "sentence": "Multī discēdunt."
+      },
+      {
+        "word": "dissimilis",
+        "meaning": "unlike",
+        "sentence": "Dīs similis nōn est."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_ob",
+    "root": "ob-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "against, toward, in the way",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "ob"
+      }
+    ],
+    "examples": [
+      {
+        "word": "occurrere",
+        "meaning": "to run against, meet",
+        "sentence": "Amīcī occurrent."
+      },
+      {
+        "word": "oppōnere",
+        "meaning": "to place against",
+        "sentence": "Mīles scūtum oppōnit."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_se",
+    "root": "sē-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "apart, without",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "seː"
+      }
+    ],
+    "examples": [
+      {
+        "word": "sēdūcere",
+        "meaning": "to lead apart",
+        "sentence": "Hostēs sē dūcunt."
+      },
+      {
+        "word": "sēparāre",
+        "meaning": "to separate",
+        "sentence": "Bonōs ā malīs sēparō."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_ambi",
+    "root": "ambī-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "both, around",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "am.biː"
+      }
+    ],
+    "examples": [
+      {
+        "word": "ambiguus",
+        "meaning": "ambiguous",
+        "sentence": "Sermo ambiguus est."
+      },
+      {
+        "word": "ambulāre",
+        "meaning": "to walk",
+        "sentence": "Puer ambulat."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_la_intro",
+    "root": "intrō-",
+    "type": "prefix",
+    "languageOrigin": "Latin",
+    "meaning": "within, in",
+    "pronunciationVariants": [
+      {
+        "accent": "latin",
+        "ipa": "in.troː"
+      }
+    ],
+    "examples": [
+      {
+        "word": "intrōdūcere",
+        "meaning": "to introduce",
+        "sentence": "Senātor amīcum intrōdūcit."
+      },
+      {
+        "word": "intrōīre",
+        "meaning": "to enter",
+        "sentence": "Puer in domum intrōīre vult."
+      }
+    ],
+    "relatedRootIds": ["root_la_intra"]
   }
 ]

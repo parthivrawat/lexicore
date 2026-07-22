@@ -887,5 +887,265 @@
       }
     ],
     "relatedRootIds": ["root_es_ador"]
+  },
+  {
+    "id": "root_es_gen",
+    "root": "gen-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "birth, origin",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "xen"
+      }
+    ],
+    "examples": [
+      {
+        "word": "generar",
+        "meaning": "to generate",
+        "sentence": "Voy a generar energía limpia."
+      },
+      {
+        "word": "generación",
+        "meaning": "generation",
+        "sentence": "La generación futura decidirá."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_duc",
+    "root": "duc-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "lead",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "duk"
+      }
+    ],
+    "examples": [
+      {
+        "word": "conducir",
+        "meaning": "to drive; to lead",
+        "sentence": "Conduzco con cuidado."
+      },
+      {
+        "word": "deducir",
+        "meaning": "to deduce",
+        "sentence": "Deduzco la respuesta."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_brev",
+    "root": "brev-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "short",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "βɾeβ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "breve",
+        "meaning": "brief",
+        "sentence": "El mensaje es breve."
+      },
+      {
+        "word": "brevedad",
+        "meaning": "brevity",
+        "sentence": "La brevedad es una virtud."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_jur",
+    "root": "jur-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "law, oath",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "xuɾ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "jurar",
+        "meaning": "to swear",
+        "sentence": "Voy a jurar lealtad."
+      },
+      {
+        "word": "jurado",
+        "meaning": "jury",
+        "sentence": "El jurado decidió."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_lev",
+    "root": "lev-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "lift, light",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "leβ"
+      }
+    ],
+    "examples": [
+      {
+        "word": "elevar",
+        "meaning": "to raise",
+        "sentence": "Voy a elevar la voz."
+      },
+      {
+        "word": "levantar",
+        "meaning": "to lift",
+        "sentence": "Levanta la mano."
+      }
+    ],
+    "relatedRootIds": ["root_es_luc"]
+  },
+  {
+    "id": "root_es_vac",
+    "root": "vac-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "empty",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "bak"
+      }
+    ],
+    "examples": [
+      {
+        "word": "vacío",
+        "meaning": "empty",
+        "sentence": "La habitación está vacía."
+      },
+      {
+        "word": "vacante",
+        "meaning": "vacant",
+        "sentence": "Hay una vacante disponible."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_sens",
+    "root": "sens-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "feel, perceive",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "sens"
+      }
+    ],
+    "examples": [
+      {
+        "word": "sensación",
+        "meaning": "sensation",
+        "sentence": "La sensación es extraña."
+      },
+      {
+        "word": "sensible",
+        "meaning": "sensitive",
+        "sentence": "Es una persona sensible."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_fund",
+    "root": "fund-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "bottom, found",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "fund"
+      }
+    ],
+    "examples": [
+      {
+        "word": "fundar",
+        "meaning": "to found",
+        "sentence": "Voy a fundar una empresa."
+      },
+      {
+        "word": "fundación",
+        "meaning": "foundation",
+        "sentence": "La fundación ayuda a niños."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_hab",
+    "root": "hab-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "have, live",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ab"
+      }
+    ],
+    "examples": [
+      {
+        "word": "habilidad",
+        "meaning": "ability",
+        "sentence": "Tiene mucha habilidad."
+      },
+      {
+        "word": "habitar",
+        "meaning": "to inhabit",
+        "sentence": "Habitan en la ciudad."
+      }
+    ],
+    "relatedRootIds": []
+  },
+  {
+    "id": "root_es_tim",
+    "root": "tim-",
+    "type": "base",
+    "languageOrigin": "Latin",
+    "meaning": "fear",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "tim"
+      }
+    ],
+    "examples": [
+      {
+        "word": "tímido",
+        "meaning": "timid",
+        "sentence": "El niño es tímido."
+      },
+      {
+        "word": "temer",
+        "meaning": "to fear",
+        "sentence": "No debes temer."
+      }
+    ],
+    "relatedRootIds": []
   }
 ]

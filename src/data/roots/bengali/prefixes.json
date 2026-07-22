@@ -350,5 +350,165 @@
         "ipa": "dur"
       }
     ]
+  },
+  {
+    "id": "bn_prefix_ab",
+    "root": "অব",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "near; away; not",
+    "examples": [
+      {
+        "word": "অবগত",
+        "meaning": "aware",
+        "sentence": "আমি বিষয়টি অবগত।"
+      },
+      {
+        "word": "অবসাদ",
+        "meaning": "depression",
+        "sentence": "অবসাদ কাটিয়ে উঠতে হবে।"
+      },
+      {
+        "word": "অবতারণ",
+        "meaning": "introduction",
+        "sentence": "অবতারণ সুন্দর ছিল।"
+      }
+    ],
+    "relatedRootIds": ["bn_prefix_a"],
+    "pronunciationIpa": "/ɔbɔ/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ab"
+      }
+    ]
+  },
+  {
+    "id": "bn_prefix_ati",
+    "root": "অতি",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "over; excessive; very",
+    "examples": [
+      {
+        "word": "অতিথি",
+        "meaning": "guest",
+        "sentence": "অতিথি সম্মান পেলেন।"
+      },
+      {
+        "word": "অতিরিক্ত",
+        "meaning": "extra; excessive",
+        "sentence": "অতিরিক্ত কাজ করা উচিত নয়।"
+      },
+      {
+        "word": "অতিশয়",
+        "meaning": "very much",
+        "sentence": "অতিশয় খুশি হয়েছি।"
+      }
+    ],
+    "relatedRootIds": ["bn_prefix_a"],
+    "pronunciationIpa": "/ɔti/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ati"
+      }
+    ]
+  },
+  {
+    "id": "bn_prefix_adhi",
+    "root": "অধি",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "over; above; master",
+    "examples": [
+      {
+        "word": "অধিকার",
+        "meaning": "right",
+        "sentence": "সবার অধিকার সমান।"
+      },
+      {
+        "word": "অধিপতি",
+        "meaning": "lord",
+        "sentence": "অধিপতি আসছেন।"
+      },
+      {
+        "word": "অধ্যয়ন",
+        "meaning": "study",
+        "sentence": "অধ্যয়নে মনোযোগ দাও।"
+      }
+    ],
+    "relatedRootIds": ["bn_prefix_a", "bn_base_poth"],
+    "pronunciationIpa": "/ɔdʱi/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "adhi"
+      }
+    ]
+  },
+  {
+    "id": "bn_prefix_antar",
+    "root": "অন্তর্",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "within; interior; difference",
+    "examples": [
+      {
+        "word": "অন্তরঙ্গ",
+        "meaning": "intimate",
+        "sentence": "তারা অন্তরঙ্গ বন্ধু।"
+      },
+      {
+        "word": "অন্তর্দ্বন্দ্ব",
+        "meaning": "internal conflict",
+        "sentence": "অন্তর্দ্বন্দ্ব কাটিয়ে ওঠো।"
+      },
+      {
+        "word": "অন্তর্গত",
+        "meaning": "internal",
+        "sentence": "বিষয়টি অন্তর্গত।"
+      }
+    ],
+    "relatedRootIds": ["bn_prefix_a"],
+    "pronunciationIpa": "/ɔntɔr/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "antar"
+      }
+    ]
+  },
+  {
+    "id": "bn_prefix_su",
+    "root": "সু",
+    "type": "prefix",
+    "languageOrigin": "Sanskrit",
+    "meaning": "good; well",
+    "examples": [
+      {
+        "word": "সুখ",
+        "meaning": "happiness",
+        "sentence": "সুখ সবার কাম্য।"
+      },
+      {
+        "word": "সুন্দর",
+        "meaning": "beautiful",
+        "sentence": "দৃশ্যটি সুন্দর।"
+      },
+      {
+        "word": "সুবিধা",
+        "meaning": "facility",
+        "sentence": "সুবিধা পেয়েছি।"
+      }
+    ],
+    "relatedRootIds": ["bn_prefix_a"],
+    "pronunciationIpa": "/ʃu/",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "su"
+      }
+    ]
   }
 ]

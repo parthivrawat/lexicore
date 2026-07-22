@@ -1054,5 +1054,165 @@
         "ipa": "a-ir"
       }
     ]
+  },
+  {
+    "id": "id_base_tidur",
+    "root": "tidur",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "sleep",
+    "examples": [
+      {
+        "word": "tidur",
+        "meaning": "to sleep",
+        "sentence": "Saya ingin tidur."
+      },
+      {
+        "word": "tidurannya",
+        "meaning": "sleep (abstract)",
+        "sentence": "Tidurannya nyenyak."
+      },
+      {
+        "word": "menidurkan",
+        "meaning": "to put to sleep",
+        "sentence": "Ibu menidurkan bayinya."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_me", "id_suffix_an"],
+    "pronunciationIpa": "/tiˈdur/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "ti-dur"
+      }
+    ]
+  },
+  {
+    "id": "id_base_lari",
+    "root": "lari",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "run",
+    "examples": [
+      {
+        "word": "lari",
+        "meaning": "to run",
+        "sentence": "Dia lari setiap pagi."
+      },
+      {
+        "word": "pelari",
+        "meaning": "runner",
+        "sentence": "Pelari itu cepat."
+      },
+      {
+        "word": "berlari",
+        "meaning": "to run around",
+        "sentence": "Anak-anak berlari di lapangan."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_ber", "id_prefix_pe", "id_suffix_an"],
+    "pronunciationIpa": "/laˈri/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "la-ri"
+      }
+    ]
+  },
+  {
+    "id": "id_base_tari",
+    "root": "tari",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "dance",
+    "examples": [
+      {
+        "word": "tari",
+        "meaning": "to dance",
+        "sentence": "Dia suka tari."
+      },
+      {
+        "word": "menari",
+        "meaning": "to dance",
+        "sentence": "Mereka menari dengan gembira."
+      },
+      {
+        "word": "penari",
+        "meaning": "dancer",
+        "sentence": "Penari itu anggun."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_me", "id_prefix_pe"],
+    "pronunciationIpa": "/taˈri/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "ta-ri"
+      }
+    ]
+  },
+  {
+    "id": "id_base_nyanyi",
+    "root": "nyanyi",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "sing",
+    "examples": [
+      {
+        "word": "nyanyi",
+        "meaning": "to sing",
+        "sentence": "Dia pandai nyanyi."
+      },
+      {
+        "word": "menyanyi",
+        "meaning": "to sing",
+        "sentence": "Mereka menyanyi lagu nasional."
+      },
+      {
+        "word": "penyanyi",
+        "meaning": "singer",
+        "sentence": "Penyanyi itu terkenal."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_me", "id_prefix_pe"],
+    "pronunciationIpa": "/ɲaˈɲi/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "nya-nyi"
+      }
+    ]
+  },
+  {
+    "id": "id_base_tanya",
+    "root": "tanya",
+    "type": "base",
+    "languageOrigin": "Indonesian",
+    "meaning": "ask",
+    "examples": [
+      {
+        "word": "tanya",
+        "meaning": "to ask",
+        "sentence": "Saya mau tanya sesuatu."
+      },
+      {
+        "word": "menanya",
+        "meaning": "to ask",
+        "sentence": "Dia menanya alamat."
+      },
+      {
+        "word": "pertanyaan",
+        "meaning": "question",
+        "sentence": "Pertanyaan itu sulit."
+      }
+    ],
+    "relatedRootIds": ["id_prefix_me", "id_prefix_per", "id_suffix_an"],
+    "pronunciationIpa": "/taˈɲa/",
+    "pronunciationVariants": [
+      {
+        "accent": "indonesian",
+        "ipa": "ta-nya"
+      }
+    ]
   }
 ]

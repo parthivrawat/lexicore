@@ -318,5 +318,165 @@
         "ipa": "mit"
       }
     ]
+  },
+  {
+    "id": "de_prefix_ab",
+    "root": "ab-",
+    "type": "prefix",
+    "languageOrigin": "Germanic",
+    "meaning": "from; off; away",
+    "examples": [
+      {
+        "word": "abfahren",
+        "meaning": "to depart",
+        "sentence": "Der Zug fährt ab."
+      },
+      {
+        "word": "abnehmen",
+        "meaning": "to decrease; to take off",
+        "sentence": "Ich nehme Gewicht ab."
+      },
+      {
+        "word": "abschalten",
+        "meaning": "to switch off",
+        "sentence": "Bitte schalte das Licht ab."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/ap/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ab"
+      }
+    ]
+  },
+  {
+    "id": "de_prefix_an",
+    "root": "an-",
+    "type": "prefix",
+    "languageOrigin": "Germanic",
+    "meaning": "at; to; on",
+    "examples": [
+      {
+        "word": "ankommen",
+        "meaning": "to arrive",
+        "sentence": "Wir kommen morgen an."
+      },
+      {
+        "word": "anfangen",
+        "meaning": "to begin",
+        "sentence": "Wir fangen jetzt an."
+      },
+      {
+        "word": "anrufen",
+        "meaning": "to call",
+        "sentence": "Ich rufe dich an."
+      }
+    ],
+    "relatedRootIds": ["de_base_komm"],
+    "pronunciationIpa": "/an/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "an"
+      }
+    ]
+  },
+  {
+    "id": "de_prefix_auf",
+    "root": "auf-",
+    "type": "prefix",
+    "languageOrigin": "Germanic",
+    "meaning": "on; up; open",
+    "examples": [
+      {
+        "word": "aufstehen",
+        "meaning": "to stand up",
+        "sentence": "Ich stehe früh auf."
+      },
+      {
+        "word": "aufmachen",
+        "meaning": "to open",
+        "sentence": "Mach die Tür auf!"
+      },
+      {
+        "word": "aufhören",
+        "meaning": "to stop",
+        "sentence": "Hör bitte auf!"
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/aʊ̯f/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "auf"
+      }
+    ]
+  },
+  {
+    "id": "de_prefix_aus",
+    "root": "aus-",
+    "type": "prefix",
+    "languageOrigin": "Germanic",
+    "meaning": "out; from",
+    "examples": [
+      {
+        "word": "ausgehen",
+        "meaning": "to go out",
+        "sentence": "Wir gehen heute aus."
+      },
+      {
+        "word": "ausmachen",
+        "meaning": "to turn off",
+        "sentence": "Bitte mach das Licht aus."
+      },
+      {
+        "word": "aussehen",
+        "meaning": "to look",
+        "sentence": "Du siehst gut aus."
+      }
+    ],
+    "relatedRootIds": ["de_base_geh", "de_base_seh"],
+    "pronunciationIpa": "/aʊ̯s/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "aus"
+      }
+    ]
+  },
+  {
+    "id": "de_prefix_ein",
+    "root": "ein-",
+    "type": "prefix",
+    "languageOrigin": "Germanic",
+    "meaning": "in; into",
+    "examples": [
+      {
+        "word": "einkaufen",
+        "meaning": "to shop",
+        "sentence": "Wir kaufen im Supermarkt ein."
+      },
+      {
+        "word": "einladen",
+        "meaning": "to invite",
+        "sentence": "Ich lade dich ein."
+      },
+      {
+        "word": "einschlafen",
+        "meaning": "to fall asleep",
+        "sentence": "Ich schlafe schnell ein."
+      }
+    ],
+    "relatedRootIds": [],
+    "pronunciationIpa": "/aɪ̯n/",
+    "pronunciationVariants": [
+      {
+        "accent": "german",
+        "ipa": "ein"
+      }
+    ]
   }
 ]

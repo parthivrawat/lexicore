@@ -2,7 +2,7 @@
   {
     "id": "word_pcm_for",
     "word": "For",
-    "meaning": "in/at",
+    "meaning": "in/at; for",
     "pronunciationVariants": [
       {
         "accent": "nigerian-pidgin",
@@ -10,7 +10,7 @@
       }
     ],
     "category": "prepositions",
-    "examples": ["For house.", "For here."]
+    "examples": ["For house.", "For here.", "For you.", "For wetin?"]
   },
   {
     "id": "word_pcm_to",
@@ -50,19 +50,6 @@
     ],
     "category": "prepositions",
     "examples": ["With friend.", "With who?"]
-  },
-  {
-    "id": "word_pcm_for_prep",
-    "word": "For",
-    "meaning": "for",
-    "pronunciationVariants": [
-      {
-        "accent": "nigerian-pidgin",
-        "ipa": "fɔː"
-      }
-    ],
-    "category": "prepositions",
-    "examples": ["For you.", "For wetin?"]
   },
   {
     "id": "word_pcm_about",

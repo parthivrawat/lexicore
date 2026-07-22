@@ -15,7 +15,7 @@
   {
     "id": "word_tr_uzerinde",
     "word": "üzerinde",
-    "meaning": "on",
+    "meaning": "on; above",
     "pronunciationVariants": [
       {
         "accent": "turkish",
@@ -23,7 +23,7 @@
       }
     ],
     "category": "prepositions",
-    "examples": ["Masanın üzerinde.", "Sandalyenin üzerinde."]
+    "examples": ["Masanın üzerinde.", "Sandalyenin üzerinde.", "Dağın üzerinde."]
   },
   {
     "id": "word_tr_den",
@@ -128,19 +128,6 @@
     ],
     "category": "prepositions",
     "examples": ["Uyumadan önce.", "Yemekten önce."]
-  },
-  {
-    "id": "word_tr_uzerinde_prep",
-    "word": "üzerinde",
-    "meaning": "above",
-    "pronunciationVariants": [
-      {
-        "accent": "turkish",
-        "ipa": "yzeɾinde"
-      }
-    ],
-    "category": "prepositions",
-    "examples": ["Masanın üzerinde.", "Dağın üzerinde."]
   },
   {
     "id": "word_tr_altinda",

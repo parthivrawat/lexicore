@@ -180,5 +180,18 @@
     ],
     "category": "prepositions",
     "examples": ["Durante el día.", "Durante la clase."]
+  },
+  {
+    "id": "word_es_hacia",
+    "word": "hacia",
+    "meaning": "toward",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈa.θja"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Voy hacia casa.", "Camina hacia mí."]
   }
 ]

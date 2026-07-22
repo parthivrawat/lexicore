@@ -119,7 +119,7 @@
   {
     "id": "word_pcm_old",
     "word": "Old",
-    "meaning": "old",
+    "meaning": "old (age)",
     "pronunciationVariants": [
       {
         "accent": "nigerian-pidgin",
@@ -127,7 +127,7 @@
       }
     ],
     "category": "adjectives",
-    "examples": ["Old friend.", "Very old."]
+    "examples": ["Old friend.", "Very old.", "Old person."]
   },
   {
     "id": "word_pcm_young",
@@ -141,19 +141,6 @@
     ],
     "category": "adjectives",
     "examples": ["Young person.", "Still young."]
-  },
-  {
-    "id": "word_pcm_old_age",
-    "word": "Old",
-    "meaning": "old (age)",
-    "pronunciationVariants": [
-      {
-        "accent": "nigerian-pidgin",
-        "ipa": "oːld"
-      }
-    ],
-    "category": "adjectives",
-    "examples": ["Old person.", "Very old."]
   },
   {
     "id": "word_pcm_fine",

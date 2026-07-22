@@ -1,0 +1,262 @@
+[
+  {
+    "id": "word_es_el",
+    "word": "el",
+    "meaning": "the (masculine singular definite article)",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "el"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["El libro es interesante.", "El coche está aquí."]
+  },
+  {
+    "id": "word_es_la",
+    "word": "la",
+    "meaning": "the (feminine singular definite article)",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "la"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["La casa es grande.", "La mesa está limpia."]
+  },
+  {
+    "id": "word_es_los",
+    "word": "los",
+    "meaning": "the (masculine plural definite article)",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "los"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Los niños juegan.", "Los días son largos."]
+  },
+  {
+    "id": "word_es_las",
+    "word": "las",
+    "meaning": "the (feminine plural definite article)",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "las"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Las flores son hermosas.", "Las noches son frías."]
+  },
+  {
+    "id": "word_es_un",
+    "word": "un",
+    "meaning": "a/an (masculine singular indefinite article)",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "un"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Un perro corre.", "Un día nuevo."]
+  },
+  {
+    "id": "word_es_una",
+    "word": "una",
+    "meaning": "a/an (feminine singular indefinite article)",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "una"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Una mujer camina.", "Una hora más."]
+  },
+  {
+    "id": "word_es_y",
+    "word": "y",
+    "meaning": "and",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "i"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Tú y yo.", "Pan y queso."]
+  },
+  {
+    "id": "word_es_o",
+    "word": "o",
+    "meaning": "or",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "o"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["¿Té o café?", "Este o aquel."]
+  },
+  {
+    "id": "word_es_pero",
+    "word": "pero",
+    "meaning": "but",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈpe.ɾo"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Es caro, pero bueno.", "Quiero, pero no puedo."]
+  },
+  {
+    "id": "word_es_sino",
+    "word": "sino",
+    "meaning": "but rather / instead",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈsi.no"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["No es azul, sino verde.", "No estudia, sino trabaja."]
+  },
+  {
+    "id": "word_es_porque",
+    "word": "porque",
+    "meaning": "because",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "poɾˈke"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Vengo porque quiero.", "Estudio porque me gusta."]
+  },
+  {
+    "id": "word_es_que",
+    "word": "que",
+    "meaning": "that / which / than",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ke"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Creo que sí.", "La casa que vi."]
+  },
+  {
+    "id": "word_es_quien",
+    "word": "quién",
+    "meaning": "who",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈkjen"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["¿Quién es?", "No sé quién vino."]
+  },
+  {
+    "id": "word_es_cuando",
+    "word": "cuándo",
+    "meaning": "when",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈkwan.do"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["¿Cuándo vienes?", "Dime cuándo llegas."]
+  },
+  {
+    "id": "word_es_donde",
+    "word": "dónde",
+    "meaning": "where",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈdon.de"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["¿Dónde estás?", "El lugar donde nací."]
+  },
+  {
+    "id": "word_es_como",
+    "word": "cómo",
+    "meaning": "how",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈko.mo"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["¿Cómo estás?", "Hazlo como quieras."]
+  },
+  {
+    "id": "word_es_por_que",
+    "word": "por qué",
+    "meaning": "why",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "poɾˈke"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["¿Por qué?", "No sé por qué."]
+  },
+  {
+    "id": "word_es_yo",
+    "word": "yo",
+    "meaning": "I",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ʝo"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Yo voy.", "Yo soy estudiante."]
+  },
+  {
+    "id": "word_es_tu",
+    "word": "tú",
+    "meaning": "you (singular)",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "tu"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["¿Tú vienes?", "Tú eres amable."]
+  },
+  {
+    "id": "word_es_el_pronoun",
+    "word": "él",
+    "meaning": "he",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "el"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Él viene.", "Él es alto."]
+  }
+]

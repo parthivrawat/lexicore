@@ -80,7 +80,7 @@
   {
     "id": "word_mr_te",
     "word": "ते",
-    "meaning": "they",
+    "meaning": "they; that",
     "pronunciationVariants": [
       {
         "accent": "marathi",
@@ -88,7 +88,7 @@
       }
     ],
     "category": "function-words",
-    "examples": ["ते जातात.", "त्यांचे घर."]
+    "examples": ["ते जातात.", "त्यांचे घर.", "ते घर.", "त्या वेळी."]
   },
   {
     "id": "word_mr_he",
@@ -102,19 +102,6 @@
     ],
     "category": "function-words",
     "examples": ["हे पुस्तक.", "आज."]
-  },
-  {
-    "id": "word_mr_te_word",
-    "word": "ते",
-    "meaning": "that",
-    "pronunciationVariants": [
-      {
-        "accent": "marathi",
-        "ipa": "t̪e"
-      }
-    ],
-    "category": "function-words",
-    "examples": ["ते घर.", "त्या वेळी."]
   },
   {
     "id": "word_mr_kay",

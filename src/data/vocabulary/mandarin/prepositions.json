@@ -15,7 +15,7 @@
   {
     "id": "word_zh_shang",
     "word": "上",
-    "meaning": "on",
+    "meaning": "on; above",
     "pronunciationVariants": [
       {
         "accent": "mandarin",
@@ -23,7 +23,7 @@
       }
     ],
     "category": "prepositions",
-    "examples": ["在桌子上。", "在椅子上。"]
+    "examples": ["在桌子上。", "在椅子上。", "在山上。"]
   },
   {
     "id": "word_zh_cong",
@@ -128,19 +128,6 @@
     ],
     "category": "prepositions",
     "examples": ["睡觉以前。", "吃饭以前。"]
-  },
-  {
-    "id": "word_zh_shang_prep",
-    "word": "上",
-    "meaning": "above",
-    "pronunciationVariants": [
-      {
-        "accent": "mandarin",
-        "ipa": "ʂɑŋ˥˩"
-      }
-    ],
-    "category": "prepositions",
-    "examples": ["在桌子上。", "在山上。"]
   },
   {
     "id": "word_zh_xia",

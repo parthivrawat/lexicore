@@ -86,7 +86,7 @@
   {
     "id": "word_toujours",
     "word": "toujours",
-    "meaning": "always",
+    "meaning": "always; still/yet",
     "pronunciationVariants": [
       {
         "accent": "parisian",
@@ -102,7 +102,12 @@
       }
     ],
     "category": "adverbs",
-    "examples": ["Il est toujours en retard.", "Je t'aime toujours."]
+    "examples": [
+      "Il est toujours en retard.",
+      "Je t'aime toujours.",
+      "Il pleut toujours.",
+      "Je suis toujours là."
+    ]
   },
   {
     "id": "word_jamais",
@@ -1283,7 +1288,7 @@
   {
     "id": "word_deja",
     "word": "déjà",
-    "meaning": "already",
+    "meaning": "already; yet",
     "pronunciationVariants": [
       {
         "accent": "parisian",
@@ -1299,7 +1304,7 @@
       }
     ],
     "category": "adverbs",
-    "examples": ["Déjà fini?", "Je suis déjà parti."]
+    "examples": ["Déjà fini?", "Je suis déjà parti.", "Pas encore."]
   },
   {
     "id": "word_encore",
@@ -1762,47 +1767,5 @@
     ],
     "category": "adverbs",
     "examples": ["Généralement vrai.", "Généralement fermé le dimanche."]
-  },
-  {
-    "id": "word_toujours_2",
-    "word": "toujours",
-    "meaning": "still/yet",
-    "pronunciationVariants": [
-      {
-        "accent": "parisian",
-        "ipa": "tuʒuʁ"
-      },
-      {
-        "accent": "quebecois",
-        "ipa": "tuʒuʁ"
-      },
-      {
-        "accent": "belgian",
-        "ipa": "tuʒuʁ"
-      }
-    ],
-    "category": "adverbs",
-    "examples": ["Il pleut toujours.", "Je suis toujours là."]
-  },
-  {
-    "id": "word_deja_2",
-    "word": "déjà",
-    "meaning": "yet",
-    "pronunciationVariants": [
-      {
-        "accent": "parisian",
-        "ipa": "deʒa"
-      },
-      {
-        "accent": "quebecois",
-        "ipa": "deʒa"
-      },
-      {
-        "accent": "belgian",
-        "ipa": "deʒa"
-      }
-    ],
-    "category": "adverbs",
-    "examples": ["Pas encore.", "Déjà fini?"]
   }
 ]

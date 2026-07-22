@@ -15,7 +15,7 @@
   {
     "id": "word_bn_upore_prep",
     "word": "উপরে",
-    "meaning": "on",
+    "meaning": "on; above",
     "pronunciationVariants": [
       {
         "accent": "bengali",
@@ -23,7 +23,7 @@
       }
     ],
     "category": "prepositions",
-    "examples": ["টেবিলের উপরে।", "চেয়ারের উপরে।"]
+    "examples": ["টেবিলের উপরে।", "চেয়ারের উপরে।", "পাহাড়ের উপরে।"]
   },
   {
     "id": "word_bn_theke",
@@ -49,7 +49,7 @@
       }
     ],
     "category": "prepositions",
-    "examples": ["স্কুল পর্যন্ত।", "কোথা পর্যন্ত?"]
+    "examples": ["স্কুল পর্যন্ত।", "কোথা পর্যন্ত?", "সন্ধ্যা পর্যন্ত।", "এখানে পর্যন্ত।"]
   },
   {
     "id": "word_bn_jonno",
@@ -130,19 +130,6 @@
     "examples": ["ঘুমানোর আগে।", "খাবারের আগে।"]
   },
   {
-    "id": "word_bn_upore_prep2",
-    "word": "উপরে",
-    "meaning": "above",
-    "pronunciationVariants": [
-      {
-        "accent": "bengali",
-        "ipa": "upoɾe"
-      }
-    ],
-    "category": "prepositions",
-    "examples": ["টেবিলের উপরে।", "পাহাড়ের উপরে।"]
-  },
-  {
     "id": "word_bn_niche_prep",
     "word": "নিচে",
     "meaning": "under",
@@ -167,19 +154,6 @@
     ],
     "category": "prepositions",
     "examples": ["বাড়ির মাঝে।", "আমাদের মাঝে।"]
-  },
-  {
-    "id": "word_bn_porjonto_prep",
-    "word": "পর্যন্ত",
-    "meaning": "until",
-    "pronunciationVariants": [
-      {
-        "accent": "bengali",
-        "ipa": "pɔɾdʒɔnto"
-      }
-    ],
-    "category": "prepositions",
-    "examples": ["সন্ধ্যা পর্যন্ত।", "এখানে পর্যন্ত।"]
   },
   {
     "id": "word_bn_diye",

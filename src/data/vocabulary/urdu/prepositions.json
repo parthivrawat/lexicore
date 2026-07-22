@@ -49,7 +49,7 @@
       }
     ],
     "category": "prepositions",
-    "examples": ["اسکول تک۔", "کہاں تک؟"]
+    "examples": ["اسکول تک۔", "کہاں تک؟", "شام تک۔", "یہاں تک۔"]
   },
   {
     "id": "word_ur_ke_liye",
@@ -167,19 +167,6 @@
     ],
     "category": "prepositions",
     "examples": ["گھروں کے بیچ۔", "ہمارے بیچ۔"]
-  },
-  {
-    "id": "word_ur_tak_prep",
-    "word": "تک",
-    "meaning": "until",
-    "pronunciationVariants": [
-      {
-        "accent": "urdu",
-        "ipa": "tək"
-      }
-    ],
-    "category": "prepositions",
-    "examples": ["شام تک۔", "یہاں تک۔"]
   },
   {
     "id": "word_ur_ke_zariye",

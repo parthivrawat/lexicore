@@ -821,7 +821,7 @@
   {
     "id": "word_eighteen",
     "word": "eighteen",
-    "meaning": "",
+    "meaning": "the number 18",
     "pronunciationVariants": [
       {
         "accent": "american",
@@ -837,7 +837,7 @@
       }
     ],
     "category": "numbers",
-    "examples": []
+    "examples": ["I have eighteen dollars.", "Eighteen is the legal adult age in many places."]
   },
   {
     "id": "word_fifteen",
@@ -863,7 +863,7 @@
   {
     "id": "word_fourteen",
     "word": "fourteen",
-    "meaning": "",
+    "meaning": "the number 14",
     "pronunciationVariants": [
       {
         "accent": "american",
@@ -879,12 +879,12 @@
       }
     ],
     "category": "numbers",
-    "examples": []
+    "examples": ["There are fourteen days.", "She is fourteen years old."]
   },
   {
     "id": "word_nineteen",
     "word": "nineteen",
-    "meaning": "",
+    "meaning": "the number 19",
     "pronunciationVariants": [
       {
         "accent": "american",
@@ -900,12 +900,12 @@
       }
     ],
     "category": "numbers",
-    "examples": []
+    "examples": ["Nineteen players showed up.", "I will be nineteen next year."]
   },
   {
     "id": "word_seventeen",
     "word": "seventeen",
-    "meaning": "",
+    "meaning": "the number 17",
     "pronunciationVariants": [
       {
         "accent": "american",
@@ -921,12 +921,12 @@
       }
     ],
     "category": "numbers",
-    "examples": []
+    "examples": ["He has seventeen books.", "Seventeen minus five is twelve."]
   },
   {
     "id": "word_sixteen",
     "word": "sixteen",
-    "meaning": "",
+    "meaning": "the number 16",
     "pronunciationVariants": [
       {
         "accent": "american",
@@ -942,12 +942,12 @@
       }
     ],
     "category": "numbers",
-    "examples": []
+    "examples": ["There are sixteen ounces in a pound.", "She turned sixteen today."]
   },
   {
     "id": "word_thirteen",
     "word": "thirteen",
-    "meaning": "",
+    "meaning": "the number 13",
     "pronunciationVariants": [
       {
         "accent": "american",
@@ -963,6 +963,6 @@
       }
     ],
     "category": "numbers",
-    "examples": []
+    "examples": ["There are thirteen apples.", "He is thirteen years old."]
   }
 ]

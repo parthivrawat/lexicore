@@ -18604,7 +18604,7 @@
   {
     "id": "word_pan",
     "word": "pan",
-    "meaning": "",
+    "meaning": "a shallow metal container for cooking",
     "pronunciationVariants": [
       {
         "accent": "american",
@@ -18620,7 +18620,7 @@
       }
     ],
     "category": "daily-use-nouns",
-    "examples": []
+    "examples": ["Fry the eggs in a pan.", "The pan is hot."]
   },
   {
     "id": "word_panel",
@@ -19066,7 +19066,7 @@
   {
     "id": "word_pension",
     "word": "pension",
-    "meaning": "",
+    "meaning": "a regular payment made after retirement",
     "pronunciationVariants": [
       {
         "accent": "american",
@@ -19082,7 +19082,7 @@
       }
     ],
     "category": "daily-use-nouns",
-    "examples": []
+    "examples": ["He lives on a pension.", "The pension is paid monthly."]
   },
   {
     "id": "word_people",
@@ -22270,7 +22270,7 @@
   {
     "id": "word_row",
     "word": "row",
-    "meaning": "",
+    "meaning": "a straight line of things or people",
     "pronunciationVariants": [
       {
         "accent": "american",
@@ -22286,7 +22286,7 @@
       }
     ],
     "category": "daily-use-nouns",
-    "examples": []
+    "examples": ["We sat in the front row.", "Plant the seeds in a row."]
   },
   {
     "id": "word_rubber_noun",

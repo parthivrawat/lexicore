@@ -310,5 +310,18 @@
     ],
     "category": "verbs",
     "examples": ["Quiero ir.", "Te quiero."]
+  },
+  {
+    "id": "word_es_poder",
+    "word": "poder",
+    "meaning": "to be able to / can",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "poˈðeɾ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Puedo ayudar.", "No puedo ir."]
   }
 ]

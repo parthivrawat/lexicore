@@ -2295,7 +2295,7 @@
   {
     "id": "word_yeah",
     "word": "yeah",
-    "meaning": "",
+    "meaning": "yes (informal)",
     "pronunciationVariants": [
       {
         "accent": "american",
@@ -2311,7 +2311,7 @@
       }
     ],
     "category": "function-words",
-    "examples": []
+    "examples": ["Yeah, I agree.", "Are you coming? Yeah."]
   },
   {
     "id": "word_yes",

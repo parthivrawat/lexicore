@@ -41,7 +41,7 @@
   {
     "id": "word_ur_chhota",
     "word": "چھوٹا",
-    "meaning": "small",
+    "meaning": "small; short",
     "pronunciationVariants": [
       {
         "accent": "urdu",
@@ -49,7 +49,7 @@
       }
     ],
     "category": "adjectives",
-    "examples": ["چھوٹا بچہ۔", "چھوٹا کمرہ۔"]
+    "examples": ["چھوٹا بچہ۔", "چھوٹا کمرہ۔", "چھوٹا آدمی۔", "کم قیمت۔"]
   },
   {
     "id": "word_ur_khubsurat",
@@ -180,19 +180,6 @@
     ],
     "category": "adjectives",
     "examples": ["لمبا آدمی۔", "لمبا پہاڑ۔"]
-  },
-  {
-    "id": "word_ur_chhota_height",
-    "word": "چھوٹا",
-    "meaning": "short",
-    "pronunciationVariants": [
-      {
-        "accent": "urdu",
-        "ipa": "t͡ʃʰoːʈɑː"
-      }
-    ],
-    "category": "adjectives",
-    "examples": ["چھوٹا آدمی۔", "کم قیمت۔"]
   },
   {
     "id": "word_ur_mota",

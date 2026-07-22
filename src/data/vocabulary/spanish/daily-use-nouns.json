@@ -310,5 +310,18 @@
     ],
     "category": "daily-use-nouns",
     "examples": ["Cruza la calle.", "Vivo en esta calle."]
+  },
+  {
+    "id": "word_es_perro",
+    "word": "perro",
+    "meaning": "dog",
+    "pronunciationVariants": [
+      {
+        "accent": "spanish",
+        "ipa": "ˈpe.ro"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Tengo un perro.", "El perro corre."]
   }
 ]

@@ -15,7 +15,7 @@
   {
     "id": "word_vi_tren_prep",
     "word": "trên",
-    "meaning": "on",
+    "meaning": "on; above",
     "pronunciationVariants": [
       {
         "accent": "vietnamese",
@@ -23,7 +23,7 @@
       }
     ],
     "category": "prepositions",
-    "examples": ["Trên bàn.", "Trên ghế."]
+    "examples": ["Trên bàn.", "Trên ghế.", "Trên núi."]
   },
   {
     "id": "word_vi_tu",
@@ -128,19 +128,6 @@
     ],
     "category": "prepositions",
     "examples": ["Trước khi ngủ.", "Trước bữa ăn."]
-  },
-  {
-    "id": "word_vi_tren_prep2",
-    "word": "trên",
-    "meaning": "above",
-    "pronunciationVariants": [
-      {
-        "accent": "vietnamese",
-        "ipa": "t͡ɕen"
-      }
-    ],
-    "category": "prepositions",
-    "examples": ["Trên bàn.", "Trên núi."]
   },
   {
     "id": "word_vi_duoi_prep",

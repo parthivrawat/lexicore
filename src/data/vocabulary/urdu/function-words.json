@@ -41,7 +41,7 @@
   {
     "id": "word_ur_woh",
     "word": "وہ",
-    "meaning": "he/she",
+    "meaning": "he/she; they",
     "pronunciationVariants": [
       {
         "accent": "urdu",
@@ -49,7 +49,7 @@
       }
     ],
     "category": "function-words",
-    "examples": ["وہ طالب علم ہے۔", "وہ یہاں ہے۔"]
+    "examples": ["وہ طالب علم ہے۔", "وہ یہاں ہے۔", "وہ دوست ہیں۔", "وہ یہاں ہیں۔"]
   },
   {
     "id": "word_ur_hum",
@@ -63,19 +63,6 @@
     ],
     "category": "function-words",
     "examples": ["ہم طالب علم ہیں۔", "ہم یہاں ہیں۔"]
-  },
-  {
-    "id": "word_ur_woh_plural",
-    "word": "وہ",
-    "meaning": "they",
-    "pronunciationVariants": [
-      {
-        "accent": "urdu",
-        "ipa": "voː"
-      }
-    ],
-    "category": "function-words",
-    "examples": ["وہ دوست ہیں۔", "وہ یہاں ہیں۔"]
   },
   {
     "id": "word_ur_kya",

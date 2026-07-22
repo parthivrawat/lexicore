@@ -54,7 +54,7 @@
   {
     "id": "word_de_sie_she",
     "word": "sie",
-    "meaning": "she",
+    "meaning": "she; they",
     "pronunciationVariants": [
       {
         "accent": "german",
@@ -62,7 +62,7 @@
       }
     ],
     "category": "function-words",
-    "examples": ["Sie ist Lehrerin.", "Sie ist schön."]
+    "examples": ["Sie ist Lehrerin.", "Sie ist schön.", "Sie sind Freunde.", "Sie sind hier."]
   },
   {
     "id": "word_de_wir",
@@ -89,19 +89,6 @@
     ],
     "category": "function-words",
     "examples": ["Ihr seid Studenten.", "Wie geht es euch?"]
-  },
-  {
-    "id": "word_de_sie_they",
-    "word": "sie",
-    "meaning": "they",
-    "pronunciationVariants": [
-      {
-        "accent": "german",
-        "ipa": "ziː"
-      }
-    ],
-    "category": "function-words",
-    "examples": ["Sie sind Freunde.", "Sie sind hier."]
   },
   {
     "id": "word_de_was",

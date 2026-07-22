@@ -947,7 +947,7 @@
   {
     "id": "word_upon",
     "word": "upon",
-    "meaning": "",
+    "meaning": "on; at the time of",
     "pronunciationVariants": [
       {
         "accent": "american",
@@ -963,7 +963,7 @@
       }
     ],
     "category": "prepositions",
-    "examples": []
+    "examples": ["Once upon a time.", "Place the book upon the table."]
   },
   {
     "id": "word_via",

@@ -3057,7 +3057,7 @@
   {
     "id": "word_amount_verb",
     "word": "amount",
-    "meaning": "",
+    "meaning": "to total or add up to",
     "pronunciationVariants": [
       {
         "accent": "american",
@@ -3073,7 +3073,7 @@
       }
     ],
     "category": "verbs",
-    "examples": []
+    "examples": ["Her debts amount to $1000.", "The bill amounts to fifty dollars."]
   },
   {
     "id": "word_analyse",
@@ -5422,7 +5422,7 @@
   {
     "id": "word_consist",
     "word": "consist",
-    "meaning": "",
+    "meaning": "to be made up of",
     "pronunciationVariants": [
       {
         "accent": "american",
@@ -5438,7 +5438,7 @@
       }
     ],
     "category": "verbs",
-    "examples": []
+    "examples": ["The team consists of five members.", "Her diet consists of vegetables."]
   },
   {
     "id": "word_construct",
@@ -12091,7 +12091,7 @@
   {
     "id": "word_process_verb",
     "word": "process",
-    "meaning": "",
+    "meaning": "to deal with or prepare",
     "pronunciationVariants": [
       {
         "accent": "american",
@@ -12107,7 +12107,7 @@
       }
     ],
     "category": "verbs",
-    "examples": []
+    "examples": ["We need to process the data.", "The factory processes steel."]
   },
   {
     "id": "word_produce_verb",
@@ -13069,7 +13069,7 @@
   {
     "id": "word_rely",
     "word": "rely",
-    "meaning": "",
+    "meaning": "to depend on",
     "pronunciationVariants": [
       {
         "accent": "american",
@@ -13085,7 +13085,7 @@
       }
     ],
     "category": "verbs",
-    "examples": []
+    "examples": ["You can rely on me.", "She relies on her friends."]
   },
   {
     "id": "word_remark_verb",
@@ -15225,7 +15225,7 @@
   {
     "id": "word_sum_verb",
     "word": "sum",
-    "meaning": "",
+    "meaning": "to give a summary of",
     "pronunciationVariants": [
       {
         "accent": "american",
@@ -15241,7 +15241,7 @@
       }
     ],
     "category": "verbs",
-    "examples": []
+    "examples": ["To sum up, we agree.", "Can you sum the main points?"]
   },
   {
     "id": "word_summarize",
@@ -15693,7 +15693,7 @@
   {
     "id": "word_text_verb",
     "word": "text",
-    "meaning": "",
+    "meaning": "to send a text message",
     "pronunciationVariants": [
       {
         "accent": "american",
@@ -15709,7 +15709,7 @@
       }
     ],
     "category": "verbs",
-    "examples": []
+    "examples": ["I will text you later.", "She texted him the address."]
   },
   {
     "id": "word_thank",

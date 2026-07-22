@@ -49,7 +49,7 @@
       }
     ],
     "category": "prepositions",
-    "examples": ["学校まで。", "どこまで？"]
+    "examples": ["学校まで。", "どこまで？", "夕方まで。", "ここまで。"]
   },
   {
     "id": "word_ja_no",
@@ -167,19 +167,6 @@
     ],
     "category": "prepositions",
     "examples": ["家の間。", "私たちの間。"]
-  },
-  {
-    "id": "word_ja_made_prep",
-    "word": "まで",
-    "meaning": "until",
-    "pronunciationVariants": [
-      {
-        "accent": "japanese",
-        "ipa": "made"
-      }
-    ],
-    "category": "prepositions",
-    "examples": ["夕方まで。", "ここまで。"]
   },
   {
     "id": "word_ja_wo",

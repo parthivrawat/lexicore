@@ -1,4 +1,24 @@
 {
+  "word_yue_zi_hau": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "之後",
+        "period": "c. 7th century CE",
+        "meaning": "after"
+      },
+      {
+        "language": "Cantonese",
+        "form": "之後 (zi1 hau6)",
+        "period": "Modern",
+        "meaning": "later"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 之後."
+  },
   "word_yue_hai2": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
@@ -19,87 +39,7 @@
     "cognates": [],
     "notes": "Cantonese colloquial form of 在 (zoi6)."
   },
-  "word_yue_heoi3": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Middle Chinese",
-        "form": "去",
-        "period": "c. 7th century CE",
-        "meaning": "to go, to"
-      },
-      {
-        "language": "Cantonese",
-        "form": "去 (heoi3)",
-        "period": "Modern",
-        "meaning": "to"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Middle Chinese 去."
-  },
-  "word_yue_cung4": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Middle Chinese",
-        "form": "從",
-        "period": "c. 7th century CE",
-        "meaning": "from, follow"
-      },
-      {
-        "language": "Cantonese",
-        "form": "從 (cung4)",
-        "period": "Modern",
-        "meaning": "from"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Middle Chinese 從."
-  },
-  "word_yue_tung4": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Middle Chinese",
-        "form": "同",
-        "period": "c. 7th century CE",
-        "meaning": "with, same"
-      },
-      {
-        "language": "Cantonese",
-        "form": "同 (tung4)",
-        "period": "Modern",
-        "meaning": "with"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Middle Chinese 同 (duwng)."
-  },
-  "word_yue_wai6": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Middle Chinese",
-        "form": "為",
-        "period": "c. 7th century CE",
-        "meaning": "for"
-      },
-      {
-        "language": "Cantonese",
-        "form": "為 (wai4/wai6)",
-        "period": "Modern",
-        "meaning": "for"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Middle Chinese 為."
-  },
-  "word_yue_gwan1": {
+  "word_yue_gwaan_jyu": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -119,67 +59,7 @@
     "cognates": [],
     "notes": "gwaan1 (shut) + jyu1 (at)."
   },
-  "word_yue_mou5": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Middle Chinese",
-        "form": "無",
-        "period": "c. 7th century CE",
-        "meaning": "without"
-      },
-      {
-        "language": "Cantonese",
-        "form": "無 (mou4)",
-        "period": "Modern",
-        "meaning": "without"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Middle Chinese 無 (mju)."
-  },
-  "word_yue_cin4": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Middle Chinese",
-        "form": "前",
-        "period": "c. 7th century CE",
-        "meaning": "before"
-      },
-      {
-        "language": "Cantonese",
-        "form": "前 (cin4)",
-        "period": "Modern",
-        "meaning": "before"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Middle Chinese 前 (dzen)."
-  },
-  "word_yue_hau6": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Middle Chinese",
-        "form": "後",
-        "period": "c. 7th century CE",
-        "meaning": "after"
-      },
-      {
-        "language": "Cantonese",
-        "form": "後 (hau6)",
-        "period": "Modern",
-        "meaning": "after"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Middle Chinese 後 (huwX)."
-  },
-  "word_yue_soeng6_min6": {
+  "word_yue_soeng_min": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [

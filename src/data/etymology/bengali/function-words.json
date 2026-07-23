@@ -71,7 +71,7 @@
     "cognates": [],
     "notes": "Formal 'you' from 'self'."
   },
-  "word_bn_se": {
+  "word_bn_she": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 1500 BCE",
     "timeline": [
@@ -90,26 +90,6 @@
     ],
     "cognates": [],
     "notes": "From Sanskrit स."
-  },
-  "word_bn_tini": {
-    "languageOrigin": "Sanskrit",
-    "yearOfOrigin": "c. 500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "तत् (tat)",
-        "period": "Classical",
-        "meaning": "that"
-      },
-      {
-        "language": "Bengali",
-        "form": "তিনি",
-        "period": "Modern",
-        "meaning": "he/she (formal)"
-      }
-    ],
-    "cognates": [],
-    "notes": "Honorific third person pronoun."
   },
   "word_bn_amra": {
     "languageOrigin": "Sanskrit",
@@ -311,26 +291,6 @@
     "cognates": [],
     "notes": "কী (what) + ভাবে (in manner)."
   },
-  "word_bn_ar": {
-    "languageOrigin": "Sanskrit",
-    "yearOfOrigin": "c. 500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "अपि (api)",
-        "period": "Classical",
-        "meaning": "and, also"
-      },
-      {
-        "language": "Bengali",
-        "form": "আর",
-        "period": "Modern",
-        "meaning": "and"
-      }
-    ],
-    "cognates": [],
-    "notes": "Conjunction 'and'."
-  },
   "word_bn_ba": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 500 BCE",
@@ -431,7 +391,7 @@
     "cognates": [],
     "notes": "PIE *ne."
   },
-  "word_bn_hyan": {
+  "word_bn_haan": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 500 BCE",
     "timeline": [

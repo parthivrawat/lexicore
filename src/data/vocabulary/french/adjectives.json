@@ -1,6 +1,6 @@
 [
   {
-    "id": "word_bon",
+    "id": "word_fr_bon",
     "word": "bon",
     "meaning": "good",
     "pronunciationVariants": [
@@ -21,7 +21,7 @@
     "examples": ["C'est un bon jour.", "Un bon ami."]
   },
   {
-    "id": "word_mauvais",
+    "id": "word_fr_mauvais",
     "word": "mauvais",
     "meaning": "bad",
     "pronunciationVariants": [
@@ -42,7 +42,7 @@
     "examples": ["Mauvais temps.", "Une mauvaise idée."]
   },
   {
-    "id": "word_grand",
+    "id": "word_fr_grand",
     "word": "grand",
     "meaning": "big/tall",
     "pronunciationVariants": [
@@ -63,7 +63,7 @@
     "examples": ["Une grande maison.", "Il est grand."]
   },
   {
-    "id": "word_petit",
+    "id": "word_fr_petit",
     "word": "petit",
     "meaning": "small",
     "pronunciationVariants": [
@@ -84,7 +84,7 @@
     "examples": ["Un petit chien.", "Petit problème."]
   },
   {
-    "id": "word_heureux",
+    "id": "word_fr_heureux",
     "word": "heureux",
     "meaning": "happy",
     "pronunciationVariants": [
@@ -105,7 +105,7 @@
     "examples": ["Je suis heureux.", "Une heureuse nouvelle."]
   },
   {
-    "id": "word_triste",
+    "id": "word_fr_triste",
     "word": "triste",
     "meaning": "sad",
     "pronunciationVariants": [
@@ -126,7 +126,7 @@
     "examples": ["Il est triste.", "Histoire triste."]
   },
   {
-    "id": "word_rapide",
+    "id": "word_fr_rapide",
     "word": "rapide",
     "meaning": "fast",
     "pronunciationVariants": [
@@ -147,7 +147,7 @@
     "examples": ["Voiture rapide.", "Réponse rapide."]
   },
   {
-    "id": "word_lent",
+    "id": "word_fr_lent",
     "word": "lent",
     "meaning": "slow",
     "pronunciationVariants": [
@@ -168,7 +168,7 @@
     "examples": ["Internet lent.", "Mouvement lent."]
   },
   {
-    "id": "word_beau",
+    "id": "word_fr_beau",
     "word": "beau",
     "meaning": "beautiful",
     "pronunciationVariants": [
@@ -189,7 +189,7 @@
     "examples": ["Belle journée.", "Un beau paysage."]
   },
   {
-    "id": "word_laid",
+    "id": "word_fr_laid",
     "word": "laid",
     "meaning": "ugly",
     "pronunciationVariants": [
@@ -210,7 +210,7 @@
     "examples": ["Temps laid.", "Bâtiment laid."]
   },
   {
-    "id": "word_nouveau",
+    "id": "word_fr_nouveau",
     "word": "nouveau",
     "meaning": "new",
     "pronunciationVariants": [
@@ -231,7 +231,7 @@
     "examples": ["Nouvelle voiture.", "Nouveau travail."]
   },
   {
-    "id": "word_vieux",
+    "id": "word_fr_vieux",
     "word": "vieux",
     "meaning": "old",
     "pronunciationVariants": [
@@ -252,7 +252,7 @@
     "examples": ["Vieille maison.", "Un vieil ami."]
   },
   {
-    "id": "word_jeune",
+    "id": "word_fr_jeune",
     "word": "jeune",
     "meaning": "young",
     "pronunciationVariants": [
@@ -273,7 +273,7 @@
     "examples": ["Jeune homme.", "Une jeune femme."]
   },
   {
-    "id": "word_fort",
+    "id": "word_fr_fort",
     "word": "fort",
     "meaning": "strong",
     "pronunciationVariants": [
@@ -294,7 +294,7 @@
     "examples": ["Il est fort.", "Café fort."]
   },
   {
-    "id": "word_faible",
+    "id": "word_fr_faible",
     "word": "faible",
     "meaning": "weak",
     "pronunciationVariants": [
@@ -315,7 +315,7 @@
     "examples": ["Signal faible.", "Il est faible."]
   },
   {
-    "id": "word_riche",
+    "id": "word_fr_riche",
     "word": "riche",
     "meaning": "rich",
     "pronunciationVariants": [
@@ -336,7 +336,7 @@
     "examples": ["Famille riche.", "Pays riche."]
   },
   {
-    "id": "word_pauvre",
+    "id": "word_fr_pauvre",
     "word": "pauvre",
     "meaning": "poor",
     "pronunciationVariants": [
@@ -357,7 +357,7 @@
     "examples": ["Pauvre homme.", "Pays pauvre."]
   },
   {
-    "id": "word_chaud",
+    "id": "word_fr_chaud",
     "word": "chaud",
     "meaning": "hot",
     "pronunciationVariants": [
@@ -378,7 +378,7 @@
     "examples": ["Eau chaude.", "Il fait chaud."]
   },
   {
-    "id": "word_froid",
+    "id": "word_fr_froid",
     "word": "froid",
     "meaning": "cold",
     "pronunciationVariants": [
@@ -399,7 +399,7 @@
     "examples": ["Hiver froid.", "Eau froide."]
   },
   {
-    "id": "word_long",
+    "id": "word_fr_long",
     "word": "long",
     "meaning": "long",
     "pronunciationVariants": [
@@ -420,7 +420,7 @@
     "examples": ["Long voyage.", "Longue histoire."]
   },
   {
-    "id": "word_court",
+    "id": "word_fr_court",
     "word": "court",
     "meaning": "short",
     "pronunciationVariants": [
@@ -441,7 +441,7 @@
     "examples": ["Court film.", "Courte distance."]
   },
   {
-    "id": "word_haut",
+    "id": "word_fr_haut",
     "word": "haut",
     "meaning": "high",
     "pronunciationVariants": [
@@ -462,7 +462,7 @@
     "examples": ["Montagne haute.", "Haute qualité."]
   },
   {
-    "id": "word_bas",
+    "id": "word_fr_bas",
     "word": "bas",
     "meaning": "low",
     "pronunciationVariants": [
@@ -483,7 +483,7 @@
     "examples": ["Prix bas.", "Voix basse."]
   },
   {
-    "id": "word_lourd",
+    "id": "word_fr_lourd",
     "word": "lourd",
     "meaning": "heavy",
     "pronunciationVariants": [
@@ -504,7 +504,7 @@
     "examples": ["Sac lourd.", "Charge lourde."]
   },
   {
-    "id": "word_leger",
+    "id": "word_fr_leger",
     "word": "léger",
     "meaning": "light",
     "pronunciationVariants": [
@@ -525,7 +525,7 @@
     "examples": ["Poids léger.", "Lumière légère."]
   },
   {
-    "id": "word_dur",
+    "id": "word_fr_dur",
     "word": "dur",
     "meaning": "hard",
     "pronunciationVariants": [
@@ -546,7 +546,7 @@
     "examples": ["Travail dur.", "Pierre dure."]
   },
   {
-    "id": "word_doux",
+    "id": "word_fr_doux",
     "word": "doux",
     "meaning": "soft",
     "pronunciationVariants": [
@@ -567,7 +567,7 @@
     "examples": ["Peau douce.", "Musique douce."]
   },
   {
-    "id": "word_facile",
+    "id": "word_fr_facile",
     "word": "facile",
     "meaning": "easy",
     "pronunciationVariants": [
@@ -588,7 +588,7 @@
     "examples": ["Test facile.", "Tâche facile."]
   },
   {
-    "id": "word_difficile",
+    "id": "word_fr_difficile",
     "word": "difficile",
     "meaning": "difficult",
     "pronunciationVariants": [
@@ -609,7 +609,7 @@
     "examples": ["Question difficile.", "Vie difficile."]
   },
   {
-    "id": "word_intelligent",
+    "id": "word_fr_intelligent",
     "word": "intelligent",
     "meaning": "intelligent",
     "pronunciationVariants": [
@@ -630,7 +630,7 @@
     "examples": ["Étudiant intelligent.", "Femme intelligente."]
   },
   {
-    "id": "word_simple",
+    "id": "word_fr_simple",
     "word": "simple",
     "meaning": "simple",
     "pronunciationVariants": [
@@ -651,7 +651,7 @@
     "examples": ["Solution simple.", "Idée simple."]
   },
   {
-    "id": "word_complique",
+    "id": "word_fr_complique",
     "word": "compliqué",
     "meaning": "complicated",
     "pronunciationVariants": [
@@ -672,7 +672,7 @@
     "examples": ["Situation compliquée.", "Problème compliqué."]
   },
   {
-    "id": "word_important",
+    "id": "word_fr_important",
     "word": "important",
     "meaning": "important",
     "pronunciationVariants": [
@@ -693,7 +693,7 @@
     "examples": ["Décision importante.", "Personne importante."]
   },
   {
-    "id": "word_interessant",
+    "id": "word_fr_interessant",
     "word": "intéressant",
     "meaning": "interesting",
     "pronunciationVariants": [
@@ -714,7 +714,7 @@
     "examples": ["Livre intéressant.", "Histoire intéressante."]
   },
   {
-    "id": "word_ennuyeux",
+    "id": "word_fr_ennuyeux",
     "word": "ennuyeux",
     "meaning": "boring",
     "pronunciationVariants": [
@@ -735,7 +735,7 @@
     "examples": ["Film ennuyeux.", "Leçon ennuyeuse."]
   },
   {
-    "id": "word_agreable",
+    "id": "word_fr_agreable",
     "word": "agréable",
     "meaning": "pleasant",
     "pronunciationVariants": [
@@ -756,7 +756,7 @@
     "examples": ["Personne agréable.", "Surprise agréable."]
   },
   {
-    "id": "word_desagreable",
+    "id": "word_fr_desagreable",
     "word": "désagréable",
     "meaning": "unpleasant",
     "pronunciationVariants": [
@@ -777,7 +777,7 @@
     "examples": ["Expérience désagréable.", "Goût désagréable."]
   },
   {
-    "id": "word_propre",
+    "id": "word_fr_propre",
     "word": "propre",
     "meaning": "clean",
     "pronunciationVariants": [
@@ -798,7 +798,7 @@
     "examples": ["Vêtements propres.", "Maison propre."]
   },
   {
-    "id": "word_sale",
+    "id": "word_fr_sale",
     "word": "sale",
     "meaning": "dirty",
     "pronunciationVariants": [
@@ -819,7 +819,7 @@
     "examples": ["Vêtements sales.", "Main sale."]
   },
   {
-    "id": "word_clair",
+    "id": "word_fr_clair",
     "word": "clair",
     "meaning": "clear",
     "pronunciationVariants": [
@@ -840,7 +840,7 @@
     "examples": ["Eau claire.", "Explication claire."]
   },
   {
-    "id": "word_sombre",
+    "id": "word_fr_sombre",
     "word": "sombre",
     "meaning": "dark",
     "pronunciationVariants": [
@@ -861,7 +861,7 @@
     "examples": ["Nuit sombre.", "Pièce sombre."]
   },
   {
-    "id": "word_plein",
+    "id": "word_fr_plein",
     "word": "plein",
     "meaning": "full",
     "pronunciationVariants": [
@@ -882,7 +882,7 @@
     "examples": ["Verre plein.", "Salle pleine."]
   },
   {
-    "id": "word_vide",
+    "id": "word_fr_vide",
     "word": "vide",
     "meaning": "empty",
     "pronunciationVariants": [
@@ -903,7 +903,7 @@
     "examples": ["Chambre vide.", "Bouteille vide."]
   },
   {
-    "id": "word_rouge",
+    "id": "word_fr_rouge",
     "word": "rouge",
     "meaning": "red",
     "pronunciationVariants": [
@@ -924,7 +924,7 @@
     "examples": ["Voiture rouge.", "Lune rouge."]
   },
   {
-    "id": "word_bleu",
+    "id": "word_fr_bleu",
     "word": "bleu",
     "meaning": "blue",
     "pronunciationVariants": [
@@ -945,7 +945,7 @@
     "examples": ["Ciel bleu.", "Mer bleue."]
   },
   {
-    "id": "word_vert",
+    "id": "word_fr_vert",
     "word": "vert",
     "meaning": "green",
     "pronunciationVariants": [
@@ -966,7 +966,7 @@
     "examples": ["Herbe verte.", "Forêt verte."]
   },
   {
-    "id": "word_jaune",
+    "id": "word_fr_jaune",
     "word": "jaune",
     "meaning": "yellow",
     "pronunciationVariants": [
@@ -987,7 +987,7 @@
     "examples": ["Soleil jaune.", "Feuille jaune."]
   },
   {
-    "id": "word_noir",
+    "id": "word_fr_noir",
     "word": "noir",
     "meaning": "black",
     "pronunciationVariants": [
@@ -1008,7 +1008,7 @@
     "examples": ["Chat noir.", "Nuit noire."]
   },
   {
-    "id": "word_blanc",
+    "id": "word_fr_blanc",
     "word": "blanc",
     "meaning": "white",
     "pronunciationVariants": [
@@ -1029,7 +1029,7 @@
     "examples": ["Neige blanche.", "Chemise blanche."]
   },
   {
-    "id": "word_gentil",
+    "id": "word_fr_gentil",
     "word": "gentil",
     "meaning": "kind",
     "pronunciationVariants": [
@@ -1050,7 +1050,7 @@
     "examples": ["Gentil garçon.", "Femme gentille."]
   },
   {
-    "id": "word_mechant",
+    "id": "word_fr_mechant",
     "word": "méchant",
     "meaning": "mean",
     "pronunciationVariants": [
@@ -1071,7 +1071,7 @@
     "examples": ["Chien méchant.", "Personne méchante."]
   },
   {
-    "id": "word_courageux",
+    "id": "word_fr_courageux",
     "word": "courageux",
     "meaning": "brave",
     "pronunciationVariants": [
@@ -1092,7 +1092,7 @@
     "examples": ["Homme courageux.", "Femme courageuse."]
   },
   {
-    "id": "word_timide",
+    "id": "word_fr_timide",
     "word": "timide",
     "meaning": "shy",
     "pronunciationVariants": [
@@ -1113,7 +1113,7 @@
     "examples": ["Enfant timide.", "Personne timide."]
   },
   {
-    "id": "word_serieux",
+    "id": "word_fr_serieux",
     "word": "sérieux",
     "meaning": "serious",
     "pronunciationVariants": [
@@ -1134,7 +1134,7 @@
     "examples": ["Problème sérieux.", "Femme sérieuse."]
   },
   {
-    "id": "word_drole",
+    "id": "word_fr_drole",
     "word": "drôle",
     "meaning": "funny",
     "pronunciationVariants": [
@@ -1155,7 +1155,7 @@
     "examples": ["Histoire drôle.", "Personne drôle."]
   },
   {
-    "id": "word_occupé",
+    "id": "word_fr_occupé",
     "word": "occupé",
     "meaning": "busy",
     "pronunciationVariants": [
@@ -1176,7 +1176,7 @@
     "examples": ["Je suis occupé.", "Journée occupée."]
   },
   {
-    "id": "word_libre",
+    "id": "word_fr_libre",
     "word": "libre",
     "meaning": "free",
     "pronunciationVariants": [
@@ -1197,7 +1197,7 @@
     "examples": ["Temps libre.", "Personne libre."]
   },
   {
-    "id": "word_certain",
+    "id": "word_fr_certain",
     "word": "certain",
     "meaning": "certain",
     "pronunciationVariants": [
@@ -1218,7 +1218,7 @@
     "examples": ["C'est certain.", "Personne certaine."]
   },
   {
-    "id": "word_possible",
+    "id": "word_fr_possible",
     "word": "possible",
     "meaning": "possible",
     "pronunciationVariants": [
@@ -1239,7 +1239,7 @@
     "examples": ["C'est possible.", "Solution possible."]
   },
   {
-    "id": "word_impossible",
+    "id": "word_fr_impossible",
     "word": "impossible",
     "meaning": "impossible",
     "pronunciationVariants": [
@@ -1260,7 +1260,7 @@
     "examples": ["C'est impossible.", "Tâche impossible."]
   },
   {
-    "id": "word_necessaire",
+    "id": "word_fr_necessaire",
     "word": "nécessaire",
     "meaning": "necessary",
     "pronunciationVariants": [
@@ -1281,7 +1281,7 @@
     "examples": ["Action nécessaire.", "Information nécessaire."]
   },
   {
-    "id": "word_utile",
+    "id": "word_fr_utile",
     "word": "utile",
     "meaning": "useful",
     "pronunciationVariants": [
@@ -1302,7 +1302,7 @@
     "examples": ["Outil utile.", "Information utile."]
   },
   {
-    "id": "word_inutile",
+    "id": "word_fr_inutile",
     "word": "inutile",
     "meaning": "useless",
     "pronunciationVariants": [
@@ -1323,7 +1323,7 @@
     "examples": ["Objet inutile.", "Discussion inutile."]
   },
   {
-    "id": "word_dangereux",
+    "id": "word_fr_dangereux",
     "word": "dangereux",
     "meaning": "dangerous",
     "pronunciationVariants": [
@@ -1344,7 +1344,7 @@
     "examples": ["Animal dangereux.", "Situation dangereuse."]
   },
   {
-    "id": "word_sur",
+    "id": "word_fr_sur",
     "word": "sûr",
     "meaning": "sure",
     "pronunciationVariants": [
@@ -1365,7 +1365,7 @@
     "examples": ["Je suis sûr.", "Réponse sûre."]
   },
   {
-    "id": "word_correct",
+    "id": "word_fr_correct",
     "word": "correct",
     "meaning": "correct",
     "pronunciationVariants": [
@@ -1386,7 +1386,7 @@
     "examples": ["Réponse correcte.", "Information correcte."]
   },
   {
-    "id": "word_faux",
+    "id": "word_fr_faux",
     "word": "faux",
     "meaning": "false",
     "pronunciationVariants": [
@@ -1407,7 +1407,7 @@
     "examples": ["Information fausse.", "Vraie ou fausse?"]
   },
   {
-    "id": "word_vrai",
+    "id": "word_fr_vrai",
     "word": "vrai",
     "meaning": "true",
     "pronunciationVariants": [
@@ -1428,7 +1428,7 @@
     "examples": ["Histoire vraie.", "C'est vrai."]
   },
   {
-    "id": "word_fameux",
+    "id": "word_fr_fameux",
     "word": "fameux",
     "meaning": "famous",
     "pronunciationVariants": [
@@ -1449,7 +1449,7 @@
     "examples": ["Acteur célèbre.", "Ville célèbre."]
   },
   {
-    "id": "word_inconnu",
+    "id": "word_fr_inconnu",
     "word": "inconnu",
     "meaning": "unknown",
     "pronunciationVariants": [
@@ -1470,7 +1470,7 @@
     "examples": ["Personne inconnue.", "Lieu inconnu."]
   },
   {
-    "id": "word_connu",
+    "id": "word_fr_connu",
     "word": "connu",
     "meaning": "known",
     "pronunciationVariants": [
@@ -1491,7 +1491,7 @@
     "examples": ["Artiste connu.", "Chanson connue."]
   },
   {
-    "id": "word_seul",
+    "id": "word_fr_seul",
     "word": "seul",
     "meaning": "alone",
     "pronunciationVariants": [
@@ -1512,7 +1512,7 @@
     "examples": ["Je suis seul.", "Maison seule."]
   },
   {
-    "id": "word_ensemble",
+    "id": "word_fr_ensemble",
     "word": "ensemble",
     "meaning": "together",
     "pronunciationVariants": [
@@ -1531,5 +1531,152 @@
     ],
     "category": "adjectives",
     "examples": ["Allons ensemble.", "Travaillons ensemble."]
+  },
+  {
+    "id": "word_fr_gros",
+    "word": "gros",
+    "meaning": "big/fat",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "gʁo"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "gʁo"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "gʁo"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Un gros chat.", "Il fait gros."]
+  },
+  {
+    "id": "word_fr_mince",
+    "word": "mince",
+    "meaning": "thin/slim",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "mɛ̃s"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "mɛ̃s"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "mɛ̃s"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Une fille mince.", "Ce livre est mince."]
+  },
+  {
+    "id": "word_fr_content",
+    "word": "content",
+    "meaning": "happy/pleased",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "kɔ̃tɑ̃"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "kɔ̃tɑ̃"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "kɔ̃tɑ̃"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Je suis content.", "Elle est contente de te voir."]
+  },
+  {
+    "id": "word_fr_fatigue",
+    "word": "fatigué",
+    "meaning": "tired",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "fatiɡe"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "fatiɡe"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "fatiɡe"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Je suis fatigué.", "Elle semble fatiguée."]
+  },
+  {
+    "id": "word_fr_malade",
+    "word": "malade",
+    "meaning": "sick/ill",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "malad"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "malad"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "malad"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Il est malade.", "Je me sens malade."]
+  },
+  {
+    "id": "word_fr_pret",
+    "word": "prêt",
+    "meaning": "ready",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "pʁɛ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "pʁɛ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "pʁɛ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["Je suis prêt.", "Le dîner est prêt."]
+  },
+  {
+    "id": "word_fr_cher",
+    "word": "cher",
+    "meaning": "expensive/dear",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "ʃɛʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "ʃɛʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "ʃɛʁ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["C'est trop cher.", "Mon cher ami."]
   }
 ]

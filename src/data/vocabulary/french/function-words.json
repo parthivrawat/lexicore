@@ -258,5 +258,174 @@
     ],
     "category": "function-words",
     "examples": ["Le livre.", "La maison."]
+  },
+  {
+    "id": "word_fr_on",
+    "word": "on",
+    "meaning": "one/we (indefinite)",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "ɔ̃"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["On va au cinéma.", "On dit que c'est vrai."]
+  },
+  {
+    "id": "word_fr_un_une",
+    "word": "un/une",
+    "meaning": "a/an",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "œ̃/yn"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Un livre intéressant.", "Une belle maison."]
+  },
+  {
+    "id": "word_fr_des",
+    "word": "des",
+    "meaning": "some (plural)",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "de"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Des amis sont venus.", "J'ai des questions."]
+  },
+  {
+    "id": "word_fr_ce_cette",
+    "word": "ce/cette",
+    "meaning": "this (masculine/feminine)",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "sə/sɛt"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ce garçon est gentil.", "Cette fille est intelligente."]
+  },
+  {
+    "id": "word_fr_ces",
+    "word": "ces",
+    "meaning": "these/those",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "se"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ces livres sont à moi.", "J'aime ces fleurs."]
+  },
+  {
+    "id": "word_fr_mon_ma_mes",
+    "word": "mon/ma/mes",
+    "meaning": "my",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "mɔ̃/ma/me"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Mon frère.", "Ma soeur.", "Mes amis."]
+  },
+  {
+    "id": "word_fr_ton_ta_tes",
+    "word": "ton/ta/tes",
+    "meaning": "your (informal)",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "tɔ̃/ta/te"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Ton chien.", "Ta maison.", "Tes livres."]
+  },
+  {
+    "id": "word_fr_son_sa_ses",
+    "word": "son/sa/ses",
+    "meaning": "his/her/its",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "sɔ̃/sa/se"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Son livre.", "Sa voiture.", "Ses enfants."]
+  },
+  {
+    "id": "word_fr_notre_nos",
+    "word": "notre/nos",
+    "meaning": "our",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "nɔtʁ/no"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Notre maison.", "Nos amis."]
+  },
+  {
+    "id": "word_fr_votre_vos",
+    "word": "votre/vos",
+    "meaning": "your (formal/plural)",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "vɔtʁ/vo"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Votre nom.", "Vos enfants."]
+  },
+  {
+    "id": "word_fr_leur_leurs",
+    "word": "leur/leurs",
+    "meaning": "their",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "lœʁ/lœʁ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Leur maison.", "Leurs livres."]
+  },
+  {
+    "id": "word_fr_que",
+    "word": "que",
+    "meaning": "that/which/what",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "kə"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["Je pense que oui.", "Que veux-tu?"]
+  },
+  {
+    "id": "word_fr_dont",
+    "word": "dont",
+    "meaning": "of which/whose",
+    "pronunciationVariants": [
+      {
+        "accent": "french",
+        "ipa": "dɔ̃"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["L'homme dont je parle.", "Voici le livre dont tu as besoin."]
   }
 ]

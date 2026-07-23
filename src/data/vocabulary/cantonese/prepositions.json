@@ -1,6 +1,6 @@
 [
   {
-    "id": "word_yue_hai",
+    "id": "word_yue_hai2",
     "word": "喺",
     "meaning": "in/at",
     "pronunciationVariants": [
@@ -11,19 +11,6 @@
     ],
     "category": "prepositions",
     "examples": ["喺屋企。", "喺呢度。"]
-  },
-  {
-    "id": "word_yue_heoi",
-    "word": "去",
-    "meaning": "to",
-    "pronunciationVariants": [
-      {
-        "accent": "cantonese",
-        "ipa": "heoi³"
-      }
-    ],
-    "category": "prepositions",
-    "examples": ["去學校。", "去邊度？"]
   },
   {
     "id": "word_yue_hai_dou",
@@ -37,32 +24,6 @@
     ],
     "category": "prepositions",
     "examples": ["喺香港嚟。", "喺邊度嚟？"]
-  },
-  {
-    "id": "word_yue_tung",
-    "word": "同",
-    "meaning": "with",
-    "pronunciationVariants": [
-      {
-        "accent": "cantonese",
-        "ipa": "tung⁴"
-      }
-    ],
-    "category": "prepositions",
-    "examples": ["同朋友。", "同邊個？"]
-  },
-  {
-    "id": "word_yue_bei",
-    "word": "畀",
-    "meaning": "for",
-    "pronunciationVariants": [
-      {
-        "accent": "cantonese",
-        "ipa": "bei²"
-      }
-    ],
-    "category": "prepositions",
-    "examples": ["畀你。", "畀佢。"]
   },
   {
     "id": "word_yue_gwaan_jyu",
@@ -128,5 +89,83 @@
     ],
     "category": "prepositions",
     "examples": ["喺上面。", "枱上面。"]
+  },
+  {
+    "id": "word_yue_haa_min",
+    "word": "下面",
+    "meaning": "under/below",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "haa⁶ min⁶"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["喺下面。", "枱下面。"]
+  },
+  {
+    "id": "word_yue_gan",
+    "word": "近",
+    "meaning": "near",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "gan⁶"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["近啲。", "好近。"]
+  },
+  {
+    "id": "word_yue_zung_gaan",
+    "word": "中間",
+    "meaning": "between/middle",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "zung¹ gaan¹"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["喺中間。", "兩個中間。"]
+  },
+  {
+    "id": "word_yue_zau_wai",
+    "word": "周圍",
+    "meaning": "around",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "zau¹ wai⁴"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["周圍行。", "周圍睇。"]
+  },
+  {
+    "id": "word_yue_hou_ci",
+    "word": "好似",
+    "meaning": "like",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "hou² ci⁵"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["好似我。", "好似你。"]
+  },
+  {
+    "id": "word_yue_jau",
+    "word": "由",
+    "meaning": "from / since",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "jau⁴"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["由香港嚟。", "由呢度開始。"]
   }
 ]

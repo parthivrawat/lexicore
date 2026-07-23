@@ -1,5 +1,5 @@
 {
-  "word_a": {
+  "word_en_a": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -18,7 +18,7 @@
     ],
     "notes": "From Middle English a, an, from Old English ān (“one; a; lone; sole”). The final “n” was gradually lost before consonants in almost all dialects by the 15th century."
   },
-  "word_after_conjunction": {
+  "word_en_after_conjunction": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -45,7 +45,7 @@
     ],
     "notes": "From Middle English after, from Old English æfter, from Proto-West Germanic *aftar, from Proto-Germanic *after, *aftiri, from Proto-Indo-European *h₂epoteros (“further behind, further away”), from *h₂epo (“off, away”).\nCognate with Scots efter (“after”), North Frisian efter (“after, behind”), West Frisian after, achter, efter (“behind; after”), Low German/Dutch achter (“behind”), German after- (“after-”), Swedish/Danish efter (“after”), Norwegian Nynorsk/Norwegian Bokmål etter (“after”), Iceland…"
   },
-  "word_ah": {
+  "word_en_ah": {
     "languageOrigin": "Old French",
     "timeline": [
       {
@@ -68,7 +68,7 @@
     ],
     "notes": "From Middle English ah, aa, a (“ah”), of imitative origin, or from Old English ēa, *eah (“oh, alas”), from Proto-West Germanic *a, *ah (“ah”). Earliest recorded use is circa 1175 in the Ormulum: A, Maȝȝstre! icc wat tatt tu full wiss Arrt Godess Sune (\"Ah, Master! I know for sure that thou art God's Son\"). Some propose that the Middle English is borrowed from Old French a (“ah!, oh!, hey!”) (represented by modern French ah)."
   },
-  "word_all_determiner": {
+  "word_en_all_determiner": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -95,7 +95,7 @@
     ],
     "notes": "From Middle English all, from Old English eall, from Proto-West Germanic *all, from Proto-Germanic *allaz, of uncertain origin but perhaps from Proto-Indo-European *h₂el- (“all”).\nCognates\nCognate with Scots a, a', aa, aal, aw (“all”), Yola aal, al, all, aul (“all”), North Frisian aal, aale, ale, ali, åle (“all”), Saterland Frisian al (“already”), aal (“all”), West Frisian alle (“all”), Dutch al (“all”), German and Luxembourgish all (“all”), Vilamovian oły, ołły (“all”), Yiddish אַלע (ale, “all”…"
   },
-  "word_all_pronoun": {
+  "word_en_all_pronoun": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -122,7 +122,7 @@
     ],
     "notes": "From Middle English all, from Old English eall, from Proto-West Germanic *all, from Proto-Germanic *allaz, of uncertain origin but perhaps from Proto-Indo-European *h₂el- (“all”).\nCognates\nCognate with Scots a, a', aa, aal, aw (“all”), Yola aal, al, all, aul (“all”), North Frisian aal, aale, ale, ali, åle (“all”), Saterland Frisian al (“already”), aal (“all”), West Frisian alle (“all”), Dutch al (“all”), German and Luxembourgish all (“all”), Vilamovian oły, ołły (“all”), Yiddish אַלע (ale, “all”…"
   },
-  "word_although": {
+  "word_en_although": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -136,7 +136,7 @@
     ],
     "notes": "From Middle English althagh, from Old English compound of eall (“all (emphatic)”) + þēah (“though”). By surface analysis, al(l) + though."
   },
-  "word_and": {
+  "word_en_and": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -163,7 +163,7 @@
     ],
     "notes": "Inherited from Middle English and, an, from Old English and, ond, end, from Proto-West Germanic *andi, from Proto-Germanic *andi, *anþi, from Proto-Indo-European *h₂énti (“facing opposite, near, in front of, before”). Cognate with Scots an (“and”), North Frisian än (“and”), Saterland Frisian un (“and”), West Frisian en (“and”), Dutch en, ende (“and”), German und (“and”), German Low German on, un (“and”), Luxembourgish an (“and”), Vilamovian an, ana (“and”), Yiddish און (un), אונ (un), אונד (und)…"
   },
-  "word_another": {
+  "word_en_another": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -173,7 +173,7 @@
     ],
     "notes": "From Middle English another. By surface analysis, an + other."
   },
-  "word_another_pronoun": {
+  "word_en_another_pronoun": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -183,7 +183,7 @@
     ],
     "notes": "From Middle English another. By surface analysis, an + other."
   },
-  "word_any_determiner": {
+  "word_en_any_determiner": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -206,7 +206,7 @@
     ],
     "notes": "From Middle English any, eny, ony, ani, aniȝ, eniȝ, æniȝ, from Old English ǣniġ (“any”), from Proto-West Germanic *ainīg, *ainag, from Proto-Germanic *ainagaz, from Proto-Germanic *ainaz (“one”), equivalent to one + -y.\nCognate with Saterland Frisian eenich (“some”), West Frisian iennich (“only”), Dutch enig (“any, some”), Afrikaans enig (“any”), German Low German enig (“some”), German einig (“some”); via Proto-Indo-European *óynos cognate with Latin ūllus (“any”), Latin ūnicus (whence Italian u…"
   },
-  "word_any_pronoun": {
+  "word_en_any_pronoun": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -229,7 +229,7 @@
     ],
     "notes": "From Middle English any, eny, ony, ani, aniȝ, eniȝ, æniȝ, from Old English ǣniġ (“any”), from Proto-West Germanic *ainīg, *ainag, from Proto-Germanic *ainagaz, from Proto-Germanic *ainaz (“one”), equivalent to one + -y.\nCognate with Saterland Frisian eenich (“some”), West Frisian iennich (“only”), Dutch enig (“any, some”), Afrikaans enig (“any”), German Low German enig (“some”), German einig (“some”); via Proto-Indo-European *óynos cognate with Latin ūllus (“any”), Latin ūnicus (whence Italian u…"
   },
-  "word_anybody": {
+  "word_en_anybody": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -243,12 +243,12 @@
     ],
     "notes": "From Middle English ani-bodi, anybodi, eny body, equivalent to any + body."
   },
-  "word_anyone": {
+  "word_en_anyone": {
     "languageOrigin": "English",
     "timeline": [],
     "notes": "From Middle English eny on, ony one, equivalent to any + one."
   },
-  "word_anything": {
+  "word_en_anything": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -258,7 +258,7 @@
     ],
     "notes": "From Middle English anything, enything, onything, from Late Old English aniþing, from earlier ǣniġ þing (literally “any thing”), equivalent to any + thing."
   },
-  "word_as_conjunction": {
+  "word_en_as_conjunction": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -273,7 +273,7 @@
     ],
     "notes": "From Middle English as, als(a), alswa, from Old English eallswā (“just so; as”), thus representing a reduced form of also. Compare German Low German a(l)s, German als, Dutch als."
   },
-  "word_attention": {
+  "word_en_attention": {
     "languageOrigin": "Latin",
     "timeline": [
       {
@@ -291,12 +291,12 @@
     ],
     "notes": "From Middle English attencioun, borrowed from Latin attentio, attentionis, from attendere, past participle attentus (“to attend, give heed to”); see attend. Equivalent to attend + -tion."
   },
-  "word_because": {
+  "word_en_because": {
     "languageOrigin": "English",
     "timeline": [],
     "notes": "From Middle English bi cause, from bi (“by”) + cause, modelled on Old French par cause."
   },
-  "word_before_conjunction": {
+  "word_en_before_conjunction": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -319,7 +319,7 @@
     ],
     "notes": "Inherited from Middle English before /bifore, from Old English beforan, from be- + foran (“before”), from fore, from Proto-Germanic *furai, from Proto-Indo-European *per- (“front”). Cognate with Saterland Frisian befoar (“before”), German Low German bevör (“before”), German bevor (“before”)."
   },
-  "word_both": {
+  "word_en_both": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -345,7 +345,7 @@
     ],
     "notes": "From Middle English bothe, boþe, from Old English bā þā (“both the; both those”) and possibly reinforced by Old Norse báðir, from Proto-Germanic *bai. Cognate with Saterland Frisian bee (“both”), West Frisian beide (“both”), Dutch beide (“both”), German beide (“both”), Swedish både, båda, Danish både, Norwegian både, Icelandic báðir. Replaced Middle English bō, from Old English bā, a form of Old English bēġen. A remnant of the Indo-European dual grammatical number."
   },
-  "word_both_pronoun": {
+  "word_en_both_pronoun": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -371,7 +371,7 @@
     ],
     "notes": "From Middle English bothe, boþe, from Old English bā þā (“both the; both those”) and possibly reinforced by Old Norse báðir, from Proto-Germanic *bai. Cognate with Saterland Frisian bee (“both”), West Frisian beide (“both”), Dutch beide (“both”), German beide (“both”), Swedish både, båda, Danish både, Norwegian både, Icelandic báðir. Replaced Middle English bō, from Old English bā, a form of Old English bēġen. A remnant of the Indo-European dual grammatical number."
   },
-  "word_but": {
+  "word_en_but": {
     "languageOrigin": "Proto-West Germanic",
     "timeline": [
       {
@@ -390,7 +390,7 @@
     ],
     "notes": "From Middle English but, buten, boute, bouten, from Old English būtan (“without, outside of, except, only”), from Proto-West Germanic *biūtan, *biūtini, equivalent to be- + out. Cognate with Scots but, bot (“outside, without, but”), Saterland Frisian buute (“without”), West Frisian bûten (“outside of, apart from, other than, except, but”), Dutch buiten (“outside”), Dutch Low Saxon buten (“outside”), German Low German buuten, buute (“outside”), obsolete German baußen (“outside”), Luxembourgish ba…"
   },
-  "word_bye_exclamation": {
+  "word_en_bye_exclamation": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -405,7 +405,7 @@
     ],
     "notes": "Variant form of by, from Old English bī (“being near”)."
   },
-  "word_dear_exclamation": {
+  "word_en_dear_exclamation": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -433,7 +433,7 @@
     ],
     "notes": "From Middle English dere, from Old English dīere (“of great value or excellence, expensive, beloved”), from Proto-West Germanic *diurī, from Proto-Germanic *diurijaz (“dear, precious, expensive”). Cognate with Scots dere, deir (“of great value or worth, highly valued, precious, beloved”), Saterland Frisian djuur (“precious, dear, costly, expensive”), Dutch duur (“costly, precious”), German teuer (“costly, precious”), German Low German düür, Danish dyr (“expensive”), Swedish dyr (“expensive”), No…"
   },
-  "word_double_determiner": {
+  "word_en_double_determiner": {
     "languageOrigin": "Latin",
     "timeline": [
       {
@@ -452,7 +452,7 @@
     ],
     "notes": "PIE word\n *dwóh₁\nFrom Middle English double, from Old French doble, double, from Latin duplus (“twofold”). Doublet of doppio and duple."
   },
-  "word_double_pronoun": {
+  "word_en_double_pronoun": {
     "languageOrigin": "Latin",
     "timeline": [
       {
@@ -471,7 +471,7 @@
     ],
     "notes": "PIE word\n *dwóh₁\nFrom Middle English double, from Old French doble, double, from Latin duplus (“twofold”). Doublet of doppio and duple."
   },
-  "word_dozen": {
+  "word_en_dozen": {
     "languageOrigin": "Latin",
     "timeline": [
       {
@@ -491,7 +491,7 @@
     ],
     "notes": "From Middle English dozen, dozein, doseyne, from Old French dozaine (“a group of twelve”) (Modern French douzaine), from doze (“twelve”) + -aine (“-ish”), from Latin duodecim (“twelve”) (from duo (“two”) + decem (“ten”)) + -ana (“-ish”)."
   },
-  "word_each_determiner": {
+  "word_en_each_determiner": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -509,7 +509,7 @@
     ],
     "notes": "From Middle English eche, elche, ilch, from Old English ǣlċ, contraction of ǣġhwelċ. Comparable to aye + alike.\nCompare Scots ilk, elk (“each, every”), Saterland Frisian älk (“each”), West Frisian elk, elts (“each”), Dutch elk (“each”), Low German elk, ellik (“each”), German Low German elk, elke (“each, every”), German jeglicher (“any”). By surface analysis, Old English ā + which."
   },
-  "word_each_pronoun": {
+  "word_en_each_pronoun": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -527,7 +527,7 @@
     ],
     "notes": "From Middle English eche, elche, ilch, from Old English ǣlċ, contraction of ǣġhwelċ. Comparable to aye + alike.\nCompare Scots ilk, elk (“each, every”), Saterland Frisian älk (“each”), West Frisian elk, elts (“each”), Dutch elk (“each”), Low German elk, ellik (“each”), German Low German elk, elke (“each, every”), German jeglicher (“any”). By surface analysis, Old English ā + which."
   },
-  "word_either_determiner": {
+  "word_en_either_determiner": {
     "languageOrigin": "Proto-West Germanic",
     "timeline": [
       {
@@ -545,7 +545,7 @@
     ],
     "notes": "From Middle English either, from Old English ǣġhwæþer, from Proto-West Germanic *aiw + *gahwaþar. Akin to Old Saxon eogihwethar, iahwethar (Low German jeed); Old Dutch *iogewether, *iowether, *iother (Dutch ieder); Old High German eogihwedar, iegihweder, ieweder (German jeder).\nThe pronunciations with /iː/ and /eɪ/ respectively reflect Middle English forms in /ɛː/ and /æi/; the origin of that with /aɪ/ is less clear, but it may reflect a Middle English form with /iː/; see Middle English either f…"
   },
-  "word_either_pronoun": {
+  "word_en_either_pronoun": {
     "languageOrigin": "Proto-West Germanic",
     "timeline": [
       {
@@ -563,7 +563,7 @@
     ],
     "notes": "From Middle English either, from Old English ǣġhwæþer, from Proto-West Germanic *aiw + *gahwaþar. Akin to Old Saxon eogihwethar, iahwethar (Low German jeed); Old Dutch *iogewether, *iowether, *iother (Dutch ieder); Old High German eogihwedar, iegihweder, ieweder (German jeder).\nThe pronunciations with /iː/ and /eɪ/ respectively reflect Middle English forms in /ɛː/ and /æi/; the origin of that with /aɪ/ is less clear, but it may reflect a Middle English form with /iː/; see Middle English either f…"
   },
-  "word_enough_determiner": {
+  "word_en_enough_determiner": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -592,7 +592,7 @@
     ],
     "notes": "From Middle English ynogh, from Old English ġenōg (“enough”), from Proto-Germanic *ganōgaz (“enough”) (compare Scots eneuch, West Frisian genôch, Dutch genoeg, German genug, Low German (ge)noog, Danish nok, Swedish nog, Icelandic nógur), from *ganuganą 'to suffice' (compare Old English ġeneah), or from *ga- + an unattested *nōgaz, probably ultimately from Proto-Indo-European *h₂eh₂nó(n)ḱe (“he has reached, attained”), perfective of *h₂neḱ- (“to reach”) (compare Old Irish tánaic (“he arrived”), L…"
   },
-  "word_enough_pronoun": {
+  "word_en_enough_pronoun": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -621,7 +621,7 @@
     ],
     "notes": "From Middle English ynogh, from Old English ġenōg (“enough”), from Proto-Germanic *ganōgaz (“enough”) (compare Scots eneuch, West Frisian genôch, Dutch genoeg, German genug, Low German (ge)noog, Danish nok, Swedish nog, Icelandic nógur), from *ganuganą 'to suffice' (compare Old English ġeneah), or from *ga- + an unattested *nōgaz, probably ultimately from Proto-Indo-European *h₂eh₂nó(n)ḱe (“he has reached, attained”), perfective of *h₂neḱ- (“to reach”) (compare Old Irish tánaic (“he arrived”), L…"
   },
-  "word_every": {
+  "word_en_every": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -635,7 +635,7 @@
     ],
     "notes": "Inherited from Middle English every, everich, everych, from Old English ǣfre ǣlċ, ǣfre ǣġhwelċ. By surface analysis, ever + each or ever + which."
   },
-  "word_everyone": {
+  "word_en_everyone": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -649,12 +649,12 @@
     ],
     "notes": "An alteration of earlier everychone after every, from Middle English everichon. By surface analysis, every + one."
   },
-  "word_everything": {
+  "word_en_everything": {
     "languageOrigin": "English",
     "timeline": [],
     "notes": "Inherited from Middle English every thing; univerbation of every + thing."
   },
-  "word_except": {
+  "word_en_except": {
     "languageOrigin": "Latin",
     "timeline": [
       {
@@ -672,7 +672,7 @@
     ],
     "notes": "Borrowed from Middle French excepter, from Latin exceptus."
   },
-  "word_few_determiner": {
+  "word_en_few_determiner": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -705,7 +705,7 @@
     ],
     "notes": "From Middle English fewe, from Old English fēaw (“few”), from Proto-West Germanic *fau, from Proto-Germanic *fawaz (“few”), from Proto-Indo-European *peh₂w- (“few, small”).\nCognate with Old Saxon fā (“few”), Old High German fao, fō (“few, little”), Old Norse fár (“few”), Gothic 𐍆𐌰𐌿𐍃 (faus, “few”). Also related with Latin paucus (“little, few”) and pauper (“poor”), from which latter English poor and pauper; see these."
   },
-  "word_few_pronoun": {
+  "word_en_few_pronoun": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -738,7 +738,7 @@
     ],
     "notes": "From Middle English fewe, from Old English fēaw (“few”), from Proto-West Germanic *fau, from Proto-Germanic *fawaz (“few”), from Proto-Indo-European *peh₂w- (“few, small”).\nCognate with Old Saxon fā (“few”), Old High German fao, fō (“few, little”), Old Norse fár (“few”), Gothic 𐍆𐌰𐌿𐍃 (faus, “few”). Also related with Latin paucus (“little, few”) and pauper (“poor”), from which latter English poor and pauper; see these."
   },
-  "word_first_determiner": {
+  "word_en_first_determiner": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -766,7 +766,7 @@
     ],
     "notes": "From Middle English first, furst, ferst, fyrst, from Old English fyrest, from Proto-West Germanic *furist, from Proto-Germanic *furistaz (“first, foremost”), superlative of Proto-Germanic *furai, *furi (“before”), from Proto-Indo-European *preh₂- (“before”), from *per- (“before; first”), equivalent to fore + -est.\nCognates\nCognate with Scots first (“first”), Dutch voorste (“foremost, first”), vorst (“prince”), German Fürst (“chief, prince”, literally “first (born)”), Limburgish Vürsch (“prince”)…"
   },
-  "word_half_determiner": {
+  "word_en_half_determiner": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -789,7 +789,7 @@
     ],
     "notes": "From Middle English half, halfe from Old English healf (“half”); as a noun, 'half', 'side', 'part', from Proto-West Germanic *halb, from Proto-Germanic *halbaz.\nCognates\nCognate with Old Saxon, Old Frisian, and Old Dutch half, West Frisian heal, Dutch half, German halb, Danish, Norwegian Bokmål, Norwegian Nynorsk, and Swedish halv, Icelandic hálfur and Gothic 𐌷𐌰𐌻𐌱𐍃 (halbs). Compare halve, behalf."
   },
-  "word_half_pronoun": {
+  "word_en_half_pronoun": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -812,7 +812,7 @@
     ],
     "notes": "From Middle English half, halfe from Old English healf (“half”); as a noun, 'half', 'side', 'part', from Proto-West Germanic *halb, from Proto-Germanic *halbaz.\nCognates\nCognate with Old Saxon, Old Frisian, and Old Dutch half, West Frisian heal, Dutch half, German halb, Danish, Norwegian Bokmål, Norwegian Nynorsk, and Swedish halv, Icelandic hálfur and Gothic 𐌷𐌰𐌻𐌱𐍃 (halbs). Compare halve, behalf."
   },
-  "word_he": {
+  "word_en_he": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -840,7 +840,7 @@
     ],
     "notes": "From Middle English he, from Old English hē, from Proto-West Germanic *hiʀ, from Proto-Germanic *hiz (“this, this one”), from Proto-Indo-European *ḱís (“this”).\nCognate with Scots he (“he”), North Frisian he, hi (“he”), Saterland Frisian hie (“he”), West Frisian hy (“he”), Dutch hij, ie (“he”), German Low German he (“he”), Middle High German her (“he”) Central Franconian hä (“he”), Gothic *𐌷𐌹𐍃 (*his, “this”)."
   },
-  "word_her": {
+  "word_en_her": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -864,7 +864,7 @@
     ],
     "notes": "From Middle English here, hir, hire, from Old English hire (“her”), from Proto-Germanic *hezōi (dative singular of *hijō).\nCognate with North Frisian hör, Saterland Frisian hier, hiere (“her”), West Frisian har (“her”), Dutch haar (“her”), German Low German hör (“her”), German ihr (“her”)."
   },
-  "word_her_pronoun": {
+  "word_en_her_pronoun": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -888,7 +888,7 @@
     ],
     "notes": "From Middle English here, hir, hire, from Old English hire (“her”), from Proto-Germanic *hezōi (dative singular of *hijō).\nCognate with North Frisian hör, Saterland Frisian hier, hiere (“her”), West Frisian har (“her”), Dutch haar (“her”), German Low German hör (“her”), German ihr (“her”)."
   },
-  "word_hers": {
+  "word_en_hers": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -902,12 +902,12 @@
     ],
     "notes": "From Middle English hires, heres, hers, attested since the 1300s. Equivalent to her + -s (compare -'s)."
   },
-  "word_herself": {
+  "word_en_herself": {
     "languageOrigin": "English",
     "timeline": [],
     "notes": "From Middle English. Equivalent to her + -self."
   },
-  "word_hey": {
+  "word_en_hey": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -921,12 +921,12 @@
     ],
     "notes": "From Middle English hey, hei, also without h- in ey, from Old English *hē, ēa (interjection), attested as first element in hēlā, ēalā (“O!, alas!, oh!, lo!”). Cognate with Dutch hé, hei (“hi, hey”), German hei (“hey, wow”), Danish and Swedish hej (“hello, hey”), Faroese hey (“hey, hello”), Old Norse, Icelandic and Norwegian hei (“hey”), Polish hej (“hey, hello”), Romanian hei, Russian эй (ej, “hey”); see heigh."
   },
-  "word_hi_exclamation": {
+  "word_en_hi_exclamation": {
     "languageOrigin": "English",
     "timeline": [],
     "notes": "American English. First recorded reference is to speech of a Kansas Indian (1862); originally to attract attention, probably a variant of Middle English hey, hy (circa 1475). Also an exclamation to call attention. See hey."
   },
-  "word_him": {
+  "word_en_him": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -945,7 +945,7 @@
     ],
     "notes": "From Middle English him, from Old English him, from Proto-Germanic *himmai (“to this, to this one”). Cognate with Saterland Frisian him (“him”), West Frisian him (“him”), Sylt North Frisian ham, höm (“him”), Dutch hem (“him”), German Low German hum, hüm, em (“him”), German ihm (“him”, dative)."
   },
-  "word_himself": {
+  "word_en_himself": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -959,7 +959,7 @@
     ],
     "notes": "From Middle English hymself, from Old English him selfum. Equivalent to him + -self."
   },
-  "word_his": {
+  "word_en_his": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -987,7 +987,7 @@
     ],
     "notes": "From Middle English hes, from Old English his (“his; its”), from Proto-Germanic *hes (“of this”), genitive of Proto-Germanic *hiz (“this, this one”), from Proto-Indo-European *ḱe-, *ḱey- (“this”). Cognate with Danish, Swedish, Norwegian, Icelandic hans (“his”). More at he; see also its."
   },
-  "word_his_pronoun": {
+  "word_en_his_pronoun": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -1015,7 +1015,7 @@
     ],
     "notes": "From Middle English hes, from Old English his (“his; its”), from Proto-Germanic *hes (“of this”), genitive of Proto-Germanic *hiz (“this, this one”), from Proto-Indo-European *ḱe-, *ḱey- (“this”). Cognate with Danish, Swedish, Norwegian, Icelandic hans (“his”). More at he; see also its."
   },
-  "word_i": {
+  "word_en_i": {
     "languageOrigin": "Latin",
     "timeline": [
       {
@@ -1029,7 +1029,7 @@
     ],
     "notes": "From Latin i, minuscule of I."
   },
-  "word_if": {
+  "word_en_if": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -1053,7 +1053,7 @@
     ],
     "notes": "From Middle English if, yif, yef, from Old English ġif (“if”), from Proto-West Germanic *jabu, *jabē, from Proto-Germanic *jabai (“when, if”). Cognate with Scots gif (“if, whether”), Saterland Frisian af, of (“if, whether”), West Frisian oft (“whether”), Dutch of (“or, whether, but”), Middle Low German ef, if, af, of (\"if; whether\"; > German Low German of), German ob (“if, whether”), Icelandic ef (“if”)."
   },
-  "word_it_pronoun": {
+  "word_en_it_pronoun": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -1087,7 +1087,7 @@
     ],
     "notes": "From Middle English it, hit ( > dialectal English hit (“it”)), from Old English hit (“it”), from Proto-West Germanic *hit, from Proto-Germanic *hit (“this, this one”), from Proto-Indo-European *ḱe (“here; here”).\nCognates\nCognate with Yola it, t', yt (“it”), North Frisian at, et, 't (“it”), Saterland Frisian et (“it”), West Frisian it (“it”), Dutch het (“it”), Luxembourgish hatt (“her, it, she”), Elfdalian eð (“it”); also Primitive Irish ᚕᚑᚔ (koi, “here”), Latin cis (“short of; before”), hic (“t…"
   },
-  "word_itself": {
+  "word_en_itself": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -1101,7 +1101,7 @@
     ],
     "notes": "From Middle English hit-self, equivalent to it + -self."
   },
-  "word_last_determiner": {
+  "word_en_last_determiner": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -1119,7 +1119,7 @@
     ],
     "notes": "From Middle English laste, latst, syncopated variant of latest, both ultimately from Old English latost. Doublet of latest."
   },
-  "word_least_determiner": {
+  "word_en_least_determiner": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -1146,7 +1146,7 @@
     ],
     "notes": "The adjective, determiner, and noun are derived from Middle English leste, lest, last (“(adjective) smallest, least; (noun) smallest thing, etc.; person or thing least in importance; etc.”), from Old English lǣst, a contraction of læsast, læsest (“least”) (also lærest in only one source), from Proto-Germanic *laisistaz (“smallest, least”), from *laisiz (“less”) (possibly from Proto-Indo-European *leh₂is- or *leh₃is-; whence modern English less) + *-istaz (“suffix forming superlative forms of som…"
   },
-  "word_least_pronoun": {
+  "word_en_least_pronoun": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -1173,7 +1173,7 @@
     ],
     "notes": "The adjective, determiner, and noun are derived from Middle English leste, lest, last (“(adjective) smallest, least; (noun) smallest thing, etc.; person or thing least in importance; etc.”), from Old English lǣst, a contraction of læsast, læsest (“least”) (also lærest in only one source), from Proto-Germanic *laisistaz (“smallest, least”), from *laisiz (“less”) (possibly from Proto-Indo-European *leh₂is- or *leh₃is-; whence modern English less) + *-istaz (“suffix forming superlative forms of som…"
   },
-  "word_less_determiner": {
+  "word_en_less_determiner": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -1219,7 +1219,7 @@
     ],
     "notes": "Adverb From Middle English les, lesse, leasse, lasse, from Old English lǣs (“smaller, less”), from Proto-Germanic *laisiz, from Proto-Indo-European *leys- (“to shrink, grow thin, be gentle”). Cognate with Old Frisian lēs (“less”), Old Saxon lēs (“less”). According to Kroonen (2013), from a northern Indo-European root Proto-Indo-European *leh₂is- or *leh₃is-, which he connects to Lithuanian liesas (“lean”)."
   },
-  "word_less_pronoun": {
+  "word_en_less_pronoun": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -1265,7 +1265,7 @@
     ],
     "notes": "Adverb From Middle English les, lesse, leasse, lasse, from Old English lǣs (“smaller, less”), from Proto-Germanic *laisiz, from Proto-Indo-European *leys- (“to shrink, grow thin, be gentle”). Cognate with Old Frisian lēs (“less”), Old Saxon lēs (“less”). According to Kroonen (2013), from a northern Indo-European root Proto-Indo-European *leh₂is- or *leh₃is-, which he connects to Lithuanian liesas (“lean”)."
   },
-  "word_little_determiner": {
+  "word_en_little_determiner": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -1298,7 +1298,7 @@
     ],
     "notes": "From Middle English litel, litell, luitel, lutel, lutil, luytel, from Old English lȳtel, lyttel, from Proto-West Germanic *lūtil (“little”), from *lūtan (“to bow down, lout”), from Proto-Germanic *lūtaną (“to bow down, lout”), from Proto-Indo-European *lewd- (“to bend, crouch, duck”), equivalent to lout + -le.\nCognates\nCognate with Yola lethel, litha, lithel, lythea (“little”), North Frisian letj (“little, small”), Saterland Frisian litje (“little, small”), West Frisian lyts (“little, small”), D…"
   },
-  "word_little_pronoun": {
+  "word_en_little_pronoun": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -1331,7 +1331,7 @@
     ],
     "notes": "From Middle English litel, litell, luitel, lutel, lutil, luytel, from Old English lȳtel, lyttel, from Proto-West Germanic *lūtil (“little”), from *lūtan (“to bow down, lout”), from Proto-Germanic *lūtaną (“to bow down, lout”), from Proto-Indo-European *lewd- (“to bend, crouch, duck”), equivalent to lout + -le.\nCognates\nCognate with Yola lethel, litha, lithel, lythea (“little”), North Frisian letj (“little, small”), Saterland Frisian litje (“little, small”), West Frisian lyts (“little, small”), D…"
   },
-  "word_lot_determiner": {
+  "word_en_lot_determiner": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -1354,7 +1354,7 @@
     ],
     "notes": "From Middle English lot, from Old English hlot (“portion, choice, decision”), from Proto-West Germanic *hlut, from Proto-Germanic *hlutą.\nCognate with North Frisian lod, Saterland Frisian Lot, West Frisian lot, Dutch lot, French lot, German Low German Lott, Middle High German luz. Doublet of lotto. Related also to German Los."
   },
-  "word_lot_pronoun": {
+  "word_en_lot_pronoun": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -1377,7 +1377,7 @@
     ],
     "notes": "From Middle English lot, from Old English hlot (“portion, choice, decision”), from Proto-West Germanic *hlut, from Proto-Germanic *hlutą.\nCognate with North Frisian lod, Saterland Frisian Lot, West Frisian lot, Dutch lot, French lot, German Low German Lott, Middle High German luz. Doublet of lotto. Related also to German Los."
   },
-  "word_many": {
+  "word_en_many": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -1420,7 +1420,7 @@
     ],
     "notes": "From Middle English many, mani, moni, from Old English maniġ, moniġ, maneġ (“many”), from Proto-West Germanic *manag, from Proto-Germanic *managaz (“many; much”), from Proto-Indo-European *menegʰ-, *mengʰ- (“many, sufficient”) or Proto-Indo-European *méǵh₂- (“big, great”).\nCognates\nCognate with Scots mony (“many”), Yola many (“many”), North Frisian manag, manig, mäning (“many”), Alemannic German meng (“many”), Central Franconian mannich, männich (“many”), Dutch menig (“many”), German manch (“man…"
   },
-  "word_many_pronoun": {
+  "word_en_many_pronoun": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -1463,12 +1463,12 @@
     ],
     "notes": "From Middle English many, mani, moni, from Old English maniġ, moniġ, maneġ (“many”), from Proto-West Germanic *manag, from Proto-Germanic *managaz (“many; much”), from Proto-Indo-European *menegʰ-, *mengʰ- (“many, sufficient”) or Proto-Indo-European *méǵh₂- (“big, great”).\nCognates\nCognate with Scots mony (“many”), Yola many (“many”), North Frisian manag, manig, mäning (“many”), Alemannic German meng (“many”), Central Franconian mannich, männich (“many”), Dutch menig (“many”), German manch (“man…"
   },
-  "word_me": {
+  "word_en_me": {
     "languageOrigin": "English",
     "timeline": [],
     "notes": "From mi (“third note of a major scale”) + -e (“flat”), from Glover's solmization, Italian mi in the solmization of Guido of Arezzo, from the first syllable of Latin mīra in the lyrics of the scale-ascending hymn Ut queant laxis by Paulus Deacon."
   },
-  "word_mine_pronoun": {
+  "word_en_mine_pronoun": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -1498,7 +1498,7 @@
     ],
     "notes": "From Middle English min, myn, from Old English mīn, from Proto-West Germanic *mīn, from Proto-Germanic *mīnaz, from Proto-Indo-European *méynos.\nCognate with Saterland Frisian mien, West Frisian myn, Dutch mijn, Low German mien, German mein, Danish, Swedish and Norwegian min, Icelandic mín."
   },
-  "word_more_determiner": {
+  "word_en_more_determiner": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -1527,7 +1527,7 @@
     ],
     "notes": "From Middle English more, from Old English māra (“more”), from Proto-West Germanic *maiʀō, from Proto-Germanic *maizô (“more”), from Proto-Indo-European *mē- (“many”).\nCognate with Scots mair (“more”), Saterland Frisian moor (“more”), West Frisian mear (“more”), Dutch meer (“more”), Low German mehr (“more”), German mehr (“more”), Danish mere (“more”), Swedish mera (“more”), Norwegian Bokmål mer (“more”), Norwegian Nynorsk meir (“more”), Icelandic meiri, meira (“more”)."
   },
-  "word_more_pronoun": {
+  "word_en_more_pronoun": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -1556,7 +1556,7 @@
     ],
     "notes": "From Middle English more, from Old English māra (“more”), from Proto-West Germanic *maiʀō, from Proto-Germanic *maizô (“more”), from Proto-Indo-European *mē- (“many”).\nCognate with Scots mair (“more”), Saterland Frisian moor (“more”), West Frisian mear (“more”), Dutch meer (“more”), Low German mehr (“more”), German mehr (“more”), Danish mere (“more”), Swedish mera (“more”), Norwegian Bokmål mer (“more”), Norwegian Nynorsk meir (“more”), Icelandic meiri, meira (“more”)."
   },
-  "word_most_determiner": {
+  "word_en_most_determiner": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -1574,7 +1574,7 @@
     ],
     "notes": "From Middle English most, moste, from Old English mǣst, māst, from Proto-Germanic *maistaz, *maist. Cognate with Scots mast, maist (“most”), Saterland Frisian maast (“most”), West Frisian meast (“most”), Dutch meest (“most”), German meist (“most”), Danish and Swedish mest (“most”), Icelandic mestur (“most”)."
   },
-  "word_most_pronoun": {
+  "word_en_most_pronoun": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -1592,7 +1592,7 @@
     ],
     "notes": "From Middle English most, moste, from Old English mǣst, māst, from Proto-Germanic *maistaz, *maist. Cognate with Scots mast, maist (“most”), Saterland Frisian maast (“most”), West Frisian meast (“most”), Dutch meest (“most”), German meist (“most”), Danish and Swedish mest (“most”), Icelandic mestur (“most”)."
   },
-  "word_much_determiner": {
+  "word_en_much_determiner": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -1625,7 +1625,7 @@
     ],
     "notes": "From Middle English muche (“much, great”), apocopated variant of muchel (“much, great”), from Old English myċel, miċel (“big, much”), from Proto-West Germanic *mikil, from Proto-Germanic *mikilaz (“great, many, much”), from Proto-Indo-European *meǵh₂- (“big, stour, great”). See also mickle, muckle.\nCognates\nCognate with Scots mickle, mukill, mekil, mikil (“big, large, great, much”), Middle Dutch mēkel (“great, many, much”), Middle High German michel (\"great, many, much\"; > German michel (“great,…"
   },
-  "word_much_pronoun": {
+  "word_en_much_pronoun": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -1658,7 +1658,7 @@
     ],
     "notes": "From Middle English muche (“much, great”), apocopated variant of muchel (“much, great”), from Old English myċel, miċel (“big, much”), from Proto-West Germanic *mikil, from Proto-Germanic *mikilaz (“great, many, much”), from Proto-Indo-European *meǵh₂- (“big, stour, great”). See also mickle, muckle.\nCognates\nCognate with Scots mickle, mukill, mekil, mikil (“big, large, great, much”), Middle Dutch mēkel (“great, many, much”), Middle High German michel (\"great, many, much\"; > German michel (“great,…"
   },
-  "word_my": {
+  "word_en_my": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -1691,7 +1691,7 @@
     ],
     "notes": "From Middle English mi, my, apocopated form of min, myn, from Old English mīn (“my, mine”), from Proto-West Germanic *mīn, from Proto-Germanic *mīnaz (“my, mine”, pron.) (possessive of *ek (“I”)), from Proto-Indo-European *méynos (“my; mine”).\nCognate with West Frisian myn (“my”), Afrikaans my (“my”), Dutch mijn (“my”), German mein (“my”), Swedish min (“my”). More at me."
   },
-  "word_myself": {
+  "word_en_myself": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -1705,7 +1705,7 @@
     ],
     "notes": "From Middle English myself, meself, from Old English mē selfum and similar phrases, equivalent to me + self, later partly reinterpreted as my + self / -self. Cognate with Scots mysel, mysell (“myself”), West Frisian mysels (“myself”), Dutch mijzelf (“myself”), German mich selbst, mir selbst (“myself”), Norwegian Bokmål meg selv (“myself”)."
   },
-  "word_neither_determiner": {
+  "word_en_neither_determiner": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -1723,7 +1723,7 @@
     ],
     "notes": "Alteration (after either) of nauther, from Middle English neiþer, from Old English nāwþer, contraction of nāhwæþer, corresponding to no + whether. Compare Latin neuter (“neither”). By surface analysis, not + either."
   },
-  "word_neither_pronoun": {
+  "word_en_neither_pronoun": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -1741,17 +1741,17 @@
     ],
     "notes": "Alteration (after either) of nauther, from Middle English neiþer, from Old English nāwþer, contraction of nāhwæþer, corresponding to no + whether. Compare Latin neuter (“neither”). By surface analysis, not + either."
   },
-  "word_no": {
+  "word_en_no": {
     "languageOrigin": "English",
     "timeline": [],
     "notes": "Variant of No., from the scribal abbreviation for Latin numero (“in number, to the number of”)."
   },
-  "word_no_exclamation": {
+  "word_en_no_exclamation": {
     "languageOrigin": "English",
     "timeline": [],
     "notes": "Variant of No., from the scribal abbreviation for Latin numero (“in number, to the number of”)."
   },
-  "word_nobody": {
+  "word_en_nobody": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -1761,7 +1761,7 @@
     ],
     "notes": "From Middle English nobody, no-body, no body. By surface analysis, no (“none, not any”, adjective) + body (“one, person, individual”)."
   },
-  "word_none": {
+  "word_en_none": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -1785,7 +1785,7 @@
     ],
     "notes": "From Middle English none, noon, non (“not one”), from Old English nān (“not one, not any, none”), from Proto-West Germanic *nain, from Proto-Germanic *nainaz (“none, nought, nothing”), equivalent to ne (“not”) + one. (Regarding the different phonological development of only and one, see the note in one.)\nCognate with Scots nane (“none”), Saterland Frisian naan, neen (“no, not any, none”), West Frisian neen & gjin (“no, none”), Dutch neen & geen (“no, none”), Low German nēn, neen, keen (“no, none…"
   },
-  "word_nor_conjunction": {
+  "word_en_nor_conjunction": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -1799,7 +1799,7 @@
     ],
     "notes": "From Middle English nauther, from nother. Cognate with neither. By surface analysis, not + or."
   },
-  "word_nothing": {
+  "word_en_nothing": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -1817,7 +1817,7 @@
     ],
     "notes": "From Middle English nothyng, noon thing, non thing, na þing, nan thing, nan þing, from Old English nāþing, nān þing (“nothing”, literally “not any thing”), equivalent to no + thing. Compare Old English nāwiht (“nothing”, literally “no thing”), Swedish ingenting (“nothing”, literally “not any thing, no thing”)."
   },
-  "word_now_conjunction": {
+  "word_en_now_conjunction": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -1849,7 +1849,7 @@
     ],
     "notes": "From Middle English nou, nu, from Old English nū, from Proto-West Germanic *nū, from Proto-Germanic *nu (“now”), from Proto-Indo-European *nū (“now”). Doublet of nu (\"well?\").\nCognates\nCognate with Scots noo, nou, now (“now”), Yola neow, now, nowe (“now”), North Frisian nü (“now”), West Frisian no (“now”), Dutch nu, nou (“now”), German nu, nun (“now”), Limburgish noe, Nuu (“now”), Danish and Swedish nu (“now”), Elfdalian nų (“now”), Faroese nú, núgv (“now”), Icelandic nú, núna (“now”), Norwegian…"
   },
-  "word_oh": {
+  "word_en_oh": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -1863,7 +1863,7 @@
     ],
     "notes": "Inherited from Middle English o."
   },
-  "word_once_conjunction": {
+  "word_en_once_conjunction": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -1881,7 +1881,7 @@
     ],
     "notes": "From Middle English ones, from Old English ānes, a remodelling (after ān (“one”)) of ǣnes, itself an extension of ǣne (“once”) with the genitive suffix -es. Equivalent to one + -s. Cognate with Saterland Frisian enst, insen (“once”), West Frisian iens (“once”), Dutch eens (“once”), German Low German eens, ins (“once”), German einst (“once”). More at one (including regarding the development of the pronunciation) and -s."
   },
-  "word_one_determiner": {
+  "word_en_one_determiner": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -1918,7 +1918,7 @@
     ],
     "notes": "PIE word\n *h₁óynos\nFrom Middle English oon, on, oan, an, from Old English ān (“one”), from Proto-West Germanic *ain, from Proto-Germanic *ainaz (“one”), from Proto-Indo-European *h₁óynos (“single, one”). Doublet of an.\nCognate with Scots ae, ane, wan, yin (“one”); North Frisian ån (“one”); Saterland Frisian aan (“one”); West Frisian ien (“one”); Dutch een, één (“one”); German Low German een; German ein, eins (“one”); Danish en (“one”); Swedish en (“one”); Norwegian Nynorsk ein (“one”), Icelandic…"
   },
-  "word_one_pronoun": {
+  "word_en_one_pronoun": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -1955,7 +1955,7 @@
     ],
     "notes": "PIE word\n *h₁óynos\nFrom Middle English oon, on, oan, an, from Old English ān (“one”), from Proto-West Germanic *ain, from Proto-Germanic *ainaz (“one”), from Proto-Indo-European *h₁óynos (“single, one”). Doublet of an.\nCognate with Scots ae, ane, wan, yin (“one”); North Frisian ån (“one”); Saterland Frisian aan (“one”); West Frisian ien (“one”); Dutch een, één (“one”); German Low German een; German ein, eins (“one”); Danish en (“one”); Swedish en (“one”); Norwegian Nynorsk ein (“one”), Icelandic…"
   },
-  "word_or": {
+  "word_en_or": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -1982,7 +1982,7 @@
     ],
     "notes": "From Middle English or; partially contracted from other, auther, from Old English āþor, āwþer, āhwæþer (\"some, any, either\"; > either); and partially from Middle English oththe, from Old English oþþe, from Proto-Germanic *efþau (“or”)."
   },
-  "word_other_pronoun": {
+  "word_en_other_pronoun": {
     "languageOrigin": "Latin",
     "timeline": [
       {
@@ -2015,7 +2015,7 @@
     ],
     "notes": "From Middle English other, from Old English ōþer (“other, second”), from Proto-West Germanic *ą̄þar, *anþar, from Proto-Germanic *anþeraz (“other, second”), from Proto-Indo-European *h₂énteros (“other”).\nCognate with Scots uther, ither (“other”), Old Frisian ōther, (\"other\"; > North Frisian ouder, öler, üđer, Saterland Frisian uur, West Frisian oar), Old Saxon ōthar, (\"other\"; > Low German anner), Old Dutch āthar, (\"other\"; > Afrikaans ander, Dutch ander), Old High German andar, (\"other\"; > Cimb…"
   },
-  "word_our": {
+  "word_en_our": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2043,7 +2043,7 @@
     ],
     "notes": "From Middle English oure, from Old English ūre, ūser (“our”), from Proto-Germanic *unseraz (“of us, our”), from Proto-Indo-European *n̥-s-ero- (“our”). Cognate with Scots oor (“our”), West Frisian ús (“our”), Low German uns (“our”), Dutch onze (“our”), German unser, unsere (“our”) Danish vor (“our”), Norwegian vår (“our”), and more distantly Latin noster."
   },
-  "word_ours": {
+  "word_en_ours": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -2057,7 +2057,7 @@
     ],
     "notes": "From Middle English oures, attested since the 1300s. Equivalent to our + -s (compare -'s); formed by analogy to his. Displaced ourn (from Middle English ouren) in standard speech."
   },
-  "word_own_pronoun": {
+  "word_en_own_pronoun": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2091,7 +2091,7 @@
     ],
     "notes": "From Middle English aȝen, owen, from Old English āgen (“own, proper, peculiar”), originally the past participle of āgan; from Proto-West Germanic *aigan (“own”), from Proto-Germanic *aiganaz (“own”), from Proto-Indo-European *h₂eyḱ- (“to have, possess”).\nCognates\nCognate with Scots ain, awin, awn, ayn (“own”), Saterland Frisian oain (“own”), West Frisian, Dutch, and German eigen (“own”), Danish, Norwegian Bokmål, and Swedish egen (“own”), Faroese egin (“own”), Icelandic eigin, eiginn (“own”), No…"
   },
-  "word_please_exclamation": {
+  "word_en_please_exclamation": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2119,7 +2119,7 @@
     ],
     "notes": "From Middle English plesen, plaisen, borrowed from Old French plaise, conjugated form of plaisir or plaire, from Latin placeō (“to please, to seem good”), from the Proto-Indo-European *pleHk- (“pleasingness, permission”). In this sense, displaced native Old English līcian, whence Modern English like."
   },
-  "word_plenty": {
+  "word_en_plenty": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2150,7 +2150,7 @@
     ],
     "notes": "From Middle English plentie, plentee, plente, from Anglo-Norman plenté, from Old French plenté, from Latin plenitatem, accusative of plenitas (“fullness”), from plenus (“complete, full”), from Proto-Indo-European *pl̥h₁nós (“full”), from which English full also comes, via Proto-Germanic. Related to the Latin derivatives complete, deplete, replete."
   },
-  "word_plus_conjunction": {
+  "word_en_plus_conjunction": {
     "languageOrigin": "Latin",
     "timeline": [
       {
@@ -2165,7 +2165,7 @@
     ],
     "notes": "Borrowed from Latin plūs (“more”)."
   },
-  "word_same_pronoun": {
+  "word_en_same_pronoun": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2190,7 +2190,7 @@
     ],
     "notes": "From Middle English same, from Old Norse samr (“same”) and/or Old English same, sama (“same”) in the phrase swā same (swā) (“in like manner, in the same way (as)”), both from Proto-Germanic *samaz (“same”), from Proto-Indo-European *somHós (“same”). Doublet of some and -some.\nCognates\nCognate with Scots samin (“same, like, together”), Dutch samen (“together”), Danish samme (“same”), Swedish samma (“same”), Norwegian Bokmål samme (“same”), Norwegian Nynorsk same (“same”), Gothic 𐍃𐌰𐌼𐌰 (sama), …"
   },
-  "word_second_determiner": {
+  "word_en_second_determiner": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -2223,7 +2223,7 @@
     ],
     "notes": "From Middle English secunde, second, secound, secund, borrowed from Old French second, seond, from Latin secundus (“following, next in order”), from root of sequor (“to follow”), from Proto-Indo-European *sekʷ- (“to follow”). Doublet of secund and secundo. Displaced native twoth and partially displaced native other (from Old English ōþer (“other; next; second”))."
   },
-  "word_several": {
+  "word_en_several": {
     "languageOrigin": "Latin",
     "timeline": [
       {
@@ -2246,7 +2246,7 @@
     ],
     "notes": "From Anglo-Norman several, from Medieval Latin sēparālis, from Latin sēpar (“separate”). By surface analysis, sever + -al. Not related to severe or seven."
   },
-  "word_several_pronoun": {
+  "word_en_several_pronoun": {
     "languageOrigin": "Latin",
     "timeline": [
       {
@@ -2269,7 +2269,7 @@
     ],
     "notes": "From Anglo-Norman several, from Medieval Latin sēparālis, from Latin sēpar (“separate”). By surface analysis, sever + -al. Not related to severe or seven."
   },
-  "word_she": {
+  "word_en_she": {
     "languageOrigin": "Old French",
     "timeline": [
       {
@@ -2313,7 +2313,7 @@
     ],
     "notes": "Inherited from Middle English sche, scho, hyo, ȝho (“she”), whence also Yorkshire dialectal shoo (“she”), Scots she, sho (“she”).\nProbably from Old English hēo (whence dialectal English hoo), with an irregular change in stress from hēo to heō /hjoː/, then a development from /hj-/ to /ç/ to /ʃ-/, similar to the derivation of Shetland from Old Norse Hjaltland."
   },
-  "word_since_conjunction": {
+  "word_en_since_conjunction": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -2331,7 +2331,7 @@
     ],
     "notes": "From Middle English syns, synnes, contraction of earlier sithens, sithence, from sithen (“after, since”) ( + -s, adverbial genitive suffix), from Old English sīþþan, from the phrase sīþ þǣm (“after/since that (time)”), from sīþ (“since, after”) + þǣm dative singular of þæt. Cognate with Dutch sinds (“since”), German seit (“since”), Danish siden (“since”), Icelandic síðan (“since”) Scots syne (“since”)."
   },
-  "word_so_conjunction": {
+  "word_en_so_conjunction": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2357,7 +2357,7 @@
     ],
     "notes": "From Middle English so, swo, zuo, swa, swe, from Old English swā, swǣ, swē (“so, as, the same, such, that”), from Proto-West Germanic *swā, from Proto-Germanic *swa, *swē (“so”), from Proto-Indo-European *swē, *swō (reflexive pronomial stem). Cognate with Scots sae (“so”), Saterland Frisian so (“so”), West Frisian sa (“so”), Dutch zo (“so”), German Low German so (“so”), German so (“so”), Danish så (“so”), Norwegian Nynorsk so (“so”), Swedish så (“so, such that”), Faroese so (“so”), Icelandic svo…"
   },
-  "word_some": {
+  "word_en_some": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2390,7 +2390,7 @@
     ],
     "notes": "From Middle English som, sum, from Old English sum (“some, a certain one”), from Proto-West Germanic *sum, from Proto-Germanic *sumaz (“some, a certain one”), from Proto-Indo-European *sem- (“one, whole”).\nCognate Scots sum, some (“some”), North Frisian som, sam, säm (“some”), West Frisian sommige, somlike (“some”), dialectal Dutch som, saom (“some”), standard Dutch sommige (“some”), Low German somige (“some”), German dialectal summige (“some”), Danish somme (“some”), Swedish somlig (“some”), No…"
   },
-  "word_some_pronoun": {
+  "word_en_some_pronoun": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2423,17 +2423,17 @@
     ],
     "notes": "From Middle English som, sum, from Old English sum (“some, a certain one”), from Proto-West Germanic *sum, from Proto-Germanic *sumaz (“some, a certain one”), from Proto-Indo-European *sem- (“one, whole”).\nCognate Scots sum, some (“some”), North Frisian som, sam, säm (“some”), West Frisian sommige, somlike (“some”), dialectal Dutch som, saom (“some”), standard Dutch sommige (“some”), Low German somige (“some”), German dialectal summige (“some”), Danish somme (“some”), Swedish somlig (“some”), No…"
   },
-  "word_somebody": {
+  "word_en_somebody": {
     "languageOrigin": "English",
     "timeline": [],
     "notes": "From Middle English sum body, equivalent to some + body."
   },
-  "word_someone": {
+  "word_en_someone": {
     "languageOrigin": "English",
     "timeline": [],
     "notes": "From Middle English sum on, sum one, sum oon, equivalent to some + one."
   },
-  "word_something": {
+  "word_en_something": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -2447,7 +2447,7 @@
     ],
     "notes": "From Middle English somþyng, some-thing, som thing, sum thinge, sum þinge, from Old English sum þing (literally “some thing”), equivalent to some + thing. Compare Old English āwiht (“something”, literally “some thing, any thing”), Swedish någonting (“something”, literally “some thing, any thing”)."
   },
-  "word_sorry_exclamation": {
+  "word_en_sorry_exclamation": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2480,7 +2480,7 @@
     ],
     "notes": "From Middle English sory, from Old English sāriġ (“feeling or expressing grief, sorry, grieved, sorrowful, sad, mournful, bitter”), from Proto-West Germanic *sairag, from Proto-Germanic *sairagaz (“sad”), from Proto-Indo-European *seh₂yro (“hard, rough, painful”). Cognate with Scots sairie (“sad, grieved”), Saterland Frisian seerich (“sore, inflamed”), West Frisian searich (“sad, sorry”), Low German serig (“sick, scabby”), German dialectal sehrig (“sore, sad, painful”), Swedish sårig."
   },
-  "word_such": {
+  "word_en_such": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -2503,7 +2503,7 @@
     ],
     "notes": "From Middle English such, swuch, swich, swilch, swulch, from Old English swelċ, from Proto-West Germanic *swalīk, from Proto-Germanic *swalīkaz (“so formed, so like”), equivalent to so + like. Cognate with Scots swilk, sic, sik (“such”), Saterland Frisian suk (“such”), West Frisian suk, sok (“such”), Low German sülk, sulk, suk (“such”), Dutch zulk (“such”), German solch (“such”), Danish slig (“like that, such”), Swedish slik (“such”), Icelandic slíkur (“such”). More at so, like."
   },
-  "word_such_pronoun": {
+  "word_en_such_pronoun": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -2526,7 +2526,7 @@
     ],
     "notes": "From Middle English such, swuch, swich, swilch, swulch, from Old English swelċ, from Proto-West Germanic *swalīk, from Proto-Germanic *swalīkaz (“so formed, so like”), equivalent to so + like. Cognate with Scots swilk, sic, sik (“such”), Saterland Frisian suk (“such”), West Frisian suk, sok (“such”), Low German sülk, sulk, suk (“such”), Dutch zulk (“such”), German solch (“such”), Danish slig (“like that, such”), Swedish slik (“such”), Icelandic slíkur (“such”). More at so, like."
   },
-  "word_than": {
+  "word_en_than": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2553,7 +2553,7 @@
     ],
     "notes": "From Middle English than, thanne (“than; then”), from Old English þanne, a variant of þonne (“then; when; than”), from Proto-West Germanic *þannē, an alteration of *þan (“then; than”), from Proto-Germanic *þan (“then; than”), from earlier *þam, from Proto-Indo-European *tóm, accusative masculine of *só (“that”, demonstrative pronoun).\nCognate with Dutch dan (“then; than”), German denn (“for; so”), German dann (“then”). Doublet of then."
   },
-  "word_thanks_exclamation": {
+  "word_en_thanks_exclamation": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2577,7 +2577,7 @@
     ],
     "notes": "From Middle English thanks, thankes, from Old English þancas (“thanks”), from Proto-Germanic *þankōs, nominative plural of *þankaz (“thought, gratitude”), from Proto-Indo-European *teng- (“to think, feel”). More at thank."
   },
-  "word_that_conjunction": {
+  "word_en_that_conjunction": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2604,7 +2604,7 @@
     ],
     "notes": "From Middle English that, from Old English þæt (“the, that”, neuter definite article and relative pronoun), from Proto-West Germanic *þat, from Proto-Germanic *þat. Cognate to Scots that, Saterland Frisian dät, West Frisian dat, Dutch dat, Low German dat and datt, German dass and das, Danish det, Swedish det, Icelandic það, Gothic 𐌸𐌰𐍄𐌰 (þata). Further from Proto-Indo-European *tód; compare Ancient Greek τό (tó), Sanskrit तद् (tád), Waigali ta, Lithuanian tai̇̃, Polish to."
   },
-  "word_that_determiner": {
+  "word_en_that_determiner": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2631,7 +2631,7 @@
     ],
     "notes": "From Middle English that, from Old English þæt (“the, that”, neuter definite article and relative pronoun), from Proto-West Germanic *þat, from Proto-Germanic *þat. Cognate to Scots that, Saterland Frisian dät, West Frisian dat, Dutch dat, Low German dat and datt, German dass and das, Danish det, Swedish det, Icelandic það, Gothic 𐌸𐌰𐍄𐌰 (þata). Further from Proto-Indo-European *tód; compare Ancient Greek τό (tó), Sanskrit तद् (tád), Waigali ta, Lithuanian tai̇̃, Polish to."
   },
-  "word_that_pronoun": {
+  "word_en_that_pronoun": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2658,7 +2658,7 @@
     ],
     "notes": "From Middle English that, from Old English þæt (“the, that”, neuter definite article and relative pronoun), from Proto-West Germanic *þat, from Proto-Germanic *þat. Cognate to Scots that, Saterland Frisian dät, West Frisian dat, Dutch dat, Low German dat and datt, German dass and das, Danish det, Swedish det, Icelandic það, Gothic 𐌸𐌰𐍄𐌰 (þata). Further from Proto-Indo-European *tód; compare Ancient Greek τό (tó), Sanskrit तद् (tád), Waigali ta, Lithuanian tai̇̃, Polish to."
   },
-  "word_the": {
+  "word_en_the": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2688,7 +2688,7 @@
     ],
     "notes": "From Middle English þe, from Old English þē m (“the, that”, demonstrative pronoun), a late variant of sē, the s- (which occurred in the masculine and feminine nominative singular only) having been replaced by the þ- from the oblique stem.\nreplaced words, cognates\nOriginally neutral nominative, in Middle English it superseded all previous Old English nominative forms (sē m, sēo f, þæt n, þā pl); sē is from Proto-West Germanic *siz, from Proto-Germanic *sa, ultimately from Proto-Indo-European *só."
   },
-  "word_their": {
+  "word_en_their": {
     "languageOrigin": "Old Norse",
     "timeline": [
       {
@@ -2702,7 +2702,7 @@
     ],
     "notes": "From Old Norse þeirra. Replaced native Old English heora."
   },
-  "word_theirs": {
+  "word_en_theirs": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -2716,7 +2716,7 @@
     ],
     "notes": "From Middle English theires, attested since the 1300s. Equivalent to their + -s (compare -'s); formed by analogy to his. Displaced theirn (from Middle English theiren, formed by analogy to mine, thine) in standard speech."
   },
-  "word_them": {
+  "word_en_them": {
     "languageOrigin": "Old Norse",
     "timeline": [
       {
@@ -2734,7 +2734,7 @@
     ],
     "notes": "From Middle English þem, from Old Norse þeim."
   },
-  "word_they": {
+  "word_en_they": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2766,7 +2766,7 @@
     ],
     "notes": "From Middle English þei, borrowed in the 1200s from Old Norse þeir, plural of the demonstrative sá which acted as a plural pronoun. Displaced native Middle English he from Old English hīe — which vowel changes had left indistinct from he (“he”) — by the 1400s, being readily incorporated alongside native words beginning with the same sound (the, that, this). Used as a singular pronoun since 1300, e.g. in the 1325 Cursor Mundi."
   },
-  "word_this_determiner": {
+  "word_en_this_determiner": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2789,7 +2789,7 @@
     ],
     "notes": "From Middle English this, from Old English þis (neuter demonstrative), from North Sea Germanic base *þa- \"that\", from Proto-Germanic *þat, from Proto-Indo-European *tód, extended form of demonstrative base *to-; + North-West Germanic definitive suffix -s, from Proto-Indo-European *só (“this, that”).\nCognate with Scots this (“this”), Saterland Frisian dusse (“this”), West Frisian dizze (“this”), German dies, dieses (“this”), Old Gutnish þissi (“this”)."
   },
-  "word_this_pronoun": {
+  "word_en_this_pronoun": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2812,7 +2812,7 @@
     ],
     "notes": "From Middle English this, from Old English þis (neuter demonstrative), from North Sea Germanic base *þa- \"that\", from Proto-Germanic *þat, from Proto-Indo-European *tód, extended form of demonstrative base *to-; + North-West Germanic definitive suffix -s, from Proto-Indo-European *só (“this, that”).\nCognate with Scots this (“this”), Saterland Frisian dusse (“this”), West Frisian dizze (“this”), German dies, dieses (“this”), Old Gutnish þissi (“this”)."
   },
-  "word_though_conjunction": {
+  "word_en_though_conjunction": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2841,7 +2841,7 @@
     ],
     "notes": "From Middle English though, thogh, from Old Norse *þóh (later þó). Superseded (in most dialects) Middle English thegh, from Old English þēah (“though, although, even if, that, however, nevertheless, yet, still; whether”). Both the Old Norse and Old English are from Proto-Germanic *þauh (“though”), from Proto-Indo-European *to-, suffixed with Proto-Germanic *-hw < Proto-Indo-European *-kʷe (“and”)."
   },
-  "word_till": {
+  "word_en_till": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -2860,7 +2860,7 @@
     ],
     "notes": "From Middle English til, from Northern Old English til, from or akin to Old Norse til (“to, till”); both from Proto-Germanic *til (“to, toward”), from Proto-Germanic *tilą (“planned point in time”). Not a contraction of until; rather, until comes from till with the prefix un- (“against; toward; up to”) also found in unto. Cognate with Old Frisian til (“to, till”), Danish til (“to”), Swedish till (“to, till”), Icelandic til (“to, till”)."
   },
-  "word_to_infinitive_marker": {
+  "word_en_to_infinitive_marker": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2882,7 +2882,7 @@
     ],
     "notes": "From Middle English to, from Old English tō, from Proto-Germanic *tō ~ *ta, from Proto-Indo-European *de ~ *do (“to”). Cognate with Scots tae, to (“to”), North Frisian to, tö, tu (“to”), Saterland Frisian tou (“to”), Low German to (“to”), Dutch toe, te (“to”), German zu (“to”), West Frisian ta (“to”). Non-Germanic cognates include Albanian ndaj (“towards”), Irish do (“to, for”), Breton da (“to, for”), Welsh i (“to, for”), Russian до (do, “to”). Doublet of too."
   },
-  "word_unless": {
+  "word_en_unless": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -2896,7 +2896,7 @@
     ],
     "notes": "From Middle English unlesse, earlier on lesse (modern on + less), from (not) on lesse (than) (“(not) on a less compelling condition (than)”). The quality of negation in the word and the lack of stress changed on to un-."
   },
-  "word_until_conjunction": {
+  "word_en_until_conjunction": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -2910,7 +2910,7 @@
     ],
     "notes": "From Middle English vntil, until, untill, ontil, ontill, perhaps representing a northern variant of Middle English unto (see Modern English unto). By surface analysis, un- (“against; toward; up to”) + till."
   },
-  "word_us": {
+  "word_en_us": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2938,7 +2938,7 @@
     ],
     "notes": "From Middle English us, from Old English ūs (“us”, dative personal pronoun), from Proto-West Germanic *uns, from Proto-Germanic *uns (“us”), from Proto-Indo-European *n̥swé, alteration of *n̥smé (“us”). The compensatory lengthening was lost in Middle English due to the word being unstressed when used. Cognate with Saterland Frisian uus (“us”), West Frisian us, ús (“us”), Low German uns, us (“us”), Dutch ons (“us”), German uns (“us”), Danish os (“us”), Latin nōs (“we, us”)."
   },
-  "word_we": {
+  "word_en_we": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2966,7 +2966,7 @@
     ],
     "notes": "From Middle English we, from Old English wē (“we”), from Proto-West Germanic *wiʀ, from Proto-Germanic *wīz, *wiz (“we”), from Proto-Indo-European *wéy (“we (plural)”). Cognate with Scots wee, we (“we”), North Frisian we (“we”), West Frisian wy (“we”), Low German wi (“we”), Dutch we, wij (“we”), German wir (“we”), Danish, Swedish and Norwegian vi (“we”), Icelandic vér, við (“we”), Avestan 𐬬𐬀𐬉𐬨 (vaēm), Sanskrit वयम् (vayám)."
   },
-  "word_welcome_exclamation": {
+  "word_en_welcome_exclamation": {
     "languageOrigin": "Classical Latin",
     "timeline": [
       {
@@ -3002,7 +3002,7 @@
     ],
     "notes": "From Middle English welcome, wolcume, wulcume, wilcume, from Old English wilcuma (“a wished-for guest”; compare also wilcume (“welcome!”, interjection)), from Proto-West Germanic *willjakwemō, from Proto-Germanic *wiljakwemô (“a wished-for arrival or guest”), possibly from *wiljakwemaną (“to be welcome”), equivalent to will (“desire”) + come (“comer, arrival”)."
   },
-  "word_well_exclamation": {
+  "word_en_well_exclamation": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -3030,7 +3030,7 @@
     ],
     "notes": "From Middle English wel, wal, wol, wele, from Old English wel (“well, abundantly, very, very easily, very much, fully, quite, nearly”), from Proto-Germanic *wela, *wala (“well”, literally “as wished, as desired”), from Proto-Indo-European *welh₁- (“wish, desire”).\nCognates\nCognate with Yola vella, waal, wel, well, wull (“well”), Cimbrian boll, bóol (“well”), Dutch wel (“well”), German wohl, wol, woll (“well”), Danish, Icelandic, Norwegian Bokmål, and Norwegian Nynorsk vel (“well”), Faroese væl (…"
   },
-  "word_what": {
+  "word_en_what": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -3059,7 +3059,7 @@
     ],
     "notes": "From Middle English what, from Old English hwæt (“what”), from Proto-West Germanic *hwat, from Proto-Germanic *hwat (“what”), from Proto-Indo-European *kʷód (“what”), neuter form of *kʷós (“who”).\nCognate with Scots what, whit (“what”), North Frisian wat (“what”), Saterland Frisian wat (“what”), West Frisian wat (“what”), Dutch wat (“what”), Low German wat (“what”), German was (“what”), Danish hvad (“what”), Norwegian Bokmål hva (“what”), Swedish vad (“what”), Norwegian Nynorsk kva (“what”), Ice…"
   },
-  "word_what_pronoun": {
+  "word_en_what_pronoun": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -3088,7 +3088,7 @@
     ],
     "notes": "From Middle English what, from Old English hwæt (“what”), from Proto-West Germanic *hwat, from Proto-Germanic *hwat (“what”), from Proto-Indo-European *kʷód (“what”), neuter form of *kʷós (“who”).\nCognate with Scots what, whit (“what”), North Frisian wat (“what”), Saterland Frisian wat (“what”), West Frisian wat (“what”), Dutch wat (“what”), Low German wat (“what”), German was (“what”), Danish hvad (“what”), Norwegian Bokmål hva (“what”), Swedish vad (“what”), Norwegian Nynorsk kva (“what”), Ice…"
   },
-  "word_whatever": {
+  "word_en_whatever": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -3098,7 +3098,7 @@
     ],
     "notes": "From Middle English whatever. By surface analysis, what + ever."
   },
-  "word_whatever_pronoun": {
+  "word_en_whatever_pronoun": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -3108,7 +3108,7 @@
     ],
     "notes": "From Middle English whatever. By surface analysis, what + ever."
   },
-  "word_when_conjunction": {
+  "word_en_when_conjunction": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -3137,7 +3137,7 @@
     ],
     "notes": "From Middle English when(ne), whan(ne), from Old English hwonne, from Proto-West Germanic *hwannē, from Proto-West Germanic *hwan, from Proto-Germanic *hwan (“at what time, when”), from Proto-Indo-European *kʷís (interrogative base).\nCognate with Scots whan (“when”), Dutch wanneer (“when”), wan (“when”) and wen (“when, if”), Low German wannehr (“when”), wann (“when”) and wenn (“if, when”), German wann (“when”) and wenn (“when, if”), Gothic 𐍈𐌰𐌽 (ƕan, “when, how”), Latin quandō (“when”)."
   },
-  "word_when_pronoun": {
+  "word_en_when_pronoun": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -3166,12 +3166,12 @@
     ],
     "notes": "From Middle English when(ne), whan(ne), from Old English hwonne, from Proto-West Germanic *hwannē, from Proto-West Germanic *hwan, from Proto-Germanic *hwan (“at what time, when”), from Proto-Indo-European *kʷís (interrogative base).\nCognate with Scots whan (“when”), Dutch wanneer (“when”), wan (“when”) and wen (“when, if”), Low German wannehr (“when”), wann (“when”) and wenn (“if, when”), German wann (“when”) and wenn (“when, if”), Gothic 𐍈𐌰𐌽 (ƕan, “when, how”), Latin quandō (“when”)."
   },
-  "word_whenever": {
+  "word_en_whenever": {
     "languageOrigin": "English",
     "timeline": [],
     "notes": "From Middle English whan evere, whanne ever, whanne evere, whener, when ever; equivalent to when + ever."
   },
-  "word_where_conjunction": {
+  "word_en_where_conjunction": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -3204,7 +3204,7 @@
     ],
     "notes": "From Middle English wher, from Old English hwǣr (“where”, literally “at what place”), from Proto-West Germanic *hwār, from Proto-Germanic *hwar (“where”), from Proto-Indo-European *kʷ- (interrogative pronoun)."
   },
-  "word_whether": {
+  "word_en_whether": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -3226,7 +3226,7 @@
     ],
     "notes": "From Middle English whether, whather, from Old English hweþer, hwæþer, from Proto-West Germanic *hwaþar, from Proto-Germanic *hwaþeraz, comparative form of *hwaz (“who”). Cognate with North Frisian weđer (“if, whether”), German weder (“neither”), Swedish var (“each, every”), Icelandic hvor (“each of two, which of two”)."
   },
-  "word_which": {
+  "word_en_which": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -3246,7 +3246,7 @@
     ],
     "notes": "From Middle English which, hwic, wilche, hwilch, whilk, hwilc, from Old English hwelċ (“which”), from Proto-Germanic *hwilīkaz (“what kind”, literally “like what”), derived from *hwaz.\nCognates include Scots whilk (“which”), West Frisian hokker (“which”), Dutch welk (“which”), Low German welk (“which”), German welcher (“which”), Danish hvilken (“which”), Swedish vilken (“which”), Norwegian hvilken (“which”), Icelandic hvílíkur (“which”)."
   },
-  "word_which_pronoun": {
+  "word_en_which_pronoun": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -3266,7 +3266,7 @@
     ],
     "notes": "From Middle English which, hwic, wilche, hwilch, whilk, hwilc, from Old English hwelċ (“which”), from Proto-Germanic *hwilīkaz (“what kind”, literally “like what”), derived from *hwaz.\nCognates include Scots whilk (“which”), West Frisian hokker (“which”), Dutch welk (“which”), Low German welk (“which”), German welcher (“which”), Danish hvilken (“which”), Swedish vilken (“which”), Norwegian hvilken (“which”), Icelandic hvílíkur (“which”)."
   },
-  "word_while": {
+  "word_en_while": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -3298,7 +3298,7 @@
     ],
     "notes": "From Middle English whyle, from Old English hwīl, from Proto-West Germanic *hwīlu, from Proto-Germanic *hwīlō (compare Dutch wijl, Low German Wiel, German Weile, Danish and Norwegian Bokmål hvile (“rest”), Norwegian Nynorsk kvila (“rest”), Swedish vila (“rest”), Faroese and Icelandic hvíla (“rest”)) from Proto-Indo-European *kʷyeh₁- (“to rest”). Cognate with Albanian sillë (“breakfast”), Latin tranquillus, Sanskrit चिर (cirá), Persian شاد (šâd)."
   },
-  "word_who": {
+  "word_en_who": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -3325,7 +3325,7 @@
     ],
     "notes": "From Middle English who, hwo, huo, wha, hwoa, hwa, from Old English hwā (dative hwām, genitive hwæs), from Proto-West Germanic *hwaʀ, from Proto-Germanic *hwaz, from Proto-Indo-European *kʷos, *kʷís.\nThe sound change /hw/ > /h/ (without a corresponding change in spelling) was due to wh-cluster reduction after an irregular change of /ɑː/ to /oː/ in Middle English (instead of the expected /ɔː/) and further to /uː/ regularly in Early Modern English. A similar change occurred in two."
   },
-  "word_whom": {
+  "word_en_whom": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -3343,7 +3343,7 @@
     ],
     "notes": "From Middle English whom, wham, from Old English hwām, hwǣm, from Proto-Germanic *hwammai, dative case of *hwaz (“who, what”). Cognate with Scots wham (“whom”), German wem (“whom, to whom”), Danish hvem (“who, whom”), Swedish vem (“who, whom”)."
   },
-  "word_whose": {
+  "word_en_whose": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -3365,7 +3365,7 @@
     ],
     "notes": "From Middle English whos, from Old English hwæs, from Proto-Germanic *hwes, genitive case of *hwaz (“who”) *hwat (“what”)."
   },
-  "word_whose_pronoun": {
+  "word_en_whose_pronoun": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -3387,12 +3387,12 @@
     ],
     "notes": "From Middle English whos, from Old English hwæs, from Proto-Germanic *hwes, genitive case of *hwaz (“who”) *hwat (“what”)."
   },
-  "word_wow": {
+  "word_en_wow": {
     "languageOrigin": "English",
     "timeline": [],
     "notes": "Attested since the 16th century; borrowed from Scots wow; ultimately a natural exclamation."
   },
-  "word_yes": {
+  "word_en_yes": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -3407,7 +3407,7 @@
     ],
     "notes": "From Middle English yes, from Old English ġīese (“by all means, of course, yes”), derived from the same root as yea. Compare Faroese júsá (“yes, indeed, certainly”)."
   },
-  "word_yet_conjunction": {
+  "word_en_yet_conjunction": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -3434,7 +3434,7 @@
     ],
     "notes": "Inherited from Middle English yet, yit, from Old English ġīet, gȳta, from Proto-West Germanic *jūta, from Proto-Germanic *juta (compare West Frisian jit, jitte (“yet”), Dutch ooit (“ever”), German jetzt (“now”)), compound of (1) *ju (“already”, adverb), from Proto-Indo-European *h₂yew-, accusative of *h₂óyu (“long time”) and (2) the Proto-Germanic *ta (“to, towards”), from Proto-Indo-European *do. More at aye and -th."
   },
-  "word_you": {
+  "word_en_you": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -3464,7 +3464,7 @@
     ],
     "notes": "From Middle English you, yow, ȝow (object case of ye), from Old English ēow (“you”, dative case of ġē), from Proto-West Germanic *iwwi (“you”, dative case of *jiʀ), from Proto-Germanic *iwwiz (“you”, dative case of *jīz), the Western form of Proto-Germanic *izwiz (“you”, dative case of *jūz), from Proto-Indo-European *yúHs (“you”, plural).\nCognate with Scots you (“you”), Saterland Frisian jou (“you”), West Frisian jo (“you”), Low German jo, joe and oe (“you”), Dutch jou and u (“you”), German euc…"
   },
-  "word_your": {
+  "word_en_your": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -3486,7 +3486,7 @@
     ],
     "notes": "From Middle English your, youre, ȝour, ȝoure, from Old English ēower, īower (“your”, plural), from Proto-West Germanic *iuwar, from Proto-Germanic *izweraz. Cognate with Saterland Frisian jou (“your”), Dutch jouw (“your”), German Low German jo, jos (“your”), German euer (“your”, plural), Danish jeres (“your”)."
   },
-  "word_yours": {
+  "word_en_yours": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -3500,7 +3500,7 @@
     ],
     "notes": "From Middle English youres, ȝoures, attested since the 1300s. Equivalent to your + -s (compare -'s); formed by analogy to his. Displaced yourn in standard speech."
   },
-  "word_yourself": {
+  "word_en_yourself": {
     "languageOrigin": "Middle English",
     "timeline": [
       {

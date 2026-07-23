@@ -1,6 +1,6 @@
 [
   {
-    "id": "word_etre",
+    "id": "word_fr_etre",
     "word": "être",
     "meaning": "to be",
     "pronunciationVariants": [
@@ -21,7 +21,7 @@
     "examples": ["Je veux être heureux.", "Être ou ne pas être."]
   },
   {
-    "id": "word_avoir",
+    "id": "word_fr_avoir",
     "word": "avoir",
     "meaning": "to have",
     "pronunciationVariants": [
@@ -42,7 +42,7 @@
     "examples": ["J'ai une voiture.", "Ils ont deux enfants."]
   },
   {
-    "id": "word_faire",
+    "id": "word_fr_faire",
     "word": "faire",
     "meaning": "to do/make",
     "pronunciationVariants": [
@@ -63,7 +63,7 @@
     "examples": ["Que dois-je faire?", "Fais tes devoirs."]
   },
   {
-    "id": "word_dire",
+    "id": "word_fr_dire",
     "word": "dire",
     "meaning": "to say",
     "pronunciationVariants": [
@@ -84,7 +84,7 @@
     "examples": ["Dis bonjour à elle.", "Qu'as-tu dit?"]
   },
   {
-    "id": "word_aller",
+    "id": "word_fr_aller",
     "word": "aller",
     "meaning": "to go",
     "pronunciationVariants": [
@@ -105,7 +105,7 @@
     "examples": ["Allons à la maison.", "Le train va à la ville."]
   },
   {
-    "id": "word_voir",
+    "id": "word_fr_voir",
     "word": "voir",
     "meaning": "to see",
     "pronunciationVariants": [
@@ -126,7 +126,7 @@
     "examples": ["Je vois les montagnes.", "Peux-tu me voir?"]
   },
   {
-    "id": "word_savoir",
+    "id": "word_fr_savoir",
     "word": "savoir",
     "meaning": "to know",
     "pronunciationVariants": [
@@ -147,7 +147,7 @@
     "examples": ["Je sais la réponse.", "Sais-tu son nom?"]
   },
   {
-    "id": "word_pouvoir",
+    "id": "word_fr_pouvoir",
     "word": "pouvoir",
     "meaning": "to be able to",
     "pronunciationVariants": [
@@ -168,7 +168,7 @@
     "examples": ["Je peux venir demain.", "Peux-tu m'aider?"]
   },
   {
-    "id": "word_vouloir",
+    "id": "word_fr_vouloir",
     "word": "vouloir",
     "meaning": "to want",
     "pronunciationVariants": [
@@ -189,7 +189,7 @@
     "examples": ["Je veux un café.", "Que veux-tu manger?"]
   },
   {
-    "id": "word_venir",
+    "id": "word_fr_venir",
     "word": "venir",
     "meaning": "to come",
     "pronunciationVariants": [
@@ -210,7 +210,7 @@
     "examples": ["Viens demain.", "Elle vient de Paris."]
   },
   {
-    "id": "word_falloir",
+    "id": "word_fr_falloir",
     "word": "falloir",
     "meaning": "to need/must",
     "pronunciationVariants": [
@@ -231,7 +231,7 @@
     "examples": ["Il faut travailler.", "Il faut être patient."]
   },
   {
-    "id": "word_parler",
+    "id": "word_fr_parler",
     "word": "parler",
     "meaning": "to speak",
     "pronunciationVariants": [
@@ -252,7 +252,7 @@
     "examples": ["Je parle français.", "Parlez plus lentement."]
   },
   {
-    "id": "word_prendre",
+    "id": "word_fr_prendre",
     "word": "prendre",
     "meaning": "to take",
     "pronunciationVariants": [
@@ -273,7 +273,7 @@
     "examples": ["Prends ma main.", "Je prends le bus."]
   },
   {
-    "id": "word_donner",
+    "id": "word_fr_donner",
     "word": "donner",
     "meaning": "to give",
     "pronunciationVariants": [
@@ -294,7 +294,7 @@
     "examples": ["Donne-moi un livre.", "Elle donne des cours."]
   },
   {
-    "id": "word_comprendre",
+    "id": "word_fr_comprendre",
     "word": "comprendre",
     "meaning": "to understand",
     "pronunciationVariants": [
@@ -315,7 +315,7 @@
     "examples": ["Je comprends la leçon.", "Tu comprends?"]
   },
   {
-    "id": "word_manger",
+    "id": "word_fr_manger",
     "word": "manger",
     "meaning": "to eat",
     "pronunciationVariants": [
@@ -336,7 +336,7 @@
     "examples": ["Je mange une pomme.", "Mangeons ensemble."]
   },
   {
-    "id": "word_boire",
+    "id": "word_fr_boire",
     "word": "boire",
     "meaning": "to drink",
     "pronunciationVariants": [
@@ -357,7 +357,7 @@
     "examples": ["Je bois de l'eau.", "Veux-tu boire quelque chose?"]
   },
   {
-    "id": "word_écrire",
+    "id": "word_fr_écrire",
     "word": "écrire",
     "meaning": "to write",
     "pronunciationVariants": [
@@ -378,7 +378,7 @@
     "examples": ["J'écris une lettre.", "Écris ton nom."]
   },
   {
-    "id": "word_lire",
+    "id": "word_fr_lire",
     "word": "lire",
     "meaning": "to read",
     "pronunciationVariants": [
@@ -399,7 +399,7 @@
     "examples": ["Je lis un livre.", "Elle lit le journal."]
   },
   {
-    "id": "word_travailler",
+    "id": "word_fr_travailler",
     "word": "travailler",
     "meaning": "to work",
     "pronunciationVariants": [
@@ -420,7 +420,7 @@
     "examples": ["Je travaille à Paris.", "Travaillez dur!"]
   },
   {
-    "id": "word_pousser",
+    "id": "word_fr_pousser",
     "word": "pousser",
     "meaning": "to push",
     "pronunciationVariants": [
@@ -441,7 +441,7 @@
     "examples": ["Pousse le bouton.", "Elle a poussé la porte."]
   },
   {
-    "id": "word_sauter",
+    "id": "word_fr_sauter",
     "word": "sauter",
     "meaning": "to jump",
     "pronunciationVariants": [
@@ -462,7 +462,7 @@
     "examples": ["Saute par-dessus la clôture.", "Le chat a sauté."]
   },
   {
-    "id": "word_danser",
+    "id": "word_fr_danser",
     "word": "danser",
     "meaning": "to dance",
     "pronunciationVariants": [
@@ -483,7 +483,7 @@
     "examples": ["Dansons!", "Elle danse magnifiquement."]
   },
   {
-    "id": "word_chanter",
+    "id": "word_fr_chanter",
     "word": "chanter",
     "meaning": "to sing",
     "pronunciationVariants": [
@@ -504,7 +504,7 @@
     "examples": ["Chante une chanson.", "Elle chante dans le chœur."]
   },
   {
-    "id": "word_dormir",
+    "id": "word_fr_dormir",
     "word": "dormir",
     "meaning": "to sleep",
     "pronunciationVariants": [
@@ -525,7 +525,7 @@
     "examples": ["Dors bien.", "Elle a dormi huit heures."]
   },
   {
-    "id": "word_rever",
+    "id": "word_fr_rever",
     "word": "rêver",
     "meaning": "to dream",
     "pronunciationVariants": [
@@ -546,7 +546,7 @@
     "examples": ["Rêve grand.", "J'ai rêvé de toi."]
   },
   {
-    "id": "word_se_reveiller",
+    "id": "word_fr_se_reveiller",
     "word": "se réveiller",
     "meaning": "to wake up",
     "pronunciationVariants": [
@@ -567,7 +567,7 @@
     "examples": ["Réveille-toi tôt.", "Elle s'est réveillée à l'aube."]
   },
   {
-    "id": "word_cuisiner",
+    "id": "word_fr_cuisiner",
     "word": "cuisiner",
     "meaning": "to cook",
     "pronunciationVariants": [
@@ -588,7 +588,7 @@
     "examples": ["Cuisine le dîner.", "Il cuisine de délicieux repas."]
   },
   {
-    "id": "word_nettoyer",
+    "id": "word_fr_nettoyer",
     "word": "nettoyer",
     "meaning": "to clean",
     "pronunciationVariants": [
@@ -609,7 +609,7 @@
     "examples": ["Nettoie ta chambre.", "Elle a nettoyé la maison."]
   },
   {
-    "id": "word_laver",
+    "id": "word_fr_laver",
     "word": "laver",
     "meaning": "to wash",
     "pronunciationVariants": [
@@ -630,7 +630,7 @@
     "examples": ["Lave tes mains.", "Lave la vaisselle."]
   },
   {
-    "id": "word_secher",
+    "id": "word_fr_secher",
     "word": "sécher",
     "meaning": "to dry",
     "pronunciationVariants": [
@@ -651,7 +651,7 @@
     "examples": ["Sèche tes cheveux.", "Les vêtements ont séché."]
   },
   {
-    "id": "word_conduire",
+    "id": "word_fr_conduire",
     "word": "conduire",
     "meaning": "to drive",
     "pronunciationVariants": [
@@ -672,7 +672,7 @@
     "examples": ["Conduis prudemment.", "Elle conduit au travail."]
   },
   {
-    "id": "word_marcher",
+    "id": "word_fr_marcher",
     "word": "marcher",
     "meaning": "to walk",
     "pronunciationVariants": [
@@ -693,7 +693,7 @@
     "examples": ["Marche lentement.", "Je marche tous les jours."]
   },
   {
-    "id": "word_voler",
+    "id": "word_fr_voler",
     "word": "voler",
     "meaning": "to fly",
     "pronunciationVariants": [
@@ -714,7 +714,7 @@
     "examples": ["Vole à Paris.", "Les oiseaux volent sud en hiver."]
   },
   {
-    "id": "word_nager",
+    "id": "word_fr_nager",
     "word": "nager",
     "meaning": "to swim",
     "pronunciationVariants": [
@@ -735,7 +735,7 @@
     "examples": ["Nage à travers le lac.", "Elle nage chaque matin."]
   },
   {
-    "id": "word_grimper",
+    "id": "word_fr_grimper",
     "word": "grimper",
     "meaning": "to climb",
     "pronunciationVariants": [
@@ -756,7 +756,7 @@
     "examples": ["Grimpe la montagne.", "Il a grimpé l'échelle."]
   },
   {
-    "id": "word_tomber",
+    "id": "word_fr_tomber",
     "word": "tomber",
     "meaning": "to fall",
     "pronunciationVariants": [
@@ -777,7 +777,7 @@
     "examples": ["Ne tombe pas!", "Les feuilles tombent en automne."]
   },
   {
-    "id": "word_attraper",
+    "id": "word_fr_attraper",
     "word": "attraper",
     "meaning": "to catch",
     "pronunciationVariants": [
@@ -798,7 +798,7 @@
     "examples": ["Attrape la balle.", "Elle a attrapé le train."]
   },
   {
-    "id": "word_lancer",
+    "id": "word_fr_lancer",
     "word": "lancer",
     "meaning": "to throw",
     "pronunciationVariants": [
@@ -819,7 +819,7 @@
     "examples": ["Lance la balle.", "Il l'a jeté."]
   },
   {
-    "id": "word_frapper",
+    "id": "word_fr_frapper",
     "word": "frapper",
     "meaning": "to hit",
     "pronunciationVariants": [
@@ -840,7 +840,7 @@
     "examples": ["Frappe la cible.", "La voiture a frappé le mur."]
   },
   {
-    "id": "word_coup_de_pied",
+    "id": "word_fr_coup_de_pied",
     "word": "donner un coup de pied",
     "meaning": "to kick",
     "pronunciationVariants": [
@@ -861,7 +861,7 @@
     "examples": ["Donne un coup de pied au ballon.", "Il a donné un coup de pied à la porte."]
   },
   {
-    "id": "word_mordre",
+    "id": "word_fr_mordre",
     "word": "mordre",
     "meaning": "to bite",
     "pronunciationVariants": [
@@ -882,7 +882,7 @@
     "examples": ["Ne mords pas tes ongles.", "Le chien l'a mordu."]
   },
   {
-    "id": "word_choisir",
+    "id": "word_fr_choisir",
     "word": "choisir",
     "meaning": "to choose",
     "pronunciationVariants": [
@@ -903,7 +903,7 @@
     "examples": ["Choisis sagement.", "Elle a choisi le rouge."]
   },
   {
-    "id": "word_aimer",
+    "id": "word_fr_aimer",
     "word": "aimer",
     "meaning": "to like/love",
     "pronunciationVariants": [
@@ -924,7 +924,7 @@
     "examples": ["J'aime le chocolat.", "Elle aime lire."]
   },
   {
-    "id": "word_detester",
+    "id": "word_fr_detester",
     "word": "détester",
     "meaning": "to hate",
     "pronunciationVariants": [
@@ -945,7 +945,7 @@
     "examples": ["Je déteste attendre.", "Il déteste perdre."]
   },
   {
-    "id": "word_adorer",
+    "id": "word_fr_adorer",
     "word": "adorer",
     "meaning": "to love/adore",
     "pronunciationVariants": [
@@ -964,5 +964,152 @@
     ],
     "category": "verbs",
     "examples": ["Je t'adore.", "Elle adore le chocolat."]
+  },
+  {
+    "id": "word_fr_apprendre",
+    "word": "apprendre",
+    "meaning": "to learn",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "apʁɑ̃dʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "apʁɑ̃dʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "apʁɑ̃dʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["J'apprends le français.", "Il apprend vite."]
+  },
+  {
+    "id": "word_fr_finir",
+    "word": "finir",
+    "meaning": "to finish",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "finiʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "finiʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "finiʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Je finis mon travail.", "Elle a fini son livre."]
+  },
+  {
+    "id": "word_fr_commencer",
+    "word": "commencer",
+    "meaning": "to start/begin",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "kɔmɑ̃se"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "kɔmɑ̃se"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "kɔmɑ̃se"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Nous commençons maintenant.", "Le film commence à huit heures."]
+  },
+  {
+    "id": "word_fr_ouvrir",
+    "word": "ouvrir",
+    "meaning": "to open",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "uvʁiʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "uvʁiʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "uvʁiʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Ouvre la porte.", "Il ouvre la fenêtre."]
+  },
+  {
+    "id": "word_fr_fermer",
+    "word": "fermer",
+    "meaning": "to close",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "fɛʁme"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "fɛʁme"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "fɛʁme"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Ferme la porte.", "Le magasin ferme à dix-huit heures."]
+  },
+  {
+    "id": "word_fr_rester",
+    "word": "rester",
+    "meaning": "to stay/remain",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "ʁɛste"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "ʁɛste"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "ʁɛste"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Je reste à la maison.", "Restez calme."]
+  },
+  {
+    "id": "word_fr_partir",
+    "word": "partir",
+    "meaning": "to leave",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "paʁtiʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "paʁtiʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "paʁtiʁ"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["Je pars demain.", "Le train part à midi."]
   }
 ]

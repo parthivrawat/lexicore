@@ -1,6 +1,6 @@
 [
   {
-    "id": "word_hello",
+    "id": "word_en_hello",
     "word": "hello",
     "meaning": "a greeting",
     "pronunciationVariants": [
@@ -21,7 +21,7 @@
     "examples": ["Hello, how are you?", "She said hello to her neighbor."]
   },
   {
-    "id": "word_hi",
+    "id": "word_en_hi",
     "word": "hi",
     "meaning": "informal greeting",
     "pronunciationVariants": [
@@ -42,7 +42,7 @@
     "examples": ["Hi there!", "Hi, it's nice to meet you."]
   },
   {
-    "id": "word_good_morning",
+    "id": "word_en_good_morning",
     "word": "good morning",
     "meaning": "morning greeting",
     "pronunciationVariants": [
@@ -63,7 +63,7 @@
     "examples": ["Good morning, everyone.", "He wished her good morning."]
   },
   {
-    "id": "word_good_evening",
+    "id": "word_en_good_evening",
     "word": "good evening",
     "meaning": "evening greeting",
     "pronunciationVariants": [
@@ -84,7 +84,7 @@
     "examples": ["Good evening, ladies and gentlemen.", "Good evening, welcome to our show."]
   },
   {
-    "id": "word_goodbye",
+    "id": "word_en_goodbye",
     "word": "goodbye",
     "meaning": "farewell",
     "pronunciationVariants": [
@@ -105,7 +105,7 @@
     "examples": ["Goodbye, see you tomorrow.", "She waved goodbye."]
   },
   {
-    "id": "word_bye",
+    "id": "word_en_bye",
     "word": "bye",
     "meaning": "informal farewell",
     "pronunciationVariants": [
@@ -126,7 +126,7 @@
     "examples": ["Bye now!", "Just wanted to say bye."]
   },
   {
-    "id": "word_thank_you",
+    "id": "word_en_thank_you",
     "word": "thank you",
     "meaning": "expression of gratitude",
     "pronunciationVariants": [
@@ -147,7 +147,7 @@
     "examples": ["Thank you for your help.", "Thank you very much."]
   },
   {
-    "id": "word_thanks",
+    "id": "word_en_thanks",
     "word": "thanks",
     "meaning": "informal thanks",
     "pronunciationVariants": [
@@ -168,7 +168,7 @@
     "examples": ["Thanks for coming.", "Thanks a lot!"]
   },
   {
-    "id": "word_please",
+    "id": "word_en_please",
     "word": "please",
     "meaning": "polite request",
     "pronunciationVariants": [
@@ -189,7 +189,7 @@
     "examples": ["Please help me.", "Could you please pass the salt?"]
   },
   {
-    "id": "word_sorry",
+    "id": "word_en_sorry",
     "word": "sorry",
     "meaning": "apology",
     "pronunciationVariants": [
@@ -210,7 +210,7 @@
     "examples": ["Sorry, I'm late.", "I'm sorry about that."]
   },
   {
-    "id": "word_excuse_me",
+    "id": "word_en_excuse_me",
     "word": "excuse me",
     "meaning": "polite interruption",
     "pronunciationVariants": [
@@ -231,7 +231,7 @@
     "examples": ["Excuse me, could you help?", "Excuse me, I need to get by."]
   },
   {
-    "id": "word_pardon",
+    "id": "word_en_pardon",
     "word": "pardon",
     "meaning": "forgiveness/request to repeat",
     "pronunciationVariants": [
@@ -252,7 +252,7 @@
     "examples": ["Pardon me for interrupting.", "Pardon? I didn't hear you."]
   },
   {
-    "id": "word_good_afternoon",
+    "id": "word_en_good_afternoon",
     "word": "good afternoon",
     "meaning": "afternoon greeting",
     "pronunciationVariants": [
@@ -273,7 +273,7 @@
     "examples": ["Good afternoon, everyone.", "Good afternoon, sir."]
   },
   {
-    "id": "word_good_night",
+    "id": "word_en_good_night",
     "word": "good night",
     "meaning": "night farewell",
     "pronunciationVariants": [
@@ -294,7 +294,7 @@
     "examples": ["Good night, sleep well.", "Good night and sweet dreams."]
   },
   {
-    "id": "word_welcome",
+    "id": "word_en_welcome",
     "word": "welcome",
     "meaning": "greeting",
     "pronunciationVariants": [
@@ -315,7 +315,7 @@
     "examples": ["Welcome to our home.", "You're welcome."]
   },
   {
-    "id": "word_congratulations",
+    "id": "word_en_congratulations",
     "word": "congratulations",
     "meaning": "expression of praise",
     "pronunciationVariants": [
@@ -336,7 +336,7 @@
     "examples": ["Congratulations on your success!", "Congratulations to the winner."]
   },
   {
-    "id": "word_how_are_you",
+    "id": "word_en_how_are_you",
     "word": "how are you",
     "meaning": "greeting/inquiry",
     "pronunciationVariants": [
@@ -357,7 +357,7 @@
     "examples": ["How are you doing?", "How are you today?"]
   },
   {
-    "id": "word_nice_to_meet_you",
+    "id": "word_en_nice_to_meet_you",
     "word": "nice to meet you",
     "meaning": "introduction greeting",
     "pronunciationVariants": [
@@ -378,7 +378,7 @@
     "examples": ["Nice to meet you!", "It was nice to meet you."]
   },
   {
-    "id": "word_see_you_later",
+    "id": "word_en_see_you_later",
     "word": "see you later",
     "meaning": "casual farewell",
     "pronunciationVariants": [
@@ -399,7 +399,7 @@
     "examples": ["See you later!", "I'll see you later."]
   },
   {
-    "id": "word_take_care",
+    "id": "word_en_take_care",
     "word": "take care",
     "meaning": "farewell",
     "pronunciationVariants": [
@@ -420,7 +420,7 @@
     "examples": ["Take care of yourself.", "Take care!"]
   },
   {
-    "id": "word_cheers",
+    "id": "word_en_cheers",
     "word": "cheers",
     "meaning": "thanks/goodbye/toast",
     "pronunciationVariants": [

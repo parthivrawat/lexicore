@@ -167,5 +167,70 @@
     ],
     "category": "prepositions",
     "examples": ["রাস্তা দিয়ে।", "এক ঘণ্টা দিয়ে।"]
+  },
+  {
+    "id": "word_bn_somporke",
+    "word": "সম্পর্কে",
+    "meaning": "about",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃɔmpɔɾke"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["তুমি এটা সম্পর্কে জানো?", "এটা সম্পর্কে বলো।"]
+  },
+  {
+    "id": "word_bn_moto",
+    "word": "মতো",
+    "meaning": "like",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "moto"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["তোমার মতো।", "বাঘের মতো শক্তিশালী।"]
+  },
+  {
+    "id": "word_bn_dwara",
+    "word": "দ্বারা",
+    "meaning": "by",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "d̪aɾa"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["বাস দ্বারা।", "লেখক দ্বারা লেখা।"]
+  },
+  {
+    "id": "word_bn_charpashe",
+    "word": "চারপাশে",
+    "meaning": "around",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "tʃaɾpaʃe"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["বাড়ির চারপাশে।", "চারপাশে ঘুরো।"]
+  },
+  {
+    "id": "word_bn_biruddhe",
+    "word": "বিরুদ্ধে",
+    "meaning": "against",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "biɾuddʱe"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["আমি তার বিরুদ্ধে।", "বিরুদ্ধে লড়াই।"]
   }
 ]

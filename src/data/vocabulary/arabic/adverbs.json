@@ -195,32 +195,6 @@
     "examples": ["اخرج خارج.", "خارج المنزل."]
   },
   {
-    "id": "word_ar_fawq",
-    "word": "فوق",
-    "meaning": "up/above",
-    "pronunciationVariants": [
-      {
-        "accent": "arabic",
-        "ipa": "fawq"
-      }
-    ],
-    "category": "adverbs",
-    "examples": ["انظر فوق.", "فوق الطاولة."]
-  },
-  {
-    "id": "word_ar_taht",
-    "word": "تحت",
-    "meaning": "down/below",
-    "pronunciationVariants": [
-      {
-        "accent": "arabic",
-        "ipa": "taħt"
-      }
-    ],
-    "category": "adverbs",
-    "examples": ["انظر تحت.", "تحت السرير."]
-  },
-  {
     "id": "word_ar_amam",
     "word": "أمام",
     "meaning": "in front",
@@ -258,5 +232,96 @@
     ],
     "category": "adverbs",
     "examples": ["نذهب معا.", "نعمل معا."]
+  },
+  {
+    "id": "word_ar_qareeban",
+    "word": "قريبا",
+    "meaning": "soon",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "qariːban"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["سأعود قريبا.", "الحافلة ستأتي قريبا."]
+  },
+  {
+    "id": "word_ar_laahiqan",
+    "word": "لاحقا",
+    "meaning": "later",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "laːħiqan"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["سأتحدث إليك لاحقا.", "أراك لاحقا."]
+  },
+  {
+    "id": "word_ar_ghaaliban",
+    "word": "غالبا",
+    "meaning": "usually / often",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ɣaːliban"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["أنا غالبا سعيد.", "غالبا ما أكون في المنزل."]
+  },
+  {
+    "id": "word_ar_naadiran",
+    "word": "نادرا",
+    "meaning": "rarely",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "naːdiran"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["نادرا ما أذهب.", "أراه نادرا."]
+  },
+  {
+    "id": "word_ar_mubakkiran",
+    "word": "مبكرا",
+    "meaning": "early",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "mubakkiran"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["استيقظت مبكرا.", "حضرت مبكرا."]
+  },
+  {
+    "id": "word_ar_mutaakhkhiran",
+    "word": "متأخرا",
+    "meaning": "late",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "mutaʔaxxiran"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["وصل متأخرا.", "أكلمك متأخرا."]
+  },
+  {
+    "id": "word_ar_jayyidan",
+    "word": "جيدا",
+    "meaning": "well",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "d͡ʒajjidan"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["أجبت جيدا.", "يفعل عمله جيدا."]
   }
 ]

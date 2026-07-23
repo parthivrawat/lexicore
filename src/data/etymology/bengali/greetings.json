@@ -1,5 +1,5 @@
 {
-  "word_bn_namaskar": {
+  "word_bn_nomoshkar": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 1500 BCE",
     "timeline": [
@@ -30,39 +30,7 @@
     ],
     "notes": "From Sanskrit नमस् (namas, bow) + कार (kāra)."
   },
-  "word_bn_adaab": {
-    "languageOrigin": "Persian/Arabic",
-    "yearOfOrigin": "Medieval",
-    "timeline": [
-      {
-        "language": "Arabic",
-        "form": "أدب (adab)",
-        "period": "Classical",
-        "meaning": "courtesy, respect"
-      },
-      {
-        "language": "Persian",
-        "form": "آداب (ādāb)",
-        "period": "Medieval",
-        "meaning": "respectful greeting"
-      },
-      {
-        "language": "Bengali",
-        "form": "আদাব",
-        "period": "Modern",
-        "meaning": "respectful hello"
-      }
-    ],
-    "cognates": [
-      {
-        "language": "Urdu",
-        "word": "آداب",
-        "meaning": "greeting"
-      }
-    ],
-    "notes": "Persian/Arabic greeting showing courtesy."
-  },
-  "word_bn_biday": {
+  "word_bn_bida": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 500 BCE",
     "timeline": [
@@ -114,7 +82,7 @@
     ],
     "notes": "From Sanskrit धन्य (dhanya, blessed) + वाद (vāda)."
   },
-  "word_bn_doyakore": {
+  "word_bn_doya_kore": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 500 BCE",
     "timeline": [
@@ -134,7 +102,7 @@
     "cognates": [],
     "notes": "দয়া (mercy) + করে (does). 'Kindly do'."
   },
-  "word_bn_kichu_mone_korben_na": {
+  "word_bn_kichhu_mone_korben_na": {
     "languageOrigin": "Bengali",
     "yearOfOrigin": "Modern",
     "timeline": [
@@ -168,69 +136,7 @@
     "cognates": [],
     "notes": "From Sanskrit दुःख (duḥkha, suffering)."
   },
-  "word_bn_kichu_hoyni": {
-    "languageOrigin": "Bengali",
-    "yearOfOrigin": "Modern",
-    "timeline": [
-      {
-        "language": "Bengali",
-        "form": "কিছু হয়নি",
-        "period": "Modern",
-        "meaning": "nothing happened"
-      }
-    ],
-    "cognates": [],
-    "notes": "কিছু (anything) + হয়নি (did not happen). 'It's okay'."
-  },
-  "word_bn_abar_dekha_hobe": {
-    "languageOrigin": "Bengali",
-    "yearOfOrigin": "Modern",
-    "timeline": [
-      {
-        "language": "Bengali",
-        "form": "আবার দেখা হবে",
-        "period": "Modern",
-        "meaning": "will meet again"
-      }
-    ],
-    "cognates": [],
-    "notes": "আবার (again) + দেখা (see) + হবে (will be)."
-  },
-  "word_bn_apni_kemon_achen": {
-    "languageOrigin": "Bengali",
-    "yearOfOrigin": "Modern",
-    "timeline": [
-      {
-        "language": "Bengali",
-        "form": "আপনি কেমন আছেন",
-        "period": "Modern",
-        "meaning": "how are you"
-      }
-    ],
-    "cognates": [],
-    "notes": "আপনি (you) + কেমন (how) + আছেন (are)."
-  },
-  "word_bn_ami_bhalo_achi": {
-    "languageOrigin": "Sanskrit/Bengali",
-    "yearOfOrigin": "c. 500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "भद्र (bhadra)",
-        "period": "Classical",
-        "meaning": "good, auspicious"
-      },
-      {
-        "language": "Bengali",
-        "form": "আমি ভালো আছি",
-        "period": "Modern",
-        "meaning": "I am fine"
-      }
-    ],
-    "cognates": [],
-    "notes": "ভালো (bhalo, good) from Sanskrit भद्र. আমি (I) + আছি (am)."
-  },
-  "word_bn_shubho_rat": {
+  "word_bn_shubho_ratri": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 500 BCE",
     "timeline": [
@@ -250,7 +156,7 @@
     "cognates": [],
     "notes": "শুভ (śubha) + রাত্রি (rātri, night)."
   },
-  "word_bn_sagotom": {
+  "word_bn_shagotom": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 500 BCE",
     "timeline": [

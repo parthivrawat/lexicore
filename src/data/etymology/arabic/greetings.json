@@ -64,7 +64,7 @@
     "cognates": [],
     "notes": "From root ر-ح-ب (r-ḥ-b) meaning 'wide/spacious', conveying hospitality."
   },
-  "word_ar_sabah_alkhair": {
+  "word_ar_sabah_alkhayr": {
     "languageOrigin": "Classical Arabic",
     "yearOfOrigin": "Medieval period",
     "timeline": [
@@ -146,20 +146,6 @@
     "cognates": [],
     "notes": "From root أ-س-ف (ʔ-s-f) meaning 'to regret/be sorry'."
   },
-  "word_ar_laa_baas": {
-    "languageOrigin": "Classical Arabic",
-    "yearOfOrigin": "Medieval period",
-    "timeline": [
-      {
-        "language": "Classical Arabic",
-        "form": "لا بأس",
-        "period": "Medieval",
-        "meaning": "no harm/problem"
-      }
-    ],
-    "cognates": [],
-    "notes": "Compound: لا (no) + بأس (harm). Root ب-أ-س (b-ʔ-s)."
-  },
   "word_ar_maassalama": {
     "languageOrigin": "Classical Arabic",
     "yearOfOrigin": "Medieval period",
@@ -174,21 +160,7 @@
     "cognates": [],
     "notes": "Compound: مع (with) + السلامة (the safety/peace). Root س-ل-م (s-l-m)."
   },
-  "word_ar_ila_alliqa": {
-    "languageOrigin": "Classical Arabic",
-    "yearOfOrigin": "Medieval period",
-    "timeline": [
-      {
-        "language": "Classical Arabic",
-        "form": "إلى اللقاء",
-        "period": "Medieval",
-        "meaning": "until the meeting"
-      }
-    ],
-    "cognates": [],
-    "notes": "Compound: إلى (until) + اللقاء (the meeting). Root ل-ق-ي (l-q-y)."
-  },
-  "word_ar_kayfa_haalak": {
+  "word_ar_kayfa_halak": {
     "languageOrigin": "Classical Arabic",
     "yearOfOrigin": "Medieval period",
     "timeline": [
@@ -201,20 +173,6 @@
     ],
     "cognates": [],
     "notes": "Compound: كيف (how) + حال (condition) + ك (your). Root ح-و-ل (ḥ-w-l)."
-  },
-  "word_ar_ana_bikhayr": {
-    "languageOrigin": "Classical Arabic",
-    "yearOfOrigin": "Medieval period",
-    "timeline": [
-      {
-        "language": "Classical Arabic",
-        "form": "أنا بخير",
-        "period": "Medieval",
-        "meaning": "I am in goodness"
-      }
-    ],
-    "cognates": [],
-    "notes": "Compound: أنا (I) + ب (in) + خير (goodness). Root خ-ي-ر (kh-y-r)."
   },
   "word_ar_tisbah_ala_khayr": {
     "languageOrigin": "Classical Arabic",
@@ -229,19 +187,5 @@
     ],
     "cognates": [],
     "notes": "Compound: تصبح (you wake) + على (upon) + خير (goodness). Root ص-ب-ح (ṣ-b-ḥ)."
-  },
-  "word_ar_ahlan_wa_sahlan": {
-    "languageOrigin": "Classical Arabic",
-    "yearOfOrigin": "Pre-Islamic",
-    "timeline": [
-      {
-        "language": "Classical Arabic",
-        "form": "أهلا وسهلا",
-        "period": "Pre-Islamic era",
-        "meaning": "family and ease (welcome)"
-      }
-    ],
-    "cognates": [],
-    "notes": "Compound: أهلا (family/people) + و (and) + سهلا (ease/plain). Traditional welcome phrase."
   }
 }

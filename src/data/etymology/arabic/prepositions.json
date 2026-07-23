@@ -1,4 +1,24 @@
 {
+  "word_ar_baad": {
+    "languageOrigin": "Classical Arabic",
+    "yearOfOrigin": "Medieval",
+    "timeline": [
+      {
+        "language": "Classical Arabic",
+        "form": "بعد",
+        "period": "Medieval period",
+        "meaning": "not yet"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "بعد",
+        "period": "Pre-Islamic era",
+        "meaning": "after"
+      }
+    ],
+    "cognates": [],
+    "notes": "Root ب-ع-د (b-ʕ-d) meaning 'after, distance'. Used with negation.; Root ب-ع-د (b-ʕ-d) meaning 'distance, remoteness'."
+  },
   "word_ar_fi": {
     "languageOrigin": "Proto-Semitic",
     "yearOfOrigin": "Ancient",
@@ -66,6 +86,18 @@
         "form": "من",
         "period": "Pre-Islamic era",
         "meaning": "from"
+      },
+      {
+        "language": "Proto-Semitic",
+        "form": "*man",
+        "period": "c. 3000 BCE",
+        "meaning": "who"
+      },
+      {
+        "language": "Classical Arabic",
+        "form": "من",
+        "period": "Pre-Islamic era",
+        "meaning": "who"
       }
     ],
     "cognates": [
@@ -73,11 +105,16 @@
         "language": "Hebrew",
         "word": "מן (min)",
         "meaning": "from"
+      },
+      {
+        "language": "Hebrew",
+        "word": "מי (mi)",
+        "meaning": "who"
       }
     ],
-    "notes": "Source/origin preposition."
+    "notes": "Source/origin preposition.; Interrogative pronoun for persons."
   },
-  "word_ar_maa": {
+  "word_ar_maa_2": {
     "languageOrigin": "Proto-Semitic",
     "yearOfOrigin": "Ancient",
     "timeline": [
@@ -129,7 +166,7 @@
     ],
     "notes": "Benefactive/dative preposition."
   },
-  "word_ar_aan": {
+  "word_ar_an": {
     "languageOrigin": "Classical Arabic",
     "yearOfOrigin": "Pre-Islamic",
     "timeline": [
@@ -176,20 +213,6 @@
     ],
     "cognates": [],
     "notes": "Root ق-ب-ل (q-b-l) meaning 'to face, accept'."
-  },
-  "word_ar_baad": {
-    "languageOrigin": "Classical Arabic",
-    "yearOfOrigin": "Pre-Islamic",
-    "timeline": [
-      {
-        "language": "Classical Arabic",
-        "form": "بعد",
-        "period": "Pre-Islamic era",
-        "meaning": "after"
-      }
-    ],
-    "cognates": [],
-    "notes": "Root ب-ع-د (b-ʕ-d) meaning 'distance, remoteness'."
   },
   "word_ar_ala": {
     "languageOrigin": "Proto-Semitic",

@@ -78,7 +78,7 @@
     "examples": ["冇時間。", "幾點時間？"]
   },
   {
-    "id": "word_yue_jat",
+    "id": "word_yue_jat6",
     "word": "日",
     "meaning": "day",
     "pronunciationVariants": [
@@ -258,5 +258,122 @@
     ],
     "category": "daily-use-nouns",
     "examples": ["你叫咩名？", "我個名。"]
+  },
+  {
+    "id": "word_yue_naam_jan",
+    "word": "男人",
+    "meaning": "man",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "naam⁴ jan⁴"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["呢個男人。", "男人嚟㗎。"]
+  },
+  {
+    "id": "word_yue_neoi_jan",
+    "word": "女人",
+    "meaning": "woman",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "neoi⁵ jan⁴"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["呢個女人。", "女人嚟㗎。"]
+  },
+  {
+    "id": "word_yue_maa_maa",
+    "word": "媽媽",
+    "meaning": "mother",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "maa⁴ maa¹"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["我媽媽。", "媽媽喺度。"]
+  },
+  {
+    "id": "word_yue_baa_baa",
+    "word": "爸爸",
+    "meaning": "father",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "baa⁴ baa¹"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["我爸爸。", "爸爸喺度。"]
+  },
+  {
+    "id": "word_yue_ce",
+    "word": "車",
+    "meaning": "car",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "ce¹"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["一架車。", "坐車。"]
+  },
+  {
+    "id": "word_yue_faan",
+    "word": "飯",
+    "meaning": "rice/meal",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "faan⁶"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["食飯。", "一碟飯。"]
+  },
+  {
+    "id": "word_yue_juk",
+    "word": "肉",
+    "meaning": "meat",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "juk⁶"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["食肉。", "一舊肉。"]
+  },
+  {
+    "id": "word_yue_jyu",
+    "word": "魚",
+    "meaning": "fish",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "jyu⁴"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["食魚。", "一條魚。"]
+  },
+  {
+    "id": "word_yue_faa",
+    "word": "花",
+    "meaning": "flower",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "faa¹"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["一朵花。", "買花。"]
   }
 ]

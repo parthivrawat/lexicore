@@ -1,5 +1,5 @@
 {
-  "word_quickly": {
+  "word_en_quickly": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -47,7 +47,7 @@
     ],
     "notes": "From \"quick\" meaning \"alive\", evolved to mean \"fast, active\"."
   },
-  "word_slowly": {
+  "word_en_slowly": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -94,7 +94,7 @@
       }
     ]
   },
-  "word_well": {
+  "word_en_well": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -141,7 +141,7 @@
       }
     ]
   },
-  "word_badly": {
+  "word_en_badly": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -188,7 +188,7 @@
       }
     ]
   },
-  "word_loudly": {
+  "word_en_loudly": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -235,7 +235,7 @@
       }
     ]
   },
-  "word_quietly": {
+  "word_en_quietly": {
     "languageOrigin": "Latin",
     "yearOfOrigin": "14th century",
     "timeline": [
@@ -282,7 +282,7 @@
       }
     ]
   },
-  "word_happily": {
+  "word_en_happily": {
     "languageOrigin": "Old Norse",
     "yearOfOrigin": "14th century",
     "timeline": [
@@ -324,7 +324,7 @@
     ],
     "notes": "From Old Norse \"happ\" meaning \"good luck\", evolved to mean \"happy\"."
   },
-  "word_sadly": {
+  "word_en_sadly": {
     "languageOrigin": "Old Norse",
     "yearOfOrigin": "14th century",
     "timeline": [
@@ -365,7 +365,7 @@
       }
     ]
   },
-  "word_carefully": {
+  "word_en_carefully": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -412,7 +412,7 @@
       }
     ]
   },
-  "word_easily": {
+  "word_en_easily": {
     "languageOrigin": "Old French",
     "yearOfOrigin": "14th century",
     "timeline": [
@@ -459,7 +459,7 @@
       }
     ]
   },
-  "word_clearly": {
+  "word_en_clearly": {
     "languageOrigin": "Latin",
     "yearOfOrigin": "14th century",
     "timeline": [
@@ -506,7 +506,7 @@
       }
     ]
   },
-  "word_strongly": {
+  "word_en_strongly": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -553,7 +553,7 @@
       }
     ]
   },
-  "word_softly": {
+  "word_en_softly": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -600,7 +600,7 @@
       }
     ]
   },
-  "word_always": {
+  "word_en_always": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -642,7 +642,7 @@
     ],
     "notes": "Compound of \"all\" + \"way\", literally \"all the way\"."
   },
-  "word_never": {
+  "word_en_never": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -684,7 +684,7 @@
     ],
     "notes": "Compound of \"ne\" (not) + \"ǣfre\" (ever)."
   },
-  "word_often": {
+  "word_en_often": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -731,7 +731,7 @@
       }
     ]
   },
-  "word_sometimes": {
+  "word_en_sometimes": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -773,7 +773,7 @@
     ],
     "notes": "Compound of \"some\" + \"time\"."
   },
-  "word_usually": {
+  "word_en_usually": {
     "languageOrigin": "Latin",
     "yearOfOrigin": "14th century",
     "timeline": [
@@ -820,7 +820,7 @@
       }
     ]
   },
-  "word_now": {
+  "word_en_now": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -867,7 +867,7 @@
       }
     ]
   },
-  "word_then": {
+  "word_en_then": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -914,7 +914,7 @@
       }
     ]
   },
-  "word_soon": {
+  "word_en_soon": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -961,7 +961,7 @@
       }
     ]
   },
-  "word_later": {
+  "word_en_later": {
     "languageOrigin": "Latin",
     "yearOfOrigin": "14th century",
     "timeline": [
@@ -1008,7 +1008,7 @@
       }
     ]
   },
-  "word_yesterday": {
+  "word_en_yesterday": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -1050,7 +1050,7 @@
     ],
     "notes": "Compound of \"giestran\" (yester) + \"dæg\" (day)."
   },
-  "word_today": {
+  "word_en_today": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -1092,7 +1092,7 @@
     ],
     "notes": "Compound of \"to\" (on) + \"dæg\" (day)."
   },
-  "word_tomorrow": {
+  "word_en_tomorrow": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -1134,7 +1134,7 @@
     ],
     "notes": "Compound of \"to\" (on) + \"morgen\" (morning)."
   },
-  "word_here": {
+  "word_en_here": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -1181,7 +1181,7 @@
       }
     ]
   },
-  "word_there": {
+  "word_en_there": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -1228,7 +1228,7 @@
       }
     ]
   },
-  "word_everywhere": {
+  "word_en_everywhere": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -1270,7 +1270,7 @@
     ],
     "notes": "Compound of \"every\" + \"where\"."
   },
-  "word_nowhere": {
+  "word_en_nowhere": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -1312,7 +1312,7 @@
     ],
     "notes": "Compound of \"no\" + \"where\"."
   },
-  "word_very": {
+  "word_en_very": {
     "languageOrigin": "Old French",
     "yearOfOrigin": "14th century",
     "timeline": [
@@ -1360,7 +1360,7 @@
     ],
     "notes": "From Latin \"verus\" meaning \"true\", evolved to mean \"very\" as an intensifier."
   },
-  "word_too": {
+  "word_en_too": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -1407,7 +1407,7 @@
       }
     ]
   },
-  "word_quite": {
+  "word_en_quite": {
     "languageOrigin": "Middle English",
     "yearOfOrigin": "14th century",
     "timeline": [
@@ -1449,7 +1449,7 @@
     ],
     "notes": "From Old French \"quit\" meaning \"free, clear\", evolved to mean \"completely, quite\"."
   },
-  "word_almost": {
+  "word_en_almost": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -1491,7 +1491,7 @@
     ],
     "notes": "Compound of \"all\" + \"most\"."
   },
-  "word_barely": {
+  "word_en_barely": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -1532,7 +1532,7 @@
       }
     ]
   },
-  "word_however": {
+  "word_en_however": {
     "languageOrigin": "Middle English",
     "yearOfOrigin": "14th century",
     "timeline": [
@@ -1574,7 +1574,7 @@
     ],
     "notes": "Compound of \"how\" + \"ever\"."
   },
-  "word_perhaps": {
+  "word_en_perhaps": {
     "languageOrigin": "Middle English",
     "yearOfOrigin": "14th century",
     "timeline": [
@@ -1616,7 +1616,7 @@
     ],
     "notes": "From Latin \"per\" + \"hap\" (by chance)."
   },
-  "word_probably": {
+  "word_en_probably": {
     "languageOrigin": "Latin",
     "yearOfOrigin": "16th century",
     "timeline": [
@@ -1657,7 +1657,7 @@
       }
     ]
   },
-  "word_certainly": {
+  "word_en_certainly": {
     "languageOrigin": "Latin",
     "yearOfOrigin": "14th century",
     "timeline": [
@@ -1704,7 +1704,7 @@
       }
     ]
   },
-  "word_really": {
+  "word_en_really": {
     "languageOrigin": "Latin",
     "yearOfOrigin": "15th century",
     "timeline": [
@@ -1751,7 +1751,7 @@
       }
     ]
   },
-  "word_actually": {
+  "word_en_actually": {
     "languageOrigin": "Latin",
     "yearOfOrigin": "15th century",
     "timeline": [
@@ -1798,7 +1798,7 @@
       }
     ]
   },
-  "word_suddenly": {
+  "word_en_suddenly": {
     "languageOrigin": "Latin",
     "yearOfOrigin": "16th century",
     "timeline": [
@@ -1845,7 +1845,7 @@
       }
     ]
   },
-  "word_finally": {
+  "word_en_finally": {
     "languageOrigin": "Latin",
     "yearOfOrigin": "16th century",
     "timeline": [
@@ -1892,7 +1892,7 @@
       }
     ]
   },
-  "word_already": {
+  "word_en_already": {
     "languageOrigin": "Middle English",
     "yearOfOrigin": "14th century",
     "timeline": [
@@ -1934,7 +1934,7 @@
     ],
     "notes": "Compound of \"all\" + \"ready\"."
   },
-  "word_still": {
+  "word_en_still": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -1981,7 +1981,7 @@
       }
     ]
   },
-  "word_just": {
+  "word_en_just": {
     "languageOrigin": "Latin",
     "yearOfOrigin": "14th century",
     "timeline": [
@@ -2028,7 +2028,7 @@
       }
     ]
   },
-  "word_only": {
+  "word_en_only": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -2070,7 +2070,7 @@
     ],
     "notes": "From \"one\" + \"-ly\" suffix."
   },
-  "word_together": {
+  "word_en_together": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -2117,7 +2117,7 @@
       }
     ]
   },
-  "word_alone": {
+  "word_en_alone": {
     "languageOrigin": "Latin",
     "yearOfOrigin": "14th century",
     "timeline": [
@@ -2165,7 +2165,7 @@
     ],
     "notes": "From \"all\" + \"one\", literally \"all one\"."
   },
-  "word_away": {
+  "word_en_away": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -2207,7 +2207,7 @@
     ],
     "notes": "Compound of \"on\" + \"way\"."
   },
-  "word_back": {
+  "word_en_back": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -2254,7 +2254,7 @@
       }
     ]
   },
-  "word_forward": {
+  "word_en_forward": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -2296,7 +2296,7 @@
     ],
     "notes": "Compound of \"fore\" + \"ward\"."
   },
-  "word_backward": {
+  "word_en_backward": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -2338,7 +2338,7 @@
     ],
     "notes": "Compound of \"back\" + \"ward\"."
   },
-  "word_up": {
+  "word_en_up": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -2385,7 +2385,7 @@
       }
     ]
   },
-  "word_down": {
+  "word_en_down": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -2432,7 +2432,7 @@
       }
     ]
   },
-  "word_inside": {
+  "word_en_inside": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -2474,7 +2474,7 @@
     ],
     "notes": "Compound of \"in\" + \"side\"."
   },
-  "word_outside": {
+  "word_en_outside": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -2516,7 +2516,7 @@
     ],
     "notes": "Compound of \"out\" + \"side\"."
   },
-  "word_about_adverb": {
+  "word_en_about_adverb": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -2535,7 +2535,7 @@
     ],
     "notes": "Preposition and adverb from Middle English aboute, abouten, from Old English abūtan, onbūtan, from on (“in, on”) + būtan (“outside of”), itself from be (“by”) + ūtan (“outside”). Cognate with Old Frisian abûta (“outside; except”).\nAdjective from Middle English about (adverb)."
   },
-  "word_above_adverb": {
+  "word_en_above_adverb": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -2549,7 +2549,7 @@
     ],
     "notes": "From Middle English above, aboven, abuven, from Old English ābufan, onbufan, from on (“on”) + bufan (“over”), (akin to Icelandic ofan (“from above”), Middle Dutch bōven, Old Frisian bova, Middle High German bobene) from bī (“by”) + ufan (“over”); also cognate with Danish oven, Dutch boven, German oben, Swedish ovan, Old Saxon oƀan, Old High German obana.\nThe preposition, the adjective, and the noun derive from the adverb."
   },
-  "word_abroad": {
+  "word_en_abroad": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -2564,12 +2564,12 @@
     ],
     "notes": "First attested in mid 13th century. From Middle English abrood (“broadly widely scattered”), from a- (“on, in”) + brood (“broad”). Equivalent to a- + broad."
   },
-  "word_absolutely": {
+  "word_en_absolutely": {
     "languageOrigin": "English",
     "timeline": [],
     "notes": "From late Middle English absolutly, equivalent to absolute + -ly.\nFirst attested in 1425."
   },
-  "word_across_adverb": {
+  "word_en_across_adverb": {
     "languageOrigin": "Anglo-Norman",
     "timeline": [
       {
@@ -2588,7 +2588,7 @@
     ],
     "notes": "From Middle English acros, from early Middle English a-croiz, a-creoyz, from Anglo-Norman an (“in, on”) + croiz (“in the form of a cross”). More at cross. By surface analysis, a- + cross."
   },
-  "word_after_adverb": {
+  "word_en_after_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2615,7 +2615,7 @@
     ],
     "notes": "From Middle English after, from Old English æfter, from Proto-West Germanic *aftar, from Proto-Germanic *after, *aftiri, from Proto-Indo-European *h₂epoteros (“further behind, further away”), from *h₂epo (“off, away”).\nCognate with Scots efter (“after”), North Frisian efter (“after, behind”), West Frisian after, achter, efter (“behind; after”), Low German/Dutch achter (“behind”), German after- (“after-”), Swedish/Danish efter (“after”), Norwegian Nynorsk/Norwegian Bokmål etter (“after”), Iceland…"
   },
-  "word_afterwards": {
+  "word_en_afterwards": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -2634,7 +2634,7 @@
     ],
     "notes": "From Middle English afterwardes, from Old English æfteweard (“behind”) + -s (“(adverbial genitive)”). By surface analysis, after + -wards."
   },
-  "word_again": {
+  "word_en_again": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -2661,7 +2661,7 @@
     ],
     "notes": "From Middle English agayn, from Old English onġēan (“against, again”), from Proto-West Germanic *in gagin, from Proto-Germanic *in gagin. Cognate with German entgegen (“contrary to”), North Frisian ijen (“against”), Danish igen (“again”), Swedish igen (“again”), and Norwegian Bokmål igjen (“again”), and Icelandic í gegnum (“through”). By surface analysis, on- + gain (“against”)."
   },
-  "word_ago": {
+  "word_en_ago": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -2681,7 +2681,7 @@
     ],
     "notes": "From Middle English ago, agon (“passed”), past participle of agon (“to depart, escape, pass”), from Old English āgān (“to go away, pass away, go forth, come to pass”), from Proto-Germanic *uz- (“out”), *gāną (“to go”), equivalent to a- + gone, and by surface analysis, a- + go. Cognate with German ergehen (“to come to pass, fare, go forth”). Compare also Old Saxon āgangan (“to go or pass by”), Gothic 𐌿𐍃𐌲𐌰𐌲𐌲𐌰𐌽 (usgaggan, “to go forth”)."
   },
-  "word_all": {
+  "word_en_all": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2708,7 +2708,7 @@
     ],
     "notes": "From Middle English all, from Old English eall, from Proto-West Germanic *all, from Proto-Germanic *allaz, of uncertain origin but perhaps from Proto-Indo-European *h₂el- (“all”).\nCognates\nCognate with Scots a, a', aa, aal, aw (“all”), Yola aal, al, all, aul (“all”), North Frisian aal, aale, ale, ali, åle (“all”), Saterland Frisian al (“already”), aal (“all”), West Frisian alle (“all”), Dutch al (“all”), German and Luxembourgish all (“all”), Vilamovian oły, ołły (“all”), Yiddish אַלע (ale, “all”…"
   },
-  "word_along_adverb": {
+  "word_en_along_adverb": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -2722,7 +2722,7 @@
     ],
     "notes": "From Middle English, from Old English andlang, from prefix and- + lang (“long”). Doublet of endlong."
   },
-  "word_also": {
+  "word_en_also": {
     "languageOrigin": "Proto-West Germanic",
     "timeline": [
       {
@@ -2741,7 +2741,7 @@
     ],
     "notes": "From Middle English also, alswo, alswa (also als(e), as, whence English as), from Old English eallswā (“just like, also”), from Proto-West Germanic *allswā, equivalent to all + so. Cognate with Scots alsa, alswa (“also, even so, in the same way, as, as well”), Saterland Frisian also (“accordingly, therefore, thus”), West Frisian alsa (“so, just so, even so, thus”), Old Saxon alsō (“similarly, as if, just as, when”), Dutch alzo (“so, thus”), German also (“so, thus”), Danish altså (“so”), Norwegia…"
   },
-  "word_any": {
+  "word_en_any": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -2764,7 +2764,7 @@
     ],
     "notes": "From Middle English any, eny, ony, ani, aniȝ, eniȝ, æniȝ, from Old English ǣniġ (“any”), from Proto-West Germanic *ainīg, *ainag, from Proto-Germanic *ainagaz, from Proto-Germanic *ainaz (“one”), equivalent to one + -y.\nCognate with Saterland Frisian eenich (“some”), West Frisian iennich (“only”), Dutch enig (“any, some”), Afrikaans enig (“any”), German Low German enig (“some”), German einig (“some”); via Proto-Indo-European *óynos cognate with Latin ūllus (“any”), Latin ūnicus (whence Italian u…"
   },
-  "word_apart": {
+  "word_en_apart": {
     "languageOrigin": "Anglo-Norman",
     "timeline": [
       {
@@ -2778,7 +2778,7 @@
     ],
     "notes": "From Middle English apart, aparte, a-part, a part, from Anglo-Norman a part, from Latin ad partem (“to the side”)."
   },
-  "word_around_adverb": {
+  "word_en_around_adverb": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -2793,7 +2793,7 @@
     ],
     "notes": "From Middle English around, arounde, from a- (from Old English a- (“on, at”)) + Middle English round (“circle, round”) borrowed from French, equivalent to a- + round. Cognate with Scots aroond, aroon (“around”). Displaced earlier Middle English umbe, embe (“around”) (from Old English ymbe (“around”))."
   },
-  "word_as": {
+  "word_en_as": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -2808,7 +2808,7 @@
     ],
     "notes": "From Middle English as, als(a), alswa, from Old English eallswā (“just so; as”), thus representing a reduced form of also. Compare German Low German a(l)s, German als, Dutch als."
   },
-  "word_backwards": {
+  "word_en_backwards": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -2822,7 +2822,7 @@
     ],
     "notes": "From Middle English bakwardis, bakwardis, a variant of Middle English bakwarde, bakward (“backward”). Equivalent to backward + -s. Compare Saterland Frisian bäkove (“backwards”)."
   },
-  "word_before_adverb": {
+  "word_en_before_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2845,7 +2845,7 @@
     ],
     "notes": "Inherited from Middle English before /bifore, from Old English beforan, from be- + foran (“before”), from fore, from Proto-Germanic *furai, from Proto-Indo-European *per- (“front”). Cognate with Saterland Frisian befoar (“before”), German Low German bevör (“before”), German bevor (“before”)."
   },
-  "word_behind_adverb": {
+  "word_en_behind_adverb": {
     "languageOrigin": "Proto-West Germanic",
     "timeline": [
       {
@@ -2868,7 +2868,7 @@
     ],
     "notes": "From Middle English behinde, behinden, from Old English behindan (“on the back side of, behind”), from Proto-West Germanic *bihindan, *bihindini (“on the back side of, in the rear of, behind”), from Proto-West Germanic *bi- + *hindō (“the hind side, back part”), equivalent to be- + hind. Compare Old Saxon bihindan (“behind”, adverb), Middle High German behinter (“behind; back”)."
   },
-  "word_below_adverb": {
+  "word_en_below_adverb": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -2882,7 +2882,7 @@
     ],
     "notes": "From Middle English bilooghe, equivalent to be- + low. Compare also earlier Middle English alogh, alow, aloȝ, alowe (“below”), benethen (“beneath”), Dutch omlaag (“downwards”)."
   },
-  "word_best_adverb": {
+  "word_en_best_adverb": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -2900,7 +2900,7 @@
     ],
     "notes": "From Middle English best, beste, from Old English betst, betest, from Proto-Germanic *batistaz.\nCognates\nCognate with Scots best (“best”), Cimbrian peste, péste (“best”), Dutch best (“best”), German beste (“best”), Yiddish בעסט (best, “best”), Danish bedst (“best”), Faroese bestur (“best”), Icelandic bestur, beztur (“best”), Norwegian Bokmål, Norwegian Nynorsk best (“best”), Swedish bäst (“best”), Gothic 𐌱𐌰𐍄𐌹𐍃𐍄𐍃 (batists, “best”)."
   },
-  "word_better_adverb": {
+  "word_en_better_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2928,7 +2928,7 @@
     ],
     "notes": "From Middle English better, bettre, betre, from Old English betera (“better”), from Proto-West Germanic *batiʀō, from Proto-Germanic *batizô (“better”), from Proto-Indo-European *bʰed-rós, from *bʰed- (“good”).\nCognate with Dutch beter, German besser, Danish and Norwegian Bokmål bedre, Norwegian Nynorsk betre, Swedish bättre, Faroese and Icelandic betri. Also Sanskrit भ॒द्र (bhadrá, “blessed; fortunate; happy; good”) (from *bʰn̥d-ró-s)."
   },
-  "word_between_adverb": {
+  "word_en_between_adverb": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -2952,7 +2952,7 @@
     ],
     "notes": "PIE word\n *dwóh₁\nFrom Middle English betwene, from Old English betwēonum (“between, among”, dative plural, literally “by the two, near both”), from Proto-Germanic *bi- (“be-”) + *twīhnaz (“two each”), corresponding to be- + twain. Cognate with Scots between (“between”), Scots atween (“between”), Gothic 𐍄𐍅𐌴𐌹𐌷𐌽𐌰𐌹 (tweihnai, “two each”), Old English betweoh (“between”), Old English twinn (“double, twofold”). More at betwixt, twin."
   },
-  "word_beyond_adverb": {
+  "word_en_beyond_adverb": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -2970,7 +2970,7 @@
     ],
     "notes": "From Middle English biyonde, from Old English beġeondan, from be- + ġeond; related to yonder."
   },
-  "word_by_adverb": {
+  "word_en_by_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2998,7 +2998,7 @@
     ],
     "notes": "From Middle English by, bi, from Old English bī (“by; near; around”), from Proto-West Germanic *bī, from Proto-Germanic *bi (“near; by; around; about”), from Proto-Indo-European *h₁epi.\nCognate with West Frisian by (“by; near”), Afrikaans by (“at; by; near”), Saterland Frisian bie (“near; by”), Dutch bij (“near; by”), German Low German bi (“by; near; at”), German bei (“by; near; at”)."
   },
-  "word_cheap_adverb": {
+  "word_en_cheap_adverb": {
     "languageOrigin": "Latin",
     "timeline": [
       {
@@ -3042,7 +3042,7 @@
     ],
     "notes": "As a noun, from Middle English chep, from Old English cēap (“trade, market, value”), from Proto-West Germanic *kaup. As a verb, from Middle English chepen, from Old English ċēapian (“to buy, bargain, trade”), from Proto-West Germanic *kaupōn, from Proto-Germanic *kaupōną, a verbal derivative of *kaupô (“trader”), from Latin caupō.\nThe adjective originated as a shortening of Middle and Early Modern English good cheap, literally “good purchase” (as in “that was good cheap”, i.e."
   },
-  "word_close_adverb": {
+  "word_en_close_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -3082,7 +3082,7 @@
     ],
     "notes": "From Middle English closen (“to close, enclose”), partly continuing (in altered form) earlier Middle English clusen (“to close”) from Old English clȳsan (“to close, shut”); compare beclose, foreclose, etc.), and partly derived from Middle English clos (“close, shut up, confined, secret”, adjective), from Old French clos (“close, confined”, adjective), from Latin clausus (“shut up”, past participle), from claudō (“to bar, block, close, enclose, bring an end to, confine”), from Proto-Indo-European…"
   },
-  "word_commonly": {
+  "word_en_commonly": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -3096,7 +3096,7 @@
     ],
     "notes": "Inherited from Middle English comunly; equivalent to common + -ly."
   },
-  "word_daily_adverb": {
+  "word_en_daily_adverb": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -3123,7 +3123,7 @@
     ],
     "notes": "From Middle English dayly, from Old English dæġlīċ, from Proto-West Germanic *dagalīk, from Proto-Germanic *dagalīkaz (“daily”), equivalent to day + -ly. Cognate with Scots dayly, daly (“daily”), German Low German dagelk, dagelik (“daily”), Dutch dagelijks (“daily”), German täglich (“daily”), Danish daglig (“daily”), Swedish daglig (“daily”), Icelandic daglegur (“daily”)."
   },
-  "word_deep_adverb": {
+  "word_en_deep_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -3155,7 +3155,7 @@
     ],
     "notes": "From Middle English dep, deep, depe, from Old English dēop (“deep, profound; awful, mysterious; heinous; serious, solemn, earnest; extreme, great”), from Proto-West Germanic *deup, from Proto-Germanic *deupaz (“deep”), from Proto-Indo-European *dʰewbʰ-nós, from *dʰewbʰ- (“deep”).\nCognates\nCognate with Scots depe (“deep”), North Frisian diip, jip (“deep”), Saterland Frisian djoop (“deep”), West Frisian djip (“deep”), Alemannic German tüüf (“deep”), Central Franconian deef, deep (“deep”), Dutch di…"
   },
-  "word_deeply": {
+  "word_en_deeply": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -3174,7 +3174,7 @@
     ],
     "notes": "From Middle English deply, depely, from Old English dēoplīċe (“deeply”, adverb), from dēoplīc (“deep”), equivalent to deep + -ly."
   },
-  "word_differently": {
+  "word_en_differently": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -3184,7 +3184,7 @@
     ],
     "notes": "From Middle English differently; equivalent to different + -ly."
   },
-  "word_direct_adverb": {
+  "word_en_direct_adverb": {
     "languageOrigin": "Latin",
     "timeline": [
       {
@@ -3198,7 +3198,7 @@
     ],
     "notes": "Borrowed from Latin dīrēctus, perfect passive participle of dīrigō (“straighten, direct”), from dis- (“asunder, in pieces, apart, in two”) + regō (“make straight, rule”). Compare dress. Doublet of derecho.\nFor the meaning development compare with Russian напра́вить (naprávitʹ, “to direct, to turn, to aim, to level, to point”), отпра́вить (otprávitʹ, “to send, to dispatch, to forward”) connected with пра́вить (právitʹ, “to govern, to rule, to drive, to steer”)."
   },
-  "word_double_adverb": {
+  "word_en_double_adverb": {
     "languageOrigin": "Latin",
     "timeline": [
       {
@@ -3217,7 +3217,7 @@
     ],
     "notes": "PIE word\n *dwóh₁\nFrom Middle English double, from Old French doble, double, from Latin duplus (“twofold”). Doublet of doppio and duple."
   },
-  "word_each": {
+  "word_en_each": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -3235,7 +3235,7 @@
     ],
     "notes": "From Middle English eche, elche, ilch, from Old English ǣlċ, contraction of ǣġhwelċ. Comparable to aye + alike.\nCompare Scots ilk, elk (“each, every”), Saterland Frisian älk (“each”), West Frisian elk, elts (“each”), Dutch elk (“each”), Low German elk, ellik (“each”), German Low German elk, elke (“each, every”), German jeglicher (“any”). By surface analysis, Old English ā + which."
   },
-  "word_early_adverb": {
+  "word_en_early_adverb": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -3254,7 +3254,7 @@
     ],
     "notes": "From Middle English erly, erlich, earlich, from Old English ǣrlīċ (“early”, adjective), equivalent to ere + -ly."
   },
-  "word_east_adverb": {
+  "word_en_east_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -3285,7 +3285,7 @@
     ],
     "notes": "From Middle English est, from Old English ēast, from Proto-West Germanic *austr, from Proto-Germanic *austrą, from Proto-Germanic *austraz, from Proto-Indo-European *h₂éwsteros (“east”).\nCognates\nCognate with Scots aist (“east”), North Frisian uast, ååst, ööst (“east”), Saterland Frisian Aaste (“east”), West Frisian east (“east”), Dutch oost (“east”), German Ost (“east”), Danish, Norwegian Bokmål øst (“east”), Faroese eystur (“east”), Icelandic austur (“east”), Norwegian Nynorsk aust, øst (“east…"
   },
-  "word_either": {
+  "word_en_either": {
     "languageOrigin": "Proto-West Germanic",
     "timeline": [
       {
@@ -3303,7 +3303,7 @@
     ],
     "notes": "From Middle English either, from Old English ǣġhwæþer, from Proto-West Germanic *aiw + *gahwaþar. Akin to Old Saxon eogihwethar, iahwethar (Low German jeed); Old Dutch *iogewether, *iowether, *iother (Dutch ieder); Old High German eogihwedar, iegihweder, ieweder (German jeder).\nThe pronunciations with /iː/ and /eɪ/ respectively reflect Middle English forms in /ɛː/ and /æi/; the origin of that with /aɪ/ is less clear, but it may reflect a Middle English form with /iː/; see Middle English either f…"
   },
-  "word_else": {
+  "word_en_else": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -3335,7 +3335,7 @@
     ],
     "notes": "From Middle English ells, elles, from Old English elles (“other, otherwise, different”), from Proto-West Germanic *alljas, from Proto-Germanic *aljas (“of another, of something else”), genitive of *aljaz (“other”), from Proto-Indo-European *h₂élyos, from *h₂el- (“other”).\nCognate with Old Frisian elles (“other”), Old High German elles, ellies (“other”), Danish eller (“or”), Danish ellers (“otherwise”), Swedish eljes, eljest (“or else, otherwise”), Norwegian elles (“else, otherwise”), Gothic 𐌰𐌻…"
   },
-  "word_elsewhere": {
+  "word_en_elsewhere": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -3349,7 +3349,7 @@
     ],
     "notes": "From Middle English elswher, from Old English elles hwǣr and elles hwerġen (“elsewhere”); corresponding with else + where. Cognate with Old High German alleswār (“elsewhere”), whence Middle High German alleswā, alswā (“elsewhere”)."
   },
-  "word_enough": {
+  "word_en_enough": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -3378,7 +3378,7 @@
     ],
     "notes": "From Middle English ynogh, from Old English ġenōg (“enough”), from Proto-Germanic *ganōgaz (“enough”) (compare Scots eneuch, West Frisian genôch, Dutch genoeg, German genug, Low German (ge)noog, Danish nok, Swedish nog, Icelandic nógur), from *ganuganą 'to suffice' (compare Old English ġeneah), or from *ga- + an unattested *nōgaz, probably ultimately from Proto-Indo-European *h₂eh₂nó(n)ḱe (“he has reached, attained”), perfective of *h₂neḱ- (“to reach”) (compare Old Irish tánaic (“he arrived”), L…"
   },
-  "word_entirely": {
+  "word_en_entirely": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -3392,7 +3392,7 @@
     ],
     "notes": "From Middle English entyerly, entierly, enterely, entyreliche, equivalent to entire + -ly."
   },
-  "word_even_adverb": {
+  "word_en_even_adverb": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -3436,7 +3436,7 @@
     ],
     "notes": "From Middle English even, from Old English efn (“flat; level, even, equal”), from Proto-West Germanic *ebn, from Proto-Germanic *ebnaz, from Proto-Indo-European *(h₁)em-no- (“equal, straight; flat, level, even”).\nCognate with Saterland Frisian íeuwen (“even, flat”), West Frisian even (“even”), Alemannic German ëben (“even”), Cimbrian ébane (“even”), Dutch even (“even, equal, same”), effen (“leveled”), German eben (“even, flat, level”), Danish jævn (“even, flat, smooth”), Icelandic jafn (“even”),…"
   },
-  "word_ever": {
+  "word_en_ever": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -3450,7 +3450,7 @@
     ],
     "notes": "From Middle English ever, from Old English ǣfre, originally a phrase whose first element undoubtedly consists of Old English ā (“ever, always”) + in (“in”) + an element possibly from feorh (“life, existence”) (dative fēore). Compare Old English ā tō fēore (“ever in life”), Old English feorhlīf (“life”).\nSense 5 of the adverb was likely formed by association with never, which also carries the meaning of did not in colloquial Singaporean and Malaysian English."
   },
-  "word_fairly": {
+  "word_en_fairly": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -3464,7 +3464,7 @@
     ],
     "notes": "From Middle English fayrly, fayrely, vayrliche, equivalent to fair + -ly."
   },
-  "word_far_adverb": {
+  "word_en_far_adverb": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -3482,7 +3482,7 @@
     ],
     "notes": "Inherited from Middle English ferre, fer, Old English feor, feorr, from Proto-Germanic *ferrai"
   },
-  "word_fast_adverb": {
+  "word_en_fast_adverb": {
     "languageOrigin": "Latin",
     "timeline": [
       {
@@ -3510,7 +3510,7 @@
     ],
     "notes": "From Middle English fast, fest, from Old English fæst (“firm, secure”), from Proto-West Germanic *fast, from Proto-Germanic *fastuz; see it for cognates and further etymology.\nThe development of “rapid” from an original sense of “secure” apparently happened first in the adverb and then transferred to the adjective; compare hard in expressions like “to run hard”. The original sense of “secure, firm” is now slightly archaic, but retained in the related fasten (“make secure”)."
   },
-  "word_first_adverb": {
+  "word_en_first_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -3538,7 +3538,7 @@
     ],
     "notes": "From Middle English first, furst, ferst, fyrst, from Old English fyrest, from Proto-West Germanic *furist, from Proto-Germanic *furistaz (“first, foremost”), superlative of Proto-Germanic *furai, *furi (“before”), from Proto-Indo-European *preh₂- (“before”), from *per- (“before; first”), equivalent to fore + -est.\nCognates\nCognate with Scots first (“first”), Dutch voorste (“foremost, first”), vorst (“prince”), German Fürst (“chief, prince”, literally “first (born)”), Limburgish Vürsch (“prince”)…"
   },
-  "word_firstly": {
+  "word_en_firstly": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -3552,12 +3552,12 @@
     ],
     "notes": "Coined before 1475, from Middle English fyrst-lyk, equivalent to first + -ly."
   },
-  "word_forever": {
+  "word_en_forever": {
     "languageOrigin": "English",
     "timeline": [],
     "notes": "Univerbation of for ever, from Middle English for ever, for evere. By surface analysis, for + ever. First attested in the late 14c., and first attested in the late 17c. as one word. Noun first attested in 1858."
   },
-  "word_free_adverb": {
+  "word_en_free_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -3586,7 +3586,7 @@
     ],
     "notes": "From Middle English free, fre, freo, from Old English frēo (“free”), from Proto-West Germanic *frī, from Proto-Germanic *frijaz (“beloved, not in bondage”), from Proto-Indo-European *priHós (“pleased, loved”), from *preyH- (“to please, love”). Related to friend.\ncognates, etc\nGermanic cognates include Scots fre (“free”), North Frisian frai, frei, fri, Frii (“free”), Saterland Frisian fräi (“free”), West Frisian frij (“free”), Dutch vrij (“free”), German frei (“free”), Low German free (“free”), L…"
   },
-  "word_fully": {
+  "word_en_fully": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -3601,7 +3601,7 @@
     ],
     "notes": "From Middle English fully, fulliche, volliche, from Old English fullīċe (“fully”), equivalent to full + -ly. Compare German völlig (“fully”), Swedish fullt (“fully”)."
   },
-  "word_further_adverb": {
+  "word_en_further_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -3624,7 +3624,7 @@
     ],
     "notes": "From Middle English further, forther, from Old English forþor, furþor (“further”, adverb), from Proto-West Germanic *furþer, from Proto-Indo-European *per- (a common preposition), equivalent to fore + -ther (a vestigial comparative ending still present in such words as other, either, whether, and, in altered form, in after); or as sometimes stated, as forth + -er."
   },
-  "word_furthermore": {
+  "word_en_furthermore": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -3634,7 +3634,7 @@
     ],
     "notes": "From Middle English furthermore, forthermore, forthermar (also as forther mo), equivalent to further + -more."
   },
-  "word_generally": {
+  "word_en_generally": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -3644,7 +3644,7 @@
     ],
     "notes": "From Middle English generally, generalliche, equivalent to general + -ly."
   },
-  "word_half_adverb": {
+  "word_en_half_adverb": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -3667,7 +3667,7 @@
     ],
     "notes": "From Middle English half, halfe from Old English healf (“half”); as a noun, 'half', 'side', 'part', from Proto-West Germanic *halb, from Proto-Germanic *halbaz.\nCognates\nCognate with Old Saxon, Old Frisian, and Old Dutch half, West Frisian heal, Dutch half, German halb, Danish, Norwegian Bokmål, Norwegian Nynorsk, and Swedish halv, Icelandic hálfur and Gothic 𐌷𐌰𐌻𐌱𐍃 (halbs). Compare halve, behalf."
   },
-  "word_hard_adverb": {
+  "word_en_hard_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -3694,7 +3694,7 @@
     ],
     "notes": "From Middle English hard, from Old English heard, from Proto-West Germanic *hard(ī), from Proto-Germanic *harduz, from Proto-Indo-European *kort-ús, from *kret- (“strong, powerful”).\nCognates\nCognate with Yola hard (“hard”), West Frisian hurd (“hard”), Alemannic German hert (“hard”), Bavarian hoat (“hard”), Central Franconian haat (“hard”), Dutch hard (“hard”), German hart (“hard”), Luxembourgish haart (“hard”), Danish, Swedish hård (“hard”), Faroese, Icelandic harður (“hard”), Norwegian Bokmål …"
   },
-  "word_hardly": {
+  "word_en_hardly": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -3713,7 +3713,7 @@
     ],
     "notes": "From Middle English hardely, hardliche, from Old English heardlīċe (“boldly; hardily; without ease; in a way that causes pain; not easily; only by degrees”), equivalent to hard + -ly. Compare Dutch hardelijk, German härtlich."
   },
-  "word_heavily": {
+  "word_en_heavily": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -3732,7 +3732,7 @@
     ],
     "notes": "From Middle English hevely, hevyliche, from Old English hefiġlīċe (“heavily; grievously”), equivalent to heavy + -ly."
   },
-  "word_high_adverb": {
+  "word_en_high_adverb": {
     "languageOrigin": "Old High German",
     "timeline": [
       {
@@ -3767,7 +3767,7 @@
     ],
     "notes": "From Middle English high, heigh, heih, from Old English hēah (“high, tall, lofty, high-class, exalted, sublime, illustrious, important, proud, haughty, deep, right”), from Proto-West Germanic *hauh (“high”), from Proto-Germanic *hauhaz (“high”), from Proto-Indo-European *kewk- (“to bend; crooked”).\nCognates\nCognate with Scots heich (“high”), Yola heegh, heigh, heighe, hia, hie (“high”), North Frisian hoog, huuch (“high”), Saterland Frisian hooch, hoog (“high”), West Frisian heech (“high”), Alema…"
   },
-  "word_highly": {
+  "word_en_highly": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -3786,7 +3786,7 @@
     ],
     "notes": "From Middle English hiȝly, heȝly, heyȝliche, from Old English hēalīce (“highly”), equivalent to high + -ly. Cognate with Dutch hoogelijk (“highly”), German höchlich (“highly”), Danish højlig (“highly”), Swedish högligen (“highly”)."
   },
-  "word_home_adverb": {
+  "word_en_home_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -3818,7 +3818,7 @@
     ],
     "notes": "From Middle English hōm, from Old English hām, from Proto-West Germanic *haim, from Proto-Germanic *haimaz (“home, village”), from Proto-Indo-European *ḱóymos (“village, home”), from the root *tḱey-. Doublet of heyem.\nCognates\nCognate with Scots hame (“home”), Yola haime, hime, hyme (“home”), Saterland Frisian Heem (“home”), Alemannic German haim, hei, heim, hemmu (“home”), Bavarian hama, hame (“home”), Cimbrian hòam, huam (“home”), Dutch heem, heim (“home”), German Heim (“home”), Limburgish hei…"
   },
-  "word_how": {
+  "word_en_how": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -3841,7 +3841,7 @@
     ],
     "notes": "From Middle English how, hou, hu, hwu, from Old English hū, from Proto-West Germanic *hwō, from Proto-Germanic *hwō (“through what, how”), from the same root as hwæt (“who, what”). /hw/ > /h/ due to wh-cluster reduction in Old English; compare who, which underwent this change later, and thus is spelt wh (Middle English spelling of /hw/) but pronounced /h/ (it previously had a different vowel, hence avoided the spelling and sound change in Old English). Vowel change per Great Vowel Shift."
   },
-  "word_immediately": {
+  "word_en_immediately": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -3855,7 +3855,7 @@
     ],
     "notes": "From Middle English immediatly, equivalent to immediate + -ly."
   },
-  "word_in_adverb": {
+  "word_en_in_adverb": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -3881,7 +3881,7 @@
     ],
     "notes": "PIE word\n *h₁en\nPreposition and verb from Middle English in, from Old English in, from Proto-Germanic *in.\nAdverb, noun and adjective from Middle English in, from Old English inn and inne, from Proto-Germanic *innai.\nSense 1/2 \"in\"/\"into\" are from the original PIE prefix, with locative/accusative case respectively. Sense 3/4 \"qualification\"/\"means\" are from the PIE metaphor of all infinitives coming from locatives."
   },
-  "word_increasingly": {
+  "word_en_increasingly": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -3895,7 +3895,7 @@
     ],
     "notes": "From Middle English encreessingli, equivalent to increasing + -ly."
   },
-  "word_indeed": {
+  "word_en_indeed": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -3909,7 +3909,7 @@
     ],
     "notes": "From Middle English indede, univerbation of the phrase in dede (“in sooth, in fact”). Cognate with Saterland Frisian innerdoat, innedoat (“indeed”), West Frisian yndied (“indeed”), Dutch inderdaad (“indeed”), German in der Tat (“indeed”). By surface analysis, in + deed. Compare in fact, in truth, etc. First attested in the early 14ᵗʰ century."
   },
-  "word_instead": {
+  "word_en_instead": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -3924,7 +3924,7 @@
     ],
     "notes": "From in + stead, from Middle English ine (“in”) + stede (“stead”). Related to German statt."
   },
-  "word_last": {
+  "word_en_last": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -3942,7 +3942,7 @@
     ],
     "notes": "From Middle English laste, latst, syncopated variant of latest, both ultimately from Old English latost. Doublet of latest."
   },
-  "word_late_adverb": {
+  "word_en_late_adverb": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -3966,7 +3966,7 @@
     ],
     "notes": "From Middle English late, lat, from Old English læt (“slow; slack, lax, negligent; late”), from Proto-West Germanic *lat, from Proto-Germanic *lataz (“slow, lazy”). By surface analysis, deverbal from let.\nCognates\nCognate with Yola laate (“late”), North Frisian leed, leet, lääs (“late”), Saterland Frisian leet (“late”), Dutch, German Low German laat (“late, tardy”), Danish lad (“languid, lazy, indolent”), Faroese, Icelandic latur (“lazy”), Norwegian Bokmål, Norwegian Nynorsk and Swedish lat (“la…"
   },
-  "word_least": {
+  "word_en_least": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -3993,7 +3993,7 @@
     ],
     "notes": "The adjective, determiner, and noun are derived from Middle English leste, lest, last (“(adjective) smallest, least; (noun) smallest thing, etc.; person or thing least in importance; etc.”), from Old English lǣst, a contraction of læsast, læsest (“least”) (also lærest in only one source), from Proto-Germanic *laisistaz (“smallest, least”), from *laisiz (“less”) (possibly from Proto-Indo-European *leh₂is- or *leh₃is-; whence modern English less) + *-istaz (“suffix forming superlative forms of som…"
   },
-  "word_left_adverb": {
+  "word_en_left_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -4016,7 +4016,7 @@
     ],
     "notes": "From Middle English left, luft, leoft, lift, lyft, from Old English left, lyft (“weak, clumsy, foolish”), attested in Old English lyftādl (“palsy, paralysis”), from Proto-Germanic *luft-, from *lubjaną (“to castrate, lop off”) (compare dialectal English lib, West Frisian lobje, Dutch lubben), from Proto-Indo-European *(s)lewp-, *(s)lup- (“hanging limply”)."
   },
-  "word_less": {
+  "word_en_less": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -4062,7 +4062,7 @@
     ],
     "notes": "Adverb From Middle English les, lesse, leasse, lasse, from Old English lǣs (“smaller, less”), from Proto-Germanic *laisiz, from Proto-Indo-European *leys- (“to shrink, grow thin, be gentle”). Cognate with Old Frisian lēs (“less”), Old Saxon lēs (“less”). According to Kroonen (2013), from a northern Indo-European root Proto-Indo-European *leh₂is- or *leh₃is-, which he connects to Lithuanian liesas (“lean”)."
   },
-  "word_little_adverb": {
+  "word_en_little_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -4095,7 +4095,7 @@
     ],
     "notes": "From Middle English litel, litell, luitel, lutel, lutil, luytel, from Old English lȳtel, lyttel, from Proto-West Germanic *lūtil (“little”), from *lūtan (“to bow down, lout”), from Proto-Germanic *lūtaną (“to bow down, lout”), from Proto-Indo-European *lewd- (“to bend, crouch, duck”), equivalent to lout + -le.\nCognates\nCognate with Yola lethel, litha, lithel, lythea (“little”), North Frisian letj (“little, small”), Saterland Frisian litje (“little, small”), West Frisian lyts (“little, small”), D…"
   },
-  "word_live_adverb": {
+  "word_en_live_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -4127,7 +4127,7 @@
     ],
     "notes": "From Middle English lefe, lifen, libbe, libben, live, luvien, lyven, from Old English libban, lifian (“to live; be alive”), from Proto-West Germanic *libbjan, from Proto-Germanic *libjaną (“to live”), from Proto-Indo-European *leyp- (“to stick”).\nCognates\nCognate with Yola live (“to live”), North Frisian laawe, lawe, lewe, lewi, lewwe, lääwe (“to live”), Saterland Frisian lieuwje, líeuwje (“to live”), West Frisian libje (“to live”), Alemannic German lëëbe (“to live”), Cimbrian and Mòcheno lem (“…"
   },
-  "word_long_adverb": {
+  "word_en_long_adverb": {
     "languageOrigin": "Latin",
     "timeline": [
       {
@@ -4159,7 +4159,7 @@
     ],
     "notes": "From Middle English long, lang, from Old English long, lang (“long, tall, lasting”), from Proto-West Germanic *lang, from Proto-Germanic *langaz (“long”), from Proto-Indo-European *dlongʰos (“long”).\nCognates\nCognate with Scots lang (“long”), Yola lhaung, long (“long”), North Frisian long, lung, lüng (“long”), Saterland Frisian loang (“long”), West Frisian lang (“long”), Cimbrian lång (“long”), Dutch, German, and Low German lang (“long”), Luxembourgish laang (“long”), Mòcheno lònk (“long”), Vila…"
   },
-  "word_lot": {
+  "word_en_lot": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -4182,7 +4182,7 @@
     ],
     "notes": "From Middle English lot, from Old English hlot (“portion, choice, decision”), from Proto-West Germanic *hlut, from Proto-Germanic *hlutą.\nCognate with North Frisian lod, Saterland Frisian Lot, West Frisian lot, Dutch lot, French lot, German Low German Lott, Middle High German luz. Doublet of lotto. Related also to German Los."
   },
-  "word_loud_adverb": {
+  "word_en_loud_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -4214,7 +4214,7 @@
     ],
     "notes": "From Middle English loude, loud, lud, from Old English hlūd (“loud, noisy, sounding, sonorous”), from Proto-West Germanic *hlūd, from Proto-Germanic *hlūdaz, *hlūþaz (“heard”), from Proto-Indo-European *ḱlewtos (“heard, famous”), from Proto-Indo-European *ḱlew- (“to hear”). More at listen.\nCognates\nAkin to Scots loud, lowd (“loud”), Swedish ljud, West Frisian lûd (“loud”), Dutch luid (“loud”), Low German lud (“loud”), German laut (“loud”), Irish clú (“repute”), Welsh clywed (“heard”), clod (“pra…"
   },
-  "word_low_adverb": {
+  "word_en_low_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -4243,7 +4243,7 @@
     ],
     "notes": "From Middle English lowe, lohe, lāh, from Old Norse lágr (“low”), from Proto-Germanic *lēgaz (“lying, flat, situated near the ground, low”), from Proto-Indo-European *legʰ- (“to lie”).\nCognate with Scots laich (“low”), Saterland Frisian läich (“low”), West Frisian leech (“low”), Dutch laag (“low”), obsolete German läg (“low”), German Low German leeg, leeg' (“low”), Danish lav (“low”), Faroese, Icelandic lágur (“low”), Norwegian Bokmål, Norwegian Nynorsk, Swedish låg (“low”). More at lie."
   },
-  "word_mainly": {
+  "word_en_mainly": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -4257,12 +4257,12 @@
     ],
     "notes": "From Middle English maynly; equivalent to main + -ly."
   },
-  "word_maybe": {
+  "word_en_maybe": {
     "languageOrigin": "English",
     "timeline": [],
     "notes": "From an ellipsis of Middle English it may be, equivalent to may + be. Compare mayhap."
   },
-  "word_meanwhile": {
+  "word_en_meanwhile": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -4276,7 +4276,7 @@
     ],
     "notes": "From Middle English menewhile, equivalent to mean (“intermediate”) + while. Adverb is by ellipsis from in the mean while, noun being conventionally written as one word after the adjective."
   },
-  "word_more": {
+  "word_en_more": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -4305,7 +4305,7 @@
     ],
     "notes": "From Middle English more, from Old English māra (“more”), from Proto-West Germanic *maiʀō, from Proto-Germanic *maizô (“more”), from Proto-Indo-European *mē- (“many”).\nCognate with Scots mair (“more”), Saterland Frisian moor (“more”), West Frisian mear (“more”), Dutch meer (“more”), Low German mehr (“more”), German mehr (“more”), Danish mere (“more”), Swedish mera (“more”), Norwegian Bokmål mer (“more”), Norwegian Nynorsk meir (“more”), Icelandic meiri, meira (“more”)."
   },
-  "word_most": {
+  "word_en_most": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -4323,7 +4323,7 @@
     ],
     "notes": "From Middle English most, moste, from Old English mǣst, māst, from Proto-Germanic *maistaz, *maist. Cognate with Scots mast, maist (“most”), Saterland Frisian maast (“most”), West Frisian meast (“most”), Dutch meest (“most”), German meist (“most”), Danish and Swedish mest (“most”), Icelandic mestur (“most”)."
   },
-  "word_much": {
+  "word_en_much": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -4356,7 +4356,7 @@
     ],
     "notes": "From Middle English muche (“much, great”), apocopated variant of muchel (“much, great”), from Old English myċel, miċel (“big, much”), from Proto-West Germanic *mikil, from Proto-Germanic *mikilaz (“great, many, much”), from Proto-Indo-European *meǵh₂- (“big, stour, great”). See also mickle, muckle.\nCognates\nCognate with Scots mickle, mukill, mekil, mikil (“big, large, great, much”), Middle Dutch mēkel (“great, many, much”), Middle High German michel (\"great, many, much\"; > German michel (“great,…"
   },
-  "word_naturally": {
+  "word_en_naturally": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -4366,7 +4366,7 @@
     ],
     "notes": "From Middle English naturally, naturaly, naturely, naturaliche, natureliche, equivalent to natural + -ly."
   },
-  "word_near_adverb": {
+  "word_en_near_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -4395,7 +4395,7 @@
     ],
     "notes": "From Middle English nere, ner, from Old English nēar (“nearer”, comparative of nēah (“nigh”), the superlative would become next), influenced by Old Norse nær (“near”), both originating from Proto-Germanic *nēhwiz (“nearer”), comparative of the adverb *nēhw (“near”), from the adjective *nēhwaz, ultimately from Pre-Proto-Germanic *h₂nḗḱwos, a lengthened-grade adjective derived from Proto-Indo-European *h₂neḱ- (“to reach”)."
   },
-  "word_neither": {
+  "word_en_neither": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -4413,7 +4413,7 @@
     ],
     "notes": "Alteration (after either) of nauther, from Middle English neiþer, from Old English nāwþer, contraction of nāhwæþer, corresponding to no + whether. Compare Latin neuter (“neither”). By surface analysis, not + either."
   },
-  "word_nevertheless": {
+  "word_en_nevertheless": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -4427,7 +4427,7 @@
     ],
     "notes": "From Middle English nevertheles, never-þe-les, nevere-þe-lesse. By surface analysis, never (“not at all”) + the + less; compare never the wiser."
   },
-  "word_next_adverb": {
+  "word_en_next_adverb": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -4445,7 +4445,7 @@
     ],
     "notes": "From Middle English nexte, nexste, nixte, from Old English nīehsta, nīehste, etc., inflected forms of nīehst (“nearest, next”), superlative form of nēah (“nigh”) (the comparative would become near), corresponding to Proto-Germanic *nēhwist (“nearest, closest”); equivalent to nigh + -est.\nCognate with Saterland Frisian naist (“next”), Dutch naast (“next to”), German nächster (“next”), Yiddish נעקסט (nekst, “next”), Danish næste (“next”), Elfdalian nest (“by, near”), Icelandic næst (“next”), Norwe…"
   },
-  "word_nor": {
+  "word_en_nor": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -4459,7 +4459,7 @@
     ],
     "notes": "From Middle English nauther, from nother. Cognate with neither. By surface analysis, not + or."
   },
-  "word_north_adverb": {
+  "word_en_north_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -4486,7 +4486,7 @@
     ],
     "notes": "From Middle English north, from Old English norþ, from Proto-West Germanic *norþr, from Proto-Germanic *nurþrą, ultimately from Proto-Indo-European *nér (“below (the surface)”). The meaning developed either from \"region where the sun is below (the earth)\" or from \"left side of someone who turns to the east when praying\".\nCognates\nCognate with various Germanic counterparts such as Yola noardth, nordh (“north”), North Frisian noor, nord, nuurd, Nuurđ (“north”), Saterland Frisian Noude, Nudde (“nor…"
   },
-  "word_not": {
+  "word_en_not": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -4500,12 +4500,12 @@
     ],
     "notes": "From Middle English not, nat, a variant of noght, naht (“not, nothing”), from Old English *nōht, nāht (“nought, nothing”), shortening of nōwiht, nāwiht (“nothing”, literally “not anything”), corresponding to ne (“not”) + ōwiht, āwiht (“anything”), corresponding to ā (“ever, always”) + wiht (“thing, creature”).\nCognate with Scots nat, naucht (“not”), Saterland Frisian nit (“not”), West Frisian net (“not”), Dutch niet (“not”), German nicht (“not”). Compare nought, naught and aught."
   },
-  "word_oclock": {
+  "word_en_oclock": {
     "languageOrigin": "English",
     "timeline": [],
     "notes": "Shortened form of \"of the clock\", from Middle English of the clokke [from late 14th c.]."
   },
-  "word_occasionally": {
+  "word_en_occasionally": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -4515,7 +4515,7 @@
     ],
     "notes": "From Middle English occasionally, occasionaly, occasyoneely, occasyonly, equivalent to occasional + -ly."
   },
-  "word_off_adverb": {
+  "word_en_off_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -4547,7 +4547,7 @@
     ],
     "notes": "From Middle English of, from Old English of, af, æf (“from, off, away”), from Proto-West Germanic *ab, from Proto-Germanic *ab (“from”), from Proto-Indo-European *h₂epo (“from, off, back”). Doublet of of.\nCognates\nCognate with Scots aff (“away, off”), Saterland Frisian oawe, ou (“from”), West Frisian ôf (“away, off”), Dutch af (“from, off”), German ab (“from, off”), German Low German, Luxembourgish of (“off”), Yiddish אָפּ (op, “off”), Danish, Icelandic af (“from, off”), Faroese, Norwegian Bokmå…"
   },
-  "word_on_adverb": {
+  "word_en_on_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -4575,7 +4575,7 @@
     ],
     "notes": "From Middle English on, from Old English on, an (“on, upon, onto, in, into”), from Proto-West Germanic *ana, from Proto-Germanic *ana (“on, at”), from Proto-Indo-European *h₂en- (“on, onto”).\nCognates\nCognate with Yola a, an, ana, on (“on”), Saterland Frisian an (“on; at”), West Frisian oan (“on; to, towards”), Cimbrian aan, å (“on, onto”), Dutch aan (“on; at”), Low German an (“on; at, to”), German an (“at, in; on”), Luxembourgish un (“on; at, to”), Yiddish אָן (on, “on, onward”), Danish, Norweg…"
   },
-  "word_once": {
+  "word_en_once": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -4593,7 +4593,7 @@
     ],
     "notes": "From Middle English ones, from Old English ānes, a remodelling (after ān (“one”)) of ǣnes, itself an extension of ǣne (“once”) with the genitive suffix -es. Equivalent to one + -s. Cognate with Saterland Frisian enst, insen (“once”), West Frisian iens (“once”), Dutch eens (“once”), German Low German eens, ins (“once”), German einst (“once”). More at one (including regarding the development of the pronunciation) and -s."
   },
-  "word_opposite_adverb": {
+  "word_en_opposite_adverb": {
     "languageOrigin": "Latin",
     "timeline": [
       {
@@ -4615,7 +4615,7 @@
     ],
     "notes": "Inherited from Middle English opposit, borrowed from Old French oposite, from Latin oppositus, perfect passive participle of oppōnō (“to oppose”). Compare oppose."
   },
-  "word_originally": {
+  "word_en_originally": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -4629,7 +4629,7 @@
     ],
     "notes": "From Middle English originali; equivalent to original + -ly."
   },
-  "word_otherwise": {
+  "word_en_otherwise": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -4639,7 +4639,7 @@
     ],
     "notes": "From Middle English otherwise, othre wise, from Old English on ōþre wīsan (literally “in (on) other/different manner”); equivalent to other + -wise. Compare West Frisian yn oarwei (“otherwise”), Icelandic öðruvísi (“different”)."
   },
-  "word_out": {
+  "word_en_out": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -4663,7 +4663,7 @@
     ],
     "notes": "From Middle English out, oute, from a combination of Old English ūt (“out”, preposition & adverb), from Proto-West Germanic *ūt, from Proto-Germanic *ūt (“out”); and Old English ūte (“outside; without”, adverb), from Proto-Germanic *ūtai (“out; outside”); both from Proto-Indo-European *úd (“upwards, away”).\nCognates\nCognate with Scots oot (“out”), Yola out, outh, udh, ut, uth (“out”), North Frisian üt, ütj (“out”), Saterland Frisian uut (“out of”), West Frisian út (“out”), Cimbrian aus, auz (“ou…"
   },
-  "word_over_adverb": {
+  "word_en_over_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -4691,7 +4691,7 @@
     ],
     "notes": "From Middle English over, from Old English ofer, ofor, ouer, from Proto-West Germanic *obar, from Proto-Germanic *uber (“over”), from Proto-Indo-European *upér (“above; over”).\nCognates\nCognate with Scots ower (“over”), Yola oer, ower, owr (“over”), Saterland Frisian uur (“over”), West Frisian oer (“over, across”), Cimbrian übar (“over”), Dutch over (“over”), German ober, über, ueber (“over, above”), Limburgish euver, övver (“over”), Low German över, üöver (“over”), Luxembourgish iwwer (“over”),…"
   },
-  "word_overall_adverb": {
+  "word_en_overall_adverb": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -4701,7 +4701,7 @@
     ],
     "notes": "From Middle English overall, overal, from Old English ofer eall, ofer ealle (“over all”), equivalent to over + all. Compare Saterland Frisian oural, uural (“everywhere”), West Frisian oeral (“everywhere”), Dutch overal (“everywhere”), German Low German overall, överall (“everywhere; all over”), German überall (“all over; everywhere”), Danish overalt (“everywhere”), Swedish överallt (“everywhere; overall”)."
   },
-  "word_past_adverb": {
+  "word_en_past_adverb": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -4715,7 +4715,7 @@
     ],
     "notes": "From Middle English passed, past participle of passen (“to pass, to go by”), whence Modern English pass."
   },
-  "word_personally": {
+  "word_en_personally": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -4725,7 +4725,7 @@
     ],
     "notes": "From Middle English personally, personely, personallich, personaliche, equivalent to personal + -ly."
   },
-  "word_pretty_adverb": {
+  "word_en_pretty_adverb": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -4753,7 +4753,7 @@
     ],
     "notes": "From Middle English prety, preti, praty, prati, from Old English prættiġ (“tricky, crafty, sly, cunning, wily, astute”), from Proto-West Germanic *prattug, from Proto-Germanic *prattugaz (“boastful, sly, slick, deceitful, tricky, cunning”), corresponding to prat (“trick”) + -y. Doublet of pratty.\nCognate with Dutch prettig (“nice, pleasant”), Low German prettig (“funny”), Icelandic prettugur (“deceitful, tricky”). For the semantic development, compare canny, clever, cute."
   },
-  "word_rather": {
+  "word_en_rather": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -4767,7 +4767,7 @@
     ],
     "notes": "From Middle English rather, from Old English hraþor, comparative of hraþe (“soon, early, fast”). More at rathe. Cognate with Dutch radder (“faster”), comparative of Dutch rad (“fast; quick”), German Low German radd, ratt (“rashly; quickly; hastily”), German gerade (“even; straight; direct”). By surface analysis, rathe + -er."
   },
-  "word_right_adverb": {
+  "word_en_right_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -4794,7 +4794,7 @@
     ],
     "notes": "From Middle English right, from Old English riht, reht (“right,” also the word for “straight” and “direct”), from Proto-West Germanic *reht, from Proto-Germanic *rehtaz, from Proto-Indo-European *h₃reǵtós (“having moved in a straight line”), from *h₃reǵ- (“to straighten, direct”).\nThe Germanic adjective which has been used also as a noun since the common Germanic period."
   },
-  "word_round_adverb": {
+  "word_en_round_adverb": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -4804,7 +4804,7 @@
     ],
     "notes": "From Middle English round, rounde, from Old Northern French roünt, rund, Old French ront, runt, reont ( > French rond), from both Late Latin retundus and the original Latin rotundus. The noun developed partly from the adjective and partly from the corresponding French noun rond. Doublet of rotund."
   },
-  "word_same_adverb": {
+  "word_en_same_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -4829,7 +4829,7 @@
     ],
     "notes": "From Middle English same, from Old Norse samr (“same”) and/or Old English same, sama (“same”) in the phrase swā same (swā) (“in like manner, in the same way (as)”), both from Proto-Germanic *samaz (“same”), from Proto-Indo-European *somHós (“same”). Doublet of some and -some.\nCognates\nCognate with Scots samin (“same, like, together”), Dutch samen (“together”), Danish samme (“same”), Swedish samma (“same”), Norwegian Bokmål samme (“same”), Norwegian Nynorsk same (“same”), Gothic 𐍃𐌰𐌼𐌰 (sama), …"
   },
-  "word_second_adverb": {
+  "word_en_second_adverb": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -4862,7 +4862,7 @@
     ],
     "notes": "From Middle English secunde, second, secound, secund, borrowed from Old French second, seond, from Latin secundus (“following, next in order”), from root of sequor (“to follow”), from Proto-Indo-European *sekʷ- (“to follow”). Doublet of secund and secundo. Displaced native twoth and partially displaced native other (from Old English ōþer (“other; next; second”))."
   },
-  "word_seriously": {
+  "word_en_seriously": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -4872,7 +4872,7 @@
     ],
     "notes": "From Middle English seriously, sereously, ceryously, seryowslech (“earnestly”), equivalent to serious + -ly."
   },
-  "word_simply": {
+  "word_en_simply": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -4886,7 +4886,7 @@
     ],
     "notes": "From Middle English symply, symplely; equivalent to simple + -ly, with *-lely simplified to -ly by haplology."
   },
-  "word_since_adverb": {
+  "word_en_since_adverb": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -4904,7 +4904,7 @@
     ],
     "notes": "From Middle English syns, synnes, contraction of earlier sithens, sithence, from sithen (“after, since”) ( + -s, adverbial genitive suffix), from Old English sīþþan, from the phrase sīþ þǣm (“after/since that (time)”), from sīþ (“since, after”) + þǣm dative singular of þæt. Cognate with Dutch sinds (“since”), German seit (“since”), Danish siden (“since”), Icelandic síðan (“since”) Scots syne (“since”)."
   },
-  "word_so": {
+  "word_en_so": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -4930,7 +4930,7 @@
     ],
     "notes": "From Middle English so, swo, zuo, swa, swe, from Old English swā, swǣ, swē (“so, as, the same, such, that”), from Proto-West Germanic *swā, from Proto-Germanic *swa, *swē (“so”), from Proto-Indo-European *swē, *swō (reflexive pronomial stem). Cognate with Scots sae (“so”), Saterland Frisian so (“so”), West Frisian sa (“so”), Dutch zo (“so”), German Low German so (“so”), German so (“so”), Danish så (“so”), Norwegian Nynorsk so (“so”), Swedish så (“so, such that”), Faroese so (“so”), Icelandic svo…"
   },
-  "word_south_adverb": {
+  "word_en_south_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -4959,7 +4959,7 @@
     ],
     "notes": "From Middle English south, from Old English sūþ, from Proto-West Germanic *sunþr (“southern”), from Proto-Germanic *sunþrą (“south”), from Proto-Indo-European *sóh₂wl̥ (“sun”).\nCognates\nCognate with Scots sooth (“south”), Yola zouth (“south”), North Frisian sööd, Süđ, süüd (“south”), Saterland Frisian Sude, Suud (“south”), West Frisian súd (“south”), Dutch zuid (“south”), German Süd (“south”), Danish syd (“south”), Faroese, Icelandic suður (“south”), Norwegian Bokmål syd, sør (“south”), Norwegia…"
   },
-  "word_straight_adverb": {
+  "word_en_straight_adverb": {
     "languageOrigin": "Proto-West Germanic",
     "timeline": [
       {
@@ -4983,7 +4983,7 @@
     ],
     "notes": "From Middle English streight, streght, streiȝt, the past participle of strecchen (“to stretch”), from Old English streċċan (past participle ġestreaht, ġestreht), from Proto-West Germanic *strakkjan (“to stretch”). Cognate with Scots straicht (“straight”), Dutch gestrekt (“stretched”), German gestreckt (“stretched”), Danish strakt (“stretched”), Faroese and Norn strekti (“stretched”), Icelandic strekkti (“stretched”), Norwegian strekte (“stretched”), Swedish sträckte (“stretched”)."
   },
-  "word_sure_adverb": {
+  "word_en_sure_adverb": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -5002,7 +5002,7 @@
     ],
     "notes": "From Middle English sure, seur, sur, from Middle French sur or Old French seür, from Latin sēcūrus (“secure”, literally “carefree”), from sē- (“apart”) + cūra (“care”) (compare Old English orsorg (“carefree”), from or- (“without”) + sorg (“care”)). See cure. Doublet of secure and the now obsolete or dialectal sicker (“certain, safe”).\nDisplaced native Middle English wis, iwis (“certain, sure”) (from Old English ġewis, ġewiss (“certain, sure”)), as well as Middle English siker (“sure, secure”) (f…"
   },
-  "word_surely": {
+  "word_en_surely": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -5012,7 +5012,7 @@
     ],
     "notes": "From Middle English surely; equivalent to sure + -ly."
   },
-  "word_that": {
+  "word_en_that": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -5039,7 +5039,7 @@
     ],
     "notes": "From Middle English that, from Old English þæt (“the, that”, neuter definite article and relative pronoun), from Proto-West Germanic *þat, from Proto-Germanic *þat. Cognate to Scots that, Saterland Frisian dät, West Frisian dat, Dutch dat, Low German dat and datt, German dass and das, Danish det, Swedish det, Icelandic það, Gothic 𐌸𐌰𐍄𐌰 (þata). Further from Proto-Indo-European *tód; compare Ancient Greek τό (tó), Sanskrit तद् (tád), Waigali ta, Lithuanian tai̇̃, Polish to."
   },
-  "word_therefore": {
+  "word_en_therefore": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -5053,7 +5053,7 @@
     ],
     "notes": "From Middle English therfore, therfor, tharfore, thorfore; synchronically a univerbation of there (pronominal adverb) + for, literally “for that (reason)”. The spelling has been changed due to a reanalysis as there + fore (literally “forward from that; thence”). See also therefor, ultimately the same formation.\nCompare Saterland Frisian deerfoar, Dutch daarvoor, German dafür, Danish and Norwegian derfor, Swedish därför."
   },
-  "word_this": {
+  "word_en_this": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -5076,7 +5076,7 @@
     ],
     "notes": "From Middle English this, from Old English þis (neuter demonstrative), from North Sea Germanic base *þa- \"that\", from Proto-Germanic *þat, from Proto-Indo-European *tód, extended form of demonstrative base *to-; + North-West Germanic definitive suffix -s, from Proto-Indo-European *só (“this, that”).\nCognate with Scots this (“this”), Saterland Frisian dusse (“this”), West Frisian dizze (“this”), German dies, dieses (“this”), Old Gutnish þissi (“this”)."
   },
-  "word_though": {
+  "word_en_though": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -5105,7 +5105,7 @@
     ],
     "notes": "From Middle English though, thogh, from Old Norse *þóh (later þó). Superseded (in most dialects) Middle English thegh, from Old English þēah (“though, although, even if, that, however, nevertheless, yet, still; whether”). Both the Old Norse and Old English are from Proto-Germanic *þauh (“though”), from Proto-Indo-European *to-, suffixed with Proto-Germanic *-hw < Proto-Indo-European *-kʷe (“and”)."
   },
-  "word_through_adverb": {
+  "word_en_through_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -5132,7 +5132,7 @@
     ],
     "notes": "From Middle English thrugh, thruch, thruh, metathetic variants of thurgh, thurh, from Old English þurh, from Proto-Germanic *þurhw (“through”), from Proto-Indo-European *tr̥h₂kʷe, suffixed zero-grade from *terh₂- (“to pass through”) + *-kʷe (“and”).\nCognates\nCognate with North Frisian döör (“through”), Saterland Frisian truch (“through”), West Frisian troch (“through”), Dutch door (“through”), German durch (“through”), Luxembourgish duerch (“through”), West Flemish deur (“through”), Yiddish דורך…"
   },
-  "word_throughout": {
+  "word_en_throughout": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -5146,7 +5146,7 @@
     ],
     "notes": "From Old English þurh ūt, equivalent to through + out. Compare German durchaus (“all the way, fully, absolutely”)."
   },
-  "word_thus": {
+  "word_en_thus": {
     "languageOrigin": "Proto-West Germanic",
     "timeline": [
       {
@@ -5166,7 +5166,7 @@
     ],
     "notes": "From Middle English thus, þus, from Old English þus (“thus, in this way, as follows, in this manner, to this extent”), from Proto-West Germanic *þus (“so, thus”), perhaps originally from a variant of the instrumental form of this, related to Old English þȳs (“by this, with this”), Old Saxon thius (“by this, with this”). Cognate with Scots thus (“thus”), North Frisian thus, Saterland Frisian dus, düs (“thus”), West Frisian dus (“thus”), Dutch dus (“thus, so”), Middle High German dus (“thus, as fo…"
   },
-  "word_tonight": {
+  "word_en_tonight": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -5184,7 +5184,7 @@
     ],
     "notes": "From Middle English tonyght, to niȝt, from Old English tō niht."
   },
-  "word_truly": {
+  "word_en_truly": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -5203,7 +5203,7 @@
     ],
     "notes": "From Middle English truely, treuly, treuli, trewely, treoweliche, treowliche, from Old English trēowlīċe (“faithfully; truly”), equivalent to true + -ly. Cognate with Dutch trouwelijk, Middle Low German truwlike, German treulich, Swedish trolig, Icelandic trygglega."
   },
-  "word_twice": {
+  "word_en_twice": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -5222,7 +5222,7 @@
     ],
     "notes": "From earlier twise, from Middle English twies, twiȝes, from Old English twīġes (“twice”), from twīwa, twīġa (\"twice\"; whence Middle English twie (“twice”)) + -es (adverbial genitive ending). Related to Saterland Frisian twäie (“twice”), Middle Low German twiges, twies (“twice”), Middle High German zwies (“twice”). Equivalent to twi- (“(in) two; both”) + -ce. Similarly constructed to the prefixes bis- and dis-, borrowed from Indo-European cognates."
   },
-  "word_under_adverb": {
+  "word_en_under_adverb": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -5244,7 +5244,7 @@
     ],
     "notes": "From Middle English under, from Old English under, from Proto-West Germanic *undar, from Proto-Germanic *under, from a merger of Proto-Indo-European *(H)n̥dʰér (“under”) and *h₁entér (“inside”).\nCognate with German unter, Dutch onder, Danish, Norwegian Bokmål, Norwegian Nynorsk, and Swedish under, Faroese and Icelandic undir; also Old High German untar (“under”), Sanskrit अन्तर् (antar, “within”), Latin infrā (“below, beneath”) and inter (“between, among”)."
   },
-  "word_underground_adverb": {
+  "word_en_underground_adverb": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -5259,7 +5259,7 @@
     ],
     "notes": "From Middle English undergrounde (adverb), equivalent to under + ground or under- + ground. Compare Dutch ondergrond, ondergronds, German Untergrund, Danish undergrunds."
   },
-  "word_upwards": {
+  "word_en_upwards": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -5277,7 +5277,7 @@
     ],
     "notes": "From Middle English upwardes, from Old English upweardes, equivalent to up + -wards. Cognate with Dutch opwaarts (“upwards”), German aufwärts (“upwards”)."
   },
-  "word_way_adverb": {
+  "word_en_way_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -5303,7 +5303,7 @@
     ],
     "notes": "From Middle English way, wey, from Old English weġ, from Proto-West Germanic *weg, from Proto-Germanic *wegaz, from Proto-Indo-European *weǵʰ-. Doublet of voe and possibly via.\nCognates\nCognate with North Frisian wai, wäi (“way”), Saterland Frisian Wai (“way”), West Frisian wei (“road; way”), Central Franconian Wääch (“way”), Cimbrian bege, bèg (“way”), Dutch weg (“way”), German, Low German Weg (“way”), Limburgish waeg (“way”), Luxembourgish Wee (“way”), Mòcheno be (“way”), Yiddish וועג (veg, “w…"
   },
-  "word_west_adverb": {
+  "word_en_west_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -5332,7 +5332,7 @@
     ],
     "notes": "PIE word\n *wek(ʷ)speros\nFrom Middle English west, from Old English west, from Proto-West Germanic *westr (“western”), from Proto-Germanic *westrą (“west”), from Proto-Germanic *westraz (“west”), from Proto-Indo-European *wek(ʷ)speros (“evening”).\nCognates\nCognate with Scots wast (“west”), North Frisian waast, weest, wäst (“west”), Saterland Frisian Wääste (“west”), West Frisian, Dutch west (“west”), German West (“west”), Danish, Norwegian Bokmål and Norwegian Nynorsk vest (“west”), Faroese, Icel…"
   },
-  "word_when": {
+  "word_en_when": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -5361,7 +5361,7 @@
     ],
     "notes": "From Middle English when(ne), whan(ne), from Old English hwonne, from Proto-West Germanic *hwannē, from Proto-West Germanic *hwan, from Proto-Germanic *hwan (“at what time, when”), from Proto-Indo-European *kʷís (interrogative base).\nCognate with Scots whan (“when”), Dutch wanneer (“when”), wan (“when”) and wen (“when, if”), Low German wannehr (“when”), wann (“when”) and wenn (“if, when”), German wann (“when”) and wenn (“when, if”), Gothic 𐍈𐌰𐌽 (ƕan, “when, how”), Latin quandō (“when”)."
   },
-  "word_where": {
+  "word_en_where": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -5394,7 +5394,7 @@
     ],
     "notes": "From Middle English wher, from Old English hwǣr (“where”, literally “at what place”), from Proto-West Germanic *hwār, from Proto-Germanic *hwar (“where”), from Proto-Indo-European *kʷ- (interrogative pronoun)."
   },
-  "word_why": {
+  "word_en_why": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -5418,7 +5418,7 @@
     ],
     "notes": "From Middle English why, from Old English hwȳ (“why”), from Proto-Germanic *hwī (“by what, how”), from Proto-Indo-European *kʷey, instrumental case of *kʷís (“who”), *kʷid (“what”).\nCognate with Old Saxon hwī (“why”), hwiu (“how; why”), Middle High German wiu (“how, why”), archaic Danish and Norwegian Bokmål hvi (“why”), Norwegian Nynorsk kvi (“why”), Swedish vi (“why”), Faroese and Icelandic hví (“why”), Latin quī (“why”), Doric Greek πεῖ (peî, “where”), Ukrainian чи (čy, “if”), Polish czy, Cze…"
   },
-  "word_widely": {
+  "word_en_widely": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -5432,7 +5432,7 @@
     ],
     "notes": "From Middle English wijdly, equivalent to wide + -ly."
   },
-  "word_worse_adverb": {
+  "word_en_worse_adverb": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -5454,7 +5454,7 @@
     ],
     "notes": "From Middle English worse, werse, from Old English wiersa, from Proto-West Germanic *wirsiʀō, from Proto-Germanic *wirsizô. Cognate with Dutch wers (“worse”)."
   },
-  "word_worst_adverb": {
+  "word_en_worst_adverb": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -5476,7 +5476,7 @@
     ],
     "notes": "From Middle English worste, wurste, warste, werste, wirste, from Old English wierrest, from Proto-Germanic *wirsistaz, superlative form of *ubilaz (“bad, evil”); compare worse.\nCognate with Old Saxon wirsista, wirrista (“worst”), Old High German wirst, wirsesto, wirsisto (“worst”), Danish værst (“worst”), Swedish värst (“worst”), Icelandic verstur (“worst”)."
   },
-  "word_wrong_adverb": {
+  "word_en_wrong_adverb": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -5504,7 +5504,7 @@
     ],
     "notes": "From Middle English wrong, from Old English wrang (“wrong, twisted, uneven”), from Old Norse rangr, vrangr (“crooked, wrong”), from Proto-Germanic *wrangaz (“crooked, twisted, turned awry”), from Proto-Indo-European *werḱ-, *wrengʰ- (“to twist, weave, tie together”), from *wer- (“to turn, bend”). Cognate with Scots wrang (“wrong”), Danish vrang (“wrong, crooked”), Swedish vrång (“perverse, distorted”), Icelandic rangur (“wrong”), Norwegian Nynorsk rang (“wrong”), Dutch wrang (“bitter, sour”) and…"
   },
-  "word_yet": {
+  "word_en_yet": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {

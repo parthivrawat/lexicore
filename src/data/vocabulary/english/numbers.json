@@ -1,6 +1,6 @@
 [
   {
-    "id": "word_one",
+    "id": "word_en_one",
     "word": "one",
     "meaning": "the number 1",
     "pronunciationVariants": [
@@ -21,7 +21,7 @@
     "examples": ["I have one question.", "One plus one equals two."]
   },
   {
-    "id": "word_two",
+    "id": "word_en_two",
     "word": "two",
     "meaning": "the number 2",
     "pronunciationVariants": [
@@ -42,7 +42,7 @@
     "examples": ["Two cats are playing.", "Can I have two tickets?"]
   },
   {
-    "id": "word_three",
+    "id": "word_en_three",
     "word": "three",
     "meaning": "the number 3",
     "pronunciationVariants": [
@@ -63,7 +63,7 @@
     "examples": ["Three people arrived.", "I need three copies."]
   },
   {
-    "id": "word_four",
+    "id": "word_en_four",
     "word": "four",
     "meaning": "the number 4",
     "pronunciationVariants": [
@@ -84,7 +84,7 @@
     "examples": ["Four seasons in a year.", "She has four children."]
   },
   {
-    "id": "word_five",
+    "id": "word_en_five",
     "word": "five",
     "meaning": "the number 5",
     "pronunciationVariants": [
@@ -105,7 +105,7 @@
     "examples": ["Five fingers on a hand.", "Give me five minutes."]
   },
   {
-    "id": "word_six",
+    "id": "word_en_six",
     "word": "six",
     "meaning": "the number 6",
     "pronunciationVariants": [
@@ -126,7 +126,7 @@
     "examples": ["Six eggs in the carton.", "The show starts at six."]
   },
   {
-    "id": "word_seven",
+    "id": "word_en_seven",
     "word": "seven",
     "meaning": "the number 7",
     "pronunciationVariants": [
@@ -147,7 +147,7 @@
     "examples": ["Seven days in a week.", "She is seven years old."]
   },
   {
-    "id": "word_eight",
+    "id": "word_en_eight",
     "word": "eight",
     "meaning": "the number 8",
     "pronunciationVariants": [
@@ -168,7 +168,7 @@
     "examples": ["Eight people attended.", "The meeting is at eight."]
   },
   {
-    "id": "word_nine",
+    "id": "word_en_nine",
     "word": "nine",
     "meaning": "the number 9",
     "pronunciationVariants": [
@@ -189,7 +189,7 @@
     "examples": ["Nine lives of a cat.", "I have nine books."]
   },
   {
-    "id": "word_ten",
+    "id": "word_en_ten",
     "word": "ten",
     "meaning": "the number 10",
     "pronunciationVariants": [
@@ -210,7 +210,7 @@
     "examples": ["Ten fingers on both hands.", "Perfect ten score."]
   },
   {
-    "id": "word_eleven",
+    "id": "word_en_eleven",
     "word": "eleven",
     "meaning": "the number 11",
     "pronunciationVariants": [
@@ -231,7 +231,7 @@
     "examples": ["Eleven players on a team.", "She arrived at eleven."]
   },
   {
-    "id": "word_twelve",
+    "id": "word_en_twelve",
     "word": "twelve",
     "meaning": "the number 12",
     "pronunciationVariants": [
@@ -252,7 +252,7 @@
     "examples": ["Twelve months in a year.", "A dozen means twelve."]
   },
   {
-    "id": "word_twenty",
+    "id": "word_en_twenty",
     "word": "twenty",
     "meaning": "the number 20",
     "pronunciationVariants": [
@@ -273,7 +273,7 @@
     "examples": ["Twenty dollars.", "She is twenty years old."]
   },
   {
-    "id": "word_thirty",
+    "id": "word_en_thirty",
     "word": "thirty",
     "meaning": "the number 30",
     "pronunciationVariants": [
@@ -294,7 +294,7 @@
     "examples": ["Thirty students in class.", "It's thirty degrees."]
   },
   {
-    "id": "word_hundred",
+    "id": "word_en_hundred",
     "word": "hundred",
     "meaning": "the number 100",
     "pronunciationVariants": [
@@ -315,7 +315,7 @@
     "examples": ["A hundred people came.", "The book has a hundred pages."]
   },
   {
-    "id": "word_thousand",
+    "id": "word_en_thousand",
     "word": "thousand",
     "meaning": "the number 1000",
     "pronunciationVariants": [
@@ -336,7 +336,7 @@
     "examples": ["A thousand dollars.", "A thousand miles away."]
   },
   {
-    "id": "word_million",
+    "id": "word_en_million",
     "word": "million",
     "meaning": "the number 1,000,000",
     "pronunciationVariants": [
@@ -357,7 +357,7 @@
     "examples": ["A million people watched.", "It cost a million dollars."]
   },
   {
-    "id": "word_first",
+    "id": "word_en_first",
     "word": "first",
     "meaning": "position 1",
     "pronunciationVariants": [
@@ -378,7 +378,7 @@
     "examples": ["First place winner.", "This is my first time."]
   },
   {
-    "id": "word_second",
+    "id": "word_en_second",
     "word": "second",
     "meaning": "position 2",
     "pronunciationVariants": [
@@ -399,7 +399,7 @@
     "examples": ["Second place.", "Wait a second."]
   },
   {
-    "id": "word_third",
+    "id": "word_en_third",
     "word": "third",
     "meaning": "position 3",
     "pronunciationVariants": [
@@ -420,7 +420,7 @@
     "examples": ["Third floor.", "She came in third."]
   },
   {
-    "id": "word_fourth",
+    "id": "word_en_fourth",
     "word": "fourth",
     "meaning": "position 4",
     "pronunciationVariants": [
@@ -441,7 +441,7 @@
     "examples": ["Fourth of July.", "The fourth chapter."]
   },
   {
-    "id": "word_fifth",
+    "id": "word_en_fifth",
     "word": "fifth",
     "meaning": "position 5",
     "pronunciationVariants": [
@@ -462,7 +462,7 @@
     "examples": ["Fifth Avenue.", "The fifth element."]
   },
   {
-    "id": "word_sixth",
+    "id": "word_en_sixth",
     "word": "sixth",
     "meaning": "position 6",
     "pronunciationVariants": [
@@ -483,7 +483,7 @@
     "examples": ["Sixth sense.", "The sixth month."]
   },
   {
-    "id": "word_seventh",
+    "id": "word_en_seventh",
     "word": "seventh",
     "meaning": "position 7",
     "pronunciationVariants": [
@@ -504,7 +504,7 @@
     "examples": ["Seventh heaven.", "The seventh day."]
   },
   {
-    "id": "word_eighth",
+    "id": "word_en_eighth",
     "word": "eighth",
     "meaning": "position 8",
     "pronunciationVariants": [
@@ -525,7 +525,7 @@
     "examples": ["Eighth note.", "The eighth wonder."]
   },
   {
-    "id": "word_ninth",
+    "id": "word_en_ninth",
     "word": "ninth",
     "meaning": "position 9",
     "pronunciationVariants": [
@@ -546,7 +546,7 @@
     "examples": ["Ninth inning.", "The ninth circle."]
   },
   {
-    "id": "word_tenth",
+    "id": "word_en_tenth",
     "word": "tenth",
     "meaning": "position 10",
     "pronunciationVariants": [
@@ -567,7 +567,7 @@
     "examples": ["Tenth anniversary.", "The tenth floor."]
   },
   {
-    "id": "word_zero",
+    "id": "word_en_zero",
     "word": "zero",
     "meaning": "the number 0",
     "pronunciationVariants": [
@@ -588,7 +588,7 @@
     "examples": ["Zero degrees.", "Absolute zero."]
   },
   {
-    "id": "word_forty",
+    "id": "word_en_forty",
     "word": "forty",
     "meaning": "the number 40",
     "pronunciationVariants": [
@@ -609,7 +609,7 @@
     "examples": ["Forty winks.", "Over forty years old."]
   },
   {
-    "id": "word_fifty",
+    "id": "word_en_fifty",
     "word": "fifty",
     "meaning": "the number 50",
     "pronunciationVariants": [
@@ -630,7 +630,7 @@
     "examples": ["Fifty states.", "Fifty-fifty chance."]
   },
   {
-    "id": "word_sixty",
+    "id": "word_en_sixty",
     "word": "sixty",
     "meaning": "the number 60",
     "pronunciationVariants": [
@@ -651,7 +651,7 @@
     "examples": ["Sixty minutes.", "Sixty years old."]
   },
   {
-    "id": "word_seventy",
+    "id": "word_en_seventy",
     "word": "seventy",
     "meaning": "the number 70",
     "pronunciationVariants": [
@@ -672,7 +672,7 @@
     "examples": ["Seventy degrees.", "Seventy miles per hour."]
   },
   {
-    "id": "word_eighty",
+    "id": "word_en_eighty",
     "word": "eighty",
     "meaning": "the number 80",
     "pronunciationVariants": [
@@ -693,7 +693,7 @@
     "examples": ["Eighty days.", "Eighty percent."]
   },
   {
-    "id": "word_ninety",
+    "id": "word_en_ninety",
     "word": "ninety",
     "meaning": "the number 90",
     "pronunciationVariants": [
@@ -714,7 +714,7 @@
     "examples": ["Ninety degrees.", "Ninety percent."]
   },
   {
-    "id": "word_billion",
+    "id": "word_en_billion",
     "word": "billion",
     "meaning": "the number 1,000,000,000",
     "pronunciationVariants": [
@@ -735,7 +735,7 @@
     "examples": ["A billion dollars.", "Billions of stars."]
   },
   {
-    "id": "word_half",
+    "id": "word_en_half",
     "word": "half",
     "meaning": "one of two equal parts",
     "pronunciationVariants": [
@@ -756,7 +756,7 @@
     "examples": ["Half an hour.", "Half empty."]
   },
   {
-    "id": "word_quarter",
+    "id": "word_en_quarter",
     "word": "quarter",
     "meaning": "one of four equal parts",
     "pronunciationVariants": [
@@ -777,7 +777,7 @@
     "examples": ["Quarter past three.", "A quarter of a dollar."]
   },
   {
-    "id": "word_double",
+    "id": "word_en_double",
     "word": "double",
     "meaning": "twice as much",
     "pronunciationVariants": [
@@ -798,7 +798,7 @@
     "examples": ["Double check.", "Double the amount."]
   },
   {
-    "id": "word_triple",
+    "id": "word_en_triple",
     "word": "triple",
     "meaning": "three times as much",
     "pronunciationVariants": [
@@ -819,7 +819,7 @@
     "examples": ["Triple threat.", "Triple jump."]
   },
   {
-    "id": "word_eighteen",
+    "id": "word_en_eighteen",
     "word": "eighteen",
     "meaning": "the number 18",
     "pronunciationVariants": [
@@ -840,7 +840,7 @@
     "examples": ["I have eighteen dollars.", "Eighteen is the legal adult age in many places."]
   },
   {
-    "id": "word_fifteen",
+    "id": "word_en_fifteen",
     "word": "fifteen",
     "meaning": "15",
     "pronunciationVariants": [
@@ -861,7 +861,7 @@
     "examples": ["He's in the first fifteen."]
   },
   {
-    "id": "word_fourteen",
+    "id": "word_en_fourteen",
     "word": "fourteen",
     "meaning": "the number 14",
     "pronunciationVariants": [
@@ -882,7 +882,7 @@
     "examples": ["There are fourteen days.", "She is fourteen years old."]
   },
   {
-    "id": "word_nineteen",
+    "id": "word_en_nineteen",
     "word": "nineteen",
     "meaning": "the number 19",
     "pronunciationVariants": [
@@ -903,7 +903,7 @@
     "examples": ["Nineteen players showed up.", "I will be nineteen next year."]
   },
   {
-    "id": "word_seventeen",
+    "id": "word_en_seventeen",
     "word": "seventeen",
     "meaning": "the number 17",
     "pronunciationVariants": [
@@ -924,7 +924,7 @@
     "examples": ["He has seventeen books.", "Seventeen minus five is twelve."]
   },
   {
-    "id": "word_sixteen",
+    "id": "word_en_sixteen",
     "word": "sixteen",
     "meaning": "the number 16",
     "pronunciationVariants": [
@@ -945,7 +945,7 @@
     "examples": ["There are sixteen ounces in a pound.", "She turned sixteen today."]
   },
   {
-    "id": "word_thirteen",
+    "id": "word_en_thirteen",
     "word": "thirteen",
     "meaning": "the number 13",
     "pronunciationVariants": [

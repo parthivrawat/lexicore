@@ -1,31 +1,5 @@
 [
   {
-    "id": "word_bn_druto_adv",
-    "word": "দ্রুত",
-    "meaning": "quickly",
-    "pronunciationVariants": [
-      {
-        "accent": "bengali",
-        "ipa": "dɾuto"
-      }
-    ],
-    "category": "adverbs",
-    "examples": ["দ্রুত এসো।", "দ্রুত দৌড়াও।"]
-  },
-  {
-    "id": "word_bn_dhire_adv",
-    "word": "ধীরে",
-    "meaning": "slowly",
-    "pronunciationVariants": [
-      {
-        "accent": "bengali",
-        "ipa": "dʱiɾe"
-      }
-    ],
-    "category": "adverbs",
-    "examples": ["ধীরে হাঁটো।", "ধীরে বলো।"]
-  },
-  {
     "id": "word_bn_khub",
     "word": "খুব",
     "meaning": "very",
@@ -195,32 +169,6 @@
     "examples": ["বাইরে যাও।", "বাড়ির বাইরে।"]
   },
   {
-    "id": "word_bn_upore",
-    "word": "উপরে",
-    "meaning": "up/above",
-    "pronunciationVariants": [
-      {
-        "accent": "bengali",
-        "ipa": "upoɾe"
-      }
-    ],
-    "category": "adverbs",
-    "examples": ["উপরে দেখো।", "উপরে।"]
-  },
-  {
-    "id": "word_bn_niche",
-    "word": "নিচে",
-    "meaning": "down/below",
-    "pronunciationVariants": [
-      {
-        "accent": "bengali",
-        "ipa": "nitʃe"
-      }
-    ],
-    "category": "adverbs",
-    "examples": ["নিচে দেখো।", "নিচে।"]
-  },
-  {
     "id": "word_bn_shamne",
     "word": "সামনে",
     "meaning": "in front",
@@ -258,5 +206,83 @@
     ],
     "category": "adverbs",
     "examples": ["একসাথে যাই।", "একসাথে কাজ করি।"]
+  },
+  {
+    "id": "word_bn_prayi",
+    "word": "প্রায়ই",
+    "meaning": "often",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "pɾai"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["আমি প্রায়ই যাই।", "সে প্রায়ই আসে।"]
+  },
+  {
+    "id": "word_bn_hoyto",
+    "word": "হয়তো",
+    "meaning": "maybe",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ɦɔjto"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["হয়তো বৃষ্টি হবে।", "হয়তো সে আসবে।"]
+  },
+  {
+    "id": "word_bn_bhalobhabe",
+    "word": "ভালোভাবে",
+    "meaning": "well",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "bʱalobʱabe"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["ভালোভাবে করো।", "ভালোভাবে খেলো।"]
+  },
+  {
+    "id": "word_bn_shighroi",
+    "word": "শীঘ্রই",
+    "meaning": "soon",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃiɡhɾoi"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["শীঘ্রই আসব।", "শীঘ্রই দেখা হবে।"]
+  },
+  {
+    "id": "word_bn_itimaddhye",
+    "word": "ইতিমধ্যে",
+    "meaning": "already",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "itimaddʰe"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["আমি ইতিমধ্যে জানি।", "সে ইতিমধ্যে চলে গেছে।"]
+  },
+  {
+    "id": "word_bn_shudhu",
+    "word": "শুধু",
+    "meaning": "only",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃudʱu"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["শুধু একটি।", "শুধু তুমি।"]
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "id": "word_vite",
+    "id": "word_fr_vite",
     "word": "vite",
     "meaning": "quickly",
     "pronunciationVariants": [
@@ -21,7 +21,7 @@
     "examples": ["Viens vite.", "Il court vite."]
   },
   {
-    "id": "word_lentement",
+    "id": "word_fr_lentement",
     "word": "lentement",
     "meaning": "slowly",
     "pronunciationVariants": [
@@ -42,7 +42,7 @@
     "examples": ["Parle lentement.", "Il marche lentement."]
   },
   {
-    "id": "word_bien",
+    "id": "word_fr_bien",
     "word": "bien",
     "meaning": "well",
     "pronunciationVariants": [
@@ -63,7 +63,7 @@
     "examples": ["Je vais bien.", "Il chante bien."]
   },
   {
-    "id": "word_mal",
+    "id": "word_fr_mal",
     "word": "mal",
     "meaning": "badly",
     "pronunciationVariants": [
@@ -84,7 +84,7 @@
     "examples": ["Il se sent mal.", "Elle a mal dormi."]
   },
   {
-    "id": "word_toujours",
+    "id": "word_fr_toujours",
     "word": "toujours",
     "meaning": "always; still/yet",
     "pronunciationVariants": [
@@ -110,7 +110,7 @@
     ]
   },
   {
-    "id": "word_jamais",
+    "id": "word_fr_jamais",
     "word": "jamais",
     "meaning": "never",
     "pronunciationVariants": [
@@ -131,7 +131,7 @@
     "examples": ["Je ne mange jamais ça.", "Il n'est jamais venu."]
   },
   {
-    "id": "word_souvent",
+    "id": "word_fr_souvent",
     "word": "souvent",
     "meaning": "often",
     "pronunciationVariants": [
@@ -152,7 +152,7 @@
     "examples": ["Je viens souvent.", "Il pleut souvent."]
   },
   {
-    "id": "word_parfois",
+    "id": "word_fr_parfois",
     "word": "parfois",
     "meaning": "sometimes",
     "pronunciationVariants": [
@@ -173,7 +173,7 @@
     "examples": ["Je voyage parfois.", "Parfois il pleut."]
   },
   {
-    "id": "word_ici",
+    "id": "word_fr_ici",
     "word": "ici",
     "meaning": "here",
     "pronunciationVariants": [
@@ -194,7 +194,7 @@
     "examples": ["Viens ici.", "J'habite ici."]
   },
   {
-    "id": "word_la",
+    "id": "word_fr_la",
     "word": "là",
     "meaning": "there",
     "pronunciationVariants": [
@@ -215,7 +215,7 @@
     "examples": ["Va là-bas.", "Il est là."]
   },
   {
-    "id": "partout",
+    "id": "word_fr_partout",
     "word": "partout",
     "meaning": "everywhere",
     "pronunciationVariants": [
@@ -236,7 +236,7 @@
     "examples": ["Je cherche partout.", "Il y a des fleurs partout."]
   },
   {
-    "id": "word_nulle_part",
+    "id": "word_fr_nulle_part",
     "word": "nulle part",
     "meaning": "nowhere",
     "pronunciationVariants": [
@@ -257,7 +257,7 @@
     "examples": ["Je ne trouve nulle part.", "Il n'y a nulle part."]
   },
   {
-    "id": "word_aujourd_hui",
+    "id": "word_fr_aujourd_hui",
     "word": "aujourd'hui",
     "meaning": "today",
     "pronunciationVariants": [
@@ -278,7 +278,7 @@
     "examples": ["Je travaille aujourd'hui.", "Il pleut aujourd'hui."]
   },
   {
-    "id": "word_hier",
+    "id": "word_fr_hier",
     "word": "hier",
     "meaning": "yesterday",
     "pronunciationVariants": [
@@ -299,7 +299,7 @@
     "examples": ["Je suis venu hier.", "Hier il a plu."]
   },
   {
-    "id": "word_demain",
+    "id": "word_fr_demain",
     "word": "demain",
     "meaning": "tomorrow",
     "pronunciationVariants": [
@@ -320,7 +320,7 @@
     "examples": ["Je viendrai demain.", "Demain il fera beau."]
   },
   {
-    "id": "word_maintenant",
+    "id": "word_fr_maintenant",
     "word": "maintenant",
     "meaning": "now",
     "pronunciationVariants": [
@@ -341,7 +341,7 @@
     "examples": ["Je pars maintenant.", "Fais-le maintenant."]
   },
   {
-    "id": "word_bientot",
+    "id": "word_fr_bientot",
     "word": "bientôt",
     "meaning": "soon",
     "pronunciationVariants": [
@@ -362,7 +362,7 @@
     "examples": ["Je reviens bientôt.", "Bientôt Noël."]
   },
   {
-    "id": "word_tard",
+    "id": "word_fr_tard",
     "word": "tard",
     "meaning": "late",
     "pronunciationVariants": [
@@ -383,7 +383,7 @@
     "examples": ["Il est tard.", "Je dors tard."]
   },
   {
-    "id": "word_tot",
+    "id": "word_fr_tot",
     "word": "tôt",
     "meaning": "early",
     "pronunciationVariants": [
@@ -404,7 +404,7 @@
     "examples": ["Réveille-toi tôt.", "Il arrive tôt."]
   },
   {
-    "id": "word_tres",
+    "id": "word_fr_tres",
     "word": "très",
     "meaning": "very",
     "pronunciationVariants": [
@@ -425,7 +425,7 @@
     "examples": ["Très bien.", "C'est très beau."]
   },
   {
-    "id": "word_trop",
+    "id": "word_fr_trop",
     "word": "trop",
     "meaning": "too",
     "pronunciationVariants": [
@@ -446,7 +446,7 @@
     "examples": ["C'est trop cher.", "Il mange trop."]
   },
   {
-    "id": "word_peu",
+    "id": "word_fr_peu",
     "word": "peu",
     "meaning": "a little",
     "pronunciationVariants": [
@@ -467,7 +467,7 @@
     "examples": ["Il pleut peu.", "Je parle peu."]
   },
   {
-    "id": "word_beaucoup",
+    "id": "word_fr_beaucoup",
     "word": "beaucoup",
     "meaning": "a lot",
     "pronunciationVariants": [
@@ -488,7 +488,7 @@
     "examples": ["Merci beaucoup.", "Il pleut beaucoup."]
   },
   {
-    "id": "word_assez",
+    "id": "word_fr_assez",
     "word": "assez",
     "meaning": "enough",
     "pronunciationVariants": [
@@ -509,7 +509,7 @@
     "examples": ["C'est assez.", "J'ai assez mangé."]
   },
   {
-    "id": "word_plus",
+    "id": "word_fr_plus",
     "word": "plus",
     "meaning": "more",
     "pronunciationVariants": [
@@ -530,7 +530,7 @@
     "examples": ["Je veux plus.", "Plus de temps."]
   },
   {
-    "id": "word_moins",
+    "id": "word_fr_moins",
     "word": "moins",
     "meaning": "less",
     "pronunciationVariants": [
@@ -551,7 +551,7 @@
     "examples": ["Moins de sucre.", "Je travaille moins."]
   },
   {
-    "id": "word_presque",
+    "id": "word_fr_presque",
     "word": "presque",
     "meaning": "almost",
     "pronunciationVariants": [
@@ -572,7 +572,7 @@
     "examples": ["Presque fini.", "Il est presque là."]
   },
   {
-    "id": "word_a_peine",
+    "id": "word_fr_a_peine",
     "word": "à peine",
     "meaning": "hardly",
     "pronunciationVariants": [
@@ -593,7 +593,7 @@
     "examples": ["À peine arrivé.", "Je l'ai à peine vu."]
   },
   {
-    "id": "word_completement",
+    "id": "word_fr_completement",
     "word": "complètement",
     "meaning": "completely",
     "pronunciationVariants": [
@@ -614,7 +614,7 @@
     "examples": ["Complètement fini.", "Il est complètement fou."]
   },
   {
-    "id": "word_partiellement",
+    "id": "word_fr_partiellement",
     "word": "partiellement",
     "meaning": "partially",
     "pronunciationVariants": [
@@ -635,7 +635,7 @@
     "examples": ["Partiellement vrai.", "Il est partiellement responsable."]
   },
   {
-    "id": "word_vraiment",
+    "id": "word_fr_vraiment",
     "word": "vraiment",
     "meaning": "really",
     "pronunciationVariants": [
@@ -656,7 +656,7 @@
     "examples": ["Vraiment?", "Je le veux vraiment."]
   },
   {
-    "id": "word_surement",
+    "id": "word_fr_surement",
     "word": "sûrement",
     "meaning": "surely",
     "pronunciationVariants": [
@@ -677,7 +677,7 @@
     "examples": ["Il viendra sûrement.", "C'est sûrement vrai."]
   },
   {
-    "id": "word_probablement",
+    "id": "word_fr_probablement",
     "word": "probablement",
     "meaning": "probably",
     "pronunciationVariants": [
@@ -698,7 +698,7 @@
     "examples": ["Il viendra probablement.", "Probablement demain."]
   },
   {
-    "id": "word_peut_etre",
+    "id": "word_fr_peut_etre",
     "word": "peut-être",
     "meaning": "maybe",
     "pronunciationVariants": [
@@ -719,7 +719,7 @@
     "examples": ["Peut-être demain.", "Peut-être que oui."]
   },
   {
-    "id": "word_sans_doute",
+    "id": "word_fr_sans_doute",
     "word": "sans doute",
     "meaning": "no doubt",
     "pronunciationVariants": [
@@ -740,7 +740,7 @@
     "examples": ["Sans doute.", "Il viendra sans doute."]
   },
   {
-    "id": "word_heureusement",
+    "id": "word_fr_heureusement",
     "word": "heureusement",
     "meaning": "fortunately",
     "pronunciationVariants": [
@@ -761,7 +761,7 @@
     "examples": ["Heureusement, il pleut pas.", "Heureusement fini."]
   },
   {
-    "id": "word_malheureusement",
+    "id": "word_fr_malheureusement",
     "word": "malheureusement",
     "meaning": "unfortunately",
     "pronunciationVariants": [
@@ -782,7 +782,7 @@
     "examples": ["Malheureusement, je ne peux pas.", "Malheureusement perdu."]
   },
   {
-    "id": "word_clairement",
+    "id": "word_fr_clairement",
     "word": "clairement",
     "meaning": "clearly",
     "pronunciationVariants": [
@@ -803,7 +803,7 @@
     "examples": ["Parle clairement.", "C'est clairement faux."]
   },
   {
-    "id": "word_simplement",
+    "id": "word_fr_simplement",
     "word": "simplement",
     "meaning": "simply",
     "pronunciationVariants": [
@@ -824,7 +824,7 @@
     "examples": ["C'est simplement faux.", "Fais-le simplement."]
   },
   {
-    "id": "word_facilement",
+    "id": "word_fr_facilement",
     "word": "facilement",
     "meaning": "easily",
     "pronunciationVariants": [
@@ -845,7 +845,7 @@
     "examples": ["Il gagne facilement.", "Facilement accessible."]
   },
   {
-    "id": "word_difficilement",
+    "id": "word_fr_difficilement",
     "word": "difficilement",
     "meaning": "with difficulty",
     "pronunciationVariants": [
@@ -866,7 +866,7 @@
     "examples": ["Il marche difficilement.", "Difficilement compréhensible."]
   },
   {
-    "id": "word_ensemble_2",
+    "id": "word_fr_ensemble_2",
     "word": "ensemble",
     "meaning": "together",
     "pronunciationVariants": [
@@ -887,7 +887,7 @@
     "examples": ["Travaillons ensemble.", "Allons-y ensemble."]
   },
   {
-    "id": "word_seul_2",
+    "id": "word_fr_seul_2",
     "word": "seul",
     "meaning": "alone",
     "pronunciationVariants": [
@@ -908,7 +908,7 @@
     "examples": ["Je viens seul.", "Il travaille seul."]
   },
   {
-    "id": "word_aussi",
+    "id": "word_fr_aussi",
     "word": "aussi",
     "meaning": "also/too",
     "pronunciationVariants": [
@@ -929,7 +929,7 @@
     "examples": ["Moi aussi.", "Il est aussi grand."]
   },
   {
-    "id": "word_egalement",
+    "id": "word_fr_egalement",
     "word": "également",
     "meaning": "equally/also",
     "pronunciationVariants": [
@@ -950,7 +950,7 @@
     "examples": ["Également important.", "Je l'aime également."]
   },
   {
-    "id": "word_enfin",
+    "id": "word_fr_enfin",
     "word": "enfin",
     "meaning": "finally",
     "pronunciationVariants": [
@@ -971,7 +971,7 @@
     "examples": ["Enfin!", "Enfin arrivé."]
   },
   {
-    "id": "word_ensuite",
+    "id": "word_fr_ensuite",
     "word": "ensuite",
     "meaning": "then/next",
     "pronunciationVariants": [
@@ -992,7 +992,7 @@
     "examples": ["Ensuite, il mange.", "Qu'est-ce qui ensuite?"]
   },
   {
-    "id": "word_puis",
+    "id": "word_fr_puis",
     "word": "puis",
     "meaning": "then",
     "pronunciationVariants": [
@@ -1013,7 +1013,7 @@
     "examples": ["D'abord, puis ensuite.", "Puis il part."]
   },
   {
-    "id": "word_dabord",
+    "id": "word_fr_dabord",
     "word": "d'abord",
     "meaning": "first",
     "pronunciationVariants": [
@@ -1034,7 +1034,7 @@
     "examples": ["D'abord, mange.", "D'abord le plus important."]
   },
   {
-    "id": "word_soudain",
+    "id": "word_fr_soudain",
     "word": "soudain",
     "meaning": "suddenly",
     "pronunciationVariants": [
@@ -1055,7 +1055,7 @@
     "examples": ["Soudain, il pleut.", "Il est parti soudain."]
   },
   {
-    "id": "word_progressivement",
+    "id": "word_fr_progressivement",
     "word": "progressivement",
     "meaning": "gradually",
     "pronunciationVariants": [
@@ -1076,7 +1076,7 @@
     "examples": ["Progressivement amélioré.", "Il progresse progressivement."]
   },
   {
-    "id": "word_immediatement",
+    "id": "word_fr_immediatement",
     "word": "immédiatement",
     "meaning": "immediately",
     "pronunciationVariants": [
@@ -1097,7 +1097,7 @@
     "examples": ["Viens immédiatement.", "Arrête immédiatement."]
   },
   {
-    "id": "word_bientot_2",
+    "id": "word_fr_bientot_2",
     "word": "rapidement",
     "meaning": "quickly",
     "pronunciationVariants": [
@@ -1118,7 +1118,7 @@
     "examples": ["Rapidement fini.", "Il court rapidement."]
   },
   {
-    "id": "word_calme",
+    "id": "word_fr_calme",
     "word": "calmement",
     "meaning": "calmly",
     "pronunciationVariants": [
@@ -1139,7 +1139,7 @@
     "examples": ["Parle calmement.", "Il réagit calmement."]
   },
   {
-    "id": "word_silencieusement",
+    "id": "word_fr_silencieusement",
     "word": "silencieusement",
     "meaning": "quietly",
     "pronunciationVariants": [
@@ -1160,7 +1160,7 @@
     "examples": ["Marche silencieusement.", "Il parle silencieusement."]
   },
   {
-    "id": "word_loudly",
+    "id": "word_fr_loudly",
     "word": "fortement",
     "meaning": "loudly",
     "pronunciationVariants": [
@@ -1181,7 +1181,7 @@
     "examples": ["Parle fort.", "Il frappe fort."]
   },
   {
-    "id": "word_attentivement",
+    "id": "word_fr_attentivement",
     "word": "attentivement",
     "meaning": "carefully",
     "pronunciationVariants": [
@@ -1202,7 +1202,7 @@
     "examples": ["Écoute attentivement.", "Regarde attentivement."]
   },
   {
-    "id": "word_soigneusement",
+    "id": "word_fr_soigneusement",
     "word": "soigneusement",
     "meaning": "carefully",
     "pronunciationVariants": [
@@ -1223,7 +1223,7 @@
     "examples": ["Travaille soigneusement.", "Il écrit soigneusement."]
   },
   {
-    "id": "word_exactement",
+    "id": "word_fr_exactement",
     "word": "exactement",
     "meaning": "exactly",
     "pronunciationVariants": [
@@ -1244,7 +1244,7 @@
     "examples": ["Exactement!", "C'est exactement ça."]
   },
   {
-    "id": "word_environ",
+    "id": "word_fr_environ",
     "word": "environ",
     "meaning": "approximately",
     "pronunciationVariants": [
@@ -1265,7 +1265,7 @@
     "examples": ["Environ dix heures.", "Il y a environ cent personnes."]
   },
   {
-    "id": "word_environ_2",
+    "id": "word_fr_environ_2",
     "word": "à peu près",
     "meaning": "approximately",
     "pronunciationVariants": [
@@ -1286,7 +1286,7 @@
     "examples": ["À peu près dix.", "C'est à peu près fini."]
   },
   {
-    "id": "word_deja",
+    "id": "word_fr_deja",
     "word": "déjà",
     "meaning": "already; yet",
     "pronunciationVariants": [
@@ -1307,7 +1307,7 @@
     "examples": ["Déjà fini?", "Je suis déjà parti.", "Pas encore."]
   },
   {
-    "id": "word_encore",
+    "id": "word_fr_encore",
     "word": "encore",
     "meaning": "again/still",
     "pronunciationVariants": [
@@ -1328,7 +1328,7 @@
     "examples": ["Encore une fois.", "Il dort encore."]
   },
   {
-    "id": "word_alors",
+    "id": "word_fr_alors",
     "word": "alors",
     "meaning": "then/so",
     "pronunciationVariants": [
@@ -1349,7 +1349,7 @@
     "examples": ["Alors, qu'est-ce que tu fais?", "Alors je pars."]
   },
   {
-    "id": "word_donc",
+    "id": "word_fr_donc",
     "word": "donc",
     "meaning": "therefore/so",
     "pronunciationVariants": [
@@ -1370,7 +1370,7 @@
     "examples": ["Donc, je viens.", "C'est donc fini."]
   },
   {
-    "id": "word_cependant",
+    "id": "word_fr_cependant",
     "word": "cependant",
     "meaning": "however",
     "pronunciationVariants": [
@@ -1391,7 +1391,7 @@
     "examples": ["Cependant, je ne peux pas.", "Il est riche, cependant triste."]
   },
   {
-    "id": "word_pourtant",
+    "id": "word_fr_pourtant",
     "word": "pourtant",
     "meaning": "however",
     "pronunciationVariants": [
@@ -1412,7 +1412,7 @@
     "examples": ["Pourtant, il pleut.", "Il est jeune, pourtant sage."]
   },
   {
-    "id": "word_sinon",
+    "id": "word_fr_sinon",
     "word": "sinon",
     "meaning": "otherwise",
     "pronunciationVariants": [
@@ -1433,7 +1433,7 @@
     "examples": ["Viens, sinon tu seras en retard.", "Sinon, je mange."]
   },
   {
-    "id": "word_meme",
+    "id": "word_fr_meme",
     "word": "même",
     "meaning": "even",
     "pronunciationVariants": [
@@ -1454,7 +1454,7 @@
     "examples": ["Même pas.", "Même moi."]
   },
   {
-    "id": "word_seulement",
+    "id": "word_fr_seulement",
     "word": "seulement",
     "meaning": "only",
     "pronunciationVariants": [
@@ -1475,7 +1475,7 @@
     "examples": ["Seulement moi.", "Je veux seulement ça."]
   },
   {
-    "id": "word_juste",
+    "id": "word_fr_juste",
     "word": "juste",
     "meaning": "just/only",
     "pronunciationVariants": [
@@ -1496,7 +1496,7 @@
     "examples": ["Juste à temps.", "C'est juste."]
   },
   {
-    "id": "word_au_moins",
+    "id": "word_fr_au_moins",
     "word": "au moins",
     "meaning": "at least",
     "pronunciationVariants": [
@@ -1517,7 +1517,7 @@
     "examples": ["Au moins dix.", "Au moins, il pleut pas."]
   },
   {
-    "id": "word_au_plus",
+    "id": "word_fr_au_plus",
     "word": "au plus",
     "meaning": "at most",
     "pronunciationVariants": [
@@ -1538,7 +1538,7 @@
     "examples": ["Au plus cent.", "Au plus, il arrive demain."]
   },
   {
-    "id": "word_surtout",
+    "id": "word_fr_surtout",
     "word": "surtout",
     "meaning": "especially",
     "pronunciationVariants": [
@@ -1559,7 +1559,7 @@
     "examples": ["Surtout pas ça.", "J'aime surtout le chocolat."]
   },
   {
-    "id": "word_notamment",
+    "id": "word_fr_notamment",
     "word": "notamment",
     "meaning": "notably",
     "pronunciationVariants": [
@@ -1580,7 +1580,7 @@
     "examples": ["Notamment en France.", "Il aime notamment le vin."]
   },
   {
-    "id": "word_particulierement",
+    "id": "word_fr_particulierement",
     "word": "particulièrement",
     "meaning": "particularly",
     "pronunciationVariants": [
@@ -1601,7 +1601,7 @@
     "examples": ["Particulièrement intéressant.", "Il aime particulièrement ça."]
   },
   {
-    "id": "word_specialement",
+    "id": "word_fr_specialement",
     "word": "spécialement",
     "meaning": "especially",
     "pronunciationVariants": [
@@ -1622,7 +1622,7 @@
     "examples": ["Spécialement pour toi.", "Spécialement conçu."]
   },
   {
-    "id": "word_absolument",
+    "id": "word_fr_absolument",
     "word": "absolument",
     "meaning": "absolutely",
     "pronunciationVariants": [
@@ -1643,7 +1643,7 @@
     "examples": ["Absolument pas.", "Absolument magnifique."]
   },
   {
-    "id": "word_completement_2",
+    "id": "word_fr_completement_2",
     "word": "certainement",
     "meaning": "certainly",
     "pronunciationVariants": [
@@ -1664,7 +1664,7 @@
     "examples": ["Certainement pas.", "Il viendra certainement."]
   },
   {
-    "id": "word_evidemment",
+    "id": "word_fr_evidemment",
     "word": "évidemment",
     "meaning": "obviously",
     "pronunciationVariants": [
@@ -1685,7 +1685,7 @@
     "examples": ["Évidemment!", "Évidemment faux."]
   },
   {
-    "id": "word_naturellement",
+    "id": "word_fr_naturellement",
     "word": "naturellement",
     "meaning": "naturally",
     "pronunciationVariants": [
@@ -1706,7 +1706,7 @@
     "examples": ["Naturellement.", "Il sourit naturellement."]
   },
   {
-    "id": "word_normalement",
+    "id": "word_fr_normalement",
     "word": "normalement",
     "meaning": "normally",
     "pronunciationVariants": [
@@ -1727,7 +1727,7 @@
     "examples": ["Normalement, je viens.", "Normalement fermé."]
   },
   {
-    "id": "word_habituellement",
+    "id": "word_fr_habituellement",
     "word": "habituellement",
     "meaning": "usually",
     "pronunciationVariants": [
@@ -1748,7 +1748,7 @@
     "examples": ["Habituellement, je mange tôt.", "Il pleut habituellement."]
   },
   {
-    "id": "word_generalement",
+    "id": "word_fr_generalement",
     "word": "généralement",
     "meaning": "generally",
     "pronunciationVariants": [
@@ -1767,5 +1767,152 @@
     ],
     "category": "adverbs",
     "examples": ["Généralement vrai.", "Généralement fermé le dimanche."]
+  },
+  {
+    "id": "word_fr_debout",
+    "word": "debout",
+    "meaning": "standing",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "dəbu"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "dəbu"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "dəbu"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Reste debout.", "Il est debout tôt."]
+  },
+  {
+    "id": "word_fr_assis",
+    "word": "assis",
+    "meaning": "sitting",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "asi"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "asi"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "asi"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Je suis assis.", "Elle est assise près de la fenêtre."]
+  },
+  {
+    "id": "word_fr_dessus",
+    "word": "dessus",
+    "meaning": "on top",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "dəsy"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "dəsy"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "dəsy"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Le livre est dessus.", "Regarde dessus."]
+  },
+  {
+    "id": "word_fr_dessous",
+    "word": "dessous",
+    "meaning": "underneath",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "dəsu"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "dəsu"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "dəsu"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Le chat est dessous.", "Regarde dessous."]
+  },
+  {
+    "id": "word_fr_dedans",
+    "word": "dedans",
+    "meaning": "inside",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "dəɑ̃"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "dəɑ̃"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "dəɑ̃"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Il fait chaud dedans.", "Regarde dedans."]
+  },
+  {
+    "id": "word_fr_dehors",
+    "word": "dehors",
+    "meaning": "outside",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "dəɔʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "dəɔʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "dəɔʁ"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Il fait froid dehors.", "Joue dehors."]
+  },
+  {
+    "id": "word_fr_la_bas",
+    "word": "là-bas",
+    "meaning": "over there",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "laba"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "laba"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "laba"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["Va là-bas.", "Il est là-bas."]
   }
 ]

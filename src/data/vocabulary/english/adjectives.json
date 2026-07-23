@@ -1,6 +1,6 @@
 [
   {
-    "id": "word_good",
+    "id": "word_en_good",
     "word": "good",
     "meaning": "positive quality",
     "pronunciationVariants": [
@@ -21,7 +21,7 @@
     "examples": ["Good job!", "A good idea."]
   },
   {
-    "id": "word_bad",
+    "id": "word_en_bad",
     "word": "bad",
     "meaning": "negative quality",
     "pronunciationVariants": [
@@ -42,7 +42,7 @@
     "examples": ["Bad weather.", "A bad habit."]
   },
   {
-    "id": "word_big",
+    "id": "word_en_big",
     "word": "big",
     "meaning": "large size",
     "pronunciationVariants": [
@@ -63,7 +63,7 @@
     "examples": ["A big house.", "Big dreams."]
   },
   {
-    "id": "word_small",
+    "id": "word_en_small",
     "word": "small",
     "meaning": "little size",
     "pronunciationVariants": [
@@ -84,7 +84,7 @@
     "examples": ["A small dog.", "Small world."]
   },
   {
-    "id": "word_happy",
+    "id": "word_en_happy",
     "word": "happy",
     "meaning": "joyful",
     "pronunciationVariants": [
@@ -105,7 +105,7 @@
     "examples": ["Happy birthday!", "I feel happy."]
   },
   {
-    "id": "word_sad",
+    "id": "word_en_sad",
     "word": "sad",
     "meaning": "unhappy",
     "pronunciationVariants": [
@@ -126,7 +126,7 @@
     "examples": ["Sad news.", "A sad movie."]
   },
   {
-    "id": "word_fast",
+    "id": "word_en_fast",
     "word": "fast",
     "meaning": "quick",
     "pronunciationVariants": [
@@ -147,7 +147,7 @@
     "examples": ["Fast car.", "Fast food."]
   },
   {
-    "id": "word_slow",
+    "id": "word_en_slow",
     "word": "slow",
     "meaning": "not fast",
     "pronunciationVariants": [
@@ -168,7 +168,7 @@
     "examples": ["Slow down.", "Slow internet."]
   },
   {
-    "id": "word_hot",
+    "id": "word_en_hot",
     "word": "hot",
     "meaning": "high temperature",
     "pronunciationVariants": [
@@ -189,7 +189,7 @@
     "examples": ["Hot coffee.", "Hot weather."]
   },
   {
-    "id": "word_cold",
+    "id": "word_en_cold",
     "word": "cold",
     "meaning": "low temperature",
     "pronunciationVariants": [
@@ -210,7 +210,7 @@
     "examples": ["Cold water.", "Cold day."]
   },
   {
-    "id": "word_new",
+    "id": "word_en_new",
     "word": "new",
     "meaning": "recently made",
     "pronunciationVariants": [
@@ -231,7 +231,7 @@
     "examples": ["New car.", "New friend."]
   },
   {
-    "id": "word_old",
+    "id": "word_en_old",
     "word": "old",
     "meaning": "aged",
     "pronunciationVariants": [
@@ -252,7 +252,7 @@
     "examples": ["Old house.", "Old friend."]
   },
   {
-    "id": "word_young",
+    "id": "word_en_young",
     "word": "young",
     "meaning": "not old",
     "pronunciationVariants": [
@@ -273,7 +273,7 @@
     "examples": ["Young man.", "Young children."]
   },
   {
-    "id": "word_beautiful",
+    "id": "word_en_beautiful",
     "word": "beautiful",
     "meaning": "attractive",
     "pronunciationVariants": [
@@ -294,7 +294,7 @@
     "examples": ["Beautiful day.", "Beautiful music."]
   },
   {
-    "id": "word_ugly",
+    "id": "word_en_ugly",
     "word": "ugly",
     "meaning": "unattractive",
     "pronunciationVariants": [
@@ -315,7 +315,7 @@
     "examples": ["Ugly truth.", "Ugly sweater."]
   },
   {
-    "id": "word_easy",
+    "id": "word_en_easy",
     "word": "easy",
     "meaning": "not difficult",
     "pronunciationVariants": [
@@ -336,7 +336,7 @@
     "examples": ["Easy task.", "Take it easy."]
   },
   {
-    "id": "word_hard",
+    "id": "word_en_hard",
     "word": "hard",
     "meaning": "difficult",
     "pronunciationVariants": [
@@ -357,7 +357,7 @@
     "examples": ["Hard work.", "Hard time."]
   },
   {
-    "id": "word_long",
+    "id": "word_en_long",
     "word": "long",
     "meaning": "extended",
     "pronunciationVariants": [
@@ -378,7 +378,7 @@
     "examples": ["Long time.", "Long road."]
   },
   {
-    "id": "word_short",
+    "id": "word_en_short",
     "word": "short",
     "meaning": "brief",
     "pronunciationVariants": [
@@ -399,7 +399,7 @@
     "examples": ["Short story.", "Short hair."]
   },
   {
-    "id": "word_tall",
+    "id": "word_en_tall",
     "word": "tall",
     "meaning": "high height",
     "pronunciationVariants": [
@@ -420,7 +420,7 @@
     "examples": ["Tall building.", "Tall person."]
   },
   {
-    "id": "word_dirty",
+    "id": "word_en_dirty",
     "word": "dirty",
     "meaning": "unclean",
     "pronunciationVariants": [
@@ -441,7 +441,7 @@
     "examples": ["Dirty clothes.", "Dirty hands."]
   },
   {
-    "id": "word_rich",
+    "id": "word_en_rich",
     "word": "rich",
     "meaning": "wealthy",
     "pronunciationVariants": [
@@ -462,7 +462,7 @@
     "examples": ["Rich man.", "Rich culture."]
   },
   {
-    "id": "word_poor",
+    "id": "word_en_poor",
     "word": "poor",
     "meaning": "not wealthy",
     "pronunciationVariants": [
@@ -483,7 +483,7 @@
     "examples": ["Poor family.", "Poor performance."]
   },
   {
-    "id": "word_important",
+    "id": "word_en_important",
     "word": "important",
     "meaning": "significant",
     "pronunciationVariants": [
@@ -504,7 +504,7 @@
     "examples": ["Important decision.", "Very important."]
   },
   {
-    "id": "word_different",
+    "id": "word_en_different",
     "word": "different",
     "meaning": "not same",
     "pronunciationVariants": [
@@ -525,7 +525,7 @@
     "examples": ["Different opinion.", "Different style."]
   },
   {
-    "id": "word_same",
+    "id": "word_en_same",
     "word": "same",
     "meaning": "identical",
     "pronunciationVariants": [
@@ -546,7 +546,7 @@
     "examples": ["Same time.", "Same place."]
   },
   {
-    "id": "word_right",
+    "id": "word_en_right",
     "word": "right",
     "meaning": "correct",
     "pronunciationVariants": [
@@ -567,7 +567,7 @@
     "examples": ["Right answer.", "Right direction."]
   },
   {
-    "id": "word_wrong",
+    "id": "word_en_wrong",
     "word": "wrong",
     "meaning": "incorrect",
     "pronunciationVariants": [
@@ -588,7 +588,7 @@
     "examples": ["Wrong number.", "Wrong way."]
   },
   {
-    "id": "word_strong",
+    "id": "word_en_strong",
     "word": "strong",
     "meaning": "powerful",
     "pronunciationVariants": [
@@ -609,7 +609,7 @@
     "examples": ["Strong wind.", "Strong person."]
   },
   {
-    "id": "word_weak",
+    "id": "word_en_weak",
     "word": "weak",
     "meaning": "not strong",
     "pronunciationVariants": [
@@ -630,7 +630,7 @@
     "examples": ["Weak signal.", "Weak argument."]
   },
   {
-    "id": "word_loud",
+    "id": "word_en_loud",
     "word": "loud",
     "meaning": "noisy",
     "pronunciationVariants": [
@@ -651,7 +651,7 @@
     "examples": ["Loud music.", "Loud voice."]
   },
   {
-    "id": "word_quiet",
+    "id": "word_en_quiet",
     "word": "quiet",
     "meaning": "silent",
     "pronunciationVariants": [
@@ -672,7 +672,7 @@
     "examples": ["Quiet room.", "Be quiet."]
   },
   {
-    "id": "word_bright",
+    "id": "word_en_bright",
     "word": "bright",
     "meaning": "light/intelligent",
     "pronunciationVariants": [
@@ -693,7 +693,7 @@
     "examples": ["Bright light.", "Bright student."]
   },
   {
-    "id": "word_dark",
+    "id": "word_en_dark",
     "word": "dark",
     "meaning": "not light",
     "pronunciationVariants": [
@@ -714,7 +714,7 @@
     "examples": ["Dark room.", "Dark night."]
   },
   {
-    "id": "word_early",
+    "id": "word_en_early",
     "word": "early",
     "meaning": "before expected",
     "pronunciationVariants": [
@@ -735,7 +735,7 @@
     "examples": ["Early morning.", "Early bird."]
   },
   {
-    "id": "word_late",
+    "id": "word_en_late",
     "word": "late",
     "meaning": "after expected",
     "pronunciationVariants": [
@@ -756,7 +756,7 @@
     "examples": ["Late arrival.", "Too late."]
   },
   {
-    "id": "word_cheap",
+    "id": "word_en_cheap",
     "word": "cheap",
     "meaning": "low cost",
     "pronunciationVariants": [
@@ -777,7 +777,7 @@
     "examples": ["Cheap price.", "Cheap food."]
   },
   {
-    "id": "word_expensive",
+    "id": "word_en_expensive",
     "word": "expensive",
     "meaning": "high cost",
     "pronunciationVariants": [
@@ -798,7 +798,7 @@
     "examples": ["Expensive car.", "Too expensive."]
   },
   {
-    "id": "word_kind",
+    "id": "word_en_kind",
     "word": "kind",
     "meaning": "generous",
     "pronunciationVariants": [
@@ -819,7 +819,7 @@
     "examples": ["Kind person.", "Kind words."]
   },
   {
-    "id": "word_mean",
+    "id": "word_en_mean",
     "word": "mean",
     "meaning": "unkind",
     "pronunciationVariants": [
@@ -840,7 +840,7 @@
     "examples": ["Mean comment.", "Don't be mean."]
   },
   {
-    "id": "word_smart",
+    "id": "word_en_smart",
     "word": "smart",
     "meaning": "intelligent",
     "pronunciationVariants": [
@@ -861,7 +861,7 @@
     "examples": ["Smart phone.", "Smart idea."]
   },
   {
-    "id": "word_stupid",
+    "id": "word_en_stupid",
     "word": "stupid",
     "meaning": "not intelligent",
     "pronunciationVariants": [
@@ -882,7 +882,7 @@
     "examples": ["Stupid mistake.", "That was stupid."]
   },
   {
-    "id": "word_brave",
+    "id": "word_en_brave",
     "word": "brave",
     "meaning": "courageous",
     "pronunciationVariants": [
@@ -903,7 +903,7 @@
     "examples": ["Brave soldier.", "Be brave."]
   },
   {
-    "id": "word_afraid",
+    "id": "word_en_afraid",
     "word": "afraid",
     "meaning": "scared",
     "pronunciationVariants": [
@@ -924,7 +924,7 @@
     "examples": ["Don't be afraid.", "I'm afraid."]
   },
   {
-    "id": "word_busy",
+    "id": "word_en_busy",
     "word": "busy",
     "meaning": "occupied",
     "pronunciationVariants": [
@@ -945,7 +945,7 @@
     "examples": ["Busy day.", "Busy street."]
   },
   {
-    "id": "word_free",
+    "id": "word_en_free",
     "word": "free",
     "meaning": "available/no cost",
     "pronunciationVariants": [
@@ -966,7 +966,7 @@
     "examples": ["Free time.", "Free food."]
   },
   {
-    "id": "word_full",
+    "id": "word_en_full",
     "word": "full",
     "meaning": "completely filled",
     "pronunciationVariants": [
@@ -987,7 +987,7 @@
     "examples": ["Full moon.", "Full stomach."]
   },
   {
-    "id": "word_empty",
+    "id": "word_en_empty",
     "word": "empty",
     "meaning": "containing nothing",
     "pronunciationVariants": [
@@ -1008,7 +1008,7 @@
     "examples": ["Empty room.", "Empty box."]
   },
   {
-    "id": "word_heavy",
+    "id": "word_en_heavy",
     "word": "heavy",
     "meaning": "weighty",
     "pronunciationVariants": [
@@ -1029,7 +1029,7 @@
     "examples": ["Heavy rain.", "Heavy box."]
   },
   {
-    "id": "word_sweet",
+    "id": "word_en_sweet",
     "word": "sweet",
     "meaning": "sugary/kind",
     "pronunciationVariants": [
@@ -1050,7 +1050,7 @@
     "examples": ["Sweet taste.", "Sweet person."]
   },
   {
-    "id": "word_sour",
+    "id": "word_en_sour",
     "word": "sour",
     "meaning": "acidic",
     "pronunciationVariants": [
@@ -1071,7 +1071,7 @@
     "examples": ["Sour lemon.", "Sour face."]
   },
   {
-    "id": "word_salty",
+    "id": "word_en_salty",
     "word": "salty",
     "meaning": "containing salt",
     "pronunciationVariants": [
@@ -1092,7 +1092,7 @@
     "examples": ["Salty water.", "Salty food."]
   },
   {
-    "id": "word_bitter",
+    "id": "word_en_bitter",
     "word": "bitter",
     "meaning": "sharp taste",
     "pronunciationVariants": [
@@ -1113,7 +1113,7 @@
     "examples": ["Bitter coffee.", "Bitter enemy."]
   },
   {
-    "id": "word_red",
+    "id": "word_en_red",
     "word": "red",
     "meaning": "color",
     "pronunciationVariants": [
@@ -1134,7 +1134,7 @@
     "examples": ["Red apple.", "Red car."]
   },
   {
-    "id": "word_blue",
+    "id": "word_en_blue",
     "word": "blue",
     "meaning": "color",
     "pronunciationVariants": [
@@ -1155,7 +1155,7 @@
     "examples": ["Blue sky.", "Blue eyes."]
   },
   {
-    "id": "word_green",
+    "id": "word_en_green",
     "word": "green",
     "meaning": "color",
     "pronunciationVariants": [
@@ -1176,7 +1176,7 @@
     "examples": ["Green grass.", "Green tea."]
   },
   {
-    "id": "word_yellow",
+    "id": "word_en_yellow",
     "word": "yellow",
     "meaning": "color",
     "pronunciationVariants": [
@@ -1197,7 +1197,7 @@
     "examples": ["Yellow sun.", "Yellow flower."]
   },
   {
-    "id": "word_white",
+    "id": "word_en_white",
     "word": "white",
     "meaning": "color",
     "pronunciationVariants": [
@@ -1218,7 +1218,7 @@
     "examples": ["White snow.", "White shirt."]
   },
   {
-    "id": "word_black",
+    "id": "word_en_black",
     "word": "black",
     "meaning": "color",
     "pronunciationVariants": [
@@ -1239,7 +1239,7 @@
     "examples": ["Black cat.", "Black coffee."]
   },
   {
-    "id": "word_able",
+    "id": "word_en_able",
     "word": "able",
     "meaning": "to have the skill, intelligence, opportunity, etc. needed to do something",
     "pronunciationVariants": [
@@ -1260,7 +1260,7 @@
     "examples": ["You must be able to speak French for this job."]
   },
   {
-    "id": "word_absolute",
+    "id": "word_en_absolute",
     "word": "absolute",
     "meaning": "total and complete",
     "pronunciationVariants": [
@@ -1281,7 +1281,7 @@
     "examples": ["I've joined a class for absolute beginners."]
   },
   {
-    "id": "word_acceptable",
+    "id": "word_en_acceptable",
     "word": "acceptable",
     "meaning": "agreed or approved of by most people in a society",
     "pronunciationVariants": [
@@ -1302,7 +1302,7 @@
     "examples": ["Children must learn socially acceptable behaviour."]
   },
   {
-    "id": "word_accurate",
+    "id": "word_en_accurate",
     "word": "accurate",
     "meaning": "correct and true in every detail",
     "pronunciationVariants": [
@@ -1323,7 +1323,7 @@
     "examples": ["an accurate description/picture of something"]
   },
   {
-    "id": "word_active",
+    "id": "word_en_active",
     "word": "active",
     "meaning": "always busy doing things, especially physical activities",
     "pronunciationVariants": [
@@ -1344,7 +1344,7 @@
     "examples": ["Staying physically active in later years can also keep you feeling younger. "]
   },
   {
-    "id": "word_actual",
+    "id": "word_en_actual",
     "word": "actual",
     "meaning": "used to emphasize something that is real or exists in fact",
     "pronunciationVariants": [
@@ -1367,7 +1367,7 @@
     ]
   },
   {
-    "id": "word_additional",
+    "id": "word_en_additional",
     "word": "additional",
     "meaning": "more than was first mentioned or is usual",
     "pronunciationVariants": [
@@ -1388,7 +1388,7 @@
     "examples": ["additional resources/funds/security/funding/costs"]
   },
   {
-    "id": "word_advanced",
+    "id": "word_en_advanced",
     "word": "advanced",
     "meaning": "having the most modern and recently developed ideas, methods, etc.",
     "pronunciationVariants": [
@@ -1409,7 +1409,7 @@
     "examples": ["Scientists are working on highly advanced technology to replace fossil fuels."]
   },
   {
-    "id": "word_aged",
+    "id": "word_en_aged",
     "word": "aged",
     "meaning": "of the age of",
     "pronunciationVariants": [
@@ -1430,7 +1430,7 @@
     "examples": ["They have two children aged six and nine."]
   },
   {
-    "id": "word_aggressive",
+    "id": "word_en_aggressive",
     "word": "aggressive",
     "meaning": "angry, and behaving in a threatening way; ready to attack",
     "pronunciationVariants": [
@@ -1451,7 +1451,7 @@
     "examples": ["Seals have been known to exhibit aggressive behaviour towards swimmers."]
   },
   {
-    "id": "word_alcoholic",
+    "id": "word_en_alcoholic",
     "word": "alcoholic",
     "meaning": "connected with or containing alcohol",
     "pronunciationVariants": [
@@ -1472,7 +1472,7 @@
     "examples": ["alcoholic drinks/beverages"]
   },
   {
-    "id": "word_alive",
+    "id": "word_en_alive",
     "word": "alive",
     "meaning": "living; not dead",
     "pronunciationVariants": [
@@ -1493,7 +1493,7 @@
     "examples": ["Is your mother still alive?"]
   },
   {
-    "id": "word_amazed",
+    "id": "word_en_amazed",
     "word": "amazed",
     "meaning": "very surprised",
     "pronunciationVariants": [
@@ -1514,7 +1514,7 @@
     "examples": ["an amazed look"]
   },
   {
-    "id": "word_amazing",
+    "id": "word_en_amazing",
     "word": "amazing",
     "meaning": "very surprising, especially in a way that you like or admire",
     "pronunciationVariants": [
@@ -1535,7 +1535,7 @@
     "examples": ["an amazing feat/story/experience"]
   },
   {
-    "id": "word_ambitious",
+    "id": "word_en_ambitious",
     "word": "ambitious",
     "meaning": "determined to be successful, rich, powerful, etc.",
     "pronunciationVariants": [
@@ -1556,7 +1556,7 @@
     "examples": ["a fiercely ambitious young manager"]
   },
   {
-    "id": "word_ancient",
+    "id": "word_en_ancient",
     "word": "ancient",
     "meaning": "belonging to a period of history that is thousands of years in the past",
     "pronunciationVariants": [
@@ -1577,7 +1577,7 @@
     "examples": ["Archaeologists are excavating the ruined temples of this ancient civilization."]
   },
   {
-    "id": "word_angry",
+    "id": "word_en_angry",
     "word": "angry",
     "meaning": "having strong feelings about something that you dislike very much or about an unfair situation",
     "pronunciationVariants": [
@@ -1598,7 +1598,7 @@
     "examples": ["Her behaviour really made me angry."]
   },
   {
-    "id": "word_annoyed",
+    "id": "word_en_annoyed",
     "word": "annoyed",
     "meaning": "slightly angry",
     "pronunciationVariants": [
@@ -1621,7 +1621,7 @@
     ]
   },
   {
-    "id": "word_annoying",
+    "id": "word_en_annoying",
     "word": "annoying",
     "meaning": "making somebody feel slightly angry",
     "pronunciationVariants": [
@@ -1642,7 +1642,7 @@
     "examples": ["This interruption is very annoying."]
   },
   {
-    "id": "word_annual",
+    "id": "word_en_annual",
     "word": "annual",
     "meaning": "happening or done once every year",
     "pronunciationVariants": [
@@ -1663,7 +1663,7 @@
     "examples": ["an annual meeting/event/report/conference"]
   },
   {
-    "id": "word_anxious",
+    "id": "word_en_anxious",
     "word": "anxious",
     "meaning": "feeling worried or nervous",
     "pronunciationVariants": [
@@ -1684,7 +1684,7 @@
     "examples": ["The bus was late and Sue began to get anxious."]
   },
   {
-    "id": "word_apparent",
+    "id": "word_en_apparent",
     "word": "apparent",
     "meaning": "easy to see or understand",
     "pronunciationVariants": [
@@ -1705,7 +1705,7 @@
     "examples": ["Their devotion was apparent."]
   },
   {
-    "id": "word_appropriate",
+    "id": "word_en_appropriate",
     "word": "appropriate",
     "meaning": "suitable, acceptable or correct for the particular circumstances",
     "pronunciationVariants": [
@@ -1726,7 +1726,7 @@
     "examples": ["an appropriate response/measure/method"]
   },
   {
-    "id": "word_armed",
+    "id": "word_en_armed",
     "word": "armed",
     "meaning": "involving the use of weapons",
     "pronunciationVariants": [
@@ -1747,7 +1747,7 @@
     "examples": ["an armed robbery"]
   },
   {
-    "id": "word_artificial",
+    "id": "word_en_artificial",
     "word": "artificial",
     "meaning": "made or produced to copy something natural; not real",
     "pronunciationVariants": [
@@ -1768,7 +1768,7 @@
     "examples": ["an artificial limb/flower/sweetener/fertilizer "]
   },
   {
-    "id": "word_artistic",
+    "id": "word_en_artistic",
     "word": "artistic",
     "meaning": "connected with art or artists",
     "pronunciationVariants": [
@@ -1789,7 +1789,7 @@
     "examples": ["the artistic works of the period"]
   },
   {
-    "id": "word_ashamed",
+    "id": "word_en_ashamed",
     "word": "ashamed",
     "meaning": "feeling shame or feeling embarrassed about somebody/something or because of something you have done",
     "pronunciationVariants": [
@@ -1810,7 +1810,7 @@
     "examples": ["ashamed of something, She was deeply ashamed of her behaviour at the party."]
   },
   {
-    "id": "word_asleep",
+    "id": "word_en_asleep",
     "word": "asleep",
     "meaning": "sleeping",
     "pronunciationVariants": [
@@ -1831,7 +1831,7 @@
     "examples": ["I waited until they were all fast asleep (= sleeping deeply)."]
   },
   {
-    "id": "word_associated",
+    "id": "word_en_associated",
     "word": "associated",
     "meaning": "if one thing is associated with another, the two things are connected because they happen together or one thing causes the other",
     "pronunciationVariants": [
@@ -1852,7 +1852,7 @@
     "examples": ["associated with doing something, the risks associated with taking drugs"]
   },
   {
-    "id": "word_attractive",
+    "id": "word_en_attractive",
     "word": "attractive",
     "meaning": "pleasant to look at, especially in a sexual way",
     "pronunciationVariants": [
@@ -1873,7 +1873,7 @@
     "examples": ["an attractive woman"]
   },
   {
-    "id": "word_available",
+    "id": "word_en_available",
     "word": "available",
     "meaning": "that you can get, buy or find",
     "pronunciationVariants": [
@@ -1894,7 +1894,7 @@
     "examples": ["available resources/data"]
   },
   {
-    "id": "word_aware",
+    "id": "word_en_aware",
     "word": "aware",
     "meaning": "knowing or realizing something",
     "pronunciationVariants": [
@@ -1915,7 +1915,7 @@
     "examples": ["As you're aware, this is not a new problem."]
   },
   {
-    "id": "word_awful",
+    "id": "word_en_awful",
     "word": "awful",
     "meaning": "very bad or unpleasant",
     "pronunciationVariants": [
@@ -1936,7 +1936,7 @@
     "examples": ["That's an awful colour."]
   },
   {
-    "id": "word_based",
+    "id": "word_en_based",
     "word": "based",
     "meaning": "if one thing is based on another, it uses it or is developed from it",
     "pronunciationVariants": [
@@ -1957,7 +1957,7 @@
     "examples": ["The movie is based on a real-life incident."]
   },
   {
-    "id": "word_basic",
+    "id": "word_en_basic",
     "word": "basic",
     "meaning": "forming the part of something that is most necessary and from which other things develop",
     "pronunciationVariants": [
@@ -1978,7 +1978,7 @@
     "examples": ["basic information/facts/ideas"]
   },
   {
-    "id": "word_bent",
+    "id": "word_en_bent",
     "word": "bent",
     "meaning": "not straight",
     "pronunciationVariants": [
@@ -1999,7 +1999,7 @@
     "examples": ["a piece of bent wire"]
   },
   {
-    "id": "word_blind",
+    "id": "word_en_blind",
     "word": "blind",
     "meaning": "not able to see",
     "pronunciationVariants": [
@@ -2020,7 +2020,7 @@
     "examples": ["Doctors think he will go blind."]
   },
   {
-    "id": "word_blonde",
+    "id": "word_en_blonde",
     "word": "blonde",
     "meaning": "pale gold in colour",
     "pronunciationVariants": [
@@ -2041,7 +2041,7 @@
     "examples": ["She had long blonde hair."]
   },
   {
-    "id": "word_bored",
+    "id": "word_en_bored",
     "word": "bored",
     "meaning": "feeling tired and impatient because you have lost interest in somebody/something or because you have nothing to do",
     "pronunciationVariants": [
@@ -2062,7 +2062,7 @@
     "examples": ["There was a bored expression on her face."]
   },
   {
-    "id": "word_boring",
+    "id": "word_en_boring",
     "word": "boring",
     "meaning": "not interesting; making you feel tired and impatient",
     "pronunciationVariants": [
@@ -2083,7 +2083,7 @@
     "examples": ["He's such a boring man!"]
   },
   {
-    "id": "word_brief",
+    "id": "word_en_brief",
     "word": "brief",
     "meaning": "lasting only a short time; short",
     "pronunciationVariants": [
@@ -2104,7 +2104,7 @@
     "examples": ["a brief visit/meeting/conversation"]
   },
   {
-    "id": "word_brilliant",
+    "id": "word_en_brilliant",
     "word": "brilliant",
     "meaning": "extremely clever or impressive",
     "pronunciationVariants": [
@@ -2125,7 +2125,7 @@
     "examples": ["What a brilliant idea!"]
   },
   {
-    "id": "word_broad",
+    "id": "word_en_broad",
     "word": "broad",
     "meaning": "wide",
     "pronunciationVariants": [
@@ -2146,7 +2146,7 @@
     "examples": ["a broad street/avenue/river"]
   },
   {
-    "id": "word_broken",
+    "id": "word_en_broken",
     "word": "broken",
     "meaning": "that has been damaged or injured; no longer whole or working correctly",
     "pronunciationVariants": [
@@ -2167,7 +2167,7 @@
     "examples": ["a broken window/plate"]
   },
   {
-    "id": "word_capable",
+    "id": "word_en_capable",
     "word": "capable",
     "meaning": "having the ability or qualities necessary for doing something",
     "pronunciationVariants": [
@@ -2188,7 +2188,7 @@
     "examples": ["capable of something, You are capable of better work than this."]
   },
   {
-    "id": "word_careful",
+    "id": "word_en_careful",
     "word": "careful",
     "meaning": "giving attention or thought to what you are doing so that you avoid hurting yourself, damaging something or doing something wrong",
     "pronunciationVariants": [
@@ -2209,7 +2209,7 @@
     "examples": ["Be careful!"]
   },
   {
-    "id": "word_careless",
+    "id": "word_en_careless",
     "word": "careless",
     "meaning": "not giving enough attention and thought to what you are doing, so that you make mistakes",
     "pronunciationVariants": [
@@ -2230,7 +2230,7 @@
     "examples": ["careless driving"]
   },
   {
-    "id": "word_central",
+    "id": "word_en_central",
     "word": "central",
     "meaning": "in the centre of an area or object",
     "pronunciationVariants": [
@@ -2251,7 +2251,7 @@
     "examples": ["central London"]
   },
   {
-    "id": "word_certain",
+    "id": "word_en_certain",
     "word": "certain",
     "meaning": "strongly believing something; having no doubts",
     "pronunciationVariants": [
@@ -2272,7 +2272,7 @@
     "examples": ["I think it was him, but I can't be certain."]
   },
   {
-    "id": "word_cheerful",
+    "id": "word_en_cheerful",
     "word": "cheerful",
     "meaning": "happy, and showing it by the way that you behave",
     "pronunciationVariants": [
@@ -2293,7 +2293,7 @@
     "examples": ["You're not your usual cheerful self today."]
   },
   {
-    "id": "word_civil",
+    "id": "word_en_civil",
     "word": "civil",
     "meaning": "connected with the people who live in a country",
     "pronunciationVariants": [
@@ -2314,7 +2314,7 @@
     "examples": ["civil unrest (= that is caused by groups of people within a country)"]
   },
   {
-    "id": "word_classical",
+    "id": "word_en_classical",
     "word": "classical",
     "meaning": "relating to classical music",
     "pronunciationVariants": [
@@ -2335,7 +2335,7 @@
     "examples": ["a classical composer/musician/pianist"]
   },
   {
-    "id": "word_clever",
+    "id": "word_en_clever",
     "word": "clever",
     "meaning": "quick at learning and understanding things",
     "pronunciationVariants": [
@@ -2356,7 +2356,7 @@
     "examples": ["a clever child"]
   },
   {
-    "id": "word_closed",
+    "id": "word_en_closed",
     "word": "closed",
     "meaning": "shut",
     "pronunciationVariants": [
@@ -2377,7 +2377,7 @@
     "examples": ["Keep the door closed."]
   },
   {
-    "id": "word_coloured",
+    "id": "word_en_coloured",
     "word": "coloured",
     "meaning": "having a particular colour or different colours",
     "pronunciationVariants": [
@@ -2398,7 +2398,7 @@
     "examples": ["brightly coloured balloons"]
   },
   {
-    "id": "word_comfortable",
+    "id": "word_en_comfortable",
     "word": "comfortable",
     "meaning": "making you feel physically relaxed; pleasant to wear, sit on, etc.",
     "pronunciationVariants": [
@@ -2419,7 +2419,7 @@
     "examples": ["It's such a comfortable bed."]
   },
   {
-    "id": "word_common",
+    "id": "word_en_common",
     "word": "common",
     "meaning": "happening often; existing in large numbers or in many places",
     "pronunciationVariants": [
@@ -2440,7 +2440,7 @@
     "examples": ["a common problem/occurrence/practice"]
   },
   {
-    "id": "word_competitive",
+    "id": "word_en_competitive",
     "word": "competitive",
     "meaning": "used to describe a situation in which people or organizations compete against each other",
     "pronunciationVariants": [
@@ -2461,7 +2461,7 @@
     "examples": ["competitive games/sports"]
   },
   {
-    "id": "word_complicated",
+    "id": "word_en_complicated",
     "word": "complicated",
     "meaning": "made of many different things or parts that are connected; difficult to understand",
     "pronunciationVariants": [
@@ -2482,7 +2482,7 @@
     "examples": ["a complicated issue/process/system"]
   },
   {
-    "id": "word_concerned",
+    "id": "word_en_concerned",
     "word": "concerned",
     "meaning": "worried and feeling concern about something/somebody",
     "pronunciationVariants": [
@@ -2503,7 +2503,7 @@
     "examples": ["Concerned citizens can have a huge impact."]
   },
   {
-    "id": "word_confident",
+    "id": "word_en_confident",
     "word": "confident",
     "meaning": "feeling sure about your own ability to do things and be successful",
     "pronunciationVariants": [
@@ -2524,7 +2524,7 @@
     "examples": ["She was in a relaxed, confident mood."]
   },
   {
-    "id": "word_confused",
+    "id": "word_en_confused",
     "word": "confused",
     "meaning": "unable to think clearly or to understand what is happening or what somebody is saying",
     "pronunciationVariants": [
@@ -2545,7 +2545,7 @@
     "examples": ["I'm confused—say all that again."]
   },
   {
-    "id": "word_confusing",
+    "id": "word_en_confusing",
     "word": "confusing",
     "meaning": "difficult to understand; not clear",
     "pronunciationVariants": [
@@ -2566,7 +2566,7 @@
     "examples": ["The instructions on the box are very confusing."]
   },
   {
-    "id": "word_connected",
+    "id": "word_en_connected",
     "word": "connected",
     "meaning": "(of two or more things or people) having a link between them",
     "pronunciationVariants": [
@@ -2587,7 +2587,7 @@
     "examples": ["We do not believe that the incidents are connected."]
   },
   {
-    "id": "word_conscious",
+    "id": "word_en_conscious",
     "word": "conscious",
     "meaning": "aware of something; noticing something",
     "pronunciationVariants": [
@@ -2608,7 +2608,7 @@
     "examples": ["conscious of something, She's very conscious of the problems involved."]
   },
   {
-    "id": "word_consistent",
+    "id": "word_en_consistent",
     "word": "consistent",
     "meaning": "always behaving in the same way, or having the same opinions, standards, etc.",
     "pronunciationVariants": [
@@ -2629,7 +2629,7 @@
     "examples": ["a consistent approach to the problem"]
   },
   {
-    "id": "word_constant",
+    "id": "word_en_constant",
     "word": "constant",
     "meaning": "happening all the time or repeatedly",
     "pronunciationVariants": [
@@ -2650,7 +2650,7 @@
     "examples": ["There were constant interruptions."]
   },
   {
-    "id": "word_contemporary",
+    "id": "word_en_contemporary",
     "word": "contemporary",
     "meaning": "belonging to the same time",
     "pronunciationVariants": [
@@ -2673,7 +2673,7 @@
     ]
   },
   {
-    "id": "word_continuous",
+    "id": "word_en_continuous",
     "word": "continuous",
     "meaning": "happening or existing for a period of time without being interrupted",
     "pronunciationVariants": [
@@ -2696,7 +2696,7 @@
     ]
   },
   {
-    "id": "word_convenient",
+    "id": "word_en_convenient",
     "word": "convenient",
     "meaning": "useful, easy or quick to do; not causing problems",
     "pronunciationVariants": [
@@ -2717,7 +2717,7 @@
     "examples": ["Fruit is a convenient source of vitamins and energy."]
   },
   {
-    "id": "word_convinced",
+    "id": "word_en_convinced",
     "word": "convinced",
     "meaning": "completely sure about something",
     "pronunciationVariants": [
@@ -2738,7 +2738,7 @@
     "examples": ["Sam nodded but he didn't look convinced."]
   },
   {
-    "id": "word_corporate",
+    "id": "word_en_corporate",
     "word": "corporate",
     "meaning": "connected with a large business company ",
     "pronunciationVariants": [
@@ -2759,7 +2759,7 @@
     "examples": ["corporate finance/profits/tax"]
   },
   {
-    "id": "word_covered",
+    "id": "word_en_covered",
     "word": "covered",
     "meaning": "having a layer or amount of something on it",
     "pronunciationVariants": [
@@ -2780,7 +2780,7 @@
     "examples": ["His face was covered in blood."]
   },
   {
-    "id": "word_crazy",
+    "id": "word_en_crazy",
     "word": "crazy",
     "meaning": "not sensible; stupid",
     "pronunciationVariants": [
@@ -2801,7 +2801,7 @@
     "examples": ["Are you crazy? We could get killed doing that."]
   },
   {
-    "id": "word_creative",
+    "id": "word_en_creative",
     "word": "creative",
     "meaning": "involving the use of skill and the imagination to produce something new or a work of art",
     "pronunciationVariants": [
@@ -2822,7 +2822,7 @@
     "examples": ["a course on creative writing (= writing stories, plays and poems)"]
   },
   {
-    "id": "word_critical",
+    "id": "word_en_critical",
     "word": "critical",
     "meaning": "saying what you think is bad about somebody/something",
     "pronunciationVariants": [
@@ -2843,7 +2843,7 @@
     "examples": [" You should just ignore any critical comments."]
   },
   {
-    "id": "word_crowded",
+    "id": "word_en_crowded",
     "word": "crowded",
     "meaning": "having a lot of people or too many people",
     "pronunciationVariants": [
@@ -2864,7 +2864,7 @@
     "examples": ["We made our way through the crowded streets."]
   },
   {
-    "id": "word_crucial",
+    "id": "word_en_crucial",
     "word": "crucial",
     "meaning": "extremely important, because it will affect other things",
     "pronunciationVariants": [
@@ -2885,7 +2885,7 @@
     "examples": ["The next few weeks are going to be crucial."]
   },
   {
-    "id": "word_cruel",
+    "id": "word_en_cruel",
     "word": "cruel",
     "meaning": "having a desire to cause physical or mental pain and make somebody suffer",
     "pronunciationVariants": [
@@ -2906,7 +2906,7 @@
     "examples": ["He was known to be a cruel dictator."]
   },
   {
-    "id": "word_cultural",
+    "id": "word_en_cultural",
     "word": "cultural",
     "meaning": "connected with the culture of a particular society or group, its customs, beliefs, etc.",
     "pronunciationVariants": [
@@ -2927,7 +2927,7 @@
     "examples": ["Teachers need to be aware of cultural differences."]
   },
   {
-    "id": "word_curly",
+    "id": "word_en_curly",
     "word": "curly",
     "meaning": "having a lot of curls or a curved shape",
     "pronunciationVariants": [
@@ -2948,7 +2948,7 @@
     "examples": ["long curly hair"]
   },
   {
-    "id": "word_curved",
+    "id": "word_en_curved",
     "word": "curved",
     "meaning": "having a round shape",
     "pronunciationVariants": [
@@ -2969,7 +2969,7 @@
     "examples": ["a curved edge/surface"]
   },
   {
-    "id": "word_daily",
+    "id": "word_en_daily",
     "word": "daily",
     "meaning": "happening, done or produced every day",
     "pronunciationVariants": [
@@ -2990,7 +2990,7 @@
     "examples": ["Many people still read a daily newspaper."]
   },
   {
-    "id": "word_dangerous",
+    "id": "word_en_dangerous",
     "word": "dangerous",
     "meaning": "likely to injure or harm somebody, or to damage or destroy something",
     "pronunciationVariants": [
@@ -3011,7 +3011,7 @@
     "examples": ["The situation is extremely dangerous."]
   },
   {
-    "id": "word_dead",
+    "id": "word_en_dead",
     "word": "dead",
     "meaning": "no longer alive",
     "pronunciationVariants": [
@@ -3032,7 +3032,7 @@
     "examples": ["My mother's dead; she died in 2017."]
   },
   {
-    "id": "word_decent",
+    "id": "word_en_decent",
     "word": "decent",
     "meaning": "of a good enough standard or quality",
     "pronunciationVariants": [
@@ -3053,7 +3053,7 @@
     "examples": ["a decent meal/place to live "]
   },
   {
-    "id": "word_deep",
+    "id": "word_en_deep",
     "word": "deep",
     "meaning": "having a large distance from the top or surface to the bottom",
     "pronunciationVariants": [
@@ -3074,7 +3074,7 @@
     "examples": ["a deep hole/well/river"]
   },
   {
-    "id": "word_definite",
+    "id": "word_en_definite",
     "word": "definite",
     "meaning": "sure or certain; unlikely to change",
     "pronunciationVariants": [
@@ -3095,7 +3095,7 @@
     "examples": ["Can you give me a definite answer by tomorrow?"]
   },
   {
-    "id": "word_deliberate",
+    "id": "word_en_deliberate",
     "word": "deliberate",
     "meaning": "done on purpose rather than by accident",
     "pronunciationVariants": [
@@ -3116,7 +3116,7 @@
     "examples": ["a deliberate act of vandalism"]
   },
   {
-    "id": "word_delicious",
+    "id": "word_en_delicious",
     "word": "delicious",
     "meaning": "having a very pleasant taste or smell",
     "pronunciationVariants": [
@@ -3137,7 +3137,7 @@
     "examples": ["Who cooked this? It's absolutely delicious."]
   },
   {
-    "id": "word_delighted",
+    "id": "word_en_delighted",
     "word": "delighted",
     "meaning": "very pleased",
     "pronunciationVariants": [
@@ -3158,7 +3158,7 @@
     "examples": ["a delighted smile"]
   },
   {
-    "id": "word_depressed",
+    "id": "word_en_depressed",
     "word": "depressed",
     "meaning": "very sad and without hope",
     "pronunciationVariants": [
@@ -3179,7 +3179,7 @@
     "examples": ["You mustn't let yourself get depressed."]
   },
   {
-    "id": "word_depressing",
+    "id": "word_en_depressing",
     "word": "depressing",
     "meaning": "making you feel very sad and without enthusiasm",
     "pronunciationVariants": [
@@ -3200,7 +3200,7 @@
     "examples": ["a depressing sight/thought/experience "]
   },
   {
-    "id": "word_desperate",
+    "id": "word_en_desperate",
     "word": "desperate",
     "meaning": "feeling or showing that you have little hope and are ready to do anything without worrying about danger to yourself or others",
     "pronunciationVariants": [
@@ -3221,7 +3221,7 @@
     "examples": ["The prisoners grew increasingly desperate."]
   },
   {
-    "id": "word_detailed",
+    "id": "word_en_detailed",
     "word": "detailed",
     "meaning": "giving many details and a lot of information; paying great attention to details",
     "pronunciationVariants": [
@@ -3242,7 +3242,7 @@
     "examples": ["a detailed description of the events"]
   },
   {
-    "id": "word_determined",
+    "id": "word_en_determined",
     "word": "determined",
     "meaning": "having made a definite decision to do something and not letting anyone prevent you",
     "pronunciationVariants": [
@@ -3263,7 +3263,7 @@
     "examples": ["The opposition to her plan made her more determined than ever."]
   },
   {
-    "id": "word_difficult",
+    "id": "word_en_difficult",
     "word": "difficult",
     "meaning": "not easy; needing effort or skill to do or to understand",
     "pronunciationVariants": [
@@ -3284,7 +3284,7 @@
     "examples": ["The competition judges were given a very difficult task."]
   },
   {
-    "id": "word_digital",
+    "id": "word_en_digital",
     "word": "digital",
     "meaning": "using a system of receiving and sending information as a series of the numbers one and zero, showing that an electronic signal is there or is not there",
     "pronunciationVariants": [
@@ -3305,7 +3305,7 @@
     "examples": ["a digital camera "]
   },
   {
-    "id": "word_disappointed",
+    "id": "word_en_disappointed",
     "word": "disappointed",
     "meaning": "upset because something you hoped for has not happened or been as good, successful, etc. as you expected",
     "pronunciationVariants": [
@@ -3326,7 +3326,7 @@
     "examples": ["The singer has promised to refund any disappointed fans. "]
   },
   {
-    "id": "word_disappointing",
+    "id": "word_en_disappointing",
     "word": "disappointing",
     "meaning": "not as good, successful, etc. as you had hoped; making you feel disappointed",
     "pronunciationVariants": [
@@ -3347,7 +3347,7 @@
     "examples": ["a disappointing result/performance/defeat"]
   },
   {
-    "id": "word_dishonest",
+    "id": "word_en_dishonest",
     "word": "dishonest",
     "meaning": "not honest; intending to trick people",
     "pronunciationVariants": [
@@ -3368,7 +3368,7 @@
     "examples": ["Beware of dishonest traders in the tourist areas."]
   },
   {
-    "id": "word_divorced",
+    "id": "word_en_divorced",
     "word": "divorced",
     "meaning": "no longer married because your marriage has been legally ended",
     "pronunciationVariants": [
@@ -3389,7 +3389,7 @@
     "examples": ["My parents are divorced."]
   },
   {
-    "id": "word_domestic",
+    "id": "word_en_domestic",
     "word": "domestic",
     "meaning": "of or inside a particular country; not foreign or international",
     "pronunciationVariants": [
@@ -3410,7 +3410,7 @@
     "examples": ["domestic affairs/politics"]
   },
   {
-    "id": "word_downstairs",
+    "id": "word_en_downstairs",
     "word": "downstairs",
     "meaning": "on a floor of a house or building lower than the one you are on, especially the one at ground level",
     "pronunciationVariants": [
@@ -3431,7 +3431,7 @@
     "examples": ["a downstairs bathroom"]
   },
   {
-    "id": "word_dramatic",
+    "id": "word_en_dramatic",
     "word": "dramatic",
     "meaning": "sudden, very great and often surprising",
     "pronunciationVariants": [
@@ -3452,7 +3452,7 @@
     "examples": ["a dramatic increase/change/improvement/shift"]
   },
   {
-    "id": "word_dressed",
+    "id": "word_en_dressed",
     "word": "dressed",
     "meaning": "wearing clothes and not naked or wearing clothes for sleeping",
     "pronunciationVariants": [
@@ -3473,7 +3473,7 @@
     "examples": ["Hurry up and get dressed."]
   },
   {
-    "id": "word_drunk",
+    "id": "word_en_drunk",
     "word": "drunk",
     "meaning": "having drunk so much alcohol that it is impossible to think or speak clearly",
     "pronunciationVariants": [
@@ -3494,7 +3494,7 @@
     "examples": ["They were clearly too drunk to drive."]
   },
   {
-    "id": "word_due",
+    "id": "word_en_due",
     "word": "due",
     "meaning": "caused by somebody/something; because of somebody/something",
     "pronunciationVariants": [
@@ -3515,7 +3515,7 @@
     "examples": ["The team's success was largely due to her efforts."]
   },
   {
-    "id": "word_eastern",
+    "id": "word_en_eastern",
     "word": "eastern",
     "meaning": "located in the east or facing east",
     "pronunciationVariants": [
@@ -3536,7 +3536,7 @@
     "examples": ["eastern Spain"]
   },
   {
-    "id": "word_economic",
+    "id": "word_en_economic",
     "word": "economic",
     "meaning": "connected with the trade, industry and development of wealth of a country, an area or a society",
     "pronunciationVariants": [
@@ -3557,7 +3557,7 @@
     "examples": ["They discussed social, economic and political issues."]
   },
   {
-    "id": "word_educated",
+    "id": "word_en_educated",
     "word": "educated",
     "meaning": "having had the kind of education mentioned; having been to the school, college or university mentioned",
     "pronunciationVariants": [
@@ -3578,7 +3578,7 @@
     "examples": ["privately educated children"]
   },
   {
-    "id": "word_educational",
+    "id": "word_en_educational",
     "word": "educational",
     "meaning": "connected with education",
     "pronunciationVariants": [
@@ -3599,7 +3599,7 @@
     "examples": ["children with special educational needs"]
   },
   {
-    "id": "word_effective",
+    "id": "word_en_effective",
     "word": "effective",
     "meaning": "producing the result that is wanted or intended; producing a successful result",
     "pronunciationVariants": [
@@ -3620,7 +3620,7 @@
     "examples": ["Aspirin is a simple but highly effective treatment."]
   },
   {
-    "id": "word_efficient",
+    "id": "word_en_efficient",
     "word": "efficient",
     "meaning": "doing something in a good, careful and complete way with no waste of time, money or energy",
     "pronunciationVariants": [
@@ -3641,7 +3641,7 @@
     "examples": ["a highly efficient worker"]
   },
   {
-    "id": "word_elderly",
+    "id": "word_en_elderly",
     "word": "elderly",
     "meaning": "used as a polite word for ‘old’",
     "pronunciationVariants": [
@@ -3662,7 +3662,7 @@
     "examples": ["an elderly man/woman/lady"]
   },
   {
-    "id": "word_electric",
+    "id": "word_en_electric",
     "word": "electric",
     "meaning": "connected with electricity; using, produced by or producing electricity",
     "pronunciationVariants": [
@@ -3683,7 +3683,7 @@
     "examples": ["an electric car/vehicle"]
   },
   {
-    "id": "word_electrical",
+    "id": "word_en_electrical",
     "word": "electrical",
     "meaning": "connected with electricity; using or producing electricity",
     "pronunciationVariants": [
@@ -3704,7 +3704,7 @@
     "examples": ["an electrical fault in the engine"]
   },
   {
-    "id": "word_electronic",
+    "id": "word_en_electronic",
     "word": "electronic",
     "meaning": "having or using many small parts, such as microchips, that control and direct a small electric current",
     "pronunciationVariants": [
@@ -3727,7 +3727,7 @@
     ]
   },
   {
-    "id": "word_embarrassed",
+    "id": "word_en_embarrassed",
     "word": "embarrassed",
     "meaning": "shy, uncomfortable or ashamed, especially in a social situation",
     "pronunciationVariants": [
@@ -3748,7 +3748,7 @@
     "examples": ["I've never felt so embarrassed in my life!"]
   },
   {
-    "id": "word_embarrassing",
+    "id": "word_en_embarrassing",
     "word": "embarrassing",
     "meaning": "making you feel shy, uncomfortable or ashamed",
     "pronunciationVariants": [
@@ -3769,7 +3769,7 @@
     "examples": ["an embarrassing moment/situation"]
   },
   {
-    "id": "word_emotional",
+    "id": "word_en_emotional",
     "word": "emotional",
     "meaning": "connected with people’s feelings (= with the emotions)",
     "pronunciationVariants": [
@@ -3790,7 +3790,7 @@
     "examples": ["emotional problems/stress"]
   },
   {
-    "id": "word_engaged",
+    "id": "word_en_engaged",
     "word": "engaged",
     "meaning": "having agreed to marry somebody",
     "pronunciationVariants": [
@@ -3811,7 +3811,7 @@
     "examples": ["When did you get engaged?"]
   },
   {
-    "id": "word_enormous",
+    "id": "word_en_enormous",
     "word": "enormous",
     "meaning": "extremely large",
     "pronunciationVariants": [
@@ -3832,7 +3832,7 @@
     "examples": ["an enormous house/dog"]
   },
   {
-    "id": "word_enthusiastic",
+    "id": "word_en_enthusiastic",
     "word": "enthusiastic",
     "meaning": "feeling or showing a lot of excitement and interest about somebody/something",
     "pronunciationVariants": [
@@ -3853,7 +3853,7 @@
     "examples": ["an enthusiastic supporter"]
   },
   {
-    "id": "word_entire",
+    "id": "word_en_entire",
     "word": "entire",
     "meaning": "including everything, everyone or every part ",
     "pronunciationVariants": [
@@ -3874,7 +3874,7 @@
     "examples": ["The entire village was destroyed."]
   },
   {
-    "id": "word_environmental",
+    "id": "word_en_environmental",
     "word": "environmental",
     "meaning": "connected with the natural conditions in which people, animals and plants live; connected with the environment",
     "pronunciationVariants": [
@@ -3895,7 +3895,7 @@
     "examples": ["the environmental impact of pollution"]
   },
   {
-    "id": "word_essential",
+    "id": "word_en_essential",
     "word": "essential",
     "meaning": "completely necessary; extremely important in a particular situation or for a particular activity ",
     "pronunciationVariants": [
@@ -3916,7 +3916,7 @@
     "examples": ["an essential part/feature of something"]
   },
   {
-    "id": "word_ethical",
+    "id": "word_en_ethical",
     "word": "ethical",
     "meaning": "connected with beliefs and principles about what is right and wrong",
     "pronunciationVariants": [
@@ -3937,7 +3937,7 @@
     "examples": ["ethical issues/standards/questions/dilemmas"]
   },
   {
-    "id": "word_even",
+    "id": "word_en_even",
     "word": "even",
     "meaning": "that can be divided exactly by two",
     "pronunciationVariants": [
@@ -3958,7 +3958,7 @@
     "examples": ["4, 6, 8 and 10 are all even numbers."]
   },
   {
-    "id": "word_everyday",
+    "id": "word_en_everyday",
     "word": "everyday",
     "meaning": "used or happening every day or regularly; ordinary",
     "pronunciationVariants": [
@@ -3979,7 +3979,7 @@
     "examples": ["Change is a part of everyday life in business."]
   },
   {
-    "id": "word_exact",
+    "id": "word_en_exact",
     "word": "exact",
     "meaning": "correct in every detail",
     "pronunciationVariants": [
@@ -4000,7 +4000,7 @@
     "examples": ["The new palace is an exact replica of the original building."]
   },
   {
-    "id": "word_excellent",
+    "id": "word_en_excellent",
     "word": "excellent",
     "meaning": "extremely good",
     "pronunciationVariants": [
@@ -4021,7 +4021,7 @@
     "examples": ["an excellent book/article"]
   },
   {
-    "id": "word_excited",
+    "id": "word_en_excited",
     "word": "excited",
     "meaning": "feeling or showing happiness and enthusiasm",
     "pronunciationVariants": [
@@ -4042,7 +4042,7 @@
     "examples": ["Staff got excited when they heard they were getting a bonus."]
   },
   {
-    "id": "word_exciting",
+    "id": "word_en_exciting",
     "word": "exciting",
     "meaning": "causing great interest or excitement",
     "pronunciationVariants": [
@@ -4063,7 +4063,7 @@
     "examples": ["This is an exciting opportunity for me."]
   },
   {
-    "id": "word_expected",
+    "id": "word_en_expected",
     "word": "expected",
     "meaning": "that you think will happen",
     "pronunciationVariants": [
@@ -4084,7 +4084,7 @@
     "examples": ["Double the expected number of people came to the meeting."]
   },
   {
-    "id": "word_experienced",
+    "id": "word_en_experienced",
     "word": "experienced",
     "meaning": "having knowledge or skill in a particular job or activity",
     "pronunciationVariants": [
@@ -4105,7 +4105,7 @@
     "examples": ["an experienced player/teacher"]
   },
   {
-    "id": "word_external",
+    "id": "word_en_external",
     "word": "external",
     "meaning": "connected with or located on the outside of something/somebody",
     "pronunciationVariants": [
@@ -4126,7 +4126,7 @@
     "examples": ["the external walls of the building"]
   },
   {
-    "id": "word_extraordinary",
+    "id": "word_en_extraordinary",
     "word": "extraordinary",
     "meaning": "unexpected, surprising or strange",
     "pronunciationVariants": [
@@ -4147,7 +4147,7 @@
     "examples": ["What an extraordinary thing to say!"]
   },
   {
-    "id": "word_fair",
+    "id": "word_en_fair",
     "word": "fair",
     "meaning": "acceptable and appropriate in a particular situation",
     "pronunciationVariants": [
@@ -4168,7 +4168,7 @@
     "examples": ["a fair deal/wage/price"]
   },
   {
-    "id": "word_false",
+    "id": "word_en_false",
     "word": "false",
     "meaning": "wrong; not correct or true",
     "pronunciationVariants": [
@@ -4189,7 +4189,7 @@
     "examples": ["A whale is a fish. True or false?"]
   },
   {
-    "id": "word_familiar",
+    "id": "word_en_familiar",
     "word": "familiar",
     "meaning": "well known to you; often seen or heard and therefore easy to recognize",
     "pronunciationVariants": [
@@ -4210,7 +4210,7 @@
     "examples": ["to look/sound/seem familiar"]
   },
   {
-    "id": "word_famous",
+    "id": "word_en_famous",
     "word": "famous",
     "meaning": "known about by many people",
     "pronunciationVariants": [
@@ -4231,7 +4231,7 @@
     "examples": ["a famous artist/actor"]
   },
   {
-    "id": "word_fantastic",
+    "id": "word_en_fantastic",
     "word": "fantastic",
     "meaning": "extremely good; excellent",
     "pronunciationVariants": [
@@ -4252,7 +4252,7 @@
     "examples": ["He's done a fantastic job."]
   },
   {
-    "id": "word_fascinating",
+    "id": "word_en_fascinating",
     "word": "fascinating",
     "meaning": "extremely interesting and attractive",
     "pronunciationVariants": [
@@ -4273,7 +4273,7 @@
     "examples": ["a fascinating story"]
   },
   {
-    "id": "word_fashionable",
+    "id": "word_en_fashionable",
     "word": "fashionable",
     "meaning": "following a style that is popular at a particular time",
     "pronunciationVariants": [
@@ -4294,7 +4294,7 @@
     "examples": ["fashionable clothes/ideas/styles"]
   },
   {
-    "id": "word_fellow",
+    "id": "word_en_fellow",
     "word": "fellow",
     "meaning": "used to describe somebody who is the same as you in some way, or in the same situation",
     "pronunciationVariants": [
@@ -4315,7 +4315,7 @@
     "examples": ["fellow citizens/students"]
   },
   {
-    "id": "word_financial",
+    "id": "word_en_financial",
     "word": "financial",
     "meaning": "connected with money and finance",
     "pronunciationVariants": [
@@ -4336,7 +4336,7 @@
     "examples": ["the world's major financial markets/institutions"]
   },
   {
-    "id": "word_fine",
+    "id": "word_en_fine",
     "word": "fine",
     "meaning": "in good health",
     "pronunciationVariants": [
@@ -4357,7 +4357,7 @@
     "examples": ["‘How are you?’ ‘Fine, thanks.’"]
   },
   {
-    "id": "word_fixed",
+    "id": "word_en_fixed",
     "word": "fixed",
     "meaning": "staying the same; not changing or able to be changed",
     "pronunciationVariants": [
@@ -4378,7 +4378,7 @@
     "examples": ["These fixed prices give farmers a degree of financial security."]
   },
   {
-    "id": "word_flexible",
+    "id": "word_en_flexible",
     "word": "flexible",
     "meaning": "able to change to suit new conditions or situations",
     "pronunciationVariants": [
@@ -4399,7 +4399,7 @@
     "examples": ["a more flexible approach"]
   },
   {
-    "id": "word_folding",
+    "id": "word_en_folding",
     "word": "folding",
     "meaning": "that can be folded, so that it can be carried or stored in a small space",
     "pronunciationVariants": [
@@ -4420,7 +4420,7 @@
     "examples": ["a folding chair/bike/knife"]
   },
   {
-    "id": "word_foreign",
+    "id": "word_en_foreign",
     "word": "foreign",
     "meaning": "in or from a country that is not your own",
     "pronunciationVariants": [
@@ -4441,7 +4441,7 @@
     "examples": ["What foreign languages do you speak?"]
   },
   {
-    "id": "word_formal",
+    "id": "word_en_formal",
     "word": "formal",
     "meaning": "very correct and suitable for official or important occasions",
     "pronunciationVariants": [
@@ -4462,7 +4462,7 @@
     "examples": ["ladies in formal evening wear"]
   },
   {
-    "id": "word_former",
+    "id": "word_en_former",
     "word": "former",
     "meaning": "that existed in earlier times",
     "pronunciationVariants": [
@@ -4483,7 +4483,7 @@
     "examples": ["This fine ruin was, in former times, a royal castle."]
   },
   {
-    "id": "word_fresh",
+    "id": "word_en_fresh",
     "word": "fresh",
     "meaning": "recently produced or picked and not frozen, dried or preserved in tins or cans",
     "pronunciationVariants": [
@@ -4504,7 +4504,7 @@
     "examples": ["Is this milk fresh?"]
   },
   {
-    "id": "word_friendly",
+    "id": "word_en_friendly",
     "word": "friendly",
     "meaning": "behaving in a kind and pleasant way because you like somebody or want to help them",
     "pronunciationVariants": [
@@ -4525,7 +4525,7 @@
     "examples": ["a warm and friendly person"]
   },
   {
-    "id": "word_frightened",
+    "id": "word_en_frightened",
     "word": "frightened",
     "meaning": "afraid; feeling fear",
     "pronunciationVariants": [
@@ -4546,7 +4546,7 @@
     "examples": ["a frightened child"]
   },
   {
-    "id": "word_frightening",
+    "id": "word_en_frightening",
     "word": "frightening",
     "meaning": "making you feel afraid",
     "pronunciationVariants": [
@@ -4567,7 +4567,7 @@
     "examples": ["a frightening experience/prospect/thought"]
   },
   {
-    "id": "word_frozen",
+    "id": "word_en_frozen",
     "word": "frozen",
     "meaning": "kept at a very low temperature in order to preserve it",
     "pronunciationVariants": [
@@ -4588,7 +4588,7 @@
     "examples": ["frozen peas/fish/pizza"]
   },
   {
-    "id": "word_fundamental",
+    "id": "word_en_fundamental",
     "word": "fundamental",
     "meaning": "serious and very important; affecting the most central and important parts of something",
     "pronunciationVariants": [
@@ -4609,7 +4609,7 @@
     "examples": ["the fundamental principles of scientific method"]
   },
   {
-    "id": "word_funny",
+    "id": "word_en_funny",
     "word": "funny",
     "meaning": "making you laugh",
     "pronunciationVariants": [
@@ -4630,7 +4630,7 @@
     "examples": ["a funny story/joke"]
   },
   {
-    "id": "word_further",
+    "id": "word_en_further",
     "word": "further",
     "meaning": "more; additional",
     "pronunciationVariants": [
@@ -4651,7 +4651,7 @@
     "examples": ["Cook for a further 2 minutes."]
   },
   {
-    "id": "word_general",
+    "id": "word_en_general",
     "word": "general",
     "meaning": "affecting all or most people, places or things",
     "pronunciationVariants": [
@@ -4672,7 +4672,7 @@
     "examples": ["books of general interest (= of interest to most people)"]
   },
   {
-    "id": "word_generous",
+    "id": "word_en_generous",
     "word": "generous",
     "meaning": "giving or willing to give freely; given freely",
     "pronunciationVariants": [
@@ -4693,7 +4693,7 @@
     "examples": ["The gallery was named after its most generous benefactor."]
   },
   {
-    "id": "word_gentle",
+    "id": "word_en_gentle",
     "word": "gentle",
     "meaning": "calm and kind; doing things in a quiet and careful way",
     "pronunciationVariants": [
@@ -4714,7 +4714,7 @@
     "examples": ["a kind and gentle man"]
   },
   {
-    "id": "word_glad",
+    "id": "word_en_glad",
     "word": "glad",
     "meaning": "pleased; happy",
     "pronunciationVariants": [
@@ -4735,7 +4735,7 @@
     "examples": ["‘I passed the test!’ ‘I’m so glad.’"]
   },
   {
-    "id": "word_global",
+    "id": "word_en_global",
     "word": "global",
     "meaning": "covering or affecting the whole world",
     "pronunciationVariants": [
@@ -4756,7 +4756,7 @@
     "examples": ["This year the global economy will grow by about 4 per cent."]
   },
   {
-    "id": "word_grand",
+    "id": "word_en_grand",
     "word": "grand",
     "meaning": "impressive and large or important",
     "pronunciationVariants": [
@@ -4777,7 +4777,7 @@
     "examples": ["It's not a very grand house."]
   },
   {
-    "id": "word_grateful",
+    "id": "word_en_grateful",
     "word": "grateful",
     "meaning": "feeling or showing thanks because somebody has done something kind for you or has done as you asked",
     "pronunciationVariants": [
@@ -4798,7 +4798,7 @@
     "examples": ["Thank you for doing this. I really am so grateful."]
   },
   {
-    "id": "word_great",
+    "id": "word_en_great",
     "word": "great",
     "meaning": "very good or pleasant",
     "pronunciationVariants": [
@@ -4819,7 +4819,7 @@
     "examples": ["He's a great bloke."]
   },
   {
-    "id": "word_guilty",
+    "id": "word_en_guilty",
     "word": "guilty",
     "meaning": "feeling ashamed because you have done something that you know is wrong or have not done something that you should have done",
     "pronunciationVariants": [
@@ -4840,7 +4840,7 @@
     "examples": ["Matt and Chrissy both looked equally guilty."]
   },
   {
-    "id": "word_harmful",
+    "id": "word_en_harmful",
     "word": "harmful",
     "meaning": "causing damage or injury to somebody/something, especially to a person’s health or to the environment",
     "pronunciationVariants": [
@@ -4861,7 +4861,7 @@
     "examples": ["the harmful effects of alcohol"]
   },
   {
-    "id": "word_healthy",
+    "id": "word_en_healthy",
     "word": "healthy",
     "meaning": "having good health and not likely to become ill",
     "pronunciationVariants": [
@@ -4882,7 +4882,7 @@
     "examples": ["a healthy child/baby/adult"]
   },
   {
-    "id": "word_helpful",
+    "id": "word_en_helpful",
     "word": "helpful",
     "meaning": "able to improve a particular situation",
     "pronunciationVariants": [
@@ -4903,7 +4903,7 @@
     "examples": ["helpful advice/information"]
   },
   {
-    "id": "word_historic",
+    "id": "word_en_historic",
     "word": "historic",
     "meaning": "important in history; likely to be thought of as important at some time in the future",
     "pronunciationVariants": [
@@ -4924,7 +4924,7 @@
     "examples": ["the restoration of historic buildings"]
   },
   {
-    "id": "word_historical",
+    "id": "word_en_historical",
     "word": "historical",
     "meaning": "connected with the past",
     "pronunciationVariants": [
@@ -4945,7 +4945,7 @@
     "examples": ["You must place these events in their historical context."]
   },
   {
-    "id": "word_hollow",
+    "id": "word_en_hollow",
     "word": "hollow",
     "meaning": "having a hole or empty space inside",
     "pronunciationVariants": [
@@ -4966,7 +4966,7 @@
     "examples": ["a hollow ball/centre/tube/tree"]
   },
   {
-    "id": "word_holy",
+    "id": "word_en_holy",
     "word": "holy",
     "meaning": "connected with God or a particular religion",
     "pronunciationVariants": [
@@ -4987,7 +4987,7 @@
     "examples": ["the Holy Bible"]
   },
   {
-    "id": "word_honest",
+    "id": "word_en_honest",
     "word": "honest",
     "meaning": "always telling the truth, and never stealing or cheating",
     "pronunciationVariants": [
@@ -5008,7 +5008,7 @@
     "examples": ["an honest man/woman"]
   },
   {
-    "id": "word_horrible",
+    "id": "word_en_horrible",
     "word": "horrible",
     "meaning": "very bad or unpleasant; used to describe something that you do not like",
     "pronunciationVariants": [
@@ -5029,7 +5029,7 @@
     "examples": ["What horrible weather!"]
   },
   {
-    "id": "word_huge",
+    "id": "word_en_huge",
     "word": "huge",
     "meaning": "extremely large in size or amount; great in degree",
     "pronunciationVariants": [
@@ -5050,7 +5050,7 @@
     "examples": ["The sums of money involved are potentially huge."]
   },
   {
-    "id": "word_humorous",
+    "id": "word_en_humorous",
     "word": "humorous",
     "meaning": "funny; showing a sense of humour",
     "pronunciationVariants": [
@@ -5071,7 +5071,7 @@
     "examples": ["He gave a humorous account of their trip to Spain."]
   },
   {
-    "id": "word_hungry",
+    "id": "word_en_hungry",
     "word": "hungry",
     "meaning": "feeling that you want to eat something",
     "pronunciationVariants": [
@@ -5092,7 +5092,7 @@
     "examples": ["I'm really hungry."]
   },
   {
-    "id": "word_ill",
+    "id": "word_en_ill",
     "word": "ill",
     "meaning": "suffering from an illness or disease; not feeling well",
     "pronunciationVariants": [
@@ -5113,7 +5113,7 @@
     "examples": ["Her father is seriously ill in St Luke's hospital."]
   },
   {
-    "id": "word_illegal",
+    "id": "word_en_illegal",
     "word": "illegal",
     "meaning": "not allowed by the law",
     "pronunciationVariants": [
@@ -5134,7 +5134,7 @@
     "examples": ["illegal drugs/firearms/substances"]
   },
   {
-    "id": "word_imaginary",
+    "id": "word_en_imaginary",
     "word": "imaginary",
     "meaning": "existing only in your mind or imagination",
     "pronunciationVariants": [
@@ -5155,7 +5155,7 @@
     "examples": ["The equator is an imaginary line around the middle of the earth."]
   },
   {
-    "id": "word_immediate",
+    "id": "word_en_immediate",
     "word": "immediate",
     "meaning": "happening or done without delay",
     "pronunciationVariants": [
@@ -5176,7 +5176,7 @@
     "examples": ["an immediate reaction/response "]
   },
   {
-    "id": "word_impatient",
+    "id": "word_en_impatient",
     "word": "impatient",
     "meaning": "annoyed by somebody/something, especially because you have to wait for a long time",
     "pronunciationVariants": [
@@ -5197,7 +5197,7 @@
     "examples": ["I'd been waiting for twenty minutes and I was getting impatient."]
   },
   {
-    "id": "word_impossible",
+    "id": "word_en_impossible",
     "word": "impossible",
     "meaning": "that cannot exist or be done; not possible",
     "pronunciationVariants": [
@@ -5218,7 +5218,7 @@
     "examples": ["almost/virtually/nearly impossible"]
   },
   {
-    "id": "word_impressed",
+    "id": "word_en_impressed",
     "word": "impressed",
     "meaning": "admiring somebody/something because you think they are particularly good, interesting, etc.",
     "pronunciationVariants": [
@@ -5239,7 +5239,7 @@
     "examples": ["I must admit I am impressed."]
   },
   {
-    "id": "word_impressive",
+    "id": "word_en_impressive",
     "word": "impressive",
     "meaning": "making you admire them, because they are very large, good, skilful, etc.",
     "pronunciationVariants": [
@@ -5260,7 +5260,7 @@
     "examples": ["an impressive performance"]
   },
   {
-    "id": "word_included",
+    "id": "word_en_included",
     "word": "included",
     "meaning": "contained as part of something",
     "pronunciationVariants": [
@@ -5281,7 +5281,7 @@
     "examples": ["all of Europe (Britain included)"]
   },
   {
-    "id": "word_incredible",
+    "id": "word_en_incredible",
     "word": "incredible",
     "meaning": "impossible or very difficult to believe",
     "pronunciationVariants": [
@@ -5302,7 +5302,7 @@
     "examples": ["an incredible story"]
   },
   {
-    "id": "word_independent",
+    "id": "word_en_independent",
     "word": "independent",
     "meaning": "having its own government",
     "pronunciationVariants": [
@@ -5323,7 +5323,7 @@
     "examples": ["an independent state/nation/country"]
   },
   {
-    "id": "word_indirect",
+    "id": "word_en_indirect",
     "word": "indirect",
     "meaning": "happening not as the main aim, cause or result of a particular action, but in addition to it",
     "pronunciationVariants": [
@@ -5344,7 +5344,7 @@
     "examples": ["the indirect effects of the war"]
   },
   {
-    "id": "word_indoor",
+    "id": "word_en_indoor",
     "word": "indoor",
     "meaning": "located, done or used inside a building",
     "pronunciationVariants": [
@@ -5365,7 +5365,7 @@
     "examples": ["an indoor swimming pool"]
   },
   {
-    "id": "word_industrial",
+    "id": "word_en_industrial",
     "word": "industrial",
     "meaning": "connected with industry",
     "pronunciationVariants": [
@@ -5386,7 +5386,7 @@
     "examples": ["an industrial dispute"]
   },
   {
-    "id": "word_informal",
+    "id": "word_en_informal",
     "word": "informal",
     "meaning": "relaxed and friendly; not following strict rules of how to behave or do something",
     "pronunciationVariants": [
@@ -5407,7 +5407,7 @@
     "examples": ["an informal atmosphere"]
   },
   {
-    "id": "word_initial",
+    "id": "word_en_initial",
     "word": "initial",
     "meaning": "happening at the beginning; first",
     "pronunciationVariants": [
@@ -5428,7 +5428,7 @@
     "examples": ["There is an initial payment of £60 followed by ten instalments of £25."]
   },
   {
-    "id": "word_injured",
+    "id": "word_en_injured",
     "word": "injured",
     "meaning": "physically hurt; having an injury",
     "pronunciationVariants": [
@@ -5449,7 +5449,7 @@
     "examples": ["His injured leg prevented him from walking."]
   },
   {
-    "id": "word_inner",
+    "id": "word_en_inner",
     "word": "inner",
     "meaning": "inside; towards or close to the centre of a place",
     "pronunciationVariants": [
@@ -5470,7 +5470,7 @@
     "examples": ["an inner courtyard"]
   },
   {
-    "id": "word_innocent",
+    "id": "word_en_innocent",
     "word": "innocent",
     "meaning": "not guilty of a crime, etc.; not having done something wrong",
     "pronunciationVariants": [
@@ -5491,7 +5491,7 @@
     "examples": ["They have imprisoned an innocent man."]
   },
   {
-    "id": "word_intelligent",
+    "id": "word_en_intelligent",
     "word": "intelligent",
     "meaning": "good at learning, understanding and thinking in a logical way about things; showing this ability",
     "pronunciationVariants": [
@@ -5512,7 +5512,7 @@
     "examples": ["a highly intelligent child"]
   },
   {
-    "id": "word_intended",
+    "id": "word_en_intended",
     "word": "intended",
     "meaning": "that you are trying to achieve or reach",
     "pronunciationVariants": [
@@ -5533,7 +5533,7 @@
     "examples": ["the intended purpose "]
   },
   {
-    "id": "word_intense",
+    "id": "word_en_intense",
     "word": "intense",
     "meaning": "very great; very strong",
     "pronunciationVariants": [
@@ -5554,7 +5554,7 @@
     "examples": ["We were all suffering in the intense heat."]
   },
   {
-    "id": "word_interested",
+    "id": "word_en_interested",
     "word": "interested",
     "meaning": "giving your attention to something because you enjoy finding out about it or doing it; showing interest in something and finding it exciting",
     "pronunciationVariants": [
@@ -5575,7 +5575,7 @@
     "examples": ["He sounded genuinely interested."]
   },
   {
-    "id": "word_interesting",
+    "id": "word_en_interesting",
     "word": "interesting",
     "meaning": "attracting your attention because it is/they are special, exciting or unusual",
     "pronunciationVariants": [
@@ -5596,7 +5596,7 @@
     "examples": ["The article raises several interesting questions."]
   },
   {
-    "id": "word_internal",
+    "id": "word_en_internal",
     "word": "internal",
     "meaning": "connected with the inside of something",
     "pronunciationVariants": [
@@ -5617,7 +5617,7 @@
     "examples": ["the internal structure of a building"]
   },
   {
-    "id": "word_international",
+    "id": "word_en_international",
     "word": "international",
     "meaning": "connected with or involving two or more countries",
     "pronunciationVariants": [
@@ -5638,7 +5638,7 @@
     "examples": ["international trade/law"]
   },
   {
-    "id": "word_involved",
+    "id": "word_en_involved",
     "word": "involved",
     "meaning": "taking part in something; being part of something or connected with something",
     "pronunciationVariants": [
@@ -5659,7 +5659,7 @@
     "examples": ["Some people tried to stop the fight but I didn't want to get involved."]
   },
   {
-    "id": "word_junior",
+    "id": "word_en_junior",
     "word": "junior",
     "meaning": "having a low rank in an organization or a profession",
     "pronunciationVariants": [
@@ -5680,7 +5680,7 @@
     "examples": ["a junior partner/minister/officer"]
   },
   {
-    "id": "word_keen",
+    "id": "word_en_keen",
     "word": "keen",
     "meaning": "wanting to do something or wanting something to happen very much",
     "pronunciationVariants": [
@@ -5701,7 +5701,7 @@
     "examples": ["keen to do something, John was very keen to help."]
   },
   {
-    "id": "word_large",
+    "id": "word_en_large",
     "word": "large",
     "meaning": "big in size or quantity",
     "pronunciationVariants": [
@@ -5722,7 +5722,7 @@
     "examples": ["a large group/city/area/crowd/family"]
   },
   {
-    "id": "word_lazy",
+    "id": "word_en_lazy",
     "word": "lazy",
     "meaning": "unwilling to work or be active; doing as little as possible",
     "pronunciationVariants": [
@@ -5743,7 +5743,7 @@
     "examples": ["He was not stupid, just lazy."]
   },
   {
-    "id": "word_leading",
+    "id": "word_en_leading",
     "word": "leading",
     "meaning": "most important or most successful",
     "pronunciationVariants": [
@@ -5764,7 +5764,7 @@
     "examples": ["a leading expert/authority/figure/member"]
   },
   {
-    "id": "word_legal",
+    "id": "word_en_legal",
     "word": "legal",
     "meaning": "connected with the law",
     "pronunciationVariants": [
@@ -5785,7 +5785,7 @@
     "examples": ["the legal profession/system"]
   },
   {
-    "id": "word_likely",
+    "id": "word_en_likely",
     "word": "likely",
     "meaning": "having a good chance of happening or being something; probable or expected",
     "pronunciationVariants": [
@@ -5806,7 +5806,7 @@
     "examples": ["the most likely explanation/outcome/scenario"]
   },
   {
-    "id": "word_limited",
+    "id": "word_en_limited",
     "word": "limited",
     "meaning": "not very great in amount or extent",
     "pronunciationVariants": [
@@ -5827,7 +5827,7 @@
     "examples": ["We are doing our best with the limited resources available."]
   },
   {
-    "id": "word_lively",
+    "id": "word_en_lively",
     "word": "lively",
     "meaning": "full of life and energy; active and enthusiastic",
     "pronunciationVariants": [
@@ -5848,7 +5848,7 @@
     "examples": ["an intelligent and lively young woman"]
   },
   {
-    "id": "word_located",
+    "id": "word_en_located",
     "word": "located",
     "meaning": "if something is located in a particular place, it exists there or has been put there",
     "pronunciationVariants": [
@@ -5869,7 +5869,7 @@
     "examples": ["a small town located 30 miles south of Chicago"]
   },
   {
-    "id": "word_logical",
+    "id": "word_en_logical",
     "word": "logical",
     "meaning": "seeming natural, reasonable or sensible",
     "pronunciationVariants": [
@@ -5890,7 +5890,7 @@
     "examples": ["It was a logical conclusion from the child's point of view."]
   },
   {
-    "id": "word_lonely",
+    "id": "word_en_lonely",
     "word": "lonely",
     "meaning": "unhappy because you have no friends or people to talk to",
     "pronunciationVariants": [
@@ -5911,7 +5911,7 @@
     "examples": ["She lives alone and often feels lonely."]
   },
   {
-    "id": "word_longterm",
+    "id": "word_en_longterm",
     "word": "long-term",
     "meaning": "lasting or having an effect over a long period of time",
     "pronunciationVariants": [
@@ -5932,7 +5932,7 @@
     "examples": ["Our long-term goal is to lower operating costs by 10 per cent."]
   },
   {
-    "id": "word_loose",
+    "id": "word_en_loose",
     "word": "loose",
     "meaning": "not securely fixed where it should be; able to become separated from something",
     "pronunciationVariants": [
@@ -5953,7 +5953,7 @@
     "examples": ["a loose button/tooth"]
   },
   {
-    "id": "word_lost",
+    "id": "word_en_lost",
     "word": "lost",
     "meaning": "unable to find your way; not knowing where you are",
     "pronunciationVariants": [
@@ -5974,7 +5974,7 @@
     "examples": ["We always get lost in London."]
   },
   {
-    "id": "word_lovely",
+    "id": "word_en_lovely",
     "word": "lovely",
     "meaning": "beautiful; attractive",
     "pronunciationVariants": [
@@ -5995,7 +5995,7 @@
     "examples": ["She looked particularly lovely that night."]
   },
   {
-    "id": "word_lucky",
+    "id": "word_en_lucky",
     "word": "lucky",
     "meaning": "having good luck",
     "pronunciationVariants": [
@@ -6018,7 +6018,7 @@
     ]
   },
   {
-    "id": "word_mad",
+    "id": "word_en_mad",
     "word": "mad",
     "meaning": "very stupid; not at all sensible",
     "pronunciationVariants": [
@@ -6039,7 +6039,7 @@
     "examples": ["You must be mad to risk it."]
   },
   {
-    "id": "word_main",
+    "id": "word_en_main",
     "word": "main",
     "meaning": "being the largest or most important of its kind",
     "pronunciationVariants": [
@@ -6060,7 +6060,7 @@
     "examples": ["Be careful crossing the main road."]
   },
   {
-    "id": "word_major",
+    "id": "word_en_major",
     "word": "major",
     "meaning": "very large or important",
     "pronunciationVariants": [
@@ -6081,7 +6081,7 @@
     "examples": ["a major road"]
   },
   {
-    "id": "word_married",
+    "id": "word_en_married",
     "word": "married",
     "meaning": "having a husband or wife",
     "pronunciationVariants": [
@@ -6102,7 +6102,7 @@
     "examples": ["a married man/woman "]
   },
   {
-    "id": "word_massive",
+    "id": "word_en_massive",
     "word": "massive",
     "meaning": "very large, heavy and solid",
     "pronunciationVariants": [
@@ -6123,7 +6123,7 @@
     "examples": ["a massive rock"]
   },
   {
-    "id": "word_matching",
+    "id": "word_en_matching",
     "word": "matching",
     "meaning": "having the same colour, pattern, style, etc. and therefore looking attractive together",
     "pronunciationVariants": [
@@ -6144,7 +6144,7 @@
     "examples": ["The two sisters wore matching outfits."]
   },
   {
-    "id": "word_medical",
+    "id": "word_en_medical",
     "word": "medical",
     "meaning": "connected with illness and injury and their treatment",
     "pronunciationVariants": [
@@ -6165,7 +6165,7 @@
     "examples": ["medical care/treatment"]
   },
   {
-    "id": "word_mental",
+    "id": "word_en_mental",
     "word": "mental",
     "meaning": "connected with or happening in the mind; involving the process of thinking",
     "pronunciationVariants": [
@@ -6186,7 +6186,7 @@
     "examples": ["the mental process of remembering"]
   },
   {
-    "id": "word_mild",
+    "id": "word_en_mild",
     "word": "mild",
     "meaning": "not severe or strong",
     "pronunciationVariants": [
@@ -6207,7 +6207,7 @@
     "examples": ["a mild form of the disease"]
   },
   {
-    "id": "word_minor",
+    "id": "word_en_minor",
     "word": "minor",
     "meaning": "not very large, important or serious",
     "pronunciationVariants": [
@@ -6228,7 +6228,7 @@
     "examples": ["The new plan involves widening a minor road through the valley."]
   },
   {
-    "id": "word_missing",
+    "id": "word_en_missing",
     "word": "missing",
     "meaning": "that cannot be found or that is not in its usual place; that has been removed, lost or destroyed",
     "pronunciationVariants": [
@@ -6249,7 +6249,7 @@
     "examples": ["I never found the missing piece."]
   },
   {
-    "id": "word_mixed",
+    "id": "word_en_mixed",
     "word": "mixed",
     "meaning": "consisting of different qualities or elements",
     "pronunciationVariants": [
@@ -6270,7 +6270,7 @@
     "examples": ["a mixed diet"]
   },
   {
-    "id": "word_modern",
+    "id": "word_en_modern",
     "word": "modern",
     "meaning": "of the present time or recent times ",
     "pronunciationVariants": [
@@ -6291,7 +6291,7 @@
     "examples": ["the modern industrial world"]
   },
   {
-    "id": "word_multiple",
+    "id": "word_en_multiple",
     "word": "multiple",
     "meaning": "many in number; involving many different people or things",
     "pronunciationVariants": [
@@ -6312,7 +6312,7 @@
     "examples": ["The shape appears multiple times within each painting."]
   },
   {
-    "id": "word_mysterious",
+    "id": "word_en_mysterious",
     "word": "mysterious",
     "meaning": "difficult to understand or explain; strange",
     "pronunciationVariants": [
@@ -6333,7 +6333,7 @@
     "examples": ["He died in mysterious circumstances."]
   },
   {
-    "id": "word_natural",
+    "id": "word_en_natural",
     "word": "natural",
     "meaning": "existing in nature; not made or caused by humans",
     "pronunciationVariants": [
@@ -6354,7 +6354,7 @@
     "examples": ["the natural world (= of trees, rivers, animals and birds)"]
   },
   {
-    "id": "word_neat",
+    "id": "word_en_neat",
     "word": "neat",
     "meaning": "tidy and in order; carefully done or arranged",
     "pronunciationVariants": [
@@ -6375,7 +6375,7 @@
     "examples": ["She kept her desk extremely neat."]
   },
   {
-    "id": "word_necessary",
+    "id": "word_en_necessary",
     "word": "necessary",
     "meaning": "that is needed for a purpose or a reason",
     "pronunciationVariants": [
@@ -6396,7 +6396,7 @@
     "examples": ["necessary to do something, It may be necessary to buy a new one."]
   },
   {
-    "id": "word_nervous",
+    "id": "word_en_nervous",
     "word": "nervous",
     "meaning": "anxious about something or afraid of something",
     "pronunciationVariants": [
@@ -6417,7 +6417,7 @@
     "examples": ["I felt really nervous before the interview."]
   },
   {
-    "id": "word_nice",
+    "id": "word_en_nice",
     "word": "nice",
     "meaning": "pleasant or attractive",
     "pronunciationVariants": [
@@ -6438,7 +6438,7 @@
     "examples": ["a nice day/smile/place"]
   },
   {
-    "id": "word_noisy",
+    "id": "word_en_noisy",
     "word": "noisy",
     "meaning": "making a lot of noise",
     "pronunciationVariants": [
@@ -6459,7 +6459,7 @@
     "examples": ["noisy children/traffic/crowds"]
   },
   {
-    "id": "word_northern",
+    "id": "word_en_northern",
     "word": "northern",
     "meaning": "located in the north or facing north; connected with or typical of the north part of the world or a region",
     "pronunciationVariants": [
@@ -6480,7 +6480,7 @@
     "examples": ["the northern slopes of the mountains"]
   },
   {
-    "id": "word_nuclear",
+    "id": "word_en_nuclear",
     "word": "nuclear",
     "meaning": "using, producing or resulting from nuclear energy",
     "pronunciationVariants": [
@@ -6501,7 +6501,7 @@
     "examples": ["a nuclear power plant/station"]
   },
   {
-    "id": "word_numerous",
+    "id": "word_en_numerous",
     "word": "numerous",
     "meaning": "existing in large numbers ",
     "pronunciationVariants": [
@@ -6522,7 +6522,7 @@
     "examples": ["He has been late on numerous occasions."]
   },
   {
-    "id": "word_obvious",
+    "id": "word_en_obvious",
     "word": "obvious",
     "meaning": "easy to see or understand",
     "pronunciationVariants": [
@@ -6543,7 +6543,7 @@
     "examples": ["I know you don't like her but try not to make it so obvious."]
   },
   {
-    "id": "word_odd",
+    "id": "word_en_odd",
     "word": "odd",
     "meaning": "strange or unusual",
     "pronunciationVariants": [
@@ -6564,7 +6564,7 @@
     "examples": ["They're very odd people."]
   },
   {
-    "id": "word_offensive",
+    "id": "word_en_offensive",
     "word": "offensive",
     "meaning": "rude in a way that causes somebody to feel upset or annoyed because it shows a lack of respect",
     "pronunciationVariants": [
@@ -6585,7 +6585,7 @@
     "examples": ["offensive remarks"]
   },
   {
-    "id": "word_oldfashioned",
+    "id": "word_en_oldfashioned",
     "word": "old-fashioned",
     "meaning": "not modern; no longer fashionable",
     "pronunciationVariants": [
@@ -6606,7 +6606,7 @@
     "examples": ["old-fashioned clothes/styles/methods/equipment"]
   },
   {
-    "id": "word_online",
+    "id": "word_en_online",
     "word": "online",
     "meaning": "available on or done using the internet or other computer network",
     "pronunciationVariants": [
@@ -6627,7 +6627,7 @@
     "examples": ["Online shopping is both cheap and convenient."]
   },
   {
-    "id": "word_opposed",
+    "id": "word_en_opposed",
     "word": "opposed",
     "meaning": "disagreeing strongly with something and trying to stop it",
     "pronunciationVariants": [
@@ -6648,7 +6648,7 @@
     "examples": ["opposed to something, He was strongly opposed to modernism in art."]
   },
   {
-    "id": "word_ordinary",
+    "id": "word_en_ordinary",
     "word": "ordinary",
     "meaning": "not unusual or different in any way",
     "pronunciationVariants": [
@@ -6669,7 +6669,7 @@
     "examples": ["an ordinary sort of day"]
   },
   {
-    "id": "word_organized",
+    "id": "word_en_organized",
     "word": "organized",
     "meaning": "involving large numbers of people who work together to do something in a way that has been carefully planned",
     "pronunciationVariants": [
@@ -6690,7 +6690,7 @@
     "examples": ["an organized body of workers"]
   },
   {
-    "id": "word_outdoor",
+    "id": "word_en_outdoor",
     "word": "outdoor",
     "meaning": "used, happening or located outside rather than in a building",
     "pronunciationVariants": [
@@ -6711,7 +6711,7 @@
     "examples": ["outdoor pursuits/recreation/activities"]
   },
   {
-    "id": "word_outer",
+    "id": "word_en_outer",
     "word": "outer",
     "meaning": "on the outside of something",
     "pronunciationVariants": [
@@ -6732,7 +6732,7 @@
     "examples": ["the outer layers of the skin"]
   },
   {
-    "id": "word_overall",
+    "id": "word_en_overall",
     "word": "overall",
     "meaning": "including all the things or people that are involved in a particular situation; general",
     "pronunciationVariants": [
@@ -6753,7 +6753,7 @@
     "examples": ["There will be winners in each of three age groups, and one overall winner."]
   },
   {
-    "id": "word_painful",
+    "id": "word_en_painful",
     "word": "painful",
     "meaning": "causing you pain",
     "pronunciationVariants": [
@@ -6774,7 +6774,7 @@
     "examples": ["Is your back still painful?"]
   },
   {
-    "id": "word_pale",
+    "id": "word_en_pale",
     "word": "pale",
     "meaning": "having skin that is very light in colour; having skin that has less colour than usual because of illness, a strong emotion, etc.",
     "pronunciationVariants": [
@@ -6795,7 +6795,7 @@
     "examples": ["a pale complexion"]
   },
   {
-    "id": "word_particular",
+    "id": "word_en_particular",
     "word": "particular",
     "meaning": "used to emphasize that you are referring to one individual person, thing or type of thing and not others",
     "pronunciationVariants": [
@@ -6816,7 +6816,7 @@
     "examples": ["There is one particular patient I'd like you to see."]
   },
   {
-    "id": "word_peaceful",
+    "id": "word_en_peaceful",
     "word": "peaceful",
     "meaning": "not involving a war, violence or argument",
     "pronunciationVariants": [
@@ -6837,7 +6837,7 @@
     "examples": ["a peaceful protest/demonstration"]
   },
   {
-    "id": "word_perfect",
+    "id": "word_en_perfect",
     "word": "perfect",
     "meaning": "having everything that is necessary; complete and without faults or weaknesses",
     "pronunciationVariants": [
@@ -6858,7 +6858,7 @@
     "examples": ["in perfect condition"]
   },
   {
-    "id": "word_permanent",
+    "id": "word_en_permanent",
     "word": "permanent",
     "meaning": "lasting for a long time or for all time in the future; existing all the time",
     "pronunciationVariants": [
@@ -6879,7 +6879,7 @@
     "examples": ["She was unable to find a permanent job."]
   },
   {
-    "id": "word_personal",
+    "id": "word_en_personal",
     "word": "personal",
     "meaning": "your own; not belonging to or connected with anyone else",
     "pronunciationVariants": [
@@ -6900,7 +6900,7 @@
     "examples": ["The novel is written from personal experience."]
   },
   {
-    "id": "word_physical",
+    "id": "word_en_physical",
     "word": "physical",
     "meaning": "connected with a person’s body rather than their mind",
     "pronunciationVariants": [
@@ -6921,7 +6921,7 @@
     "examples": ["physical activity/fitness"]
   },
   {
-    "id": "word_plain",
+    "id": "word_en_plain",
     "word": "plain",
     "meaning": "not decorated or complicated; simple",
     "pronunciationVariants": [
@@ -6942,7 +6942,7 @@
     "examples": ["a plain but elegant dress"]
   },
   {
-    "id": "word_pleasant",
+    "id": "word_en_pleasant",
     "word": "pleasant",
     "meaning": "fun, attractive, or giving pleasure",
     "pronunciationVariants": [
@@ -6963,7 +6963,7 @@
     "examples": ["a pleasant evening/atmosphere/walk"]
   },
   {
-    "id": "word_pleased",
+    "id": "word_en_pleased",
     "word": "pleased",
     "meaning": "feeling happy about something",
     "pronunciationVariants": [
@@ -6984,7 +6984,7 @@
     "examples": ["You're coming? I'm so pleased."]
   },
   {
-    "id": "word_pointed",
+    "id": "word_en_pointed",
     "word": "pointed",
     "meaning": "having a sharp end",
     "pronunciationVariants": [
@@ -7005,7 +7005,7 @@
     "examples": ["a pointed chin"]
   },
   {
-    "id": "word_poisonous",
+    "id": "word_en_poisonous",
     "word": "poisonous",
     "meaning": "causing death or illness if swallowed or taken into the body",
     "pronunciationVariants": [
@@ -7026,7 +7026,7 @@
     "examples": ["poisonous chemicals/fumes/plants"]
   },
   {
-    "id": "word_polite",
+    "id": "word_en_polite",
     "word": "polite",
     "meaning": "having or showing good manners and respect for the feelings of others",
     "pronunciationVariants": [
@@ -7047,7 +7047,7 @@
     "examples": ["polite to somebody, Please be polite to our guests."]
   },
   {
-    "id": "word_political",
+    "id": "word_en_political",
     "word": "political",
     "meaning": "connected with the state, government or public affairs",
     "pronunciationVariants": [
@@ -7068,7 +7068,7 @@
     "examples": ["a monarch without political power"]
   },
   {
-    "id": "word_popular",
+    "id": "word_en_popular",
     "word": "popular",
     "meaning": "liked or enjoyed by a large number of people",
     "pronunciationVariants": [
@@ -7089,7 +7089,7 @@
     "examples": ["Andalucia is a popular tourist destination."]
   },
   {
-    "id": "word_possible",
+    "id": "word_en_possible",
     "word": "possible",
     "meaning": "that can be done or achieved",
     "pronunciationVariants": [
@@ -7112,7 +7112,7 @@
     ]
   },
   {
-    "id": "word_powerful",
+    "id": "word_en_powerful",
     "word": "powerful",
     "meaning": "being able to control and influence people and events",
     "pronunciationVariants": [
@@ -7133,7 +7133,7 @@
     "examples": ["an incredibly powerful organization"]
   },
   {
-    "id": "word_practical",
+    "id": "word_en_practical",
     "word": "practical",
     "meaning": "connected with real situations rather than with ideas or theories",
     "pronunciationVariants": [
@@ -7154,7 +7154,7 @@
     "examples": ["to have gained practical experience of the work"]
   },
   {
-    "id": "word_pregnant",
+    "id": "word_en_pregnant",
     "word": "pregnant",
     "meaning": "having a baby or young animal developing inside her/its body",
     "pronunciationVariants": [
@@ -7175,7 +7175,7 @@
     "examples": ["My wife is pregnant."]
   },
   {
-    "id": "word_prepared",
+    "id": "word_en_prepared",
     "word": "prepared",
     "meaning": "ready and able to deal with something",
     "pronunciationVariants": [
@@ -7196,7 +7196,7 @@
     "examples": ["We'll be better prepared next time."]
   },
   {
-    "id": "word_pretty",
+    "id": "word_en_pretty",
     "word": "pretty",
     "meaning": "attractive without being very beautiful",
     "pronunciationVariants": [
@@ -7217,7 +7217,7 @@
     "examples": ["a pretty face"]
   },
   {
-    "id": "word_previous",
+    "id": "word_en_previous",
     "word": "previous",
     "meaning": "happening or existing before the event or object that you are talking about",
     "pronunciationVariants": [
@@ -7238,7 +7238,7 @@
     "examples": ["No previous experience is necessary for this job."]
   },
   {
-    "id": "word_primary",
+    "id": "word_en_primary",
     "word": "primary",
     "meaning": "connected with the education of children between the ages of about five and eleven",
     "pronunciationVariants": [
@@ -7259,7 +7259,7 @@
     "examples": ["primary teachers"]
   },
   {
-    "id": "word_prime",
+    "id": "word_en_prime",
     "word": "prime",
     "meaning": "main; most important; basic",
     "pronunciationVariants": [
@@ -7280,7 +7280,7 @@
     "examples": ["My prime concern is to protect my property."]
   },
   {
-    "id": "word_private",
+    "id": "word_en_private",
     "word": "private",
     "meaning": "belonging to or for the use of a particular person or group; not for public use",
     "pronunciationVariants": [
@@ -7301,7 +7301,7 @@
     "examples": ["The sign said, ‘Private property. Keep out.’"]
   },
   {
-    "id": "word_proper",
+    "id": "word_en_proper",
     "word": "proper",
     "meaning": "right, appropriate or correct; according to the rules",
     "pronunciationVariants": [
@@ -7322,7 +7322,7 @@
     "examples": ["We should have had a proper discussion before voting."]
   },
   {
-    "id": "word_proud",
+    "id": "word_en_proud",
     "word": "proud",
     "meaning": "feeling pleased and satisfied about something that you own or have done, or are connected with",
     "pronunciationVariants": [
@@ -7343,7 +7343,7 @@
     "examples": ["proud parents"]
   },
   {
-    "id": "word_pure",
+    "id": "word_en_pure",
     "word": "pure",
     "meaning": "not mixed with anything else; with nothing added",
     "pronunciationVariants": [
@@ -7364,7 +7364,7 @@
     "examples": ["pure gold"]
   },
   {
-    "id": "word_qualified",
+    "id": "word_en_qualified",
     "word": "qualified",
     "meaning": "having passed the exams or completed the training that are necessary in order to do a particular job; having the experience to do a particular job",
     "pronunciationVariants": [
@@ -7385,7 +7385,7 @@
     "examples": ["a qualified teacher"]
   },
   {
-    "id": "word_quick",
+    "id": "word_en_quick",
     "word": "quick",
     "meaning": "done with speed; taking or lasting a short time",
     "pronunciationVariants": [
@@ -7406,7 +7406,7 @@
     "examples": ["a quick look/check/search"]
   },
   {
-    "id": "word_rapid",
+    "id": "word_en_rapid",
     "word": "rapid",
     "meaning": "happening quickly or in a short period of time",
     "pronunciationVariants": [
@@ -7427,7 +7427,7 @@
     "examples": ["rapid change/expansion/growth/development"]
   },
   {
-    "id": "word_rare",
+    "id": "word_en_rare",
     "word": "rare",
     "meaning": "not done, seen, happening, etc. very often",
     "pronunciationVariants": [
@@ -7448,7 +7448,7 @@
     "examples": ["a rare disease/occurrence/event"]
   },
   {
-    "id": "word_raw",
+    "id": "word_en_raw",
     "word": "raw",
     "meaning": "not cooked",
     "pronunciationVariants": [
@@ -7469,7 +7469,7 @@
     "examples": ["raw meat"]
   },
   {
-    "id": "word_ready",
+    "id": "word_en_ready",
     "word": "ready",
     "meaning": "fully prepared for what you are going to do and able to start it immediately",
     "pronunciationVariants": [
@@ -7490,7 +7490,7 @@
     "examples": ["Just a minute—I'm almost ready."]
   },
   {
-    "id": "word_real",
+    "id": "word_en_real",
     "word": "real",
     "meaning": "actually existing or happening and not imagined or pretended",
     "pronunciationVariants": [
@@ -7511,7 +7511,7 @@
     "examples": ["a real danger/risk/threat/concern"]
   },
   {
-    "id": "word_realistic",
+    "id": "word_en_realistic",
     "word": "realistic",
     "meaning": "accepting in a sensible way what it is actually possible to do or achieve in a particular situation",
     "pronunciationVariants": [
@@ -7532,7 +7532,7 @@
     "examples": ["a realistic assessment/approach/view"]
   },
   {
-    "id": "word_reasonable",
+    "id": "word_en_reasonable",
     "word": "reasonable",
     "meaning": "fair, practical, and sensible",
     "pronunciationVariants": [
@@ -7555,7 +7555,7 @@
     ]
   },
   {
-    "id": "word_recent",
+    "id": "word_en_recent",
     "word": "recent",
     "meaning": "that happened or began only a short time ago",
     "pronunciationVariants": [
@@ -7576,7 +7576,7 @@
     "examples": ["a recent study/report/survey"]
   },
   {
-    "id": "word_regional",
+    "id": "word_en_regional",
     "word": "regional",
     "meaning": "of or relating to a region",
     "pronunciationVariants": [
@@ -7597,7 +7597,7 @@
     "examples": ["services available at a local and regional level"]
   },
   {
-    "id": "word_regular",
+    "id": "word_en_regular",
     "word": "regular",
     "meaning": "following a pattern, especially with the same time or space in between each thing and the next",
     "pronunciationVariants": [
@@ -7618,7 +7618,7 @@
     "examples": ["regular breathing"]
   },
   {
-    "id": "word_related",
+    "id": "word_en_related",
     "word": "related",
     "meaning": "connected with something/somebody in some way",
     "pronunciationVariants": [
@@ -7641,7 +7641,7 @@
     ]
   },
   {
-    "id": "word_relaxed",
+    "id": "word_en_relaxed",
     "word": "relaxed",
     "meaning": "calm and not anxious or worried",
     "pronunciationVariants": [
@@ -7662,7 +7662,7 @@
     "examples": ["He appeared relaxed and confident before the match."]
   },
   {
-    "id": "word_relaxing",
+    "id": "word_en_relaxing",
     "word": "relaxing",
     "meaning": "helping you to rest and become less anxious",
     "pronunciationVariants": [
@@ -7683,7 +7683,7 @@
     "examples": ["a relaxing evening with friends"]
   },
   {
-    "id": "word_relevant",
+    "id": "word_en_relevant",
     "word": "relevant",
     "meaning": "closely connected with the subject you are discussing or the situation you are in",
     "pronunciationVariants": [
@@ -7704,7 +7704,7 @@
     "examples": ["relevant information/facts/documents/factors"]
   },
   {
-    "id": "word_reliable",
+    "id": "word_en_reliable",
     "word": "reliable",
     "meaning": "that can be trusted to do something well; that you can rely on",
     "pronunciationVariants": [
@@ -7725,7 +7725,7 @@
     "examples": ["We are looking for someone who is reliable and hard-working."]
   },
   {
-    "id": "word_religious",
+    "id": "word_en_religious",
     "word": "religious",
     "meaning": "connected with religion or with a particular religion",
     "pronunciationVariants": [
@@ -7746,7 +7746,7 @@
     "examples": ["religious beliefs/convictions/faith"]
   },
   {
-    "id": "word_remote",
+    "id": "word_en_remote",
     "word": "remote",
     "meaning": "far away from places where other people live",
     "pronunciationVariants": [
@@ -7767,7 +7767,7 @@
     "examples": ["a remote village/island/location/region"]
   },
   {
-    "id": "word_repeated",
+    "id": "word_en_repeated",
     "word": "repeated",
     "meaning": "happening, said or done many times",
     "pronunciationVariants": [
@@ -7788,7 +7788,7 @@
     "examples": ["repeated absences from work"]
   },
   {
-    "id": "word_responsible",
+    "id": "word_en_responsible",
     "word": "responsible",
     "meaning": "having the job or duty of doing something or taking care of somebody/something, so that you may be blamed if something goes wrong",
     "pronunciationVariants": [
@@ -7811,7 +7811,7 @@
     ]
   },
   {
-    "id": "word_retired",
+    "id": "word_en_retired",
     "word": "retired",
     "meaning": "having retired from work",
     "pronunciationVariants": [
@@ -7832,7 +7832,7 @@
     "examples": ["a retired doctor/teacher/officer/general"]
   },
   {
-    "id": "word_romantic",
+    "id": "word_en_romantic",
     "word": "romantic",
     "meaning": "connected with or about love or a sexual relationship",
     "pronunciationVariants": [
@@ -7853,7 +7853,7 @@
     "examples": ["a romantic candlelit dinner"]
   },
   {
-    "id": "word_rough",
+    "id": "word_en_rough",
     "word": "rough",
     "meaning": "having a surface that is not even or regular",
     "pronunciationVariants": [
@@ -7874,7 +7874,7 @@
     "examples": ["rough ground"]
   },
   {
-    "id": "word_royal",
+    "id": "word_en_royal",
     "word": "royal",
     "meaning": "connected with or belonging to the king or queen of a country",
     "pronunciationVariants": [
@@ -7895,7 +7895,7 @@
     "examples": ["the royal family"]
   },
   {
-    "id": "word_rude",
+    "id": "word_en_rude",
     "word": "rude",
     "meaning": "having or showing a lack of respect for other people and their feelings",
     "pronunciationVariants": [
@@ -7916,7 +7916,7 @@
     "examples": ["a rude comment/remark"]
   },
   {
-    "id": "word_rural",
+    "id": "word_en_rural",
     "word": "rural",
     "meaning": "connected with or like the countryside",
     "pronunciationVariants": [
@@ -7937,7 +7937,7 @@
     "examples": ["rural areas"]
   },
   {
-    "id": "word_safe",
+    "id": "word_en_safe",
     "word": "safe",
     "meaning": "protected from any danger, harm or loss",
     "pronunciationVariants": [
@@ -7958,7 +7958,7 @@
     "examples": ["The children are quite safe here."]
   },
   {
-    "id": "word_satisfied",
+    "id": "word_en_satisfied",
     "word": "satisfied",
     "meaning": "pleased because you have achieved something or because something that you wanted to happen has happened",
     "pronunciationVariants": [
@@ -7979,7 +7979,7 @@
     "examples": ["a satisfied customer"]
   },
   {
-    "id": "word_scared",
+    "id": "word_en_scared",
     "word": "scared",
     "meaning": "frightened of something or afraid that something bad might happen",
     "pronunciationVariants": [
@@ -8000,7 +8000,7 @@
     "examples": ["The thieves got scared and ran away."]
   },
   {
-    "id": "word_scary",
+    "id": "word_en_scary",
     "word": "scary",
     "meaning": "frightening",
     "pronunciationVariants": [
@@ -8021,7 +8021,7 @@
     "examples": ["It was a really scary moment."]
   },
   {
-    "id": "word_scientific",
+    "id": "word_en_scientific",
     "word": "scientific",
     "meaning": "involving science; connected with science",
     "pronunciationVariants": [
@@ -8042,7 +8042,7 @@
     "examples": ["a scientific discovery/theory/fact"]
   },
   {
-    "id": "word_secondary",
+    "id": "word_en_secondary",
     "word": "secondary",
     "meaning": "connected with teaching children of 11–18 years",
     "pronunciationVariants": [
@@ -8063,7 +8063,7 @@
     "examples": ["secondary teachers"]
   },
   {
-    "id": "word_senior",
+    "id": "word_en_senior",
     "word": "senior",
     "meaning": "high in rank or status; higher in rank or status than others",
     "pronunciationVariants": [
@@ -8084,7 +8084,7 @@
     "examples": ["a senior official/officer/manager/executive"]
   },
   {
-    "id": "word_sensible",
+    "id": "word_en_sensible",
     "word": "sensible",
     "meaning": "able to make good judgements based on reason and experience rather than emotion; practical",
     "pronunciationVariants": [
@@ -8105,7 +8105,7 @@
     "examples": ["She's a sensible sort of person."]
   },
   {
-    "id": "word_sensitive",
+    "id": "word_en_sensitive",
     "word": "sensitive",
     "meaning": "aware of and able to understand other people and their feelings",
     "pronunciationVariants": [
@@ -8126,7 +8126,7 @@
     "examples": ["a sensitive and caring man"]
   },
   {
-    "id": "word_serious",
+    "id": "word_en_serious",
     "word": "serious",
     "meaning": "bad or dangerous",
     "pronunciationVariants": [
@@ -8147,7 +8147,7 @@
     "examples": ["a serious illness/offence/crime"]
   },
   {
-    "id": "word_severe",
+    "id": "word_en_severe",
     "word": "severe",
     "meaning": "extremely bad or serious",
     "pronunciationVariants": [
@@ -8168,7 +8168,7 @@
     "examples": ["His injuries are severe."]
   },
   {
-    "id": "word_sexual",
+    "id": "word_en_sexual",
     "word": "sexual",
     "meaning": "connected with the physical activity of sex",
     "pronunciationVariants": [
@@ -8189,7 +8189,7 @@
     "examples": ["sexual behaviour/activity/desire"]
   },
   {
-    "id": "word_shallow",
+    "id": "word_en_shallow",
     "word": "shallow",
     "meaning": "not having much distance between the top or surface and the bottom",
     "pronunciationVariants": [
@@ -8210,7 +8210,7 @@
     "examples": ["a shallow dish/pan/bowl"]
   },
   {
-    "id": "word_sharp",
+    "id": "word_en_sharp",
     "word": "sharp",
     "meaning": "having a fine edge or point, especially of something that can cut or make a hole in something",
     "pronunciationVariants": [
@@ -8231,7 +8231,7 @@
     "examples": ["a sharp knife"]
   },
   {
-    "id": "word_shiny",
+    "id": "word_en_shiny",
     "word": "shiny",
     "meaning": "smooth and bright; reflecting the light",
     "pronunciationVariants": [
@@ -8252,7 +8252,7 @@
     "examples": ["shiny black hair"]
   },
   {
-    "id": "word_shocked",
+    "id": "word_en_shocked",
     "word": "shocked",
     "meaning": "surprised and upset; showing that somebody feels surprised and upset ",
     "pronunciationVariants": [
@@ -8273,7 +8273,7 @@
     "examples": ["I was quite shocked when I found out what he'd done."]
   },
   {
-    "id": "word_shy",
+    "id": "word_en_shy",
     "word": "shy",
     "meaning": "nervous or embarrassed about meeting and speaking to other people",
     "pronunciationVariants": [
@@ -8294,7 +8294,7 @@
     "examples": ["He is not exactly the shy and retiring type."]
   },
   {
-    "id": "word_sick",
+    "id": "word_en_sick",
     "word": "sick",
     "meaning": "physically or mentally ill",
     "pronunciationVariants": [
@@ -8315,7 +8315,7 @@
     "examples": ["a sick child"]
   },
   {
-    "id": "word_significant",
+    "id": "word_en_significant",
     "word": "significant",
     "meaning": "large or important enough to have an effect or to be noticed",
     "pronunciationVariants": [
@@ -8336,7 +8336,7 @@
     "examples": ["There are no significant differences between the two groups of students."]
   },
   {
-    "id": "word_silent",
+    "id": "word_en_silent",
     "word": "silent",
     "meaning": "where there is little or no sound; making little or no sound",
     "pronunciationVariants": [
@@ -8357,7 +8357,7 @@
     "examples": ["At last the traffic fell silent."]
   },
   {
-    "id": "word_silly",
+    "id": "word_en_silly",
     "word": "silly",
     "meaning": "showing a lack of thought, understanding, or judgement",
     "pronunciationVariants": [
@@ -8378,7 +8378,7 @@
     "examples": ["a silly idea/question/name"]
   },
   {
-    "id": "word_similar",
+    "id": "word_en_similar",
     "word": "similar",
     "meaning": "like somebody/something but not exactly the same",
     "pronunciationVariants": [
@@ -8399,7 +8399,7 @@
     "examples": ["We have very similar interests."]
   },
   {
-    "id": "word_simple",
+    "id": "word_en_simple",
     "word": "simple",
     "meaning": "not complicated; easy to understand or do",
     "pronunciationVariants": [
@@ -8420,7 +8420,7 @@
     "examples": ["a simple solution/explanation/question/task/example "]
   },
   {
-    "id": "word_sincere",
+    "id": "word_en_sincere",
     "word": "sincere",
     "meaning": "showing what you really think or feel",
     "pronunciationVariants": [
@@ -8441,7 +8441,7 @@
     "examples": ["a sincere apology"]
   },
   {
-    "id": "word_slight",
+    "id": "word_en_slight",
     "word": "slight",
     "meaning": "very small in degree",
     "pronunciationVariants": [
@@ -8462,7 +8462,7 @@
     "examples": ["a slight increase/change/difference"]
   },
   {
-    "id": "word_smooth",
+    "id": "word_en_smooth",
     "word": "smooth",
     "meaning": "completely flat and even, without any rough areas or holes",
     "pronunciationVariants": [
@@ -8483,7 +8483,7 @@
     "examples": ["the smooth surface of the metal"]
   },
   {
-    "id": "word_social",
+    "id": "word_en_social",
     "word": "social",
     "meaning": "connected with activities in which people meet each other for pleasure",
     "pronunciationVariants": [
@@ -8504,7 +8504,7 @@
     "examples": ["She has a busy social life."]
   },
   {
-    "id": "word_soft",
+    "id": "word_en_soft",
     "word": "soft",
     "meaning": "changing shape easily when pressed; not stiff or hard",
     "pronunciationVariants": [
@@ -8525,7 +8525,7 @@
     "examples": ["soft margarine"]
   },
   {
-    "id": "word_solar",
+    "id": "word_en_solar",
     "word": "solar",
     "meaning": "of or connected with the sun",
     "pronunciationVariants": [
@@ -8546,7 +8546,7 @@
     "examples": ["solar radiation"]
   },
   {
-    "id": "word_southern",
+    "id": "word_en_southern",
     "word": "southern",
     "meaning": "located in the south or facing south; connected with or typical of the south part of the world or a region",
     "pronunciationVariants": [
@@ -8567,7 +8567,7 @@
     "examples": ["the southern slopes of the mountains"]
   },
   {
-    "id": "word_special",
+    "id": "word_en_special",
     "word": "special",
     "meaning": "not ordinary or usual; different from what is normal",
     "pronunciationVariants": [
@@ -8588,7 +8588,7 @@
     "examples": ["The school will only allow this in special circumstances."]
   },
   {
-    "id": "word_specific",
+    "id": "word_en_specific",
     "word": "specific",
     "meaning": "connected with one particular thing only",
     "pronunciationVariants": [
@@ -8609,7 +8609,7 @@
     "examples": ["specific needs/requirements"]
   },
   {
-    "id": "word_spicy",
+    "id": "word_en_spicy",
     "word": "spicy",
     "meaning": "having a strong taste because spices have been added to it",
     "pronunciationVariants": [
@@ -8630,7 +8630,7 @@
     "examples": ["I don't like spicy food."]
   },
   {
-    "id": "word_spiritual",
+    "id": "word_en_spiritual",
     "word": "spiritual",
     "meaning": "connected with the human spirit, rather than the body or physical things",
     "pronunciationVariants": [
@@ -8651,7 +8651,7 @@
     "examples": ["a spiritual experience"]
   },
   {
-    "id": "word_spoken",
+    "id": "word_en_spoken",
     "word": "spoken",
     "meaning": "involving speaking rather than writing; expressed in speech rather than in writing",
     "pronunciationVariants": [
@@ -8672,7 +8672,7 @@
     "examples": ["spoken English"]
   },
   {
-    "id": "word_stable",
+    "id": "word_en_stable",
     "word": "stable",
     "meaning": "fixed or steady; not likely to move, change or fail",
     "pronunciationVariants": [
@@ -8693,7 +8693,7 @@
     "examples": ["The patient's condition is stable (= it is not getting worse)."]
   },
   {
-    "id": "word_steady",
+    "id": "word_en_steady",
     "word": "steady",
     "meaning": "developing, growing, etc. gradually and in an even and regular way",
     "pronunciationVariants": [
@@ -8714,7 +8714,7 @@
     "examples": ["We've had five years of steady economic growth."]
   },
   {
-    "id": "word_steep",
+    "id": "word_en_steep",
     "word": "steep",
     "meaning": "rising or falling quickly, not gradually",
     "pronunciationVariants": [
@@ -8735,7 +8735,7 @@
     "examples": ["a steep hill/slope"]
   },
   {
-    "id": "word_sticky",
+    "id": "word_en_sticky",
     "word": "sticky",
     "meaning": "made of or covered in a substance that sticks to things that touch it",
     "pronunciationVariants": [
@@ -8756,7 +8756,7 @@
     "examples": ["sticky fingers covered in jam"]
   },
   {
-    "id": "word_stiff",
+    "id": "word_en_stiff",
     "word": "stiff",
     "meaning": "difficult to bend or move",
     "pronunciationVariants": [
@@ -8777,7 +8777,7 @@
     "examples": ["a sheet of stiff black cardboard"]
   },
   {
-    "id": "word_straight",
+    "id": "word_en_straight",
     "word": "straight",
     "meaning": "without a bend or curve; going in one direction only",
     "pronunciationVariants": [
@@ -8798,7 +8798,7 @@
     "examples": ["a straight road"]
   },
   {
-    "id": "word_strange",
+    "id": "word_en_strange",
     "word": "strange",
     "meaning": "unusual or surprising, especially in a way that is difficult to understand",
     "pronunciationVariants": [
@@ -8819,7 +8819,7 @@
     "examples": ["A strange thing happened this morning."]
   },
   {
-    "id": "word_strict",
+    "id": "word_en_strict",
     "word": "strict",
     "meaning": "that must be obeyed exactly",
     "pronunciationVariants": [
@@ -8840,7 +8840,7 @@
     "examples": ["strict rules/regulations"]
   },
   {
-    "id": "word_successful",
+    "id": "word_en_successful",
     "word": "successful",
     "meaning": "achieving your aims or what was intended",
     "pronunciationVariants": [
@@ -8861,7 +8861,7 @@
     "examples": ["The experiment was entirely successful."]
   },
   {
-    "id": "word_sudden",
+    "id": "word_en_sudden",
     "word": "sudden",
     "meaning": "happening or done quickly and unexpectedly",
     "pronunciationVariants": [
@@ -8882,7 +8882,7 @@
     "examples": ["News of his sudden and unexpected death came as a great shock."]
   },
   {
-    "id": "word_suitable",
+    "id": "word_en_suitable",
     "word": "suitable",
     "meaning": "right or appropriate for a particular purpose or occasion",
     "pronunciationVariants": [
@@ -8903,7 +8903,7 @@
     "examples": ["a suitable candidate"]
   },
   {
-    "id": "word_sure",
+    "id": "word_en_sure",
     "word": "sure",
     "meaning": "confident that you know something or that you are right",
     "pronunciationVariants": [
@@ -8924,7 +8924,7 @@
     "examples": ["‘Is that John over there?’ ‘I'm not sure’."]
   },
   {
-    "id": "word_surprised",
+    "id": "word_en_surprised",
     "word": "surprised",
     "meaning": "feeling or showing surprise",
     "pronunciationVariants": [
@@ -8945,7 +8945,7 @@
     "examples": ["a surprised look"]
   },
   {
-    "id": "word_surprising",
+    "id": "word_en_surprising",
     "word": "surprising",
     "meaning": "causing surprise",
     "pronunciationVariants": [
@@ -8966,7 +8966,7 @@
     "examples": ["It’s not surprising (that) they lost."]
   },
   {
-    "id": "word_surrounding",
+    "id": "word_en_surrounding",
     "word": "surrounding",
     "meaning": "that is near or around something",
     "pronunciationVariants": [
@@ -8987,7 +8987,7 @@
     "examples": ["Oxford and the surrounding area"]
   },
   {
-    "id": "word_talented",
+    "id": "word_en_talented",
     "word": "talented",
     "meaning": "having a natural ability to do something well",
     "pronunciationVariants": [
@@ -9008,7 +9008,7 @@
     "examples": ["a talented player/musician/artist "]
   },
   {
-    "id": "word_technical",
+    "id": "word_en_technical",
     "word": "technical",
     "meaning": "connected with the practical use of machines, methods, etc. in science and industry",
     "pronunciationVariants": [
@@ -9029,7 +9029,7 @@
     "examples": ["We offer free technical support for those buying our software."]
   },
   {
-    "id": "word_teenage",
+    "id": "word_en_teenage",
     "word": "teenage",
     "meaning": "between 13 and 19 years old; connected with people of this age",
     "pronunciationVariants": [
@@ -9050,7 +9050,7 @@
     "examples": ["a teenage girl/boy"]
   },
   {
-    "id": "word_temporary",
+    "id": "word_en_temporary",
     "word": "temporary",
     "meaning": "lasting or intended to last or be used only for a short time; not permanent",
     "pronunciationVariants": [
@@ -9071,7 +9071,7 @@
     "examples": ["to hire temporary workers"]
   },
   {
-    "id": "word_terrible",
+    "id": "word_en_terrible",
     "word": "terrible",
     "meaning": "very unpleasant; making you feel very unhappy, upset or frightened",
     "pronunciationVariants": [
@@ -9092,7 +9092,7 @@
     "examples": ["a terrible experience"]
   },
   {
-    "id": "word_thick",
+    "id": "word_en_thick",
     "word": "thick",
     "meaning": "having a larger distance between opposite sides or surfaces than other similar objects or than normal",
     "pronunciationVariants": [
@@ -9113,7 +9113,7 @@
     "examples": ["a thick slice of bread"]
   },
   {
-    "id": "word_thin",
+    "id": "word_en_thin",
     "word": "thin",
     "meaning": "having a smaller distance between opposite sides or surfaces than other similar objects or than normal",
     "pronunciationVariants": [
@@ -9134,7 +9134,7 @@
     "examples": ["Cut the vegetables into thin strips."]
   },
   {
-    "id": "word_thirsty",
+    "id": "word_en_thirsty",
     "word": "thirsty",
     "meaning": "needing or wanting to drink",
     "pronunciationVariants": [
@@ -9155,7 +9155,7 @@
     "examples": ["We were hungry and thirsty."]
   },
   {
-    "id": "word_tight",
+    "id": "word_en_tight",
     "word": "tight",
     "meaning": "held or fixed in position securely; difficult to move, open or separate",
     "pronunciationVariants": [
@@ -9176,7 +9176,7 @@
     "examples": ["He kept a tight grip on her arm."]
   },
   {
-    "id": "word_tiny",
+    "id": "word_en_tiny",
     "word": "tiny",
     "meaning": "very small in size or amount",
     "pronunciationVariants": [
@@ -9197,7 +9197,7 @@
     "examples": ["a tiny baby"]
   },
   {
-    "id": "word_tired",
+    "id": "word_en_tired",
     "word": "tired",
     "meaning": "feeling that you would like to sleep or rest; needing rest",
     "pronunciationVariants": [
@@ -9218,7 +9218,7 @@
     "examples": ["to be/look/feel tired"]
   },
   {
-    "id": "word_tough",
+    "id": "word_en_tough",
     "word": "tough",
     "meaning": "having or causing problems or difficulties",
     "pronunciationVariants": [
@@ -9239,7 +9239,7 @@
     "examples": ["a tough childhood"]
   },
   {
-    "id": "word_traditional",
+    "id": "word_en_traditional",
     "word": "traditional",
     "meaning": "being part of the beliefs, customs or way of life of a particular group of people, that have not changed for a long time",
     "pronunciationVariants": [
@@ -9260,7 +9260,7 @@
     "examples": ["traditional dress/music/art/culture/dance"]
   },
   {
-    "id": "word_tropical",
+    "id": "word_en_tropical",
     "word": "tropical",
     "meaning": "coming from, found in or typical of the tropics",
     "pronunciationVariants": [
@@ -9281,7 +9281,7 @@
     "examples": ["tropical fish/birds/fruit"]
   },
   {
-    "id": "word_true",
+    "id": "word_en_true",
     "word": "true",
     "meaning": "connected with facts rather than things that have been invented or guessed",
     "pronunciationVariants": [
@@ -9302,7 +9302,7 @@
     "examples": ["Indicate whether the following statements are true or false."]
   },
   {
-    "id": "word_typical",
+    "id": "word_en_typical",
     "word": "typical",
     "meaning": "having the usual qualities or features of a particular type of person, thing or group",
     "pronunciationVariants": [
@@ -9323,7 +9323,7 @@
     "examples": ["a typical Italian cafe"]
   },
   {
-    "id": "word_unable",
+    "id": "word_en_unable",
     "word": "unable",
     "meaning": "not having the skill, strength, time, knowledge, etc. to do something",
     "pronunciationVariants": [
@@ -9344,7 +9344,7 @@
     "examples": ["a former soldier who has been unable to find work since the war ended"]
   },
   {
-    "id": "word_uncomfortable",
+    "id": "word_en_uncomfortable",
     "word": "uncomfortable",
     "meaning": "not letting you feel physically comfortable; unpleasant to wear, sit on, etc.",
     "pronunciationVariants": [
@@ -9365,7 +9365,7 @@
     "examples": ["uncomfortable shoes"]
   },
   {
-    "id": "word_unconscious",
+    "id": "word_en_unconscious",
     "word": "unconscious",
     "meaning": "in a state like sleep because of an injury or illness, and not able to use your senses",
     "pronunciationVariants": [
@@ -9386,7 +9386,7 @@
     "examples": ["They found him lying unconscious on the floor."]
   },
   {
-    "id": "word_underground",
+    "id": "word_en_underground",
     "word": "underground",
     "meaning": "under the surface of the ground",
     "pronunciationVariants": [
@@ -9407,7 +9407,7 @@
     "examples": ["an underground bunker/tunnel"]
   },
   {
-    "id": "word_unemployed",
+    "id": "word_en_unemployed",
     "word": "unemployed",
     "meaning": "without a job although able to work",
     "pronunciationVariants": [
@@ -9428,7 +9428,7 @@
     "examples": ["How long have you been unemployed?"]
   },
   {
-    "id": "word_unexpected",
+    "id": "word_en_unexpected",
     "word": "unexpected",
     "meaning": "if something is unexpected, it surprises you because you were not expecting it",
     "pronunciationVariants": [
@@ -9449,7 +9449,7 @@
     "examples": ["Things took an unexpected turn."]
   },
   {
-    "id": "word_unfair",
+    "id": "word_en_unfair",
     "word": "unfair",
     "meaning": "not right or fair according to a set of rules or principles; not treating people equally",
     "pronunciationVariants": [
@@ -9470,7 +9470,7 @@
     "examples": ["They had been given an unfair advantage."]
   },
   {
-    "id": "word_unhappy",
+    "id": "word_en_unhappy",
     "word": "unhappy",
     "meaning": "not happy; sad",
     "pronunciationVariants": [
@@ -9491,7 +9491,7 @@
     "examples": ["to feel/look/seem/sound/become unhappy"]
   },
   {
-    "id": "word_unique",
+    "id": "word_en_unique",
     "word": "unique",
     "meaning": "being the only one of its kind",
     "pronunciationVariants": [
@@ -9512,7 +9512,7 @@
     "examples": ["Everyone's fingerprints are unique."]
   },
   {
-    "id": "word_united",
+    "id": "word_en_united",
     "word": "united",
     "meaning": "joined together as a political unit or by shared aims",
     "pronunciationVariants": [
@@ -9533,7 +9533,7 @@
     "examples": ["the United States of America"]
   },
   {
-    "id": "word_unknown",
+    "id": "word_en_unknown",
     "word": "unknown",
     "meaning": "not known or identified",
     "pronunciationVariants": [
@@ -9554,7 +9554,7 @@
     "examples": [" A previously unknown group claimed responsibility for the bombing."]
   },
   {
-    "id": "word_unlikely",
+    "id": "word_en_unlikely",
     "word": "unlikely",
     "meaning": "not likely to happen; not probable",
     "pronunciationVariants": [
@@ -9575,7 +9575,7 @@
     "examples": ["unlikely to do something, The project seemed unlikely to succeed."]
   },
   {
-    "id": "word_unnecessary",
+    "id": "word_en_unnecessary",
     "word": "unnecessary",
     "meaning": "not needed; more than is needed",
     "pronunciationVariants": [
@@ -9596,7 +9596,7 @@
     "examples": ["They were found guilty of causing unnecessary suffering to animals."]
   },
   {
-    "id": "word_unpleasant",
+    "id": "word_en_unpleasant",
     "word": "unpleasant",
     "meaning": "not pleasant or comfortable",
     "pronunciationVariants": [
@@ -9617,7 +9617,7 @@
     "examples": ["an unpleasant experience/surprise/task"]
   },
   {
-    "id": "word_unusual",
+    "id": "word_en_unusual",
     "word": "unusual",
     "meaning": "different from what is usual or normal",
     "pronunciationVariants": [
@@ -9638,7 +9638,7 @@
     "examples": ["The case is highly unusual."]
   },
   {
-    "id": "word_upper",
+    "id": "word_en_upper",
     "word": "upper",
     "meaning": "located above something else, especially something of the same type or the other of a pair",
     "pronunciationVariants": [
@@ -9659,7 +9659,7 @@
     "examples": ["her upper lip"]
   },
   {
-    "id": "word_upstairs",
+    "id": "word_en_upstairs",
     "word": "upstairs",
     "meaning": "on a floor of a house or other building that is higher than the one that you are on",
     "pronunciationVariants": [
@@ -9680,7 +9680,7 @@
     "examples": ["an upstairs room/window/bathroom"]
   },
   {
-    "id": "word_urban",
+    "id": "word_en_urban",
     "word": "urban",
     "meaning": "connected with a town or city",
     "pronunciationVariants": [
@@ -9701,7 +9701,7 @@
     "examples": ["urban and rural communities"]
   },
   {
-    "id": "word_used",
+    "id": "word_en_used",
     "word": "used",
     "meaning": "familiar with something because you do it or experience it often",
     "pronunciationVariants": [
@@ -9722,7 +9722,7 @@
     "examples": ["used to doing something, I'm not used to eating so much at lunchtime."]
   },
   {
-    "id": "word_useful",
+    "id": "word_en_useful",
     "word": "useful",
     "meaning": "that can help you to do or achieve what you want",
     "pronunciationVariants": [
@@ -9743,7 +9743,7 @@
     "examples": ["a useful tool"]
   },
   {
-    "id": "word_usual",
+    "id": "word_en_usual",
     "word": "usual",
     "meaning": "that happens or is done most of the time or in most cases",
     "pronunciationVariants": [
@@ -9764,7 +9764,7 @@
     "examples": ["This is the usual way of doing it."]
   },
   {
-    "id": "word_valuable",
+    "id": "word_en_valuable",
     "word": "valuable",
     "meaning": "worth a lot of money",
     "pronunciationVariants": [
@@ -9785,7 +9785,7 @@
     "examples": ["My home is my most valuable asset."]
   },
   {
-    "id": "word_various",
+    "id": "word_en_various",
     "word": "various",
     "meaning": "several different",
     "pronunciationVariants": [
@@ -9806,7 +9806,7 @@
     "examples": ["various types/forms/kinds of somebody/something "]
   },
   {
-    "id": "word_vast",
+    "id": "word_en_vast",
     "word": "vast",
     "meaning": "extremely large in area, size, amount, etc.",
     "pronunciationVariants": [
@@ -9827,7 +9827,7 @@
     "examples": ["a vast area of forest"]
   },
   {
-    "id": "word_violent",
+    "id": "word_en_violent",
     "word": "violent",
     "meaning": "involving or caused by physical force that is intended to hurt or kill somebody",
     "pronunciationVariants": [
@@ -9848,7 +9848,7 @@
     "examples": ["violent crime/criminals"]
   },
   {
-    "id": "word_virtual",
+    "id": "word_en_virtual",
     "word": "virtual",
     "meaning": "made to appear to exist by the use of computer software, for example on the internet",
     "pronunciationVariants": [
@@ -9869,7 +9869,7 @@
     "examples": ["a system to help programmers create virtual environments "]
   },
   {
-    "id": "word_visual",
+    "id": "word_en_visual",
     "word": "visual",
     "meaning": "of or connected with seeing or sight",
     "pronunciationVariants": [
@@ -9890,7 +9890,7 @@
     "examples": ["the visual arts"]
   },
   {
-    "id": "word_vital",
+    "id": "word_en_vital",
     "word": "vital",
     "meaning": "necessary or essential in order for something to succeed or exist",
     "pronunciationVariants": [
@@ -9911,7 +9911,7 @@
     "examples": ["vital for somebody/something, the vitamins that are vital for health"]
   },
   {
-    "id": "word_wealthy",
+    "id": "word_en_wealthy",
     "word": "wealthy",
     "meaning": "having a lot of money, possessions, etc.",
     "pronunciationVariants": [
@@ -9932,7 +9932,7 @@
     "examples": ["a wealthy businessman/individual/family"]
   },
   {
-    "id": "word_western",
+    "id": "word_en_western",
     "word": "western",
     "meaning": "located in the west or facing west",
     "pronunciationVariants": [
@@ -9953,7 +9953,7 @@
     "examples": ["western Spain"]
   },
   {
-    "id": "word_wet",
+    "id": "word_en_wet",
     "word": "wet",
     "meaning": "covered with or containing liquid, especially water",
     "pronunciationVariants": [
@@ -9974,7 +9974,7 @@
     "examples": ["wet clothes/hair/grass"]
   },
   {
-    "id": "word_wide",
+    "id": "word_en_wide",
     "word": "wide",
     "meaning": "measuring a large distance from one side to the other",
     "pronunciationVariants": [
@@ -9995,7 +9995,7 @@
     "examples": ["It's a wide, fast-flowing river."]
   },
   {
-    "id": "word_wild",
+    "id": "word_en_wild",
     "word": "wild",
     "meaning": "living or growing in natural conditions; not kept in a house or on a farm",
     "pronunciationVariants": [
@@ -10016,7 +10016,7 @@
     "examples": ["wild animals/birds/flowers"]
   },
   {
-    "id": "word_willing",
+    "id": "word_en_willing",
     "word": "willing",
     "meaning": "not objecting to doing something; having no reason for not doing something",
     "pronunciationVariants": [
@@ -10037,7 +10037,7 @@
     "examples": ["Many consumers are willing to pay more for organic food"]
   },
   {
-    "id": "word_wise",
+    "id": "word_en_wise",
     "word": "wise",
     "meaning": "able to make sensible decisions and give good advice because of the experience and knowledge that you have",
     "pronunciationVariants": [
@@ -10058,7 +10058,7 @@
     "examples": ["a wise man"]
   },
   {
-    "id": "word_wonderful",
+    "id": "word_en_wonderful",
     "word": "wonderful",
     "meaning": "very good, pleasant or a lot of fun",
     "pronunciationVariants": [
@@ -10079,7 +10079,7 @@
     "examples": ["This is a wonderful opportunity to invest in new markets."]
   },
   {
-    "id": "word_wooden",
+    "id": "word_en_wooden",
     "word": "wooden",
     "meaning": "made of wood",
     "pronunciationVariants": [
@@ -10100,7 +10100,7 @@
     "examples": ["a wooden box/door/floor"]
   },
   {
-    "id": "word_working",
+    "id": "word_en_working",
     "word": "working",
     "meaning": "having a job for which you are paid",
     "pronunciationVariants": [
@@ -10121,7 +10121,7 @@
     "examples": ["the working population"]
   },
   {
-    "id": "word_worldwide",
+    "id": "word_en_worldwide",
     "word": "worldwide",
     "meaning": "affecting all parts of the world",
     "pronunciationVariants": [
@@ -10142,7 +10142,7 @@
     "examples": ["an increase in worldwide sales"]
   },
   {
-    "id": "word_worried",
+    "id": "word_en_worried",
     "word": "worried",
     "meaning": "thinking about unpleasant things that have happened or that might happen and therefore feeling unhappy and afraid",
     "pronunciationVariants": [
@@ -10163,7 +10163,7 @@
     "examples": ["Don't look so worried!"]
   },
   {
-    "id": "word_written",
+    "id": "word_en_written",
     "word": "written",
     "meaning": "expressed in writing rather than in speech",
     "pronunciationVariants": [

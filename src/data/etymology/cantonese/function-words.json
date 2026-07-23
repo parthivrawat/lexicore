@@ -1,5 +1,71 @@
 {
-  "word_yue_ngo5": {
+  "word_yue_hou_do": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Cantonese",
+        "form": "好多",
+        "period": "Modern",
+        "meaning": "very much / a lot"
+      }
+    ],
+    "cognates": [],
+    "notes": "hou2 (very) + do1 (much)."
+  },
+  "word_yue_waak_ze": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "或者",
+        "period": "c. 7th century CE",
+        "meaning": "perhaps"
+      },
+      {
+        "language": "Cantonese",
+        "form": "或者 (waak6 ze2)",
+        "period": "Modern",
+        "meaning": "maybe"
+      },
+      {
+        "language": "Middle Chinese",
+        "form": "或者",
+        "period": "c. 7th century CE",
+        "meaning": "or"
+      },
+      {
+        "language": "Cantonese",
+        "form": "或者 (waak6 ze2)",
+        "period": "Modern",
+        "meaning": "or"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 或者.; From Middle Chinese 或者."
+  },
+  "word_yue_tung": {
+    "languageOrigin": "Sino-Tibetan",
+    "yearOfOrigin": "c. 10th century CE",
+    "timeline": [
+      {
+        "language": "Middle Chinese",
+        "form": "同",
+        "period": "c. 7th century CE",
+        "meaning": "with, same"
+      },
+      {
+        "language": "Cantonese",
+        "form": "同 (tung4)",
+        "period": "Modern",
+        "meaning": "with"
+      }
+    ],
+    "cognates": [],
+    "notes": "From Middle Chinese 同 (duwng)."
+  },
+  "word_yue_ngo": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -19,7 +85,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 我 (ngaX)."
   },
-  "word_yue_nei5": {
+  "word_yue_nei": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -39,7 +105,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 你 (nriX)."
   },
-  "word_yue_lei5_dei6": {
+  "word_yue_nei_dei": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -53,7 +119,7 @@
     "cognates": [],
     "notes": "nei5 (you) + dei6 (plural marker)."
   },
-  "word_yue_keoi5": {
+  "word_yue_keoi": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -73,7 +139,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 佢 (gi)."
   },
-  "word_yue_ngo5_dei6": {
+  "word_yue_ngo_dei": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -87,7 +153,7 @@
     "cognates": [],
     "notes": "ngo5 (I) + dei6 (plural marker)."
   },
-  "word_yue_keoi5_dei6": {
+  "word_yue_keoi_dei": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -101,49 +167,7 @@
     "cognates": [],
     "notes": "keoi5 (he/she) + dei6 (plural marker)."
   },
-  "word_yue_ni1_go3": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Cantonese",
-        "form": "呢個",
-        "period": "Modern",
-        "meaning": "this"
-      }
-    ],
-    "cognates": [],
-    "notes": "ni1 (this) + go3 (classifier)."
-  },
-  "word_yue_go2_go3": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Cantonese",
-        "form": "嗰個",
-        "period": "Modern",
-        "meaning": "that"
-      }
-    ],
-    "cognates": [],
-    "notes": "go2 (that) + go3 (classifier)."
-  },
-  "word_yue_mat1_je5": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Cantonese",
-        "form": "乜嘢",
-        "period": "Modern",
-        "meaning": "what"
-      }
-    ],
-    "cognates": [],
-    "notes": "mat1 (what) + je5 (thing)."
-  },
-  "word_yue_bin1_go3": {
+  "word_yue_bin_go": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -157,7 +181,7 @@
     "cognates": [],
     "notes": "bin1 (which) + go3 (classifier)."
   },
-  "word_yue_bin1_dou6": {
+  "word_yue_bin_dou": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -171,7 +195,7 @@
     "cognates": [],
     "notes": "bin1 (which) + dou6 (place)."
   },
-  "word_yue_gei2_si4": {
+  "word_yue_gei_si": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -185,7 +209,7 @@
     "cognates": [],
     "notes": "gei2 (which) + si4 (time)."
   },
-  "word_yue_dim2_gaan2": {
+  "word_yue_dim_gaai": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -205,75 +229,7 @@
     "cognates": [],
     "notes": "dim2 (how) + gaai2 (explain)."
   },
-  "word_yue_dim2_joeng2": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Cantonese",
-        "form": "點樣",
-        "period": "Modern",
-        "meaning": "how"
-      }
-    ],
-    "cognates": [],
-    "notes": "dim2 (how) + joeng2 (manner)."
-  },
-  "word_yue_tung4_maai4": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Cantonese",
-        "form": "同埋",
-        "period": "Modern",
-        "meaning": "and"
-      }
-    ],
-    "cognates": [],
-    "notes": "tung4 (with) + maai4 (bury, also)."
-  },
-  "word_yue_waak6_zek3": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Middle Chinese",
-        "form": "或者",
-        "period": "c. 7th century CE",
-        "meaning": "or"
-      },
-      {
-        "language": "Cantonese",
-        "form": "或者 (waak6 ze2)",
-        "period": "Modern",
-        "meaning": "or"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Middle Chinese 或者."
-  },
-  "word_yue_daan6_hai6": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Middle Chinese",
-        "form": "但是",
-        "period": "c. 7th century CE",
-        "meaning": "but"
-      },
-      {
-        "language": "Cantonese",
-        "form": "但是 (daan6 si6)",
-        "period": "Modern",
-        "meaning": "but"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Middle Chinese 但是."
-  },
-  "word_yue_jyu4_gwo2": {
+  "word_yue_jyu_gwo": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -293,7 +249,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 如果."
   },
-  "word_yue_jan1_wai4": {
+  "word_yue_jan_wai": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -313,7 +269,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 因為."
   },
-  "word_yue_m4_hai6": {
+  "word_yue_m_hai": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -326,25 +282,5 @@
     ],
     "cognates": [],
     "notes": "m4 (not) + hai6 (is)."
-  },
-  "word_yue_hai6": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Middle Chinese",
-        "form": "係",
-        "period": "c. 7th century CE",
-        "meaning": "yes, to be"
-      },
-      {
-        "language": "Cantonese",
-        "form": "係 (hai6)",
-        "period": "Modern",
-        "meaning": "yes"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Middle Chinese 係."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "word_yue_hou2": {
+  "word_yue_hou": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -19,7 +19,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 好 (xawX)."
   },
-  "word_yue_m4_hou2": {
+  "word_yue_m_hou": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -33,7 +33,7 @@
     "cognates": [],
     "notes": "m4 (not) + hou2 (good)."
   },
-  "word_yue_daai6": {
+  "word_yue_daai": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -53,7 +53,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 大 (dajH)."
   },
-  "word_yue_sai2": {
+  "word_yue_sai": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -73,7 +73,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 細 (sejH)."
   },
-  "word_yue_coeng4": {
+  "word_yue_coeng": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -93,7 +93,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 長 (trjang)."
   },
-  "word_yue_dyun2": {
+  "word_yue_dyun": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -113,7 +113,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 短 (twonX)."
   },
-  "word_yue_gou1": {
+  "word_yue_gou": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -133,7 +133,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 高 (kaw)."
   },
-  "word_yue_dai1": {
+  "word_yue_dai": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -153,7 +153,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 低 (tej)."
   },
-  "word_yue_san1": {
+  "word_yue_san": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -193,26 +193,6 @@
     "cognates": [],
     "notes": "From Middle Chinese 舊 (gjuwH)."
   },
-  "word_yue_nin4_hei3": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Middle Chinese",
-        "form": "年輕",
-        "period": "c. 7th century CE",
-        "meaning": "young"
-      },
-      {
-        "language": "Cantonese",
-        "form": "年輕 (nin4 hing1)",
-        "period": "Modern",
-        "meaning": "young"
-      }
-    ],
-    "cognates": [],
-    "notes": "nin4 (year) + hing1 (light)."
-  },
   "word_yue_lou5": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
@@ -233,7 +213,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 老 (lawX)."
   },
-  "word_yue_piu3_leng3": {
+  "word_yue_leng": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -253,7 +233,7 @@
     "cognates": [],
     "notes": "Cantonese uses 靚 (leng3) or 漂亮 (piu3 loeng6)."
   },
-  "word_yue_cau3": {
+  "word_yue_cau": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -273,7 +253,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 醜 (trhjuwX)."
   },
-  "word_yue_jit6": {
+  "word_yue_jit": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -293,7 +273,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 熱 (nyet)."
   },
-  "word_yue_dong3": {
+  "word_yue_dung": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -313,7 +293,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 凍 (tuwngH)."
   },
-  "word_yue_faai3": {
+  "word_yue_faai": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -353,7 +333,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 慢 (manH)."
   },
-  "word_yue_ji4_ging1": {
+  "word_yue_jung_ji": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -373,7 +353,7 @@
     "cognates": [],
     "notes": "jung4 (allow) + ji6 (easy)."
   },
-  "word_yue_naahn4": {
+  "word_yue_naan": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [

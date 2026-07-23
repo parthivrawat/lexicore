@@ -2,7 +2,7 @@
   {
     "id": "word_yue_hou",
     "word": "好",
-    "meaning": "good",
+    "meaning": "good / very",
     "pronunciationVariants": [
       {
         "accent": "cantonese",
@@ -10,7 +10,7 @@
       }
     ],
     "category": "adjectives",
-    "examples": ["好好。", "好人。"]
+    "examples": ["好好。", "好人。", "好靚。", "好快。"]
   },
   {
     "id": "word_yue_m_hou",
@@ -117,7 +117,7 @@
     "examples": ["新書。", "新年。"]
   },
   {
-    "id": "word_yue_gau",
+    "id": "word_yue_gau6",
     "word": "舊",
     "meaning": "old",
     "pronunciationVariants": [
@@ -143,7 +143,7 @@
     "examples": ["後生仔。", "好後生。"]
   },
   {
-    "id": "word_yue_lou",
+    "id": "word_yue_lou5",
     "word": "老",
     "meaning": "old (age)",
     "pronunciationVariants": [
@@ -221,7 +221,7 @@
     "examples": ["好快。", "快啲。"]
   },
   {
-    "id": "word_yue_maan",
+    "id": "word_yue_maan6",
     "word": "慢",
     "meaning": "slow",
     "pronunciationVariants": [
@@ -258,5 +258,135 @@
     ],
     "category": "adjectives",
     "examples": ["好難。", "難做。"]
+  },
+  {
+    "id": "word_yue_baak6",
+    "word": "白",
+    "meaning": "white",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "baak⁶"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["白色。", "白紙。"]
+  },
+  {
+    "id": "word_yue_hak",
+    "word": "黑",
+    "meaning": "black",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "hak¹"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["黑色。", "黑衫。"]
+  },
+  {
+    "id": "word_yue_hung",
+    "word": "紅",
+    "meaning": "red",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "hung⁴"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["紅色。", "紅花。"]
+  },
+  {
+    "id": "word_yue_laam",
+    "word": "藍",
+    "meaning": "blue",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "laam⁴"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["藍色。", "藍天。"]
+  },
+  {
+    "id": "word_yue_luk6",
+    "word": "綠",
+    "meaning": "green",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "luk⁶"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["綠色。", "綠草。"]
+  },
+  {
+    "id": "word_yue_wong",
+    "word": "黃",
+    "meaning": "yellow",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "wong⁴"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["黃色。", "黃花。"]
+  },
+  {
+    "id": "word_yue_hoi_sam",
+    "word": "開心",
+    "meaning": "happy",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "hoi¹ sam¹"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["好開心。", "開心日。"]
+  },
+  {
+    "id": "word_yue_cung",
+    "word": "重",
+    "meaning": "heavy",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "cung⁵"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["好重。", "重嘢。"]
+  },
+  {
+    "id": "word_yue_heng",
+    "word": "輕",
+    "meaning": "light",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "heng¹"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["好輕。", "輕嘢。"]
+  },
+  {
+    "id": "word_yue_baau",
+    "word": "飽",
+    "meaning": "full",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "baau²"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["好飽。", "飽咗。"]
   }
 ]

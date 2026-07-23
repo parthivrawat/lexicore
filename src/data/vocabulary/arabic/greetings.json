@@ -193,5 +193,109 @@
     ],
     "category": "greetings",
     "examples": ["مبروك على النجاح!", "مبروك الزواج."]
+  },
+  {
+    "id": "word_ar_min_fadlik",
+    "word": "من فضلكِ",
+    "meaning": "please (to a female)",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "min fadlik"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["من فضلكِ، ساعديني.", "من فضلكِ، أعطيني الماء."]
+  },
+  {
+    "id": "word_ar_hasanan",
+    "word": "حسنا",
+    "meaning": "okay",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ħasanan"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["حسنا، سأفعل ذلك.", "حسنا، فهمت."]
+  },
+  {
+    "id": "word_ar_bil_tab",
+    "word": "بالطبع",
+    "meaning": "of course",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "biltˤabʕ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["بالطبع، سأساعدك.", "بالطبع، أنا موافق."]
+  },
+  {
+    "id": "word_ar_takallam_bibut",
+    "word": "تكلم ببطء",
+    "meaning": "speak slowly",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "takallam bibutˤʔ"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["تكلم ببطء من فضلك.", "تكلم ببطء قليلا."]
+  },
+  {
+    "id": "word_ar_mutfahim",
+    "word": "متفهم",
+    "meaning": "I understand",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "mutfahhim"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["نعم، أنا متفهم.", "أنا متفهم الدرس."]
+  },
+  {
+    "id": "word_ar_la_afham",
+    "word": "لا أفهم",
+    "meaning": "I don't understand",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "laː ʔafhamu"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["لا أفهم العربية.", "لا أفهم هذا الدرس."]
+  },
+  {
+    "id": "word_ar_uhibbuka",
+    "word": "أحبكَ",
+    "meaning": "I love you (to a male)",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔuħibbuka"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["أحبك كثيرا.", "أحبك يا صديقي."]
+  },
+  {
+    "id": "word_ar_uhibbuki",
+    "word": "أحبكِ",
+    "meaning": "I love you (to a female)",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔuħibbuki"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["أحبك يا أمي.", "أحبك كثيرا."]
   }
 ]

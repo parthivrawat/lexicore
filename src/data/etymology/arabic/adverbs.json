@@ -41,34 +41,6 @@
     "cognates": [],
     "notes": "Root ج-د-د (j-d-d) meaning 'seriousness, intensity'."
   },
-  "word_ar_aydan": {
-    "languageOrigin": "Classical Arabic",
-    "yearOfOrigin": "Pre-Islamic",
-    "timeline": [
-      {
-        "language": "Classical Arabic",
-        "form": "أيضا",
-        "period": "Pre-Islamic era",
-        "meaning": "also"
-      }
-    ],
-    "cognates": [],
-    "notes": "From أيض meaning 'also, too'."
-  },
-  "word_ar_faqat": {
-    "languageOrigin": "Classical Arabic",
-    "yearOfOrigin": "Medieval",
-    "timeline": [
-      {
-        "language": "Classical Arabic",
-        "form": "فقط",
-        "period": "Medieval period",
-        "meaning": "only"
-      }
-    ],
-    "cognates": [],
-    "notes": "Root ف-ق-ط (f-q-ṭ) meaning 'only, merely'."
-  },
   "word_ar_daiman": {
     "languageOrigin": "Classical Arabic",
     "yearOfOrigin": "Pre-Islamic",
@@ -111,7 +83,7 @@
     "cognates": [],
     "notes": "Root ح-ي-ن (ḥ-y-n) meaning 'time'. Plural adverbial form."
   },
-  "word_ar_ghaliban": {
+  "word_ar_ghaaliban": {
     "languageOrigin": "Classical Arabic",
     "yearOfOrigin": "Pre-Islamic",
     "timeline": [
@@ -186,61 +158,5 @@
     ],
     "cognates": [],
     "notes": "Root غ-د-و (gh-d-w) meaning 'to go in the morning'."
-  },
-  "word_ar_faalan": {
-    "languageOrigin": "Classical Arabic",
-    "yearOfOrigin": "Pre-Islamic",
-    "timeline": [
-      {
-        "language": "Classical Arabic",
-        "form": "فعلا",
-        "period": "Pre-Islamic era",
-        "meaning": "already, indeed"
-      }
-    ],
-    "cognates": [],
-    "notes": "Root ف-ع-ل (f-ʕ-l) meaning 'to do'. Adverbial form."
-  },
-  "word_ar_badu": {
-    "languageOrigin": "Classical Arabic",
-    "yearOfOrigin": "Medieval",
-    "timeline": [
-      {
-        "language": "Classical Arabic",
-        "form": "بعد",
-        "period": "Medieval period",
-        "meaning": "not yet"
-      }
-    ],
-    "cognates": [],
-    "notes": "Root ب-ع-د (b-ʕ-d) meaning 'after, distance'. Used with negation."
-  },
-  "word_ar_rubbama": {
-    "languageOrigin": "Classical Arabic",
-    "yearOfOrigin": "Pre-Islamic",
-    "timeline": [
-      {
-        "language": "Classical Arabic",
-        "form": "ربما",
-        "period": "Pre-Islamic era",
-        "meaning": "maybe"
-      }
-    ],
-    "cognates": [],
-    "notes": "Compound: رب (lord, many) + ما (what). Means 'perhaps'."
-  },
-  "word_ar_qatan": {
-    "languageOrigin": "Classical Arabic",
-    "yearOfOrigin": "Medieval",
-    "timeline": [
-      {
-        "language": "Classical Arabic",
-        "form": "قطعا",
-        "period": "Medieval period",
-        "meaning": "certainly"
-      }
-    ],
-    "cognates": [],
-    "notes": "Root ق-ط-ع (q-ṭ-ʕ) meaning 'to cut, decide'. Adverbial form."
   }
 }

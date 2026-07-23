@@ -13,21 +13,7 @@
     "cognates": [],
     "notes": "Root ج-و-د (j-w-d) meaning 'to be generous, good'."
   },
-  "word_ar_sayyi": {
-    "languageOrigin": "Classical Arabic",
-    "yearOfOrigin": "Pre-Islamic",
-    "timeline": [
-      {
-        "language": "Classical Arabic",
-        "form": "سيئ",
-        "period": "Pre-Islamic era",
-        "meaning": "bad"
-      }
-    ],
-    "cognates": [],
-    "notes": "Root س-و-أ (s-w-ʔ) meaning 'to be bad, evil'."
-  },
-  "word_ar_kabir": {
+  "word_ar_kabeer": {
     "languageOrigin": "Proto-Semitic",
     "yearOfOrigin": "Ancient",
     "timeline": [
@@ -53,7 +39,7 @@
     ],
     "notes": "Root ك-ب-ر (k-b-r) meaning 'to be great'. Allah is 'Akbar' (greatest)."
   },
-  "word_ar_saghir": {
+  "word_ar_sagheer": {
     "languageOrigin": "Classical Arabic",
     "yearOfOrigin": "Pre-Islamic",
     "timeline": [
@@ -67,7 +53,7 @@
     "cognates": [],
     "notes": "Root ص-غ-ر (ṣ-gh-r) meaning 'to be small, young'."
   },
-  "word_ar_tawil": {
+  "word_ar_taweel": {
     "languageOrigin": "Classical Arabic",
     "yearOfOrigin": "Pre-Islamic",
     "timeline": [
@@ -81,7 +67,7 @@
     "cognates": [],
     "notes": "Root ط-و-ل (ṭ-w-l) meaning 'to be long, extend'."
   },
-  "word_ar_qasir": {
+  "word_ar_qaseer": {
     "languageOrigin": "Classical Arabic",
     "yearOfOrigin": "Pre-Islamic",
     "timeline": [
@@ -95,35 +81,7 @@
     "cognates": [],
     "notes": "Root ق-ص-ر (q-ṣ-r) meaning 'to be short, limit'."
   },
-  "word_ar_aali": {
-    "languageOrigin": "Classical Arabic",
-    "yearOfOrigin": "Pre-Islamic",
-    "timeline": [
-      {
-        "language": "Classical Arabic",
-        "form": "عالي",
-        "period": "Pre-Islamic era",
-        "meaning": "high, tall"
-      }
-    ],
-    "cognates": [],
-    "notes": "Root ع-ل-و (ʕ-l-w) meaning 'to be high, elevated'."
-  },
-  "word_ar_munkhafid": {
-    "languageOrigin": "Classical Arabic",
-    "yearOfOrigin": "Medieval",
-    "timeline": [
-      {
-        "language": "Classical Arabic",
-        "form": "منخفض",
-        "period": "Medieval period",
-        "meaning": "low"
-      }
-    ],
-    "cognates": [],
-    "notes": "Root خ-ف-ض (kh-f-ḍ) meaning 'to lower'. Form VII participle."
-  },
-  "word_ar_jadid": {
+  "word_ar_jadeed": {
     "languageOrigin": "Classical Arabic",
     "yearOfOrigin": "Pre-Islamic",
     "timeline": [
@@ -137,7 +95,7 @@
     "cognates": [],
     "notes": "Root ج-د-د (j-d-d) meaning 'to renew, be new'."
   },
-  "word_ar_qadim": {
+  "word_ar_qadeem": {
     "languageOrigin": "Classical Arabic",
     "yearOfOrigin": "Pre-Islamic",
     "timeline": [
@@ -151,35 +109,7 @@
     "cognates": [],
     "notes": "Root ق-د-م (q-d-m) meaning 'to precede, be ancient'."
   },
-  "word_ar_shaabb": {
-    "languageOrigin": "Classical Arabic",
-    "yearOfOrigin": "Pre-Islamic",
-    "timeline": [
-      {
-        "language": "Classical Arabic",
-        "form": "شاب",
-        "period": "Pre-Islamic era",
-        "meaning": "young"
-      }
-    ],
-    "cognates": [],
-    "notes": "Root ش-ب-ب (sh-b-b) meaning 'to be young, youthful'."
-  },
-  "word_ar_ajooz": {
-    "languageOrigin": "Classical Arabic",
-    "yearOfOrigin": "Pre-Islamic",
-    "timeline": [
-      {
-        "language": "Classical Arabic",
-        "form": "عجوز",
-        "period": "Pre-Islamic era",
-        "meaning": "old (person)"
-      }
-    ],
-    "cognates": [],
-    "notes": "Root ع-ج-ز (ʕ-j-z) meaning 'to be old, weak'."
-  },
-  "word_ar_jamil": {
+  "word_ar_jameel": {
     "languageOrigin": "Classical Arabic",
     "yearOfOrigin": "Pre-Islamic",
     "timeline": [
@@ -221,7 +151,7 @@
     "cognates": [],
     "notes": "Root ح-ر-ر (ḥ-r-r) meaning 'to be hot, free'."
   },
-  "word_ar_baarid": {
+  "word_ar_barid": {
     "languageOrigin": "Classical Arabic",
     "yearOfOrigin": "Pre-Islamic",
     "timeline": [
@@ -235,7 +165,7 @@
     "cognates": [],
     "notes": "Root ب-ر-د (b-r-d) meaning 'to be cold, cool'."
   },
-  "word_ar_sareea": {
+  "word_ar_saree": {
     "languageOrigin": "Classical Arabic",
     "yearOfOrigin": "Pre-Islamic",
     "timeline": [
@@ -249,7 +179,7 @@
     "cognates": [],
     "notes": "Root س-ر-ع (s-r-ʕ) meaning 'to be fast, quick'."
   },
-  "word_ar_bati": {
+  "word_ar_batee": {
     "languageOrigin": "Classical Arabic",
     "yearOfOrigin": "Pre-Islamic",
     "timeline": [

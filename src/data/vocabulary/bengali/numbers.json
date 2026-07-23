@@ -193,5 +193,200 @@
     ],
     "category": "numbers",
     "examples": ["হাজার টাকা।", "হাজার জন।"]
+  },
+  {
+    "id": "word_bn_egaro",
+    "word": "এগারো",
+    "meaning": "eleven",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ɛgaɾo"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["এগারো জন।", "এগারো টাকা।"]
+  },
+  {
+    "id": "word_bn_baro",
+    "word": "বারো",
+    "meaning": "twelve",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "baɾo"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["বারো মাস।", "বারো জন।"]
+  },
+  {
+    "id": "word_bn_tero",
+    "word": "তেরো",
+    "meaning": "thirteen",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "teɾo"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["তেরো দিন।", "তেরোটি বই।"]
+  },
+  {
+    "id": "word_bn_chouddo",
+    "word": "চৌদ্দ",
+    "meaning": "fourteen",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "tʃoud̪d̪o"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["চৌদ্দ বছর।", "চৌদ্দ জন।"]
+  },
+  {
+    "id": "word_bn_ponero",
+    "word": "পনেরো",
+    "meaning": "fifteen",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "pɔneɾo"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["পনেরো টাকা।", "পনেরো দিন।"]
+  },
+  {
+    "id": "word_bn_sholo",
+    "word": "ষোলো",
+    "meaning": "sixteen",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃɔlo"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ষোলো বছর।", "ষোলো জন।"]
+  },
+  {
+    "id": "word_bn_sotero",
+    "word": "সতেরো",
+    "meaning": "seventeen",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "sɔteɾo"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["সতেরো দিন।", "সতেরো জন।"]
+  },
+  {
+    "id": "word_bn_atharo",
+    "word": "আঠারো",
+    "meaning": "eighteen",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "aʈʰaɾo"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["আঠারো মাস।", "আঠারো বছর।"]
+  },
+  {
+    "id": "word_bn_unish",
+    "word": "উনিশ",
+    "meaning": "nineteen",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "uniʃ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["উনিশ জন।", "উনিশ বছর।"]
+  },
+  {
+    "id": "word_bn_trish",
+    "word": "ত্রিশ",
+    "meaning": "thirty",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "tɾiʃ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ত্রিশ দিন।", "ত্রিশ টাকা।"]
+  },
+  {
+    "id": "word_bn_chollish",
+    "word": "চল্লিশ",
+    "meaning": "forty",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "tʃoll̪iʃ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["চল্লিশ জন।", "চল্লিশ বছর।"]
+  },
+  {
+    "id": "word_bn_shaat",
+    "word": "ষাট",
+    "meaning": "sixty",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃaʈ"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ষাট বছর।", "ষাট টাকা।"]
+  },
+  {
+    "id": "word_bn_sottor",
+    "word": "সত্তর",
+    "meaning": "seventy",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "sɔt̪t̪ɔr"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["সত্তর দিন।", "সত্তর জন।"]
+  },
+  {
+    "id": "word_bn_ashi",
+    "word": "আশি",
+    "meaning": "eighty",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "aʃi"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["আশি বছর।", "আশি টাকা।"]
+  },
+  {
+    "id": "word_bn_nobbooi",
+    "word": "নব্বই",
+    "meaning": "ninety",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "nɔbbɔi"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["নব্বই দিন।", "নব্বই জন।"]
   }
 ]

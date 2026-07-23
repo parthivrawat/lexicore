@@ -1,6 +1,6 @@
 [
   {
-    "id": "word_dans",
+    "id": "word_fr_dans",
     "word": "dans",
     "meaning": "in/inside",
     "pronunciationVariants": [
@@ -21,7 +21,7 @@
     "examples": ["Dans la maison.", "Dans le sac."]
   },
   {
-    "id": "word_sur_2",
+    "id": "word_fr_sur_2",
     "word": "sur",
     "meaning": "on/upon",
     "pronunciationVariants": [
@@ -42,7 +42,7 @@
     "examples": ["Sur la table.", "Sur le mur."]
   },
   {
-    "id": "word_sous",
+    "id": "word_fr_sous",
     "word": "sous",
     "meaning": "under",
     "pronunciationVariants": [
@@ -63,7 +63,7 @@
     "examples": ["Sous la table.", "Sous le lit."]
   },
   {
-    "id": "word_avec",
+    "id": "word_fr_avec",
     "word": "avec",
     "meaning": "with",
     "pronunciationVariants": [
@@ -84,7 +84,7 @@
     "examples": ["Avec moi.", "Avec un ami."]
   },
   {
-    "id": "word_sans",
+    "id": "word_fr_sans",
     "word": "sans",
     "meaning": "without",
     "pronunciationVariants": [
@@ -105,7 +105,7 @@
     "examples": ["Sans sucre.", "Sans doute."]
   },
   {
-    "id": "word_pour",
+    "id": "word_fr_pour",
     "word": "pour",
     "meaning": "for",
     "pronunciationVariants": [
@@ -126,7 +126,7 @@
     "examples": ["Pour toi.", "Pour demain."]
   },
   {
-    "id": "word_contre",
+    "id": "word_fr_contre",
     "word": "contre",
     "meaning": "against",
     "pronunciationVariants": [
@@ -147,7 +147,7 @@
     "examples": ["Contre le mur.", "Contre moi."]
   },
   {
-    "id": "word_entre",
+    "id": "word_fr_entre",
     "word": "entre",
     "meaning": "between",
     "pronunciationVariants": [
@@ -168,7 +168,7 @@
     "examples": ["Entre les deux.", "Entre amis."]
   },
   {
-    "id": "word_parmi",
+    "id": "word_fr_parmi",
     "word": "parmi",
     "meaning": "among",
     "pronunciationVariants": [
@@ -189,7 +189,7 @@
     "examples": ["Parmi les amis.", "Parmi nous."]
   },
   {
-    "id": "word_chez",
+    "id": "word_fr_chez",
     "word": "chez",
     "meaning": "at the home of",
     "pronunciationVariants": [
@@ -210,7 +210,7 @@
     "examples": ["Chez moi.", "Chez le médecin."]
   },
   {
-    "id": "word_de",
+    "id": "word_fr_de",
     "word": "de",
     "meaning": "of/from",
     "pronunciationVariants": [
@@ -231,7 +231,7 @@
     "examples": ["De Paris.", "Le livre de Pierre."]
   },
   {
-    "id": "word_a",
+    "id": "word_fr_a",
     "word": "à",
     "meaning": "to/at",
     "pronunciationVariants": [
@@ -252,7 +252,7 @@
     "examples": ["À Paris.", "À demain."]
   },
   {
-    "id": "word_en",
+    "id": "word_fr_en",
     "word": "en",
     "meaning": "in/to",
     "pronunciationVariants": [
@@ -273,7 +273,7 @@
     "examples": ["En France.", "En voiture."]
   },
   {
-    "id": "word_par_2",
+    "id": "word_fr_par_2",
     "word": "par",
     "meaning": "by/through",
     "pronunciationVariants": [
@@ -294,7 +294,7 @@
     "examples": ["Par ici.", "Par train."]
   },
   {
-    "id": "word_vers",
+    "id": "word_fr_vers",
     "word": "vers",
     "meaning": "toward",
     "pronunciationVariants": [
@@ -315,7 +315,7 @@
     "examples": ["Vers le nord.", "Vers midi."]
   },
   {
-    "id": "word_apres",
+    "id": "word_fr_apres",
     "word": "après",
     "meaning": "after",
     "pronunciationVariants": [
@@ -336,7 +336,7 @@
     "examples": ["Après le repas.", "Après toi."]
   },
   {
-    "id": "word_avant",
+    "id": "word_fr_avant",
     "word": "avant",
     "meaning": "before",
     "pronunciationVariants": [
@@ -357,7 +357,7 @@
     "examples": ["Avant le dîner.", "Avant toi."]
   },
   {
-    "id": "word_pendant",
+    "id": "word_fr_pendant",
     "word": "pendant",
     "meaning": "during",
     "pronunciationVariants": [
@@ -378,7 +378,7 @@
     "examples": ["Pendant le repas.", "Pendant la nuit."]
   },
   {
-    "id": "word_depuis",
+    "id": "word_fr_depuis",
     "word": "depuis",
     "meaning": "since",
     "pronunciationVariants": [
@@ -399,7 +399,7 @@
     "examples": ["Depuis hier.", "Depuis longtemps."]
   },
   {
-    "id": "word_jusqua",
+    "id": "word_fr_jusqua",
     "word": "jusqu'à",
     "meaning": "until",
     "pronunciationVariants": [
@@ -420,7 +420,7 @@
     "examples": ["Jusqu'à demain.", "Jusqu'à midi."]
   },
   {
-    "id": "word_pres_de",
+    "id": "word_fr_pres_de",
     "word": "près de",
     "meaning": "near",
     "pronunciationVariants": [
@@ -441,7 +441,7 @@
     "examples": ["Près de chez moi.", "Près de la mer."]
   },
   {
-    "id": "word_loin_de",
+    "id": "word_fr_loin_de",
     "word": "loin de",
     "meaning": "far from",
     "pronunciationVariants": [
@@ -462,7 +462,7 @@
     "examples": ["Loin de chez moi.", "Loin de la ville."]
   },
   {
-    "id": "word_devant",
+    "id": "word_fr_devant",
     "word": "devant",
     "meaning": "in front of",
     "pronunciationVariants": [
@@ -483,7 +483,7 @@
     "examples": ["Devant la maison.", "Devant moi."]
   },
   {
-    "id": "word_derriere",
+    "id": "word_fr_derriere",
     "word": "derrière",
     "meaning": "behind",
     "pronunciationVariants": [
@@ -504,7 +504,7 @@
     "examples": ["Derrière la maison.", "Derrière moi."]
   },
   {
-    "id": "word_a_cote_de",
+    "id": "word_fr_a_cote_de",
     "word": "à côté de",
     "meaning": "next to/beside",
     "pronunciationVariants": [
@@ -525,7 +525,7 @@
     "examples": ["À côté de moi.", "À côté de la table."]
   },
   {
-    "id": "word_en_face_de",
+    "id": "word_fr_en_face_de",
     "word": "en face de",
     "meaning": "opposite/across from",
     "pronunciationVariants": [
@@ -546,7 +546,7 @@
     "examples": ["En face de moi.", "En face de la maison."]
   },
   {
-    "id": "word_autour_de",
+    "id": "word_fr_autour_de",
     "word": "autour de",
     "meaning": "around",
     "pronunciationVariants": [
@@ -567,7 +567,7 @@
     "examples": ["Autour de la table.", "Autour du monde."]
   },
   {
-    "id": "word_a_travers",
+    "id": "word_fr_a_travers",
     "word": "à travers",
     "meaning": "through",
     "pronunciationVariants": [
@@ -588,7 +588,7 @@
     "examples": ["À travers la forêt.", "À travers le pays."]
   },
   {
-    "id": "word_le_long_de",
+    "id": "word_fr_le_long_de",
     "word": "le long de",
     "meaning": "along",
     "pronunciationVariants": [
@@ -609,7 +609,7 @@
     "examples": ["Le long de la rivière.", "Le long du chemin."]
   },
   {
-    "id": "word_en_haut_de",
+    "id": "word_fr_en_haut_de",
     "word": "en haut de",
     "meaning": "above/on top of",
     "pronunciationVariants": [
@@ -630,7 +630,7 @@
     "examples": ["En haut de la montagne.", "En haut de la page."]
   },
   {
-    "id": "word_en_bas_de",
+    "id": "word_fr_en_bas_de",
     "word": "en bas de",
     "meaning": "below/at the bottom of",
     "pronunciationVariants": [
@@ -651,7 +651,7 @@
     "examples": ["En bas de la page.", "En bas de la montagne."]
   },
   {
-    "id": "word_a_l_interieur_de",
+    "id": "word_fr_a_l_interieur_de",
     "word": "à l'intérieur de",
     "meaning": "inside",
     "pronunciationVariants": [
@@ -672,7 +672,7 @@
     "examples": ["À l'intérieur de la maison.", "À l'intérieur du sac."]
   },
   {
-    "id": "word_a_l_exterieur_de",
+    "id": "word_fr_a_l_exterieur_de",
     "word": "à l'extérieur de",
     "meaning": "outside",
     "pronunciationVariants": [
@@ -693,7 +693,7 @@
     "examples": ["À l'extérieur de la maison.", "À l'extérieur du pays."]
   },
   {
-    "id": "word_hors_de",
+    "id": "word_fr_hors_de",
     "word": "hors de",
     "meaning": "out of",
     "pronunciationVariants": [
@@ -714,7 +714,7 @@
     "examples": ["Hors de la ville.", "Hors de question."]
   },
   {
-    "id": "word_concernant",
+    "id": "word_fr_concernant",
     "word": "concernant",
     "meaning": "concerning/about",
     "pronunciationVariants": [
@@ -735,7 +735,7 @@
     "examples": ["Concernant ce problème.", "Concernant votre demande."]
   },
   {
-    "id": "word_grace_a",
+    "id": "word_fr_grace_a",
     "word": "grâce à",
     "meaning": "thanks to",
     "pronunciationVariants": [
@@ -756,7 +756,7 @@
     "examples": ["Grâce à toi.", "Grâce au soleil."]
   },
   {
-    "id": "word_a_cause_de",
+    "id": "word_fr_a_cause_de",
     "word": "à cause de",
     "meaning": "because of",
     "pronunciationVariants": [
@@ -777,7 +777,7 @@
     "examples": ["À cause de la pluie.", "À cause de toi."]
   },
   {
-    "id": "word_malgre",
+    "id": "word_fr_malgre",
     "word": "malgré",
     "meaning": "despite",
     "pronunciationVariants": [
@@ -798,7 +798,7 @@
     "examples": ["Malgré la pluie.", "Malgré tout."]
   },
   {
-    "id": "word_selon",
+    "id": "word_fr_selon",
     "word": "selon",
     "meaning": "according to",
     "pronunciationVariants": [
@@ -819,7 +819,7 @@
     "examples": ["Selon moi.", "Selon le rapport."]
   },
   {
-    "id": "word_sauf",
+    "id": "word_fr_sauf",
     "word": "sauf",
     "meaning": "except",
     "pronunciationVariants": [
@@ -840,7 +840,7 @@
     "examples": ["Sauf toi.", "Sauf dimanche."]
   },
   {
-    "id": "word_hormis",
+    "id": "word_fr_hormis",
     "word": "hormis",
     "meaning": "except",
     "pronunciationVariants": [
@@ -861,7 +861,7 @@
     "examples": ["Hormis toi.", "Hormis quelques exceptions."]
   },
   {
-    "id": "word_quant_a",
+    "id": "word_fr_quant_a",
     "word": "quant à",
     "meaning": "as for",
     "pronunciationVariants": [
@@ -882,7 +882,7 @@
     "examples": ["Quant à moi.", "Quant à ce problème."]
   },
   {
-    "id": "word_faisant_a",
+    "id": "word_fr_faisant_a",
     "word": "faute de",
     "meaning": "for lack of",
     "pronunciationVariants": [
@@ -903,7 +903,7 @@
     "examples": ["Faute de temps.", "Faute d'argent."]
   },
   {
-    "id": "word_en_dehors_de",
+    "id": "word_fr_en_dehors_de",
     "word": "en dehors de",
     "meaning": "outside of",
     "pronunciationVariants": [
@@ -924,7 +924,7 @@
     "examples": ["En dehors du travail.", "En dehors de la ville."]
   },
   {
-    "id": "word_a_l_exception_de",
+    "id": "word_fr_a_l_exception_de",
     "word": "à l'exception de",
     "meaning": "with the exception of",
     "pronunciationVariants": [
@@ -943,5 +943,131 @@
     ],
     "category": "prepositions",
     "examples": ["À l'exception de toi.", "À l'exception de dimanche."]
+  },
+  {
+    "id": "word_fr_au_dessus_de",
+    "word": "au-dessus de",
+    "meaning": "above",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "o dəsy də"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "o dəsy də"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "o dəsy də"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["L'avion est au-dessus de la ville.", "Un tableau au-dessus du lit."]
+  },
+  {
+    "id": "word_fr_au_dessous_de",
+    "word": "au-dessous de",
+    "meaning": "below",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "o dəsu də"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "o dəsu də"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "o dəsu də"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Le chat est au-dessous de la table.", "Caché au-dessous du lit."]
+  },
+  {
+    "id": "word_fr_au_milieu_de",
+    "word": "au milieu de",
+    "meaning": "in the middle of",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "o miljø də"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "o miljø də"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "o miljø də"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Au milieu de la route.", "Elle est au milieu de la foule."]
+  },
+  {
+    "id": "word_fr_a_gauche_de",
+    "word": "à gauche de",
+    "meaning": "to the left of",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "a ɡoʃ də"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "a ɡoʃ də"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "a ɡoʃ də"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Le magasin est à gauche de la banque.", "Tourne à gauche."]
+  },
+  {
+    "id": "word_fr_a_droite_de",
+    "word": "à droite de",
+    "meaning": "to the right of",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "a dʁwat də"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "a dʁwat də"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "a dʁwat də"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["La pharmacie est à droite de l'église.", "Tourne à droite."]
+  },
+  {
+    "id": "word_fr_aupres_de",
+    "word": "auprès de",
+    "meaning": "near/close to",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "opʁɛ də"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "opʁɛ də"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "opʁɛ də"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["Il reste auprès de moi.", "Un café auprès de l'école."]
   }
 ]

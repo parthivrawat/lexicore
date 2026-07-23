@@ -111,21 +111,7 @@
     "cognates": [],
     "notes": "From Sanskrit लम्ब."
   },
-  "word_bn_chhoto2": {
-    "languageOrigin": "Sanskrit",
-    "yearOfOrigin": "c. 500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "क्षुद्र (kṣudra)",
-        "period": "Classical",
-        "meaning": "small"
-      }
-    ],
-    "cognates": [],
-    "notes": "Same as ছোট (short)."
-  },
-  "word_bn_uchu": {
+  "word_bn_unchu": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 500 BCE",
     "timeline": [
@@ -145,7 +131,7 @@
     "cognates": [],
     "notes": "From Sanskrit उच्च."
   },
-  "word_bn_nicha": {
+  "word_bn_nichu": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 500 BCE",
     "timeline": [
@@ -185,66 +171,6 @@
     "cognates": [],
     "notes": "From Sanskrit नूतन."
   },
-  "word_bn_puran": {
-    "languageOrigin": "Sanskrit",
-    "yearOfOrigin": "c. 500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "पुरातन (purātana)",
-        "period": "Classical",
-        "meaning": "old, ancient"
-      },
-      {
-        "language": "Bengali",
-        "form": "পুরনো",
-        "period": "Modern",
-        "meaning": "old"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Sanskrit पुरातन."
-  },
-  "word_bn_jubok": {
-    "languageOrigin": "Sanskrit",
-    "yearOfOrigin": "c. 500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "युवक (yuvaka)",
-        "period": "Classical",
-        "meaning": "young man"
-      },
-      {
-        "language": "Bengali",
-        "form": "যুবক",
-        "period": "Modern",
-        "meaning": "young"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Sanskrit युवक."
-  },
-  "word_bn_bridho": {
-    "languageOrigin": "Sanskrit",
-    "yearOfOrigin": "c. 500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "वृद्ध (vṛddha)",
-        "period": "Classical",
-        "meaning": "old, grown"
-      },
-      {
-        "language": "Bengali",
-        "form": "বৃদ্ধ",
-        "period": "Modern",
-        "meaning": "old"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Sanskrit वृद्ध."
-  },
   "word_bn_sundor": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 500 BCE",
@@ -264,26 +190,6 @@
     ],
     "cognates": [],
     "notes": "From Sanskrit सुन्दर."
-  },
-  "word_bn_khub_kharap": {
-    "languageOrigin": "Sanskrit/Bengali",
-    "yearOfOrigin": "c. 500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "कु (ku) + खरब (kharab)",
-        "period": "Classical",
-        "meaning": "very bad"
-      },
-      {
-        "language": "Bengali",
-        "form": "খুব খারাপ",
-        "period": "Modern",
-        "meaning": "ugly"
-      }
-    ],
-    "cognates": [],
-    "notes": "খুব (very) + খারাপ (bad). 'Very bad'."
   },
   "word_bn_gorom": {
     "languageOrigin": "Sanskrit",
@@ -325,7 +231,7 @@
     "cognates": [],
     "notes": "Probably from Prakrit 'thanda'."
   },
-  "word_bn_drota": {
+  "word_bn_druto": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 500 BCE",
     "timeline": [
@@ -344,26 +250,6 @@
     ],
     "cognates": [],
     "notes": "From Sanskrit द्रुत."
-  },
-  "word_bn_dheere": {
-    "languageOrigin": "Sanskrit",
-    "yearOfOrigin": "c. 500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "धीर (dhīra)",
-        "period": "Classical",
-        "meaning": "slow, steady"
-      },
-      {
-        "language": "Bengali",
-        "form": "ধীরে",
-        "period": "Modern",
-        "meaning": "slow"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Sanskrit धीर."
   },
   "word_bn_sohoj": {
     "languageOrigin": "Sanskrit",

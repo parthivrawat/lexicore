@@ -1,5 +1,5 @@
 {
-  "word_one": {
+  "word_en_one": {
     "languageOrigin": "Proto-Indo-European",
     "yearOfOrigin": "Prehistoric",
     "timeline": [
@@ -57,7 +57,7 @@
       }
     ]
   },
-  "word_two": {
+  "word_en_two": {
     "languageOrigin": "Proto-Indo-European",
     "yearOfOrigin": "Prehistoric",
     "timeline": [
@@ -115,7 +115,7 @@
       }
     ]
   },
-  "word_three": {
+  "word_en_three": {
     "languageOrigin": "Proto-Indo-European",
     "yearOfOrigin": "Prehistoric",
     "timeline": [
@@ -173,7 +173,7 @@
       }
     ]
   },
-  "word_four": {
+  "word_en_four": {
     "languageOrigin": "Proto-Indo-European",
     "yearOfOrigin": "Prehistoric",
     "timeline": [
@@ -231,7 +231,7 @@
       }
     ]
   },
-  "word_five": {
+  "word_en_five": {
     "languageOrigin": "Proto-Indo-European",
     "yearOfOrigin": "Prehistoric",
     "timeline": [
@@ -289,7 +289,7 @@
       }
     ]
   },
-  "word_six": {
+  "word_en_six": {
     "languageOrigin": "Proto-Indo-European",
     "yearOfOrigin": "Prehistoric",
     "timeline": [
@@ -347,7 +347,7 @@
       }
     ]
   },
-  "word_seven": {
+  "word_en_seven": {
     "languageOrigin": "Proto-Indo-European",
     "yearOfOrigin": "Prehistoric",
     "timeline": [
@@ -405,7 +405,7 @@
       }
     ]
   },
-  "word_eight": {
+  "word_en_eight": {
     "languageOrigin": "Proto-Indo-European",
     "yearOfOrigin": "Prehistoric",
     "timeline": [
@@ -463,7 +463,7 @@
       }
     ]
   },
-  "word_nine": {
+  "word_en_nine": {
     "languageOrigin": "Proto-Indo-European",
     "yearOfOrigin": "Prehistoric",
     "timeline": [
@@ -521,7 +521,7 @@
       }
     ]
   },
-  "word_ten": {
+  "word_en_ten": {
     "languageOrigin": "Proto-Indo-European",
     "yearOfOrigin": "Prehistoric",
     "timeline": [
@@ -579,7 +579,7 @@
       }
     ]
   },
-  "word_eleven": {
+  "word_en_eleven": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -627,7 +627,7 @@
     ],
     "notes": "From Proto-Germanic \"*ainlif\" meaning \"one left\" (after ten), literally \"one remaining\"."
   },
-  "word_twelve": {
+  "word_en_twelve": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -675,7 +675,7 @@
     ],
     "notes": "From Proto-Germanic \"*twalif\" meaning \"two left\" (after ten), literally \"two remaining\"."
   },
-  "word_twenty": {
+  "word_en_twenty": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -723,7 +723,7 @@
     ],
     "notes": "From Proto-Germanic \"*twātigiz\" meaning \"two tens\", a compound of \"two\" and \"ten\"."
   },
-  "word_thirty": {
+  "word_en_thirty": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -771,7 +771,7 @@
     ],
     "notes": "From Proto-Germanic \"*þrītigiz\" meaning \"three tens\", a compound of \"three\" and \"ten\"."
   },
-  "word_hundred": {
+  "word_en_hundred": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -824,7 +824,7 @@
     ],
     "notes": "From a root meaning \"ten times ten\", originally meant \"a great number\" or \"a complete set\"."
   },
-  "word_thousand": {
+  "word_en_thousand": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -872,7 +872,7 @@
     ],
     "notes": "From a root meaning \"great number\" or \"multitude\", originally meant \"a large count\"."
   },
-  "word_million": {
+  "word_en_million": {
     "languageOrigin": "Italian",
     "yearOfOrigin": "c. 14th century",
     "timeline": [
@@ -914,7 +914,7 @@
     ],
     "notes": "From Italian \"milione\" meaning \"great thousand\", a compound of \"mille\" (thousand) + \"-one\" (augmentative suffix)."
   },
-  "word_first": {
+  "word_en_first": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -962,7 +962,7 @@
     ],
     "notes": "From a root meaning \"foremost\" or \"in front\", related to \"fore\" and \"former\"."
   },
-  "word_second": {
+  "word_en_second": {
     "languageOrigin": "Latin",
     "yearOfOrigin": "c. 14th century",
     "timeline": [
@@ -1004,7 +1004,7 @@
     ],
     "notes": "From Latin \"secundus\" meaning \"following\", from \"sequi\" meaning \"to follow\"."
   },
-  "word_third": {
+  "word_en_third": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -1052,7 +1052,7 @@
     ],
     "notes": "From Proto-Germanic \"*þridijô\", the ordinal form of \"three\"."
   },
-  "word_fourth": {
+  "word_en_fourth": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -1100,7 +1100,7 @@
     ],
     "notes": "From Proto-Germanic \"*feðwōrþô\", the ordinal form of \"four\"."
   },
-  "word_fifth": {
+  "word_en_fifth": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -1148,7 +1148,7 @@
     ],
     "notes": "From Proto-Germanic \"*fimftô\", the ordinal form of \"five\"."
   },
-  "word_sixth": {
+  "word_en_sixth": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -1196,7 +1196,7 @@
     ],
     "notes": "From Proto-Germanic \"*sehstô\", the ordinal form of \"six\"."
   },
-  "word_seventh": {
+  "word_en_seventh": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -1244,7 +1244,7 @@
     ],
     "notes": "From Proto-Germanic \"*sebunþô\", the ordinal form of \"seven\"."
   },
-  "word_eighth": {
+  "word_en_eighth": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -1292,7 +1292,7 @@
     ],
     "notes": "From Proto-Germanic \"*ahtudô\", the ordinal form of \"eight\"."
   },
-  "word_ninth": {
+  "word_en_ninth": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -1340,7 +1340,7 @@
     ],
     "notes": "From Proto-Germanic \"*nigunþô\", the ordinal form of \"nine\"."
   },
-  "word_tenth": {
+  "word_en_tenth": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -1388,7 +1388,7 @@
     ],
     "notes": "From Proto-Germanic \"*tehunþô\", the ordinal form of \"ten\"."
   },
-  "word_zero": {
+  "word_en_zero": {
     "languageOrigin": "Arabic",
     "yearOfOrigin": "c. 12th century",
     "timeline": [
@@ -1441,7 +1441,7 @@
     ],
     "notes": "From Arabic \"ṣifr\" meaning \"empty\", also the source of the word \"cipher\"."
   },
-  "word_forty": {
+  "word_en_forty": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -1489,7 +1489,7 @@
     ],
     "notes": "From Proto-Germanic \"*fedwōr-tigiz\" meaning \"four tens\", a compound of \"four\" and \"ten\"."
   },
-  "word_fifty": {
+  "word_en_fifty": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -1537,7 +1537,7 @@
     ],
     "notes": "From Proto-Germanic \"*fimf-tigiz\" meaning \"five tens\", a compound of \"five\" and \"ten\"."
   },
-  "word_sixty": {
+  "word_en_sixty": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -1585,7 +1585,7 @@
     ],
     "notes": "From Proto-Germanic \"*sehs-tigiz\" meaning \"six tens\", a compound of \"six\" and \"ten\"."
   },
-  "word_seventy": {
+  "word_en_seventy": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -1633,7 +1633,7 @@
     ],
     "notes": "From Proto-Germanic \"*sebun-tigiz\" meaning \"seven tens\", a compound of \"seven\" and \"ten\"."
   },
-  "word_eighty": {
+  "word_en_eighty": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -1681,7 +1681,7 @@
     ],
     "notes": "From Proto-Germanic \"*ahtō-tigiz\" meaning \"eight tens\", a compound of \"eight\" and \"ten\"."
   },
-  "word_ninety": {
+  "word_en_ninety": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -1729,7 +1729,7 @@
     ],
     "notes": "From Proto-Germanic \"*nigun-tigiz\" meaning \"nine tens\", a compound of \"nine\" and \"ten\"."
   },
-  "word_billion": {
+  "word_en_billion": {
     "languageOrigin": "French",
     "yearOfOrigin": "c. 17th century",
     "timeline": [
@@ -1771,7 +1771,7 @@
     ],
     "notes": "From French \"billion\" meaning \"a million million\" in original usage, now means \"a thousand million\" in English."
   },
-  "word_half": {
+  "word_en_half": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -1819,7 +1819,7 @@
     ],
     "notes": "From a root meaning \"whole\" or \"unbroken\", originally meant \"one of two parts\"."
   },
-  "word_quarter": {
+  "word_en_quarter": {
     "languageOrigin": "Latin",
     "yearOfOrigin": "c. 14th century",
     "timeline": [
@@ -1861,7 +1861,7 @@
     ],
     "notes": "From Latin \"quartarius\" meaning \"a fourth part\", from \"quattuor\" meaning \"four\"."
   },
-  "word_double": {
+  "word_en_double": {
     "languageOrigin": "Latin",
     "yearOfOrigin": "c. 13th century",
     "timeline": [
@@ -1903,7 +1903,7 @@
     ],
     "notes": "From Latin \"duplus\" meaning \"twofold\", from \"duo\" meaning \"two\" + \"-plus\" meaning \"fold\"."
   },
-  "word_triple": {
+  "word_en_triple": {
     "languageOrigin": "Latin",
     "yearOfOrigin": "c. 15th century",
     "timeline": [
@@ -1945,7 +1945,7 @@
     ],
     "notes": "From Latin \"triplex\" meaning \"threefold\", from \"tres\" meaning \"three\" + \"-plex\" meaning \"fold\"."
   },
-  "word_eighteen": {
+  "word_en_eighteen": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -1967,7 +1967,7 @@
     ],
     "notes": "From Middle English eightetene, eiȝtene, ehtetene, from Old English eahtatīene, eahtatēne, from Proto-Germanic *ahtōutehun. Cognate with West Frisian achttjin, Dutch achttien, German achtzehn, Danish atten.\nEquivalent to eight + -teen"
   },
-  "word_fifteen": {
+  "word_en_fifteen": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -1989,7 +1989,7 @@
     ],
     "notes": "PIE word\n *pénkʷe\nFrom Middle English fiftene, from Old English fīftīene, fīftēne, from Proto-Germanic *fimftehun. Cognate with West Frisian fyftjin, Dutch vijftien, German fünfzehn, Danish femten. Equivalent to five + -teen."
   },
-  "word_fourteen": {
+  "word_en_fourteen": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -2011,7 +2011,7 @@
     ],
     "notes": "From Middle English fourtene, from Old English fēowertīene, from Proto-Germanic *fedurtehun. Cognate with West Frisian fjirtjin, Dutch veertien, German vierzehn, Danish fjorten. Equivalent to four + -teen."
   },
-  "word_nineteen": {
+  "word_en_nineteen": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -2033,7 +2033,7 @@
     ],
     "notes": "From Middle English nyntene, nynetene, from Old English niġontīene, niġontēne, from Proto-Germanic *newuntehun. Cognate with Dutch negentien, Low German negenteihn, Hunsrik neinzen, German neunzehn, Danish nitten.\nEquivalent to nine + -teen"
   },
-  "word_seventeen": {
+  "word_en_seventeen": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -2055,7 +2055,7 @@
     ],
     "notes": "Inherited from Middle English seventene, from Old English seofontīene, from Proto-Germanic *sebuntehun. Cognate with Dutch zeventien, West Frisian santjin, German siebzehn, Danish sytten.\nEquivalent to seven + -teen"
   },
-  "word_sixteen": {
+  "word_en_sixteen": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -2077,7 +2077,7 @@
     ],
     "notes": "Inherited from Middle English sextene, sixtene, from Old English sixtīene, from Proto-Germanic *sehstehun. Cognate with West Frisian sechstjin, Dutch zestien, German sechzehn, Danish seksten. Equivalent to six + -teen."
   },
-  "word_thirteen": {
+  "word_en_thirteen": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {

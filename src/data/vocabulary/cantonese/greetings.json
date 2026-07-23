@@ -106,7 +106,7 @@
   {
     "id": "word_yue_zoi_gin",
     "word": "再見",
-    "meaning": "goodbye",
+    "meaning": "goodbye / see you again",
     "pronunciationVariants": [
       {
         "accent": "cantonese",
@@ -193,5 +193,31 @@
     ],
     "category": "greetings",
     "examples": ["晚安！", "晚安，聽日見。"]
+  },
+  {
+    "id": "word_yue_haa_zau_hou",
+    "word": "下晝好",
+    "meaning": "good afternoon",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "haa⁶ zau³ hou²"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["下晝好！", "下晝好，老師。"]
+  },
+  {
+    "id": "word_yue_maam_soeng_hou",
+    "word": "晚上好",
+    "meaning": "good evening",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "maan⁵ soeng² hou²"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["晚上好！", "晚上好，食咗飯未？"]
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "word_bn_hooya": {
+  "word_bn_howa": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 1500 BCE",
     "timeline": [
@@ -91,7 +91,7 @@
     "cognates": [],
     "notes": "From Sanskrit prefix आ (ā) + गम् (gam)."
   },
-  "word_bn_khaowa": {
+  "word_bn_khawa": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 1500 BCE",
     "timeline": [
@@ -106,15 +106,7 @@
         "form": "খাওয়া",
         "period": "Modern",
         "meaning": "to eat"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Sanskrit खाद्."
-  },
-  "word_bn_khaoa": {
-    "languageOrigin": "Sanskrit",
-    "yearOfOrigin": "c. 1500 BCE",
-    "timeline": [
+      },
       {
         "language": "Sanskrit",
         "form": "पा (pā)",
@@ -129,7 +121,7 @@
       }
     ],
     "cognates": [],
-    "notes": "Bengali 'khāoā' (to make eat) from same root as 'to eat'. Note: 'drink' usually 'pān kora'."
+    "notes": "From Sanskrit खाद्.; Bengali 'khāoā' (to make eat) from same root as 'to eat'. Note: 'drink' usually 'pān kora'."
   },
   "word_bn_dekha": {
     "languageOrigin": "Sanskrit",
@@ -211,7 +203,7 @@
     "cognates": [],
     "notes": "From Sanskrit पठ्."
   },
-  "word_bn_likha": {
+  "word_bn_lekha": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 500 BCE",
     "timeline": [
@@ -291,26 +283,6 @@
     "cognates": [],
     "notes": "From Sanskrit स्वप्. 'Ghum' is native/Prakrit."
   },
-  "word_bn_jeghe_otha": {
-    "languageOrigin": "Sanskrit/Bengali",
-    "yearOfOrigin": "c. 500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "जागृ (jāgṛ)",
-        "period": "Classical",
-        "meaning": "to wake"
-      },
-      {
-        "language": "Bengali",
-        "form": "জেগে ওঠা",
-        "period": "Modern",
-        "meaning": "to wake up"
-      }
-    ],
-    "cognates": [],
-    "notes": "জেগে (awake) + ওঠা (to rise)."
-  },
   "word_bn_bosha": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 500 BCE",
@@ -331,7 +303,7 @@
     "cognates": [],
     "notes": "From Sanskrit विश्/वस्."
   },
-  "word_bn_daraano": {
+  "word_bn_dara": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 500 BCE",
     "timeline": [
@@ -351,27 +323,7 @@
     "cognates": [],
     "notes": "From Sanskrit स्था."
   },
-  "word_bn_horta_berano": {
-    "languageOrigin": "Sanskrit/Bengali",
-    "yearOfOrigin": "c. 500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "व्रज् (vraj)",
-        "period": "Classical",
-        "meaning": "to go, wander"
-      },
-      {
-        "language": "Bengali",
-        "form": "হাঁটাহাঁটি করা",
-        "period": "Modern",
-        "meaning": "to walk"
-      }
-    ],
-    "cognates": [],
-    "notes": "হাঁটা (walk) + iteration + করা (do)."
-  },
-  "word_bn_dourano": {
+  "word_bn_dora": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 500 BCE",
     "timeline": [
@@ -411,7 +363,7 @@
     "cognates": [],
     "notes": "From Sanskrit हस्."
   },
-  "word_bn_kadna": {
+  "word_bn_kanda": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 500 BCE",
     "timeline": [
@@ -430,26 +382,6 @@
     ],
     "cognates": [],
     "notes": "From Sanskrit रुद् (to weep)."
-  },
-  "word_bn_bujha": {
-    "languageOrigin": "Sanskrit",
-    "yearOfOrigin": "c. 500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "बुध् (budh)",
-        "period": "Classical",
-        "meaning": "to understand, awaken"
-      },
-      {
-        "language": "Bengali",
-        "form": "বুঝা",
-        "period": "Modern",
-        "meaning": "to understand"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Sanskrit बुध्."
   },
   "word_bn_chaowa": {
     "languageOrigin": "Sanskrit",

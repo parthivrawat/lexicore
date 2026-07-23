@@ -1,6 +1,6 @@
 [
   {
-    "id": "word_in",
+    "id": "word_en_in",
     "word": "in",
     "meaning": "inside/within",
     "pronunciationVariants": [
@@ -21,7 +21,7 @@
     "examples": ["In the room.", "In 2024."]
   },
   {
-    "id": "word_on",
+    "id": "word_en_on",
     "word": "on",
     "meaning": "upon/atop",
     "pronunciationVariants": [
@@ -42,7 +42,7 @@
     "examples": ["On the table.", "On Monday."]
   },
   {
-    "id": "word_at",
+    "id": "word_en_at",
     "word": "at",
     "meaning": "location/time",
     "pronunciationVariants": [
@@ -63,7 +63,7 @@
     "examples": ["At home.", "At 5 PM."]
   },
   {
-    "id": "word_to",
+    "id": "word_en_to",
     "word": "to",
     "meaning": "toward",
     "pronunciationVariants": [
@@ -84,7 +84,7 @@
     "examples": ["Go to school.", "Give to me."]
   },
   {
-    "id": "word_from",
+    "id": "word_en_from",
     "word": "from",
     "meaning": "origin",
     "pronunciationVariants": [
@@ -105,7 +105,7 @@
     "examples": ["From home.", "From the start."]
   },
   {
-    "id": "word_with",
+    "id": "word_en_with",
     "word": "with",
     "meaning": "accompanied by",
     "pronunciationVariants": [
@@ -126,7 +126,7 @@
     "examples": ["With friends.", "With love."]
   },
   {
-    "id": "word_without",
+    "id": "word_en_without",
     "word": "without",
     "meaning": "lacking",
     "pronunciationVariants": [
@@ -147,7 +147,7 @@
     "examples": ["Without help.", "Without doubt."]
   },
   {
-    "id": "word_by",
+    "id": "word_en_by",
     "word": "by",
     "meaning": "near/via",
     "pronunciationVariants": [
@@ -168,7 +168,7 @@
     "examples": ["By the river.", "By bus."]
   },
   {
-    "id": "word_for",
+    "id": "word_en_for",
     "word": "for",
     "meaning": "purpose/duration",
     "pronunciationVariants": [
@@ -189,7 +189,7 @@
     "examples": ["For you.", "For two hours."]
   },
   {
-    "id": "word_of",
+    "id": "word_en_of",
     "word": "of",
     "meaning": "belonging to",
     "pronunciationVariants": [
@@ -210,7 +210,7 @@
     "examples": ["Cup of tea.", "Part of it."]
   },
   {
-    "id": "word_about",
+    "id": "word_en_about",
     "word": "about",
     "meaning": "concerning",
     "pronunciationVariants": [
@@ -231,7 +231,7 @@
     "examples": ["About time.", "Talk about it."]
   },
   {
-    "id": "word_into",
+    "id": "word_en_into",
     "word": "into",
     "meaning": "entrance",
     "pronunciationVariants": [
@@ -252,7 +252,7 @@
     "examples": ["Go into the room.", "Jump into water."]
   },
   {
-    "id": "word_out_of",
+    "id": "word_en_out_of",
     "word": "out of",
     "meaning": "exit/lacking",
     "pronunciationVariants": [
@@ -273,7 +273,7 @@
     "examples": ["Out of time.", "Get out of here."]
   },
   {
-    "id": "word_over",
+    "id": "word_en_over",
     "word": "over",
     "meaning": "above/across",
     "pronunciationVariants": [
@@ -294,7 +294,7 @@
     "examples": ["Over the bridge.", "Over there."]
   },
   {
-    "id": "word_under",
+    "id": "word_en_under",
     "word": "under",
     "meaning": "below",
     "pronunciationVariants": [
@@ -315,7 +315,7 @@
     "examples": ["Under the table.", "Under pressure."]
   },
   {
-    "id": "word_above",
+    "id": "word_en_above",
     "word": "above",
     "meaning": "higher than",
     "pronunciationVariants": [
@@ -336,7 +336,7 @@
     "examples": ["Above the clouds.", "Above average."]
   },
   {
-    "id": "word_below",
+    "id": "word_en_below",
     "word": "below",
     "meaning": "lower than",
     "pronunciationVariants": [
@@ -357,7 +357,7 @@
     "examples": ["Below zero.", "Below the surface."]
   },
   {
-    "id": "word_between",
+    "id": "word_en_between",
     "word": "between",
     "meaning": "in the middle",
     "pronunciationVariants": [
@@ -378,7 +378,7 @@
     "examples": ["Between us.", "Between two trees."]
   },
   {
-    "id": "word_among",
+    "id": "word_en_among",
     "word": "among",
     "meaning": "surrounded by",
     "pronunciationVariants": [
@@ -399,7 +399,7 @@
     "examples": ["Among friends.", "Among the stars."]
   },
   {
-    "id": "word_through",
+    "id": "word_en_through",
     "word": "through",
     "meaning": "across",
     "pronunciationVariants": [
@@ -420,7 +420,7 @@
     "examples": ["Through the door.", "Through the night."]
   },
   {
-    "id": "word_across",
+    "id": "word_en_across",
     "word": "across",
     "meaning": "from side to side",
     "pronunciationVariants": [
@@ -441,7 +441,7 @@
     "examples": ["Across the street.", "Walk across."]
   },
   {
-    "id": "word_around",
+    "id": "word_en_around",
     "word": "around",
     "meaning": "surrounding",
     "pronunciationVariants": [
@@ -462,7 +462,7 @@
     "examples": ["Around the world.", "Look around."]
   },
   {
-    "id": "word_behind",
+    "id": "word_en_behind",
     "word": "behind",
     "meaning": "at the back",
     "pronunciationVariants": [
@@ -483,7 +483,7 @@
     "examples": ["Behind you.", "Behind the house."]
   },
   {
-    "id": "word_in_front_of",
+    "id": "word_en_in_front_of",
     "word": "in front of",
     "meaning": "ahead",
     "pronunciationVariants": [
@@ -504,7 +504,7 @@
     "examples": ["In front of me.", "In front of the building."]
   },
   {
-    "id": "word_next_to",
+    "id": "word_en_next_to",
     "word": "next to",
     "meaning": "beside",
     "pronunciationVariants": [
@@ -525,7 +525,7 @@
     "examples": ["Next to me.", "Sit next to her."]
   },
   {
-    "id": "word_near",
+    "id": "word_en_near",
     "word": "near",
     "meaning": "close to",
     "pronunciationVariants": [
@@ -546,7 +546,7 @@
     "examples": ["Near the river.", "Stay near."]
   },
   {
-    "id": "word_far",
+    "id": "word_en_far",
     "word": "far",
     "meaning": "distant",
     "pronunciationVariants": [
@@ -567,7 +567,7 @@
     "examples": ["Far away.", "Go far."]
   },
   {
-    "id": "word_before",
+    "id": "word_en_before",
     "word": "before",
     "meaning": "earlier than",
     "pronunciationVariants": [
@@ -588,7 +588,7 @@
     "examples": ["Before dinner.", "Before you go."]
   },
   {
-    "id": "word_after",
+    "id": "word_en_after",
     "word": "after",
     "meaning": "later than",
     "pronunciationVariants": [
@@ -609,7 +609,7 @@
     "examples": ["After work.", "After you."]
   },
   {
-    "id": "word_during",
+    "id": "word_en_during",
     "word": "during",
     "meaning": "throughout",
     "pronunciationVariants": [
@@ -630,7 +630,7 @@
     "examples": ["During the day.", "During winter."]
   },
   {
-    "id": "word_since",
+    "id": "word_en_since",
     "word": "since",
     "meaning": "from a point",
     "pronunciationVariants": [
@@ -651,7 +651,7 @@
     "examples": ["Since Monday.", "Since last year."]
   },
   {
-    "id": "word_until",
+    "id": "word_en_until",
     "word": "until",
     "meaning": "up to a point",
     "pronunciationVariants": [
@@ -672,7 +672,7 @@
     "examples": ["Until midnight.", "Wait until."]
   },
   {
-    "id": "word_beyond",
+    "id": "word_en_beyond",
     "word": "beyond",
     "meaning": "past",
     "pronunciationVariants": [
@@ -693,7 +693,7 @@
     "examples": ["Beyond the horizon.", "Beyond belief."]
   },
   {
-    "id": "word_within",
+    "id": "word_en_within",
     "word": "within",
     "meaning": "inside limits",
     "pronunciationVariants": [
@@ -714,7 +714,7 @@
     "examples": ["Within reach.", "Within an hour."]
   },
   {
-    "id": "word_toward",
+    "id": "word_en_toward",
     "word": "toward",
     "meaning": "in direction of",
     "pronunciationVariants": [
@@ -735,7 +735,7 @@
     "examples": ["Toward the city.", "Step toward."]
   },
   {
-    "id": "word_against",
+    "id": "word_en_against",
     "word": "against",
     "meaning": "opposing",
     "pronunciationVariants": [
@@ -756,7 +756,7 @@
     "examples": ["Against the wall.", "Play against."]
   },
   {
-    "id": "word_along",
+    "id": "word_en_along",
     "word": "along",
     "meaning": "following",
     "pronunciationVariants": [
@@ -777,7 +777,7 @@
     "examples": ["Along the road.", "Walk along."]
   },
   {
-    "id": "word_onto",
+    "id": "word_en_onto",
     "word": "onto",
     "meaning": "to a position on",
     "pronunciationVariants": [
@@ -798,7 +798,7 @@
     "examples": ["Step onto the bus.", "Jump onto."]
   },
   {
-    "id": "word_off",
+    "id": "word_en_off",
     "word": "off",
     "meaning": "away from",
     "pronunciationVariants": [
@@ -819,7 +819,7 @@
     "examples": ["Off the table.", "Take off."]
   },
   {
-    "id": "word_according_to",
+    "id": "word_en_according_to",
     "word": "according to",
     "meaning": "as stated or reported by somebody/something",
     "pronunciationVariants": [
@@ -840,7 +840,7 @@
     "examples": ["According to Mick, it's a great movie."]
   },
   {
-    "id": "word_despite",
+    "id": "word_en_despite",
     "word": "despite",
     "meaning": "used to show that something happened or is true although something else might have happened to prevent it",
     "pronunciationVariants": [
@@ -861,7 +861,7 @@
     "examples": ["Her voice was shaking despite all her efforts to control it."]
   },
   {
-    "id": "word_including",
+    "id": "word_en_including",
     "word": "including",
     "meaning": "having something as part of a group or set",
     "pronunciationVariants": [
@@ -882,7 +882,7 @@
     "examples": ["I've got three days' holiday including New Year's Day."]
   },
   {
-    "id": "word_per",
+    "id": "word_en_per",
     "word": "per",
     "meaning": "used to express the cost or amount of something for each person, number used, distance travelled, etc.",
     "pronunciationVariants": [
@@ -903,7 +903,7 @@
     "examples": ["Rooms cost £50 per person, per night."]
   },
   {
-    "id": "word_towards",
+    "id": "word_en_towards",
     "word": "towards",
     "meaning": "in the direction of somebody/something",
     "pronunciationVariants": [
@@ -924,7 +924,7 @@
     "examples": ["They were heading towards the German border."]
   },
   {
-    "id": "word_unlike",
+    "id": "word_en_unlike",
     "word": "unlike",
     "meaning": "different from a particular person or thing",
     "pronunciationVariants": [
@@ -945,7 +945,7 @@
     "examples": ["Music is quite unlike any other art form."]
   },
   {
-    "id": "word_upon",
+    "id": "word_en_upon",
     "word": "upon",
     "meaning": "on; at the time of",
     "pronunciationVariants": [
@@ -966,7 +966,7 @@
     "examples": ["Once upon a time.", "Place the book upon the table."]
   },
   {
-    "id": "word_via",
+    "id": "word_en_via",
     "word": "via",
     "meaning": "through a place",
     "pronunciationVariants": [

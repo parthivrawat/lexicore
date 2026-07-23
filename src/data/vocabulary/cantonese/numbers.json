@@ -193,5 +193,226 @@
     ],
     "category": "numbers",
     "examples": ["一半。", "半個。"]
+  },
+  {
+    "id": "word_yue_sap_jat",
+    "word": "十一",
+    "meaning": "eleven",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "sap⁶ jat¹"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["十一個。", "十一點。"]
+  },
+  {
+    "id": "word_yue_sap_ji",
+    "word": "十二",
+    "meaning": "twelve",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "sap⁶ ji⁶"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["十二個。", "十二月。"]
+  },
+  {
+    "id": "word_yue_sap_saam",
+    "word": "十三",
+    "meaning": "thirteen",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "sap⁶ saam¹"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["十三個。", "十三點。"]
+  },
+  {
+    "id": "word_yue_sap_sei",
+    "word": "十四",
+    "meaning": "fourteen",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "sap⁶ sei³"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["十四個。", "十四歲。"]
+  },
+  {
+    "id": "word_yue_sap_ng",
+    "word": "十五",
+    "meaning": "fifteen",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "sap⁶ ŋ⁵"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["十五個。", "十五分鐘。"]
+  },
+  {
+    "id": "word_yue_sap_luk",
+    "word": "十六",
+    "meaning": "sixteen",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "sap⁶ luk⁶"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["十六個。", "十六歲。"]
+  },
+  {
+    "id": "word_yue_sap_cat",
+    "word": "十七",
+    "meaning": "seventeen",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "sap⁶ cat¹"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["十七個。", "十七點。"]
+  },
+  {
+    "id": "word_yue_sap_baat",
+    "word": "十八",
+    "meaning": "eighteen",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "sap⁶ baat³"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["十八個。", "十八歲。"]
+  },
+  {
+    "id": "word_yue_sap_gau",
+    "word": "十九",
+    "meaning": "nineteen",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "sap⁶ gau²"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["十九個。", "十九歲。"]
+  },
+  {
+    "id": "word_yue_ji_sap",
+    "word": "二十",
+    "meaning": "twenty",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "ji⁶ sap⁶"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["二十個。", "二十歲。"]
+  },
+  {
+    "id": "word_yue_saam_sap",
+    "word": "三十",
+    "meaning": "thirty",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "saam¹ sap⁶"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["三十個。", "三十歲。"]
+  },
+  {
+    "id": "word_yue_sei_sap",
+    "word": "四十",
+    "meaning": "forty",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "sei³ sap⁶"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["四十個。", "四十歲。"]
+  },
+  {
+    "id": "word_yue_ng_sap",
+    "word": "五十",
+    "meaning": "fifty",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "ŋ⁵ sap⁶"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["五十個。", "五十歲。"]
+  },
+  {
+    "id": "word_yue_luk_sap",
+    "word": "六十",
+    "meaning": "sixty",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "luk⁶ sap⁶"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["六十個。", "六十歲。"]
+  },
+  {
+    "id": "word_yue_cat_sap",
+    "word": "七十",
+    "meaning": "seventy",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "cat¹ sap⁶"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["七十個。", "七十歲。"]
+  },
+  {
+    "id": "word_yue_baat_sap",
+    "word": "八十",
+    "meaning": "eighty",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "baat³ sap⁶"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["八十個。", "八十歲。"]
+  },
+  {
+    "id": "word_yue_gau_sap",
+    "word": "九十",
+    "meaning": "ninety",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "gau² sap⁶"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["九十個。", "九十歲。"]
   }
 ]

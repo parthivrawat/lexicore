@@ -25,26 +25,6 @@
     "cognates": [],
     "notes": "From Persian خوب (good/well), used as 'very' in Bengali."
   },
-  "word_bn_o": {
-    "languageOrigin": "Sanskrit",
-    "yearOfOrigin": "c. 500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "अपि (api)",
-        "period": "Classical",
-        "meaning": "also, even"
-      },
-      {
-        "language": "Bengali",
-        "form": "ও",
-        "period": "Modern",
-        "meaning": "also"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Sanskrit अपि."
-  },
   "word_bn_shudhu": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 500 BCE",
@@ -85,66 +65,6 @@
     "cognates": [],
     "notes": "সব (all) + সময় (time). 'All the time'."
   },
-  "word_bn_kokhono": {
-    "languageOrigin": "Sanskrit",
-    "yearOfOrigin": "c. 500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "कदाचित् (kadācit)",
-        "period": "Classical",
-        "meaning": "sometime, never (with negative)"
-      },
-      {
-        "language": "Bengali",
-        "form": "কখনো",
-        "period": "Modern",
-        "meaning": "never"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Sanskrit कदा (when) + चित्."
-  },
-  "word_bn_majhe_majhe": {
-    "languageOrigin": "Sanskrit/Bengali",
-    "yearOfOrigin": "c. 500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "मध्य (madhya)",
-        "period": "Classical",
-        "meaning": "middle"
-      },
-      {
-        "language": "Bengali",
-        "form": "মাঝে মাঝে",
-        "period": "Modern",
-        "meaning": "sometimes"
-      }
-    ],
-    "cognates": [],
-    "notes": "মাঝে (middle) reduplication. 'In between'."
-  },
-  "word_bn_besh": {
-    "languageOrigin": "Sanskrit",
-    "yearOfOrigin": "c. 500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "भृश (bhṛśa)",
-        "period": "Classical",
-        "meaning": "much, often"
-      },
-      {
-        "language": "Bengali",
-        "form": "বেশ",
-        "period": "Modern",
-        "meaning": "often"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Sanskrit भृश."
-  },
   "word_bn_ekhon": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 500 BCE",
@@ -165,27 +85,7 @@
     "cognates": [],
     "notes": "From Prakrit 'ehaṇa/ehāṇa'."
   },
-  "word_bn_pore": {
-    "languageOrigin": "Sanskrit",
-    "yearOfOrigin": "c. 500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "पश्चात् (paścāt)",
-        "period": "Classical",
-        "meaning": "after, behind"
-      },
-      {
-        "language": "Bengali",
-        "form": "পরে",
-        "period": "Modern",
-        "meaning": "later"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Sanskrit पश्चात्."
-  },
-  "word_bn_gotom_kal": {
+  "word_bn_gotokal": {
     "languageOrigin": "Sanskrit/Bengali",
     "yearOfOrigin": "c. 500 BCE",
     "timeline": [
@@ -205,7 +105,7 @@
     "cognates": [],
     "notes": "গত (past) + কাল (day/time)."
   },
-  "word_bn_agami_kal": {
+  "word_bn_aagamikal": {
     "languageOrigin": "Sanskrit/Bengali",
     "yearOfOrigin": "c. 500 BCE",
     "timeline": [
@@ -224,46 +124,6 @@
     ],
     "cognates": [],
     "notes": "আগামী (coming) + কাল (day)."
-  },
-  "word_bn_ebar": {
-    "languageOrigin": "Sanskrit/Bengali",
-    "yearOfOrigin": "c. 500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "एतद् वारम् (etad vāram)",
-        "period": "Classical",
-        "meaning": "this time"
-      },
-      {
-        "language": "Bengali",
-        "form": "এবার",
-        "period": "Modern",
-        "meaning": "already"
-      }
-    ],
-    "cognates": [],
-    "notes": "এ (this) + বার (time). 'This time'."
-  },
-  "word_bn_akono": {
-    "languageOrigin": "Sanskrit",
-    "yearOfOrigin": "c. 500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "अद्यापि (adyāpi)",
-        "period": "Classical",
-        "meaning": "even now"
-      },
-      {
-        "language": "Bengali",
-        "form": "এখনো",
-        "period": "Modern",
-        "meaning": "not yet"
-      }
-    ],
-    "cognates": [],
-    "notes": "এখনো (still). With negative: not yet."
   },
   "word_bn_hoyto": {
     "languageOrigin": "Sanskrit",
@@ -284,25 +144,5 @@
     ],
     "cognates": [],
     "notes": "From 'hoy' (to be) + 'to' (particle). 'Perhaps'."
-  },
-  "word_bn_nishchoy": {
-    "languageOrigin": "Sanskrit",
-    "yearOfOrigin": "c. 500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "निश्चय (niścaya)",
-        "period": "Classical",
-        "meaning": "certainty"
-      },
-      {
-        "language": "Bengali",
-        "form": "নিশ্চয়",
-        "period": "Modern",
-        "meaning": "certainly"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Sanskrit निश्चय."
   }
 }

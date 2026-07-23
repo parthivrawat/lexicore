@@ -323,5 +323,122 @@
     ],
     "category": "verbs",
     "examples": ["কঠোর পরিশ্রম করো।", "আমি অফিসে কাজ করি।"]
+  },
+  {
+    "id": "word_bn_thaka",
+    "word": "থাকা",
+    "meaning": "to stay / to have",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "tʰaka"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["আমি বাড়িতে থাকি।", "তোমার কি আছে?"]
+  },
+  {
+    "id": "word_bn_jana",
+    "word": "জানা",
+    "meaning": "to know",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dʒana"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["আমি জানি।", "তুমি কি জানো?"]
+  },
+  {
+    "id": "word_bn_bhaba",
+    "word": "ভাবা",
+    "meaning": "to think",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "bʱaba"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["আমি ভাবছি।", "তুমি কী ভাবছ?"]
+  },
+  {
+    "id": "word_bn_toiri_kora",
+    "word": "তৈরি করা",
+    "meaning": "to make",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "toiɾi kɔɾa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["কেক তৈরি করো।", "আমি তৈরি করছি।"]
+  },
+  {
+    "id": "word_bn_khela",
+    "word": "খেলা",
+    "meaning": "to play",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kʰela"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["ফুটবল খেলো।", "আমি খেলছি।"]
+  },
+  {
+    "id": "word_bn_jiggasa_kora",
+    "word": "জিজ্ঞাসা করা",
+    "meaning": "to ask",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dʒigɡaʃa kɔɾa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["আমাকে জিজ্ঞাসা করো।", "সে জিজ্ঞাসা করছে।"]
+  },
+  {
+    "id": "word_bn_sahajjo_kora",
+    "word": "সাহায্য করা",
+    "meaning": "to help",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃahad͡ʒd͡ʒo kɔɾa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["আমাকে সাহায্য করো।", "সে সাহায্য করে।"]
+  },
+  {
+    "id": "word_bn_shuru_kora",
+    "word": "শুরু করা",
+    "meaning": "to begin",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃuɾu kɔɾa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["শুরু করো।", "আমরা শুরু করি।"]
+  },
+  {
+    "id": "word_bn_shes_kora",
+    "word": "শেষ করা",
+    "meaning": "to finish",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃeʃ kɔɾa"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["কাজ শেষ করো।", "আমি শেষ করছি।"]
   }
 ]

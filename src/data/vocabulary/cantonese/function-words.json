@@ -184,7 +184,7 @@
   {
     "id": "word_yue_tung",
     "word": "同",
-    "meaning": "and",
+    "meaning": "and / with",
     "pronunciationVariants": [
       {
         "accent": "cantonese",
@@ -192,12 +192,12 @@
       }
     ],
     "category": "function-words",
-    "examples": ["你同我。", "食同飲。"]
+    "examples": ["你同我。", "食同飲。", "同朋友。", "同邊個？"]
   },
   {
     "id": "word_yue_waak_ze",
     "word": "或者",
-    "meaning": "or",
+    "meaning": "or / maybe",
     "pronunciationVariants": [
       {
         "accent": "cantonese",
@@ -205,7 +205,7 @@
       }
     ],
     "category": "function-words",
-    "examples": ["呢個或者嗰個？", "去或者唔去？"]
+    "examples": ["呢個或者嗰個？", "去或者唔去？", "或者係。", "或者唔係。"]
   },
   {
     "id": "word_yue_daan_hai",
@@ -260,19 +260,6 @@
     "examples": ["唔係。", "唔係我。"]
   },
   {
-    "id": "word_yue_hai",
-    "word": "係",
-    "meaning": "yes",
-    "pronunciationVariants": [
-      {
-        "accent": "cantonese",
-        "ipa": "hai⁶"
-      }
-    ],
-    "category": "function-words",
-    "examples": ["係呀。", "係我。"]
-  },
-  {
     "id": "word_yue_ge",
     "word": "嘅",
     "meaning": "possessive/relative marker",
@@ -284,5 +271,83 @@
     ],
     "category": "function-words",
     "examples": ["我嘅書。", "好嘅人。"]
+  },
+  {
+    "id": "word_yue_cyun_bou",
+    "word": "全部",
+    "meaning": "all",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "cyun⁴ bou⁶"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["全部人。", "全部嘢。"]
+  },
+  {
+    "id": "word_yue_jat_di",
+    "word": "一啲",
+    "meaning": "some",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "jat¹ di¹"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["一啲人。", "一啲嘢。"]
+  },
+  {
+    "id": "word_yue_hou_do",
+    "word": "好多",
+    "meaning": "many",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "hou² do¹"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["好多人。", "好多嘢。"]
+  },
+  {
+    "id": "word_yue_so_ji",
+    "word": "所以",
+    "meaning": "so",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "so² ji⁵"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["所以我去。", "所以唔去。"]
+  },
+  {
+    "id": "word_yue_gan_zyu",
+    "word": "跟住",
+    "meaning": "then",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "gan¹ zyu⁶"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["跟住去。", "跟住做。"]
+  },
+  {
+    "id": "word_yue_sin",
+    "word": "先",
+    "meaning": "first",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "sin¹"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["我先。", "先食。"]
   }
 ]

@@ -223,7 +223,7 @@
   {
     "id": "word_bn_na",
     "word": "না",
-    "meaning": "no",
+    "meaning": "no / not",
     "pronunciationVariants": [
       {
         "accent": "bengali",
@@ -247,16 +247,81 @@
     "examples": ["হ্যাঁ, ভালো।", "হ্যাঁ, আমি যাব।"]
   },
   {
-    "id": "word_bn_noy",
-    "word": "নয়",
-    "meaning": "not",
+    "id": "word_bn_kon",
+    "word": "কোন",
+    "meaning": "which",
     "pronunciationVariants": [
       {
         "accent": "bengali",
-        "ipa": "nɔj"
+        "ipa": "kon"
       }
     ],
     "category": "function-words",
-    "examples": ["যাচ্ছি না।", "চাই না।"]
+    "examples": ["কোন বই তুমি চাও?", "কোনটি?"]
+  },
+  {
+    "id": "word_bn_sob",
+    "word": "সব",
+    "meaning": "all",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃɔb"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["সব মানুষ।", "সব ভালো।"]
+  },
+  {
+    "id": "word_bn_ei",
+    "word": "এই",
+    "meaning": "this",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ei"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["এই বই।", "এই বাড়ি।"]
+  },
+  {
+    "id": "word_bn_oi",
+    "word": "ওই",
+    "meaning": "that",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "oi"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["ওই বই।", "ওই বাড়ি।"]
+  },
+  {
+    "id": "word_bn_tarpor",
+    "word": "তারপর",
+    "meaning": "then",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "taɾpɔɾ"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["তারপর যাও।", "আমি তারপর আসব।"]
+  },
+  {
+    "id": "word_bn_karon",
+    "word": "কারণ",
+    "meaning": "because",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kaɾɔn"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["কারণ এটা গুরুত্বপূর্ণ।", "আমি যাব কারণ সে আসছে।"]
   }
 ]

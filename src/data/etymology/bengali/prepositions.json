@@ -1,43 +1,35 @@
 {
-  "word_bn_e": {
+  "word_bn_pore": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 500 BCE",
     "timeline": [
       {
         "language": "Sanskrit",
-        "form": "अन्तर् (antar)?",
+        "form": "पश्चात् (paścāt)",
         "period": "Classical",
-        "meaning": "in"
+        "meaning": "after, behind"
       },
       {
         "language": "Bengali",
-        "form": "এ",
+        "form": "পরে",
         "period": "Modern",
-        "meaning": "in"
-      }
-    ],
-    "cognates": [],
-    "notes": "Locative postposition 'e' (in, at)."
-  },
-  "word_bn_te": {
-    "languageOrigin": "Sanskrit",
-    "yearOfOrigin": "c. 500 BCE",
-    "timeline": [
+        "meaning": "later"
+      },
       {
         "language": "Sanskrit",
-        "form": "-त्र (locative suffix)",
+        "form": "पश्चात् (paścāt)",
         "period": "Classical",
-        "meaning": "at, in"
+        "meaning": "after"
       },
       {
         "language": "Bengali",
-        "form": "তে",
+        "form": "পরে",
         "period": "Modern",
-        "meaning": "to, at"
+        "meaning": "after"
       }
     ],
     "cognates": [],
-    "notes": "Locative/directional postposition 'te'."
+    "notes": "From Sanskrit पश्चात्.; Same as adverb 'pare'. Preposition/postposition 'after'."
   },
   "word_bn_theke": {
     "languageOrigin": "Sanskrit",
@@ -59,26 +51,6 @@
     "cognates": [],
     "notes": "Postposition 'theke' (from)."
   },
-  "word_bn_shong_shonge": {
-    "languageOrigin": "Sanskrit",
-    "yearOfOrigin": "c. 500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "सह (saha)",
-        "period": "Classical",
-        "meaning": "with"
-      },
-      {
-        "language": "Bengali",
-        "form": "সঙ্গে সঙ্গে",
-        "period": "Modern",
-        "meaning": "with"
-      }
-    ],
-    "cognates": [],
-    "notes": "সঙ্গ (companion) + এ. 'Together with'."
-  },
   "word_bn_jonno": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 500 BCE",
@@ -99,7 +71,7 @@
     "cognates": [],
     "notes": "Postposition 'jannya' (for)."
   },
-  "word_bn_somporkhe": {
+  "word_bn_somporke": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 500 BCE",
     "timeline": [
@@ -118,26 +90,6 @@
     ],
     "cognates": [],
     "notes": "সম্পর্ক (relation) + এ. 'Regarding'."
-  },
-  "word_bn_bina": {
-    "languageOrigin": "Sanskrit",
-    "yearOfOrigin": "c. 500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "विना (vinā)",
-        "period": "Classical",
-        "meaning": "without"
-      },
-      {
-        "language": "Bengali",
-        "form": "বিনা",
-        "period": "Modern",
-        "meaning": "without"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Sanskrit विना."
   },
   "word_bn_age": {
     "languageOrigin": "Sanskrit",
@@ -159,27 +111,7 @@
     "cognates": [],
     "notes": "From Sanskrit अग्र."
   },
-  "word_bn_pore_prep": {
-    "languageOrigin": "Sanskrit",
-    "yearOfOrigin": "c. 500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "पश्चात् (paścāt)",
-        "period": "Classical",
-        "meaning": "after"
-      },
-      {
-        "language": "Bengali",
-        "form": "পরে",
-        "period": "Modern",
-        "meaning": "after"
-      }
-    ],
-    "cognates": [],
-    "notes": "Same as adverb 'pare'. Preposition/postposition 'after'."
-  },
-  "word_bn_opore": {
+  "word_bn_upore_prep": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 500 BCE",
     "timeline": [

@@ -1,5 +1,5 @@
 {
-  "word_hello": {
+  "word_en_hello": {
     "languageOrigin": "Middle English",
     "yearOfOrigin": "c. 14th century",
     "timeline": [
@@ -41,7 +41,7 @@
     ],
     "notes": "Popularized by Thomas Edison when he used it to answer the telephone."
   },
-  "word_goodbye": {
+  "word_en_goodbye": {
     "languageOrigin": "Middle English",
     "yearOfOrigin": "c. 16th century",
     "timeline": [
@@ -83,7 +83,7 @@
     ],
     "notes": "Contraction of \"God be with ye\", evolved to \"goodbye\" over time."
   },
-  "word_thank_you": {
+  "word_en_thank_you": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -130,7 +130,7 @@
       }
     ]
   },
-  "word_hi": {
+  "word_en_hi": {
     "languageOrigin": "Middle English",
     "yearOfOrigin": "c. 16th century",
     "timeline": [
@@ -166,7 +166,7 @@
     ],
     "notes": "Shortened form of \"hello\", became popular as a casual greeting in the 20th century."
   },
-  "word_good_morning": {
+  "word_en_good_morning": {
     "languageOrigin": "Middle English",
     "yearOfOrigin": "c. 14th century",
     "timeline": [
@@ -208,7 +208,7 @@
     ],
     "notes": "Compound of \"good\" and \"morning\", used as a standard morning greeting."
   },
-  "word_good_evening": {
+  "word_en_good_evening": {
     "languageOrigin": "Middle English",
     "yearOfOrigin": "c. 14th century",
     "timeline": [
@@ -250,7 +250,7 @@
     ],
     "notes": "Compound of \"good\" and \"evening\", used as a standard evening greeting."
   },
-  "word_bye": {
+  "word_en_bye": {
     "languageOrigin": "Middle English",
     "yearOfOrigin": "c. 16th century",
     "timeline": [
@@ -286,7 +286,7 @@
     ],
     "notes": "Shortened form of \"goodbye\", became popular as a casual farewell."
   },
-  "word_thanks": {
+  "word_en_thanks": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -334,7 +334,7 @@
     ],
     "notes": "Informal form of \"thank you\", from the same root meaning \"to think\" or \"to give thanks\"."
   },
-  "word_please": {
+  "word_en_please": {
     "languageOrigin": "Latin",
     "yearOfOrigin": "c. 14th century",
     "timeline": [
@@ -376,7 +376,7 @@
     ],
     "notes": "From Latin \"placere\" meaning \"to please\", originally used as \"if it pleases you\"."
   },
-  "word_sorry": {
+  "word_en_sorry": {
     "languageOrigin": "Middle English",
     "yearOfOrigin": "c. 15th century",
     "timeline": [
@@ -418,7 +418,7 @@
     ],
     "notes": "From Old English \"sarig\" meaning \"painful\" or \"sore\", later specialized to express apology."
   },
-  "word_excuse_me": {
+  "word_en_excuse_me": {
     "languageOrigin": "Latin",
     "yearOfOrigin": "c. 14th century",
     "timeline": [
@@ -460,7 +460,7 @@
     ],
     "notes": "From Latin \"excusare\" meaning \"to release\" or \"to pardon\", used to politely ask for attention or forgiveness."
   },
-  "word_pardon": {
+  "word_en_pardon": {
     "languageOrigin": "Latin",
     "yearOfOrigin": "c. 14th century",
     "timeline": [
@@ -502,7 +502,7 @@
     ],
     "notes": "From Latin \"per\" (through) + \"donare\" (to give), literally meaning \"to give completely\"."
   },
-  "word_good_afternoon": {
+  "word_en_good_afternoon": {
     "languageOrigin": "Middle English",
     "yearOfOrigin": "c. 14th century",
     "timeline": [
@@ -538,7 +538,7 @@
     ],
     "notes": "Compound of \"good\" and \"afternoon\", used as a standard afternoon greeting."
   },
-  "word_good_night": {
+  "word_en_good_night": {
     "languageOrigin": "Middle English",
     "yearOfOrigin": "c. 14th century",
     "timeline": [
@@ -580,7 +580,7 @@
     ],
     "notes": "Compound of \"good\" and \"night\", used as a farewell at night or before sleep."
   },
-  "word_welcome": {
+  "word_en_welcome": {
     "languageOrigin": "Middle English",
     "yearOfOrigin": "c. 12th century",
     "timeline": [
@@ -622,7 +622,7 @@
     ],
     "notes": "From Old English \"wilcuma\" meaning \"desired guest\", from \"will\" (desire) + \"cuma\" (guest)."
   },
-  "word_congratulations": {
+  "word_en_congratulations": {
     "languageOrigin": "Latin",
     "yearOfOrigin": "c. 16th century",
     "timeline": [
@@ -664,7 +664,7 @@
     ],
     "notes": "From Latin \"congratulari\" meaning \"to rejoice together\", from \"con\" (together) + \"gratulari\" (to give thanks)."
   },
-  "word_how_are_you": {
+  "word_en_how_are_you": {
     "languageOrigin": "Middle English",
     "yearOfOrigin": "c. 16th century",
     "timeline": [
@@ -700,7 +700,7 @@
     ],
     "notes": "Standard greeting inquiring about someone's well-being, evolved from earlier forms like \"how do you do\"."
   },
-  "word_nice_to_meet_you": {
+  "word_en_nice_to_meet_you": {
     "languageOrigin": "Middle English",
     "yearOfOrigin": "c. 19th century",
     "timeline": [
@@ -736,7 +736,7 @@
     ],
     "notes": "Modern polite introduction phrase, combining \"nice\" (pleasant) with \"to meet you\"."
   },
-  "word_see_you_later": {
+  "word_en_see_you_later": {
     "languageOrigin": "Middle English",
     "yearOfOrigin": "c. 20th century",
     "timeline": [
@@ -766,7 +766,7 @@
     ],
     "notes": "Modern casual farewell phrase, literally meaning \"I will see you at a later time\"."
   },
-  "word_take_care": {
+  "word_en_take_care": {
     "languageOrigin": "Middle English",
     "yearOfOrigin": "c. 14th century",
     "timeline": [
@@ -802,7 +802,7 @@
     ],
     "notes": "Originally meant \"to exercise caution\", now commonly used as a farewell meaning \"take care of yourself\"."
   },
-  "word_cheers": {
+  "word_en_cheers": {
     "languageOrigin": "Middle English",
     "yearOfOrigin": "c. 18th century",
     "timeline": [

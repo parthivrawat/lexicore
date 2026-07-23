@@ -96,7 +96,7 @@
     ],
     "notes": "Root ث-ل-ث (th-l-th). Related to 'third' (ثالث)."
   },
-  "word_ar_arbaaa": {
+  "word_ar_arbaa": {
     "languageOrigin": "Proto-Semitic",
     "yearOfOrigin": "Ancient",
     "timeline": [
@@ -252,7 +252,7 @@
     ],
     "notes": "Root ت-س-ع (t-s-ʕ). Related to 'ninth' (تاسع)."
   },
-  "word_ar_aashara": {
+  "word_ar_ashara": {
     "languageOrigin": "Proto-Semitic",
     "yearOfOrigin": "Ancient",
     "timeline": [
@@ -278,7 +278,7 @@
     ],
     "notes": "Root ع-ش-ر (ʕ-sh-r). Base of decimal system."
   },
-  "word_ar_miaa": {
+  "word_ar_mia": {
     "languageOrigin": "Proto-Semitic",
     "yearOfOrigin": "Ancient",
     "timeline": [
@@ -329,45 +329,5 @@
       }
     ],
     "notes": "Root أ-ل-ف (ʔ-l-f). Originally meant 'cattle' as unit of wealth."
-  },
-  "word_ar_million": {
-    "languageOrigin": "European (via Ottoman Turkish)",
-    "yearOfOrigin": "19th century",
-    "timeline": [
-      {
-        "language": "Italian",
-        "form": "milione",
-        "period": "13th century",
-        "meaning": "million"
-      },
-      {
-        "language": "Ottoman Turkish",
-        "form": "milyon",
-        "period": "19th century",
-        "meaning": "million"
-      },
-      {
-        "language": "Modern Arabic",
-        "form": "مليون",
-        "period": "19th-20th century",
-        "meaning": "million"
-      }
-    ],
-    "cognates": [],
-    "notes": "Borrowed from European languages during modernization period."
-  },
-  "word_ar_nisf": {
-    "languageOrigin": "Classical Arabic",
-    "yearOfOrigin": "Pre-Islamic",
-    "timeline": [
-      {
-        "language": "Classical Arabic",
-        "form": "نصف",
-        "period": "Pre-Islamic era",
-        "meaning": "half"
-      }
-    ],
-    "cognates": [],
-    "notes": "Root ن-ص-ف (n-ṣ-f) meaning 'to halve/divide'."
   }
 }

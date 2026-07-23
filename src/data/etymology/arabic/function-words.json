@@ -40,21 +40,7 @@
         "form": "أنت",
         "period": "Pre-Islamic era",
         "meaning": "you"
-      }
-    ],
-    "cognates": [
-      {
-        "language": "Hebrew",
-        "word": "אתה (atah)",
-        "meaning": "you (m.)"
-      }
-    ],
-    "notes": "Second person singular masculine pronoun."
-  },
-  "word_ar_anti": {
-    "languageOrigin": "Proto-Semitic",
-    "yearOfOrigin": "Ancient",
-    "timeline": [
+      },
       {
         "language": "Proto-Semitic",
         "form": "*ʔanti",
@@ -71,11 +57,16 @@
     "cognates": [
       {
         "language": "Hebrew",
+        "word": "אתה (atah)",
+        "meaning": "you (m.)"
+      },
+      {
+        "language": "Hebrew",
         "word": "את (at)",
         "meaning": "you (f.)"
       }
     ],
-    "notes": "Second person singular feminine pronoun."
+    "notes": "Second person singular masculine pronoun.; Second person singular feminine pronoun."
   },
   "word_ar_huwa": {
     "languageOrigin": "Proto-Semitic",
@@ -181,46 +172,6 @@
     ],
     "notes": "Third person plural masculine pronoun."
   },
-  "word_ar_hadha": {
-    "languageOrigin": "Proto-Semitic",
-    "yearOfOrigin": "Ancient",
-    "timeline": [
-      {
-        "language": "Proto-Semitic",
-        "form": "*ḏā",
-        "period": "c. 3000 BCE",
-        "meaning": "this"
-      },
-      {
-        "language": "Classical Arabic",
-        "form": "هذا",
-        "period": "Pre-Islamic era",
-        "meaning": "this"
-      }
-    ],
-    "cognates": [
-      {
-        "language": "Hebrew",
-        "word": "זה (zeh)",
-        "meaning": "this"
-      }
-    ],
-    "notes": "Demonstrative pronoun (masculine)."
-  },
-  "word_ar_dhalika": {
-    "languageOrigin": "Classical Arabic",
-    "yearOfOrigin": "Pre-Islamic",
-    "timeline": [
-      {
-        "language": "Classical Arabic",
-        "form": "ذلك",
-        "period": "Pre-Islamic era",
-        "meaning": "that"
-      }
-    ],
-    "cognates": [],
-    "notes": "Demonstrative pronoun (masculine). Compound form."
-  },
   "word_ar_ma": {
     "languageOrigin": "Proto-Semitic",
     "yearOfOrigin": "Ancient",
@@ -246,32 +197,6 @@
       }
     ],
     "notes": "Interrogative pronoun."
-  },
-  "word_ar_man": {
-    "languageOrigin": "Proto-Semitic",
-    "yearOfOrigin": "Ancient",
-    "timeline": [
-      {
-        "language": "Proto-Semitic",
-        "form": "*man",
-        "period": "c. 3000 BCE",
-        "meaning": "who"
-      },
-      {
-        "language": "Classical Arabic",
-        "form": "من",
-        "period": "Pre-Islamic era",
-        "meaning": "who"
-      }
-    ],
-    "cognates": [
-      {
-        "language": "Hebrew",
-        "word": "מי (mi)",
-        "meaning": "who"
-      }
-    ],
-    "notes": "Interrogative pronoun for persons."
   },
   "word_ar_ayna": {
     "languageOrigin": "Proto-Semitic",
@@ -414,20 +339,6 @@
     ],
     "cognates": [],
     "notes": "Conditional particle."
-  },
-  "word_ar_lianna": {
-    "languageOrigin": "Classical Arabic",
-    "yearOfOrigin": "Pre-Islamic",
-    "timeline": [
-      {
-        "language": "Classical Arabic",
-        "form": "لأن",
-        "period": "Pre-Islamic era",
-        "meaning": "because"
-      }
-    ],
-    "cognates": [],
-    "notes": "Compound: لـ (for) + أن (that). Causal conjunction."
   },
   "word_ar_la": {
     "languageOrigin": "Proto-Semitic",

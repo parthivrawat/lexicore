@@ -65,7 +65,7 @@
     "cognates": [],
     "notes": "Loan from English 'bye-bye'."
   },
-  "word_yue_mgoi": {
+  "word_yue_m_goi": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -85,7 +85,7 @@
     "cognates": [],
     "notes": "m4 (not) + goi1 (should). 'I shouldn't trouble you'."
   },
-  "word_yue_dor_tse": {
+  "word_yue_do_ze": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -105,7 +105,7 @@
     "cognates": [],
     "notes": "do1 (many) + ze6 (thanks)."
   },
-  "word_yue_m4_sai2_haak3hei3": {
+  "word_yue_m_sai_haak_hei": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -119,7 +119,7 @@
     "cognates": [],
     "notes": "m4 sai2 (need not) + haak3 hei3 (polite)."
   },
-  "word_yue_deui_m4_jyu": {
+  "word_yue_deoi_m_zyu": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -139,21 +139,7 @@
     "cognates": [],
     "notes": "Literally 'cannot face (you)'."
   },
-  "word_yue_m4_gin2_jo3": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Cantonese",
-        "form": "唔緊要",
-        "period": "Modern",
-        "meaning": "not important"
-      }
-    ],
-    "cognates": [],
-    "notes": "m4 (not) + gan2 jiu3 (important). 'It doesn't matter'."
-  },
-  "word_yue_joi_gin": {
+  "word_yue_zoi_gin": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -172,81 +158,5 @@
     ],
     "cognates": [],
     "notes": "zoi3 (again) + gin3 (see)."
-  },
-  "word_yue_nei5_sik6_zo2_fan6_mei6_a3": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Cantonese",
-        "form": "你食咗飯未呀？",
-        "period": "Modern",
-        "meaning": "have you eaten?"
-      }
-    ],
-    "cognates": [],
-    "notes": "Common Cantonese greeting."
-  },
-  "word_yue_hou2_sik6": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Cantonese",
-        "form": "好食",
-        "period": "Modern",
-        "meaning": "good to eat"
-      }
-    ],
-    "cognates": [],
-    "notes": "Used as 'I have eaten' in response? Actually 'sik6 zo2' (eaten)."
-  },
-  "word_yue_zou2_tau4": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Cantonese",
-        "form": "早抖",
-        "period": "Modern",
-        "meaning": "early rest"
-      }
-    ],
-    "cognates": [],
-    "notes": "zou2 (early) + tau2 (rest). Good night."
-  },
-  "word_yue_faan1_nging4": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Middle Chinese",
-        "form": "歡迎",
-        "period": "c. 7th century CE",
-        "meaning": "welcome"
-      },
-      {
-        "language": "Cantonese",
-        "form": "歡迎 (fun1 jing4)",
-        "period": "Modern",
-        "meaning": "welcome"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Chinese 歡迎 (huānyíng)."
-  },
-  "word_yue_m4_goi1_saai3": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Cantonese",
-        "form": "唔該晒",
-        "period": "Modern",
-        "meaning": "excuse me / please"
-      }
-    ],
-    "cognates": [],
-    "notes": "m4 goi1 + saai3 (all/very). 'Sorry to trouble you so much'."
   }
 }

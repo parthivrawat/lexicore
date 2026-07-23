@@ -1,6 +1,6 @@
 [
   {
-    "id": "word_quickly",
+    "id": "word_en_quickly",
     "word": "quickly",
     "meaning": "fast",
     "pronunciationVariants": [
@@ -21,7 +21,7 @@
     "examples": ["Run quickly.", "Finish quickly."]
   },
   {
-    "id": "word_slowly",
+    "id": "word_en_slowly",
     "word": "slowly",
     "meaning": "not fast",
     "pronunciationVariants": [
@@ -42,7 +42,7 @@
     "examples": ["Walk slowly.", "Drive slowly."]
   },
   {
-    "id": "word_well",
+    "id": "word_en_well",
     "word": "well",
     "meaning": "properly",
     "pronunciationVariants": [
@@ -63,7 +63,7 @@
     "examples": ["Do it well.", "Well done."]
   },
   {
-    "id": "word_badly",
+    "id": "word_en_badly",
     "word": "badly",
     "meaning": "poorly",
     "pronunciationVariants": [
@@ -84,7 +84,7 @@
     "examples": ["Behave badly.", "Treat badly."]
   },
   {
-    "id": "word_loudly",
+    "id": "word_en_loudly",
     "word": "loudly",
     "meaning": "with noise",
     "pronunciationVariants": [
@@ -105,7 +105,7 @@
     "examples": ["Speak loudly.", "Laugh loudly."]
   },
   {
-    "id": "word_quietly",
+    "id": "word_en_quietly",
     "word": "quietly",
     "meaning": "silently",
     "pronunciationVariants": [
@@ -126,7 +126,7 @@
     "examples": ["Speak quietly.", "Work quietly."]
   },
   {
-    "id": "word_happily",
+    "id": "word_en_happily",
     "word": "happily",
     "meaning": "joyfully",
     "pronunciationVariants": [
@@ -147,7 +147,7 @@
     "examples": ["Live happily.", "Sing happily."]
   },
   {
-    "id": "word_sadly",
+    "id": "word_en_sadly",
     "word": "sadly",
     "meaning": "unhappily",
     "pronunciationVariants": [
@@ -168,7 +168,7 @@
     "examples": ["Sadly, he left.", "Smile sadly."]
   },
   {
-    "id": "word_carefully",
+    "id": "word_en_carefully",
     "word": "carefully",
     "meaning": "with caution",
     "pronunciationVariants": [
@@ -189,7 +189,7 @@
     "examples": ["Drive carefully.", "Listen carefully."]
   },
   {
-    "id": "word_easily",
+    "id": "word_en_easily",
     "word": "easily",
     "meaning": "without difficulty",
     "pronunciationVariants": [
@@ -210,7 +210,7 @@
     "examples": ["Win easily.", "Breathe easily."]
   },
   {
-    "id": "word_clearly",
+    "id": "word_en_clearly",
     "word": "clearly",
     "meaning": "distinctly",
     "pronunciationVariants": [
@@ -231,7 +231,7 @@
     "examples": ["Speak clearly.", "See clearly."]
   },
   {
-    "id": "word_strongly",
+    "id": "word_en_strongly",
     "word": "strongly",
     "meaning": "forcefully",
     "pronunciationVariants": [
@@ -252,7 +252,7 @@
     "examples": ["Feel strongly.", "Disagree strongly."]
   },
   {
-    "id": "word_softly",
+    "id": "word_en_softly",
     "word": "softly",
     "meaning": "gently",
     "pronunciationVariants": [
@@ -273,7 +273,7 @@
     "examples": ["Speak softly.", "Touch softly."]
   },
   {
-    "id": "word_always",
+    "id": "word_en_always",
     "word": "always",
     "meaning": "at all times",
     "pronunciationVariants": [
@@ -294,7 +294,7 @@
     "examples": ["Always late.", "I always remember."]
   },
   {
-    "id": "word_never",
+    "id": "word_en_never",
     "word": "never",
     "meaning": "at no time",
     "pronunciationVariants": [
@@ -315,7 +315,7 @@
     "examples": ["Never give up.", "I never knew."]
   },
   {
-    "id": "word_often",
+    "id": "word_en_often",
     "word": "often",
     "meaning": "frequently",
     "pronunciationVariants": [
@@ -336,7 +336,7 @@
     "examples": ["Visit often.", "Often late."]
   },
   {
-    "id": "word_sometimes",
+    "id": "word_en_sometimes",
     "word": "sometimes",
     "meaning": "occasionally",
     "pronunciationVariants": [
@@ -357,7 +357,7 @@
     "examples": ["Sometimes I wonder.", "Sometimes it rains."]
   },
   {
-    "id": "word_usually",
+    "id": "word_en_usually",
     "word": "usually",
     "meaning": "normally",
     "pronunciationVariants": [
@@ -378,7 +378,7 @@
     "examples": ["Usually works.", "I usually walk."]
   },
   {
-    "id": "word_now",
+    "id": "word_en_now",
     "word": "now",
     "meaning": "at present",
     "pronunciationVariants": [
@@ -399,7 +399,7 @@
     "examples": ["Do it now.", "Right now."]
   },
   {
-    "id": "word_then",
+    "id": "word_en_then",
     "word": "then",
     "meaning": "at that time",
     "pronunciationVariants": [
@@ -420,7 +420,7 @@
     "examples": ["Back then.", "Then we left."]
   },
   {
-    "id": "word_soon",
+    "id": "word_en_soon",
     "word": "soon",
     "meaning": "shortly",
     "pronunciationVariants": [
@@ -441,7 +441,7 @@
     "examples": ["See you soon.", "Coming soon."]
   },
   {
-    "id": "word_later",
+    "id": "word_en_later",
     "word": "later",
     "meaning": "afterwards",
     "pronunciationVariants": [
@@ -462,7 +462,7 @@
     "examples": ["See you later.", "Call later."]
   },
   {
-    "id": "word_yesterday",
+    "id": "word_en_yesterday",
     "word": "yesterday",
     "meaning": "day before today",
     "pronunciationVariants": [
@@ -483,7 +483,7 @@
     "examples": ["Yesterday rained.", "I went yesterday."]
   },
   {
-    "id": "word_today",
+    "id": "word_en_today",
     "word": "today",
     "meaning": "this day",
     "pronunciationVariants": [
@@ -504,7 +504,7 @@
     "examples": ["Today is Monday.", "Work today."]
   },
   {
-    "id": "word_tomorrow",
+    "id": "word_en_tomorrow",
     "word": "tomorrow",
     "meaning": "next day",
     "pronunciationVariants": [
@@ -525,7 +525,7 @@
     "examples": ["See you tomorrow.", "Tomorrow comes."]
   },
   {
-    "id": "word_here",
+    "id": "word_en_here",
     "word": "here",
     "meaning": "in this place",
     "pronunciationVariants": [
@@ -546,7 +546,7 @@
     "examples": ["Come here.", "I live here."]
   },
   {
-    "id": "word_there",
+    "id": "word_en_there",
     "word": "there",
     "meaning": "in that place",
     "pronunciationVariants": [
@@ -567,7 +567,7 @@
     "examples": ["Go there.", "It's over there."]
   },
   {
-    "id": "word_everywhere",
+    "id": "word_en_everywhere",
     "word": "everywhere",
     "meaning": "in all places",
     "pronunciationVariants": [
@@ -588,7 +588,7 @@
     "examples": ["Look everywhere.", "Snow everywhere."]
   },
   {
-    "id": "word_nowhere",
+    "id": "word_en_nowhere",
     "word": "nowhere",
     "meaning": "in no place",
     "pronunciationVariants": [
@@ -609,7 +609,7 @@
     "examples": ["Go nowhere.", "Nowhere to go."]
   },
   {
-    "id": "word_very",
+    "id": "word_en_very",
     "word": "very",
     "meaning": "extremely",
     "pronunciationVariants": [
@@ -630,7 +630,7 @@
     "examples": ["Very good.", "Very happy."]
   },
   {
-    "id": "word_too",
+    "id": "word_en_too",
     "word": "too",
     "meaning": "excessively",
     "pronunciationVariants": [
@@ -651,7 +651,7 @@
     "examples": ["Too hot.", "Too much."]
   },
   {
-    "id": "word_quite",
+    "id": "word_en_quite",
     "word": "quite",
     "meaning": "rather",
     "pronunciationVariants": [
@@ -672,7 +672,7 @@
     "examples": ["Quite good.", "Quite right."]
   },
   {
-    "id": "word_almost",
+    "id": "word_en_almost",
     "word": "almost",
     "meaning": "nearly",
     "pronunciationVariants": [
@@ -693,7 +693,7 @@
     "examples": ["Almost done.", "Almost there."]
   },
   {
-    "id": "word_barely",
+    "id": "word_en_barely",
     "word": "barely",
     "meaning": "hardly",
     "pronunciationVariants": [
@@ -714,7 +714,7 @@
     "examples": ["Barely made it.", "Barely visible."]
   },
   {
-    "id": "word_however",
+    "id": "word_en_however",
     "word": "however",
     "meaning": "nevertheless",
     "pronunciationVariants": [
@@ -735,7 +735,7 @@
     "examples": ["However, I tried.", "However you like."]
   },
   {
-    "id": "word_perhaps",
+    "id": "word_en_perhaps",
     "word": "perhaps",
     "meaning": "maybe",
     "pronunciationVariants": [
@@ -756,7 +756,7 @@
     "examples": ["Perhaps later.", "Perhaps not."]
   },
   {
-    "id": "word_probably",
+    "id": "word_en_probably",
     "word": "probably",
     "meaning": "likely",
     "pronunciationVariants": [
@@ -777,7 +777,7 @@
     "examples": ["Probably yes.", "Probably coming."]
   },
   {
-    "id": "word_certainly",
+    "id": "word_en_certainly",
     "word": "certainly",
     "meaning": "definitely",
     "pronunciationVariants": [
@@ -798,7 +798,7 @@
     "examples": ["Certainly not.", "Certainly yes."]
   },
   {
-    "id": "word_really",
+    "id": "word_en_really",
     "word": "really",
     "meaning": "truly",
     "pronunciationVariants": [
@@ -819,7 +819,7 @@
     "examples": ["Really good.", "Really?"]
   },
   {
-    "id": "word_actually",
+    "id": "word_en_actually",
     "word": "actually",
     "meaning": "in fact",
     "pronunciationVariants": [
@@ -840,7 +840,7 @@
     "examples": ["Actually, no.", "Actually yes."]
   },
   {
-    "id": "word_suddenly",
+    "id": "word_en_suddenly",
     "word": "suddenly",
     "meaning": "unexpectedly",
     "pronunciationVariants": [
@@ -861,7 +861,7 @@
     "examples": ["Suddenly stopped.", "Suddenly appeared."]
   },
   {
-    "id": "word_finally",
+    "id": "word_en_finally",
     "word": "finally",
     "meaning": "at last",
     "pronunciationVariants": [
@@ -882,7 +882,7 @@
     "examples": ["Finally done.", "Finally here."]
   },
   {
-    "id": "word_already",
+    "id": "word_en_already",
     "word": "already",
     "meaning": "before now",
     "pronunciationVariants": [
@@ -903,7 +903,7 @@
     "examples": ["Already done.", "Already left."]
   },
   {
-    "id": "word_still",
+    "id": "word_en_still",
     "word": "still",
     "meaning": "continuing",
     "pronunciationVariants": [
@@ -924,7 +924,7 @@
     "examples": ["Still waiting.", "Still working."]
   },
   {
-    "id": "word_just",
+    "id": "word_en_just",
     "word": "just",
     "meaning": "only/recently",
     "pronunciationVariants": [
@@ -945,7 +945,7 @@
     "examples": ["Just me.", "Just arrived."]
   },
   {
-    "id": "word_only",
+    "id": "word_en_only",
     "word": "only",
     "meaning": "solely",
     "pronunciationVariants": [
@@ -966,7 +966,7 @@
     "examples": ["Only you.", "Only once."]
   },
   {
-    "id": "word_together",
+    "id": "word_en_together",
     "word": "together",
     "meaning": "with others",
     "pronunciationVariants": [
@@ -987,7 +987,7 @@
     "examples": ["Work together.", "Live together."]
   },
   {
-    "id": "word_alone",
+    "id": "word_en_alone",
     "word": "alone",
     "meaning": "by oneself",
     "pronunciationVariants": [
@@ -1008,7 +1008,7 @@
     "examples": ["Sit alone.", "Walk alone."]
   },
   {
-    "id": "word_away",
+    "id": "word_en_away",
     "word": "away",
     "meaning": "distant",
     "pronunciationVariants": [
@@ -1029,7 +1029,7 @@
     "examples": ["Go away.", "Far away."]
   },
   {
-    "id": "word_back",
+    "id": "word_en_back",
     "word": "back",
     "meaning": "return",
     "pronunciationVariants": [
@@ -1050,7 +1050,7 @@
     "examples": ["Come back.", "Go back."]
   },
   {
-    "id": "word_forward",
+    "id": "word_en_forward",
     "word": "forward",
     "meaning": "ahead",
     "pronunciationVariants": [
@@ -1071,7 +1071,7 @@
     "examples": ["Move forward.", "Step forward."]
   },
   {
-    "id": "word_backward",
+    "id": "word_en_backward",
     "word": "backward",
     "meaning": "in reverse",
     "pronunciationVariants": [
@@ -1092,7 +1092,7 @@
     "examples": ["Look backward.", "Step backward."]
   },
   {
-    "id": "word_up",
+    "id": "word_en_up",
     "word": "up",
     "meaning": "upward",
     "pronunciationVariants": [
@@ -1113,7 +1113,7 @@
     "examples": ["Look up.", "Stand up."]
   },
   {
-    "id": "word_down",
+    "id": "word_en_down",
     "word": "down",
     "meaning": "downward",
     "pronunciationVariants": [
@@ -1134,7 +1134,7 @@
     "examples": ["Sit down.", "Go down."]
   },
   {
-    "id": "word_inside",
+    "id": "word_en_inside",
     "word": "inside",
     "meaning": "interior",
     "pronunciationVariants": [
@@ -1155,7 +1155,7 @@
     "examples": ["Stay inside.", "Look inside."]
   },
   {
-    "id": "word_outside",
+    "id": "word_en_outside",
     "word": "outside",
     "meaning": "exterior",
     "pronunciationVariants": [
@@ -1176,7 +1176,7 @@
     "examples": ["Play outside.", "Go outside."]
   },
   {
-    "id": "word_abroad",
+    "id": "word_en_abroad",
     "word": "abroad",
     "meaning": "in or to a foreign country",
     "pronunciationVariants": [
@@ -1197,7 +1197,7 @@
     "examples": ["to go/travel/live/study abroad "]
   },
   {
-    "id": "word_absolutely",
+    "id": "word_en_absolutely",
     "word": "absolutely",
     "meaning": "used to emphasize that something is completely true",
     "pronunciationVariants": [
@@ -1218,7 +1218,7 @@
     "examples": ["You're absolutely right."]
   },
   {
-    "id": "word_afterwards",
+    "id": "word_en_afterwards",
     "word": "afterwards",
     "meaning": "at a later time; after an event that has already been mentioned",
     "pronunciationVariants": [
@@ -1239,7 +1239,7 @@
     "examples": ["Afterwards she was sorry for what she'd said."]
   },
   {
-    "id": "word_again",
+    "id": "word_en_again",
     "word": "again",
     "meaning": "one more time; on another occasion",
     "pronunciationVariants": [
@@ -1260,7 +1260,7 @@
     "examples": ["This must never happen again."]
   },
   {
-    "id": "word_ago",
+    "id": "word_en_ago",
     "word": "ago",
     "meaning": "used in expressions of time with the simple past tense to show how far in the past something happened",
     "pronunciationVariants": [
@@ -1281,7 +1281,7 @@
     "examples": ["two weeks/months/years ago"]
   },
   {
-    "id": "word_ahead",
+    "id": "word_en_ahead",
     "word": "ahead",
     "meaning": "further forward in space or time; in front",
     "pronunciationVariants": [
@@ -1302,7 +1302,7 @@
     "examples": ["I'll run ahead and warn them."]
   },
   {
-    "id": "word_also",
+    "id": "word_en_also",
     "word": "also",
     "meaning": "in addition; too",
     "pronunciationVariants": [
@@ -1323,7 +1323,7 @@
     "examples": ["She's fluent in French and German. She also speaks a little Italian."]
   },
   {
-    "id": "word_any_more",
+    "id": "word_en_any_more",
     "word": "any more",
     "meaning": "often used at the end of negative sentences and at the end of questions, to mean ‘any longer’",
     "pronunciationVariants": [
@@ -1344,7 +1344,7 @@
     "examples": ["She doesn't live here any more."]
   },
   {
-    "id": "word_anyway",
+    "id": "word_en_anyway",
     "word": "anyway",
     "meaning": "used when adding something to support an idea or argument",
     "pronunciationVariants": [
@@ -1365,7 +1365,7 @@
     "examples": ["It's too expensive and anyway the colour doesn't suit you."]
   },
   {
-    "id": "word_apart",
+    "id": "word_en_apart",
     "word": "apart",
     "meaning": "separated by a distance, of space or time",
     "pronunciationVariants": [
@@ -1386,7 +1386,7 @@
     "examples": ["The two houses stood 500 metres apart."]
   },
   {
-    "id": "word_apparently",
+    "id": "word_en_apparently",
     "word": "apparently",
     "meaning": "according to what you have heard or read; according to the way something appears",
     "pronunciationVariants": [
@@ -1407,7 +1407,7 @@
     "examples": ["Apparently they are getting divorced soon."]
   },
   {
-    "id": "word_approximately",
+    "id": "word_en_approximately",
     "word": "approximately",
     "meaning": "used to show that something is almost, but not completely, accurate or correct",
     "pronunciationVariants": [
@@ -1428,7 +1428,7 @@
     "examples": ["The journey took approximately seven hours."]
   },
   {
-    "id": "word_backwards",
+    "id": "word_en_backwards",
     "word": "backwards",
     "meaning": "towards a place or position that is behind",
     "pronunciationVariants": [
@@ -1449,7 +1449,7 @@
     "examples": ["I lost my balance and fell backwards."]
   },
   {
-    "id": "word_basically",
+    "id": "word_en_basically",
     "word": "basically",
     "meaning": "in the most important ways, without considering things that are less important",
     "pronunciationVariants": [
@@ -1470,7 +1470,7 @@
     "examples": ["I think we are basically saying the same thing. "]
   },
   {
-    "id": "word_closely",
+    "id": "word_en_closely",
     "word": "closely",
     "meaning": "near in space or time",
     "pronunciationVariants": [
@@ -1491,7 +1491,7 @@
     "examples": ["He walked into the room, closely followed by the rest of the family."]
   },
   {
-    "id": "word_commonly",
+    "id": "word_en_commonly",
     "word": "commonly",
     "meaning": "usually; very often; by most people",
     "pronunciationVariants": [
@@ -1512,7 +1512,7 @@
     "examples": ["Christopher is commonly known as Kit."]
   },
   {
-    "id": "word_completely",
+    "id": "word_en_completely",
     "word": "completely",
     "meaning": "in every way possible; in every part",
     "pronunciationVariants": [
@@ -1533,7 +1533,7 @@
     "examples": ["It was completely different from how I had imagined it."]
   },
   {
-    "id": "word_constantly",
+    "id": "word_en_constantly",
     "word": "constantly",
     "meaning": "all the time; repeatedly",
     "pronunciationVariants": [
@@ -1554,7 +1554,7 @@
     "examples": ["Fashion is constantly changing."]
   },
   {
-    "id": "word_correctly",
+    "id": "word_en_correctly",
     "word": "correctly",
     "meaning": "in a way that is accurate or true, without any mistakes",
     "pronunciationVariants": [
@@ -1575,7 +1575,7 @@
     "examples": ["Have you spelled it correctly?"]
   },
   {
-    "id": "word_currently",
+    "id": "word_en_currently",
     "word": "currently",
     "meaning": "at the present time",
     "pronunciationVariants": [
@@ -1596,7 +1596,7 @@
     "examples": ["The hourly charge is currently £35."]
   },
   {
-    "id": "word_deeply",
+    "id": "word_en_deeply",
     "word": "deeply",
     "meaning": "very; very much",
     "pronunciationVariants": [
@@ -1617,7 +1617,7 @@
     "examples": ["She is deeply religious."]
   },
   {
-    "id": "word_definitely",
+    "id": "word_en_definitely",
     "word": "definitely",
     "meaning": "a way of emphasizing that something is true and that there is no doubt about it",
     "pronunciationVariants": [
@@ -1638,7 +1638,7 @@
     "examples": ["I definitely remember sending the letter."]
   },
   {
-    "id": "word_deliberately",
+    "id": "word_en_deliberately",
     "word": "deliberately",
     "meaning": "done in a way that was planned, not by chance",
     "pronunciationVariants": [
@@ -1659,7 +1659,7 @@
     "examples": ["She's been deliberately ignoring him all day."]
   },
   {
-    "id": "word_differently",
+    "id": "word_en_differently",
     "word": "differently",
     "meaning": "in a different way from somebody/something",
     "pronunciationVariants": [
@@ -1680,7 +1680,7 @@
     "examples": ["Boys and girls may behave differently."]
   },
   {
-    "id": "word_directly",
+    "id": "word_en_directly",
     "word": "directly",
     "meaning": "without stopping or changing direction",
     "pronunciationVariants": [
@@ -1701,7 +1701,7 @@
     "examples": ["The path leads directly to the river."]
   },
   {
-    "id": "word_downwards",
+    "id": "word_en_downwards",
     "word": "downwards",
     "meaning": "towards the ground; towards a lower place or position",
     "pronunciationVariants": [
@@ -1722,7 +1722,7 @@
     "examples": ["She was lying face downwards on the grass."]
   },
   {
-    "id": "word_effectively",
+    "id": "word_en_effectively",
     "word": "effectively",
     "meaning": "in a way that produces the intended result or a successful result",
     "pronunciationVariants": [
@@ -1743,7 +1743,7 @@
     "examples": ["The company must reduce costs to compete effectively."]
   },
   {
-    "id": "word_else",
+    "id": "word_en_else",
     "word": "else",
     "meaning": "in addition to something already mentioned",
     "pronunciationVariants": [
@@ -1764,7 +1764,7 @@
     "examples": ["What else did he say?"]
   },
   {
-    "id": "word_elsewhere",
+    "id": "word_en_elsewhere",
     "word": "elsewhere",
     "meaning": "in, at or to another place or other places",
     "pronunciationVariants": [
@@ -1785,7 +1785,7 @@
     "examples": ["Dissatisfied customers will look elsewhere."]
   },
   {
-    "id": "word_entirely",
+    "id": "word_en_entirely",
     "word": "entirely",
     "meaning": "in every way possible; completely",
     "pronunciationVariants": [
@@ -1806,7 +1806,7 @@
     "examples": ["The experience was entirely new to me."]
   },
   {
-    "id": "word_equally",
+    "id": "word_en_equally",
     "word": "equally",
     "meaning": "to the same degree; in the same or in a similar way",
     "pronunciationVariants": [
@@ -1827,7 +1827,7 @@
     "examples": ["Diet and exercise are equally important."]
   },
   {
-    "id": "word_especially",
+    "id": "word_en_especially",
     "word": "especially",
     "meaning": "more with one person, thing, etc. than with others, or more in particular circumstances than in others ",
     "pronunciationVariants": [
@@ -1848,7 +1848,7 @@
     "examples": ["Teenagers are very fashion conscious, especially girls."]
   },
   {
-    "id": "word_eventually",
+    "id": "word_en_eventually",
     "word": "eventually",
     "meaning": "at the end of a period of time or a series of events",
     "pronunciationVariants": [
@@ -1869,7 +1869,7 @@
     "examples": ["Our flight eventually left five hours late."]
   },
   {
-    "id": "word_ever",
+    "id": "word_en_ever",
     "word": "ever",
     "meaning": "used in negative sentences and questions, or sentences with if to mean ‘at any time’",
     "pronunciationVariants": [
@@ -1890,7 +1890,7 @@
     "examples": ["Nothing ever happens here."]
   },
   {
-    "id": "word_exactly",
+    "id": "word_en_exactly",
     "word": "exactly",
     "meaning": "used to emphasize that something is correct in every way or in every detail",
     "pronunciationVariants": [
@@ -1911,7 +1911,7 @@
     "examples": ["It's exactly nine o'clock."]
   },
   {
-    "id": "word_extremely",
+    "id": "word_en_extremely",
     "word": "extremely",
     "meaning": "to a very high degree",
     "pronunciationVariants": [
@@ -1932,7 +1932,7 @@
     "examples": ["It is extremely important to follow the directions exactly."]
   },
   {
-    "id": "word_fairly",
+    "id": "word_en_fairly",
     "word": "fairly",
     "meaning": "to some extent but not very",
     "pronunciationVariants": [
@@ -1953,7 +1953,7 @@
     "examples": ["fairly simple/easy/straightforward"]
   },
   {
-    "id": "word_firstly",
+    "id": "word_en_firstly",
     "word": "firstly",
     "meaning": "used to introduce the first of a list of points you want to make in a speech or piece of writing",
     "pronunciationVariants": [
@@ -1974,7 +1974,7 @@
     "examples": ["There are two reasons for this decision: firstly…"]
   },
   {
-    "id": "word_forever",
+    "id": "word_en_forever",
     "word": "forever",
     "meaning": "used to say that a particular situation or state will always exist",
     "pronunciationVariants": [
@@ -1995,7 +1995,7 @@
     "examples": ["I'll love you forever!"]
   },
   {
-    "id": "word_fortunately",
+    "id": "word_en_fortunately",
     "word": "fortunately",
     "meaning": "by good luck",
     "pronunciationVariants": [
@@ -2016,7 +2016,7 @@
     "examples": ["I was late, but fortunately the meeting hadn't started."]
   },
   {
-    "id": "word_frequently",
+    "id": "word_en_frequently",
     "word": "frequently",
     "meaning": "often",
     "pronunciationVariants": [
@@ -2037,7 +2037,7 @@
     "examples": ["Buses run frequently between the city and the airport."]
   },
   {
-    "id": "word_fully",
+    "id": "word_en_fully",
     "word": "fully",
     "meaning": "completely",
     "pronunciationVariants": [
@@ -2058,7 +2058,7 @@
     "examples": ["I fully understand your motives."]
   },
   {
-    "id": "word_furthermore",
+    "id": "word_en_furthermore",
     "word": "furthermore",
     "meaning": "in addition to what has just been stated. Furthermore is used especially to add a point to an argument.",
     "pronunciationVariants": [
@@ -2081,7 +2081,7 @@
     ]
   },
   {
-    "id": "word_generally",
+    "id": "word_en_generally",
     "word": "generally",
     "meaning": "by or to most people",
     "pronunciationVariants": [
@@ -2102,7 +2102,7 @@
     "examples": ["The initiative was generally considered a success."]
   },
   {
-    "id": "word_gradually",
+    "id": "word_en_gradually",
     "word": "gradually",
     "meaning": "slowly, over a long period of time",
     "pronunciationVariants": [
@@ -2123,7 +2123,7 @@
     "examples": ["to gradually increase/decrease"]
   },
   {
-    "id": "word_hardly",
+    "id": "word_en_hardly",
     "word": "hardly",
     "meaning": "almost no; almost not; almost none",
     "pronunciationVariants": [
@@ -2144,7 +2144,7 @@
     "examples": ["There's hardly any tea left."]
   },
   {
-    "id": "word_heavily",
+    "id": "word_en_heavily",
     "word": "heavily",
     "meaning": "to a great degree; in large amounts",
     "pronunciationVariants": [
@@ -2165,7 +2165,7 @@
     "examples": ["It was raining heavily."]
   },
   {
-    "id": "word_highly",
+    "id": "word_en_highly",
     "word": "highly",
     "meaning": "very",
     "pronunciationVariants": [
@@ -2186,7 +2186,7 @@
     "examples": ["It is highly unlikely that she'll be late."]
   },
   {
-    "id": "word_how",
+    "id": "word_en_how",
     "word": "how",
     "meaning": "in what way or manner",
     "pronunciationVariants": [
@@ -2207,7 +2207,7 @@
     "examples": ["How does it work?"]
   },
   {
-    "id": "word_immediately",
+    "id": "word_en_immediately",
     "word": "immediately",
     "meaning": "without delay",
     "pronunciationVariants": [
@@ -2228,7 +2228,7 @@
     "examples": ["She answered almost immediately."]
   },
   {
-    "id": "word_increasingly",
+    "id": "word_en_increasingly",
     "word": "increasingly",
     "meaning": "more and more all the time",
     "pronunciationVariants": [
@@ -2249,7 +2249,7 @@
     "examples": ["Tourism is playing an increasingly important role in the region's economy"]
   },
   {
-    "id": "word_incredibly",
+    "id": "word_en_incredibly",
     "word": "incredibly",
     "meaning": "extremely",
     "pronunciationVariants": [
@@ -2270,7 +2270,7 @@
     "examples": ["It was all incredibly difficult."]
   },
   {
-    "id": "word_indeed",
+    "id": "word_en_indeed",
     "word": "indeed",
     "meaning": "used after very and an adjective or adverb to emphasize a statement, description, etc.",
     "pronunciationVariants": [
@@ -2291,7 +2291,7 @@
     "examples": ["Thank you very much indeed!"]
   },
   {
-    "id": "word_indoors",
+    "id": "word_en_indoors",
     "word": "indoors",
     "meaning": "inside or into a building",
     "pronunciationVariants": [
@@ -2312,7 +2312,7 @@
     "examples": ["I prefer to stay indoors in this really hot weather."]
   },
   {
-    "id": "word_initially",
+    "id": "word_en_initially",
     "word": "initially",
     "meaning": "at the beginning",
     "pronunciationVariants": [
@@ -2333,7 +2333,7 @@
     "examples": ["Initially, the system worked well."]
   },
   {
-    "id": "word_instead",
+    "id": "word_en_instead",
     "word": "instead",
     "meaning": "in the place of somebody/something",
     "pronunciationVariants": [
@@ -2354,7 +2354,7 @@
     "examples": ["Lee was ill so I went instead."]
   },
   {
-    "id": "word_largely",
+    "id": "word_en_largely",
     "word": "largely",
     "meaning": "to a great extent; mostly or mainly",
     "pronunciationVariants": [
@@ -2375,7 +2375,7 @@
     "examples": ["The manager was largely responsible for the team’s victory."]
   },
   {
-    "id": "word_mainly",
+    "id": "word_en_mainly",
     "word": "mainly",
     "meaning": "more than anything else; also used to talk about the most important reason for something",
     "pronunciationVariants": [
@@ -2396,7 +2396,7 @@
     "examples": ["They eat mainly fruit and nuts."]
   },
   {
-    "id": "word_maybe",
+    "id": "word_en_maybe",
     "word": "maybe",
     "meaning": "used when you are not certain that something will happen or that something is true or is a correct number ",
     "pronunciationVariants": [
@@ -2417,7 +2417,7 @@
     "examples": ["Maybe he'll come, maybe he won't."]
   },
   {
-    "id": "word_meanwhile",
+    "id": "word_en_meanwhile",
     "word": "meanwhile",
     "meaning": "while something else is happening",
     "pronunciationVariants": [
@@ -2438,7 +2438,7 @@
     "examples": ["Leave the cake to cool completely. Meanwhile, make the topping."]
   },
   {
-    "id": "word_mostly",
+    "id": "word_en_mostly",
     "word": "mostly",
     "meaning": "mainly; generally",
     "pronunciationVariants": [
@@ -2459,7 +2459,7 @@
     "examples": ["The sauce is mostly cream."]
   },
   {
-    "id": "word_naturally",
+    "id": "word_en_naturally",
     "word": "naturally",
     "meaning": "in a way that you would expect",
     "pronunciationVariants": [
@@ -2480,7 +2480,7 @@
     "examples": ["Naturally, I get upset when things go wrong."]
   },
   {
-    "id": "word_nearly",
+    "id": "word_en_nearly",
     "word": "nearly",
     "meaning": "almost; not quite; not completely",
     "pronunciationVariants": [
@@ -2501,7 +2501,7 @@
     "examples": ["The bottle's nearly empty."]
   },
   {
-    "id": "word_necessarily",
+    "id": "word_en_necessarily",
     "word": "necessarily",
     "meaning": "used to say that something cannot be avoided",
     "pronunciationVariants": [
@@ -2522,7 +2522,7 @@
     "examples": ["The number of places available is necessarily limited."]
   },
   {
-    "id": "word_nevertheless",
+    "id": "word_en_nevertheless",
     "word": "nevertheless",
     "meaning": "despite something that you have just mentioned",
     "pronunciationVariants": [
@@ -2545,7 +2545,7 @@
     ]
   },
   {
-    "id": "word_normally",
+    "id": "word_en_normally",
     "word": "normally",
     "meaning": "usually; in normal circumstances",
     "pronunciationVariants": [
@@ -2566,7 +2566,7 @@
     "examples": ["I would never normally discuss this."]
   },
   {
-    "id": "word_not",
+    "id": "word_en_not",
     "word": "not",
     "meaning": "used with be, do or have to form the negative of verbs; used to form the negative of modal verbs like can or must",
     "pronunciationVariants": [
@@ -2587,7 +2587,7 @@
     "examples": ["She did not/didn’t see him."]
   },
   {
-    "id": "word_oclock",
+    "id": "word_en_oclock",
     "word": "o'clock",
     "meaning": "used with the numbers 1 to 12 when telling the time, to mean an exact hour",
     "pronunciationVariants": [
@@ -2608,7 +2608,7 @@
     "examples": ["He left between five and six o'clock."]
   },
   {
-    "id": "word_obviously",
+    "id": "word_en_obviously",
     "word": "obviously",
     "meaning": "used when giving information that you expect other people to know already or agree with",
     "pronunciationVariants": [
@@ -2629,7 +2629,7 @@
     "examples": ["Obviously, we don't want to spend too much money."]
   },
   {
-    "id": "word_occasionally",
+    "id": "word_en_occasionally",
     "word": "occasionally",
     "meaning": "sometimes but not often",
     "pronunciationVariants": [
@@ -2650,7 +2650,7 @@
     "examples": ["We occasionally meet for a drink after work."]
   },
   {
-    "id": "word_originally",
+    "id": "word_en_originally",
     "word": "originally",
     "meaning": "used to describe the situation that existed at the beginning of a particular period or activity, especially before something was changed",
     "pronunciationVariants": [
@@ -2671,7 +2671,7 @@
     "examples": ["The school was originally very small."]
   },
   {
-    "id": "word_otherwise",
+    "id": "word_en_otherwise",
     "word": "otherwise",
     "meaning": "used to state what the result would be if something did not happen or if the situation were different",
     "pronunciationVariants": [
@@ -2692,7 +2692,7 @@
     "examples": ["My parents lent me the money. Otherwise, I couldn't have afforded the trip."]
   },
   {
-    "id": "word_out",
+    "id": "word_en_out",
     "word": "out",
     "meaning": "away from the inside of a place or thing",
     "pronunciationVariants": [
@@ -2713,7 +2713,7 @@
     "examples": ["She ran out into the corridor."]
   },
   {
-    "id": "word_outdoors",
+    "id": "word_en_outdoors",
     "word": "outdoors",
     "meaning": "outside, rather than in a building",
     "pronunciationVariants": [
@@ -2734,7 +2734,7 @@
     "examples": ["The rain prevented them from eating outdoors."]
   },
   {
-    "id": "word_particularly",
+    "id": "word_en_particularly",
     "word": "particularly",
     "meaning": "especially; more than usual or more than others",
     "pronunciationVariants": [
@@ -2755,7 +2755,7 @@
     "examples": ["particularly useful/important/interesting"]
   },
   {
-    "id": "word_partly",
+    "id": "word_en_partly",
     "word": "partly",
     "meaning": "to some extent; not completely",
     "pronunciationVariants": [
@@ -2778,7 +2778,7 @@
     ]
   },
   {
-    "id": "word_perfectly",
+    "id": "word_en_perfectly",
     "word": "perfectly",
     "meaning": "completely",
     "pronunciationVariants": [
@@ -2799,7 +2799,7 @@
     "examples": ["It's perfectly normal to feel like this."]
   },
   {
-    "id": "word_personally",
+    "id": "word_en_personally",
     "word": "personally",
     "meaning": "used to show that you are giving your own opinion about something",
     "pronunciationVariants": [
@@ -2820,7 +2820,7 @@
     "examples": ["Personally, I prefer the second option."]
   },
   {
-    "id": "word_possibly",
+    "id": "word_en_possibly",
     "word": "possibly",
     "meaning": "used to say that something might exist, happen or be true, but you are not certain",
     "pronunciationVariants": [
@@ -2841,7 +2841,7 @@
     "examples": ["It was possibly their worst performance ever."]
   },
   {
-    "id": "word_previously",
+    "id": "word_en_previously",
     "word": "previously",
     "meaning": "at a time before the time that you are talking about",
     "pronunciationVariants": [
@@ -2862,7 +2862,7 @@
     "examples": ["The building had previously been used as a hotel."]
   },
   {
-    "id": "word_properly",
+    "id": "word_en_properly",
     "word": "properly",
     "meaning": "in a way that is correct and/or appropriate",
     "pronunciationVariants": [
@@ -2883,7 +2883,7 @@
     "examples": ["How much money do we need to do the job properly?"]
   },
   {
-    "id": "word_rapidly",
+    "id": "word_en_rapidly",
     "word": "rapidly",
     "meaning": "very quickly; at a great rate",
     "pronunciationVariants": [
@@ -2904,7 +2904,7 @@
     "examples": ["to increase/spread/expand rapidly"]
   },
   {
-    "id": "word_rarely",
+    "id": "word_en_rarely",
     "word": "rarely",
     "meaning": "not very often",
     "pronunciationVariants": [
@@ -2925,7 +2925,7 @@
     "examples": ["She is rarely seen in public nowadays."]
   },
   {
-    "id": "word_rather",
+    "id": "word_en_rather",
     "word": "rather",
     "meaning": "used to mean ‘fairly’ or ‘to some degree’, often when you are disappointed, surprised or expressing slight criticism ",
     "pronunciationVariants": [
@@ -2946,7 +2946,7 @@
     "examples": ["rather odd/strange/unusual"]
   },
   {
-    "id": "word_recently",
+    "id": "word_en_recently",
     "word": "recently",
     "meaning": "not long ago",
     "pronunciationVariants": [
@@ -2967,7 +2967,7 @@
     "examples": ["a recently published book"]
   },
   {
-    "id": "word_regularly",
+    "id": "word_en_regularly",
     "word": "regularly",
     "meaning": "at regular intervals or times ",
     "pronunciationVariants": [
@@ -2988,7 +2988,7 @@
     "examples": ["We meet regularly to discuss the progress of the project."]
   },
   {
-    "id": "word_relatively",
+    "id": "word_en_relatively",
     "word": "relatively",
     "meaning": "to a fairly large degree, especially in comparison to something else",
     "pronunciationVariants": [
@@ -3009,7 +3009,7 @@
     "examples": ["relatively large/small/high/low"]
   },
   {
-    "id": "word_secondly",
+    "id": "word_en_secondly",
     "word": "secondly",
     "meaning": "used to introduce the second of a list of points you want to make in a speech or piece of writing",
     "pronunciationVariants": [
@@ -3030,7 +3030,7 @@
     "examples": ["Firstly, it's expensive, and secondly, it's too slow."]
   },
   {
-    "id": "word_seriously",
+    "id": "word_en_seriously",
     "word": "seriously",
     "meaning": "in a serious way",
     "pronunciationVariants": [
@@ -3051,7 +3051,7 @@
     "examples": ["to be seriously ill/injured/wounded/hurt"]
   },
   {
-    "id": "word_significantly",
+    "id": "word_en_significantly",
     "word": "significantly",
     "meaning": "in a way that is large or important enough to have an effect on something or to be noticed",
     "pronunciationVariants": [
@@ -3072,7 +3072,7 @@
     "examples": ["significantly higher/lower/larger/smaller"]
   },
   {
-    "id": "word_similarly",
+    "id": "word_en_similarly",
     "word": "similarly",
     "meaning": "in almost the same way",
     "pronunciationVariants": [
@@ -3093,7 +3093,7 @@
     "examples": ["It is a little cheaper than other similarly sized cars."]
   },
   {
-    "id": "word_simply",
+    "id": "word_en_simply",
     "word": "simply",
     "meaning": "used to emphasize how easy or basic something is",
     "pronunciationVariants": [
@@ -3114,7 +3114,7 @@
     "examples": ["To order, simply click here."]
   },
   {
-    "id": "word_slightly",
+    "id": "word_en_slightly",
     "word": "slightly",
     "meaning": "a little",
     "pronunciationVariants": [
@@ -3135,7 +3135,7 @@
     "examples": ["a slightly different version"]
   },
   {
-    "id": "word_somewhat",
+    "id": "word_en_somewhat",
     "word": "somewhat",
     "meaning": "to some degree",
     "pronunciationVariants": [
@@ -3156,7 +3156,7 @@
     "examples": ["somewhat different/similar"]
   },
   {
-    "id": "word_specifically",
+    "id": "word_en_specifically",
     "word": "specifically",
     "meaning": "connected with or intended for one particular thing only",
     "pronunciationVariants": [
@@ -3177,7 +3177,7 @@
     "examples": ["liquid vitamins specifically designed for children"]
   },
   {
-    "id": "word_successfully",
+    "id": "word_en_successfully",
     "word": "successfully",
     "meaning": "in a way that achieves your aims or what was intended",
     "pronunciationVariants": [
@@ -3198,7 +3198,7 @@
     "examples": ["She had already successfully completed these courses."]
   },
   {
-    "id": "word_surely",
+    "id": "word_en_surely",
     "word": "surely",
     "meaning": "used to show that you are almost certain of what you are saying and want other people to agree with you",
     "pronunciationVariants": [
@@ -3219,7 +3219,7 @@
     "examples": ["Surely we should do something about it?"]
   },
   {
-    "id": "word_therefore",
+    "id": "word_en_therefore",
     "word": "therefore",
     "meaning": "used to introduce the logical result of something that has just been mentioned",
     "pronunciationVariants": [
@@ -3240,7 +3240,7 @@
     "examples": ["He's only 17 and therefore not eligible to vote."]
   },
   {
-    "id": "word_throughout",
+    "id": "word_en_throughout",
     "word": "throughout",
     "meaning": "in or into every part of something",
     "pronunciationVariants": [
@@ -3261,7 +3261,7 @@
     "examples": ["They export their products to markets throughout the world."]
   },
   {
-    "id": "word_thus",
+    "id": "word_en_thus",
     "word": "thus",
     "meaning": "in this way; like this",
     "pronunciationVariants": [
@@ -3282,7 +3282,7 @@
     "examples": ["Many scholars have argued thus."]
   },
   {
-    "id": "word_totally",
+    "id": "word_en_totally",
     "word": "totally",
     "meaning": "completely",
     "pronunciationVariants": [
@@ -3303,7 +3303,7 @@
     "examples": ["They come from totally different cultures."]
   },
   {
-    "id": "word_truly",
+    "id": "word_en_truly",
     "word": "truly",
     "meaning": "used to emphasize that a particular statement, feeling, etc. is sincere or real",
     "pronunciationVariants": [
@@ -3324,7 +3324,7 @@
     "examples": ["She truly believes that none of this is her fault."]
   },
   {
-    "id": "word_twice",
+    "id": "word_en_twice",
     "word": "twice",
     "meaning": "two times; on two occasions",
     "pronunciationVariants": [
@@ -3345,7 +3345,7 @@
     "examples": ["I don't know him well; I've only met him twice."]
   },
   {
-    "id": "word_typically",
+    "id": "word_en_typically",
     "word": "typically",
     "meaning": "used to say that something usually happens in the way that you are stating",
     "pronunciationVariants": [
@@ -3366,7 +3366,7 @@
     "examples": ["The standard chips are typically used for databases and other business software."]
   },
   {
-    "id": "word_ultimately",
+    "id": "word_en_ultimately",
     "word": "ultimately",
     "meaning": "in the end; finally",
     "pronunciationVariants": [
@@ -3387,7 +3387,7 @@
     "examples": ["A poor diet will ultimately lead to illness."]
   },
   {
-    "id": "word_unfortunately",
+    "id": "word_en_unfortunately",
     "word": "unfortunately",
     "meaning": "used to say that a particular situation or fact makes you sad or disappointed, or gets you into a difficult position",
     "pronunciationVariants": [
@@ -3408,7 +3408,7 @@
     "examples": ["Unfortunately, I won't be able to attend the meeting."]
   },
   {
-    "id": "word_upwards",
+    "id": "word_en_upwards",
     "word": "upwards",
     "meaning": "towards a higher place or position",
     "pronunciationVariants": [
@@ -3429,7 +3429,7 @@
     "examples": ["Place your hands on the table with the palms facing upwards."]
   },
   {
-    "id": "word_why",
+    "id": "word_en_why",
     "word": "why",
     "meaning": "used in questions to ask the reason for or purpose of something",
     "pronunciationVariants": [
@@ -3450,7 +3450,7 @@
     "examples": ["Why were you late?"]
   },
   {
-    "id": "word_widely",
+    "id": "word_en_widely",
     "word": "widely",
     "meaning": "by a lot of people; in or to many places",
     "pronunciationVariants": [

@@ -1,5 +1,5 @@
 {
-  "word_in": {
+  "word_en_in": {
     "languageOrigin": "Proto-Indo-European",
     "yearOfOrigin": "Prehistoric",
     "timeline": [
@@ -62,7 +62,7 @@
       }
     ]
   },
-  "word_on": {
+  "word_en_on": {
     "languageOrigin": "Proto-Indo-European",
     "yearOfOrigin": "Prehistoric",
     "timeline": [
@@ -115,7 +115,7 @@
       }
     ]
   },
-  "word_with": {
+  "word_en_with": {
     "languageOrigin": "Proto-Indo-European",
     "yearOfOrigin": "Prehistoric",
     "timeline": [
@@ -169,7 +169,7 @@
     ],
     "notes": "Originally meant \"against\", evolved to mean \"together with\"."
   },
-  "word_at": {
+  "word_en_at": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -217,7 +217,7 @@
     ],
     "notes": "From a root meaning \"near\" or \"at\", used to indicate location or time."
   },
-  "word_to": {
+  "word_en_to": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -270,7 +270,7 @@
     ],
     "notes": "From a root meaning \"toward\" or \"in the direction of\"."
   },
-  "word_from": {
+  "word_en_from": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -318,7 +318,7 @@
     ],
     "notes": "Originally meant \"forward\" or \"away from\", specialized to indicate origin."
   },
-  "word_by": {
+  "word_en_by": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -366,7 +366,7 @@
     ],
     "notes": "From a root meaning \"near\" or \"beside\", used to indicate proximity or agency."
   },
-  "word_for": {
+  "word_en_for": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -414,7 +414,7 @@
     ],
     "notes": "Originally meant \"before\" or \"in front of\", evolved to indicate purpose or duration."
   },
-  "word_of": {
+  "word_en_of": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -462,7 +462,7 @@
     ],
     "notes": "From a root meaning \"off\" or \"away from\", used to indicate possession or origin."
   },
-  "word_about": {
+  "word_en_about": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -504,7 +504,7 @@
     ],
     "notes": "Compound of \"on\" + \"by\" (outside), originally meant \"on the outside\" or \"around\"."
   },
-  "word_into": {
+  "word_en_into": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -546,7 +546,7 @@
     ],
     "notes": "Compound of \"in\" + \"to\", indicating movement toward the inside."
   },
-  "word_out_of": {
+  "word_en_out_of": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -588,7 +588,7 @@
     ],
     "notes": "Compound of \"out\" + \"of\", indicating movement from the inside."
   },
-  "word_over": {
+  "word_en_over": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -641,7 +641,7 @@
     ],
     "notes": "From a root meaning \"upper\" or \"above\", used to indicate position or completion."
   },
-  "word_under": {
+  "word_en_under": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -694,7 +694,7 @@
     ],
     "notes": "From a root meaning \"below\" or \"beneath\", indicating position or subordination."
   },
-  "word_above": {
+  "word_en_above": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -736,7 +736,7 @@
     ],
     "notes": "Compound of \"on\" + \"by\" (outside), originally meant \"on the outside\" or \"above\"."
   },
-  "word_below": {
+  "word_en_below": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -778,7 +778,7 @@
     ],
     "notes": "Compound of \"by\" + \"low\" (beneath), literally meaning \"beneath\"."
   },
-  "word_between": {
+  "word_en_between": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -820,7 +820,7 @@
     ],
     "notes": "Compound of \"by\" + \"two\" (twain), literally meaning \"by two\" or \"in the middle of two\"."
   },
-  "word_among": {
+  "word_en_among": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -862,7 +862,7 @@
     ],
     "notes": "From a root meaning \"in company\" or \"mixed with\", indicating being surrounded by."
   },
-  "word_through": {
+  "word_en_through": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -910,7 +910,7 @@
     ],
     "notes": "From a root meaning \"through\" or \"from end to end\", indicating passage or completion."
   },
-  "word_across": {
+  "word_en_across": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -952,7 +952,7 @@
     ],
     "notes": "Compound of \"on\" + \"cross\", originally meant \"in the form of a cross\" or \"from side to side\"."
   },
-  "word_around": {
+  "word_en_around": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -994,7 +994,7 @@
     ],
     "notes": "From a root meaning \"round\" or \"circular\", indicating surrounding position."
   },
-  "word_behind": {
+  "word_en_behind": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -1036,7 +1036,7 @@
     ],
     "notes": "Compound of \"by\" + \"hind\" (back), literally meaning \"at the back\"."
   },
-  "word_in_front_of": {
+  "word_en_in_front_of": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -1078,7 +1078,7 @@
     ],
     "notes": "Compound of \"in\" + \"front\" + \"of\", indicating position ahead of something."
   },
-  "word_next_to": {
+  "word_en_next_to": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -1120,7 +1120,7 @@
     ],
     "notes": "Compound of \"next\" (nearest) + \"to\", indicating immediate proximity."
   },
-  "word_near": {
+  "word_en_near": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -1168,7 +1168,7 @@
     ],
     "notes": "From a root meaning \"near\" or \"close\", indicating proximity."
   },
-  "word_far": {
+  "word_en_far": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -1221,7 +1221,7 @@
     ],
     "notes": "From a root meaning \"far\" or \"distant\", indicating distance."
   },
-  "word_before": {
+  "word_en_before": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -1269,7 +1269,7 @@
     ],
     "notes": "From a root meaning \"before\" or \"in front of\", indicating time or position."
   },
-  "word_after": {
+  "word_en_after": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -1311,7 +1311,7 @@
     ],
     "notes": "From a root meaning \"after\" or \"behind\", indicating time or position."
   },
-  "word_during": {
+  "word_en_during": {
     "languageOrigin": "Latin",
     "yearOfOrigin": "c. 14th century",
     "timeline": [
@@ -1353,7 +1353,7 @@
     ],
     "notes": "From Latin \"durare\" meaning \"to last\" or \"to endure\", indicating duration."
   },
-  "word_since": {
+  "word_en_since": {
     "languageOrigin": "Middle English",
     "yearOfOrigin": "c. 14th century",
     "timeline": [
@@ -1389,7 +1389,7 @@
     ],
     "notes": "From Old English \"siþþan\" meaning \"after that\", indicating a point in time."
   },
-  "word_until": {
+  "word_en_until": {
     "languageOrigin": "Old Norse",
     "yearOfOrigin": "c. 13th century",
     "timeline": [
@@ -1431,7 +1431,7 @@
     ],
     "notes": "From Old Norse \"und\" meaning \"up to\", indicating a limit in time."
   },
-  "word_beyond": {
+  "word_en_beyond": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -1473,7 +1473,7 @@
     ],
     "notes": "Compound of \"by\" + \"yond\" (yonder), literally meaning \"on the farther side\"."
   },
-  "word_within": {
+  "word_en_within": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -1515,7 +1515,7 @@
     ],
     "notes": "Compound of \"with\" + \"in\", literally meaning \"inside the limits of\"."
   },
-  "word_toward": {
+  "word_en_toward": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -1557,7 +1557,7 @@
     ],
     "notes": "Compound of \"to\" + \"ward\" (direction), literally meaning \"in the direction of\"."
   },
-  "word_against": {
+  "word_en_against": {
     "languageOrigin": "Middle English",
     "yearOfOrigin": "c. 14th century",
     "timeline": [
@@ -1593,7 +1593,7 @@
     ],
     "notes": "From \"again\" + \"est\" (suffix), originally meaning \"in opposition to\"."
   },
-  "word_along": {
+  "word_en_along": {
     "languageOrigin": "Middle English",
     "yearOfOrigin": "c. 14th century",
     "timeline": [
@@ -1629,7 +1629,7 @@
     ],
     "notes": "Compound of \"a\" (on) + \"long\" (length), literally meaning \"by the length of\"."
   },
-  "word_onto": {
+  "word_en_onto": {
     "languageOrigin": "Middle English",
     "yearOfOrigin": "c. 15th century",
     "timeline": [
@@ -1665,7 +1665,7 @@
     ],
     "notes": "Compound of \"on\" + \"to\", indicating movement to a position on something."
   },
-  "word_off": {
+  "word_en_off": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -1713,7 +1713,7 @@
     ],
     "notes": "From a root meaning \"off\" or \"away\", indicating separation or removal."
   },
-  "word_up_2": {
+  "word_en_up_2": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -1761,7 +1761,7 @@
     ],
     "notes": "From a root meaning \"up\" or \"upward\", indicating upward movement or position."
   },
-  "word_down_2": {
+  "word_en_down_2": {
     "languageOrigin": "Proto-Germanic",
     "yearOfOrigin": "c. 500 BC",
     "timeline": [
@@ -1809,7 +1809,7 @@
     ],
     "notes": "From a root meaning \"hill\" or \"downward\", indicating downward movement or position."
   },
-  "word_inside_2": {
+  "word_en_inside_2": {
     "languageOrigin": "Middle English",
     "yearOfOrigin": "c. 14th century",
     "timeline": [
@@ -1845,7 +1845,7 @@
     ],
     "notes": "Compound of \"in\" + \"side\", literally meaning \"on the inner side\"."
   },
-  "word_outside_2": {
+  "word_en_outside_2": {
     "languageOrigin": "Middle English",
     "yearOfOrigin": "c. 14th century",
     "timeline": [
@@ -1881,7 +1881,7 @@
     ],
     "notes": "Compound of \"out\" + \"side\", literally meaning \"on the outer side\"."
   },
-  "word_without": {
+  "word_en_without": {
     "languageOrigin": "Old English",
     "yearOfOrigin": "Before 12th century",
     "timeline": [
@@ -1923,7 +1923,7 @@
     ],
     "notes": "From Old English wið ('against, opposite') + ūtan ('outside, from out'), originally meaning 'outside of' and later 'lacking'."
   },
-  "word_as_preposition": {
+  "word_en_as_preposition": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -1938,7 +1938,7 @@
     ],
     "notes": "From Middle English as, als(a), alswa, from Old English eallswā (“just so; as”), thus representing a reduced form of also. Compare German Low German a(l)s, German als, Dutch als."
   },
-  "word_but_preposition": {
+  "word_en_but_preposition": {
     "languageOrigin": "Proto-West Germanic",
     "timeline": [
       {
@@ -1957,7 +1957,7 @@
     ],
     "notes": "From Middle English but, buten, boute, bouten, from Old English būtan (“without, outside of, except, only”), from Proto-West Germanic *biūtan, *biūtini, equivalent to be- + out. Cognate with Scots but, bot (“outside, without, but”), Saterland Frisian buute (“without”), West Frisian bûten (“outside of, apart from, other than, except, but”), Dutch buiten (“outside”), Dutch Low Saxon buten (“outside”), German Low German buuten, buute (“outside”), obsolete German baußen (“outside”), Luxembourgish ba…"
   },
-  "word_despite": {
+  "word_en_despite": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -1984,7 +1984,7 @@
     ],
     "notes": "The noun is derived from Middle English despit, dispit, from Old French despit, from Latin dēspectum (“looking down on”), from dēspiciō (“to look down, despise”).\nThe preposition is derived from Middle English dispit, itself derived from the phrase in dispit of (in despite of).\nCompare typologically Russian несмотря́ на (nesmotrjá na) (< смотре́ть (smotrétʹ)); невзира́я на (nevzirája na) (< взира́ть (vzirátʹ)), презре́в (prezrév) (< презре́ть (prezrétʹ) <~ зреть (zretʹ)) (compare despite—despise…"
   },
-  "word_except_preposition": {
+  "word_en_except_preposition": {
     "languageOrigin": "Latin",
     "timeline": [
       {
@@ -2002,7 +2002,7 @@
     ],
     "notes": "Borrowed from Middle French excepter, from Latin exceptus."
   },
-  "word_like_preposition": {
+  "word_en_like_preposition": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -2035,7 +2035,7 @@
     ],
     "notes": "Verb from Middle English liken, from Old English līcian (“to like, to please”), from Proto-West Germanic *līkēn, from Proto-Germanic *līkāną, from Proto-Indo-European *leyg- (“image; likeness; similarity”).\nCognate with Saterland Frisian liekje (“to be similar, resemble”), West Frisian lykje (“to seem, appear, look”), Dutch lijken (“to seem”), Low German lieken (“to be like; resemble”), German gleichen (“to resemble”), Swedish lika (“to like; put up with; align with”), Norwegian like (“to like”)…"
   },
-  "word_opposite_preposition": {
+  "word_en_opposite_preposition": {
     "languageOrigin": "Latin",
     "timeline": [
       {
@@ -2057,7 +2057,7 @@
     ],
     "notes": "Inherited from Middle English opposit, borrowed from Old French oposite, from Latin oppositus, perfect passive participle of oppōnō (“to oppose”). Compare oppose."
   },
-  "word_out_preposition": {
+  "word_en_out_preposition": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2081,7 +2081,7 @@
     ],
     "notes": "From Middle English out, oute, from a combination of Old English ūt (“out”, preposition & adverb), from Proto-West Germanic *ūt, from Proto-Germanic *ūt (“out”); and Old English ūte (“outside; without”, adverb), from Proto-Germanic *ūtai (“out; outside”); both from Proto-Indo-European *úd (“upwards, away”).\nCognates\nCognate with Scots oot (“out”), Yola out, outh, udh, ut, uth (“out”), North Frisian üt, ütj (“out”), Saterland Frisian uut (“out of”), West Frisian út (“out”), Cimbrian aus, auz (“ou…"
   },
-  "word_past_preposition": {
+  "word_en_past_preposition": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -2095,7 +2095,7 @@
     ],
     "notes": "From Middle English passed, past participle of passen (“to pass, to go by”), whence Modern English pass."
   },
-  "word_per": {
+  "word_en_per": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2114,7 +2114,7 @@
     ],
     "notes": "From Latin per (“through, during”), from Proto-Indo-European *per. Doublet of par."
   },
-  "word_plus_preposition": {
+  "word_en_plus_preposition": {
     "languageOrigin": "Latin",
     "timeline": [
       {
@@ -2129,7 +2129,7 @@
     ],
     "notes": "Borrowed from Latin plūs (“more”)."
   },
-  "word_round_preposition": {
+  "word_en_round_preposition": {
     "languageOrigin": "Middle English",
     "timeline": [
       {
@@ -2139,7 +2139,7 @@
     ],
     "notes": "From Middle English round, rounde, from Old Northern French roünt, rund, Old French ront, runt, reont ( > French rond), from both Late Latin retundus and the original Latin rotundus. The noun developed partly from the adjective and partly from the corresponding French noun rond. Doublet of rotund."
   },
-  "word_than_preposition": {
+  "word_en_than_preposition": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {
@@ -2166,7 +2166,7 @@
     ],
     "notes": "From Middle English than, thanne (“than; then”), from Old English þanne, a variant of þonne (“then; when; than”), from Proto-West Germanic *þannē, an alteration of *þan (“then; than”), from Proto-Germanic *þan (“then; than”), from earlier *þam, from Proto-Indo-European *tóm, accusative masculine of *só (“that”, demonstrative pronoun).\nCognate with Dutch dan (“then; than”), German denn (“for; so”), German dann (“then”). Doublet of then."
   },
-  "word_throughout_preposition": {
+  "word_en_throughout_preposition": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -2180,7 +2180,7 @@
     ],
     "notes": "From Old English þurh ūt, equivalent to through + out. Compare German durchaus (“all the way, fully, absolutely”)."
   },
-  "word_till_preposition": {
+  "word_en_till_preposition": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -2199,7 +2199,7 @@
     ],
     "notes": "From Middle English til, from Northern Old English til, from or akin to Old Norse til (“to, till”); both from Proto-Germanic *til (“to, toward”), from Proto-Germanic *tilą (“planned point in time”). Not a contraction of until; rather, until comes from till with the prefix un- (“against; toward; up to”) also found in unto. Cognate with Old Frisian til (“to, till”), Danish til (“to”), Swedish till (“to, till”), Icelandic til (“to, till”)."
   },
-  "word_towards": {
+  "word_en_towards": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -2217,7 +2217,7 @@
     ],
     "notes": "From Middle English towardes, from Old English tōweardes, tōwærdes, equivalent to toward + -s (adverbial suffix)."
   },
-  "word_unlike": {
+  "word_en_unlike": {
     "languageOrigin": "Proto-Germanic",
     "timeline": [
       {
@@ -2239,7 +2239,7 @@
     ],
     "notes": "From Middle English unlic, unlich, from Old English unlīċ, unġelīċ (“unlike, different, dissimilar, diverse”), from Proto-Germanic *ungalīkaz. By surface analysis, un- + like. Cognate with Dutch ongelijk, German ungleich, Old Norse úlíkr (see there for North Germanic descendants)."
   },
-  "word_upon": {
+  "word_en_upon": {
     "languageOrigin": "Old English",
     "timeline": [
       {
@@ -2253,7 +2253,7 @@
     ],
     "notes": "From Middle English upon, uppon, uppen, from Old English upon, uppon, uppan (“on, upon, up to, against, after, in addition to”), equivalent to up (“adverb”) + on (“preposition”). Cognate with Old Saxon uppan (“upon”), Old High German ūfan, ūffan (“upon”), Icelandic upp á, upp á (“up on, upon”), Swedish uppå (“up on, upon”) (thence Swedish på), Danish på (“up on, upon”), Norwegian på (“up on, upon”)."
   },
-  "word_via": {
+  "word_en_via": {
     "languageOrigin": "Proto-Indo-European",
     "timeline": [
       {

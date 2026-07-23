@@ -1,6 +1,6 @@
 [
   {
-    "id": "word_a",
+    "id": "word_en_a",
     "word": "a",
     "meaning": "used before countable or singular nouns referring to people or things that have not already been mentioned",
     "pronunciationVariants": [
@@ -21,7 +21,7 @@
     "examples": ["a man/horse/unit"]
   },
   {
-    "id": "word_ah",
+    "id": "word_en_ah",
     "word": "ah",
     "meaning": "used to express surprise, pleasure or sympathy, or when you disagree with somebody",
     "pronunciationVariants": [
@@ -42,7 +42,7 @@
     "examples": ["Ah, there you are!"]
   },
   {
-    "id": "word_all_determiner",
+    "id": "word_en_all_determiner",
     "word": "all",
     "meaning": "the whole number of",
     "pronunciationVariants": [
@@ -63,7 +63,7 @@
     "examples": ["All horses are animals, but not all animals are horses."]
   },
   {
-    "id": "word_all_right_exclamation",
+    "id": "word_en_all_right_exclamation",
     "word": "all right",
     "meaning": "used to check that somebody agrees or understands",
     "pronunciationVariants": [
@@ -84,7 +84,7 @@
     "examples": ["We've got to get up early, all right?"]
   },
   {
-    "id": "word_although",
+    "id": "word_en_although",
     "word": "although",
     "meaning": "used for introducing a statement that makes the main statement in a sentence seem surprising",
     "pronunciationVariants": [
@@ -105,7 +105,7 @@
     "examples": ["Although the sun was shining, it wasn't very warm."]
   },
   {
-    "id": "word_and",
+    "id": "word_en_and",
     "word": "and",
     "meaning": "also; in addition to",
     "pronunciationVariants": [
@@ -126,7 +126,7 @@
     "examples": ["bread and butter"]
   },
   {
-    "id": "word_another",
+    "id": "word_en_another",
     "word": "another",
     "meaning": "one more; an extra thing or person",
     "pronunciationVariants": [
@@ -147,7 +147,7 @@
     "examples": ["Would you like another drink?"]
   },
   {
-    "id": "word_any_determiner",
+    "id": "word_en_any_determiner",
     "word": "any",
     "meaning": "used with uncountable or plural nouns in negative sentences and questions, after if or whether, and after some verbs such as prevent, ban, forbid, etc. to refer to an amount or a number of something, however large or small",
     "pronunciationVariants": [
@@ -168,7 +168,7 @@
     "examples": ["I didn't eat any meat."]
   },
   {
-    "id": "word_anybody",
+    "id": "word_en_anybody",
     "word": "anybody",
     "meaning": "used instead of somebody in negative sentences and in questions after if/whether, and after verbs such as prevent, forbid, avoid, etc.",
     "pronunciationVariants": [
@@ -189,7 +189,7 @@
     "examples": ["Is there anybody who can help me?"]
   },
   {
-    "id": "word_anyone",
+    "id": "word_en_anyone",
     "word": "anyone",
     "meaning": "used instead of someone in negative sentences and in questions after if/whether, and after verbs such as prevent, forbid, avoid, etc.",
     "pronunciationVariants": [
@@ -210,7 +210,7 @@
     "examples": ["Is anyone there?"]
   },
   {
-    "id": "word_anything",
+    "id": "word_en_anything",
     "word": "anything",
     "meaning": "used instead of something in negative sentences and in questions; after if/whether; and after verbs such as prevent, ban, avoid, etc.",
     "pronunciationVariants": [
@@ -231,7 +231,7 @@
     "examples": ["Would you like anything else?"]
   },
   {
-    "id": "word_anywhere_pronoun",
+    "id": "word_en_anywhere_pronoun",
     "word": "anywhere",
     "meaning": "used in negative sentences and in questions instead of somewhere",
     "pronunciationVariants": [
@@ -252,7 +252,7 @@
     "examples": ["I don't have anywhere to stay."]
   },
   {
-    "id": "word_as_conjunction",
+    "id": "word_en_as_conjunction",
     "word": "as",
     "meaning": "while something else is happening",
     "pronunciationVariants": [
@@ -273,7 +273,7 @@
     "examples": ["He sat watching her as she got ready."]
   },
   {
-    "id": "word_attention",
+    "id": "word_en_attention",
     "word": "attention",
     "meaning": "used for asking people to listen to something that is being announced",
     "pronunciationVariants": [
@@ -296,7 +296,7 @@
     ]
   },
   {
-    "id": "word_because",
+    "id": "word_en_because",
     "word": "because",
     "meaning": "for the reason that",
     "pronunciationVariants": [
@@ -317,7 +317,7 @@
     "examples": ["I did it because he told me to."]
   },
   {
-    "id": "word_both",
+    "id": "word_en_both",
     "word": "both",
     "meaning": "used with plural nouns to mean ‘the two’ or ‘the one as well as the other’",
     "pronunciationVariants": [
@@ -338,7 +338,7 @@
     "examples": ["Both women were French."]
   },
   {
-    "id": "word_but",
+    "id": "word_en_but",
     "word": "but",
     "meaning": "used to introduce a word or phrase that contrasts with what was said before",
     "pronunciationVariants": [
@@ -359,7 +359,7 @@
     "examples": ["I got it wrong. It wasn't the red one but the blue one."]
   },
   {
-    "id": "word_dear_exclamation",
+    "id": "word_en_dear_exclamation",
     "word": "dear",
     "meaning": "used in expressions that show that you are surprised, upset, annoyed or worried",
     "pronunciationVariants": [
@@ -380,7 +380,7 @@
     "examples": ["Oh dear! I think I've lost my purse!"]
   },
   {
-    "id": "word_dozen",
+    "id": "word_en_dozen",
     "word": "dozen",
     "meaning": "a group of twelve of the same thing",
     "pronunciationVariants": [
@@ -401,7 +401,7 @@
     "examples": ["Give me a dozen, please."]
   },
   {
-    "id": "word_each_determiner",
+    "id": "word_en_each_determiner",
     "word": "each",
     "meaning": "used to refer to every one of two or more people or things, when you are thinking about them separately",
     "pronunciationVariants": [
@@ -422,7 +422,7 @@
     "examples": ["Each answer is worth 20 points."]
   },
   {
-    "id": "word_either_determiner",
+    "id": "word_en_either_determiner",
     "word": "either",
     "meaning": "one or the other of two; it does not matter which",
     "pronunciationVariants": [
@@ -443,7 +443,7 @@
     "examples": ["You can park on either side of the street."]
   },
   {
-    "id": "word_enough_determiner",
+    "id": "word_en_enough_determiner",
     "word": "enough",
     "meaning": "used before plural or uncountable nouns to mean ‘as many or as much as somebody needs or wants’",
     "pronunciationVariants": [
@@ -464,7 +464,7 @@
     "examples": ["Have you made enough copies?"]
   },
   {
-    "id": "word_every",
+    "id": "word_en_every",
     "word": "every",
     "meaning": "used with singular nouns to refer to all the members of a group of things or people",
     "pronunciationVariants": [
@@ -485,7 +485,7 @@
     "examples": ["She knows every student in the school."]
   },
   {
-    "id": "word_everybody",
+    "id": "word_en_everybody",
     "word": "everybody",
     "meaning": "every person; all people",
     "pronunciationVariants": [
@@ -506,7 +506,7 @@
     "examples": ["Everybody knows Tom."]
   },
   {
-    "id": "word_everyone",
+    "id": "word_en_everyone",
     "word": "everyone",
     "meaning": "every person; all people",
     "pronunciationVariants": [
@@ -527,7 +527,7 @@
     "examples": ["Everyone cheered and clapped."]
   },
   {
-    "id": "word_everything",
+    "id": "word_en_everything",
     "word": "everything",
     "meaning": "all things",
     "pronunciationVariants": [
@@ -548,7 +548,7 @@
     "examples": ["Everything had gone."]
   },
   {
-    "id": "word_except",
+    "id": "word_en_except",
     "word": "except",
     "meaning": "used before you mention something that makes a statement not completely true",
     "pronunciationVariants": [
@@ -569,7 +569,7 @@
     "examples": ["I didn't tell him anything except that I needed the money."]
   },
   {
-    "id": "word_few_determiner",
+    "id": "word_en_few_determiner",
     "word": "few",
     "meaning": "used with plural nouns and a plural verb to mean ‘a small number’, ‘some’",
     "pronunciationVariants": [
@@ -590,7 +590,7 @@
     "examples": ["We've had a few replies."]
   },
   {
-    "id": "word_he",
+    "id": "word_en_he",
     "word": "he",
     "meaning": "a male person or animal that has already been mentioned or is easily identified",
     "pronunciationVariants": [
@@ -611,7 +611,7 @@
     "examples": ["Everyone liked my father—he was the perfect gentleman."]
   },
   {
-    "id": "word_her",
+    "id": "word_en_her",
     "word": "her",
     "meaning": "of or belonging to a woman or girl who has already been mentioned or is easily identified",
     "pronunciationVariants": [
@@ -632,7 +632,7 @@
     "examples": ["Meg loves her job."]
   },
   {
-    "id": "word_hers",
+    "id": "word_en_hers",
     "word": "hers",
     "meaning": "of or belonging to her",
     "pronunciationVariants": [
@@ -653,7 +653,7 @@
     "examples": ["His eyes met hers."]
   },
   {
-    "id": "word_herself",
+    "id": "word_en_herself",
     "word": "herself",
     "meaning": "used when the woman or girl who performs an action is also affected by it",
     "pronunciationVariants": [
@@ -674,7 +674,7 @@
     "examples": ["She hurt herself."]
   },
   {
-    "id": "word_hey",
+    "id": "word_en_hey",
     "word": "hey",
     "meaning": "used to attract somebody’s attention or to express interest, surprise or anger",
     "pronunciationVariants": [
@@ -695,7 +695,7 @@
     "examples": ["Hey, can I just ask you something?"]
   },
   {
-    "id": "word_him",
+    "id": "word_en_him",
     "word": "him",
     "meaning": "used as the object of a verb, after the verb be or after a preposition to refer to a male person or animal that has already been mentioned or is easily identified",
     "pronunciationVariants": [
@@ -716,7 +716,7 @@
     "examples": ["When did you see him?"]
   },
   {
-    "id": "word_himself",
+    "id": "word_en_himself",
     "word": "himself",
     "meaning": "used when the man or boy who performs an action is also affected by it",
     "pronunciationVariants": [
@@ -737,7 +737,7 @@
     "examples": ["He introduced himself."]
   },
   {
-    "id": "word_his",
+    "id": "word_en_his",
     "word": "his",
     "meaning": "of or belonging to a man or boy who has already been mentioned or is easily identified",
     "pronunciationVariants": [
@@ -758,7 +758,7 @@
     "examples": ["James has sold his car."]
   },
   {
-    "id": "word_i",
+    "id": "word_en_i",
     "word": "I",
     "meaning": "used as the subject of a verb when the speaker or writer is referring to himself/herself",
     "pronunciationVariants": [
@@ -779,7 +779,7 @@
     "examples": ["I think I'd better go now."]
   },
   {
-    "id": "word_if",
+    "id": "word_en_if",
     "word": "if",
     "meaning": "used to say that one thing can, will or might happen or be true, depending on another thing happening or being true",
     "pronunciationVariants": [
@@ -800,7 +800,7 @@
     "examples": ["If you see him, give him this note."]
   },
   {
-    "id": "word_it_pronoun",
+    "id": "word_en_it_pronoun",
     "word": "it",
     "meaning": "used to refer to an animal or a thing that has already been mentioned or that is being talked about now",
     "pronunciationVariants": [
@@ -821,7 +821,7 @@
     "examples": ["‘Where's your car?’ ‘It's in the garage.’"]
   },
   {
-    "id": "word_its",
+    "id": "word_en_its",
     "word": "its",
     "meaning": "belonging to or connected with a thing, an animal or a baby",
     "pronunciationVariants": [
@@ -842,7 +842,7 @@
     "examples": ["Turn the box on its side."]
   },
   {
-    "id": "word_itself",
+    "id": "word_en_itself",
     "word": "itself",
     "meaning": "used when the animal or thing that does an action is also affected by it",
     "pronunciationVariants": [
@@ -863,7 +863,7 @@
     "examples": ["The cat was washing itself."]
   },
   {
-    "id": "word_last_determiner",
+    "id": "word_en_last_determiner",
     "word": "last",
     "meaning": "happening or coming after all other similar things or people",
     "pronunciationVariants": [
@@ -884,7 +884,7 @@
     "examples": ["We caught the last bus home."]
   },
   {
-    "id": "word_least_determiner",
+    "id": "word_en_least_determiner",
     "word": "least",
     "meaning": "smallest in size, amount, degree, etc.",
     "pronunciationVariants": [
@@ -905,7 +905,7 @@
     "examples": ["He's the best teacher, even though he has the least experience."]
   },
   {
-    "id": "word_less_determiner",
+    "id": "word_en_less_determiner",
     "word": "less",
     "meaning": "used with uncountable nouns to mean ‘a smaller amount of’",
     "pronunciationVariants": [
@@ -926,7 +926,7 @@
     "examples": ["less something, less butter/time/importance"]
   },
   {
-    "id": "word_little_determiner",
+    "id": "word_en_little_determiner",
     "word": "little",
     "meaning": "used with uncountable nouns to mean ‘a small amount’, ‘some’",
     "pronunciationVariants": [
@@ -947,7 +947,7 @@
     "examples": ["a little milk/sugar/tea"]
   },
   {
-    "id": "word_lot_determiner",
+    "id": "word_en_lot_determiner",
     "word": "lot",
     "meaning": "a large number or amount of somebody/something",
     "pronunciationVariants": [
@@ -968,7 +968,7 @@
     "examples": ["What a lot of presents!"]
   },
   {
-    "id": "word_many",
+    "id": "word_en_many",
     "word": "many",
     "meaning": "used with plural nouns and verbs, especially in negative sentences or in more formal English, to mean ‘a large number of’. Also used in questions to ask about the size of a number, and with ‘as’, ‘so’ and ‘too’.",
     "pronunciationVariants": [
@@ -989,7 +989,7 @@
     "examples": ["We don't have very many copies left."]
   },
   {
-    "id": "word_me",
+    "id": "word_en_me",
     "word": "me",
     "meaning": "the form of I that is used when the speaker or writer is the object of a verb or preposition, or after the verb be",
     "pronunciationVariants": [
@@ -1010,7 +1010,7 @@
     "examples": ["Don't hit me."]
   },
   {
-    "id": "word_mine_pronoun",
+    "id": "word_en_mine_pronoun",
     "word": "mine",
     "meaning": "of or belonging to the person writing or speaking",
     "pronunciationVariants": [
@@ -1031,7 +1031,7 @@
     "examples": ["That's mine."]
   },
   {
-    "id": "word_more_determiner",
+    "id": "word_en_more_determiner",
     "word": "more",
     "meaning": "a larger number or amount of",
     "pronunciationVariants": [
@@ -1052,7 +1052,7 @@
     "examples": ["I want some more!"]
   },
   {
-    "id": "word_most_determiner",
+    "id": "word_en_most_determiner",
     "word": "most",
     "meaning": "the largest in number or amount",
     "pronunciationVariants": [
@@ -1073,7 +1073,7 @@
     "examples": ["Who do you think will get (the) most votes?"]
   },
   {
-    "id": "word_much_determiner",
+    "id": "word_en_much_determiner",
     "word": "much",
     "meaning": "used with uncountable nouns, especially in negative sentences to mean ‘a large amount of something’, or after ‘how’ to ask about the amount of something. It is also used with ‘as’, ‘so’ and ‘too’.",
     "pronunciationVariants": [
@@ -1094,7 +1094,7 @@
     "examples": ["I don't have much money with me."]
   },
   {
-    "id": "word_my",
+    "id": "word_en_my",
     "word": "my",
     "meaning": "of or belonging to the speaker or writer",
     "pronunciationVariants": [
@@ -1115,7 +1115,7 @@
     "examples": ["Where's my passport?"]
   },
   {
-    "id": "word_myself",
+    "id": "word_en_myself",
     "word": "myself",
     "meaning": "used when the speaker or writer is also the person affected by an action",
     "pronunciationVariants": [
@@ -1136,7 +1136,7 @@
     "examples": ["I cut myself on a knife."]
   },
   {
-    "id": "word_neither_determiner",
+    "id": "word_en_neither_determiner",
     "word": "neither",
     "meaning": "not one nor the other of two things or people",
     "pronunciationVariants": [
@@ -1157,7 +1157,7 @@
     "examples": ["Neither answer is correct."]
   },
   {
-    "id": "word_no",
+    "id": "word_en_no",
     "word": "no",
     "meaning": "not one; not any; not a",
     "pronunciationVariants": [
@@ -1178,7 +1178,7 @@
     "examples": ["No student is to leave the room."]
   },
   {
-    "id": "word_no_one",
+    "id": "word_en_no_one",
     "word": "no one",
     "meaning": "not anyone; no person",
     "pronunciationVariants": [
@@ -1199,7 +1199,7 @@
     "examples": ["No one was at home."]
   },
   {
-    "id": "word_nobody",
+    "id": "word_en_nobody",
     "word": "nobody",
     "meaning": "not anyone; no person",
     "pronunciationVariants": [
@@ -1220,7 +1220,7 @@
     "examples": ["Nobody knew what to say."]
   },
   {
-    "id": "word_none",
+    "id": "word_en_none",
     "word": "none",
     "meaning": "not one of a group of people or things; not any",
     "pronunciationVariants": [
@@ -1241,7 +1241,7 @@
     "examples": ["None of these pens works/work."]
   },
   {
-    "id": "word_nor_conjunction",
+    "id": "word_en_nor_conjunction",
     "word": "nor",
     "meaning": "and not",
     "pronunciationVariants": [
@@ -1262,7 +1262,7 @@
     "examples": ["She seemed neither surprised nor worried."]
   },
   {
-    "id": "word_nothing",
+    "id": "word_en_nothing",
     "word": "nothing",
     "meaning": "not anything; no single thing",
     "pronunciationVariants": [
@@ -1283,7 +1283,7 @@
     "examples": ["There was nothing in her bag."]
   },
   {
-    "id": "word_oh",
+    "id": "word_en_oh",
     "word": "oh",
     "meaning": "used when you are reacting to something that has been said, especially if you did not know it before",
     "pronunciationVariants": [
@@ -1304,7 +1304,7 @@
     "examples": ["‘I saw Ben yesterday.’ ‘Oh yes, how is he?’"]
   },
   {
-    "id": "word_ok_exclamation",
+    "id": "word_en_ok_exclamation",
     "word": "OK",
     "meaning": "yes; all right",
     "pronunciationVariants": [
@@ -1325,7 +1325,7 @@
     "examples": ["‘Shall we go for a walk?’ ‘OK.’"]
   },
   {
-    "id": "word_once_conjunction",
+    "id": "word_en_once_conjunction",
     "word": "once",
     "meaning": "as soon as; when",
     "pronunciationVariants": [
@@ -1346,7 +1346,7 @@
     "examples": ["We didn't know how we would cope once the money had gone."]
   },
   {
-    "id": "word_or",
+    "id": "word_en_or",
     "word": "or",
     "meaning": "used to introduce another possibility",
     "pronunciationVariants": [
@@ -1367,7 +1367,7 @@
     "examples": ["Is your sister older or younger than you?"]
   },
   {
-    "id": "word_other_pronoun",
+    "id": "word_en_other_pronoun",
     "word": "other",
     "meaning": "used to refer to people or things that are additional or different to people or things that have been mentioned or are known about",
     "pronunciationVariants": [
@@ -1388,7 +1388,7 @@
     "examples": ["Mr Harris and Mrs Bate and three other teachers were there."]
   },
   {
-    "id": "word_our",
+    "id": "word_en_our",
     "word": "our",
     "meaning": "belonging to us; connected with us",
     "pronunciationVariants": [
@@ -1409,7 +1409,7 @@
     "examples": ["our daughter/dog/house"]
   },
   {
-    "id": "word_ours",
+    "id": "word_en_ours",
     "word": "ours",
     "meaning": "the one or ones that belong to us",
     "pronunciationVariants": [
@@ -1430,7 +1430,7 @@
     "examples": ["Their house is very similar to ours, but ours is bigger."]
   },
   {
-    "id": "word_ourselves",
+    "id": "word_en_ourselves",
     "word": "ourselves",
     "meaning": "the reflexive form of we; used when you and another person or other people together cause and are affected by an action",
     "pronunciationVariants": [
@@ -1451,7 +1451,7 @@
     "examples": ["We shouldn't blame ourselves for what happened."]
   },
   {
-    "id": "word_own_pronoun",
+    "id": "word_en_own_pronoun",
     "word": "own",
     "meaning": "used to emphasize that something belongs to or is connected with somebody",
     "pronunciationVariants": [
@@ -1472,7 +1472,7 @@
     "examples": ["It was her own idea."]
   },
   {
-    "id": "word_plenty",
+    "id": "word_en_plenty",
     "word": "plenty",
     "meaning": "a large amount; as much or as many as you need",
     "pronunciationVariants": [
@@ -1493,7 +1493,7 @@
     "examples": ["plenty of eggs/money/time"]
   },
   {
-    "id": "word_plus_conjunction",
+    "id": "word_en_plus_conjunction",
     "word": "plus",
     "meaning": "used to add more information",
     "pronunciationVariants": [
@@ -1514,7 +1514,7 @@
     "examples": ["I've got too much on at work. Plus my father is not well."]
   },
   {
-    "id": "word_several",
+    "id": "word_en_several",
     "word": "several",
     "meaning": "more than two but not very many",
     "pronunciationVariants": [
@@ -1535,7 +1535,7 @@
     "examples": ["Several letters arrived this morning."]
   },
   {
-    "id": "word_she",
+    "id": "word_en_she",
     "word": "she",
     "meaning": "a female person or animal that has already been mentioned or is easily identified",
     "pronunciationVariants": [
@@ -1556,7 +1556,7 @@
     "examples": ["‘What does your sister do?’ ‘She's a dentist.’"]
   },
   {
-    "id": "word_so_conjunction",
+    "id": "word_en_so_conjunction",
     "word": "so",
     "meaning": "used to show the reason for something",
     "pronunciationVariants": [
@@ -1577,7 +1577,7 @@
     "examples": ["It was still painful, so I went to see a doctor."]
   },
   {
-    "id": "word_some",
+    "id": "word_en_some",
     "word": "some",
     "meaning": "used with uncountable nouns or plural countable nouns to mean ‘an amount of’ or ‘a number of’, when the amount or number is not given",
     "pronunciationVariants": [
@@ -1598,7 +1598,7 @@
     "examples": ["There's some milk in the fridge."]
   },
   {
-    "id": "word_somebody",
+    "id": "word_en_somebody",
     "word": "somebody",
     "meaning": "a person who is not known or mentioned by name",
     "pronunciationVariants": [
@@ -1619,7 +1619,7 @@
     "examples": ["Somebody should have told me."]
   },
   {
-    "id": "word_someone",
+    "id": "word_en_someone",
     "word": "someone",
     "meaning": "a person who is not known or mentioned by name",
     "pronunciationVariants": [
@@ -1640,7 +1640,7 @@
     "examples": ["There's someone at the door."]
   },
   {
-    "id": "word_something",
+    "id": "word_en_something",
     "word": "something",
     "meaning": "a thing that is not known or mentioned by name",
     "pronunciationVariants": [
@@ -1661,7 +1661,7 @@
     "examples": ["We stopped for something to eat."]
   },
   {
-    "id": "word_somewhere_pronoun",
+    "id": "word_en_somewhere_pronoun",
     "word": "somewhere",
     "meaning": "a place that you do not know or do not mention by name",
     "pronunciationVariants": [
@@ -1682,7 +1682,7 @@
     "examples": ["We need to find somewhere to live."]
   },
   {
-    "id": "word_such",
+    "id": "word_en_such",
     "word": "such",
     "meaning": "used to emphasize the great degree of something",
     "pronunciationVariants": [
@@ -1703,7 +1703,7 @@
     "examples": ["This issue was of such importance that we could not afford to ignore it."]
   },
   {
-    "id": "word_than",
+    "id": "word_en_than",
     "word": "than",
     "meaning": "used to introduce the second part of a comparison",
     "pronunciationVariants": [
@@ -1724,7 +1724,7 @@
     "examples": ["I'm older than her."]
   },
   {
-    "id": "word_that_conjunction",
+    "id": "word_en_that_conjunction",
     "word": "that",
     "meaning": "used after some verbs, adjectives and nouns to introduce a new part of the sentence",
     "pronunciationVariants": [
@@ -1745,7 +1745,7 @@
     "examples": ["She said (that) the story was true."]
   },
   {
-    "id": "word_the",
+    "id": "word_en_the",
     "word": "the",
     "meaning": "used to refer to somebody/something that has already been mentioned or is easily understood",
     "pronunciationVariants": [
@@ -1768,7 +1768,7 @@
     ]
   },
   {
-    "id": "word_their",
+    "id": "word_en_their",
     "word": "their",
     "meaning": "of or belonging to people, animals or things that have already been mentioned or are easily identified",
     "pronunciationVariants": [
@@ -1789,7 +1789,7 @@
     "examples": ["Their parties are always fun."]
   },
   {
-    "id": "word_theirs",
+    "id": "word_en_theirs",
     "word": "theirs",
     "meaning": "of or belonging to them",
     "pronunciationVariants": [
@@ -1810,7 +1810,7 @@
     "examples": ["Theirs are the children with very fair hair."]
   },
   {
-    "id": "word_them",
+    "id": "word_en_them",
     "word": "them",
     "meaning": "used when referring to people, animals or things as the object of a verb or preposition, or after the verb be",
     "pronunciationVariants": [
@@ -1831,7 +1831,7 @@
     "examples": ["Tell them the news."]
   },
   {
-    "id": "word_themselves",
+    "id": "word_en_themselves",
     "word": "themselves",
     "meaning": "used when people or animals performing an action are also affected by it",
     "pronunciationVariants": [
@@ -1852,7 +1852,7 @@
     "examples": ["They seemed to be enjoying themselves."]
   },
   {
-    "id": "word_they",
+    "id": "word_en_they",
     "word": "they",
     "meaning": "people, animals or things that have already been mentioned or are easily identified",
     "pronunciationVariants": [
@@ -1873,7 +1873,7 @@
     "examples": ["‘Where are John and Liz?’ ‘They went for a walk.’"]
   },
   {
-    "id": "word_this_determiner",
+    "id": "word_en_this_determiner",
     "word": "this",
     "meaning": "used to refer to a particular person, thing or event that is close to you, especially compared with another",
     "pronunciationVariants": [
@@ -1894,7 +1894,7 @@
     "examples": ["How long have you been living in this country?"]
   },
   {
-    "id": "word_though_conjunction",
+    "id": "word_en_though_conjunction",
     "word": "though",
     "meaning": "despite the fact that",
     "pronunciationVariants": [
@@ -1915,7 +1915,7 @@
     "examples": ["Anne was fond of Tim, though he often annoyed her."]
   },
   {
-    "id": "word_till",
+    "id": "word_en_till",
     "word": "till",
     "meaning": "until",
     "pronunciationVariants": [
@@ -1936,7 +1936,7 @@
     "examples": ["We're open till 6 o'clock."]
   },
   {
-    "id": "word_unless",
+    "id": "word_en_unless",
     "word": "unless",
     "meaning": "used to say that something can only happen or be true in a particular situation",
     "pronunciationVariants": [
@@ -1957,7 +1957,7 @@
     "examples": ["You won't get paid for time off unless you have a doctor's note."]
   },
   {
-    "id": "word_us",
+    "id": "word_en_us",
     "word": "us",
     "meaning": "used when the speaker or writer and another or others are the object of a verb or preposition, or after the verb be",
     "pronunciationVariants": [
@@ -1978,7 +1978,7 @@
     "examples": ["She gave us a picture as a wedding present."]
   },
   {
-    "id": "word_we",
+    "id": "word_en_we",
     "word": "we",
     "meaning": "I and another person or other people; I and you",
     "pronunciationVariants": [
@@ -1999,7 +1999,7 @@
     "examples": ["We've moved to Atlanta."]
   },
   {
-    "id": "word_what",
+    "id": "word_en_what",
     "word": "what",
     "meaning": "used in questions to ask for particular information about somebody/something",
     "pronunciationVariants": [
@@ -2020,7 +2020,7 @@
     "examples": ["What is your name?"]
   },
   {
-    "id": "word_whatever",
+    "id": "word_en_whatever",
     "word": "whatever",
     "meaning": "any or every; anything or everything",
     "pronunciationVariants": [
@@ -2041,7 +2041,7 @@
     "examples": ["Take whatever action is needed."]
   },
   {
-    "id": "word_when_conjunction",
+    "id": "word_en_when_conjunction",
     "word": "when",
     "meaning": "at or during the time that",
     "pronunciationVariants": [
@@ -2062,7 +2062,7 @@
     "examples": ["I loved history when I was at school."]
   },
   {
-    "id": "word_whenever",
+    "id": "word_en_whenever",
     "word": "whenever",
     "meaning": "at any time that; on any occasion that",
     "pronunciationVariants": [
@@ -2083,7 +2083,7 @@
     "examples": ["You can ask for help whenever you need it."]
   },
   {
-    "id": "word_where_conjunction",
+    "id": "word_en_where_conjunction",
     "word": "where",
     "meaning": "(in) the place or situation in which",
     "pronunciationVariants": [
@@ -2104,7 +2104,7 @@
     "examples": ["This is where I live."]
   },
   {
-    "id": "word_whereas",
+    "id": "word_en_whereas",
     "word": "whereas",
     "meaning": "used to compare or contrast two facts",
     "pronunciationVariants": [
@@ -2125,7 +2125,7 @@
     "examples": ["Some of the studies show positive results, whereas others do not."]
   },
   {
-    "id": "word_wherever",
+    "id": "word_en_wherever",
     "word": "wherever",
     "meaning": "in any place",
     "pronunciationVariants": [
@@ -2146,7 +2146,7 @@
     "examples": ["Sit wherever you like."]
   },
   {
-    "id": "word_whether",
+    "id": "word_en_whether",
     "word": "whether",
     "meaning": "used to express a doubt or choice between two possibilities",
     "pronunciationVariants": [
@@ -2167,7 +2167,7 @@
     "examples": ["He seemed undecided whether to go or stay."]
   },
   {
-    "id": "word_which",
+    "id": "word_en_which",
     "word": "which",
     "meaning": "used in questions to ask somebody to be exact about one or more people or things from a limited number",
     "pronunciationVariants": [
@@ -2188,7 +2188,7 @@
     "examples": ["Which is better exercise—swimming or tennis?"]
   },
   {
-    "id": "word_while",
+    "id": "word_en_while",
     "word": "while",
     "meaning": "during the time that something is happening; at the same time as something else is happening",
     "pronunciationVariants": [
@@ -2209,7 +2209,7 @@
     "examples": ["We must have been burgled while we were asleep."]
   },
   {
-    "id": "word_who",
+    "id": "word_en_who",
     "word": "who",
     "meaning": "used in questions to ask about the name, identity or function of one or more people",
     "pronunciationVariants": [
@@ -2230,7 +2230,7 @@
     "examples": ["Who is that woman?"]
   },
   {
-    "id": "word_whom",
+    "id": "word_en_whom",
     "word": "whom",
     "meaning": "used instead of ‘who’ as the object of a verb or preposition",
     "pronunciationVariants": [
@@ -2251,7 +2251,7 @@
     "examples": ["Whom did they invite?"]
   },
   {
-    "id": "word_whose",
+    "id": "word_en_whose",
     "word": "whose",
     "meaning": "used in questions to ask who something belongs to",
     "pronunciationVariants": [
@@ -2272,7 +2272,7 @@
     "examples": ["Whose house is that?"]
   },
   {
-    "id": "word_wow",
+    "id": "word_en_wow",
     "word": "wow",
     "meaning": "used to show that you are very surprised or impressed by somebody/something",
     "pronunciationVariants": [
@@ -2293,7 +2293,7 @@
     "examples": ["Wow! You look terrific!"]
   },
   {
-    "id": "word_yeah",
+    "id": "word_en_yeah",
     "word": "yeah",
     "meaning": "yes (informal)",
     "pronunciationVariants": [
@@ -2314,7 +2314,7 @@
     "examples": ["Yeah, I agree.", "Are you coming? Yeah."]
   },
   {
-    "id": "word_yes",
+    "id": "word_en_yes",
     "word": "yes",
     "meaning": "used to answer a question and say that something is correct or true",
     "pronunciationVariants": [
@@ -2335,7 +2335,7 @@
     "examples": ["‘Is this your car?’ ‘Yes, it is.’"]
   },
   {
-    "id": "word_yet_conjunction",
+    "id": "word_en_yet_conjunction",
     "word": "yet",
     "meaning": "despite what has just been said",
     "pronunciationVariants": [
@@ -2356,7 +2356,7 @@
     "examples": ["It's a small car, yet it's surprisingly spacious."]
   },
   {
-    "id": "word_you",
+    "id": "word_en_you",
     "word": "you",
     "meaning": "used as the subject or object of a verb or after a preposition to refer to the person or people being spoken or written to",
     "pronunciationVariants": [
@@ -2377,7 +2377,7 @@
     "examples": ["You said you knew the way."]
   },
   {
-    "id": "word_your",
+    "id": "word_en_your",
     "word": "your",
     "meaning": "of or belonging to the person or people being spoken or written to",
     "pronunciationVariants": [
@@ -2398,7 +2398,7 @@
     "examples": ["I like your dress."]
   },
   {
-    "id": "word_yours",
+    "id": "word_en_yours",
     "word": "yours",
     "meaning": "of or belonging to you",
     "pronunciationVariants": [
@@ -2419,7 +2419,7 @@
     "examples": ["Is that book yours?"]
   },
   {
-    "id": "word_yourself",
+    "id": "word_en_yourself",
     "word": "yourself",
     "meaning": "used when the person or people being spoken to both cause and are affected by an action",
     "pronunciationVariants": [

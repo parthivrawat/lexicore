@@ -323,5 +323,135 @@
     ],
     "category": "verbs",
     "examples": ["عمل بجد.", "يعمل في المكتب."]
+  },
+  {
+    "id": "word_ar_yaktubu",
+    "word": "يكتب",
+    "meaning": "he writes",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "jaktubu"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["هو يكتب رسالة.", "الولد يكتب في الدفتر."]
+  },
+  {
+    "id": "word_ar_yaqra_u",
+    "word": "يقرأ",
+    "meaning": "he reads",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "jaqraʔu"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["هو يقرأ كتابا.", "الطالب يقرأ الدرس."]
+  },
+  {
+    "id": "word_ar_yashrabu",
+    "word": "يشرب",
+    "meaning": "he drinks",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "jaʃrabu"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["أنا أشرب ماء.", "هو يشرب القهوة."]
+  },
+  {
+    "id": "word_ar_yakulu",
+    "word": "يأكل",
+    "meaning": "he eats",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "jaʔkulu"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["هو يأكل طعاما.", "الطفل يأكل التفاحة."]
+  },
+  {
+    "id": "word_ar_yanamu",
+    "word": "ينام",
+    "meaning": "he sleeps",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "janaːmu"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["الطفل ينام.", "القط ينام."]
+  },
+  {
+    "id": "word_ar_yajlisu",
+    "word": "يجلس",
+    "meaning": "he sits",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "jad͡ʒlisu"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["أنا أجلس على الكرسي.", "هو يجلس هنا."]
+  },
+  {
+    "id": "word_ar_yaqifu",
+    "word": "يقف",
+    "meaning": "he stands",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "jaqifu"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["هو يقف بجانب الباب.", "الولد يقف أمام المدرسة."]
+  },
+  {
+    "id": "word_ar_yamshi",
+    "word": "يمشي",
+    "meaning": "he walks",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "jamʃiː"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["هي تمشي في الحديقة.", "أنا أمشي في الشارع."]
+  },
+  {
+    "id": "word_ar_yarkudu",
+    "word": "يركض",
+    "meaning": "he runs",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "jarkudu"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["الولد يركض.", "الكلب يركض بسرعة."]
+  },
+  {
+    "id": "word_ar_yadhaku",
+    "word": "يضحك",
+    "meaning": "he laughs",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "jaðħaku"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["هو يضحك بصوت عال.", "الطفل يضحك كثيرا."]
   }
 ]

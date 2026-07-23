@@ -323,5 +323,135 @@
     ],
     "category": "daily-use-nouns",
     "examples": ["রাত হয়েছে।", "রাতে ঘুমাও।"]
+  },
+  {
+    "id": "word_bn_lok",
+    "word": "লোক",
+    "meaning": "person / man",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "lok"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["সে একজন ভালো লোক।", "কয়েকজন লোক।"]
+  },
+  {
+    "id": "word_bn_nari",
+    "word": "নারী",
+    "meaning": "woman",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "naɾi"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["নারীটি সুন্দর।", "নারী ও পুরুষ।"]
+  },
+  {
+    "id": "word_bn_baccha",
+    "word": "বাচ্চা",
+    "meaning": "child",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "batʃtʃa"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["বাচ্চাটি খেলছে।", "বাচ্চারা ঘুমাচ্ছে।"]
+  },
+  {
+    "id": "word_bn_somoy",
+    "word": "সময়",
+    "meaning": "time",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃomɔj"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["সময় কম।", "সময় যাচ্ছে।"]
+  },
+  {
+    "id": "word_bn_hat",
+    "word": "হাত",
+    "meaning": "hand",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "hat"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["হাত ধোও।", "আমার হাত।"]
+  },
+  {
+    "id": "word_bn_chokh",
+    "word": "চোখ",
+    "meaning": "eye",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "tʃokʰ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["চোখ বড়।", "চোখে দেখো।"]
+  },
+  {
+    "id": "word_bn_mach",
+    "word": "মাছ",
+    "meaning": "fish",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "matʃ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["মাছ ভাজা।", "নদীতে মাছ।"]
+  },
+  {
+    "id": "word_bn_gach",
+    "word": "গাছ",
+    "meaning": "tree",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "gatʃ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["গাছ বড়।", "গাছের নিচে।"]
+  },
+  {
+    "id": "word_bn_ful",
+    "word": "ফুল",
+    "meaning": "flower",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "phul"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["ফুল সুন্দর।", "ফুল দাও।"]
+  },
+  {
+    "id": "word_bn_dudh",
+    "word": "দুধ",
+    "meaning": "milk",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "dudʱ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["দুধ পান করো।", "গরম দুধ।"]
   }
 ]

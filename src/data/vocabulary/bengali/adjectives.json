@@ -234,19 +234,6 @@
     "examples": ["দ্রুত গাড়ি।", "দ্রুত দৌড়।"]
   },
   {
-    "id": "word_bn_dhire",
-    "word": "ধীরে",
-    "meaning": "slow",
-    "pronunciationVariants": [
-      {
-        "accent": "bengali",
-        "ipa": "dʱiɾe"
-      }
-    ],
-    "category": "adjectives",
-    "examples": ["ধীরে যাও।", "ধীরে চলাচল।"]
-  },
-  {
     "id": "word_bn_thik",
     "word": "ঠিক",
     "meaning": "correct/right",
@@ -258,5 +245,135 @@
     ],
     "category": "adjectives",
     "examples": ["ঠিক উত্তর।", "এটা ঠিক।"]
+  },
+  {
+    "id": "word_bn_sada",
+    "word": "সাদা",
+    "meaning": "white",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃada"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["সাদা কাগজ।", "সাদা শার্ট।"]
+  },
+  {
+    "id": "word_bn_kalo",
+    "word": "কালো",
+    "meaning": "black",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kalo"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["কালো কাপড়।", "কালো বোর্ড।"]
+  },
+  {
+    "id": "word_bn_lal",
+    "word": "লাল",
+    "meaning": "red",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "lal"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["লাল গোলাপ।", "লাল রং।"]
+  },
+  {
+    "id": "word_bn_nil",
+    "word": "নীল",
+    "meaning": "blue",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "nil"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["নীল আকাশ।", "নীল জল।"]
+  },
+  {
+    "id": "word_bn_sobuj",
+    "word": "সবুজ",
+    "meaning": "green",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃobudʒ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["সবুজ ঘাস।", "সবুজ গাছ।"]
+  },
+  {
+    "id": "word_bn_holud",
+    "word": "হলুদ",
+    "meaning": "yellow",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ɦolud"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["হলুদ ফুল।", "হলুদ রং।"]
+  },
+  {
+    "id": "word_bn_lomba",
+    "word": "লম্বা",
+    "meaning": "long / tall",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "lɔmba"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["লম্বা মানুষ।", "লম্বা পথ।"]
+  },
+  {
+    "id": "word_bn_torun",
+    "word": "তরুণ",
+    "meaning": "young",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "tɔɾun"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["তরুণ ছেলে।", "তরুণ মেয়ে।"]
+  },
+  {
+    "id": "word_bn_sohoj",
+    "word": "সহজ",
+    "meaning": "easy",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃohodʒ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["সহজ প্রশ্ন।", "সহজ কাজ।"]
+  },
+  {
+    "id": "word_bn_kothin",
+    "word": "কঠিন",
+    "meaning": "difficult",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "kɔtʰin"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["কঠিন কাজ।", "কঠিন প্রশ্ন।"]
   }
 ]

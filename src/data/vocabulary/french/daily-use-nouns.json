@@ -1,6 +1,6 @@
 [
   {
-    "id": "word_maison",
+    "id": "word_fr_maison",
     "word": "maison",
     "meaning": "house",
     "pronunciationVariants": [
@@ -21,7 +21,7 @@
     "examples": ["Je vis dans une grande maison.", "La maison est belle."]
   },
   {
-    "id": "word_famille",
+    "id": "word_fr_famille",
     "word": "famille",
     "meaning": "family",
     "pronunciationVariants": [
@@ -42,7 +42,7 @@
     "examples": ["J'aime ma famille.", "La famille est importante."]
   },
   {
-    "id": "word_ami",
+    "id": "word_fr_ami",
     "word": "ami",
     "meaning": "friend (male)",
     "pronunciationVariants": [
@@ -63,7 +63,7 @@
     "examples": ["C'est mon meilleur ami.", "J'ai beaucoup d'amis."]
   },
   {
-    "id": "word_amie",
+    "id": "word_fr_amie",
     "word": "amie",
     "meaning": "friend (female)",
     "pronunciationVariants": [
@@ -84,7 +84,7 @@
     "examples": ["C'est ma meilleure amie.", "Elle est une bonne amie."]
   },
   {
-    "id": "word_temps",
+    "id": "word_fr_temps",
     "word": "temps",
     "meaning": "time/weather",
     "pronunciationVariants": [
@@ -105,7 +105,7 @@
     "examples": ["Je n'ai pas le temps.", "Quel temps fait-il?"]
   },
   {
-    "id": "word_jour",
+    "id": "word_fr_jour",
     "word": "jour",
     "meaning": "day",
     "pronunciationVariants": [
@@ -126,7 +126,7 @@
     "examples": ["Bonne journée!", "Je travaille tous les jours."]
   },
   {
-    "id": "word_nuit",
+    "id": "word_fr_nuit",
     "word": "nuit",
     "meaning": "night",
     "pronunciationVariants": [
@@ -147,7 +147,7 @@
     "examples": ["La nuit est étoilée.", "Je dors la nuit."]
   },
   {
-    "id": "word_eau",
+    "id": "word_fr_eau",
     "word": "eau",
     "meaning": "water",
     "pronunciationVariants": [
@@ -168,7 +168,7 @@
     "examples": ["Je bois de l'eau.", "L'eau est froide."]
   },
   {
-    "id": "word_pain",
+    "id": "word_fr_pain",
     "word": "pain",
     "meaning": "bread",
     "pronunciationVariants": [
@@ -189,7 +189,7 @@
     "examples": ["Je mange du pain.", "Le pain est frais."]
   },
   {
-    "id": "word_livre",
+    "id": "word_fr_livre",
     "word": "livre",
     "meaning": "book",
     "pronunciationVariants": [
@@ -210,7 +210,7 @@
     "examples": ["Je lis un livre.", "Ce livre est intéressant."]
   },
   {
-    "id": "word_table",
+    "id": "word_fr_table",
     "word": "table",
     "meaning": "table",
     "pronunciationVariants": [
@@ -231,7 +231,7 @@
     "examples": ["Mets le livre sur la table.", "La table est mise."]
   },
   {
-    "id": "word_chaise",
+    "id": "word_fr_chaise",
     "word": "chaise",
     "meaning": "chair",
     "pronunciationVariants": [
@@ -252,7 +252,7 @@
     "examples": ["Assieds-toi sur cette chaise.", "La chaise est confortable."]
   },
   {
-    "id": "word_porte",
+    "id": "word_fr_porte",
     "word": "porte",
     "meaning": "door",
     "pronunciationVariants": [
@@ -273,7 +273,7 @@
     "examples": ["Ouvre la porte.", "La porte est fermée."]
   },
   {
-    "id": "word_fenêtre",
+    "id": "word_fr_fenêtre",
     "word": "fenêtre",
     "meaning": "window",
     "pronunciationVariants": [
@@ -294,7 +294,7 @@
     "examples": ["Regarde par la fenêtre.", "La fenêtre est ouverte."]
   },
   {
-    "id": "word_voiture",
+    "id": "word_fr_voiture",
     "word": "voiture",
     "meaning": "car",
     "pronunciationVariants": [
@@ -315,7 +315,7 @@
     "examples": ["Je conduis ma voiture.", "La voiture est rapide."]
   },
   {
-    "id": "word_école",
+    "id": "word_fr_école",
     "word": "école",
     "meaning": "school",
     "pronunciationVariants": [
@@ -336,7 +336,7 @@
     "examples": ["Les enfants vont à l'école.", "L'école est grande."]
   },
   {
-    "id": "word_travail",
+    "id": "word_fr_travail",
     "word": "travail",
     "meaning": "work",
     "pronunciationVariants": [
@@ -357,7 +357,7 @@
     "examples": ["Le travail est important.", "Je vais au travail."]
   },
   {
-    "id": "word_argent",
+    "id": "word_fr_argent",
     "word": "argent",
     "meaning": "money",
     "pronunciationVariants": [
@@ -378,7 +378,7 @@
     "examples": ["Je n'ai pas d'argent.", "L'argent ne fait pas le bonheur."]
   },
   {
-    "id": "word_nourriture",
+    "id": "word_fr_nourriture",
     "word": "nourriture",
     "meaning": "food",
     "pronunciationVariants": [
@@ -399,7 +399,7 @@
     "examples": ["La nourriture est bonne.", "J'aime la nourriture française."]
   },
   {
-    "id": "word_ville",
+    "id": "word_fr_ville",
     "word": "ville",
     "meaning": "city",
     "pronunciationVariants": [
@@ -420,7 +420,7 @@
     "examples": ["J'habite dans une grande ville.", "La ville est belle."]
   },
   {
-    "id": "word_pays",
+    "id": "word_fr_pays",
     "word": "pays",
     "meaning": "country",
     "pronunciationVariants": [
@@ -441,7 +441,7 @@
     "examples": ["La France est un beau pays.", "J'aime mon pays."]
   },
   {
-    "id": "word_langue",
+    "id": "word_fr_langue",
     "word": "langue",
     "meaning": "language/tongue",
     "pronunciationVariants": [
@@ -462,7 +462,7 @@
     "examples": ["J'apprends une nouvelle langue.", "La langue française est belle."]
   },
   {
-    "id": "word_mot",
+    "id": "word_fr_mot",
     "word": "mot",
     "meaning": "word",
     "pronunciationVariants": [
@@ -483,7 +483,7 @@
     "examples": ["Quel est ce mot?", "J'apprends un nouveau mot."]
   },
   {
-    "id": "word_nom",
+    "id": "word_fr_nom",
     "word": "nom",
     "meaning": "name",
     "pronunciationVariants": [
@@ -504,7 +504,7 @@
     "examples": ["Quel est ton nom?", "Mon nom est Pierre."]
   },
   {
-    "id": "word_année",
+    "id": "word_fr_année",
     "word": "année",
     "meaning": "year",
     "pronunciationVariants": [
@@ -525,7 +525,7 @@
     "examples": ["Bonne année!", "Cette année est importante."]
   },
   {
-    "id": "word_mois",
+    "id": "word_fr_mois",
     "word": "mois",
     "meaning": "month",
     "pronunciationVariants": [
@@ -546,7 +546,7 @@
     "examples": ["Il y a douze mois dans l'année.", "Quel mois sommes-nous?"]
   },
   {
-    "id": "word_semaine",
+    "id": "word_fr_semaine",
     "word": "semaine",
     "meaning": "week",
     "pronunciationVariants": [
@@ -567,7 +567,7 @@
     "examples": ["Je travaille cinq jours par semaine.", "Bonne semaine!"]
   },
   {
-    "id": "word_lecon",
+    "id": "word_fr_lecon",
     "word": "leçon",
     "meaning": "lesson",
     "pronunciationVariants": [
@@ -588,7 +588,7 @@
     "examples": ["La leçon était intéressante.", "Apprends une leçon."]
   },
   {
-    "id": "word_air",
+    "id": "word_fr_air",
     "word": "air",
     "meaning": "air",
     "pronunciationVariants": [
@@ -609,7 +609,7 @@
     "examples": ["Air frais.", "L'air est froid."]
   },
   {
-    "id": "word_feu",
+    "id": "word_fr_feu",
     "word": "feu",
     "meaning": "fire",
     "pronunciationVariants": [
@@ -630,7 +630,7 @@
     "examples": ["Fais un feu.", "Sécurité incendie."]
   },
   {
-    "id": "word_lumiere",
+    "id": "word_fr_lumiere",
     "word": "lumière",
     "meaning": "light",
     "pronunciationVariants": [
@@ -651,7 +651,7 @@
     "examples": ["Allume la lumière.", "Lumière naturelle."]
   },
   {
-    "id": "word_son",
+    "id": "word_fr_son",
     "word": "son",
     "meaning": "sound",
     "pronunciationVariants": [
@@ -672,7 +672,7 @@
     "examples": ["Bruit fort.", "Le son de la musique."]
   },
   {
-    "id": "word_couleur",
+    "id": "word_fr_couleur",
     "word": "couleur",
     "meaning": "color",
     "pronunciationVariants": [
@@ -693,7 +693,7 @@
     "examples": ["Couleur préférée.", "Colorie le dessin."]
   },
   {
-    "id": "word_cote",
+    "id": "word_fr_cote",
     "word": "côté",
     "meaning": "side",
     "pronunciationVariants": [
@@ -714,7 +714,7 @@
     "examples": ["Côte à côte.", "Les deux côtés."]
   },
   {
-    "id": "word_lit",
+    "id": "word_fr_lit",
     "word": "lit",
     "meaning": "bed",
     "pronunciationVariants": [
@@ -735,7 +735,7 @@
     "examples": ["Va au lit.", "Fais le lit."]
   },
   {
-    "id": "word_bureau",
+    "id": "word_fr_bureau",
     "word": "bureau",
     "meaning": "desk/office",
     "pronunciationVariants": [
@@ -756,7 +756,7 @@
     "examples": ["Nettoie ton bureau.", "Le bureau est en désordre."]
   },
   {
-    "id": "word_mur",
+    "id": "word_fr_mur",
     "word": "mur",
     "meaning": "wall",
     "pronunciationVariants": [
@@ -777,7 +777,7 @@
     "examples": ["Peins le mur.", "Grimpe le mur."]
   },
   {
-    "id": "word_sol",
+    "id": "word_fr_sol",
     "word": "sol",
     "meaning": "floor",
     "pronunciationVariants": [
@@ -798,7 +798,7 @@
     "examples": ["Nettoie le sol.", "Premier étage."]
   },
   {
-    "id": "word_plafond",
+    "id": "word_fr_plafond",
     "word": "plafond",
     "meaning": "ceiling",
     "pronunciationVariants": [
@@ -819,7 +819,7 @@
     "examples": ["Plafond haut.", "Touche le plafond."]
   },
   {
-    "id": "word_toit",
+    "id": "word_fr_toit",
     "word": "toit",
     "meaning": "roof",
     "pronunciationVariants": [
@@ -840,7 +840,7 @@
     "examples": ["Sur le toit.", "Répare le toit."]
   },
   {
-    "id": "word_jardin",
+    "id": "word_fr_jardin",
     "word": "jardin",
     "meaning": "garden",
     "pronunciationVariants": [
@@ -861,7 +861,7 @@
     "examples": ["Beau jardin.", "Travaille dans le jardin."]
   },
   {
-    "id": "word_par",
+    "id": "word_fr_par",
     "word": "parc",
     "meaning": "park",
     "pronunciationVariants": [
@@ -882,7 +882,7 @@
     "examples": ["Va au parc.", "Parking."]
   },
   {
-    "id": "word_rue",
+    "id": "word_fr_rue",
     "word": "rue",
     "meaning": "street",
     "pronunciationVariants": [
@@ -903,7 +903,7 @@
     "examples": ["Marche dans la rue.", "Rue principale."]
   },
   {
-    "id": "word_route",
+    "id": "word_fr_route",
     "word": "route",
     "meaning": "road",
     "pronunciationVariants": [
@@ -924,7 +924,7 @@
     "examples": ["Sur la route.", "Voyage en route."]
   },
   {
-    "id": "word_pont",
+    "id": "word_fr_pont",
     "word": "pont",
     "meaning": "bridge",
     "pronunciationVariants": [
@@ -945,7 +945,7 @@
     "examples": ["Traverse le pont.", "Construis un pont."]
   },
   {
-    "id": "word_riviere",
+    "id": "word_fr_riviere",
     "word": "rivière",
     "meaning": "river",
     "pronunciationVariants": [
@@ -966,7 +966,7 @@
     "examples": ["Nage dans la rivière.", "La rivière coule."]
   },
   {
-    "id": "word_ocean",
+    "id": "word_fr_ocean",
     "word": "océan",
     "meaning": "ocean",
     "pronunciationVariants": [
@@ -987,7 +987,7 @@
     "examples": ["Vue sur l'océan.", "Océan Pacifique."]
   },
   {
-    "id": "word_montagne",
+    "id": "word_fr_montagne",
     "word": "montagne",
     "meaning": "mountain",
     "pronunciationVariants": [
@@ -1008,7 +1008,7 @@
     "examples": ["Grimpe la montagne.", "Chaîne de montagnes."]
   },
   {
-    "id": "word_foret",
+    "id": "word_fr_foret",
     "word": "forêt",
     "meaning": "forest",
     "pronunciationVariants": [
@@ -1029,7 +1029,7 @@
     "examples": ["Forêt profonde.", "Animaux de la forêt."]
   },
   {
-    "id": "word_arbre",
+    "id": "word_fr_arbre",
     "word": "arbre",
     "meaning": "tree",
     "pronunciationVariants": [
@@ -1050,7 +1050,7 @@
     "examples": ["Plante un arbre.", "Grimpe l'arbre."]
   },
   {
-    "id": "word_fleur",
+    "id": "word_fr_fleur",
     "word": "fleur",
     "meaning": "flower",
     "pronunciationVariants": [
@@ -1071,7 +1071,7 @@
     "examples": ["Belle fleur.", "Sent les fleurs."]
   },
   {
-    "id": "word_animal",
+    "id": "word_fr_animal",
     "word": "animal",
     "meaning": "animal",
     "pronunciationVariants": [
@@ -1092,7 +1092,7 @@
     "examples": ["Animal sauvage.", "Refuge pour animaux."]
   },
   {
-    "id": "word_oiseau",
+    "id": "word_fr_oiseau",
     "word": "oiseau",
     "meaning": "bird",
     "pronunciationVariants": [
@@ -1113,7 +1113,7 @@
     "examples": ["Regarde les oiseaux.", "Chant d'oiseau."]
   },
   {
-    "id": "word_chien",
+    "id": "word_fr_chien",
     "word": "chien",
     "meaning": "dog",
     "pronunciationVariants": [
@@ -1134,7 +1134,7 @@
     "examples": ["Promène le chien.", "Un chien amical."]
   },
   {
-    "id": "word_chat",
+    "id": "word_fr_chat",
     "word": "chat",
     "meaning": "cat",
     "pronunciationVariants": [
@@ -1155,7 +1155,7 @@
     "examples": ["Nourris le chat.", "Le chat dort."]
   },
   {
-    "id": "word_cheval",
+    "id": "word_fr_cheval",
     "word": "cheval",
     "meaning": "horse",
     "pronunciationVariants": [
@@ -1176,7 +1176,7 @@
     "examples": ["Chevauche un cheval.", "Courses de chevaux."]
   },
   {
-    "id": "word_vache",
+    "id": "word_fr_vache",
     "word": "vache",
     "meaning": "cow",
     "pronunciationVariants": [
@@ -1197,7 +1197,7 @@
     "examples": ["Traite la vache.", "La vache broute."]
   },
   {
-    "id": "word_poulet",
+    "id": "word_fr_poulet",
     "word": "poulet",
     "meaning": "chicken",
     "pronunciationVariants": [
@@ -1218,7 +1218,7 @@
     "examples": ["Mange du poulet.", "Le poulet pond des œufs."]
   },
   {
-    "id": "word_poisson",
+    "id": "word_fr_poisson",
     "word": "poisson",
     "meaning": "fish",
     "pronunciationVariants": [
@@ -1239,7 +1239,7 @@
     "examples": ["Attrape du poisson.", "Les poissons nagent."]
   },
   {
-    "id": "word_soleil",
+    "id": "word_fr_soleil",
     "word": "soleil",
     "meaning": "sun",
     "pronunciationVariants": [
@@ -1260,7 +1260,7 @@
     "examples": ["Le soleil brille.", "Lever du soleil."]
   },
   {
-    "id": "word_lune",
+    "id": "word_fr_lune",
     "word": "lune",
     "meaning": "moon",
     "pronunciationVariants": [
@@ -1281,7 +1281,7 @@
     "examples": ["Pleine lune.", "Clair de lune."]
   },
   {
-    "id": "word_etoile",
+    "id": "word_fr_etoile",
     "word": "étoile",
     "meaning": "star",
     "pronunciationVariants": [
@@ -1302,7 +1302,7 @@
     "examples": ["Étoile brillante.", "Regarder les étoiles."]
   },
   {
-    "id": "word_ciel",
+    "id": "word_fr_ciel",
     "word": "ciel",
     "meaning": "sky",
     "pronunciationVariants": [
@@ -1323,7 +1323,7 @@
     "examples": ["Ciel bleu.", "Regarde le ciel."]
   },
   {
-    "id": "word_nuage",
+    "id": "word_fr_nuage",
     "word": "nuage",
     "meaning": "cloud",
     "pronunciationVariants": [
@@ -1344,7 +1344,7 @@
     "examples": ["Nuage sombre.", "Informatique en nuage."]
   },
   {
-    "id": "word_pluie",
+    "id": "word_fr_pluie",
     "word": "pluie",
     "meaning": "rain",
     "pronunciationVariants": [
@@ -1365,7 +1365,7 @@
     "examples": ["Pluie forte.", "Imperméable."]
   },
   {
-    "id": "word_neige",
+    "id": "word_fr_neige",
     "word": "neige",
     "meaning": "snow",
     "pronunciationVariants": [
@@ -1386,7 +1386,7 @@
     "examples": ["Neige blanche.", "Joue dans la neige."]
   },
   {
-    "id": "word_vent",
+    "id": "word_fr_vent",
     "word": "vent",
     "meaning": "wind",
     "pronunciationVariants": [
@@ -1407,7 +1407,7 @@
     "examples": ["Vent fort.", "Énergie éolienne."]
   },
   {
-    "id": "word_terre",
+    "id": "word_fr_terre",
     "word": "terre",
     "meaning": "earth/soil",
     "pronunciationVariants": [
@@ -1426,5 +1426,152 @@
     ],
     "category": "daily-use-nouns",
     "examples": ["Sauve la terre.", "Jour de la Terre."]
+  },
+  {
+    "id": "word_fr_homme",
+    "word": "homme",
+    "meaning": "man",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "ɔm"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "ɔm"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "ɔm"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Un homme grand.", "C'est un homme gentil."]
+  },
+  {
+    "id": "word_fr_femme",
+    "word": "femme",
+    "meaning": "woman",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "fam"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "fam"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "fam"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Une femme intelligente.", "La femme lit un livre."]
+  },
+  {
+    "id": "word_fr_mere",
+    "word": "mère",
+    "meaning": "mother",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "mɛʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "mɛʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "mɛʁ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Ma mère cuisine.", "La mère de Luc."]
+  },
+  {
+    "id": "word_fr_pere",
+    "word": "père",
+    "meaning": "father",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "pɛʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "pɛʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "pɛʁ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Mon père travaille.", "Le père de Marie."]
+  },
+  {
+    "id": "word_fr_main",
+    "word": "main",
+    "meaning": "hand",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "mɛ̃"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "mɛ̃"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "mɛ̃"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Lève la main.", "Il me serre la main."]
+  },
+  {
+    "id": "word_fr_tete",
+    "word": "tête",
+    "meaning": "head",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "tɛt"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "tɛt"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "tɛt"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["J'ai mal à la tête.", "Il hoche la tête."]
+  },
+  {
+    "id": "word_fr_coeur",
+    "word": "cœur",
+    "meaning": "heart",
+    "pronunciationVariants": [
+      {
+        "accent": "parisian",
+        "ipa": "kœʁ"
+      },
+      {
+        "accent": "quebecois",
+        "ipa": "kœʁ"
+      },
+      {
+        "accent": "belgian",
+        "ipa": "kœʁ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["Mon cœur bat vite.", "Elle a bon cœur."]
   }
 ]

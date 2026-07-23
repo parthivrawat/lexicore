@@ -323,5 +323,213 @@
     ],
     "category": "daily-use-nouns",
     "examples": ["الليل طويل.", "في الليل."]
+  },
+  {
+    "id": "word_ar_shams",
+    "word": "شمس",
+    "meaning": "sun",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʃams"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["الشمس ساطعة.", "الشمس في السماء."]
+  },
+  {
+    "id": "word_ar_qamar",
+    "word": "قمر",
+    "meaning": "moon",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "qamar"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["القمر جميل.", "رأى القمر."]
+  },
+  {
+    "id": "word_ar_saaa",
+    "word": "ساعة",
+    "meaning": "watch / clock",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "saːʕa"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["هذه ساعة جديدة.", "الساعة على الحائط."]
+  },
+  {
+    "id": "word_ar_tilifizyun",
+    "word": "تلفزيون",
+    "meaning": "television",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "tilivizjuːn"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["التلفزيون كبير.", "أشاهد التلفزيون."]
+  },
+  {
+    "id": "word_ar_qamees",
+    "word": "قميص",
+    "meaning": "shirt",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "qamiːsˤ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["القميص نظيف.", "ألبس القميص."]
+  },
+  {
+    "id": "word_ar_sirwal",
+    "word": "سرول",
+    "meaning": "pants",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "sirwaːl"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["السرول أسود.", "ألبس السرول."]
+  },
+  {
+    "id": "word_ar_samaa",
+    "word": "سماء",
+    "meaning": "sky",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "samaːʔ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["السماء زرقاء.", "الطائرة في السماء."]
+  },
+  {
+    "id": "word_ar_ard",
+    "word": "أرض",
+    "meaning": "earth / ground",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔardˤ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["الأرض كبيرة.", "وقفت على الأرض."]
+  },
+  {
+    "id": "word_ar_shajara",
+    "word": "شجرة",
+    "meaning": "tree",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʃad͡ʒara"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["الشجرة طويلة.", "تسلق الشجرة."]
+  },
+  {
+    "id": "word_ar_zahra",
+    "word": "زهرة",
+    "meaning": "flower",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "zahra"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["الزهرة جميلة.", "قطفت زهرة."]
+  },
+  {
+    "id": "word_ar_qitt",
+    "word": "قط",
+    "meaning": "cat",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "qitˤtˤ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["القط صغير.", "لدي قط."]
+  },
+  {
+    "id": "word_ar_kalb",
+    "word": "كلب",
+    "meaning": "dog",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "kalb"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["الكلب كبير.", "لدي كلب."]
+  },
+  {
+    "id": "word_ar_tair",
+    "word": "طائر",
+    "meaning": "bird",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "tˤaːʔir"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["الطائر يطير.", "رأيت طائر."]
+  },
+  {
+    "id": "word_ar_samaka",
+    "word": "سمكة",
+    "meaning": "fish",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "samaka"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["السمكة في الماء.", "أكل السمكة."]
+  },
+  {
+    "id": "word_ar_fursha",
+    "word": "فرشاة",
+    "meaning": "brush",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "furʃaː"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["الفرشاة جديدة.", "استخدم الفرشاة."]
+  },
+  {
+    "id": "word_ar_miftah",
+    "word": "مفتاح",
+    "meaning": "key",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "miftaːħ"
+      }
+    ],
+    "category": "daily-use-nouns",
+    "examples": ["أين المفتاح؟", "افتح الباب بالمفتاح."]
   }
 ]

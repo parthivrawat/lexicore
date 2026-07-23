@@ -193,5 +193,200 @@
     ],
     "category": "numbers",
     "examples": ["ألف دولار.", "ألف شخص."]
+  },
+  {
+    "id": "word_ar_ahada_ashar",
+    "word": "أحد عشر",
+    "meaning": "eleven",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔaħada ʕaʃar"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["لدي أحد عشر كتابا.", "هناك أحد عشر طالبا."]
+  },
+  {
+    "id": "word_ar_ithna_ashar",
+    "word": "اثنا عشر",
+    "meaning": "twelve",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "iθnaː ʕaʃar"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["اثنا عشر شهرا.", "لدي اثنا عشر قلم."]
+  },
+  {
+    "id": "word_ar_thalathata_ashar",
+    "word": "ثلاثة عشر",
+    "meaning": "thirteen",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "θalaːθata ʕaʃar"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ثلاثة عشر يوما.", "لدي ثلاثة عشر كتابا."]
+  },
+  {
+    "id": "word_ar_arbaata_ashar",
+    "word": "أربعة عشر",
+    "meaning": "fourteen",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔarbaʕata ʕaʃar"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["أربعة عشر طالبا.", "أربعة عشر كتابا."]
+  },
+  {
+    "id": "word_ar_khamsata_ashar",
+    "word": "خمسة عشر",
+    "meaning": "fifteen",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "xamsata ʕaʃar"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["خمسة عشر دولارا.", "خمسة عشر يوما."]
+  },
+  {
+    "id": "word_ar_sittata_ashar",
+    "word": "ستة عشر",
+    "meaning": "sixteen",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "sittata ʕaʃar"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ستة عشر عاما.", "ستة عشر طالبا."]
+  },
+  {
+    "id": "word_ar_sabata_ashar",
+    "word": "سبعة عشر",
+    "meaning": "seventeen",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "sabʕata ʕaʃar"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["سبعة عشر كتابا.", "سبعة عشر يوما."]
+  },
+  {
+    "id": "word_ar_thamaniyata_ashar",
+    "word": "ثمانية عشر",
+    "meaning": "eighteen",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "θamaːnijata ʕaʃar"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ثمانية عشر شهرا.", "ثمانية عشر يوما."]
+  },
+  {
+    "id": "word_ar_tisata_ashar",
+    "word": "تسعة عشر",
+    "meaning": "nineteen",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "tisʕata ʕaʃar"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["تسعة عشر طالبا.", "تسعة عشر كتابا."]
+  },
+  {
+    "id": "word_ar_thalathun",
+    "word": "ثلاثون",
+    "meaning": "thirty",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "θalaːθuːn"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ثلاثون يوما.", "ثلاثون طالبا."]
+  },
+  {
+    "id": "word_ar_arbaun",
+    "word": "أربعون",
+    "meaning": "forty",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔarbaʕuːn"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["أربعون كتابا.", "أربعون يوما."]
+  },
+  {
+    "id": "word_ar_sittun",
+    "word": "ستون",
+    "meaning": "sixty",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "sittuːn"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ستون دولارا.", "ستون يوما."]
+  },
+  {
+    "id": "word_ar_sabun",
+    "word": "سبعون",
+    "meaning": "seventy",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "sabʕuːn"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["سبعون كتابا.", "سبعون طالبا."]
+  },
+  {
+    "id": "word_ar_thamanun",
+    "word": "ثمانون",
+    "meaning": "eighty",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "θamaːnuːn"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["ثمانون يوما.", "ثمانون دولارا."]
+  },
+  {
+    "id": "word_ar_tisun",
+    "word": "تسعون",
+    "meaning": "ninety",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "tisʕuːn"
+      }
+    ],
+    "category": "numbers",
+    "examples": ["تسعون كتابا.", "تسعون يوما."]
   }
 ]

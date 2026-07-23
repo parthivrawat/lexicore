@@ -2,7 +2,7 @@
   {
     "id": "word_yue_hai",
     "word": "係",
-    "meaning": "to be",
+    "meaning": "to be / yes",
     "pronunciationVariants": [
       {
         "accent": "cantonese",
@@ -10,7 +10,7 @@
       }
     ],
     "category": "verbs",
-    "examples": ["我係學生。", "佢係老師。"]
+    "examples": ["我係學生。", "佢係老師。", "係呀。", "係我。"]
   },
   {
     "id": "word_yue_zou",
@@ -28,7 +28,7 @@
   {
     "id": "word_yue_heoi",
     "word": "去",
-    "meaning": "to go",
+    "meaning": "to go / to",
     "pronunciationVariants": [
       {
         "accent": "cantonese",
@@ -145,7 +145,7 @@
   {
     "id": "word_yue_bei",
     "word": "畀",
-    "meaning": "to give",
+    "meaning": "to give / for",
     "pronunciationVariants": [
       {
         "accent": "cantonese",
@@ -153,7 +153,7 @@
       }
     ],
     "category": "verbs",
-    "examples": ["畀我。", "畀錢。"]
+    "examples": ["畀我。", "畀錢。", "畀你。", "畀佢。"]
   },
   {
     "id": "word_yue_lo",
@@ -323,5 +323,109 @@
     ],
     "category": "verbs",
     "examples": ["做緊嘢。", "去做嘢。"]
+  },
+  {
+    "id": "word_yue_zi",
+    "word": "知",
+    "meaning": "to know",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "zi¹"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["我知。", "知唔知？"]
+  },
+  {
+    "id": "word_yue_nam",
+    "word": "諗",
+    "meaning": "to think",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "nam²"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["諗緊。", "諗吓。"]
+  },
+  {
+    "id": "word_yue_man",
+    "word": "問",
+    "meaning": "to ask",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "man⁶"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["問佢。", "問問題。"]
+  },
+  {
+    "id": "word_yue_bong",
+    "word": "幫",
+    "meaning": "to help",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "bong¹"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["幫我。", "幫手。"]
+  },
+  {
+    "id": "word_yue_hoi_si",
+    "word": "開始",
+    "meaning": "to begin",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "hoi¹ si²"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["開始啦。", "開始做。"]
+  },
+  {
+    "id": "word_yue_jyun",
+    "word": "完",
+    "meaning": "to finish",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "jyun⁴"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["做完。", "完咗。"]
+  },
+  {
+    "id": "word_yue_maai",
+    "word": "買",
+    "meaning": "to buy",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "maai⁵"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["買嘢。", "買餸。"]
+  },
+  {
+    "id": "word_yue_hok",
+    "word": "學",
+    "meaning": "to learn",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "hok⁶"
+      }
+    ],
+    "category": "verbs",
+    "examples": ["學廣東話。", "學緊。"]
   }
 ]

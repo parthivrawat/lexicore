@@ -258,5 +258,226 @@
     ],
     "category": "adjectives",
     "examples": ["جواب صحيح.", "هذا صحيح."]
+  },
+  {
+    "id": "word_ar_qabih",
+    "word": "قبيح",
+    "meaning": "ugly",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "qabiːħ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["هذا قبيح.", "المنظر قبيح."]
+  },
+  {
+    "id": "word_ar_sahl",
+    "word": "سهل",
+    "meaning": "easy",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "sahl"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["هذا سهل.", "الدرس سهل."]
+  },
+  {
+    "id": "word_ar_saab",
+    "word": "صعب",
+    "meaning": "difficult",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "sˤaʕb"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["هذا صعب.", "الامتحان صعب."]
+  },
+  {
+    "id": "word_ar_ghali",
+    "word": "غالي",
+    "meaning": "expensive",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ɣaːliː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["الهاتف غالي.", "السعر غالي."]
+  },
+  {
+    "id": "word_ar_rakhis",
+    "word": "رخيص",
+    "meaning": "cheap",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "raxiːsˤ"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["الكتاب رخيص.", "السعر رخيص."]
+  },
+  {
+    "id": "word_ar_qareeb",
+    "word": "قريب",
+    "meaning": "near",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "qariːb"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["البيت قريب.", "المسجد قريب."]
+  },
+  {
+    "id": "word_ar_baeed",
+    "word": "بعيد",
+    "meaning": "far",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "baʕiːd"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["البيت بعيد.", "المدرسة بعيدة."]
+  },
+  {
+    "id": "word_ar_ahmar",
+    "word": "أحمر",
+    "meaning": "red",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔaħmar"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["الوردة حمراء.", "التفاح أحمر."]
+  },
+  {
+    "id": "word_ar_azraq",
+    "word": "أزرق",
+    "meaning": "blue",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔazraq"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["السماء زرقاء.", "القميص أزرق."]
+  },
+  {
+    "id": "word_ar_akhdar",
+    "word": "أخضر",
+    "meaning": "green",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔaxdˤar"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["العشب أخضر.", "الورقة خضراء."]
+  },
+  {
+    "id": "word_ar_asfar",
+    "word": "أصفر",
+    "meaning": "yellow",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔasˤfar"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["الشمس صفراء.", "الموز أصفر."]
+  },
+  {
+    "id": "word_ar_abyad",
+    "word": "أبيض",
+    "meaning": "white",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔabjad"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["الورق أبيض.", "القميص أبيض."]
+  },
+  {
+    "id": "word_ar_aswad",
+    "word": "أسود",
+    "meaning": "black",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔaswad"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["القلم أسود.", "السيارة سوداء."]
+  },
+  {
+    "id": "word_ar_bunni",
+    "word": "بني",
+    "meaning": "brown",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "bunniː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["الخبز بني.", "الكرسي بني."]
+  },
+  {
+    "id": "word_ar_wardi",
+    "word": "وردي",
+    "meaning": "pink",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "wardiː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["الوردة وردية.", "القميص وردي."]
+  },
+  {
+    "id": "word_ar_banafsaji",
+    "word": "بنفسجي",
+    "meaning": "purple",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "banafsad͡ʒiː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["القميص بنفسجي.", "الزهرة بنفسجية."]
+  },
+  {
+    "id": "word_ar_ramadi",
+    "word": "رمادي",
+    "meaning": "gray",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ramaːdiː"
+      }
+    ],
+    "category": "adjectives",
+    "examples": ["السحاب رمادي.", "القميص رمادي."]
   }
 ]

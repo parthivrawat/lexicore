@@ -1,5 +1,5 @@
 {
-  "word_bn_shunya": {
+  "word_bn_shunno": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 500 CE",
     "timeline": [
@@ -149,7 +149,7 @@
     ],
     "notes": "From Sanskrit पञ्च."
   },
-  "word_bn_chhoy": {
+  "word_bn_choy": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 1500 BCE",
     "timeline": [
@@ -175,7 +175,7 @@
     ],
     "notes": "From Sanskrit षष्."
   },
-  "word_bn_sath": {
+  "word_bn_shat": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 1500 BCE",
     "timeline": [
@@ -201,7 +201,7 @@
     ],
     "notes": "From Sanskrit सप्त."
   },
-  "word_bn_at": {
+  "word_bn_aat": {
     "languageOrigin": "Sanskrit",
     "yearOfOrigin": "c. 1500 BCE",
     "timeline": [
@@ -279,32 +279,6 @@
     ],
     "notes": "From Sanskrit दश."
   },
-  "word_bn_eksho": {
-    "languageOrigin": "Sanskrit",
-    "yearOfOrigin": "c. 1500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "शत (śata)",
-        "period": "Vedic",
-        "meaning": "hundred"
-      },
-      {
-        "language": "Bengali",
-        "form": "একশো",
-        "period": "Modern",
-        "meaning": "hundred"
-      }
-    ],
-    "cognates": [
-      {
-        "language": "Hindi",
-        "word": "सौ",
-        "meaning": "hundred"
-      }
-    ],
-    "notes": "From Sanskrit शत. 'Ek' (one) + 'sho' (hundred)."
-  },
   "word_bn_hajar": {
     "languageOrigin": "Persian",
     "yearOfOrigin": "Medieval",
@@ -330,45 +304,5 @@
       }
     ],
     "notes": "Borrowed from Persian."
-  },
-  "word_bn_lakh": {
-    "languageOrigin": "Sanskrit",
-    "yearOfOrigin": "c. 500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "लक्ष (lakṣa)",
-        "period": "Classical",
-        "meaning": "hundred thousand"
-      },
-      {
-        "language": "Bengali",
-        "form": "লাখ",
-        "period": "Modern",
-        "meaning": "hundred thousand"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Sanskrit लक्ष."
-  },
-  "word_bn_adh": {
-    "languageOrigin": "Sanskrit",
-    "yearOfOrigin": "c. 1500 BCE",
-    "timeline": [
-      {
-        "language": "Sanskrit",
-        "form": "अर्ध (ardha)",
-        "period": "Vedic",
-        "meaning": "half"
-      },
-      {
-        "language": "Bengali",
-        "form": "অর্ধ",
-        "period": "Modern",
-        "meaning": "half"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Sanskrit अर्ध."
   }
 }

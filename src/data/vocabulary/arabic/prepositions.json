@@ -65,7 +65,7 @@
     "examples": ["لك.", "للأطفال."]
   },
   {
-    "id": "word_ar_maa",
+    "id": "word_ar_maa_2",
     "word": "مع",
     "meaning": "with",
     "pronunciationVariants": [
@@ -93,7 +93,7 @@
   {
     "id": "word_ar_qurb",
     "word": "قرب",
-    "meaning": "near",
+    "meaning": "near (to)",
     "pronunciationVariants": [
       {
         "accent": "arabic",
@@ -193,5 +193,83 @@
     ],
     "category": "prepositions",
     "examples": ["بالقلم.", "بالسيارة."]
+  },
+  {
+    "id": "word_ar_an",
+    "word": "عن",
+    "meaning": "about / from",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʕan"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["سألت عن السفر.", "تحدثنا عن الطقس."]
+  },
+  {
+    "id": "word_ar_ka",
+    "word": "ك",
+    "meaning": "like / as",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ka"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["هو كالقمر.", "يعمل كمعلم."]
+  },
+  {
+    "id": "word_ar_inda",
+    "word": "عند",
+    "meaning": "at / with (possession)",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʕinda"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["عندي كتاب.", "اجلس عند الباب."]
+  },
+  {
+    "id": "word_ar_khilal",
+    "word": "خلال",
+    "meaning": "during / throughout",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "xilaːl"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["خلال اليوم.", "سافرت خلال الصيف."]
+  },
+  {
+    "id": "word_ar_mundhu",
+    "word": "منذ",
+    "meaning": "since / for",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "mundu"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["منذ سنة.", "أعرفه منذ طفولتي."]
+  },
+  {
+    "id": "word_ar_waraa",
+    "word": "وراء",
+    "meaning": "behind / beyond",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "waraːʔ"
+      }
+    ],
+    "category": "prepositions",
+    "examples": ["القمر وراء السحاب.", "البيت وراء الجبل."]
   }
 ]

@@ -193,5 +193,31 @@
     ],
     "category": "greetings",
     "examples": ["শুভ দিন, স্যার।", "শুভ দিন!"]
+  },
+  {
+    "id": "word_bn_shuvo_bikal",
+    "word": "শুভ বিকাল",
+    "meaning": "good afternoon",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "ʃubʱo bikal"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["শুভ বিকাল, স্যার।", "শুভ বিকাল!"]
+  },
+  {
+    "id": "word_bn_maf_korben",
+    "word": "মাফ করবেন",
+    "meaning": "excuse me",
+    "pronunciationVariants": [
+      {
+        "accent": "bengali",
+        "ipa": "maf kɔɾben"
+      }
+    ],
+    "category": "greetings",
+    "examples": ["মাফ করবেন, কোথায় যাব?", "মাফ করবেন।"]
   }
 ]

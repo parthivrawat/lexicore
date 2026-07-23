@@ -258,5 +258,70 @@
     ],
     "category": "function-words",
     "examples": ["نعم، حسنا.", "نعم، سأذهب."]
+  },
+  {
+    "id": "word_ar_hal",
+    "word": "هل",
+    "meaning": "yes/no question particle",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "hal"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["هل أنت بخير؟", "هل تحب القهوة؟"]
+  },
+  {
+    "id": "word_ar_ayyu",
+    "word": "أي",
+    "meaning": "which",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔajju"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["أي كتاب تريد؟", "أي لون تفضل؟"]
+  },
+  {
+    "id": "word_ar_kull",
+    "word": "كل",
+    "meaning": "all / every",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "kull"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["كل يوم.", "كل الأطفال هنا."]
+  },
+  {
+    "id": "word_ar_thumma",
+    "word": "ثم",
+    "meaning": "then",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "θumma"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["أكل ثم شرب.", "ذهب ثم عاد."]
+  },
+  {
+    "id": "word_ar_imma",
+    "word": "إما",
+    "meaning": "either...or",
+    "pronunciationVariants": [
+      {
+        "accent": "arabic",
+        "ipa": "ʔimmaː"
+      }
+    ],
+    "category": "function-words",
+    "examples": ["إما أنت أو أنا.", "إما هذا أو ذاك."]
   }
 ]

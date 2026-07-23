@@ -1,5 +1,5 @@
 {
-  "word_yue_hai6": {
+  "word_yue_hai": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -14,12 +14,24 @@
         "form": "係 (hai6)",
         "period": "Modern",
         "meaning": "to be"
+      },
+      {
+        "language": "Middle Chinese",
+        "form": "係",
+        "period": "c. 7th century CE",
+        "meaning": "yes, to be"
+      },
+      {
+        "language": "Cantonese",
+        "form": "係 (hai6)",
+        "period": "Modern",
+        "meaning": "yes"
       }
     ],
     "cognates": [],
-    "notes": "From Middle Chinese 係 (hej)."
+    "notes": "From Middle Chinese 係 (hej).; From Middle Chinese 係."
   },
-  "word_yue_zou6": {
+  "word_yue_zou": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -39,7 +51,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 做 (tsuH)."
   },
-  "word_yue_heoi3": {
+  "word_yue_heoi": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -54,12 +66,24 @@
         "form": "去 (heoi3)",
         "period": "Modern",
         "meaning": "to go"
+      },
+      {
+        "language": "Middle Chinese",
+        "form": "去",
+        "period": "c. 7th century CE",
+        "meaning": "to go, to"
+      },
+      {
+        "language": "Cantonese",
+        "form": "去 (heoi3)",
+        "period": "Modern",
+        "meaning": "to"
       }
     ],
     "cognates": [],
-    "notes": "From Middle Chinese 去 (kjoH)."
+    "notes": "From Middle Chinese 去 (kjoH).; From Middle Chinese 去."
   },
-  "word_yue_lai4": {
+  "word_yue_lai": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -79,7 +103,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 來 (loj)."
   },
-  "word_yue_sik6": {
+  "word_yue_sik": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -99,7 +123,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 食 (dzyik)."
   },
-  "word_yue_jam2": {
+  "word_yue_jam": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -119,7 +143,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 飲 (ʔimX)."
   },
-  "word_yue_tai2": {
+  "word_yue_tai": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -139,7 +163,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 睇 (tejX)."
   },
-  "word_yue_teng1": {
+  "word_yue_teng": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -159,7 +183,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 聽 (theng)."
   },
-  "word_yue_gong2": {
+  "word_yue_gong": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -179,7 +203,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 講 (kɣɔŋX)."
   },
-  "word_yue_tok3": {
+  "word_yue_duk": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -199,7 +223,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 讀 (duwk)."
   },
-  "word_yue_se2": {
+  "word_yue_se": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -219,7 +243,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 寫 (sjaX)."
   },
-  "word_yue_bei2": {
+  "word_yue_bei": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -239,7 +263,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 畀 (pjijH)."
   },
-  "word_yue_lo2": {
+  "word_yue_lo": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -259,7 +283,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 攞 (la)."
   },
-  "word_yue_fan3_gaan3": {
+  "word_yue_fan_gaau": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -279,21 +303,7 @@
     "cognates": [],
     "notes": "fan3 (sleep) + gaau3 (sleep)."
   },
-  "word_yue_sik6_zo2_fan6": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Cantonese",
-        "form": "食咗飯",
-        "period": "Modern",
-        "meaning": "to wake up?"
-      }
-    ],
-    "cognates": [],
-    "notes": "This was probably intended as 'wake up'? Actually '醒 (seng2/sing2)' is wake."
-  },
-  "word_yue_co5": {
+  "word_yue_co": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -313,27 +323,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 坐 (dzwaX)."
   },
-  "word_yue_hei2": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Middle Chinese",
-        "form": "起",
-        "period": "c. 7th century CE",
-        "meaning": "to rise"
-      },
-      {
-        "language": "Cantonese",
-        "form": "起 (hei2)",
-        "period": "Modern",
-        "meaning": "to stand up"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Middle Chinese 起 (khiX)."
-  },
-  "word_yue_haang4": {
+  "word_yue_haang": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -353,7 +343,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 行 (hɛŋ)."
   },
-  "word_yue_zou2": {
+  "word_yue_zau": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -373,7 +363,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 走 (tsuwX)."
   },
-  "word_yue_siu3": {
+  "word_yue_siu": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -393,7 +383,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 笑 (sjeuH)."
   },
-  "word_yue_haau3": {
+  "word_yue_haam": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -413,27 +403,7 @@
     "cognates": [],
     "notes": "From Middle Chinese 喊 (hamX)."
   },
-  "word_yue_ming4_baak6": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Middle Chinese",
-        "form": "明白",
-        "period": "c. 7th century CE",
-        "meaning": "clear"
-      },
-      {
-        "language": "Cantonese",
-        "form": "明白 (ming4 baak6)",
-        "period": "Modern",
-        "meaning": "to understand"
-      }
-    ],
-    "cognates": [],
-    "notes": "ming4 (bright) + baak6 (white/clear)."
-  },
-  "word_yue_soeng2": {
+  "word_yue_soeng": {
     "languageOrigin": "Sino-Tibetan",
     "yearOfOrigin": "c. 10th century CE",
     "timeline": [
@@ -452,45 +422,5 @@
     ],
     "cognates": [],
     "notes": "From Middle Chinese 想 (sjaŋX)."
-  },
-  "word_yue_oi3": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Middle Chinese",
-        "form": "愛",
-        "period": "c. 7th century CE",
-        "meaning": "to love"
-      },
-      {
-        "language": "Cantonese",
-        "form": "愛 (oi3)",
-        "period": "Modern",
-        "meaning": "to love"
-      }
-    ],
-    "cognates": [],
-    "notes": "From Middle Chinese 愛 (ʔojH)."
-  },
-  "word_yue_gung1_zok3": {
-    "languageOrigin": "Sino-Tibetan",
-    "yearOfOrigin": "c. 10th century CE",
-    "timeline": [
-      {
-        "language": "Middle Chinese",
-        "form": "工作",
-        "period": "c. 7th century CE",
-        "meaning": "work"
-      },
-      {
-        "language": "Cantonese",
-        "form": "工作 (gung1 zok3)",
-        "period": "Modern",
-        "meaning": "to work"
-      }
-    ],
-    "cognates": [],
-    "notes": "gung1 (work) + zok3 (make)."
   }
 }

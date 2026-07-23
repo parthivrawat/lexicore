@@ -1,18 +1,5 @@
 [
   {
-    "id": "word_yue_hou",
-    "word": "好",
-    "meaning": "very",
-    "pronunciationVariants": [
-      {
-        "accent": "cantonese",
-        "ipa": "hou²"
-      }
-    ],
-    "category": "adverbs",
-    "examples": ["好靚。", "好快。"]
-  },
-  {
     "id": "word_yue_dou",
     "word": "都",
     "meaning": "also",
@@ -169,19 +156,6 @@
     "examples": ["重未做。", "重未食。"]
   },
   {
-    "id": "word_yue_waak_ze",
-    "word": "或者",
-    "meaning": "maybe",
-    "pronunciationVariants": [
-      {
-        "accent": "cantonese",
-        "ipa": "waak⁶ ze²"
-      }
-    ],
-    "category": "adverbs",
-    "examples": ["或者係。", "或者唔係。"]
-  },
-  {
     "id": "word_yue_ding_hai",
     "word": "梗係",
     "meaning": "certainly",
@@ -193,5 +167,96 @@
     ],
     "category": "adverbs",
     "examples": ["梗係啦。", "梗係去。"]
+  },
+  {
+    "id": "word_yue_ni_dou",
+    "word": "呢度",
+    "meaning": "here",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "ni¹ dou⁶"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["喺呢度。", "呢度呀。"]
+  },
+  {
+    "id": "word_yue_go_dou",
+    "word": "嗰度",
+    "meaning": "there",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "go² dou⁶"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["喺嗰度。", "嗰度呀。"]
+  },
+  {
+    "id": "word_yue_jap_min",
+    "word": "入面",
+    "meaning": "inside",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "jap⁶ min⁶"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["喺入面。", "入面喺。"]
+  },
+  {
+    "id": "word_yue_ceot_min",
+    "word": "出面",
+    "meaning": "outside",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "ceot¹ min⁶"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["喺出面。", "出面喺。"]
+  },
+  {
+    "id": "word_yue_cin_min",
+    "word": "前面",
+    "meaning": "in front",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "cin⁴ min⁶"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["喺前面。", "前面有。"]
+  },
+  {
+    "id": "word_yue_hau_min",
+    "word": "後面",
+    "meaning": "behind",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "hau⁶ min⁶"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["喺後面。", "後面有。"]
+  },
+  {
+    "id": "word_yue_jat_cai",
+    "word": "一齊",
+    "meaning": "together",
+    "pronunciationVariants": [
+      {
+        "accent": "cantonese",
+        "ipa": "jat¹ cai⁴"
+      }
+    ],
+    "category": "adverbs",
+    "examples": ["一齊去。", "一齊食。"]
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "id": "word_bonjour",
+    "id": "word_fr_bonjour",
     "word": "bonjour",
     "meaning": "hello/good day",
     "pronunciationVariants": [
@@ -21,7 +21,7 @@
     "examples": ["Bonjour, comment allez-vous?", "Bonjour monsieur."]
   },
   {
-    "id": "word_salut",
+    "id": "word_fr_salut",
     "word": "salut",
     "meaning": "hi/bye (informal)",
     "pronunciationVariants": [
@@ -42,7 +42,7 @@
     "examples": ["Salut, ça va?", "Salut tout le monde!"]
   },
   {
-    "id": "word_bonsoir",
+    "id": "word_fr_bonsoir",
     "word": "bonsoir",
     "meaning": "good evening",
     "pronunciationVariants": [
@@ -63,7 +63,7 @@
     "examples": ["Bonsoir, madame.", "Bonsoir à tous."]
   },
   {
-    "id": "word_au_revoir",
+    "id": "word_fr_au_revoir",
     "word": "au revoir",
     "meaning": "goodbye",
     "pronunciationVariants": [
@@ -84,7 +84,7 @@
     "examples": ["Au revoir, à demain!", "Au revoir et merci."]
   },
   {
-    "id": "word_bonne_nuit",
+    "id": "word_fr_bonne_nuit",
     "word": "bonne nuit",
     "meaning": "good night",
     "pronunciationVariants": [
@@ -105,7 +105,7 @@
     "examples": ["Bonne nuit les enfants.", "Fais de beaux rêves, bonne nuit."]
   },
   {
-    "id": "word_merci",
+    "id": "word_fr_merci",
     "word": "merci",
     "meaning": "thank you",
     "pronunciationVariants": [
@@ -126,7 +126,7 @@
     "examples": ["Merci beaucoup!", "Merci de votre aide."]
   },
   {
-    "id": "word_s_il_vous_plait",
+    "id": "word_fr_s_il_vous_plait",
     "word": "s'il vous plaît",
     "meaning": "please",
     "pronunciationVariants": [
@@ -147,7 +147,7 @@
     "examples": ["Un café, s'il vous plaît.", "Pouvez-vous m'aider, s'il vous plaît?"]
   },
   {
-    "id": "word_excusez_moi",
+    "id": "word_fr_excusez_moi",
     "word": "excusez-moi",
     "meaning": "excuse me",
     "pronunciationVariants": [
@@ -168,7 +168,7 @@
     "examples": ["Excusez-moi, quelle heure est-il?", "Excusez-moi de vous déranger."]
   },
   {
-    "id": "word_pardon",
+    "id": "word_fr_pardon",
     "word": "pardon",
     "meaning": "sorry/pardon",
     "pronunciationVariants": [
@@ -189,7 +189,7 @@
     "examples": ["Pardon, je suis en retard.", "Pardon, je n'ai pas compris."]
   },
   {
-    "id": "word_de_rien",
+    "id": "word_fr_de_rien",
     "word": "de rien",
     "meaning": "you're welcome",
     "pronunciationVariants": [
@@ -210,7 +210,7 @@
     "examples": ["Merci! - De rien.", "C'est gentil, merci. - De rien."]
   },
   {
-    "id": "word_je_vous_en_prie",
+    "id": "word_fr_je_vous_en_prie",
     "word": "je vous en prie",
     "meaning": "you're welcome (formal)",
     "pronunciationVariants": [
@@ -231,7 +231,7 @@
     "examples": ["Merci beaucoup. - Je vous en prie."]
   },
   {
-    "id": "word_comment_allez_vous",
+    "id": "word_fr_comment_allez_vous",
     "word": "comment allez-vous",
     "meaning": "how are you (formal)",
     "pronunciationVariants": [
@@ -252,7 +252,7 @@
     "examples": ["Bonjour, comment allez-vous?", "Comment allez-vous aujourd'hui?"]
   },
   {
-    "id": "word_ca_va",
+    "id": "word_fr_ca_va",
     "word": "ça va",
     "meaning": "how are you (informal)",
     "pronunciationVariants": [
@@ -273,7 +273,7 @@
     "examples": ["Salut! Ça va?", "Oui, ça va bien."]
   },
   {
-    "id": "word_bon_apres_midi",
+    "id": "word_fr_bon_apres_midi",
     "word": "bon après-midi",
     "meaning": "good afternoon",
     "pronunciationVariants": [
@@ -294,7 +294,7 @@
     "examples": ["Bon après-midi, madame.", "Passez un bon après-midi."]
   },
   {
-    "id": "word_bienvenue",
+    "id": "word_fr_bienvenue",
     "word": "bienvenue",
     "meaning": "welcome",
     "pronunciationVariants": [
@@ -315,7 +315,7 @@
     "examples": ["Bienvenue chez nous!", "Soyez les bienvenus."]
   },
   {
-    "id": "word_felicitations",
+    "id": "word_fr_felicitations",
     "word": "félicitations",
     "meaning": "congratulations",
     "pronunciationVariants": [
@@ -336,7 +336,7 @@
     "examples": ["Félicitations pour ton succès!", "Toutes mes félicitations."]
   },
   {
-    "id": "word_enchant",
+    "id": "word_fr_enchant",
     "word": "enchanté",
     "meaning": "pleased to meet you",
     "pronunciationVariants": [
@@ -357,7 +357,7 @@
     "examples": ["Enchanté de vous rencontrer.", "Je suis enchanté."]
   },
   {
-    "id": "word_a_bientot",
+    "id": "word_fr_a_bientot",
     "word": "à bientôt",
     "meaning": "see you soon",
     "pronunciationVariants": [
@@ -378,7 +378,7 @@
     "examples": ["À bientôt!", "Je te verrai à bientôt."]
   },
   {
-    "id": "word_a_demain",
+    "id": "word_fr_a_demain",
     "word": "à demain",
     "meaning": "see you tomorrow",
     "pronunciationVariants": [
@@ -399,7 +399,7 @@
     "examples": ["À demain!", "On se voit à demain."]
   },
   {
-    "id": "word_a_plus_tard",
+    "id": "word_fr_a_plus_tard",
     "word": "à plus tard",
     "meaning": "see you later",
     "pronunciationVariants": [
@@ -420,7 +420,7 @@
     "examples": ["À plus tard!", "Je reviens à plus tard."]
   },
   {
-    "id": "word_bonne_chance",
+    "id": "word_fr_bonne_chance",
     "word": "bonne chance",
     "meaning": "good luck",
     "pronunciationVariants": [
@@ -441,7 +441,7 @@
     "examples": ["Bonne chance pour l'examen!", "Je te souhaite bonne chance."]
   },
   {
-    "id": "word_sante",
+    "id": "word_fr_sante",
     "word": "santé",
     "meaning": "cheers/to your health",
     "pronunciationVariants": [

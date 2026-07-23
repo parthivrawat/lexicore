@@ -1,6 +1,6 @@
 [
   {
-    "id": "root_es_am",
+    "id": "es_base_am",
     "root": "am-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -23,10 +23,10 @@
         "sentence": "Mi amigo es leal."
       }
     ],
-    "relatedRootIds": ["root_es_amor"]
+    "relatedRootIds": ["es_base_amor"]
   },
   {
-    "id": "root_es_amor",
+    "id": "es_base_amor",
     "root": "amor",
     "type": "base",
     "languageOrigin": "Latin",
@@ -49,10 +49,10 @@
         "sentence": "La canción me enamoró."
       }
     ],
-    "relatedRootIds": ["root_es_am"]
+    "relatedRootIds": ["es_base_am"]
   },
   {
-    "id": "root_es_aqua",
+    "id": "es_base_aqua",
     "root": "aqua-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -75,10 +75,10 @@
         "sentence": "El aguacero duró una hora."
       }
     ],
-    "relatedRootIds": ["root_es_hidr"]
+    "relatedRootIds": ["es_base_hidr"]
   },
   {
-    "id": "root_es_cas",
+    "id": "es_base_cas",
     "root": "cas-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -104,7 +104,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_foc",
+    "id": "es_base_foc",
     "root": "foc-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -130,7 +130,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_hidr",
+    "id": "es_base_hidr",
     "root": "hidr-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -153,10 +153,10 @@
         "sentence": "Usan energía hidroeléctrica."
       }
     ],
-    "relatedRootIds": ["root_es_aqua"]
+    "relatedRootIds": ["es_base_aqua"]
   },
   {
-    "id": "root_es_libr",
+    "id": "es_base_libr",
     "root": "libr-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -182,7 +182,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_luc",
+    "id": "es_base_luc",
     "root": "luc-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -208,7 +208,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_man",
+    "id": "es_base_man",
     "root": "man-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -234,7 +234,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_mater",
+    "id": "es_base_mater",
     "root": "mater-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -257,10 +257,10 @@
         "sentence": "La madrina llevó un regalo."
       }
     ],
-    "relatedRootIds": ["root_es_pater"]
+    "relatedRootIds": ["es_base_pater"]
   },
   {
-    "id": "root_es_noct",
+    "id": "es_base_noct",
     "root": "noct-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -286,7 +286,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_pater",
+    "id": "es_base_pater",
     "root": "pater-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -309,10 +309,10 @@
         "sentence": "El padrino trajo flores."
       }
     ],
-    "relatedRootIds": ["root_es_mater"]
+    "relatedRootIds": ["es_base_mater"]
   },
   {
-    "id": "root_es_paz",
+    "id": "es_base_paz",
     "root": "paz",
     "type": "base",
     "languageOrigin": "Latin",
@@ -338,7 +338,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_terra",
+    "id": "es_base_terra",
     "root": "terra-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -364,7 +364,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_port",
+    "id": "es_base_port",
     "root": "port-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -390,7 +390,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_ven",
+    "id": "es_base_ven",
     "root": "ven-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -413,10 +413,10 @@
         "sentence": "Las partes lograron avenirse."
       }
     ],
-    "relatedRootIds": ["root_es_ad"]
+    "relatedRootIds": ["es_prefix_ad"]
   },
   {
-    "id": "root_es_fac",
+    "id": "es_base_fac",
     "root": "fac-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -439,10 +439,10 @@
         "sentence": "El factor decisivo fue el tiempo."
       }
     ],
-    "relatedRootIds": ["root_es_ador"]
+    "relatedRootIds": ["es_suffix_ador"]
   },
   {
-    "id": "root_es_bib",
+    "id": "es_base_bib",
     "root": "bib-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -468,7 +468,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_ed",
+    "id": "es_base_ed",
     "root": "ed-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -491,10 +491,10 @@
         "sentence": "El comedor es amplio."
       }
     ],
-    "relatedRootIds": ["root_es_ador", "root_es_ible"]
+    "relatedRootIds": ["es_suffix_ador", "es_suffix_ible"]
   },
   {
-    "id": "root_es_don",
+    "id": "es_base_don",
     "root": "don-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -520,7 +520,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_ire",
+    "id": "es_base_ire",
     "root": "ire-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -546,7 +546,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_audi",
+    "id": "es_base_audi",
     "root": "audi-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -569,10 +569,10 @@
         "sentence": "La audición fue clara."
       }
     ],
-    "relatedRootIds": ["root_es_cion", "root_es_ible"]
+    "relatedRootIds": ["es_suffix_cion", "es_suffix_ible"]
   },
   {
-    "id": "root_es_ten",
+    "id": "es_base_ten",
     "root": "ten-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -595,10 +595,10 @@
         "sentence": "Retengo la información."
       }
     ],
-    "relatedRootIds": ["root_es_re"]
+    "relatedRootIds": ["es_prefix_re"]
   },
   {
-    "id": "root_es_sci",
+    "id": "es_base_sci",
     "root": "sci-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -624,7 +624,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_disc",
+    "id": "es_base_disc",
     "root": "disc-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -650,7 +650,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_leg",
+    "id": "es_base_leg",
     "root": "leg-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -673,10 +673,10 @@
         "sentence": "El lector es atento."
       }
     ],
-    "relatedRootIds": ["root_es_ador"]
+    "relatedRootIds": ["es_suffix_ador"]
   },
   {
-    "id": "root_es_dic",
+    "id": "es_base_dic",
     "root": "dic-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -702,7 +702,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_vid",
+    "id": "es_base_vid",
     "root": "vid-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -725,10 +725,10 @@
         "sentence": "El avión es visible."
       }
     ],
-    "relatedRootIds": ["root_es_ible"]
+    "relatedRootIds": ["es_suffix_ible"]
   },
   {
-    "id": "root_es_loqu",
+    "id": "es_base_loqu",
     "root": "loqu-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -754,7 +754,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_stud",
+    "id": "es_base_stud",
     "root": "stud-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -777,10 +777,10 @@
         "sentence": "La estudiante es dedicada."
       }
     ],
-    "relatedRootIds": ["root_es_ista"]
+    "relatedRootIds": ["es_suffix_ista"]
   },
   {
-    "id": "root_es_cap",
+    "id": "es_base_cap",
     "root": "cap-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -806,7 +806,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_cogit",
+    "id": "es_base_cogit",
     "root": "cogit-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -829,10 +829,10 @@
         "sentence": "La cogitación es profunda."
       }
     ],
-    "relatedRootIds": ["root_es_cion"]
+    "relatedRootIds": ["es_suffix_cion"]
   },
   {
-    "id": "root_es_labor",
+    "id": "es_base_labor",
     "root": "labor-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -855,10 +855,10 @@
         "sentence": "El trabajo es laborioso."
       }
     ],
-    "relatedRootIds": ["root_es_oso"]
+    "relatedRootIds": ["es_suffix_oso"]
   },
   {
-    "id": "root_es_scrib",
+    "id": "es_base_scrib",
     "root": "scrib-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -886,10 +886,10 @@
         "sentence": "El escritor es famoso."
       }
     ],
-    "relatedRootIds": ["root_es_ador"]
+    "relatedRootIds": ["es_suffix_ador"]
   },
   {
-    "id": "root_es_gen",
+    "id": "es_base_gen",
     "root": "gen-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -915,7 +915,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_duc",
+    "id": "es_base_duc",
     "root": "duc-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -941,7 +941,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_brev",
+    "id": "es_base_brev",
     "root": "brev-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -967,7 +967,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_jur",
+    "id": "es_base_jur",
     "root": "jur-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -993,7 +993,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_lev",
+    "id": "es_base_lev",
     "root": "lev-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1016,10 +1016,10 @@
         "sentence": "Levanta la mano."
       }
     ],
-    "relatedRootIds": ["root_es_luc"]
+    "relatedRootIds": ["es_base_luc"]
   },
   {
-    "id": "root_es_vac",
+    "id": "es_base_vac",
     "root": "vac-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1045,7 +1045,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_sens",
+    "id": "es_base_sens",
     "root": "sens-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1071,7 +1071,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_fund",
+    "id": "es_base_fund",
     "root": "fund-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1097,7 +1097,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_hab",
+    "id": "es_base_hab",
     "root": "hab-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1123,7 +1123,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_tim",
+    "id": "es_base_tim",
     "root": "tim-",
     "type": "base",
     "languageOrigin": "Latin",

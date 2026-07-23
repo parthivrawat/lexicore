@@ -1,6 +1,6 @@
 [
   {
-    "id": "root_la_a",
+    "id": "la_prefix_a",
     "root": "a-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -23,10 +23,10 @@
         "sentence": "Iudex eum absolvit."
       }
     ],
-    "relatedRootIds": ["root_la_ab"]
+    "relatedRootIds": ["la_prefix_ab"]
   },
   {
-    "id": "root_la_ab",
+    "id": "la_prefix_ab",
     "root": "ab-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -49,10 +49,10 @@
         "sentence": "Aurum abscondit."
       }
     ],
-    "relatedRootIds": ["root_la_a"]
+    "relatedRootIds": ["la_prefix_a"]
   },
   {
-    "id": "root_la_ad",
+    "id": "la_prefix_ad",
     "root": "ad-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -78,7 +78,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_ante",
+    "id": "la_prefix_ante",
     "root": "ante-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -101,10 +101,10 @@
         "sentence": "Vitam honōri antepōnit."
       }
     ],
-    "relatedRootIds": ["root_la_post"]
+    "relatedRootIds": ["la_prefix_post"]
   },
   {
-    "id": "root_la_bi",
+    "id": "la_prefix_bi",
     "root": "bi-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -127,10 +127,10 @@
         "sentence": "Bis in diē cenat."
       }
     ],
-    "relatedRootIds": ["root_la_duo"]
+    "relatedRootIds": ["la_base_duo"]
   },
   {
-    "id": "root_la_circum",
+    "id": "la_prefix_circum",
     "root": "circum-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -156,7 +156,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_con",
+    "id": "la_prefix_con",
     "root": "con-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -179,10 +179,10 @@
         "sentence": "Leges conscribunt."
       }
     ],
-    "relatedRootIds": ["root_la_cum"]
+    "relatedRootIds": ["la_prefix_cum"]
   },
   {
-    "id": "root_la_cum",
+    "id": "la_prefix_cum",
     "root": "cum-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -205,10 +205,10 @@
         "sentence": "Cum amīs conveniō."
       }
     ],
-    "relatedRootIds": ["root_la_con"]
+    "relatedRootIds": ["la_prefix_con"]
   },
   {
-    "id": "root_la_de",
+    "id": "la_prefix_de",
     "root": "de-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -234,7 +234,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_ex",
+    "id": "la_prefix_ex",
     "root": "ex-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -260,7 +260,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_inter",
+    "id": "la_prefix_inter",
     "root": "inter-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -286,7 +286,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_post",
+    "id": "la_prefix_post",
     "root": "post-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -309,10 +309,10 @@
         "sentence": "Posteā rēs clāra est."
       }
     ],
-    "relatedRootIds": ["root_la_ante"]
+    "relatedRootIds": ["la_prefix_ante"]
   },
   {
-    "id": "root_la_pre",
+    "id": "la_prefix_pre",
     "root": "pre-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -335,10 +335,10 @@
         "sentence": "Explorātōrēs praemittit."
       }
     ],
-    "relatedRootIds": ["root_la_ante"]
+    "relatedRootIds": ["la_prefix_ante"]
   },
   {
-    "id": "root_la_re",
+    "id": "la_prefix_re",
     "root": "re-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -364,7 +364,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_sub",
+    "id": "la_prefix_sub",
     "root": "sub-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -390,7 +390,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_bene",
+    "id": "la_prefix_bene",
     "root": "bene-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -413,10 +413,10 @@
         "sentence": "Benefacit amīcīs."
       }
     ],
-    "relatedRootIds": ["root_la_bon"]
+    "relatedRootIds": ["la_prefix_bon"]
   },
   {
-    "id": "root_la_bon",
+    "id": "la_prefix_bon",
     "root": "bon-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -439,10 +439,10 @@
         "sentence": "Bonum facere volō."
       }
     ],
-    "relatedRootIds": ["root_la_bene"]
+    "relatedRootIds": ["la_prefix_bene"]
   },
   {
-    "id": "root_la_com",
+    "id": "la_prefix_com",
     "root": "com-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -465,10 +465,10 @@
         "sentence": "Cōpiās comparat."
       }
     ],
-    "relatedRootIds": ["root_la_con", "root_la_cum"]
+    "relatedRootIds": ["la_prefix_con", "la_prefix_cum"]
   },
   {
-    "id": "root_la_contra",
+    "id": "la_prefix_contra",
     "root": "contrā-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -494,7 +494,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_extra",
+    "id": "la_prefix_extra",
     "root": "extrā-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -520,7 +520,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_in",
+    "id": "la_prefix_in",
     "root": "in-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -546,7 +546,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_intra",
+    "id": "la_prefix_intra",
     "root": "intrā-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -569,10 +569,10 @@
         "sentence": "Intrāmus templum."
       }
     ],
-    "relatedRootIds": ["root_la_inter"]
+    "relatedRootIds": ["la_prefix_inter"]
   },
   {
-    "id": "root_la_male",
+    "id": "la_prefix_male",
     "root": "male-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -598,7 +598,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_milli",
+    "id": "la_prefix_milli",
     "root": "mīlli-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -624,7 +624,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_min",
+    "id": "la_prefix_min",
     "root": "min-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -650,7 +650,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_multi",
+    "id": "la_prefix_multi",
     "root": "multī-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -676,7 +676,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_non",
+    "id": "la_prefix_non",
     "root": "nōn-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -702,7 +702,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_omni",
+    "id": "la_prefix_omni",
     "root": "omnī-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -728,7 +728,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_per",
+    "id": "la_prefix_per",
     "root": "per-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -754,7 +754,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_pro",
+    "id": "la_prefix_pro",
     "root": "pro-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -780,7 +780,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_quadr",
+    "id": "la_prefix_quadr",
     "root": "quadr-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -806,7 +806,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_quasi",
+    "id": "la_prefix_quasi",
     "root": "quasi-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -832,7 +832,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_retro",
+    "id": "la_prefix_retro",
     "root": "retrō-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -858,7 +858,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_semi",
+    "id": "la_prefix_semi",
     "root": "semī-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -884,7 +884,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_super",
+    "id": "la_prefix_super",
     "root": "super-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -910,7 +910,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_trans",
+    "id": "la_prefix_trans",
     "root": "trāns-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -936,7 +936,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_ultra",
+    "id": "la_prefix_ultra",
     "root": "ultrā-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -962,7 +962,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_uni",
+    "id": "la_prefix_uni",
     "root": "ūnī-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -985,10 +985,10 @@
         "sentence": "Ūnicornis in fabulīs est."
       }
     ],
-    "relatedRootIds": ["root_la_duo"]
+    "relatedRootIds": ["la_base_duo"]
   },
   {
-    "id": "root_la_dis",
+    "id": "la_prefix_dis",
     "root": "dis-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1014,7 +1014,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_ob",
+    "id": "la_prefix_ob",
     "root": "ob-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1040,7 +1040,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_se",
+    "id": "la_prefix_se",
     "root": "sē-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1066,7 +1066,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_ambi",
+    "id": "la_prefix_ambi",
     "root": "ambī-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1092,7 +1092,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_intro",
+    "id": "la_prefix_intro",
     "root": "intrō-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1115,6 +1115,6 @@
         "sentence": "Puer in domum intrōīre vult."
       }
     ],
-    "relatedRootIds": ["root_la_intra"]
+    "relatedRootIds": ["la_prefix_intra"]
   }
 ]

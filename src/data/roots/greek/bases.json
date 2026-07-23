@@ -1,6 +1,6 @@
 [
   {
-    "id": "root_el_anthrop",
+    "id": "el_base_anthrop",
     "root": "anthrop-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -26,7 +26,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_bio",
+    "id": "el_base_bio",
     "root": "bio-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -49,10 +49,10 @@
         "sentence": "Η βιολογία είναι επιστήμη."
       }
     ],
-    "relatedRootIds": ["root_el_zo"]
+    "relatedRootIds": ["el_base_zo"]
   },
   {
-    "id": "root_el_chron",
+    "id": "el_base_chron",
     "root": "chron-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -78,7 +78,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_cosm",
+    "id": "el_base_cosm",
     "root": "cosm-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -104,7 +104,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_geo",
+    "id": "el_base_geo",
     "root": "geo-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -130,7 +130,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_graph",
+    "id": "el_base_graph",
     "root": "graph-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -153,10 +153,10 @@
         "sentence": "Το γραφείο είναι μεγάλο."
       }
     ],
-    "relatedRootIds": ["root_el_gram"]
+    "relatedRootIds": ["el_base_gram"]
   },
   {
-    "id": "root_el_gram",
+    "id": "el_base_gram",
     "root": "gram-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -179,10 +179,10 @@
         "sentence": "Κόλλησε το γραμματόσημο."
       }
     ],
-    "relatedRootIds": ["root_el_graph"]
+    "relatedRootIds": ["el_base_graph"]
   },
   {
-    "id": "root_el_hydr",
+    "id": "el_base_hydr",
     "root": "hydr-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -208,7 +208,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_log",
+    "id": "el_base_log",
     "root": "log-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -231,10 +231,10 @@
         "sentence": "Η λογική είναι σημαντική."
       }
     ],
-    "relatedRootIds": ["root_el_logia"]
+    "relatedRootIds": ["el_suffix_logia"]
   },
   {
-    "id": "root_el_met",
+    "id": "el_base_met",
     "root": "met-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -257,10 +257,10 @@
         "sentence": "Η γεωμετρία είναι τέχνη."
       }
     ],
-    "relatedRootIds": ["root_el_metro"]
+    "relatedRootIds": ["el_suffix_metro"]
   },
   {
-    "id": "root_el_onym",
+    "id": "el_base_onym",
     "root": "onym-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -283,10 +283,10 @@
         "sentence": "Το γράμμα ήταν ανώνυμο."
       }
     ],
-    "relatedRootIds": ["root_el_nym"]
+    "relatedRootIds": ["el_suffix_nym"]
   },
   {
-    "id": "root_el_phil",
+    "id": "el_base_phil",
     "root": "phil-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -309,10 +309,10 @@
         "sentence": "Η φιλοσοφία είναι παλιά."
       }
     ],
-    "relatedRootIds": ["root_el_phobe"]
+    "relatedRootIds": ["el_base_phobe"]
   },
   {
-    "id": "root_el_phobe",
+    "id": "el_base_phobe",
     "root": "phob-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -335,10 +335,10 @@
         "sentence": "Η φοβία είναι ψυχολογική."
       }
     ],
-    "relatedRootIds": ["root_el_phil"]
+    "relatedRootIds": ["el_base_phil"]
   },
   {
-    "id": "root_el_phon",
+    "id": "el_base_phon",
     "root": "phon-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -361,10 +361,10 @@
         "sentence": "Το τηλέφωνο χτυπά."
       }
     ],
-    "relatedRootIds": ["root_el_phone"]
+    "relatedRootIds": ["el_suffix_phone"]
   },
   {
-    "id": "root_el_phot",
+    "id": "el_base_phot",
     "root": "phot-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -390,7 +390,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_scop",
+    "id": "el_base_scop",
     "root": "scop-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -413,10 +413,10 @@
         "sentence": "Η σκοπιά είναι ψηλά."
       }
     ],
-    "relatedRootIds": ["root_el_scope"]
+    "relatedRootIds": ["el_suffix_scope"]
   },
   {
-    "id": "root_el_therm",
+    "id": "el_base_therm",
     "root": "therm-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -442,7 +442,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_zo",
+    "id": "el_base_zo",
     "root": "zo-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -465,10 +465,10 @@
         "sentence": "Η ζωολογία μελετά τα ζώα."
       }
     ],
-    "relatedRootIds": ["root_el_bio"]
+    "relatedRootIds": ["el_base_bio"]
   },
   {
-    "id": "root_el_poi",
+    "id": "el_base_poi",
     "root": "poi-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -491,10 +491,10 @@
         "sentence": "Η ποίηση είναι τέχνη."
       }
     ],
-    "relatedRootIds": ["root_el_ic"]
+    "relatedRootIds": ["el_suffix_ic"]
   },
   {
-    "id": "root_el_bain",
+    "id": "el_base_bain",
     "root": "bain-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -522,10 +522,10 @@
         "sentence": "Συμβαίνει κάθε μέρα."
       }
     ],
-    "relatedRootIds": ["root_el_dia", "root_el_syn"]
+    "relatedRootIds": ["el_prefix_dia", "el_prefix_syn"]
   },
   {
-    "id": "root_el_erk",
+    "id": "el_base_erk",
     "root": "erch-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -556,7 +556,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_lab",
+    "id": "el_base_lab",
     "root": "lab-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -584,10 +584,10 @@
         "sentence": "Η αστυνομία συλλαμβάνει τον κλέφτη."
       }
     ],
-    "relatedRootIds": ["root_el_syn"]
+    "relatedRootIds": ["el_prefix_syn"]
   },
   {
-    "id": "root_el_did",
+    "id": "el_base_did",
     "root": "did-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -615,10 +615,10 @@
         "sentence": "Το αντίδοτο είναι αποτελεσματικό."
       }
     ],
-    "relatedRootIds": ["root_el_anti"]
+    "relatedRootIds": ["el_prefix_anti"]
   },
   {
-    "id": "root_el_phag",
+    "id": "el_base_phag",
     "root": "phag-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -649,7 +649,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_pin",
+    "id": "el_base_pin",
     "root": "pin-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -680,7 +680,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_akou",
+    "id": "el_base_akou",
     "root": "akou-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -708,10 +708,10 @@
         "sentence": "Η ακρόαση ξεκινά στις έξι."
       }
     ],
-    "relatedRootIds": ["root_el_ic"]
+    "relatedRootIds": ["el_suffix_ic"]
   },
   {
-    "id": "root_el_ech",
+    "id": "el_base_ech",
     "root": "ech-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -742,7 +742,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_gnos",
+    "id": "el_base_gnos",
     "root": "gnos-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -770,10 +770,10 @@
         "sentence": "Η άγνοια δεν είναι ευτυχία."
       }
     ],
-    "relatedRootIds": ["root_el_ic"]
+    "relatedRootIds": ["el_suffix_ic"]
   },
   {
-    "id": "root_el_math",
+    "id": "el_base_math",
     "root": "math-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -801,10 +801,10 @@
         "sentence": "Τα μαθηματικά είναι ωραία."
       }
     ],
-    "relatedRootIds": ["root_el_ic", "root_el_ist"]
+    "relatedRootIds": ["el_suffix_ic", "el_suffix_ist"]
   },
   {
-    "id": "root_el_anagno",
+    "id": "el_base_anagno",
     "root": "anagno-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -832,10 +832,10 @@
         "sentence": "Ο αναγνώστης είναι προσεκτικός."
       }
     ],
-    "relatedRootIds": ["root_el_ist"]
+    "relatedRootIds": ["el_suffix_ist"]
   },
   {
-    "id": "root_el_phem",
+    "id": "el_base_phem",
     "root": "phem-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -863,10 +863,10 @@
         "sentence": "Ο προφήτης μιλάει."
       }
     ],
-    "relatedRootIds": ["root_el_eu", "root_el_ist"]
+    "relatedRootIds": ["el_prefix_eu", "el_suffix_ist"]
   },
   {
-    "id": "root_el_schol",
+    "id": "el_base_schol",
     "root": "schol-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -894,10 +894,10 @@
         "sentence": "Ο σχολαστικός είναι προσεκτικός."
       }
     ],
-    "relatedRootIds": ["root_el_ic"]
+    "relatedRootIds": ["el_suffix_ic"]
   },
   {
-    "id": "root_el_noe",
+    "id": "el_base_noe",
     "root": "noe-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -925,10 +925,10 @@
         "sentence": "Η παράνοια είναι ασθένεια."
       }
     ],
-    "relatedRootIds": ["root_el_ic"]
+    "relatedRootIds": ["el_suffix_ic"]
   },
   {
-    "id": "root_el_erg",
+    "id": "el_base_erg",
     "root": "erg-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -956,10 +956,10 @@
         "sentence": "Η εργονομία βοηθάει."
       }
     ],
-    "relatedRootIds": ["root_el_ic"]
+    "relatedRootIds": ["el_suffix_ic"]
   },
   {
-    "id": "root_el_pher",
+    "id": "el_base_pher",
     "root": "pher-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -987,10 +987,10 @@
         "sentence": "Συμφέρει να πάω."
       }
     ],
-    "relatedRootIds": ["root_el_dia", "root_el_syn"]
+    "relatedRootIds": ["el_prefix_dia", "el_prefix_syn"]
   },
   {
-    "id": "root_el_arch",
+    "id": "el_base_arch",
     "root": "arch-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -1016,7 +1016,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_aster",
+    "id": "el_base_aster",
     "root": "aster-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -1042,7 +1042,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_aut",
+    "id": "el_base_aut",
     "root": "aut-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -1065,10 +1065,10 @@
         "sentence": "Το αυτοκίνητο είναι γρήγορο."
       }
     ],
-    "relatedRootIds": ["root_el_auto"]
+    "relatedRootIds": ["el_prefix_auto"]
   },
   {
-    "id": "root_el_biblio",
+    "id": "el_base_biblio",
     "root": "biblio-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -1094,7 +1094,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_morph",
+    "id": "el_base_morph",
     "root": "morph-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -1120,7 +1120,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_path",
+    "id": "el_base_path",
     "root": "path-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -1146,7 +1146,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_psych",
+    "id": "el_base_psych",
     "root": "psych-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -1172,7 +1172,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_techn",
+    "id": "el_base_techn",
     "root": "techn-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -1198,7 +1198,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_tele_2",
+    "id": "el_base_tele_2",
     "root": "tele-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -1221,10 +1221,10 @@
         "sentence": "Η τηλεόραση είναι ανοικτή."
       }
     ],
-    "relatedRootIds": ["root_el_tele"]
+    "relatedRootIds": ["el_prefix_tele"]
   },
   {
-    "id": "root_el_neur",
+    "id": "el_base_neur",
     "root": "neur-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -1252,10 +1252,10 @@
         "sentence": "Ο νευρολόγος εξετάζει τον ασθενή."
       }
     ],
-    "relatedRootIds": ["root_el_logos"]
+    "relatedRootIds": ["el_suffix_logos"]
   },
   {
-    "id": "root_el_card",
+    "id": "el_base_card",
     "root": "card-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -1283,10 +1283,10 @@
         "sentence": "Το καρδιογράφημα είναι φυσιολογικό."
       }
     ],
-    "relatedRootIds": ["root_el_logos", "root_el_graph"]
+    "relatedRootIds": ["el_suffix_logos", "el_base_graph"]
   },
   {
-    "id": "root_el_derm",
+    "id": "el_base_derm",
     "root": "derm-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -1314,10 +1314,10 @@
         "sentence": "Η ένεση είναι υποδερμικά."
       }
     ],
-    "relatedRootIds": ["root_el_logos", "root_el_hypo"]
+    "relatedRootIds": ["el_suffix_logos", "el_prefix_hypo"]
   },
   {
-    "id": "root_el_oste",
+    "id": "el_base_oste",
     "root": "oste-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -1345,10 +1345,10 @@
         "sentence": "Ο οστεολόγος μελετά κόκκαλα."
       }
     ],
-    "relatedRootIds": ["root_el_logos"]
+    "relatedRootIds": ["el_suffix_logos"]
   },
   {
-    "id": "root_el_pod",
+    "id": "el_base_pod",
     "root": "pod-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -1376,6 +1376,6 @@
         "sentence": "Το τρίποδο είναι σταθερό."
       }
     ],
-    "relatedRootIds": ["root_el_kyklos"]
+    "relatedRootIds": ["el_suffix_kyklos"]
   }
 ]

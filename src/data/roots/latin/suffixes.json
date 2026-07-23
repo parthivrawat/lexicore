@@ -1,6 +1,6 @@
 [
   {
-    "id": "root_la_a_fem",
+    "id": "la_suffix_a_fem",
     "root": "-a",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -23,10 +23,10 @@
         "sentence": "Via longa est."
       }
     ],
-    "relatedRootIds": ["root_la_us_masc"]
+    "relatedRootIds": ["la_suffix_us_masc"]
   },
   {
-    "id": "root_la_us_masc",
+    "id": "la_suffix_us_masc",
     "root": "-us",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -49,10 +49,10 @@
         "sentence": "Lupus in silvā est."
       }
     ],
-    "relatedRootIds": ["root_la_a_fem"]
+    "relatedRootIds": ["la_suffix_a_fem"]
   },
   {
-    "id": "root_la_um",
+    "id": "la_suffix_um",
     "root": "-um",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -78,7 +78,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_tor",
+    "id": "la_suffix_tor",
     "root": "-tor",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -101,10 +101,10 @@
         "sentence": "Auctor librum scrīpsit."
       }
     ],
-    "relatedRootIds": ["root_la_trix"]
+    "relatedRootIds": ["la_suffix_trix"]
   },
   {
-    "id": "root_la_trix",
+    "id": "la_suffix_trix",
     "root": "-trix",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -127,10 +127,10 @@
         "sentence": "Meretrīx in viā stat."
       }
     ],
-    "relatedRootIds": ["root_la_tor"]
+    "relatedRootIds": ["la_suffix_tor"]
   },
   {
-    "id": "root_la_bilis",
+    "id": "la_suffix_bilis",
     "root": "-bilis",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -153,10 +153,10 @@
         "sentence": "Spectāculum horribile est."
       }
     ],
-    "relatedRootIds": ["root_la_ilis"]
+    "relatedRootIds": ["la_suffix_ilis"]
   },
   {
-    "id": "root_la_ilis",
+    "id": "la_suffix_ilis",
     "root": "-ilis",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -179,10 +179,10 @@
         "sentence": "Quaestio difficilis est."
       }
     ],
-    "relatedRootIds": ["root_la_bilis"]
+    "relatedRootIds": ["la_suffix_bilis"]
   },
   {
-    "id": "root_la_osus",
+    "id": "la_suffix_osus",
     "root": "-ōsus",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -208,7 +208,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_mentum",
+    "id": "la_suffix_mentum",
     "root": "-mentum",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -234,7 +234,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_tio",
+    "id": "la_suffix_tio",
     "root": "-tiō",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -257,10 +257,10 @@
         "sentence": "Orātiō senātōris clāra est."
       }
     ],
-    "relatedRootIds": ["root_la_ura"]
+    "relatedRootIds": ["la_suffix_ura"]
   },
   {
-    "id": "root_la_ura",
+    "id": "la_suffix_ura",
     "root": "-ūra",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -283,10 +283,10 @@
         "sentence": "Nātūra mira est."
       }
     ],
-    "relatedRootIds": ["root_la_tio"]
+    "relatedRootIds": ["la_suffix_tio"]
   },
   {
-    "id": "root_la_ivus",
+    "id": "la_suffix_ivus",
     "root": "-īvus",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -312,7 +312,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_arius",
+    "id": "la_suffix_arius",
     "root": "-ārius",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -338,7 +338,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_atia",
+    "id": "la_suffix_atia",
     "root": "-ātia",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -364,7 +364,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_aticum",
+    "id": "la_suffix_aticum",
     "root": "-āticum",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -390,7 +390,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_alis",
+    "id": "la_suffix_alis",
     "root": "-ālis",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -416,7 +416,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_anus",
+    "id": "la_suffix_anus",
     "root": "-ānus",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -442,7 +442,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_antia",
+    "id": "la_suffix_antia",
     "root": "-antia",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -468,7 +468,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_entia",
+    "id": "la_suffix_entia",
     "root": "-entia",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -494,7 +494,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_atus",
+    "id": "la_suffix_atus",
     "root": "-ātus",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -520,7 +520,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_atio",
+    "id": "la_suffix_atio",
     "root": "-ātiō",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -546,7 +546,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_itio",
+    "id": "la_suffix_itio",
     "root": "-ītiō",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -572,7 +572,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_cida",
+    "id": "la_suffix_cida",
     "root": "-cīda",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -598,7 +598,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_culus",
+    "id": "la_suffix_culus",
     "root": "-culus",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -624,7 +624,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_escentia",
+    "id": "la_suffix_escentia",
     "root": "-ēscentia",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -650,7 +650,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_ficus",
+    "id": "la_suffix_ficus",
     "root": "-ficus",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -676,7 +676,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_ficatio",
+    "id": "la_suffix_ficatio",
     "root": "-ficātiō",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -702,7 +702,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_formis",
+    "id": "la_suffix_formis",
     "root": "-fōrmis",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -728,7 +728,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_ficare",
+    "id": "la_suffix_ficare",
     "root": "-ficāre",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -754,7 +754,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_ia",
+    "id": "la_suffix_ia",
     "root": "-ia",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -780,7 +780,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_idus",
+    "id": "la_suffix_idus",
     "root": "-īdus",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -806,7 +806,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_inus",
+    "id": "la_suffix_inus",
     "root": "-īnus",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -832,7 +832,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_io",
+    "id": "la_suffix_io",
     "root": "-iō",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -858,7 +858,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_itivus",
+    "id": "la_suffix_itivus",
     "root": "-ītīvus",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -884,7 +884,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_itor",
+    "id": "la_suffix_itor",
     "root": "-itor",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -907,10 +907,10 @@
         "sentence": "Competītor fortis vincit."
       }
     ],
-    "relatedRootIds": ["root_la_tor"]
+    "relatedRootIds": ["la_suffix_tor"]
   },
   {
-    "id": "root_la_itudo",
+    "id": "la_suffix_itudo",
     "root": "-itūdō",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -936,7 +936,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_monium",
+    "id": "la_suffix_monium",
     "root": "-mōnium",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -962,7 +962,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_orius",
+    "id": "la_suffix_orius",
     "root": "-ōrius",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -988,7 +988,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_tudo",
+    "id": "la_suffix_tudo",
     "root": "-tūdō",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -1014,7 +1014,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_ularis",
+    "id": "la_suffix_ularis",
     "root": "-ulāris",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -1040,7 +1040,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_ulus",
+    "id": "la_suffix_ulus",
     "root": "-ulus",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -1063,10 +1063,10 @@
         "sentence": "Malleolus ferreus est."
       }
     ],
-    "relatedRootIds": ["root_la_culus"]
+    "relatedRootIds": ["la_suffix_culus"]
   },
   {
-    "id": "root_la_ellus",
+    "id": "la_suffix_ellus",
     "root": "-ellus",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -1089,10 +1089,10 @@
         "sentence": "Libellus manū scrīptus est."
       }
     ],
-    "relatedRootIds": ["root_la_culus"]
+    "relatedRootIds": ["la_suffix_culus"]
   },
   {
-    "id": "root_la_itas",
+    "id": "la_suffix_itas",
     "root": "-itās",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -1118,7 +1118,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_ax",
+    "id": "la_suffix_ax",
     "root": "-āx",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -1144,7 +1144,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_bundus",
+    "id": "la_suffix_bundus",
     "root": "-bundus",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -1170,7 +1170,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_arium",
+    "id": "la_suffix_arium",
     "root": "-ārium",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -1196,7 +1196,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_orium",
+    "id": "la_suffix_orium",
     "root": "-ōrium",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -1222,7 +1222,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_vorus",
+    "id": "la_suffix_vorus",
     "root": "-vorus",
     "type": "suffix",
     "languageOrigin": "Latin",

@@ -1,6 +1,6 @@
 [
   {
-    "id": "root_la_aqua",
+    "id": "la_base_aqua",
     "root": "aqua-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -23,10 +23,10 @@
         "sentence": "Aquae fontis clārae sunt."
       }
     ],
-    "relatedRootIds": ["root_la_hydr"]
+    "relatedRootIds": ["la_base_hydr"]
   },
   {
-    "id": "root_la_hydr",
+    "id": "la_base_hydr",
     "root": "hydr-",
     "type": "base",
     "languageOrigin": "Greek",
@@ -49,10 +49,10 @@
         "sentence": "Navis hydrāta est."
       }
     ],
-    "relatedRootIds": ["root_la_aqua"]
+    "relatedRootIds": ["la_base_aqua"]
   },
   {
-    "id": "root_la_terra",
+    "id": "la_base_terra",
     "root": "terra-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -78,7 +78,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_port",
+    "id": "la_base_port",
     "root": "port-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -101,10 +101,10 @@
         "sentence": "Navis in portum intrat."
       }
     ],
-    "relatedRootIds": ["root_la_fer"]
+    "relatedRootIds": ["la_base_fer"]
   },
   {
-    "id": "root_la_fer",
+    "id": "la_base_fer",
     "root": "fer-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -127,10 +127,10 @@
         "sentence": "Pecuniam transferre vult."
       }
     ],
-    "relatedRootIds": ["root_la_port"]
+    "relatedRootIds": ["la_base_port"]
   },
   {
-    "id": "root_la_spect",
+    "id": "la_base_spect",
     "root": "spect-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -153,10 +153,10 @@
         "sentence": "Spectāculum populum dēlectat."
       }
     ],
-    "relatedRootIds": ["root_la_vid"]
+    "relatedRootIds": ["la_base_vid"]
   },
   {
-    "id": "root_la_vid",
+    "id": "la_base_vid",
     "root": "vid-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -179,10 +179,10 @@
         "sentence": "Invidet virō clārō."
       }
     ],
-    "relatedRootIds": ["root_la_spect"]
+    "relatedRootIds": ["la_base_spect"]
   },
   {
-    "id": "root_la_struct",
+    "id": "la_base_struct",
     "root": "struct-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -208,7 +208,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_dict",
+    "id": "la_base_dict",
     "root": "dict-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -234,7 +234,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_duc",
+    "id": "la_base_duc",
     "root": "duc-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -260,7 +260,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_jact",
+    "id": "la_base_jact",
     "root": "jact-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -286,7 +286,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_mit",
+    "id": "la_base_mit",
     "root": "mit-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -312,7 +312,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_scrib",
+    "id": "la_base_scrib",
     "root": "scrib-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -338,7 +338,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_tract",
+    "id": "la_base_tract",
     "root": "tract-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -364,7 +364,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_ven",
+    "id": "la_base_ven",
     "root": "ven-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -390,7 +390,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_vert",
+    "id": "la_base_vert",
     "root": "vert-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -416,7 +416,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_voc",
+    "id": "la_base_voc",
     "root": "voc-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -442,7 +442,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_duo",
+    "id": "la_base_duo",
     "root": "duo-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -465,10 +465,10 @@
         "sentence": "Pondus duārius est."
       }
     ],
-    "relatedRootIds": ["root_la_bi"]
+    "relatedRootIds": ["la_prefix_bi"]
   },
   {
-    "id": "root_la_fact",
+    "id": "la_base_fact",
     "root": "fact-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -494,7 +494,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_bib",
+    "id": "la_base_bib",
     "root": "bib-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -520,7 +520,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_ed",
+    "id": "la_base_ed",
     "root": "ed-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -546,7 +546,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_don",
+    "id": "la_base_don",
     "root": "don-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -572,7 +572,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_ced",
+    "id": "la_base_ced",
     "root": "ced-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -598,7 +598,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_audi",
+    "id": "la_base_audi",
     "root": "audi-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -621,10 +621,10 @@
         "sentence": "Audītiō difficilis est."
       }
     ],
-    "relatedRootIds": ["root_la_tio"]
+    "relatedRootIds": ["la_suffix_tio"]
   },
   {
-    "id": "root_la_ten",
+    "id": "la_base_ten",
     "root": "ten-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -647,10 +647,10 @@
         "sentence": "Memoriam retinēmus."
       }
     ],
-    "relatedRootIds": ["root_la_re"]
+    "relatedRootIds": ["la_prefix_re"]
   },
   {
-    "id": "root_la_sci",
+    "id": "la_base_sci",
     "root": "sci-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -676,7 +676,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_disc",
+    "id": "la_base_disc",
     "root": "disc-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -702,7 +702,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_luc",
+    "id": "la_base_luc",
     "root": "luc-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -728,7 +728,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_am",
+    "id": "la_base_am",
     "root": "am-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -754,7 +754,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_leg",
+    "id": "la_base_leg",
     "root": "leg-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -777,10 +777,10 @@
         "sentence": "Lēctiō placuit."
       }
     ],
-    "relatedRootIds": ["root_la_tio"]
+    "relatedRootIds": ["la_suffix_tio"]
   },
   {
-    "id": "root_la_loqu",
+    "id": "la_base_loqu",
     "root": "loqu-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -806,7 +806,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_stud",
+    "id": "la_base_stud",
     "root": "stud-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -832,7 +832,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_cap",
+    "id": "la_base_cap",
     "root": "cap-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -858,7 +858,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_cogit",
+    "id": "la_base_cogit",
     "root": "cogit-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -881,10 +881,10 @@
         "sentence": "Cogitātiō clāra est."
       }
     ],
-    "relatedRootIds": ["root_la_tio"]
+    "relatedRootIds": ["la_suffix_tio"]
   },
   {
-    "id": "root_la_labor",
+    "id": "la_base_labor",
     "root": "labor-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -910,7 +910,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_act",
+    "id": "la_base_act",
     "root": "act-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -933,10 +933,10 @@
         "sentence": "Actus virī laudandī sunt."
       }
     ],
-    "relatedRootIds": ["root_la_fact"]
+    "relatedRootIds": ["la_base_fact"]
   },
   {
-    "id": "root_la_agri",
+    "id": "la_base_agri",
     "root": "agri-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -962,7 +962,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_alt",
+    "id": "la_base_alt",
     "root": "alt-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -988,7 +988,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_anim",
+    "id": "la_base_anim",
     "root": "anim-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1014,7 +1014,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_ann",
+    "id": "la_base_ann",
     "root": "ann-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1040,7 +1040,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_apt",
+    "id": "la_base_apt",
     "root": "apt-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1066,7 +1066,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_bell",
+    "id": "la_base_bell",
     "root": "bell-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1092,7 +1092,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_brev",
+    "id": "la_base_brev",
     "root": "brev-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1118,7 +1118,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_cred",
+    "id": "la_base_cred",
     "root": "cred-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1144,7 +1144,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_curr",
+    "id": "la_base_curr",
     "root": "curr-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1167,10 +1167,10 @@
         "sentence": "Concursus populī magnus erat."
       }
     ],
-    "relatedRootIds": ["root_la_curs"]
+    "relatedRootIds": ["la_base_curs"]
   },
   {
-    "id": "root_la_curs",
+    "id": "la_base_curs",
     "root": "curs-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1193,10 +1193,10 @@
         "sentence": "Excursus in montēs facimus."
       }
     ],
-    "relatedRootIds": ["root_la_curr"]
+    "relatedRootIds": ["la_base_curr"]
   },
   {
-    "id": "root_la_flect",
+    "id": "la_base_flect",
     "root": "flect-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1219,10 +1219,10 @@
         "sentence": "Imāgō in aquā reflectitur."
       }
     ],
-    "relatedRootIds": ["root_la_flex"]
+    "relatedRootIds": ["la_base_flex"]
   },
   {
-    "id": "root_la_flex",
+    "id": "la_base_flex",
     "root": "flex-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1245,10 +1245,10 @@
         "sentence": "Reflexus lucis clārus est."
       }
     ],
-    "relatedRootIds": ["root_la_flect"]
+    "relatedRootIds": ["la_base_flect"]
   },
   {
-    "id": "root_la_form",
+    "id": "la_base_form",
     "root": "form-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1274,7 +1274,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_gress",
+    "id": "la_base_gress",
     "root": "gress-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1297,10 +1297,10 @@
         "sentence": "Prōgressus societātis laetus est."
       }
     ],
-    "relatedRootIds": ["root_la_grad"]
+    "relatedRootIds": ["la_base_grad"]
   },
   {
-    "id": "root_la_grad",
+    "id": "la_base_grad",
     "root": "grad-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1323,10 +1323,10 @@
         "sentence": "Per viam graditur."
       }
     ],
-    "relatedRootIds": ["root_la_gress"]
+    "relatedRootIds": ["la_base_gress"]
   },
   {
-    "id": "root_la_grat",
+    "id": "la_base_grat",
     "root": "grat-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1352,7 +1352,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_lumin",
+    "id": "la_base_lumin",
     "root": "lumin-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1375,10 +1375,10 @@
         "sentence": "Cārum luminat aedem."
       }
     ],
-    "relatedRootIds": ["root_la_luc"]
+    "relatedRootIds": ["la_base_luc"]
   },
   {
-    "id": "root_la_lustr",
+    "id": "la_base_lustr",
     "root": "lustr-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1401,10 +1401,10 @@
         "sentence": "Lustrum novum incipit."
       }
     ],
-    "relatedRootIds": ["root_la_luc"]
+    "relatedRootIds": ["la_base_luc"]
   },
   {
-    "id": "root_la_manu",
+    "id": "la_base_manu",
     "root": "manu-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1430,7 +1430,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_miss",
+    "id": "la_base_miss",
     "root": "miss-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1453,10 +1453,10 @@
         "sentence": "Missiō pācis laeta est."
       }
     ],
-    "relatedRootIds": ["root_la_mit"]
+    "relatedRootIds": ["la_base_mit"]
   },
   {
-    "id": "root_la_mot",
+    "id": "la_base_mot",
     "root": "mot-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1479,10 +1479,10 @@
         "sentence": "Mōtiō corporis vidētur."
       }
     ],
-    "relatedRootIds": ["root_la_mov"]
+    "relatedRootIds": ["la_base_mov"]
   },
   {
-    "id": "root_la_mov",
+    "id": "la_base_mov",
     "root": "mov-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1505,10 +1505,10 @@
         "sentence": "Imāgō semper movēns est."
       }
     ],
-    "relatedRootIds": ["root_la_mot"]
+    "relatedRootIds": ["la_base_mot"]
   },
   {
-    "id": "root_la_pon",
+    "id": "la_base_pon",
     "root": "pon-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1531,10 +1531,10 @@
         "sentence": "Carmen dulce compōnit."
       }
     ],
-    "relatedRootIds": ["root_la_posit"]
+    "relatedRootIds": ["la_base_posit"]
   },
   {
-    "id": "root_la_posit",
+    "id": "la_base_posit",
     "root": "posit-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1557,10 +1557,10 @@
         "sentence": "Positiō exercitūs bona est."
       }
     ],
-    "relatedRootIds": ["root_la_pon"]
+    "relatedRootIds": ["la_base_pon"]
   },
   {
-    "id": "root_la_quaer",
+    "id": "la_base_quaer",
     "root": "quaer-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1583,10 +1583,10 @@
         "sentence": "Quaestiō difficilis est."
       }
     ],
-    "relatedRootIds": ["root_la_ques", "root_la_quisit"]
+    "relatedRootIds": ["la_base_ques", "la_base_quisit"]
   },
   {
-    "id": "root_la_ques",
+    "id": "la_base_ques",
     "root": "ques-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1609,10 +1609,10 @@
         "sentence": "Quaestor pecūniam cūrāvit."
       }
     ],
-    "relatedRootIds": ["root_la_quaer", "root_la_quisit"]
+    "relatedRootIds": ["la_base_quaer", "la_base_quisit"]
   },
   {
-    "id": "root_la_quisit",
+    "id": "la_base_quisit",
     "root": "quisit-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1635,10 +1635,10 @@
         "sentence": "Inquisītiō veritātis est."
       }
     ],
-    "relatedRootIds": ["root_la_quaer", "root_la_ques"]
+    "relatedRootIds": ["la_base_quaer", "la_base_ques"]
   },
   {
-    "id": "root_la_sec",
+    "id": "la_base_sec",
     "root": "sec-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1661,10 +1661,10 @@
         "sentence": "Gladius secāns est."
       }
     ],
-    "relatedRootIds": ["root_la_sect"]
+    "relatedRootIds": ["la_base_sect"]
   },
   {
-    "id": "root_la_sect",
+    "id": "la_base_sect",
     "root": "sect-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1687,10 +1687,10 @@
         "sentence": "Sectiō terrae mira est."
       }
     ],
-    "relatedRootIds": ["root_la_sec"]
+    "relatedRootIds": ["la_base_sec"]
   },
   {
-    "id": "root_la_sent",
+    "id": "la_base_sent",
     "root": "sent-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1713,10 +1713,10 @@
         "sentence": "Animālia sentientia sunt."
       }
     ],
-    "relatedRootIds": ["root_la_sens"]
+    "relatedRootIds": ["la_base_sens"]
   },
   {
-    "id": "root_la_sens",
+    "id": "la_base_sens",
     "root": "sens-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1739,10 +1739,10 @@
         "sentence": "Hoc est sensibile."
       }
     ],
-    "relatedRootIds": ["root_la_sent"]
+    "relatedRootIds": ["la_base_sent"]
   },
   {
-    "id": "root_la_tang",
+    "id": "la_base_tang",
     "root": "tang-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1765,10 +1765,10 @@
         "sentence": "Linea tangēns est."
       }
     ],
-    "relatedRootIds": ["root_la_tact"]
+    "relatedRootIds": ["la_base_tact"]
   },
   {
-    "id": "root_la_tact",
+    "id": "la_base_tact",
     "root": "tact-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1791,10 +1791,10 @@
         "sentence": "Nōs contingere nōlī."
       }
     ],
-    "relatedRootIds": ["root_la_tang"]
+    "relatedRootIds": ["la_base_tang"]
   },
   {
-    "id": "root_la_temp",
+    "id": "la_base_temp",
     "root": "temp-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1820,7 +1820,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_vent",
+    "id": "la_base_vent",
     "root": "vent-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1843,10 +1843,10 @@
         "sentence": "Adventus rēgis laetus est."
       }
     ],
-    "relatedRootIds": ["root_la_ven"]
+    "relatedRootIds": ["la_base_ven"]
   },
   {
-    "id": "root_la_vers",
+    "id": "la_base_vers",
     "root": "vers-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1869,10 +1869,10 @@
         "sentence": "Conversus est ad bonum."
       }
     ],
-    "relatedRootIds": ["root_la_vert"]
+    "relatedRootIds": ["la_base_vert"]
   },
   {
-    "id": "root_la_vis",
+    "id": "la_base_vis",
     "root": "vis-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1895,10 +1895,10 @@
         "sentence": "Vīsiō in somniō fuit."
       }
     ],
-    "relatedRootIds": ["root_la_vid"]
+    "relatedRootIds": ["la_base_vid"]
   },
   {
-    "id": "root_la_volv",
+    "id": "la_base_volv",
     "root": "volv-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1921,10 +1921,10 @@
         "sentence": "Līngua volūbilis est."
       }
     ],
-    "relatedRootIds": ["root_la_volut"]
+    "relatedRootIds": ["la_base_volut"]
   },
   {
-    "id": "root_la_volut",
+    "id": "la_base_volut",
     "root": "volut-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1947,10 +1947,10 @@
         "sentence": "Lībrum evolvit."
       }
     ],
-    "relatedRootIds": ["root_la_volv"]
+    "relatedRootIds": ["la_base_volv"]
   },
   {
-    "id": "root_la_script",
+    "id": "la_base_script",
     "root": "script-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1973,10 +1973,10 @@
         "sentence": "Scrīptūra sacra est."
       }
     ],
-    "relatedRootIds": ["root_la_scrib"]
+    "relatedRootIds": ["la_base_scrib"]
   },
   {
-    "id": "root_la_duct",
+    "id": "la_base_duct",
     "root": "duct-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1999,10 +1999,10 @@
         "sentence": "Condūctus eius rēctus est."
       }
     ],
-    "relatedRootIds": ["root_la_duc"]
+    "relatedRootIds": ["la_base_duc"]
   },
   {
-    "id": "root_la_gen",
+    "id": "la_base_gen",
     "root": "gen-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2033,7 +2033,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_doc",
+    "id": "la_base_doc",
     "root": "doc-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2064,7 +2064,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_pac",
+    "id": "la_base_pac",
     "root": "pac-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2095,7 +2095,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_vac",
+    "id": "la_base_vac",
     "root": "vac-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2126,7 +2126,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_la_jur",
+    "id": "la_base_jur",
     "root": "jur-",
     "type": "base",
     "languageOrigin": "Latin",

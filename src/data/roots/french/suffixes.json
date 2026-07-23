@@ -1,6 +1,6 @@
 [
   {
-    "id": "root_able_fr",
+    "id": "fr_suffix_able",
     "root": "-able",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -34,7 +34,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_age_fr",
+    "id": "fr_suffix_age",
     "root": "-age",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -68,7 +68,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ain_fr",
+    "id": "fr_suffix_ain",
     "root": "-ain",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -102,7 +102,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ation_fr",
+    "id": "fr_suffix_ation",
     "root": "-ation",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -136,7 +136,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_eur_fr",
+    "id": "fr_suffix_eur",
     "root": "-eur",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -170,7 +170,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ment_fr",
+    "id": "fr_suffix_ment",
     "root": "-ment",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -204,7 +204,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_tion_fr",
+    "id": "fr_suffix_tion",
     "root": "-tion",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -238,7 +238,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ier_fr",
+    "id": "fr_suffix_ier",
     "root": "-ier",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -272,7 +272,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_iste_fr",
+    "id": "fr_suffix_iste",
     "root": "-iste",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -306,7 +306,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ique_fr",
+    "id": "fr_suffix_ique",
     "root": "-ique",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -340,7 +340,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_isme_fr",
+    "id": "fr_suffix_isme",
     "root": "-isme",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -374,7 +374,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ite_fr",
+    "id": "fr_suffix_ite",
     "root": "-ite",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -408,7 +408,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_eux_fr",
+    "id": "fr_suffix_eux",
     "root": "-eux",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -442,7 +442,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_if_fr",
+    "id": "fr_suffix_if",
     "root": "-if",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -476,7 +476,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ive_fr",
+    "id": "fr_suffix_ive",
     "root": "-ive",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -510,7 +510,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ure_fr",
+    "id": "fr_suffix_ure",
     "root": "-ure",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -544,7 +544,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ance_fr",
+    "id": "fr_suffix_ance",
     "root": "-ance",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -578,7 +578,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ence_fr",
+    "id": "fr_suffix_ence",
     "root": "-ence",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -612,7 +612,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_erie_fr",
+    "id": "fr_suffix_erie",
     "root": "-erie",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -646,7 +646,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_et_fr",
+    "id": "fr_suffix_et",
     "root": "-et",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -680,7 +680,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ette_fr",
+    "id": "fr_suffix_ette",
     "root": "-ette",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -714,7 +714,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_oire_fr",
+    "id": "fr_suffix_oire",
     "root": "-oire",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -748,7 +748,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_os_fr",
+    "id": "fr_suffix_os",
     "root": "-os",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -782,7 +782,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_oide_fr",
+    "id": "fr_suffix_oide",
     "root": "-oïde",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -816,7 +816,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_al_fr",
+    "id": "fr_suffix_al",
     "root": "-al",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -850,7 +850,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_fr",
+    "id": "fr_suffix_el",
     "root": "-el",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -884,7 +884,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ard_fr",
+    "id": "fr_suffix_ard",
     "root": "-ard",
     "type": "suffix",
     "languageOrigin": "Germanic",
@@ -918,7 +918,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_asse_fr",
+    "id": "fr_suffix_asse",
     "root": "-asse",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -952,7 +952,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_aud_fr",
+    "id": "fr_suffix_aud",
     "root": "-aud",
     "type": "suffix",
     "languageOrigin": "Germanic",
@@ -986,7 +986,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_eau_fr",
+    "id": "fr_suffix_eau",
     "root": "-eau",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -1020,7 +1020,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_eau_fr_2",
+    "id": "fr_suffix_eau_fr_2",
     "root": "-elle",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -1054,7 +1054,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_on_fr",
+    "id": "fr_suffix_on",
     "root": "-on",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -1088,7 +1088,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ot_fr",
+    "id": "fr_suffix_ot",
     "root": "-ot",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -1122,7 +1122,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_u_fr",
+    "id": "fr_suffix_u",
     "root": "-u",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -1156,7 +1156,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_cule_fr",
+    "id": "fr_suffix_cule",
     "root": "-cule",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -1190,7 +1190,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_cule_fr_2",
+    "id": "fr_suffix_cule_fr_2",
     "root": "-scule",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -1224,7 +1224,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ade_fr",
+    "id": "fr_suffix_ade",
     "root": "-ade",
     "type": "suffix",
     "languageOrigin": "French",
@@ -1258,7 +1258,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_e_fr",
+    "id": "fr_suffix_e",
     "root": "-é",
     "type": "suffix",
     "languageOrigin": "French",
@@ -1292,7 +1292,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_esque_fr",
+    "id": "fr_suffix_esque",
     "root": "-esque",
     "type": "suffix",
     "languageOrigin": "French",
@@ -1326,7 +1326,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_fier_fr",
+    "id": "fr_suffix_fier",
     "root": "-fier",
     "type": "suffix",
     "languageOrigin": "French",
@@ -1360,7 +1360,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_let_fr",
+    "id": "fr_suffix_let",
     "root": "-let",
     "type": "suffix",
     "languageOrigin": "French",
@@ -1394,7 +1394,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_aire_fr",
+    "id": "fr_suffix_aire",
     "root": "-aire",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -1425,10 +1425,10 @@
         "sentence": "La bibliothécaire aide les lecteurs."
       }
     ],
-    "relatedRootIds": ["root_al_fr"]
+    "relatedRootIds": ["fr_suffix_al"]
   },
   {
-    "id": "root_ition_fr",
+    "id": "fr_suffix_ition",
     "root": "-ition",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -1459,10 +1459,10 @@
         "sentence": "La partition est difficile."
       }
     ],
-    "relatedRootIds": ["root_tion_fr"]
+    "relatedRootIds": ["fr_suffix_tion"]
   },
   {
-    "id": "root_esse_fr",
+    "id": "fr_suffix_esse",
     "root": "-esse",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -1496,7 +1496,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ie_fr",
+    "id": "fr_suffix_ie",
     "root": "-ie",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -1527,10 +1527,10 @@
         "sentence": "La poésie est belle."
       }
     ],
-    "relatedRootIds": ["root_ite_fr"]
+    "relatedRootIds": ["fr_suffix_ite"]
   },
   {
-    "id": "root_iere_fr",
+    "id": "fr_suffix_iere",
     "root": "-ière",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -1561,6 +1561,6 @@
         "sentence": "La verrière laisse entrer la lumière."
       }
     ],
-    "relatedRootIds": ["root_oire_fr"]
+    "relatedRootIds": ["fr_suffix_oire"]
   }
 ]

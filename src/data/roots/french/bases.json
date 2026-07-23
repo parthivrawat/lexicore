@@ -1,6 +1,6 @@
 [
   {
-    "id": "root_port_fr",
+    "id": "fr_base_port",
     "root": "port",
     "type": "base",
     "languageOrigin": "Latin",
@@ -36,10 +36,10 @@
         "sentence": "Mon téléphone est portable."
       }
     ],
-    "relatedRootIds": ["root_trans_fr"]
+    "relatedRootIds": ["fr_prefix_trans"]
   },
   {
-    "id": "root_voir_fr",
+    "id": "fr_base_voir",
     "root": "voir",
     "type": "base",
     "languageOrigin": "Latin",
@@ -75,10 +75,10 @@
         "sentence": "La lumière est visible."
       }
     ],
-    "relatedRootIds": ["root_re_fr", "root_able_fr"]
+    "relatedRootIds": ["fr_prefix_re", "fr_suffix_able"]
   },
   {
-    "id": "root_dire_fr",
+    "id": "fr_base_dire",
     "root": "dire",
     "type": "base",
     "languageOrigin": "Latin",
@@ -114,10 +114,10 @@
         "sentence": "Il prédit l'avenir."
       }
     ],
-    "relatedRootIds": ["root_in_fr"]
+    "relatedRootIds": ["fr_prefix_in"]
   },
   {
-    "id": "root_faire_fr",
+    "id": "fr_base_faire",
     "root": "faire",
     "type": "base",
     "languageOrigin": "Latin",
@@ -153,10 +153,10 @@
         "sentence": "C'est un bienfait."
       }
     ],
-    "relatedRootIds": ["root_re_fr", "root_bien_fr"]
+    "relatedRootIds": ["fr_prefix_re", "fr_prefix_bien"]
   },
   {
-    "id": "root_venir_fr",
+    "id": "fr_base_venir",
     "root": "venir",
     "type": "base",
     "languageOrigin": "Latin",
@@ -192,10 +192,10 @@
         "sentence": "L'avenir est incertain."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_tenir_fr",
+    "id": "fr_base_tenir",
     "root": "tenir",
     "type": "base",
     "languageOrigin": "Latin",
@@ -234,7 +234,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_mettre_fr",
+    "id": "fr_base_mettre",
     "root": "mettre",
     "type": "base",
     "languageOrigin": "Latin",
@@ -273,7 +273,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_prendre_fr",
+    "id": "fr_base_prendre",
     "root": "prendre",
     "type": "base",
     "languageOrigin": "Latin",
@@ -309,10 +309,10 @@
         "sentence": "J'apprends le français."
       }
     ],
-    "relatedRootIds": ["root_com_fr"]
+    "relatedRootIds": ["fr_prefix_com"]
   },
   {
-    "id": "root_ecrire_fr",
+    "id": "fr_base_ecrire",
     "root": "écrire",
     "type": "base",
     "languageOrigin": "Latin",
@@ -348,10 +348,10 @@
         "sentence": "L'écrivain est célèbre."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_lire_fr",
+    "id": "fr_base_lire",
     "root": "lire",
     "type": "base",
     "languageOrigin": "Latin",
@@ -387,10 +387,10 @@
         "sentence": "La lecture est agréable."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_sentir_fr",
+    "id": "fr_base_sentir",
     "root": "sentir",
     "type": "base",
     "languageOrigin": "Latin",
@@ -426,10 +426,10 @@
         "sentence": "Le sentiment est fort."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_vivre_fr",
+    "id": "fr_base_vivre",
     "root": "vivre",
     "type": "base",
     "languageOrigin": "Latin",
@@ -465,10 +465,10 @@
         "sentence": "La vie est belle."
       }
     ],
-    "relatedRootIds": ["root_sur_fr"]
+    "relatedRootIds": ["fr_prefix_sur"]
   },
   {
-    "id": "root_mourir_fr",
+    "id": "fr_base_mourir",
     "root": "mourir",
     "type": "base",
     "languageOrigin": "Latin",
@@ -507,7 +507,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_dormir_fr",
+    "id": "fr_base_dormir",
     "root": "dormir",
     "type": "base",
     "languageOrigin": "Latin",
@@ -546,7 +546,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_sortir_fr",
+    "id": "fr_base_sortir",
     "root": "sortir",
     "type": "base",
     "languageOrigin": "Latin",
@@ -582,10 +582,10 @@
         "sentence": "La sortie est là."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_partir_fr",
+    "id": "fr_base_partir",
     "root": "partir",
     "type": "base",
     "languageOrigin": "Latin",
@@ -621,10 +621,10 @@
         "sentence": "Le partage est important."
       }
     ],
-    "relatedRootIds": ["root_de_fr"]
+    "relatedRootIds": ["fr_prefix_de"]
   },
   {
-    "id": "root_entrer_fr",
+    "id": "fr_base_entrer",
     "root": "entrer",
     "type": "base",
     "languageOrigin": "Latin",
@@ -660,10 +660,10 @@
         "sentence": "Je rentre à la maison."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_manger_fr",
+    "id": "fr_base_manger",
     "root": "manger",
     "type": "base",
     "languageOrigin": "Latin",
@@ -699,10 +699,10 @@
         "sentence": "La nourriture est bonne."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_boire_fr",
+    "id": "fr_base_boire",
     "root": "boire",
     "type": "base",
     "languageOrigin": "Latin",
@@ -738,10 +738,10 @@
         "sentence": "La boisson est fraîche."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_parler_fr",
+    "id": "fr_base_parler",
     "root": "parler",
     "type": "base",
     "languageOrigin": "Latin",
@@ -777,10 +777,10 @@
         "sentence": "La parole est d'argent."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_chanter_fr",
+    "id": "fr_base_chanter",
     "root": "chanter",
     "type": "base",
     "languageOrigin": "Latin",
@@ -816,10 +816,10 @@
         "sentence": "La chanson est belle."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_danser_fr",
+    "id": "fr_base_danser",
     "root": "danser",
     "type": "base",
     "languageOrigin": "Latin",
@@ -855,10 +855,10 @@
         "sentence": "La danse est élégante."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_marcher_fr",
+    "id": "fr_base_marcher",
     "root": "marcher",
     "type": "base",
     "languageOrigin": "Latin",
@@ -894,10 +894,10 @@
         "sentence": "La marche est saine."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_courir_fr",
+    "id": "fr_base_courir",
     "root": "courir",
     "type": "base",
     "languageOrigin": "Latin",
@@ -933,10 +933,10 @@
         "sentence": "La course est terminée."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_sauter_fr",
+    "id": "fr_base_sauter",
     "root": "sauter",
     "type": "base",
     "languageOrigin": "Latin",
@@ -972,10 +972,10 @@
         "sentence": "Le saut est haut."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_rire_fr",
+    "id": "fr_base_rire",
     "root": "rire",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1014,7 +1014,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_pleurer_fr",
+    "id": "fr_base_pleurer",
     "root": "pleurer",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1053,7 +1053,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_aimer_fr",
+    "id": "fr_base_aimer",
     "root": "aimer",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1089,10 +1089,10 @@
         "sentence": "L'amour est éternel."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_haïr_fr",
+    "id": "fr_base_haïr",
     "root": "haïr",
     "type": "base",
     "languageOrigin": "Germanic",
@@ -1131,7 +1131,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_penser_fr",
+    "id": "fr_base_penser",
     "root": "penser",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1167,10 +1167,10 @@
         "sentence": "La pensée est libre."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_savoir_fr",
+    "id": "fr_base_savoir",
     "root": "savoir",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1206,10 +1206,10 @@
         "sentence": "Le savoir est précieux."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_connaître_fr",
+    "id": "fr_base_connaître",
     "root": "connaître",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1245,10 +1245,10 @@
         "sentence": "La connaissance est utile."
       }
     ],
-    "relatedRootIds": ["root_re_fr", "root_com_fr"]
+    "relatedRootIds": ["fr_prefix_re", "fr_prefix_com"]
   },
   {
-    "id": "root_comprendre_fr",
+    "id": "fr_base_comprendre",
     "root": "comprendre",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1284,10 +1284,10 @@
         "sentence": "La compréhension est facile."
       }
     ],
-    "relatedRootIds": ["root_re_fr", "root_com_fr"]
+    "relatedRootIds": ["fr_prefix_re", "fr_prefix_com"]
   },
   {
-    "id": "root_ouvrir_fr",
+    "id": "fr_base_ouvrir",
     "root": "ouvrir",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1323,10 +1323,10 @@
         "sentence": "L'ouverture est à 9h."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_fermer_fr",
+    "id": "fr_base_fermer",
     "root": "fermer",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1362,10 +1362,10 @@
         "sentence": "La fermeture est à 18h."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_acheter_fr",
+    "id": "fr_base_acheter",
     "root": "acheter",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1401,10 +1401,10 @@
         "sentence": "L'achat est important."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_vendre_fr",
+    "id": "fr_base_vendre",
     "root": "vendre",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1440,10 +1440,10 @@
         "sentence": "La vente est terminée."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_travailler_fr",
+    "id": "fr_base_travailler",
     "root": "travailler",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1479,10 +1479,10 @@
         "sentence": "Le travail est important."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_étudier_fr",
+    "id": "fr_base_étudier",
     "root": "étudier",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1518,10 +1518,10 @@
         "sentence": "L'étude est intéressante."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_apprendre_fr",
+    "id": "fr_base_apprendre",
     "root": "apprendre",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1557,10 +1557,10 @@
         "sentence": "L'apprentissage est continu."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_enseigner_fr",
+    "id": "fr_base_enseigner",
     "root": "enseigner",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1596,10 +1596,10 @@
         "sentence": "L'enseignement est noble."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_jouer_fr",
+    "id": "fr_base_jouer",
     "root": "jouer",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1635,10 +1635,10 @@
         "sentence": "Le jeu est amusant."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_gagner_fr",
+    "id": "fr_base_gagner",
     "root": "gagner",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1674,10 +1674,10 @@
         "sentence": "Le gain est important."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_perdre_fr",
+    "id": "fr_base_perdre",
     "root": "perdre",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1713,10 +1713,10 @@
         "sentence": "La perte est regrettable."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_recevoir_fr",
+    "id": "fr_base_recevoir",
     "root": "recevoir",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1752,10 +1752,10 @@
         "sentence": "La réception est bonne."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_donner_fr",
+    "id": "fr_base_donner",
     "root": "donner",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1791,10 +1791,10 @@
         "sentence": "Le don est généreux."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_offrir_fr",
+    "id": "fr_base_offrir",
     "root": "offrir",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1830,10 +1830,10 @@
         "sentence": "L'offre est intéressante."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_demander_fr",
+    "id": "fr_base_demander",
     "root": "demander",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1869,10 +1869,10 @@
         "sentence": "La demande est acceptée."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_répondre_fr",
+    "id": "fr_base_répondre",
     "root": "répondre",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1908,10 +1908,10 @@
         "sentence": "La réponse est correcte."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_chercher_fr",
+    "id": "fr_base_chercher",
     "root": "chercher",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1947,10 +1947,10 @@
         "sentence": "La recherche est fructueuse."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_trouver_fr",
+    "id": "fr_base_trouver",
     "root": "trouver",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1986,10 +1986,10 @@
         "sentence": "C'est une trouvaille."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_attendre_fr",
+    "id": "fr_base_attendre",
     "root": "attendre",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2025,10 +2025,10 @@
         "sentence": "L'attente est longue."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_essayer_fr",
+    "id": "fr_base_essayer",
     "root": "essayer",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2064,10 +2064,10 @@
         "sentence": "L'essai est réussi."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_réussir_fr",
+    "id": "fr_base_réussir",
     "root": "réussir",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2103,10 +2103,10 @@
         "sentence": "Le succès est mérité."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_échouer_fr",
+    "id": "fr_base_échouer",
     "root": "échouer",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2142,10 +2142,10 @@
         "sentence": "L'échec est instructif."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_compter_fr",
+    "id": "fr_base_compter",
     "root": "compter",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2181,10 +2181,10 @@
         "sentence": "Le compte est bon."
       }
     ],
-    "relatedRootIds": ["root_re_fr", "root_com_fr"]
+    "relatedRootIds": ["fr_prefix_re", "fr_prefix_com"]
   },
   {
-    "id": "root_mesurer_fr",
+    "id": "fr_base_mesurer",
     "root": "mesurer",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2220,10 +2220,10 @@
         "sentence": "La mesure est précise."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_peser_fr",
+    "id": "fr_base_peser",
     "root": "peser",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2259,10 +2259,10 @@
         "sentence": "Le poids est important."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_cuisiner_fr",
+    "id": "fr_base_cuisiner",
     "root": "cuisiner",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2298,10 +2298,10 @@
         "sentence": "La cuisine est délicieuse."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_laver_fr",
+    "id": "fr_base_laver",
     "root": "laver",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2337,10 +2337,10 @@
         "sentence": "La lessive est prête."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_nettoyer_fr",
+    "id": "fr_base_nettoyer",
     "root": "nettoyer",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2376,10 +2376,10 @@
         "sentence": "Le nettoyage est terminé."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_ranger_fr",
+    "id": "fr_base_ranger",
     "root": "ranger",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2415,10 +2415,10 @@
         "sentence": "Le rangement est fait."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_arranger_fr",
+    "id": "fr_base_arranger",
     "root": "arranger",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2454,10 +2454,10 @@
         "sentence": "L'arrangement est parfait."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_préparer_fr",
+    "id": "fr_base_préparer",
     "root": "préparer",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2493,10 +2493,10 @@
         "sentence": "La préparation est longue."
       }
     ],
-    "relatedRootIds": ["root_re_fr", "root_pre_fr"]
+    "relatedRootIds": ["fr_prefix_re", "fr_prefix_pre"]
   },
   {
-    "id": "root_organiser_fr",
+    "id": "fr_base_organiser",
     "root": "organiser",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2532,10 +2532,10 @@
         "sentence": "L'organisation est efficace."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_gérer_fr",
+    "id": "fr_base_gérer",
     "root": "gérer",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2571,10 +2571,10 @@
         "sentence": "La gestion est bonne."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_diriger_fr",
+    "id": "fr_base_diriger",
     "root": "diriger",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2610,10 +2610,10 @@
         "sentence": "La direction est claire."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_conduire_fr",
+    "id": "fr_base_conduire",
     "root": "conduire",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2649,10 +2649,10 @@
         "sentence": "La conduite est prudente."
       }
     ],
-    "relatedRootIds": ["root_re_fr", "root_com_fr"]
+    "relatedRootIds": ["fr_prefix_re", "fr_prefix_com"]
   },
   {
-    "id": "root_voyager_fr",
+    "id": "fr_base_voyager",
     "root": "voyager",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2688,10 +2688,10 @@
         "sentence": "Le voyage est magnifique."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_visiter_fr",
+    "id": "fr_base_visiter",
     "root": "visiter",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2727,10 +2727,10 @@
         "sentence": "La visite est intéressante."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_rester_fr",
+    "id": "fr_base_rester",
     "root": "rester",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2766,10 +2766,10 @@
         "sentence": "Le repos est nécessaire."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_quitter_fr",
+    "id": "fr_base_quitter",
     "root": "quitter",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2805,10 +2805,10 @@
         "sentence": "Le départ est imminent."
       }
     ],
-    "relatedRootIds": ["root_re_fr", "root_de_fr"]
+    "relatedRootIds": ["fr_prefix_re", "fr_prefix_de"]
   },
   {
-    "id": "root_arriver_fr",
+    "id": "fr_base_arriver",
     "root": "arriver",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2844,10 +2844,10 @@
         "sentence": "L'arrivée est prévue."
       }
     ],
-    "relatedRootIds": ["root_re_fr", "root_a_fr"]
+    "relatedRootIds": ["fr_prefix_re", "fr_prefix_a"]
   },
   {
-    "id": "root_retourner_fr",
+    "id": "fr_base_retourner",
     "root": "retourner",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2883,10 +2883,10 @@
         "sentence": "Le retour est prévu."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_changer_fr",
+    "id": "fr_base_changer",
     "root": "changer",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2922,10 +2922,10 @@
         "sentence": "Le changement est nécessaire."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_choisir_fr",
+    "id": "fr_base_choisir",
     "root": "choisir",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2961,10 +2961,10 @@
         "sentence": "Le choix est difficile."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_décider_fr",
+    "id": "fr_base_décider",
     "root": "décider",
     "type": "base",
     "languageOrigin": "Latin",
@@ -3000,10 +3000,10 @@
         "sentence": "La décision est prise."
       }
     ],
-    "relatedRootIds": ["root_re_fr", "root_de_fr"]
+    "relatedRootIds": ["fr_prefix_re", "fr_prefix_de"]
   },
   {
-    "id": "root_accepter_fr",
+    "id": "fr_base_accepter",
     "root": "accepter",
     "type": "base",
     "languageOrigin": "Latin",
@@ -3039,10 +3039,10 @@
         "sentence": "L'acceptation est totale."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_refuser_fr",
+    "id": "fr_base_refuser",
     "root": "refuser",
     "type": "base",
     "languageOrigin": "Latin",
@@ -3078,10 +3078,10 @@
         "sentence": "Le refus est clair."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_inviter_fr",
+    "id": "fr_base_inviter",
     "root": "inviter",
     "type": "base",
     "languageOrigin": "Latin",
@@ -3117,10 +3117,10 @@
         "sentence": "L'invitation est envoyée."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_accueillir_fr",
+    "id": "fr_base_accueillir",
     "root": "accueillir",
     "type": "base",
     "languageOrigin": "Latin",
@@ -3156,10 +3156,10 @@
         "sentence": "L'accueil est chaleureux."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_remercier_fr",
+    "id": "fr_base_remercier",
     "root": "remercier",
     "type": "base",
     "languageOrigin": "Latin",
@@ -3195,10 +3195,10 @@
         "sentence": "Le remerciement est sincère."
       }
     ],
-    "relatedRootIds": ["root_re_fr"]
+    "relatedRootIds": ["fr_prefix_re"]
   },
   {
-    "id": "root_aller_fr",
+    "id": "fr_base_aller",
     "root": "aller",
     "type": "base",
     "languageOrigin": "Latin",
@@ -3237,7 +3237,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_entendre_fr",
+    "id": "fr_base_entendre",
     "root": "entendre",
     "type": "base",
     "languageOrigin": "Latin",
@@ -3273,10 +3273,10 @@
         "sentence": "C'est un malentendu."
       }
     ],
-    "relatedRootIds": ["root_mal_fr"]
+    "relatedRootIds": ["fr_prefix_mal"]
   },
   {
-    "id": "root_eclairer_fr",
+    "id": "fr_base_eclairer",
     "root": "éclairer",
     "type": "base",
     "languageOrigin": "Latin",
@@ -3312,10 +3312,10 @@
         "sentence": "Une éclaircie dans la journée."
       }
     ],
-    "relatedRootIds": ["root_age_fr"]
+    "relatedRootIds": ["fr_suffix_age"]
   },
   {
-    "id": "root_aqua_fr",
+    "id": "fr_base_aqua",
     "root": "aqua",
     "type": "base",
     "languageOrigin": "Latin",
@@ -3351,10 +3351,10 @@
         "sentence": "Elle peint à l'aquarelle."
       }
     ],
-    "relatedRootIds": ["root_ique_fr"]
+    "relatedRootIds": ["fr_suffix_ique"]
   },
   {
-    "id": "root_duc_fr",
+    "id": "fr_base_duc",
     "root": "duc-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -3388,7 +3388,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_gen_fr",
+    "id": "fr_base_gen",
     "root": "gen-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -3422,7 +3422,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_jur_fr",
+    "id": "fr_base_jur",
     "root": "jur-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -3456,7 +3456,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_lev_fr",
+    "id": "fr_base_lev",
     "root": "lev-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -3490,7 +3490,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_sens_fr",
+    "id": "fr_base_sens",
     "root": "sens-",
     "type": "base",
     "languageOrigin": "Latin",
@@ -3521,10 +3521,10 @@
         "sentence": "Elle est très sensible."
       }
     ],
-    "relatedRootIds": ["root_sentir_fr"]
+    "relatedRootIds": ["fr_base_sentir"]
   },
   {
-    "id": "root_vac_fr",
+    "id": "fr_base_vac",
     "root": "vac-",
     "type": "base",
     "languageOrigin": "Latin",

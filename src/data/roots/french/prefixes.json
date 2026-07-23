@@ -1,6 +1,6 @@
 [
   {
-    "id": "root_a_fr",
+    "id": "fr_prefix_a",
     "root": "a-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -34,7 +34,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ab_fr",
+    "id": "fr_prefix_ab",
     "root": "ab-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -65,10 +65,10 @@
         "sentence": "Elle a abandonné ses études."
       }
     ],
-    "relatedRootIds": ["root_a_fr"]
+    "relatedRootIds": ["fr_prefix_a"]
   },
   {
-    "id": "root_anti_fr",
+    "id": "fr_prefix_anti",
     "root": "anti-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -102,7 +102,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_auto_fr",
+    "id": "fr_prefix_auto",
     "root": "auto-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -136,7 +136,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_bien_fr",
+    "id": "fr_prefix_bien",
     "root": "bien-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -170,7 +170,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_com_fr",
+    "id": "fr_prefix_com",
     "root": "com-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -204,7 +204,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_de_fr",
+    "id": "fr_prefix_de",
     "root": "dé-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -238,7 +238,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_in_fr",
+    "id": "fr_prefix_in",
     "root": "in-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -272,7 +272,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_mal_fr",
+    "id": "fr_prefix_mal",
     "root": "mal-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -306,7 +306,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_re_fr",
+    "id": "fr_prefix_re",
     "root": "re-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -340,7 +340,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_sous_fr",
+    "id": "fr_prefix_sous",
     "root": "sous-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -374,7 +374,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_sur_fr",
+    "id": "fr_prefix_sur",
     "root": "sur-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -408,7 +408,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_trans_fr",
+    "id": "fr_prefix_trans",
     "root": "trans-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -442,7 +442,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_circon_fr",
+    "id": "fr_prefix_circon",
     "root": "circon-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -476,7 +476,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_contra_fr",
+    "id": "fr_prefix_contra",
     "root": "contra-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -510,7 +510,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_extra_fr",
+    "id": "fr_prefix_extra",
     "root": "extra-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -544,7 +544,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_hyper_fr",
+    "id": "fr_prefix_hyper",
     "root": "hyper-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -578,7 +578,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_hypo_fr",
+    "id": "fr_prefix_hypo",
     "root": "hypo-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -612,7 +612,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_inter_fr",
+    "id": "fr_prefix_inter",
     "root": "inter-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -646,7 +646,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_intra_fr",
+    "id": "fr_prefix_intra",
     "root": "intra-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -680,7 +680,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_micro_fr",
+    "id": "fr_prefix_micro",
     "root": "micro-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -714,7 +714,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_macro_fr",
+    "id": "fr_prefix_macro",
     "root": "macro-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -748,7 +748,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_mega_fr",
+    "id": "fr_prefix_mega",
     "root": "méga-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -782,7 +782,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_mini_fr",
+    "id": "fr_prefix_mini",
     "root": "mini-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -816,7 +816,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_multi_fr",
+    "id": "fr_prefix_multi",
     "root": "multi-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -850,7 +850,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_mono_fr",
+    "id": "fr_prefix_mono",
     "root": "mono-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -884,7 +884,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_poly_fr",
+    "id": "fr_prefix_poly",
     "root": "poly-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -918,7 +918,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_post_fr",
+    "id": "fr_prefix_post",
     "root": "post-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -952,7 +952,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_pre_fr",
+    "id": "fr_prefix_pre",
     "root": "pré-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -986,7 +986,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_pro_fr",
+    "id": "fr_prefix_pro",
     "root": "pro-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1020,7 +1020,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_pseudo_fr",
+    "id": "fr_prefix_pseudo",
     "root": "pseudo-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -1054,7 +1054,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_quasi_fr",
+    "id": "fr_prefix_quasi",
     "root": "quasi-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1088,7 +1088,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_retro_fr",
+    "id": "fr_prefix_retro",
     "root": "rétro-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1122,7 +1122,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_sub_fr",
+    "id": "fr_prefix_sub",
     "root": "sub-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1156,7 +1156,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_super_fr",
+    "id": "fr_prefix_super",
     "root": "super-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1190,7 +1190,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_tele_fr",
+    "id": "fr_prefix_tele",
     "root": "télé-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -1224,7 +1224,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ultra_fr",
+    "id": "fr_prefix_ultra",
     "root": "ultra-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1258,7 +1258,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_vice_fr",
+    "id": "fr_prefix_vice",
     "root": "vice-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1292,7 +1292,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ex_fr",
+    "id": "fr_prefix_ex",
     "root": "ex-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1323,10 +1323,10 @@
         "sentence": "L'ex-président est parti."
       }
     ],
-    "relatedRootIds": ["root_extra_fr"]
+    "relatedRootIds": ["fr_prefix_extra"]
   },
   {
-    "id": "root_non_fr",
+    "id": "fr_prefix_non",
     "root": "non-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1360,7 +1360,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ante_fr",
+    "id": "fr_prefix_ante",
     "root": "ante-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1391,10 +1391,10 @@
         "sentence": "L'antériorité de ce fait est prouvée."
       }
     ],
-    "relatedRootIds": ["root_pre_fr"]
+    "relatedRootIds": ["fr_prefix_pre"]
   },
   {
-    "id": "root_bi_fr",
+    "id": "fr_prefix_bi",
     "root": "bi-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1428,7 +1428,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_semi_fr",
+    "id": "fr_prefix_semi",
     "root": "semi-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1462,7 +1462,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_para_fr",
+    "id": "fr_prefix_para",
     "root": "para-",
     "type": "prefix",
     "languageOrigin": "Greek",

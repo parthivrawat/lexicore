@@ -1,6 +1,6 @@
 [
   {
-    "id": "root_el_ic",
+    "id": "el_suffix_ic",
     "root": "-ικός",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -26,7 +26,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_is",
+    "id": "el_suffix_is",
     "root": "-ισμός",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -49,10 +49,10 @@
         "sentence": "Ο ηρωισμός του θαυμάστηκε."
       }
     ],
-    "relatedRootIds": ["root_el_ist"]
+    "relatedRootIds": ["el_suffix_ist"]
   },
   {
-    "id": "root_el_ist",
+    "id": "el_suffix_ist",
     "root": "-ιστής",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -75,10 +75,10 @@
         "sentence": "Η πιανίστα παίζει όμορφα."
       }
     ],
-    "relatedRootIds": ["root_el_is"]
+    "relatedRootIds": ["el_suffix_is"]
   },
   {
-    "id": "root_el_itis",
+    "id": "el_suffix_itis",
     "root": "-ίτιδα",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -104,7 +104,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_logia",
+    "id": "el_suffix_logia",
     "root": "-λογία",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -127,10 +127,10 @@
         "sentence": "Η ψυχολογία μελετά τον νου."
       }
     ],
-    "relatedRootIds": ["root_el_log"]
+    "relatedRootIds": ["el_base_log"]
   },
   {
-    "id": "root_el_metro",
+    "id": "el_suffix_metro",
     "root": "-μέτρη",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -153,10 +153,10 @@
         "sentence": "Το βαρόμετρο πέφτει."
       }
     ],
-    "relatedRootIds": ["root_el_met"]
+    "relatedRootIds": ["el_base_met"]
   },
   {
-    "id": "root_el_nym",
+    "id": "el_suffix_nym",
     "root": "-νυμο",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -179,10 +179,10 @@
         "sentence": "Το αντώνυμο είναι το αντίθετο."
       }
     ],
-    "relatedRootIds": ["root_el_onym"]
+    "relatedRootIds": ["el_base_onym"]
   },
   {
-    "id": "root_el_osis",
+    "id": "el_suffix_osis",
     "root": "-ωση",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -208,7 +208,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_phob",
+    "id": "el_suffix_phob",
     "root": "-φοβία",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -231,10 +231,10 @@
         "sentence": "Η αραχνοφοβία είναι έντονη."
       }
     ],
-    "relatedRootIds": ["root_el_phobe"]
+    "relatedRootIds": ["el_base_phobe"]
   },
   {
-    "id": "root_el_phone",
+    "id": "el_suffix_phone",
     "root": "-φωνία",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -257,10 +257,10 @@
         "sentence": "Η συμφωνία είναι όμορφη."
       }
     ],
-    "relatedRootIds": ["root_el_phon"]
+    "relatedRootIds": ["el_base_phon"]
   },
   {
-    "id": "root_el_scope",
+    "id": "el_suffix_scope",
     "root": "-σκόπιο",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -283,10 +283,10 @@
         "sentence": "Το μικροσκόπιο μεγεθύνει."
       }
     ],
-    "relatedRootIds": ["root_el_scop"]
+    "relatedRootIds": ["el_base_scop"]
   },
   {
-    "id": "root_el_ac",
+    "id": "el_suffix_ac",
     "root": "-ακός",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -312,7 +312,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_kratia",
+    "id": "el_suffix_kratia",
     "root": "-κρατία",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -335,10 +335,10 @@
         "sentence": "Η αυτοκρατία συγκεντρώνει την εξουσία."
       }
     ],
-    "relatedRootIds": ["root_el_krates"]
+    "relatedRootIds": ["el_suffix_krates"]
   },
   {
-    "id": "root_el_krates",
+    "id": "el_suffix_krates",
     "root": "-κράτης",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -361,10 +361,10 @@
         "sentence": "Ο αυτοκράτης κυβερνά μόνος του."
       }
     ],
-    "relatedRootIds": ["root_el_kratia"]
+    "relatedRootIds": ["el_suffix_kratia"]
   },
   {
-    "id": "root_el_kyklos",
+    "id": "el_suffix_kyklos",
     "root": "-κύκλος",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -390,7 +390,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_gonia",
+    "id": "el_suffix_gonia",
     "root": "-γωνία",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -416,7 +416,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_iasi",
+    "id": "el_suffix_iasi",
     "root": "-ίαση",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -442,7 +442,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_izo",
+    "id": "el_suffix_izo",
     "root": "-ίζω",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -468,7 +468,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_ites",
+    "id": "el_suffix_ites",
     "root": "-ίτης",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -494,7 +494,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_logos",
+    "id": "el_suffix_logos",
     "root": "-λόγος",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -517,10 +517,10 @@
         "sentence": "Ο διάλογος είναι εποικοδομητικός."
       }
     ],
-    "relatedRootIds": ["root_el_logia"]
+    "relatedRootIds": ["el_suffix_logia"]
   },
   {
-    "id": "root_el_oeides",
+    "id": "el_suffix_oeides",
     "root": "-οειδές",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -546,7 +546,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_oma",
+    "id": "el_suffix_oma",
     "root": "-ωμα",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -572,7 +572,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_on",
+    "id": "el_suffix_on",
     "root": "-ον",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -598,7 +598,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_graphia",
+    "id": "el_suffix_graphia",
     "root": "-γραφία",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -621,10 +621,10 @@
         "sentence": "Η γεωγραφία μελετά τη γη."
       }
     ],
-    "relatedRootIds": ["root_el_graph"]
+    "relatedRootIds": ["el_base_graph"]
   },
   {
-    "id": "root_el_phagos",
+    "id": "el_suffix_phagos",
     "root": "-φάγος",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -647,10 +647,10 @@
         "sentence": "Ο χορτοφάγος τρώει φυτά."
       }
     ],
-    "relatedRootIds": ["root_el_phag"]
+    "relatedRootIds": ["el_base_phag"]
   },
   {
-    "id": "root_el_phoros",
+    "id": "el_suffix_phoros",
     "root": "-φόρος",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -673,10 +673,10 @@
         "sentence": "Ο μεταφορέας κουβαλάει αντικείμενα."
       }
     ],
-    "relatedRootIds": ["root_el_pher"]
+    "relatedRootIds": ["el_base_pher"]
   },
   {
-    "id": "root_el_derma",
+    "id": "el_suffix_derma",
     "root": "-δερμα",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -699,10 +699,10 @@
         "sentence": "Η ξηροδερμία είναι ασθένεια του δέρματος."
       }
     ],
-    "relatedRootIds": ["root_el_derm"]
+    "relatedRootIds": ["el_base_derm"]
   },
   {
-    "id": "root_el_soma",
+    "id": "el_suffix_soma",
     "root": "-σώμα",
     "type": "suffix",
     "languageOrigin": "Greek",

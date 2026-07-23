@@ -1,6 +1,6 @@
 [
   {
-    "id": "root_es_a",
+    "id": "es_prefix_a",
     "root": "a-",
     "type": "prefix",
     "languageOrigin": "Spanish",
@@ -23,10 +23,10 @@
         "sentence": "Añade un poco de sal."
       }
     ],
-    "relatedRootIds": ["root_es_ad"]
+    "relatedRootIds": ["es_prefix_ad"]
   },
   {
-    "id": "root_es_ad",
+    "id": "es_prefix_ad",
     "root": "ad-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -49,10 +49,10 @@
         "sentence": "Decidieron adoptar un perro."
       }
     ],
-    "relatedRootIds": ["root_es_a"]
+    "relatedRootIds": ["es_prefix_a"]
   },
   {
-    "id": "root_es_anti",
+    "id": "es_prefix_anti",
     "root": "anti-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -78,7 +78,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_auto",
+    "id": "es_prefix_auto",
     "root": "auto-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -104,7 +104,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_bene",
+    "id": "es_prefix_bene",
     "root": "bene-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -127,10 +127,10 @@
         "sentence": "El trabajo tiene buenos beneficios."
       }
     ],
-    "relatedRootIds": ["root_es_bon"]
+    "relatedRootIds": ["es_prefix_bon"]
   },
   {
-    "id": "root_es_bon",
+    "id": "es_prefix_bon",
     "root": "bon-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -153,10 +153,10 @@
         "sentence": "Es un pueblo bonito."
       }
     ],
-    "relatedRootIds": ["root_es_bene"]
+    "relatedRootIds": ["es_prefix_bene"]
   },
   {
-    "id": "root_es_con",
+    "id": "es_prefix_con",
     "root": "con-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -179,10 +179,10 @@
         "sentence": "Van a construir un puente."
       }
     ],
-    "relatedRootIds": ["root_es_com"]
+    "relatedRootIds": ["es_prefix_com"]
   },
   {
-    "id": "root_es_com",
+    "id": "es_prefix_com",
     "root": "com-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -205,10 +205,10 @@
         "sentence": "Me gusta compartir con amigos."
       }
     ],
-    "relatedRootIds": ["root_es_con"]
+    "relatedRootIds": ["es_prefix_con"]
   },
   {
-    "id": "root_es_des",
+    "id": "es_prefix_des",
     "root": "des-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -234,7 +234,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_en",
+    "id": "es_prefix_en",
     "root": "en-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -260,7 +260,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_ex",
+    "id": "es_prefix_ex",
     "root": "ex-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -286,7 +286,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_extra",
+    "id": "es_prefix_extra",
     "root": "extra-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -312,7 +312,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_inter",
+    "id": "es_prefix_inter",
     "root": "inter-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -338,7 +338,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_pre",
+    "id": "es_prefix_pre",
     "root": "pre-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -364,7 +364,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_re",
+    "id": "es_prefix_re",
     "root": "re-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -390,7 +390,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_sub",
+    "id": "es_prefix_sub",
     "root": "sub-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -416,7 +416,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_ante",
+    "id": "es_prefix_ante",
     "root": "ante-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -442,7 +442,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_bi",
+    "id": "es_prefix_bi",
     "root": "bi-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -468,7 +468,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_cent",
+    "id": "es_prefix_cent",
     "root": "cent-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -494,7 +494,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_contra",
+    "id": "es_prefix_contra",
     "root": "contra-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -517,10 +517,10 @@
         "sentence": "Necesito un contrapeso."
       }
     ],
-    "relatedRootIds": ["root_es_anti"]
+    "relatedRootIds": ["es_prefix_anti"]
   },
   {
-    "id": "root_es_dis",
+    "id": "es_prefix_dis",
     "root": "dis-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -543,10 +543,10 @@
         "sentence": "La discordia dividió al grupo."
       }
     ],
-    "relatedRootIds": ["root_es_des"]
+    "relatedRootIds": ["es_prefix_des"]
   },
   {
-    "id": "root_es_entre",
+    "id": "es_prefix_entre",
     "root": "entre-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -569,10 +569,10 @@
         "sentence": "La puerta quedó entreabierta."
       }
     ],
-    "relatedRootIds": ["root_es_inter"]
+    "relatedRootIds": ["es_prefix_inter"]
   },
   {
-    "id": "root_es_homo",
+    "id": "es_prefix_homo",
     "root": "homo-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -598,7 +598,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_in",
+    "id": "es_prefix_in",
     "root": "in-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -624,7 +624,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_mal",
+    "id": "es_prefix_mal",
     "root": "mal-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -650,7 +650,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_mono",
+    "id": "es_prefix_mono",
     "root": "mono-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -673,10 +673,10 @@
         "sentence": "Tiene un monopolio del mercado."
       }
     ],
-    "relatedRootIds": ["root_es_uni"]
+    "relatedRootIds": ["es_prefix_uni"]
   },
   {
-    "id": "root_es_multi",
+    "id": "es_prefix_multi",
     "root": "multi-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -702,7 +702,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_para",
+    "id": "es_prefix_para",
     "root": "para-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -728,7 +728,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_post",
+    "id": "es_prefix_post",
     "root": "post-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -751,10 +751,10 @@
         "sentence": "La era postbélica fue difícil."
       }
     ],
-    "relatedRootIds": ["root_es_pre"]
+    "relatedRootIds": ["es_prefix_pre"]
   },
   {
-    "id": "root_es_pro",
+    "id": "es_prefix_pro",
     "root": "pro-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -780,7 +780,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_semi",
+    "id": "es_prefix_semi",
     "root": "semi-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -806,7 +806,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_seudo",
+    "id": "es_prefix_seudo",
     "root": "seudo-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -832,7 +832,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_sobre",
+    "id": "es_prefix_sobre",
     "root": "sobre-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -855,10 +855,10 @@
         "sentence": "La sobredosis es peligrosa."
       }
     ],
-    "relatedRootIds": ["root_es_super"]
+    "relatedRootIds": ["es_prefix_super"]
   },
   {
-    "id": "root_es_super",
+    "id": "es_prefix_super",
     "root": "super-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -881,10 +881,10 @@
         "sentence": "Es un superhombre."
       }
     ],
-    "relatedRootIds": ["root_es_sobre"]
+    "relatedRootIds": ["es_prefix_sobre"]
   },
   {
-    "id": "root_es_tele",
+    "id": "es_prefix_tele",
     "root": "tele-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -910,7 +910,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_tri",
+    "id": "es_prefix_tri",
     "root": "tri-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -936,7 +936,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_ultra",
+    "id": "es_prefix_ultra",
     "root": "ultra-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -962,7 +962,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_uni",
+    "id": "es_prefix_uni",
     "root": "uni-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -985,6 +985,6 @@
         "sentence": "Es un producto unisexo."
       }
     ],
-    "relatedRootIds": ["root_es_mono"]
+    "relatedRootIds": ["es_prefix_mono"]
   }
 ]

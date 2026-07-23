@@ -1,6 +1,6 @@
 [
   {
-    "id": "root_el_a",
+    "id": "el_prefix_a",
     "root": "a-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -23,10 +23,10 @@
         "sentence": "Το άτομο είναι μικρό."
       }
     ],
-    "relatedRootIds": ["root_el_an"]
+    "relatedRootIds": ["el_prefix_an"]
   },
   {
-    "id": "root_el_an",
+    "id": "el_prefix_an",
     "root": "an-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -49,10 +49,10 @@
         "sentence": "Η Ελλάδα έγινε ανεξάρτητη."
       }
     ],
-    "relatedRootIds": ["root_el_a"]
+    "relatedRootIds": ["el_prefix_a"]
   },
   {
-    "id": "root_el_anti",
+    "id": "el_prefix_anti",
     "root": "anti-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -78,7 +78,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_auto",
+    "id": "el_prefix_auto",
     "root": "auto-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -104,7 +104,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_dia",
+    "id": "el_prefix_dia",
     "root": "dia-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -130,7 +130,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_dys",
+    "id": "el_prefix_dys",
     "root": "dys-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -156,7 +156,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_epi",
+    "id": "el_prefix_epi",
     "root": "epi-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -182,7 +182,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_eu",
+    "id": "el_prefix_eu",
     "root": "eu-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -208,7 +208,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_hemi",
+    "id": "el_prefix_hemi",
     "root": "hemi-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -234,7 +234,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_hyper",
+    "id": "el_prefix_hyper",
     "root": "hyper-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -257,10 +257,10 @@
         "sentence": "Ο υπερήρωας σώζει την πόλη."
       }
     ],
-    "relatedRootIds": ["root_el_hypo"]
+    "relatedRootIds": ["el_prefix_hypo"]
   },
   {
-    "id": "root_el_hypo",
+    "id": "el_prefix_hypo",
     "root": "hypo-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -283,10 +283,10 @@
         "sentence": "Η υπογλυκαιμία είναι επικίνδυνη."
       }
     ],
-    "relatedRootIds": ["root_el_hyper"]
+    "relatedRootIds": ["el_prefix_hyper"]
   },
   {
-    "id": "root_el_meta",
+    "id": "el_prefix_meta",
     "root": "meta-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -312,7 +312,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_mono",
+    "id": "el_prefix_mono",
     "root": "mono-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -338,7 +338,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_pan",
+    "id": "el_prefix_pan",
     "root": "pan-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -364,7 +364,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_poli",
+    "id": "el_prefix_poli",
     "root": "poly-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -390,7 +390,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_syn",
+    "id": "el_prefix_syn",
     "root": "syn-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -416,7 +416,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_macro",
+    "id": "el_prefix_macro",
     "root": "macro-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -442,7 +442,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_micro",
+    "id": "el_prefix_micro",
     "root": "micro-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -468,7 +468,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_para",
+    "id": "el_prefix_para",
     "root": "para-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -494,7 +494,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_pseudo",
+    "id": "el_prefix_pseudo",
     "root": "pseudo-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -520,7 +520,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_tele",
+    "id": "el_prefix_tele",
     "root": "tele-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -543,10 +543,10 @@
         "sentence": "Το τηλέφωνο χτυπάει."
       }
     ],
-    "relatedRootIds": ["root_el_tele_2"]
+    "relatedRootIds": ["el_base_tele_2"]
   },
   {
-    "id": "root_el_deca",
+    "id": "el_prefix_deca",
     "root": "deca-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -572,7 +572,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_exo",
+    "id": "el_prefix_exo",
     "root": "exo-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -598,7 +598,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_hetero",
+    "id": "el_prefix_hetero",
     "root": "hetero-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -624,7 +624,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_homo",
+    "id": "el_prefix_homo",
     "root": "homo-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -650,7 +650,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_neo",
+    "id": "el_prefix_neo",
     "root": "neo-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -676,7 +676,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_peri",
+    "id": "el_prefix_peri",
     "root": "peri-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -702,7 +702,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_proto",
+    "id": "el_prefix_proto",
     "root": "proto-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -728,7 +728,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_cata",
+    "id": "el_prefix_cata",
     "root": "cata-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -754,7 +754,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_apo",
+    "id": "el_prefix_apo",
     "root": "apo-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -780,7 +780,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_endo",
+    "id": "el_prefix_endo",
     "root": "endo-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -806,7 +806,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_el_amphi",
+    "id": "el_prefix_amphi",
     "root": "amphi-",
     "type": "prefix",
     "languageOrigin": "Greek",

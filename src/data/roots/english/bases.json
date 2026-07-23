@@ -1,6 +1,6 @@
 [
   {
-    "id": "root_act",
+    "id": "en_base_act",
     "root": "act",
     "type": "base",
     "languageOrigin": "Latin",
@@ -34,7 +34,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_audi",
+    "id": "en_base_audi",
     "root": "audi",
     "type": "base",
     "languageOrigin": "Latin",
@@ -68,7 +68,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_brev",
+    "id": "en_base_brev",
     "root": "brev",
     "type": "base",
     "languageOrigin": "Latin",
@@ -102,7 +102,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ced",
+    "id": "en_base_ced",
     "root": "ced",
     "type": "base",
     "languageOrigin": "Latin",
@@ -133,10 +133,10 @@
         "sentence": "He had to concede the point."
       }
     ],
-    "relatedRootIds": ["root_ceed", "root_cess"]
+    "relatedRootIds": ["en_base_ceed", "en_base_cess"]
   },
   {
-    "id": "root_ceed",
+    "id": "en_base_ceed",
     "root": "ceed",
     "type": "base",
     "languageOrigin": "Latin",
@@ -167,10 +167,10 @@
         "sentence": "Don't exceed the limit."
       }
     ],
-    "relatedRootIds": ["root_ced", "root_cess"]
+    "relatedRootIds": ["en_base_ced", "en_base_cess"]
   },
   {
-    "id": "root_cess",
+    "id": "en_base_cess",
     "root": "cess",
     "type": "base",
     "languageOrigin": "Latin",
@@ -201,10 +201,10 @@
         "sentence": "You need access to the system."
       }
     ],
-    "relatedRootIds": ["root_ced", "root_ceed"]
+    "relatedRootIds": ["en_base_ced", "en_base_ceed"]
   },
   {
-    "id": "root_cred",
+    "id": "en_base_cred",
     "root": "cred",
     "type": "base",
     "languageOrigin": "Latin",
@@ -238,7 +238,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_cur",
+    "id": "en_base_cur",
     "root": "cur",
     "type": "base",
     "languageOrigin": "Latin",
@@ -269,10 +269,10 @@
         "sentence": "The museum curator is knowledgeable."
       }
     ],
-    "relatedRootIds": ["root_curs", "root_cour"]
+    "relatedRootIds": ["en_base_curs", "en_base_cour"]
   },
   {
-    "id": "root_curs",
+    "id": "en_base_curs",
     "root": "curs",
     "type": "base",
     "languageOrigin": "Latin",
@@ -303,10 +303,10 @@
         "sentence": "She writes in cursive."
       }
     ],
-    "relatedRootIds": ["root_cur", "root_cour"]
+    "relatedRootIds": ["en_base_cur", "en_base_cour"]
   },
   {
-    "id": "root_cour",
+    "id": "en_base_cour",
     "root": "cour",
     "type": "base",
     "languageOrigin": "Latin",
@@ -337,10 +337,10 @@
         "sentence": "The course is difficult."
       }
     ],
-    "relatedRootIds": ["root_cur", "root_curs"]
+    "relatedRootIds": ["en_base_cur", "en_base_curs"]
   },
   {
-    "id": "root_dict",
+    "id": "en_base_dict",
     "root": "dict",
     "type": "base",
     "languageOrigin": "Latin",
@@ -374,7 +374,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_duc",
+    "id": "en_base_duc",
     "root": "duc",
     "type": "base",
     "languageOrigin": "Latin",
@@ -405,10 +405,10 @@
         "sentence": "The medicine will induce sleep."
       }
     ],
-    "relatedRootIds": ["root_duct"]
+    "relatedRootIds": ["en_base_duct"]
   },
   {
-    "id": "root_duct",
+    "id": "en_base_duct",
     "root": "duct",
     "type": "base",
     "languageOrigin": "Latin",
@@ -439,10 +439,10 @@
         "sentence": "This is a quality product."
       }
     ],
-    "relatedRootIds": ["root_duc"]
+    "relatedRootIds": ["en_base_duc"]
   },
   {
-    "id": "root_fact",
+    "id": "en_base_fact",
     "root": "fact",
     "type": "base",
     "languageOrigin": "Latin",
@@ -476,7 +476,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_fer",
+    "id": "en_base_fer",
     "root": "fer",
     "type": "base",
     "languageOrigin": "Latin",
@@ -510,7 +510,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_flect",
+    "id": "en_base_flect",
     "root": "flect",
     "type": "base",
     "languageOrigin": "Latin",
@@ -541,10 +541,10 @@
         "sentence": "The schedule is flexible."
       }
     ],
-    "relatedRootIds": ["root_flex"]
+    "relatedRootIds": ["en_base_flex"]
   },
   {
-    "id": "root_flex",
+    "id": "en_base_flex",
     "root": "flex",
     "type": "base",
     "languageOrigin": "Latin",
@@ -575,10 +575,10 @@
         "sentence": "The material is flexible."
       }
     ],
-    "relatedRootIds": ["root_flect"]
+    "relatedRootIds": ["en_base_flect"]
   },
   {
-    "id": "root_form_2",
+    "id": "en_base_form_2",
     "root": "form",
     "type": "base",
     "languageOrigin": "Latin",
@@ -612,7 +612,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_graph_2",
+    "id": "en_base_graph_2",
     "root": "graph",
     "type": "base",
     "languageOrigin": "Greek",
@@ -646,7 +646,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_grat",
+    "id": "en_base_grat",
     "root": "grat",
     "type": "base",
     "languageOrigin": "Latin",
@@ -680,7 +680,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_gress",
+    "id": "en_base_gress",
     "root": "gress",
     "type": "base",
     "languageOrigin": "Latin",
@@ -714,7 +714,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ject",
+    "id": "en_base_ject",
     "root": "ject",
     "type": "base",
     "languageOrigin": "Latin",
@@ -748,7 +748,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_log",
+    "id": "en_base_log",
     "root": "log",
     "type": "base",
     "languageOrigin": "Greek",
@@ -782,7 +782,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_loqu",
+    "id": "en_base_loqu",
     "root": "loqu",
     "type": "base",
     "languageOrigin": "Latin",
@@ -816,7 +816,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_luc",
+    "id": "en_base_luc",
     "root": "luc",
     "type": "base",
     "languageOrigin": "Latin",
@@ -847,10 +847,10 @@
         "sentence": "The material is translucent."
       }
     ],
-    "relatedRootIds": ["root_lum", "root_lust"]
+    "relatedRootIds": ["en_base_lum", "en_base_lust"]
   },
   {
-    "id": "root_lum",
+    "id": "en_base_lum",
     "root": "lum",
     "type": "base",
     "languageOrigin": "Latin",
@@ -881,10 +881,10 @@
         "sentence": "The stars are luminous."
       }
     ],
-    "relatedRootIds": ["root_luc", "root_lust"]
+    "relatedRootIds": ["en_base_luc", "en_base_lust"]
   },
   {
-    "id": "root_lust",
+    "id": "en_base_lust",
     "root": "lust",
     "type": "base",
     "languageOrigin": "Latin",
@@ -915,10 +915,10 @@
         "sentence": "Please illustrate your point."
       }
     ],
-    "relatedRootIds": ["root_luc", "root_lum"]
+    "relatedRootIds": ["en_base_luc", "en_base_lum"]
   },
   {
-    "id": "root_man",
+    "id": "en_base_man",
     "root": "man",
     "type": "base",
     "languageOrigin": "Latin",
@@ -949,10 +949,10 @@
         "sentence": "They manufacture furniture."
       }
     ],
-    "relatedRootIds": ["root_manu"]
+    "relatedRootIds": ["en_base_manu"]
   },
   {
-    "id": "root_manu",
+    "id": "en_base_manu",
     "root": "manu",
     "type": "base",
     "languageOrigin": "Latin",
@@ -983,10 +983,10 @@
         "sentence": "The pilot performed a maneuver."
       }
     ],
-    "relatedRootIds": ["root_man"]
+    "relatedRootIds": ["en_base_man"]
   },
   {
-    "id": "root_mit",
+    "id": "en_base_mit",
     "root": "mit",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1017,10 +1017,10 @@
         "sentence": "The permit allows entry."
       }
     ],
-    "relatedRootIds": ["root_miss"]
+    "relatedRootIds": ["en_base_miss"]
   },
   {
-    "id": "root_miss",
+    "id": "en_base_miss",
     "root": "miss",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1051,10 +1051,10 @@
         "sentence": "They will dismiss him."
       }
     ],
-    "relatedRootIds": ["root_mit"]
+    "relatedRootIds": ["en_base_mit"]
   },
   {
-    "id": "root_morph",
+    "id": "en_base_morph",
     "root": "morph",
     "type": "base",
     "languageOrigin": "Greek",
@@ -1088,7 +1088,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_mot",
+    "id": "en_base_mot",
     "root": "mot",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1119,10 +1119,10 @@
         "sentence": "Motivate the team to succeed."
       }
     ],
-    "relatedRootIds": ["root_mov"]
+    "relatedRootIds": ["en_base_mov"]
   },
   {
-    "id": "root_mov",
+    "id": "en_base_mov",
     "root": "mov",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1153,10 +1153,10 @@
         "sentence": "Remove the obstacle."
       }
     ],
-    "relatedRootIds": ["root_mot"]
+    "relatedRootIds": ["en_base_mot"]
   },
   {
-    "id": "root_path_2",
+    "id": "en_base_path_2",
     "root": "path",
     "type": "base",
     "languageOrigin": "Greek",
@@ -1190,7 +1190,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_phon",
+    "id": "en_base_phon",
     "root": "phon",
     "type": "base",
     "languageOrigin": "Greek",
@@ -1224,7 +1224,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_port",
+    "id": "en_base_port",
     "root": "port",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1258,7 +1258,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_pose",
+    "id": "en_base_pose",
     "root": "pose",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1289,10 +1289,10 @@
         "sentence": "Don't expose the film."
       }
     ],
-    "relatedRootIds": ["root_posit"]
+    "relatedRootIds": ["en_base_posit"]
   },
   {
-    "id": "root_posit",
+    "id": "en_base_posit",
     "root": "posit",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1323,10 +1323,10 @@
         "sentence": "Stay positive."
       }
     ],
-    "relatedRootIds": ["root_pose"]
+    "relatedRootIds": ["en_base_pose"]
   },
   {
-    "id": "root_psi",
+    "id": "en_base_psi",
     "root": "psych",
     "type": "base",
     "languageOrigin": "Greek",
@@ -1360,7 +1360,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_quest",
+    "id": "en_base_quest",
     "root": "quest",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1391,10 +1391,10 @@
         "sentence": "The inquest revealed new facts."
       }
     ],
-    "relatedRootIds": ["root_quis", "root_quer"]
+    "relatedRootIds": ["en_base_quis", "en_base_quer"]
   },
   {
-    "id": "root_quis",
+    "id": "en_base_quis",
     "root": "quis",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1425,10 +1425,10 @@
         "sentence": "He has an acquisitive nature."
       }
     ],
-    "relatedRootIds": ["root_quest", "root_quer"]
+    "relatedRootIds": ["en_base_quest", "en_base_quer"]
   },
   {
-    "id": "root_quer",
+    "id": "en_base_quer",
     "root": "quer",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1459,10 +1459,10 @@
         "sentence": "They plan to conquer new markets."
       }
     ],
-    "relatedRootIds": ["root_quest", "root_quis"]
+    "relatedRootIds": ["en_base_quest", "en_base_quis"]
   },
   {
-    "id": "root_scrib",
+    "id": "en_base_scrib",
     "root": "scrib",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1493,10 +1493,10 @@
         "sentence": "Inscribe the date here."
       }
     ],
-    "relatedRootIds": ["root_script"]
+    "relatedRootIds": ["en_base_script"]
   },
   {
-    "id": "root_script",
+    "id": "en_base_script",
     "root": "script",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1527,10 +1527,10 @@
         "sentence": "The doctor wrote a prescription."
       }
     ],
-    "relatedRootIds": ["root_scrib"]
+    "relatedRootIds": ["en_base_scrib"]
   },
   {
-    "id": "root_sec",
+    "id": "en_base_sec",
     "root": "sec",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1561,10 +1561,10 @@
         "sentence": "The lines intersect here."
       }
     ],
-    "relatedRootIds": ["root_sect"]
+    "relatedRootIds": ["en_base_sect"]
   },
   {
-    "id": "root_sect",
+    "id": "en_base_sect",
     "root": "sect",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1595,10 +1595,10 @@
         "sentence": "The technology sector is growing."
       }
     ],
-    "relatedRootIds": ["root_sec"]
+    "relatedRootIds": ["en_base_sec"]
   },
   {
-    "id": "root_sent",
+    "id": "en_base_sent",
     "root": "sent",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1629,10 +1629,10 @@
         "sentence": "She gave her consent."
       }
     ],
-    "relatedRootIds": ["root_sens"]
+    "relatedRootIds": ["en_base_sens"]
   },
   {
-    "id": "root_sens",
+    "id": "en_base_sens",
     "root": "sens",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1663,10 +1663,10 @@
         "sentence": "She is very sensitive."
       }
     ],
-    "relatedRootIds": ["root_sent"]
+    "relatedRootIds": ["en_base_sent"]
   },
   {
-    "id": "root_spec",
+    "id": "en_base_spec",
     "root": "spec",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1697,10 +1697,10 @@
         "sentence": "The spectator cheered."
       }
     ],
-    "relatedRootIds": ["root_spect"]
+    "relatedRootIds": ["en_base_spect"]
   },
   {
-    "id": "root_spect",
+    "id": "en_base_spect",
     "root": "spect",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1731,10 +1731,10 @@
         "sentence": "The prospect is good."
       }
     ],
-    "relatedRootIds": ["root_spec"]
+    "relatedRootIds": ["en_base_spec"]
   },
   {
-    "id": "root_struct",
+    "id": "en_base_struct",
     "root": "struct",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1768,7 +1768,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_tac",
+    "id": "en_base_tac",
     "root": "tact",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1799,10 +1799,10 @@
         "sentence": "Contact us for information."
       }
     ],
-    "relatedRootIds": ["root_tang"]
+    "relatedRootIds": ["en_base_tang"]
   },
   {
-    "id": "root_tang",
+    "id": "en_base_tang",
     "root": "tang",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1833,10 +1833,10 @@
         "sentence": "Draw a tangent line."
       }
     ],
-    "relatedRootIds": ["root_tac"]
+    "relatedRootIds": ["en_base_tac"]
   },
   {
-    "id": "root_tech",
+    "id": "en_base_tech",
     "root": "tech",
     "type": "base",
     "languageOrigin": "Greek",
@@ -1870,7 +1870,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_tele_2",
+    "id": "en_base_tele_2",
     "root": "tele",
     "type": "base",
     "languageOrigin": "Greek",
@@ -1904,7 +1904,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_temp",
+    "id": "en_base_temp",
     "root": "temp",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1938,7 +1938,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ten",
+    "id": "en_base_ten",
     "root": "ten",
     "type": "base",
     "languageOrigin": "Latin",
@@ -1969,10 +1969,10 @@
         "sentence": "Maintain your position."
       }
     ],
-    "relatedRootIds": ["root_tain", "root_tin"]
+    "relatedRootIds": ["en_base_tain", "en_base_tin"]
   },
   {
-    "id": "root_tain",
+    "id": "en_base_tain",
     "root": "tain",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2003,10 +2003,10 @@
         "sentence": "Retain your receipt."
       }
     ],
-    "relatedRootIds": ["root_ten", "root_tin"]
+    "relatedRootIds": ["en_base_ten", "en_base_tin"]
   },
   {
-    "id": "root_tin",
+    "id": "en_base_tin",
     "root": "tin",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2037,10 +2037,10 @@
         "sentence": "The content is interesting."
       }
     ],
-    "relatedRootIds": ["root_ten", "root_tain"]
+    "relatedRootIds": ["en_base_ten", "en_base_tain"]
   },
   {
-    "id": "root_tract",
+    "id": "en_base_tract",
     "root": "tract",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2074,7 +2074,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ven",
+    "id": "en_base_ven",
     "root": "ven",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2105,10 +2105,10 @@
         "sentence": "The meeting will convene."
       }
     ],
-    "relatedRootIds": ["root_vent"]
+    "relatedRootIds": ["en_base_vent"]
   },
   {
-    "id": "root_vent",
+    "id": "en_base_vent",
     "root": "vent",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2139,10 +2139,10 @@
         "sentence": "They will invent a new device."
       }
     ],
-    "relatedRootIds": ["root_ven"]
+    "relatedRootIds": ["en_base_ven"]
   },
   {
-    "id": "root_ver",
+    "id": "en_base_ver",
     "root": "ver",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2176,7 +2176,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_vers",
+    "id": "en_base_vers",
     "root": "vers",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2207,10 +2207,10 @@
         "sentence": "The group is diverse."
       }
     ],
-    "relatedRootIds": ["root_vert"]
+    "relatedRootIds": ["en_base_vert"]
   },
   {
-    "id": "root_vert",
+    "id": "en_base_vert",
     "root": "vert",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2241,10 +2241,10 @@
         "sentence": "They will advertise the product."
       }
     ],
-    "relatedRootIds": ["root_vers"]
+    "relatedRootIds": ["en_base_vers"]
   },
   {
-    "id": "root_vid",
+    "id": "en_base_vid",
     "root": "vid",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2275,10 +2275,10 @@
         "sentence": "The evidence is clear."
       }
     ],
-    "relatedRootIds": ["root_vis"]
+    "relatedRootIds": ["en_base_vis"]
   },
   {
-    "id": "root_vis",
+    "id": "en_base_vis",
     "root": "vis",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2309,10 +2309,10 @@
         "sentence": "Visit us soon."
       }
     ],
-    "relatedRootIds": ["root_vid"]
+    "relatedRootIds": ["en_base_vid"]
   },
   {
-    "id": "root_voc",
+    "id": "en_base_voc",
     "root": "voc",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2343,10 +2343,10 @@
         "sentence": "He advocates for change."
       }
     ],
-    "relatedRootIds": ["root_voke"]
+    "relatedRootIds": ["en_base_voke"]
   },
   {
-    "id": "root_voke",
+    "id": "en_base_voke",
     "root": "voke",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2377,10 +2377,10 @@
         "sentence": "They will revoke the license."
       }
     ],
-    "relatedRootIds": ["root_voc"]
+    "relatedRootIds": ["en_base_voc"]
   },
   {
-    "id": "root_volv",
+    "id": "en_base_volv",
     "root": "volv",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2411,10 +2411,10 @@
         "sentence": "The task will involve teamwork."
       }
     ],
-    "relatedRootIds": ["root_volu"]
+    "relatedRootIds": ["en_base_volu"]
   },
   {
-    "id": "root_volu",
+    "id": "en_base_volu",
     "root": "volu",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2445,10 +2445,10 @@
         "sentence": "Adjust the volume."
       }
     ],
-    "relatedRootIds": ["root_volv"]
+    "relatedRootIds": ["en_base_volv"]
   },
   {
-    "id": "root_agri",
+    "id": "en_base_agri",
     "root": "agri",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2482,7 +2482,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_alt",
+    "id": "en_base_alt",
     "root": "alt",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2516,7 +2516,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_am",
+    "id": "en_base_am",
     "root": "am",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2550,7 +2550,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_anim",
+    "id": "en_base_anim",
     "root": "anim",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2584,7 +2584,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ann",
+    "id": "en_base_ann",
     "root": "ann",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2618,7 +2618,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_apt",
+    "id": "en_base_apt",
     "root": "apt",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2652,7 +2652,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_aqu",
+    "id": "en_base_aqu",
     "root": "aqu",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2686,7 +2686,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_arch",
+    "id": "en_base_arch",
     "root": "arch",
     "type": "base",
     "languageOrigin": "Greek",
@@ -2720,7 +2720,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_aster",
+    "id": "en_base_aster",
     "root": "aster",
     "type": "base",
     "languageOrigin": "Greek",
@@ -2754,7 +2754,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_aut",
+    "id": "en_base_aut",
     "root": "aut",
     "type": "base",
     "languageOrigin": "Greek",
@@ -2788,7 +2788,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_bell",
+    "id": "en_base_bell",
     "root": "bell",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2822,7 +2822,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ben",
+    "id": "en_base_ben",
     "root": "ben",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2856,7 +2856,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_biblio",
+    "id": "en_base_biblio",
     "root": "biblio",
     "type": "base",
     "languageOrigin": "Greek",
@@ -2890,7 +2890,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ed",
+    "id": "en_base_ed",
     "root": "ed",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2921,10 +2921,10 @@
         "sentence": "The fruit was inedible."
       }
     ],
-    "relatedRootIds": ["root_ible", "root_in"]
+    "relatedRootIds": ["en_suffix_ible", "en_prefix_in"]
   },
   {
-    "id": "root_bib",
+    "id": "en_base_bib",
     "root": "bib",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2955,10 +2955,10 @@
         "sentence": "The beverage was cold."
       }
     ],
-    "relatedRootIds": ["root_im", "root_age"]
+    "relatedRootIds": ["en_prefix_im", "en_suffix_age"]
   },
   {
-    "id": "root_leg",
+    "id": "en_base_leg",
     "root": "leg",
     "type": "base",
     "languageOrigin": "Latin",
@@ -2989,10 +2989,10 @@
         "sentence": "The lecture was interesting."
       }
     ],
-    "relatedRootIds": ["root_ible", "root_ion"]
+    "relatedRootIds": ["en_suffix_ible", "en_suffix_ion"]
   },
   {
-    "id": "root_don",
+    "id": "en_base_don",
     "root": "don",
     "type": "base",
     "languageOrigin": "Latin",
@@ -3023,10 +3023,10 @@
         "sentence": "The donor was generous."
       }
     ],
-    "relatedRootIds": ["root_or", "root_ate"]
+    "relatedRootIds": ["en_suffix_or", "en_suffix_ate"]
   },
   {
-    "id": "root_sci",
+    "id": "en_base_sci",
     "root": "sci",
     "type": "base",
     "languageOrigin": "Latin",
@@ -3057,10 +3057,10 @@
         "sentence": "She is conscientious."
       }
     ],
-    "relatedRootIds": ["root_ence", "root_ious"]
+    "relatedRootIds": ["en_suffix_ence", "en_suffix_ious"]
   },
   {
-    "id": "root_cogit",
+    "id": "en_base_cogit",
     "root": "cogit",
     "type": "base",
     "languageOrigin": "Latin",
@@ -3091,10 +3091,10 @@
         "sentence": "Cogitation leads to clarity."
       }
     ],
-    "relatedRootIds": ["root_ate", "root_ation"]
+    "relatedRootIds": ["en_suffix_ate", "en_suffix_ation"]
   },
   {
-    "id": "root_cap",
+    "id": "en_base_cap",
     "root": "cap",
     "type": "base",
     "languageOrigin": "Latin",
@@ -3125,10 +3125,10 @@
         "sentence": "She is capable."
       }
     ],
-    "relatedRootIds": ["root_able", "root_ity", "root_ive"]
+    "relatedRootIds": ["en_suffix_able", "en_suffix_ity", "en_suffix_ive"]
   },
   {
-    "id": "root_labor",
+    "id": "en_base_labor",
     "root": "labor",
     "type": "base",
     "languageOrigin": "Latin",
@@ -3159,10 +3159,10 @@
         "sentence": "The task was laborious."
       }
     ],
-    "relatedRootIds": ["root_ory", "root_ious"]
+    "relatedRootIds": ["en_suffix_ory", "en_suffix_ious"]
   },
   {
-    "id": "root_stud",
+    "id": "en_base_stud",
     "root": "stud",
     "type": "base",
     "languageOrigin": "Latin",
@@ -3193,10 +3193,10 @@
         "sentence": "He is a studious student."
       }
     ],
-    "relatedRootIds": ["root_ious", "root_y"]
+    "relatedRootIds": ["en_suffix_ious", "en_suffix_y"]
   },
   {
-    "id": "root_chron_2",
+    "id": "en_base_chron_2",
     "root": "chron",
     "type": "base",
     "languageOrigin": "Greek",
@@ -3227,10 +3227,10 @@
         "sentence": "He has a chronic condition."
       }
     ],
-    "relatedRootIds": ["root_ics"]
+    "relatedRootIds": ["en_suffix_ics"]
   },
   {
-    "id": "root_therm",
+    "id": "en_base_therm",
     "root": "therm",
     "type": "base",
     "languageOrigin": "Greek",
@@ -3261,10 +3261,10 @@
         "sentence": "Wear thermal clothing in winter."
       }
     ],
-    "relatedRootIds": ["root_meter"]
+    "relatedRootIds": ["en_base_meter"]
   },
   {
-    "id": "root_hydr",
+    "id": "en_base_hydr",
     "root": "hydr",
     "type": "base",
     "languageOrigin": "Greek",
@@ -3298,7 +3298,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_meter",
+    "id": "en_base_meter",
     "root": "meter",
     "type": "base",
     "languageOrigin": "Greek",
@@ -3329,10 +3329,10 @@
         "sentence": "The barometer is falling."
       }
     ],
-    "relatedRootIds": ["root_therm"]
+    "relatedRootIds": ["en_base_therm"]
   },
   {
-    "id": "root_photo",
+    "id": "en_base_photo",
     "root": "photo",
     "type": "base",
     "languageOrigin": "Greek",
@@ -3363,6 +3363,6 @@
         "sentence": "Plants use photosynthesis."
       }
     ],
-    "relatedRootIds": ["root_graph_2"]
+    "relatedRootIds": ["en_base_graph_2"]
   }
 ]

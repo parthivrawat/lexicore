@@ -1,6 +1,6 @@
 [
   {
-    "id": "root_es_able",
+    "id": "es_suffix_able",
     "root": "-able",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -23,10 +23,10 @@
         "sentence": "El resultado es aceptable."
       }
     ],
-    "relatedRootIds": ["root_es_ible"]
+    "relatedRootIds": ["es_suffix_ible"]
   },
   {
-    "id": "root_es_ible",
+    "id": "es_suffix_ible",
     "root": "-ible",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -49,10 +49,10 @@
         "sentence": "Tu miedo es comprensible."
       }
     ],
-    "relatedRootIds": ["root_es_able"]
+    "relatedRootIds": ["es_suffix_able"]
   },
   {
-    "id": "root_es_ador",
+    "id": "es_suffix_ador",
     "root": "-ador",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -78,7 +78,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_aje",
+    "id": "es_suffix_aje",
     "root": "-aje",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -104,7 +104,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_anzo",
+    "id": "es_suffix_anzo",
     "root": "-azo",
     "type": "suffix",
     "languageOrigin": "Spanish",
@@ -130,7 +130,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_cion",
+    "id": "es_suffix_cion",
     "root": "-ción",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -153,10 +153,10 @@
         "sentence": "La acción fue rápida."
       }
     ],
-    "relatedRootIds": ["root_es_sion"]
+    "relatedRootIds": ["es_suffix_sion"]
   },
   {
-    "id": "root_es_sion",
+    "id": "es_suffix_sion",
     "root": "-sión",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -179,10 +179,10 @@
         "sentence": "Llegamos a una conclusión."
       }
     ],
-    "relatedRootIds": ["root_es_cion"]
+    "relatedRootIds": ["es_suffix_cion"]
   },
   {
-    "id": "root_es_dad",
+    "id": "es_suffix_dad",
     "root": "-dad",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -208,7 +208,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_ero",
+    "id": "es_suffix_ero",
     "root": "-ero",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -234,7 +234,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_ismo",
+    "id": "es_suffix_ismo",
     "root": "-ismo",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -260,7 +260,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_ista",
+    "id": "es_suffix_ista",
     "root": "-ista",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -283,10 +283,10 @@
         "sentence": "Es un artista famoso."
       }
     ],
-    "relatedRootIds": ["root_es_ismo"]
+    "relatedRootIds": ["es_suffix_ismo"]
   },
   {
-    "id": "root_es_ito",
+    "id": "es_suffix_ito",
     "root": "-ito",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -312,7 +312,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_mente",
+    "id": "es_suffix_mente",
     "root": "-mente",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -338,7 +338,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_oso",
+    "id": "es_suffix_oso",
     "root": "-oso",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -364,7 +364,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_anza",
+    "id": "es_suffix_anza",
     "root": "-anza",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -387,10 +387,10 @@
         "sentence": "Su alabanza fue sincera."
       }
     ],
-    "relatedRootIds": ["root_es_cion"]
+    "relatedRootIds": ["es_suffix_cion"]
   },
   {
-    "id": "root_es_ario",
+    "id": "es_suffix_ario",
     "root": "-ario",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -416,7 +416,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_cida",
+    "id": "es_suffix_cida",
     "root": "-cida",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -442,7 +442,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_ncia",
+    "id": "es_suffix_ncia",
     "root": "-ncia",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -468,7 +468,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_triz",
+    "id": "es_suffix_triz",
     "root": "-triz",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -491,10 +491,10 @@
         "sentence": "La conductriz manejaba bien."
       }
     ],
-    "relatedRootIds": ["root_es_ador"]
+    "relatedRootIds": ["es_suffix_ador"]
   },
   {
-    "id": "root_es_al",
+    "id": "es_suffix_al",
     "root": "-al",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -520,7 +520,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_eria",
+    "id": "es_suffix_eria",
     "root": "-ería",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -543,10 +543,10 @@
         "sentence": "Voy a la zapatería."
       }
     ],
-    "relatedRootIds": ["root_es_ero"]
+    "relatedRootIds": ["es_suffix_ero"]
   },
   {
-    "id": "root_es_eza",
+    "id": "es_suffix_eza",
     "root": "-eza",
     "type": "suffix",
     "languageOrigin": "Latin",
@@ -569,10 +569,10 @@
         "sentence": "La tristeza es profunda."
       }
     ],
-    "relatedRootIds": ["root_es_dad"]
+    "relatedRootIds": ["es_suffix_dad"]
   },
   {
-    "id": "root_es_itis",
+    "id": "es_suffix_itis",
     "root": "-itis",
     "type": "suffix",
     "languageOrigin": "Greek",
@@ -598,7 +598,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_es_fono",
+    "id": "es_suffix_fono",
     "root": "-fono",
     "type": "suffix",
     "languageOrigin": "Greek",

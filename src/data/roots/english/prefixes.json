@@ -1,6 +1,6 @@
 [
   {
-    "id": "root_a",
+    "id": "en_prefix_a",
     "root": "a-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -34,7 +34,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_an",
+    "id": "en_prefix_an",
     "root": "an-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -65,10 +65,10 @@
         "sentence": "The patient was under anaesthesia."
       }
     ],
-    "relatedRootIds": ["root_a"]
+    "relatedRootIds": ["en_prefix_a"]
   },
   {
-    "id": "root_anti",
+    "id": "en_prefix_anti",
     "root": "anti-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -102,7 +102,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_auto",
+    "id": "en_prefix_auto",
     "root": "auto-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -136,7 +136,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_bene",
+    "id": "en_prefix_bene",
     "root": "bene-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -167,10 +167,10 @@
         "sentence": "She has a benevolent nature."
       }
     ],
-    "relatedRootIds": ["root_bon"]
+    "relatedRootIds": ["en_prefix_bon"]
   },
   {
-    "id": "root_bon",
+    "id": "en_prefix_bon",
     "root": "bon-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -201,10 +201,10 @@
         "sentence": "This is a bona fide offer."
       }
     ],
-    "relatedRootIds": ["root_bene"]
+    "relatedRootIds": ["en_prefix_bene"]
   },
   {
-    "id": "root_bio",
+    "id": "en_prefix_bio",
     "root": "bio-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -235,10 +235,10 @@
         "sentence": "She read a biography of Marie Curie."
       }
     ],
-    "relatedRootIds": ["root_geo"]
+    "relatedRootIds": ["en_prefix_geo"]
   },
   {
-    "id": "root_circum",
+    "id": "en_prefix_circum",
     "root": "circum-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -272,7 +272,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_con",
+    "id": "en_prefix_con",
     "root": "con-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -303,10 +303,10 @@
         "sentence": "People congregate in the square."
       }
     ],
-    "relatedRootIds": ["root_com"]
+    "relatedRootIds": ["en_prefix_com"]
   },
   {
-    "id": "root_com",
+    "id": "en_prefix_com",
     "root": "com-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -337,10 +337,10 @@
         "sentence": "She loves her community."
       }
     ],
-    "relatedRootIds": ["root_con"]
+    "relatedRootIds": ["en_prefix_con"]
   },
   {
-    "id": "root_de",
+    "id": "en_prefix_de",
     "root": "de-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -374,7 +374,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_dia",
+    "id": "en_prefix_dia",
     "root": "dia-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -408,7 +408,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_dys",
+    "id": "en_prefix_dys",
     "root": "dys-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -442,7 +442,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_eu",
+    "id": "en_prefix_eu",
     "root": "eu-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -476,7 +476,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ex",
+    "id": "en_prefix_ex",
     "root": "ex-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -507,10 +507,10 @@
         "sentence": "They export goods worldwide."
       }
     ],
-    "relatedRootIds": ["root_e"]
+    "relatedRootIds": ["en_prefix_e"]
   },
   {
-    "id": "root_e",
+    "id": "en_prefix_e",
     "root": "e-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -541,10 +541,10 @@
         "sentence": "The volcano may erupt."
       }
     ],
-    "relatedRootIds": ["root_ex"]
+    "relatedRootIds": ["en_prefix_ex"]
   },
   {
-    "id": "root_extra",
+    "id": "en_prefix_extra",
     "root": "extra-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -578,7 +578,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_geo",
+    "id": "en_prefix_geo",
     "root": "geo-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -609,10 +609,10 @@
         "sentence": "Geology explains rock formations."
       }
     ],
-    "relatedRootIds": ["root_bio"]
+    "relatedRootIds": ["en_prefix_bio"]
   },
   {
-    "id": "root_hyper",
+    "id": "en_prefix_hyper",
     "root": "hyper-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -646,7 +646,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_hypo",
+    "id": "en_prefix_hypo",
     "root": "hypo-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -700,7 +700,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_in",
+    "id": "en_prefix_in",
     "root": "in-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -751,10 +751,10 @@
         "sentence": "She will inherit the fortune."
       }
     ],
-    "relatedRootIds": ["root_im", "root_il", "root_ir"]
+    "relatedRootIds": ["en_prefix_im", "en_prefix_il", "en_prefix_ir"]
   },
   {
-    "id": "root_il",
+    "id": "en_prefix_il",
     "root": "il-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -805,10 +805,10 @@
         "sentence": "The claim was illegitimate."
       }
     ],
-    "relatedRootIds": ["root_in", "root_ir"]
+    "relatedRootIds": ["en_prefix_in", "en_prefix_ir"]
   },
   {
-    "id": "root_ir",
+    "id": "en_prefix_ir",
     "root": "ir-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -849,10 +849,10 @@
         "sentence": "The differences are irreconcilable."
       }
     ],
-    "relatedRootIds": ["root_il"]
+    "relatedRootIds": ["en_prefix_il"]
   },
   {
-    "id": "root_inter",
+    "id": "en_prefix_inter",
     "root": "inter-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -923,10 +923,10 @@
         "sentence": "The bridge will interconnect the islands."
       }
     ],
-    "relatedRootIds": ["root_inter"]
+    "relatedRootIds": ["en_prefix_inter"]
   },
   {
-    "id": "root_intra",
+    "id": "en_prefix_intra",
     "root": "intra-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -972,10 +972,10 @@
         "sentence": "The disease affects intracellular structures."
       }
     ],
-    "relatedRootIds": ["root_in"]
+    "relatedRootIds": ["en_prefix_in"]
   },
   {
-    "id": "root_macro",
+    "id": "en_prefix_macro",
     "root": "macro-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -1006,10 +1006,10 @@
         "sentence": "It's visible on a macroscopic level."
       }
     ],
-    "relatedRootIds": ["root_micro"]
+    "relatedRootIds": ["en_prefix_micro"]
   },
   {
-    "id": "root_micro",
+    "id": "en_prefix_micro",
     "root": "micro-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -1050,10 +1050,10 @@
         "sentence": "The surgeon performed microsurgery."
       }
     ],
-    "relatedRootIds": ["root_micro"]
+    "relatedRootIds": ["en_prefix_micro"]
   },
   {
-    "id": "root_mal",
+    "id": "en_prefix_mal",
     "root": "mal-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1084,10 +1084,10 @@
         "sentence": "Malnutrition affects development."
       }
     ],
-    "relatedRootIds": ["root_mal"]
+    "relatedRootIds": ["en_prefix_mal"]
   },
   {
-    "id": "root_meta",
+    "id": "en_prefix_meta",
     "root": "meta-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -1118,10 +1118,10 @@
         "sentence": "The file contains metadata."
       }
     ],
-    "relatedRootIds": ["root_meta"]
+    "relatedRootIds": ["en_prefix_meta"]
   },
   {
-    "id": "root_mis",
+    "id": "en_prefix_mis",
     "root": "mis-",
     "type": "prefix",
     "languageOrigin": "Old English",
@@ -1152,10 +1152,10 @@
         "sentence": "She suffered misfortune."
       }
     ],
-    "relatedRootIds": ["root_mis"]
+    "relatedRootIds": ["en_prefix_mis"]
   },
   {
-    "id": "root_mono",
+    "id": "en_prefix_mono",
     "root": "mono-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -1186,10 +1186,10 @@
         "sentence": "The photo is monochrome."
       }
     ],
-    "relatedRootIds": ["root_poly"]
+    "relatedRootIds": ["en_prefix_poly"]
   },
   {
-    "id": "root_multi",
+    "id": "en_prefix_multi",
     "root": "multi-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1230,10 +1230,10 @@
         "sentence": "The city is multicultural."
       }
     ],
-    "relatedRootIds": ["root_multi"]
+    "relatedRootIds": ["en_prefix_multi"]
   },
   {
-    "id": "root_non",
+    "id": "en_prefix_non",
     "root": "non-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1264,10 +1264,10 @@
         "sentence": "The flight was nonstop."
       }
     ],
-    "relatedRootIds": ["root_non"]
+    "relatedRootIds": ["en_prefix_non"]
   },
   {
-    "id": "root_omni",
+    "id": "en_prefix_omni",
     "root": "omni-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1298,10 +1298,10 @@
         "sentence": "The narrator seems omniscient."
       }
     ],
-    "relatedRootIds": ["root_omni"]
+    "relatedRootIds": ["en_prefix_omni"]
   },
   {
-    "id": "root_over",
+    "id": "en_prefix_over",
     "root": "over-",
     "type": "prefix",
     "languageOrigin": "Old English",
@@ -1332,10 +1332,10 @@
         "sentence": "Don't overestimate your abilities."
       }
     ],
-    "relatedRootIds": ["root_over"]
+    "relatedRootIds": ["en_prefix_over"]
   },
   {
-    "id": "root_para",
+    "id": "en_prefix_para",
     "root": "para-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -1371,10 +1371,10 @@
         "sentence": "His paradox was confusing."
       }
     ],
-    "relatedRootIds": ["root_para"]
+    "relatedRootIds": ["en_prefix_para"]
   },
   {
-    "id": "root_per",
+    "id": "en_prefix_per",
     "root": "per-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1405,10 +1405,10 @@
         "sentence": "The change is permanent."
       }
     ],
-    "relatedRootIds": ["root_per"]
+    "relatedRootIds": ["en_prefix_per"]
   },
   {
-    "id": "root_post",
+    "id": "en_prefix_post",
     "root": "post-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1439,10 +1439,10 @@
         "sentence": "They postponed the meeting."
       }
     ],
-    "relatedRootIds": ["root_post"]
+    "relatedRootIds": ["en_prefix_post"]
   },
   {
-    "id": "root_pre",
+    "id": "en_prefix_pre",
     "root": "pre-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1473,10 +1473,10 @@
         "sentence": "Prepare for exam."
       }
     ],
-    "relatedRootIds": ["root_pre"]
+    "relatedRootIds": ["en_prefix_pre"]
   },
   {
-    "id": "root_pro",
+    "id": "en_prefix_pro",
     "root": "pro-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1507,10 +1507,10 @@
         "sentence": "The engine will propel the car."
       }
     ],
-    "relatedRootIds": ["root_pro"]
+    "relatedRootIds": ["en_prefix_pro"]
   },
   {
-    "id": "root_pseudo",
+    "id": "en_prefix_pseudo",
     "root": "pseudo-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -1544,7 +1544,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_re",
+    "id": "en_prefix_re",
     "root": "re-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1578,7 +1578,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_semi",
+    "id": "en_prefix_semi",
     "root": "semi-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1612,7 +1612,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_sub",
+    "id": "en_prefix_sub",
     "root": "sub-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1643,10 +1643,10 @@
         "sentence": "Take the subway to work."
       }
     ],
-    "relatedRootIds": ["root_sup"]
+    "relatedRootIds": ["en_prefix_sup"]
   },
   {
-    "id": "root_sup",
+    "id": "en_prefix_sup",
     "root": "sup-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1677,10 +1677,10 @@
         "sentence": "The event seemed supernatural."
       }
     ],
-    "relatedRootIds": ["root_sub"]
+    "relatedRootIds": ["en_prefix_sub"]
   },
   {
-    "id": "root_super",
+    "id": "en_prefix_super",
     "root": "super-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1711,10 +1711,10 @@
         "sentence": "Report to your supervisor."
       }
     ],
-    "relatedRootIds": ["root_sub"]
+    "relatedRootIds": ["en_prefix_sub"]
   },
   {
-    "id": "root_syn",
+    "id": "en_prefix_syn",
     "root": "syn-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -1745,10 +1745,10 @@
         "sentence": "Synchronize your watches."
       }
     ],
-    "relatedRootIds": ["root_sym"]
+    "relatedRootIds": ["en_prefix_sym"]
   },
   {
-    "id": "root_sym",
+    "id": "en_prefix_sym",
     "root": "sym-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -1779,10 +1779,10 @@
         "sentence": "She showed great sympathy."
       }
     ],
-    "relatedRootIds": ["root_syn"]
+    "relatedRootIds": ["en_prefix_syn"]
   },
   {
-    "id": "root_tele",
+    "id": "en_prefix_tele",
     "root": "tele-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -1816,7 +1816,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_trans",
+    "id": "en_prefix_trans",
     "root": "trans-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -1850,7 +1850,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_un",
+    "id": "en_prefix_un",
     "root": "un-",
     "type": "prefix",
     "languageOrigin": "Old English",
@@ -1884,7 +1884,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_under",
+    "id": "en_prefix_under",
     "root": "under-",
     "type": "prefix",
     "languageOrigin": "Old English",
@@ -1918,7 +1918,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_up",
+    "id": "en_prefix_up",
     "root": "up-",
     "type": "prefix",
     "languageOrigin": "Old English",
@@ -1952,7 +1952,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_chron",
+    "id": "en_prefix_chron",
     "root": "chron-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -1986,7 +1986,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_contra",
+    "id": "en_prefix_contra",
     "root": "contra-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -2020,7 +2020,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_deca",
+    "id": "en_prefix_deca",
     "root": "deca-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -2054,7 +2054,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_demi",
+    "id": "en_prefix_demi",
     "root": "demi-",
     "type": "prefix",
     "languageOrigin": "French/Latin",
@@ -2088,7 +2088,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_dis",
+    "id": "en_prefix_dis",
     "root": "dis-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -2122,7 +2122,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_en",
+    "id": "en_prefix_",
     "root": "en-",
     "type": "prefix",
     "languageOrigin": "Latin/French",
@@ -2156,7 +2156,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_exo",
+    "id": "en_prefix_exo",
     "root": "exo-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -2190,7 +2190,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_fore",
+    "id": "en_prefix_fore",
     "root": "fore-",
     "type": "prefix",
     "languageOrigin": "Old English",
@@ -2224,7 +2224,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_hetero",
+    "id": "en_prefix_hetero",
     "root": "hetero-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -2258,7 +2258,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_homo",
+    "id": "en_prefix_homo",
     "root": "homo-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -2292,7 +2292,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_im",
+    "id": "en_prefix_im",
     "root": "im-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -2326,7 +2326,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_mid",
+    "id": "en_prefix_mid",
     "root": "mid-",
     "type": "prefix",
     "languageOrigin": "Old English",
@@ -2360,7 +2360,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_milli",
+    "id": "en_prefix_milli",
     "root": "milli-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -2394,7 +2394,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_mini",
+    "id": "en_prefix_mini",
     "root": "mini-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -2428,7 +2428,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_neo",
+    "id": "en_prefix_neo",
     "root": "neo-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -2462,7 +2462,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_pan",
+    "id": "en_prefix_pan",
     "root": "pan-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -2496,7 +2496,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_peri",
+    "id": "en_prefix_peri",
     "root": "peri-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -2530,7 +2530,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_poly",
+    "id": "en_prefix_poly",
     "root": "poly-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -2564,7 +2564,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_quad",
+    "id": "en_prefix_quad",
     "root": "quad-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -2598,7 +2598,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_quasi",
+    "id": "en_prefix_quasi",
     "root": "quasi-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -2632,7 +2632,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_retro",
+    "id": "en_prefix_retro",
     "root": "retro-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -2666,7 +2666,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_tri",
+    "id": "en_prefix_tri",
     "root": "tri-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -2700,7 +2700,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ultra",
+    "id": "en_prefix_ultra",
     "root": "ultra-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -2734,7 +2734,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_uni",
+    "id": "en_prefix_uni",
     "root": "uni-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -2768,7 +2768,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ambi",
+    "id": "en_prefix_ambi",
     "root": "ambi-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -2802,7 +2802,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_ante",
+    "id": "en_prefix_ante",
     "root": "ante-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -2833,10 +2833,10 @@
         "sentence": "The antecedent events shaped history."
       }
     ],
-    "relatedRootIds": ["root_pre"]
+    "relatedRootIds": ["en_prefix_pre"]
   },
   {
-    "id": "root_counter",
+    "id": "en_prefix_counter",
     "root": "counter-",
     "type": "prefix",
     "languageOrigin": "Latin",
@@ -2870,7 +2870,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_epi",
+    "id": "en_prefix_epi",
     "root": "epi-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -2904,7 +2904,7 @@
     "relatedRootIds": []
   },
   {
-    "id": "root_hemi",
+    "id": "en_prefix_hemi",
     "root": "hemi-",
     "type": "prefix",
     "languageOrigin": "Greek",
@@ -2935,6 +2935,6 @@
         "sentence": "Hemiplegia affects one side."
       }
     ],
-    "relatedRootIds": ["root_semi"]
+    "relatedRootIds": ["en_prefix_semi"]
   }
 ]
